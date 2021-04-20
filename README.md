@@ -23,6 +23,12 @@ The files packed inside the `.bin` each have one its filenames...
 Some system files do have their names in the ELF.
 Those numbers are not random, they are the hash of the filename string, as per the above function.
 
+For example, it's actually pretty trivial to "detach" this game, from Phantasia X, resulting in 2 independent ISO's.
+> It's just another self inside the game?
+
+Then alpha-out the Phantasia X logo from the menu...and voila!
+The game's engine simply reloads the menu if you still try to access it.
+
 ## Links
 - https://talesofnaridanx.weebly.com/downloads.html
 - http://www.mediafire.com/file/g83m35bh2ju746s/top_patch_v012.rar/file
