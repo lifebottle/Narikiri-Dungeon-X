@@ -31,6 +31,7 @@ The game's engine simply reloads the menu if you still try to access it.
 
 ## Links
 - https://talesofnaridanx.weebly.com/downloads.html
+- https://www.youtube.com/user/Crevox/videos
 - http://www.mediafire.com/file/g83m35bh2ju746s/top_patch_v012.rar/file
 
 ## Credits
