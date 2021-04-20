@@ -34,4 +34,6 @@ The game's engine simply reloads the menu if you still try to access it.
 - http://www.mediafire.com/file/g83m35bh2ju746s/top_patch_v012.rar/file
 
 ## Credits
-- Thanks to Sky for donating resources to get started
+- Thanks to `Sky` for donating resources to get started
+- Thanks to `crevox` for permission to use their menu patch
+- Thanks to `kevassa` for permission to use their English translation script
