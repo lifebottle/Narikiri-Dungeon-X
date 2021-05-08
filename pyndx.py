@@ -51,3 +51,28 @@ def get_eboot_gim():
     extract_files(0x208C10,0x208D9F,"09.gim")
     extract_files(0x208DA0,0x2090FF,"10.gim")
     
+def extract_all_files(start,end,filename):
+ 
+    input_file = open('all.dat', 'rb')
+
+    input_file.seek(start)
+    data2 = input_file.read(end - start)
+    output_file02 = open(filename, 'wb')
+    output_file02.write(data2)
+    output_file02.close()
+
+    input_file.close()
+
+
+def get_all_movie():
+    extract_all_files(0x00348000,0x01494800,"op.pmf")
+    extract_all_files(0x18BE4000,0x1A717000,"ed.pmf")
+    extract_all_files(0x1A717000,0x1A8AB000,"fl.pmf")
+    extract_all_files(0x1A8AB000,0x1AA1C800,"ev1.pmf")
+    extract_all_files(0x1AA1C800,0x1AC5D800,"ev2.pmf")
+    extract_all_files(0x1AC5D800,0x1B08B800,"ev3.pmf")
+    extract_all_files(0x1B08B800,0x1B41C000,"ev4.pmf")
+    extract_all_files(0x1B41C000,0x1B612000,"ev5.pmf")
+    extract_all_files(0x1B612000,0x1B741000,"ev6.pmf")
+    extract_all_files(0x1B741000,0x1B882800,"ev7.pmf")
+    extract_all_files(0x27988800,0x2A78B000,"ev4_2.pmf")
