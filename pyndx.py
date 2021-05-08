@@ -19,3 +19,10 @@ def extract_filenames():
         
     output_file.close()
     input_file.close()
+
+
+def filename_hash(file_name):
+    name_hash = 0
+    for char in list(file_name):
+        name_hash = ((name_hash << 7) + name_hash) + (name_hash << 3) + ord(char)
+    return ("%X" % name_hash)
