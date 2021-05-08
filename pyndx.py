@@ -20,12 +20,23 @@ def extract_filenames():
     output_file.close()
     input_file.close()
 
-
+"""
 def filename_hash(file_name):
     name_hash = 0
     for char in list(file_name):
         name_hash = ((name_hash << 7) + name_hash) + (name_hash << 3) + ord(char)
     return ("%X" % name_hash)
+"""
+
+def get_hash(file_name):
+    name_hash = 0
+    for char in list(file_name.upper()):
+        name_hash = ((name_hash << 7) + name_hash) + (name_hash << 3) + ord(char)
+    return name_hash & 0xFFFFFFFF
+
+    file_name = "movie/op.pmf"
+    print("%X" % get_hash(file_name))
+
 
 def extract_files(start,end,filename):
  
@@ -38,6 +49,10 @@ def extract_files(start,end,filename):
     output_file01.close()
 
     input_file.close()
+
+
+
+
 
 def get_eboot_gim():
     extract_files(0x205970,0x206B9F,"01.gim")
