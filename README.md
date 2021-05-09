@@ -55,6 +55,9 @@ It's just a set of `gim` files. You can't find them using the GE debugger though
 Just find the font name in the exe, hash it and get the font from the bigfile with its offset and size
 Decode the gim and that's it
 
+## Hacker Note 5
+Files with `MSCF` in the header are Microsoft CAB Files and can be extracted in Windows with `EXPAND file.cab -F` and packed with `MAKECAB`.  For example, Chat files have .bin extension but can be extracted like a CAB file.  Furthermore, after extract chat file, the resulting .dat file is a PAK3 file that can be extracted with pakcomposer.
+
 ## Links
 - https://talesofnaridanx.weebly.com/downloads.html
 - https://www.youtube.com/user/Crevox/videos
