@@ -1,5 +1,6 @@
 # Narikiri Dungeon X
-An attempt to create a patch for Narikiri Dungeon X (PSP).
+An attempt to create a patch for Narikiri Dungeon X (PSP).  
+https://docs.google.com/spreadsheets/d/1S1RwcAVeOqBEnIhfU2z7ZVff2C3vqwJ1tvNcy_qHZ6w/edit#gid=0
 
 ## Hacker Note 1
 Here is one interesting snip, might be useful for Narikiri Dungeon X...  
