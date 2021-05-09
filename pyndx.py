@@ -32,10 +32,10 @@ def get_hash(file_name):
     name_hash = 0
     for char in list(file_name.upper()):
         name_hash = ((name_hash << 7) + name_hash) + (name_hash << 3) + ord(char)
-    return name_hash & 0xFFFFFFFF
+    return ("%X" % (name_hash & 0xFFFFFFFF))
 
-    file_name = "movie/op.pmf"
-    print("%X" % get_hash(file_name))
+    #print("%X" % get_hash(file_name))
+    #file_name = "sysdata/font1.gim"
 
 
 def extract_files(start,end,filename):
@@ -91,3 +91,31 @@ def get_all_movie():
     extract_all_files(0x1B612000,0x1B741000,"ev6.pmf")
     extract_all_files(0x1B741000,0x1B882800,"ev7.pmf")
     extract_all_files(0x27988800,0x2A78B000,"ev4_2.pmf")
+
+
+import struct
+
+def extract_files(start,size,filename): 
+    input_file = open('all.dat', 'rb')
+
+    input_file.seek(start, 0)
+    data1 = input_file.read(size)
+    output_file01 = open(filename, 'wb')
+    output_file01.write(data1)
+    output_file01.close()
+
+    input_file.close()
+
+def extract_all_dat():
+    eboot = open('ULJS00293.BIN', 'rb')
+    eboot.seek(0x1FF624)
+    while True:
+        file_info = struct.unpack('<3I', eboot.read(12))
+        if(file_info[2] == 0):
+            break
+        extract_files(file_info[0],file_info[1],"%4X" % file_info[2])
+        print("%4X" % file_info[2])
+
+    
+
+
