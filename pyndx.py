@@ -1,10 +1,19 @@
-#Extracts filenames to text
-offset_start = 0x187AD0
-offset_end = 0x18C41F
+from tkinter import *
+from tkinter import filedialog
+import tkinter.messagebox as box
+
+import webbrowser
+
+def callback(url):
+    webbrowser.open_new(url)
 
 def extract_filenames():
     input_file = open('ULJS00293.BIN', 'rb')
     output_file = open('filenames.txt', 'w')
+
+    #Extracts filenames to text
+    offset_start = 0x187AD0
+    offset_end = 0x18C41F
 
     input_file.seek(offset_start)
     data = input_file.read(offset_end - offset_start)
@@ -20,14 +29,6 @@ def extract_filenames():
     output_file.close()
     input_file.close()
 
-"""
-def filename_hash(file_name):
-    name_hash = 0
-    for char in list(file_name):
-        name_hash = ((name_hash << 7) + name_hash) + (name_hash << 3) + ord(char)
-    return ("%X" % name_hash)
-"""
-
 def get_hash(file_name):
     name_hash = 0
     for char in list(file_name.upper()):
@@ -37,9 +38,7 @@ def get_hash(file_name):
     #print("%X" % get_hash(file_name))
     #file_name = "sysdata/font1.gim"
 
-
 def extract_files(start,end,filename):
- 
     input_file = open('ULJS00293.BIN', 'rb')
 
     input_file.seek(start)
@@ -49,10 +48,6 @@ def extract_files(start,end,filename):
     output_file01.close()
 
     input_file.close()
-
-
-
-
 
 def get_eboot_gim():
     extract_files(0x205970,0x206B9F,"01.gim")
@@ -65,57 +60,25 @@ def get_eboot_gim():
     extract_files(0x208340,0x208C0F,"08.gim")
     extract_files(0x208C10,0x208D9F,"09.gim")
     extract_files(0x208DA0,0x2090FF,"10.gim")
-    
-def extract_all_files(start,end,filename):
- 
-    input_file = open('all.dat', 'rb')
 
-    input_file.seek(start)
-    data2 = input_file.read(end - start)
-    output_file02 = open(filename, 'wb')
-    output_file02.write(data2)
-    output_file02.close()
+"""
+Graphical Interface Start
+"""
 
-    input_file.close()
+from topx import *
 
+window = Tk()
+#window.iconbitmap("favicon.ico")
+window.title("PyNDX - Tales of Phantasia: Narikiri Dungeon X Utility")
 
-def get_all_movie():
-    extract_all_files(0x00348000,0x01494800,"op.pmf")
-    extract_all_files(0x18BE4000,0x1A717000,"ed.pmf")
-    extract_all_files(0x1A717000,0x1A8AB000,"fl.pmf")
-    extract_all_files(0x1A8AB000,0x1AA1C800,"ev1.pmf")
-    extract_all_files(0x1AA1C800,0x1AC5D800,"ev2.pmf")
-    extract_all_files(0x1AC5D800,0x1B08B800,"ev3.pmf")
-    extract_all_files(0x1B08B800,0x1B41C000,"ev4.pmf")
-    extract_all_files(0x1B41C000,0x1B612000,"ev5.pmf")
-    extract_all_files(0x1B612000,0x1B741000,"ev6.pmf")
-    extract_all_files(0x1B741000,0x1B882800,"ev7.pmf")
-    extract_all_files(0x27988800,0x2A78B000,"ev4_2.pmf")
+label = Label(window, text = "PyNDX Utility Extracts Files from PSP game Narikiri Dungeon X")
+label.grid(row=0, column=0, columnspan=4)
+
+frame1 = LabelFrame(window, text="Extract", padx=5, pady=5)
+frame1.grid(row=1, column=0, padx=10, pady=10)
+
+btn_unpackFPB = Button(frame1, text="Extract all.dat", command = extract_all_dat)
+btn_unpackFPB.grid(row=0, column=0)
 
 
-import struct
-
-def extract_files(start,size,filename): 
-    input_file = open('all.dat', 'rb')
-
-    input_file.seek(start, 0)
-    data1 = input_file.read(size)
-    output_file01 = open(filename, 'wb')
-    output_file01.write(data1)
-    output_file01.close()
-
-    input_file.close()
-
-def extract_all_dat():
-    eboot = open('ULJS00293.BIN', 'rb')
-    eboot.seek(0x1FF624)
-    while True:
-        file_info = struct.unpack('<3I', eboot.read(12))
-        if(file_info[2] == 0):
-            break
-        extract_files(file_info[0],file_info[1],"%4X" % file_info[2])
-        print("%4X" % file_info[2])
-
-    
-
-
+window.mainloop()
