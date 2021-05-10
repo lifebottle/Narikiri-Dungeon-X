@@ -57,8 +57,8 @@ def extract_all_dat():
         file_info = struct.unpack('<3I', eboot.read(12))
         if(file_info[2] == 0):
             break
-        extract_files(file_info[0], file_info[1], "%4X" % file_info[2])
-        print("%4X" % file_info[2])
+        extract_files(file_info[0], file_info[1], "%08X" % file_info[2])
+        print("%08X" % file_info[2])
 
 if __name__ == '__main__':
     extract_all_dat()
