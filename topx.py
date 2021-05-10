@@ -1,4 +1,5 @@
 import struct, os, sys, json
+#from fps4 import *
 
 json_file = open('hashes.json', 'r')
 hashes = json.load(json_file)
