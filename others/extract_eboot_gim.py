@@ -1,0 +1,11 @@
+def get_eboot_gim():
+    extract_files(0x205970,0x206B9F,"01.gim")
+    extract_files(0x206BA0,0x20796F,"02.gim")
+    extract_files(0x207970,0x207BFF,"03.gim")
+    extract_files(0x207C00,0x207E8F,"04.gim")
+    extract_files(0x207E90,0x20801F,"05.gim")
+    extract_files(0x208020,0x2081AF,"06.gim")
+    extract_files(0x2081B0,0x20833F,"07.gim")
+    extract_files(0x208340,0x208C0F,"08.gim")
+    extract_files(0x208C10,0x208D9F,"09.gim")
+    extract_files(0x208DA0,0x2090FF,"10.gim")

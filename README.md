@@ -60,6 +60,12 @@ Decode the gim and that's it
 ## Hacker Note 5
 Files with `MSCF` in the header are Microsoft CAB Files and can be extracted in Windows with `EXPAND file.cab -F` and packed with `MAKECAB`.  For example, Chat files have .bin extension but can be extracted like a CAB file.  Furthermore, after extract chat file, the resulting .dat file is a PAK3 file that can be extracted with pakcomposer.
 
+## Hacker Note 6
+Re-pack scenario/script CAB files with the following:  
+`makecab /D CompressionType=LZX /D CompressionMemory=15 /D ReservePerCabinetSize=8 ar.dat cab.cab`  
+
+While not required, update CAB identity to `4392`.  Do this by hex editing CAB file at `0x20` and `0x21` from `00 00` to `28 11`.
+
 ## Links
 - https://talesofnaridanx.weebly.com/downloads.html
 - https://www.youtube.com/user/Crevox/videos
