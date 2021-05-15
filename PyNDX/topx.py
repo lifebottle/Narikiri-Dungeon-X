@@ -3,7 +3,7 @@ import struct, os, sys, json, subprocess
 
 # True to extract files with names
 # False so extract files with hashes
-extract_names = False
+extract_names = True
 
 json_file = open('hashes.json', 'r')
 hashes = json.load(json_file)

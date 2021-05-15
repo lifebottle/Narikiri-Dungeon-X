@@ -1,3 +1,5 @@
+#pyinstaller --onefile --noconsole --icon favicon.ico PyNDX.py
+
 from tkinter import *
 from tkinter import filedialog
 import tkinter.messagebox as box
