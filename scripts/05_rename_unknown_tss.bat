@@ -1,0 +1,2 @@
+rename *.unknown *.tss
+pause
