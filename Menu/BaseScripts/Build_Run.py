@@ -5,7 +5,7 @@ Created on Fri Feb 12 21:14:08 2021
 @author: Steven
 """
 import sys
-from HelperFunctions import *
+from Helperfunctions import *
 
 
 
@@ -13,21 +13,22 @@ from HelperFunctions import *
 if __name__ == "__main__":
     
     #Parameters
-    fileName = sys.argv[1]
-    n = int(sys.argv[2])
-    startPoint = sys.argv[3]
-    step= int(sys.argv[4])
-    nbObject = int(sys.argv[5])
+    sourceFile = sys.argv[1]
+    newFileName = sys.argv[2]
+    n = int(sys.argv[3])
+    startPoint = sys.argv[4]
+    step= int(sys.argv[5])
+    nbObject = int(sys.argv[6])
     
-    helper = HelperFunctions()
-    helper.PointerHeader = sys.argv[6]
+    helper = Helper()
+    helper.PointerHeader = sys.argv[7]
     
 
     #Create the script
-    helper.createScript(fileName+"_script.txt", n, startPoint, step, nbObject)
+    helper.createScript(newFileName+"_script.txt", n, startPoint, step, nbObject)
     
     #Run the script
-    helper.runscript(fileName)
+    helper.runscript(sourceFile, newFileName)
     
     #Clean the dump file
-    helper.cleanDump(fileName+"_dump.txt")
+    helper.cleanDump(newFileName+"_dump.txt")

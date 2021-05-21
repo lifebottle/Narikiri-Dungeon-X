@@ -14,30 +14,8 @@ class Helper:
     def __init__(self):
         
         self.basePath = os.path.abspath(os.path.dirname(__file__))
-        self.tblName = "toddc.tbl"
+        self.tblName = "sjis.tbl"
         
-        #Load the two json files for config
-        with open(os.path.join(self.basePath, "sectionsSLPS.json")) as f:
-            self.dataJson = json.load(f)
-            self.dataItems = self.dataJson['items']
-            
-        with open(os.path.join(self.basePath, "sectionsOtherFiles.json")) as f:
-            self.otherJson = json.load(f)
-            self.otherItems = self.otherJson['items']
-        
-        with open(os.path.join(self.basePath, "memoryBanks.json")) as f:
-            data = json.load(f)
-            self.dfBanks = pd.DataFrame.from_dict(data['memoryBanks'])
-            self.dfBanks['BlockDesc'] = ''
-            
-        #Authentification
-        self.gc = pygsheets.authorize(service_file=os.path.join(self.basePath,'gsheet.json'))
-        
-        self.currentMemoryId = 1
-        self.currentStart = 0
-        self.currentEnd = 0
-        self.originalSectionEnd = 0
-        self.offset= 0
         
         self.loadTable()
         
@@ -121,8 +99,8 @@ class Helper:
     def cleanDump(self, dumpFile):
         
   
-        f = open(os.path.join(self.basePath,"abcde",dumpFile), mode="r", encoding="utf-8")
-        destFile = open(os.path.join(self.basePath,"abcde",dumpFile.replace(".txt","")+"_cleaned.txt"), mode="w", encoding="utf-8")
+        f = open(os.path.join(self.basePath,dumpFile), mode="r", encoding="utf-8")
+        destFile = open(os.path.join(self.basePath,dumpFile.replace(".txt","")+"_cleaned.txt"), mode="w", encoding="utf-8")
         for line in f:
             if "#JMP(" not in line:
                 line = line.replace("#HDR($-{}) // Difference between ROM and RAM addresses for pointer value calculations".format(self.PointerHeader),"")
@@ -140,11 +118,41 @@ class Helper:
         f.close()
         destFile.close()
         self.removeBlankPointerData(dumpFile.replace(".txt","")+"_cleaned.txt")
-        os.remove(os.path.join(self.basePath, "abcde",dumpFile))
+        os.remove(os.path.join(self.basePath,dumpFile))
         
+    def createScript(self, fileName, n, startPoint, step, nbObject):
+    
+        blockText = """
+#BLOCK NAME:	Items_{}
+#TYPE:		NORMAL
+#METHOD:		          POINTER_RELATIVE
+#POINTER ENDIAN:		LITTLE
+#POINTER TABLE START:	${}
+#POINTER TABLE STOP:	${}
+#POINTER SIZE:		$04
+#POINTER SPACE:		$00
+#ATLAS PTRS:		Yes
+#BASE POINTER:		$-{}		//add $FF000 to each pointer to get
+#TABLE:			{}	//the string address
+#SORT OUTPUT BY STRING ADDRESS:        Yes
+#COMMENTS:		No
+#END BLOCK
+"""
+
+        pathFile = os.path.abspath(os.path.dirname(__file__))
+        with open(os.path.join(pathFile,fileName), "w") as f:
+            f.write("#GAME NAME:			Tales of destiny 2")
+            
+            for x in range(n):
+                
+                start = hex(int(startPoint,16) + x*step)[2:].upper()
+                end   = hex(int(startPoint,16) + 4*nbObject-1 + x*step)[2:].upper()
+                f.write(blockText.format(x+1, start, end, self.PointerHeader, self.tblName))
+        
+
     def runscript(self, sourceName, file):
     
-        args = ["perl", "abcde.pl", "-m", "bin2text", "-cm", "abcde::Cartographer", sourceName, file+"_script.txt", file+"_dump", "-s"]
+        args = ["perl", "abcde.pl", "-m", "bin2text", "-cm", "abcde::Cartographer", os.path.join(self.basePath,sourceName), file+"_script.txt", file+"_dump", "-s"]
         listFile = subprocess.run(
             args,
             cwd= os.path.abspath(os.path.dirname(__file__)),
@@ -217,7 +225,7 @@ class Helper:
 
     def loadTable(self):
     
-        with open(os.path.join(self.basePath, "abcde", self.tblName), encoding="utf-8", mode="r") as tblfile:
+        with open(os.path.join(self.basePath,self.tblName), encoding="utf-8", mode="r") as tblfile:
             lines=tblfile.readlines()
             
         df = pd.DataFrame(lines, columns=['Value'])
