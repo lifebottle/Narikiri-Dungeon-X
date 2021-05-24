@@ -2,6 +2,8 @@
 An attempt to create a patch for Narikiri Dungeon X (PSP).  
 https://docs.google.com/spreadsheets/d/1S1RwcAVeOqBEnIhfU2z7ZVff2C3vqwJ1tvNcy_qHZ6w/edit#gid=0
 
+![logo](https://raw.githubusercontent.com/pnvnd/Narikiri-Dungeon-X/main/images/GITHUB_cover.png)  
+
 ![NDR](https://raw.githubusercontent.com/pnvnd/Narikiri-Dungeon-X/main/images/ndr.png)  
 
 ## Hacker Note 1
