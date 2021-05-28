@@ -1,0 +1,1 @@
+python Build_Run.py "../../Files/BT_DATA/BT_TECHNIQUE_NAME_DATA.bin" TOPX_Artes 1500 8 32 2 0
