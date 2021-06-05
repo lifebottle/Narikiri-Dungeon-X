@@ -1,6 +1,9 @@
-# makecab /D CompressionType=LZX /D CompressionMemory=15 /D ReservePerCabinetSize=8 ar.dat cab.cab
+import struct, os, sys, json, subprocess
+#from fps4 import *
 
-import struct, os, sys, json, subprocess, shutil
+# True to extract files with names
+# False so extract files with hashes
+extract_names = True
 
 json_file = open('hashes.json', 'r')
 hashes = json.load(json_file)
@@ -36,12 +39,19 @@ def make_dirs():
     mkdir('all/sysdata')
     
 def extract_files(start, size, filename):
+    hash_name = filename
     if filename in hashes.keys():
-        filename = hashes[filename]
+        hash_name = hashes[filename]
     input_file = open('all.dat', 'rb')
     input_file.seek(start, 0)
     data = input_file.read(size)
-    output_file = open('all/' + filename, 'wb')
+    if extract_names:
+        try:
+            output_file = open('all/' + hash_name, 'wb')
+        except:
+            output_file = open('all/' + filename, 'wb')
+    else:
+        output_file = open('all/' + filename, 'wb')
     output_file.write(data)
     output_file.close()
     input_file.close()
@@ -57,7 +67,7 @@ def extract_all_dat():
         file_info = struct.unpack('<3I', eboot.read(12))
         if(file_info[2] == 0):
             break
-        hash_ = '%08X' % file_info[2]
+        hash_ = "%08X" % file_info[2]
         extract_files(file_info[0], file_info[1], hash_)
         order['order'].append(hash_)
     json.dump(order, order_json, indent = 4)
@@ -69,50 +79,28 @@ def extract_map_data():
         if os.path.isfile('all/map/' + f):
             subprocess.run(['expand', 'all/map/' + f, 'all/map/cab/'+ f])
 
-def extract_chat_data():
-    mkdir('all/chat/cab')
-    for f in os.listdir('all/chat'):
-        if os.path.isfile('all/chat/' + f):
-            subprocess.run(['expand', 'all/chat/' + f, 'all/chat/cab/'+ f])
-
 def extract_map_pack():
     mkdir('all/map/pack/cab')
     for f in os.listdir('all/map/pack'):
         if os.path.isfile('all/map/pack/' + f):
             subprocess.run(['expand', 'all/map/pack/' + f, 'all/map/pack/cab/'+ f])
 
-def extract_chat_pak3():
-    for f in os.listdir('all/chat/cab'):
-        if os.path.isfile('all/chat/cab/' + f) and 'ct_' in f:
-            mkdir('all/chat/cab/' + f[:-4])
-            extract_pak3(f, 'all/chat/cab/')
-
-def extract_script_pak3():
+def extract_script():
     for f in os.listdir('all/map/pack/cab'):
         if os.path.isfile('all/map/pack/cab/' + f) and 'ep_' in f:
             mkdir('all/map/pack/cab/' + f[:-4])
-            extract_pak3(f, 'all/map/pack/cab/')
+            extract_pak3(f)
 
-def move_tss():
-    mkdir('tss')
-    print ('Moving TSS...')
-    for folder in os.listdir('all/map/pack/cab/'):
-        if not os.path.isdir('all/map/pack/cab/'+folder):
-            continue
-        for f in os.listdir('all/map/pack/cab/'+folder):
-            shutil.copy(f'all/map/pack/cab/{folder}/{f}', f'tss/{folder}_{f}')
-            break
-
-def extract_pak3(name, d):
-    f = open(d + name, 'rb')
+def extract_pak3(name):
+    f = open('all/map/pack/cab/' + name, 'rb')
     files = struct.unpack('<I', f.read(4))[0]
     offsets = []
     for i in range(files):
         offsets.append(struct.unpack('<I', f.read(4))[0])
     f.seek(offsets[0], 0)
-    offsets.append(os.path.getsize(d + name))
+    offsets.append(os.path.getsize('all/map/pack/cab/' + name))
     for i in range(files):
-        o = open(d + name[:-4] + '/' + '%02d' % i + '.bin', 'wb')
+        o = open('all/map/pack/cab/' + name[:-4] + '/' + '%02d' % i + '.bin', 'wb')
         o.write(f.read(offsets[i+1] - offsets[i]))
         o.close()
     f.close()
@@ -128,17 +116,14 @@ def pack_all():
     elf = open('ULJS00293_new.bin', 'r+b')
     elf.seek(0x1FF624)
     for name in order_hash['order']:
-        if name in hashes.keys():
-            name = hashes[name]
         f = open('all/' + name, 'rb')
         data = f.read()
-        size = len(data)
-        sizes.append(size)
-        remainder = 0x800 - (size % 0x800)
-        if remainder == 0x800:
+        sizes.append(len(data))
+        remainder = 2048 - (len(data)%2048)
+        if remainder == 2048:
             remainder = 0
         addrs.append(buffer)
-        buffer += size + remainder
+        buffer += len(data) + remainder
         all_file.write(data)
         all_file.write(b'\x00' * remainder)
         f.close()
@@ -151,11 +136,8 @@ def pack_all():
     
             
 if __name__ == '__main__':
-    extract_all_dat()
-    #extract_chat_data()
-    #extract_chat_pak3()
+    #extract_all_dat()
     #extract_map_data()
-    extract_map_pack()
-    extract_script_pak3()
-    move_tss()
-    #pack_all()
+    #extract_map_pack()
+    #extract_script()
+    pack_all()
