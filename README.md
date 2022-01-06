@@ -68,12 +68,29 @@ Re-pack scenario/script CAB files with the following:
 
 While not required, update CAB identity to `4392`.  Do this by hex editing CAB file at `0x20` and `0x21` from `00 00` to `28 11`.
 
+## Hacker Note 6
+looks like tss header starts with TSS (of course)  
+there's some kind of start `0x04` and end `0x14`, probably to the bytecode script  
+pointer to the text block `0XOC`  
+maybe size of the text block `0x18`  
+then you just have to parse the bytecode script looking for stuff, there might be differences across games if they changed it between games  
+from the notes here, `0x0100A304` is a pointer table (?)  
+`0x40002004` is a "name array", whatever that means  
+`0x00008202` is a direct string  
+`0x10000C04` is some kind of skit thing  
+`0x40000C04` is a different type of skit thing  
+`0x00002004` is some other kind of pointer table  
+you could reverse engineer the entire bytecode to be able to compile your own event scripts  
+but imo it's too much work, just look for commands related to text  
+and leave the byte script alone, edit only pointers and text  
+
 ## Links
 - https://talesofnaridanx.weebly.com/downloads.html
 - https://www.youtube.com/user/Crevox/videos
 - http://www.mediafire.com/file/g83m35bh2ju746s/top_patch_v012.rar/file
 
 ## Credits
+- Thanks to `Kajitani-Eizan` for some hacker notes
 - Thanks to `Sky` for donating resources to get started
 - Thanks to `crevox` for permission to use their menu patch
 - Thanks to `kevassa` for permission to use their English translation script
