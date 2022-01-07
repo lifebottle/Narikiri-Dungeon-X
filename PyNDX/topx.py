@@ -125,7 +125,7 @@ def pack_all():
     order_json = open('order.json', 'r')
     order_hash = json.load(order_json)
     order_json.close()
-    elf = open('ULJS00293_new.bin', 'r+b')
+    elf = open('ULJS00293.bin', 'r+b')
     elf.seek(0x1FF624)
     for name in order_hash['order']:
         if name in hashes.keys():
@@ -151,11 +151,11 @@ def pack_all():
     
             
 if __name__ == '__main__':
-    extract_all_dat()
+    #extract_all_dat()
     #extract_chat_data()
     #extract_chat_pak3()
     #extract_map_data()
-    extract_map_pack()
-    extract_script_pak3()
-    move_tss()
-    #pack_all()
+    #extract_map_pack()
+    #extract_script_pak3()
+    #move_tss()
+    pack_all()
