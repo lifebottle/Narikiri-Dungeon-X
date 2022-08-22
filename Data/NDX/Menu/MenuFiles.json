@@ -1,0 +1,66 @@
+[
+	{	
+		"File_Original":"../Data/Narikiri-Dungeon-X/Misc/EBOOT.BIN",
+		"File_Extract": "../Data/Narikiri-Dungeon-X/Misc/EBOOT.BIN",
+		"File_XML":		"../Narikiri-Dungeon-X/Data/Menu/XML/EBOOT.xml",
+		"Text_Start":	1654980,
+		"Text_End":		1655035,
+		"Base_Offset":	160,
+		"Sections":
+		[
+		{
+			"Section":					"Character Attributes",
+			"Pointer_Offset_Start":		2084256,
+			"Nb_Per_Block":				1,
+			"Step":						0,
+			"Text_Start":				1654980,
+			"Text_End":					1655035,
+			"To_Translate":				1
+		},
+		{
+			"Section":					"Customize Menu 1",
+			"Pointer_Offset_Start":		2084312,
+			"Nb_Per_Block":				1,
+			"Step":						0,
+			"Text_Start":				1655936,
+			"Text_End":					1656295,
+			"To_Translate":				1
+		},
+		{
+			"Section":					"Not Important 1",
+			"Pointer_Offset_Start":		2084456,
+			"Nb_Per_Block":				1,
+			"Step":						0,
+			"Text_Start":				1656296,
+			"Text_End":					1669779,
+			"To_Translate":				0
+		},
+		{
+			"Section":					"Not Important 2",
+			"Pointer_Offset_Start":		2087104,
+			"Nb_Per_Block":				1,
+			"Step":						0,
+			"Text_Start":				1670092,
+			"Text_End":					1670491,
+			"To_Translate":				0
+		},
+		{
+			"Section":					"Actions 1",
+			"Pointer_Offset_Start":		2087284,
+			"Nb_Per_Block":				1,
+			"Step":						0,
+			"Text_Start":				1670844,
+			"Text_End":					1670919,
+			"To_Translate":				1
+		},
+		{
+			"Section":					"Actions 2",
+			"Pointer_Offset_Start":		[2087468, 2087528, 2087540, 2087552, 2087576, 2087588],
+			"Nb_Per_Block":				1,
+			"Step":						0,
+			"Text_Start":				1671020,
+			"Text_End":					1671091,
+			"To_Translate":				1
+		}]
+	}
+]
