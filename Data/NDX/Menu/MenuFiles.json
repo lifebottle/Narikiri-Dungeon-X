@@ -2,7 +2,8 @@
 	{	
 		"File_Original":"../Data/Narikiri-Dungeon-X/Misc/EBOOT.BIN",
 		"File_Extract": "../Data/Narikiri-Dungeon-X/Misc/EBOOT.BIN",
-		"File_XML":		"../Narikiri-Dungeon-X/Data/Menu/XML/EBOOT.xml",
+		"Hashes_Name":	"",
+		"File_XML":		"../Narikiri-Dungeon-X/Data/NDX/Menu/XML/EBOOT.xml",
 		"Text_Start":	1654980,
 		"Text_End":		1655035,
 		"Base_Offset":	160,
@@ -18,7 +19,7 @@
 			"To_Translate":				1
 		},
 		{
-			"Section":					"Customize Menu 1",
+			"Section":					"Main Menu 1",
 			"Pointer_Offset_Start":		2084312,
 			"Nb_Per_Block":				1,
 			"Step":						0,
@@ -60,6 +61,66 @@
 			"Step":						0,
 			"Text_Start":				1671020,
 			"Text_End":					1671091,
+			"To_Translate":				1
+		}]
+	},
+	{
+		"File_Original":"../Data/Narikiri-Dungeon-X/All/battle/data/bt_data.b",
+		"File_Extract": "../Data/Narikiri-Dungeon-X/Menu/New/battle/data/BT_DATA/BT_TECHNIQUE_NAME_DATA/bt_technique_name_data.dat",
+		"File_XML":		"../Narikiri-Dungeon-X/Data/NDX/Menu/XML/Artes.xml",
+		"Hashes_Name":	"battle/data",
+		"Text_Start":	46004,
+		"Text_End":		328790,
+		"Base_Offset":	0,
+		"Sections":
+		[
+		{
+			"Section":					"Artes",
+			"Pointer_Offset_Start":		8,
+			"Nb_Per_Block":				2,
+			"Step":						24,
+			"Text_Start":				45988,
+			"Text_End":					328790,
+			"To_Translate":				1
+		}]
+	},
+	{
+		"File_Original":"../Data/Narikiri-Dungeon-X/All/battle/data/bt_data.b",
+		"File_Extract": "../Data/Narikiri-Dungeon-X/Menu/New/battle/data/BT_DATA/BT_ITEM_DATA/bt_item_data.dat",
+		"File_XML":		"../Narikiri-Dungeon-X/Data/NDX/Menu/XML/Items.xml",
+		"Hashes_Name":	"battle/data",
+		"Text_Start":	57376,
+		"Text_End":		122845,
+		"Base_Offset":	0,
+		"Sections":
+		[
+		{
+			"Section":					"Items",
+			"Pointer_Offset_Start":		8,
+			"Nb_Per_Block":				2,
+			"Step":						20,
+			"Text_Start":				57376,
+			"Text_End":					122845,
+			"To_Translate":				1
+		}]
+	},
+	{
+		"File_Original":"../Data/Narikiri-Dungeon-X/All/battle/data/bt_data.b",
+		"File_Extract": "../Data/Narikiri-Dungeon-X/Menu/New/battle/data/BT_DATA/BT_SKILL_DATA/bt_skill_data.dat",
+		"File_XML":		"../Narikiri-Dungeon-X/Data/NDX/Menu/XML/Skills.xml",
+		"Hashes_Name":	"battle/data",
+		"Text_Start":	57376,
+		"Text_End":		122845,
+		"Base_Offset":	0,
+		"Sections":
+		[
+		{
+			"Section":					"Skills",
+			"Pointer_Offset_Start":		8,
+			"Nb_Per_Block":				2,
+			"Step":						32,
+			"Text_Start":				32284,
+			"Text_End":					102528,
 			"To_Translate":				1
 		}]
 	}
