@@ -1,0 +1,22 @@
+
+name: test
+
+on:
+  workflow_dispatch:
+jobs:
+
+  pythonCode:
+    runs-on: self-hosted
+    steps:
+    
+    - name: Checkout
+      uses: rodrigorodriguescosta/checkout@main
+
+    - name: Checkout tools repo
+      uses: rodrigorodriguescosta/checkout@main
+      with:
+        repository: lifebottle/PythonLib
+        path: ../../PythonLib
+        
+    
+    
