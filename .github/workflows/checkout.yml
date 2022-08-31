@@ -11,7 +11,8 @@ jobs:
     
     - name: Checkout
       uses: rodrigorodriguescosta/checkout@main
-
+      path: ../../Narikiri-Dungeon-X
+      
     - name: Checkout tools repo
       uses: rodrigorodriguescosta/checkout@main
       with:
