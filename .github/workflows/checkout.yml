@@ -5,19 +5,41 @@ on:
   workflow_dispatch:
 jobs:
 
-  pythonCode:
+  repoBasic:
     runs-on: self-hosted
     steps:
     
+    - name: Clean
+      shell: pwsh
+      run: |
+        $FolderName = "C:\actions-runner\_work\Narikiri-Dungeon-X\Narikiri-Dungeon-X"
+        if (Test-Path $FolderName) {
+            Remove-Item $FolderName -Force
+        }
+        else
+        {
+            Write-Host "Folder Doesn't Exists"
+        }
+
     - name: Checkout
       uses: rodrigorodriguescosta/checkout@main
-      path: ../../Narikiri-Dungeon-X
-      
+
     - name: Checkout tools repo
       uses: rodrigorodriguescosta/checkout@main
       with:
         repository: lifebottle/PythonLib
         path: ../../PythonLib
-        
+
+  move:
+    needs: repoBasic
+    runs-on: self-hosted
     
-    
+    steps:
+
+    - name: Move Folder Repo
+      run: |
+        move C:\actions-runner\_work\Narikiri-Dungeon-X\Narikiri-Dungeon-X\* C:\actions-runner\_work\Narikiri-Dungeon-X
+        rmdir C:\actions-runner\_work\Narikiri-Dungeon-X\Narikiri-Dungeon-X
+      
+  
+  
