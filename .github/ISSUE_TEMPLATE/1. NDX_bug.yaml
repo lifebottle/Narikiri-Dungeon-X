@@ -35,7 +35,7 @@ body:
     id: what-happened
     attributes:
       label: Description of the issue
-      description: Detail desriptin with screenshots
+      description: Detailed desription with screenshots
       placeholder: Tell us what you see!
     validations:
       required: true
