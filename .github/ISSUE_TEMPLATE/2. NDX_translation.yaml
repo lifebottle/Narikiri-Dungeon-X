@@ -1,0 +1,64 @@
+name: "Section to translate"
+description: "When the community wants new stuff to be translated"
+title: "[Translation]: Your short description here"
+labels: ["Translation", "NDX"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this feature request!
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: What is the type of action?
+      multiple: false
+      options:
+        - Translation
+        - Editing
+        - Proofreading
+    validations:
+      required: true
+
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: Discord name
+    validations:
+      required: true
+
+  - type: textarea
+    id: file
+    attributes:
+      label: What needs to be translated?
+      description: Description of what is needed
+    validations:
+      required: true
+
+  - type: textarea
+    id: file
+    attributes:
+      label: Where is it in the app?
+      description: File number or Section to use
+    validations:
+      required: true
+
+  - type: textarea
+    id: file
+    attributes:
+      label: Where is it in the game?
+      description: Screenshot in the game
+    validations:
+      required: false
+
+  - type: textarea
+    id: file
+    attributes:
+      label: Acceptance criteria
+      description: Screenshot in the game
+    validations:
+      required: true
+

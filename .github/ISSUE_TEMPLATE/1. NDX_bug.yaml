@@ -1,0 +1,60 @@
+name: "Bug: Tales of Phantasia: Narikiri Dungeon X"
+description: When the patch is not working as expected
+title: "[Bug]: Small description"
+labels: ["bug","NDX"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+
+        Here are some usecases when you should use this template :
+        - You tried a new patch and the game crash
+        - You found some glitch in some textures
+        - Weird things are happening in the game
+
+  - type: input
+    id: version
+    attributes:
+      label: Version details
+      description: What version of the patch are you using? 
+    validations:
+      required: true
+
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: Discord name
+    validations:
+      required: true
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: Description of the issue
+      description: Detail desriptin with screenshots
+      placeholder: Tell us what you see!
+    validations:
+      required: true
+
+  - type: textarea
+    id: how
+    attributes:
+      label: How can we replicate the same issue?
+      description: Tell us how it happened
+      placeholder: How did it happen?
+    validations:
+      required: true
+
+  - type: textarea
+    id: useful
+    attributes:
+      label: Other useful information for us
+      description: additional information
+      placeholder: Additional information
+    validations:
+      required: false
+
