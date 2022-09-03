@@ -31,7 +31,7 @@ body:
       required: true
 
   - type: textarea
-    id: file
+    id: what
     attributes:
       label: What needs to be translated?
       description: Description of what is needed
@@ -39,7 +39,7 @@ body:
       required: true
 
   - type: textarea
-    id: file
+    id: whereapp
     attributes:
       label: Where is it in the app?
       description: File number or Section to use
@@ -47,7 +47,7 @@ body:
       required: true
 
   - type: textarea
-    id: file
+    id: wheregame
     attributes:
       label: Where is it in the game?
       description: Screenshot in the game
@@ -55,7 +55,7 @@ body:
       required: false
 
   - type: textarea
-    id: file
+    id: acceptance
     attributes:
       label: Acceptance criteria
       description: Screenshot in the game
