@@ -7,6 +7,7 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>1</Id>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>260144,267344,268272,268768,275780,276384</PointerOffset>
@@ -14,6 +15,7 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>2</Id>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>261116,264208,267204,267936,275032,276244,276524</PointerOffset>
@@ -21,6 +23,7 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>3</Id>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>261972,265952,266952,268076,268628,275520</PointerOffset>
@@ -28,6 +31,7 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>4</Id>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>278548</PointerOffset>
@@ -35,414 +39,380 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>5</Id>
+      <Status>To Do</Status>
     </Entry>
   </Speakers>
   <Strings>
     <Section>Story</Section>
     <Entry>
       <PointerOffset>260004</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_001&gt;へっへっへっへぇ〜。
+      <VoiceId>&lt;VSM_010_040_001&gt;</VoiceId>
+      <JapaneseText>へっへっへっへぇ〜。
 やっとこ落ち着いただ〜</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>1</Id>
-      <StructId>1</StructId>
       <UnknownPointer>25</UnknownPointer>
       <SpeakerId>1</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>260144</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_002&gt;ところでさっきの話の
+      <VoiceId>&lt;VSM_010_040_002&gt;</VoiceId>
+      <JapaneseText>ところでさっきの話の
 続きだけド……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>2</Id>
-      <StructId>2</StructId>
       <UnknownPointer>24</UnknownPointer>
       <SpeakerId>2</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>260284</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_003&gt;わーってるだぁ、
+      <VoiceId>&lt;VSM_010_040_003&gt;</VoiceId>
+      <JapaneseText>わーってるだぁ、
 せかすでねーって。
 んだば……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>3</Id>
-      <StructId>3</StructId>
       <UnknownPointer>25</UnknownPointer>
       <SpeakerId>1</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>260284</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_004&gt;おめぇら
+      <VoiceId>&lt;VSM_010_040_004&gt;</VoiceId>
+      <JapaneseText>おめぇら
 もう１３歳だなや？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>4</Id>
-      <StructId>3</StructId>
       <UnknownPointer>25</UnknownPointer>
       <SpeakerId>1</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>260284</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_005&gt;そういうことで、そろそろ
+      <VoiceId>&lt;VSM_010_040_005&gt;</VoiceId>
+      <JapaneseText>そういうことで、そろそろ
 『なりきり士』の仕事を始める
 年頃なわけだーよ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>5</Id>
-      <StructId>3</StructId>
       <UnknownPointer>25</UnknownPointer>
       <SpeakerId>1</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>261116</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_006&gt;『なりきり士』……？</JapaneseText>
+      <VoiceId>&lt;VSM_010_040_006&gt;</VoiceId>
+      <JapaneseText>『なりきり士』……？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>6</Id>
-      <StructId>4</StructId>
       <UnknownPointer>12</UnknownPointer>
       <SpeakerId>3</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>261256</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_007&gt;おぉ『なりきり士』っつーのは、
+      <VoiceId>&lt;VSM_010_040_007&gt;</VoiceId>
+      <JapaneseText>おぉ『なりきり士』っつーのは、
 その服装の人になりきる力を
 持った人間のことを言うだ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>7</Id>
-      <StructId>5</StructId>
       <UnknownPointer>25</UnknownPointer>
       <SpeakerId>1</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>261256</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_008&gt;剣士の服を着れば立派な剣士で、
+      <VoiceId>&lt;VSM_010_040_008&gt;</VoiceId>
+      <JapaneseText>剣士の服を着れば立派な剣士で、
 魔法使いの服を着てみれば、
 魔法使いになれるっつー具合だ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>8</Id>
-      <StructId>5</StructId>
       <UnknownPointer>25</UnknownPointer>
       <SpeakerId>1</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>261256</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_009&gt;おめぇらふたりには、
+      <VoiceId>&lt;VSM_010_040_009&gt;</VoiceId>
+      <JapaneseText>おめぇらふたりには、
 そんだら力が生まれたときから
 宿っとるんだーよ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>9</Id>
-      <StructId>5</StructId>
       <UnknownPointer>25</UnknownPointer>
       <SpeakerId>1</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>261972</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_010&gt;わたしたちに？　まさか？</JapaneseText>
+      <VoiceId>&lt;VSM_010_040_010&gt;</VoiceId>
+      <JapaneseText>わたしたちに？　まさか？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>10</Id>
-      <StructId>6</StructId>
       <UnknownPointer>13</UnknownPointer>
       <SpeakerId>4</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>262440</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_011&gt;はん！
+      <VoiceId>&lt;VSM_010_040_011&gt;</VoiceId>
+      <JapaneseText>はん！
 おらが信じられねぇってが？
 このおらをか？　あ〜ん？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>11</Id>
-      <StructId>7</StructId>
       <UnknownPointer>25</UnknownPointer>
       <SpeakerId>1</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>262868</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_013&gt;グダグダ言ってねぇで、
+      <VoiceId>&lt;VSM_010_040_013&gt;</VoiceId>
+      <JapaneseText>グダグダ言ってねぇで、
 おらの中の服、
 着てみりゃわかるだ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>12</Id>
-      <StructId>8</StructId>
       <UnknownPointer>25</UnknownPointer>
       <SpeakerId>1</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>262868</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_014&gt;とにかく、『なりきり士』の力で
+      <VoiceId>&lt;VSM_010_040_014&gt;</VoiceId>
+      <JapaneseText>とにかく、『なりきり士』の力で
 困ってる人たちを
 助ける仕事をするんだど</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>13</Id>
-      <StructId>8</StructId>
       <UnknownPointer>25</UnknownPointer>
       <SpeakerId>1</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>262868</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_015&gt;ノルン様はそれをおめぇらに
+      <VoiceId>&lt;VSM_010_040_015&gt;</VoiceId>
+      <JapaneseText>ノルン様はそれをおめぇらに
 期待しとるっちゅーわけだ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>14</Id>
-      <StructId>8</StructId>
       <UnknownPointer>25</UnknownPointer>
       <SpeakerId>1</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>264208</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_017&gt;それ……すごいいいかも！</JapaneseText>
+      <VoiceId>&lt;VSM_010_040_017&gt;</VoiceId>
+      <JapaneseText>それ……すごいいいかも！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>15</Id>
-      <StructId>9</StructId>
       <UnknownPointer>12</UnknownPointer>
       <SpeakerId>3</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>264208</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_018&gt;オレ、困ってる人、
+      <VoiceId>&lt;VSM_010_040_018&gt;</VoiceId>
+      <JapaneseText>オレ、困ってる人、
 助けに行くよ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>16</Id>
-      <StructId>9</StructId>
       <UnknownPointer>12</UnknownPointer>
       <SpeakerId>3</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>264208</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_019&gt;オレ、外に出る！
+      <VoiceId>&lt;VSM_010_040_019&gt;</VoiceId>
+      <JapaneseText>オレ、外に出る！
 『なりきり士』の仕事する！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>17</Id>
-      <StructId>9</StructId>
       <UnknownPointer>12</UnknownPointer>
       <SpeakerId>3</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>265952</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_028&gt;そんなの……
-&lt;DIO&gt;ひとりだけで
-行かせられると思う？</JapaneseText>
+      <VoiceId>&lt;VSM_010_040_028&gt;</VoiceId>
+      <JapaneseText>そんなの……
+</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>18</Id>
-      <StructId>10</StructId>
       <UnknownPointer>13</UnknownPointer>
       <SpeakerId>4</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>265952</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_029&gt;すぐ無茶するし、
+      <VoiceId>&lt;VSM_010_040_029&gt;</VoiceId>
+      <JapaneseText>すぐ無茶するし、
 危なっかしいし……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>19</Id>
-      <StructId>10</StructId>
       <UnknownPointer>13</UnknownPointer>
       <SpeakerId>4</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>266952</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_033&gt;わかった……
+      <VoiceId>&lt;VSM_010_040_033&gt;</VoiceId>
+      <JapaneseText>わかった……
 わたしも一緒に行く</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>20</Id>
-      <StructId>11</StructId>
       <UnknownPointer>13</UnknownPointer>
       <SpeakerId>4</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>267204</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_034&gt;おまえも……！？</JapaneseText>
+      <VoiceId>&lt;VSM_010_040_034&gt;</VoiceId>
+      <JapaneseText>おまえも……！？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>21</Id>
-      <StructId>12</StructId>
       <UnknownPointer>12</UnknownPointer>
       <SpeakerId>3</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>267344</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_040&gt;うん。いいよ……
+      <VoiceId>&lt;VSM_010_040_040&gt;</VoiceId>
+      <JapaneseText>うん。いいよ……
 行っておいで</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>22</Id>
-      <StructId>13</StructId>
       <UnknownPointer>24</UnknownPointer>
       <SpeakerId>2</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>267936</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_041&gt;っしゃ！</JapaneseText>
+      <VoiceId>&lt;VSM_010_040_041&gt;</VoiceId>
+      <JapaneseText>っしゃ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>23</Id>
-      <StructId>14</StructId>
       <UnknownPointer>12</UnknownPointer>
       <SpeakerId>3</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>268076</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_042&gt;何言ってるの。
+      <VoiceId>&lt;VSM_010_040_042&gt;</VoiceId>
+      <JapaneseText>何言ってるの。
 エトも一緒だよ？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>24</Id>
-      <StructId>15</StructId>
       <UnknownPointer>13</UnknownPointer>
       <SpeakerId>4</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>268272</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_043&gt;え……ぼくも……
+      <VoiceId>&lt;VSM_010_040_043&gt;</VoiceId>
+      <JapaneseText>え……ぼくも……
 行っていいの？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>25</Id>
-      <StructId>16</StructId>
       <UnknownPointer>24</UnknownPointer>
       <SpeakerId>2</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>268628</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_044&gt;一緒に行こ！</JapaneseText>
+      <VoiceId>&lt;VSM_010_040_044&gt;</VoiceId>
+      <JapaneseText>一緒に行こ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>26</Id>
-      <StructId>17</StructId>
       <UnknownPointer>13</UnknownPointer>
       <SpeakerId>4</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>268768</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_045&gt;そっか……</JapaneseText>
+      <VoiceId>&lt;VSM_010_040_045&gt;</VoiceId>
+      <JapaneseText>そっか……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>27</Id>
-      <StructId>18</StructId>
       <UnknownPointer>24</UnknownPointer>
       <SpeakerId>2</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>268768</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_046&gt;うん！　&lt;DIO&gt;と&lt;MEL&gt;は
-ぼくの可愛い双子だもん。
-ぼくも一緒でなきゃね！</JapaneseText>
+      <VoiceId>&lt;VSM_010_040_046&gt;</VoiceId>
+      <JapaneseText>うん！　</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>28</Id>
-      <StructId>18</StructId>
       <UnknownPointer>24</UnknownPointer>
       <SpeakerId>2</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>269232</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_048&gt;あ？　話はまとまっただな？
+      <VoiceId>&lt;VSM_010_040_048&gt;</VoiceId>
+      <JapaneseText>あ？　話はまとまっただな？
 んだら、準備してやるだよ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>29</Id>
-      <StructId>19</StructId>
       <UnknownPointer>25</UnknownPointer>
       <SpeakerId>1</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>269232</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_049&gt;『なりきり士』のことを
+      <VoiceId>&lt;VSM_010_040_049&gt;</VoiceId>
+      <JapaneseText>『なりきり士』のことを
 教えてほしいだか？
 ん？　ん？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>30</Id>
-      <StructId>19</StructId>
       <UnknownPointer>25</UnknownPointer>
       <SpeakerId>1</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>270172</PointerOffset>
-      <JapaneseText>まず(3)でメニューを開くだ</JapaneseText>
+      <JapaneseText>まず&lt;icon:28&gt;3)でメニューを開くだ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>31</Id>
-      <StructId>20</StructId>
       <UnknownPointer>25</UnknownPointer>
       <SpeakerId>1</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -453,10 +423,8 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>32</Id>
-      <StructId>21</StructId>
       <UnknownPointer>25</UnknownPointer>
       <SpeakerId>1</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -467,10 +435,8 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>33</Id>
-      <StructId>22</StructId>
       <UnknownPointer>25</UnknownPointer>
       <SpeakerId>1</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -481,10 +447,8 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>34</Id>
-      <StructId>23</StructId>
       <UnknownPointer>25</UnknownPointer>
       <SpeakerId>1</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -495,10 +459,8 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>35</Id>
-      <StructId>24</StructId>
       <UnknownPointer>25</UnknownPointer>
       <SpeakerId>1</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -509,10 +471,8 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>36</Id>
-      <StructId>25</StructId>
       <UnknownPointer>25</UnknownPointer>
       <SpeakerId>1</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -523,10 +483,8 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>37</Id>
-      <StructId>26</StructId>
       <UnknownPointer>25</UnknownPointer>
       <SpeakerId>1</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -537,167 +495,153 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>38</Id>
-      <StructId>27</StructId>
       <UnknownPointer>25</UnknownPointer>
       <SpeakerId>1</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>273280</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_057&gt;とまぁ、こんなところだ。おらが
+      <VoiceId>&lt;VSM_010_040_057&gt;</VoiceId>
+      <JapaneseText>とまぁ、こんなところだ。おらが
 こんな説明までせねばなんねぇ
 とはまったくめんどうくせぇ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>39</Id>
-      <StructId>28</StructId>
       <UnknownPointer>25</UnknownPointer>
       <SpeakerId>1</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>273280</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_058&gt;それから、おらは豆粒みたいに
+      <VoiceId>&lt;VSM_010_040_058&gt;</VoiceId>
+      <JapaneseText>それから、おらは豆粒みたいに
 ちっちゃくなって
 おめぇらについてくだーよ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>40</Id>
-      <StructId>28</StructId>
       <UnknownPointer>25</UnknownPointer>
       <SpeakerId>1</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>273588</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_061&gt;あー、あとな、おらは、
+      <VoiceId>&lt;VSM_010_040_061&gt;</VoiceId>
+      <JapaneseText>あー、あとな、おらは、
 魔物のいるところは、
 絶対出ていがねぇからな</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>41</Id>
-      <StructId>29</StructId>
       <UnknownPointer>25</UnknownPointer>
       <SpeakerId>1</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>273588</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_062&gt;どうしても着替えてぇなら、
+      <VoiceId>&lt;VSM_010_040_062&gt;</VoiceId>
+      <JapaneseText>どうしても着替えてぇなら、
 魔物のいない町中とか、
 安全な場所にするだよ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>42</Id>
-      <StructId>29</StructId>
       <UnknownPointer>25</UnknownPointer>
       <SpeakerId>1</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>275032</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_063&gt;さ！　行くか！</JapaneseText>
+      <VoiceId>&lt;VSM_010_040_063&gt;</VoiceId>
+      <JapaneseText>さ！　行くか！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>43</Id>
-      <StructId>30</StructId>
       <UnknownPointer>12</UnknownPointer>
       <SpeakerId>3</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>275520</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_064&gt;行くって……どこへ？</JapaneseText>
+      <VoiceId>&lt;VSM_010_040_064&gt;</VoiceId>
+      <JapaneseText>行くって……どこへ？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>44</Id>
-      <StructId>31</StructId>
       <UnknownPointer>13</UnknownPointer>
       <SpeakerId>4</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>275780</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_067&gt;&lt;None:01&gt;ヴァルハラ村&lt;None:01&gt;はどうかな？</JapaneseText>
+      <VoiceId>&lt;VSM_010_040_067&gt;</VoiceId>
+      <JapaneseText></JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>45</Id>
-      <StructId>32</StructId>
       <UnknownPointer>24</UnknownPointer>
       <SpeakerId>2</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>276244</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_068&gt;&lt;None:01&gt;ヴァルハラ村&lt;None:01&gt;？</JapaneseText>
+      <VoiceId>&lt;VSM_010_040_068&gt;</VoiceId>
+      <JapaneseText></JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>46</Id>
-      <StructId>33</StructId>
       <UnknownPointer>12</UnknownPointer>
       <SpeakerId>3</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>276384</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_069&gt;そう。ヴァルハラ平原に貧しい人たちが
+      <VoiceId>&lt;VSM_010_040_069&gt;</VoiceId>
+      <JapaneseText>そう。ヴァルハラ平原に貧しい人たちが
 移り住んで作った村なんだけド</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>47</Id>
-      <StructId>34</StructId>
       <UnknownPointer>24</UnknownPointer>
       <SpeakerId>2</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>276384</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_070&gt;たくさん人が集まってる場所
+      <VoiceId>&lt;VSM_010_040_070&gt;</VoiceId>
+      <JapaneseText>たくさん人が集まってる場所
 なんだから、困ってる人だって
 きっといるんじゃないのかな</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>48</Id>
-      <StructId>34</StructId>
       <UnknownPointer>24</UnknownPointer>
       <SpeakerId>2</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>276524</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_071&gt;んじゃー
+      <VoiceId>&lt;VSM_010_040_071&gt;</VoiceId>
+      <JapaneseText>んじゃー
 そこ行ってみようぜ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>49</Id>
-      <StructId>35</StructId>
       <UnknownPointer>12</UnknownPointer>
       <SpeakerId>3</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>278548</PointerOffset>
-      <JapaneseText>&lt;VSM_010_040_077&gt;あなたたちの旅立ちに
+      <VoiceId>&lt;VSM_010_040_077&gt;</VoiceId>
+      <JapaneseText>あなたたちの旅立ちに
 祝福を……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>50</Id>
-      <StructId>36</StructId>
       <UnknownPointer>26</UnknownPointer>
       <SpeakerId>5</SpeakerId>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
   </Strings>
@@ -709,7 +653,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>51</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -718,7 +661,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>52</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -727,7 +669,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>53</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -736,7 +677,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>54</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -746,7 +686,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>55</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -756,7 +695,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>56</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -769,7 +707,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>57</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -782,7 +719,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>58</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -792,7 +728,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>59</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -802,7 +737,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>60</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -812,7 +746,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>61</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -821,7 +754,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>62</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -831,7 +763,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>63</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -841,7 +772,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>64</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -850,7 +780,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>65</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -860,7 +789,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>66</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -870,7 +798,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>67</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -880,7 +807,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>68</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -890,7 +816,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>69</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -900,7 +825,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>70</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -910,7 +834,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>71</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -920,7 +843,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>72</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -930,7 +852,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>73</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -940,7 +861,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>74</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -950,7 +870,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>75</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -960,7 +879,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>76</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -970,7 +888,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>77</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -980,7 +897,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>78</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -990,7 +906,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>79</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1000,7 +915,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>80</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1010,7 +924,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>81</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1020,7 +933,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>82</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1030,7 +942,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>83</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1040,7 +951,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>84</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1050,7 +960,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>85</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1060,7 +969,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>86</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1070,7 +978,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>87</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1080,7 +987,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>88</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1090,7 +996,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>89</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1100,7 +1005,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>90</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1110,7 +1014,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>91</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1120,7 +1023,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>92</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1130,7 +1032,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>93</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1140,7 +1041,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>94</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1150,7 +1050,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>95</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1160,7 +1059,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>96</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1170,7 +1068,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>97</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1180,7 +1077,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>98</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1190,7 +1086,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>99</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1200,7 +1095,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>100</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1210,7 +1104,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>101</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1219,7 +1112,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>102</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1229,7 +1121,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>103</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1238,7 +1129,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>104</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1248,7 +1138,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>105</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1257,7 +1146,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>106</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1272,7 +1160,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>107</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1282,7 +1169,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>108</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1291,7 +1177,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>109</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1301,7 +1186,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>110</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1310,7 +1194,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>111</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1321,7 +1204,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>112</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1330,7 +1212,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>113</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1342,7 +1223,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>114</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1351,7 +1231,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>115</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1362,7 +1241,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>116</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1371,7 +1249,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>117</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1383,7 +1260,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>118</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1392,7 +1268,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>119</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1405,7 +1280,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>120</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1414,7 +1288,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>121</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1426,7 +1299,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>122</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1435,7 +1307,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>123</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1446,7 +1317,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>124</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1455,7 +1325,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>125</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1464,7 +1333,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>126</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1473,7 +1341,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>127</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1489,7 +1356,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>128</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1498,7 +1364,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>129</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1513,7 +1378,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>130</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1522,7 +1386,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>131</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1536,7 +1399,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>132</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1545,7 +1407,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>133</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1558,7 +1419,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>134</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1567,7 +1427,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>135</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1579,7 +1438,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>136</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1588,7 +1446,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>137</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1599,7 +1456,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>138</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1608,7 +1464,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>139</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1617,7 +1472,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>140</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1629,7 +1483,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>141</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1639,7 +1492,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>142</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1648,7 +1500,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>143</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1658,7 +1509,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>144</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1667,7 +1517,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>145</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1676,7 +1525,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>146</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1686,7 +1534,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>147</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1697,7 +1544,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>148</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1706,7 +1552,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>149</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1717,7 +1562,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>150</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1726,7 +1570,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>151</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1735,7 +1578,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>152</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1745,7 +1587,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>153</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1757,7 +1598,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>154</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1766,7 +1606,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>155</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1778,7 +1617,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>156</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1787,7 +1625,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>157</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1796,7 +1633,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>158</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1806,7 +1642,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>159</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1819,7 +1654,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>160</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1828,7 +1662,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>161</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1841,7 +1674,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>162</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1850,7 +1682,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>163</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1859,7 +1690,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>164</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1869,7 +1699,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>165</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1878,7 +1707,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>166</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1887,17 +1715,15 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>167</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>114720</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;None:01&gt;&lt;01:73258701&gt;&lt;None:01&gt;&lt;01:7E81FF01&gt;%d</JapaneseText>
+&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>168</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1906,17 +1732,15 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>169</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>115260</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;None:01&gt;&lt;01:73258701&gt;&lt;None:01&gt;&lt;01:7E81FF01&gt;%d</JapaneseText>
+&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>170</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1925,7 +1749,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>171</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1934,7 +1757,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>172</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1943,7 +1765,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>173</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1952,7 +1773,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>174</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1961,7 +1781,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>175</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1971,7 +1790,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>176</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1980,17 +1798,15 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>177</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>117628</PointerOffset>
-      <JapaneseText>%sは&lt;None:01&gt;&lt;01:73258701&gt;&lt;None:01&gt;&lt;01:CC82FF01&gt;
+      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>178</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1999,7 +1815,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>179</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2009,7 +1824,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>180</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2018,7 +1832,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>181</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2028,7 +1841,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>182</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2037,7 +1849,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>183</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2047,7 +1858,6 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>184</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2059,7 +1869,6 @@ GLRへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>185</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2071,7 +1880,6 @@ FBSへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>186</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2083,7 +1891,6 @@ YSRへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>187</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2095,7 +1902,6 @@ FRBへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>188</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2107,7 +1913,6 @@ BGEへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>189</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2119,7 +1924,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>190</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2128,7 +1932,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>191</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2138,7 +1941,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>192</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2147,7 +1949,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>193</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2157,7 +1958,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>194</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2166,7 +1966,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>195</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2175,7 +1974,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>196</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2184,7 +1982,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>197</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2193,7 +1990,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>198</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2202,7 +1998,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>199</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2211,7 +2006,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>200</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2220,7 +2014,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>201</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2229,7 +2022,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>202</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2238,7 +2030,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>203</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2247,7 +2038,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>204</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2256,7 +2046,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>205</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2265,7 +2054,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>206</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2274,7 +2062,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>207</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2283,7 +2070,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>208</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2292,7 +2078,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>209</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2301,7 +2086,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>210</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2310,7 +2094,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>211</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2319,7 +2102,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>212</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2328,7 +2110,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>213</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2337,7 +2118,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>214</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2346,7 +2126,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>215</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2355,7 +2134,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>216</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2364,7 +2142,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>217</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2373,7 +2150,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>218</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2382,7 +2158,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>219</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2391,7 +2166,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>220</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2400,7 +2174,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>221</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2409,7 +2182,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>222</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2421,7 +2193,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>223</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2431,7 +2202,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>224</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2441,7 +2211,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>225</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2450,7 +2219,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>226</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2459,7 +2227,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>227</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2469,7 +2236,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>228</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2481,7 +2247,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>229</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2493,7 +2258,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>230</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2502,7 +2266,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>231</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2511,7 +2274,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>232</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2522,7 +2284,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>233</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2531,7 +2292,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>234</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2544,7 +2304,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>235</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2553,7 +2312,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>236</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2564,7 +2322,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>237</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2573,7 +2330,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>238</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2584,7 +2340,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>239</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2593,7 +2348,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>240</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2604,7 +2358,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>241</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2613,7 +2366,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>242</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2624,7 +2376,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>243</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2633,7 +2384,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>244</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2643,7 +2393,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>245</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2652,7 +2401,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>246</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2662,7 +2410,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>247</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2671,7 +2418,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>248</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2680,7 +2426,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>249</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2689,7 +2434,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>250</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2703,7 +2447,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>251</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2712,7 +2455,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>252</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2722,7 +2464,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>253</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2731,7 +2472,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>254</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2740,7 +2480,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>255</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2750,7 +2489,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>256</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2759,7 +2497,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>257</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2769,7 +2506,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>258</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2778,7 +2514,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>259</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2788,7 +2523,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>260</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2797,7 +2531,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>261</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2807,7 +2540,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>262</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2816,7 +2548,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>263</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2826,7 +2557,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>264</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2835,7 +2565,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>265</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2845,7 +2574,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>266</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2854,7 +2582,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>267</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2864,7 +2591,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>268</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2873,7 +2599,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>269</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2883,7 +2608,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>270</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2892,7 +2616,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>271</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2902,7 +2625,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>272</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2911,7 +2633,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>273</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2921,7 +2642,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>274</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2930,7 +2650,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>275</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2940,7 +2659,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>276</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2949,7 +2667,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>277</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2959,7 +2676,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>278</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2968,7 +2684,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>279</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2978,7 +2693,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>280</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2987,7 +2701,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>281</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -2997,7 +2710,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>282</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3010,7 +2722,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>283</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3019,7 +2730,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>284</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3028,7 +2738,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>285</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3038,7 +2747,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>286</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3047,7 +2755,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>287</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3057,7 +2764,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>288</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3070,7 +2776,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>289</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3080,7 +2785,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>290</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3089,7 +2793,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>291</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3106,7 +2809,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>292</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3119,7 +2821,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>293</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3132,7 +2833,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>294</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3145,7 +2845,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>295</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3158,7 +2857,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>296</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3171,7 +2869,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>297</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3184,7 +2881,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>298</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3197,7 +2893,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>299</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3210,7 +2905,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>300</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3223,7 +2917,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>301</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3236,7 +2929,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>302</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3245,7 +2937,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>303</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3263,7 +2954,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>304</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3272,7 +2962,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>305</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3290,7 +2979,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>306</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3299,7 +2987,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>307</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3308,7 +2995,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>308</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3317,7 +3003,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>309</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3326,7 +3011,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>310</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3335,7 +3019,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>311</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3344,7 +3027,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>312</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3353,7 +3035,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>313</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3362,7 +3043,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>314</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3371,7 +3051,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>315</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3380,7 +3059,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>316</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3389,7 +3067,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>317</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3398,7 +3075,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>318</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3407,7 +3083,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>319</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3416,7 +3091,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>320</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3425,7 +3099,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>321</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3434,7 +3107,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>322</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3443,7 +3115,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>323</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3452,7 +3123,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>324</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3461,7 +3131,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>325</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3470,7 +3139,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>326</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3479,7 +3147,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>327</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3488,7 +3155,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>328</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3497,7 +3163,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>329</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3506,7 +3171,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>330</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3515,7 +3179,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>331</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3524,7 +3187,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>332</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3533,7 +3195,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>333</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3542,7 +3203,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>334</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3551,7 +3211,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>335</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3560,7 +3219,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>336</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3569,7 +3227,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>337</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3579,7 +3236,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>338</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3588,7 +3244,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>339</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3597,7 +3252,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>340</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3606,7 +3260,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>341</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3615,7 +3268,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>342</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3624,7 +3276,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>343</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3633,7 +3284,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>344</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3642,7 +3292,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>345</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3651,7 +3300,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>346</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3660,7 +3308,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>347</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3669,7 +3316,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>348</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -3678,7 +3324,6 @@ JSTへぼますたー
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>349</Id>
-      <ToTranslate>1</ToTranslate>
       <Status>To Do</Status>
     </Entry>
   </Strings>
