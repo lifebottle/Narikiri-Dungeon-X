@@ -54,7 +54,7 @@
     <Entry>
       <PointerOffset>259056</PointerOffset>
       <VoiceId>&lt;VSM_030_070_003&gt;</VoiceId>
-      <JapaneseText>……っとと。なんだよ、</JapaneseText>
+      <JapaneseText>……っとと。なんだよ、&lt;MEL&gt;？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>3</Id>
@@ -224,7 +224,9 @@
     <Entry>
       <PointerOffset>265736</PointerOffset>
       <VoiceId>&lt;VSM_030_070_024&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;ARC&gt;さん、
+&lt;Red&gt;ユークリッド村&lt;White&gt;って
+言ってたよね</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>17</Id>
@@ -1319,7 +1321,7 @@
     <Entry>
       <PointerOffset>114720</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>136</Id>
@@ -1336,7 +1338,7 @@
     <Entry>
       <PointerOffset>115260</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>138</Id>
@@ -1401,7 +1403,7 @@
     </Entry>
     <Entry>
       <PointerOffset>117628</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

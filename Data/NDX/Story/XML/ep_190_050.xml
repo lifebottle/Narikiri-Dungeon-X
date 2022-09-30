@@ -246,7 +246,8 @@
       <PointerOffset>288288</PointerOffset>
       <VoiceId>&lt;VSM_190_050_019&gt;</VoiceId>
       <JapaneseText>かつて、ダオスと戦った時、
-</JapaneseText>
+&lt;CLE&gt;さんは空を飛ぶ機械の力を
+ヴォルトから借りたと聞きます</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>18</Id>
@@ -281,7 +282,7 @@
       <PointerOffset>289464</PointerOffset>
       <VoiceId>&lt;VSM_190_050_022&gt;</VoiceId>
       <JapaneseText>ユークリッド大陸の南にある
-</JapaneseText>
+&lt;Red&gt;ムジョルニア洞窟&lt;White&gt;にいたはずです</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>21</Id>
@@ -292,7 +293,8 @@
     <Entry>
       <PointerOffset>289704</PointerOffset>
       <VoiceId>&lt;VSM_190_050_023&gt;</VoiceId>
-      <JapaneseText>よし！　</JapaneseText>
+      <JapaneseText>よし！　&lt;DIO&gt;くんたちも
+一緒に行こうぜ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>22</Id>
@@ -1433,7 +1435,7 @@
     <Entry>
       <PointerOffset>114720</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>145</Id>
@@ -1450,7 +1452,7 @@
     <Entry>
       <PointerOffset>115260</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>147</Id>
@@ -1515,7 +1517,7 @@
     </Entry>
     <Entry>
       <PointerOffset>117628</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

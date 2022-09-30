@@ -73,7 +73,8 @@
     <Entry>
       <PointerOffset>260236</PointerOffset>
       <VoiceId>&lt;VSM_110_030_004&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;MIN&gt;様に診察してもらう
+順番を待ってるのよ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>4</Id>
@@ -84,7 +85,8 @@
     <Entry>
       <PointerOffset>260432</PointerOffset>
       <VoiceId>&lt;VSM_110_030_005&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;MIN&gt;って……
+時空戦士の？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>5</Id>
@@ -119,7 +121,9 @@
     <Entry>
       <PointerOffset>261656</PointerOffset>
       <VoiceId>&lt;VSM_110_030_017&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;MIN&gt;は時空戦士の法術師で、
+結社を作って、
+世界に法術を広めた人なんだ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>8</Id>
@@ -141,7 +145,8 @@
     <Entry>
       <PointerOffset>262116</PointerOffset>
       <VoiceId>&lt;VSM_110_030_019&gt;</VoiceId>
-      <JapaneseText>今は</JapaneseText>
+      <JapaneseText>今は&lt;CLE&gt;さんに
+会うんでしょ？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>10</Id>
@@ -186,7 +191,9 @@
     <Entry>
       <PointerOffset>263472</PointerOffset>
       <VoiceId>&lt;VSM_110_030_023&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;CLE&gt;様の道場なら、
+そこの橋渡ったとこに
+あるわよ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>14</Id>
@@ -254,7 +261,8 @@
     <Entry>
       <PointerOffset>265848</PointerOffset>
       <VoiceId>&lt;VSM_110_030_030&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;MIN&gt;様に診察してもらう
+順番を待ってるの</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>20</Id>
@@ -1405,7 +1413,7 @@
     <Entry>
       <PointerOffset>114720</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>144</Id>
@@ -1422,7 +1430,7 @@
     <Entry>
       <PointerOffset>115260</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>146</Id>
@@ -1487,7 +1495,7 @@
     </Entry>
     <Entry>
       <PointerOffset>117628</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

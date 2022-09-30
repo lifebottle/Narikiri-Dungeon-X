@@ -99,7 +99,8 @@
     <Entry>
       <PointerOffset>282248</PointerOffset>
       <VoiceId>&lt;VSM_190_010_006&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;KUL&gt;のヤツも
+どこ行ったんだろ……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>6</Id>
@@ -261,7 +262,7 @@
     <Entry>
       <PointerOffset>288936</PointerOffset>
       <VoiceId>&lt;VSM_190_010_021&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;RND_P&gt;さん！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>20</Id>
@@ -1392,7 +1393,7 @@
     <Entry>
       <PointerOffset>114720</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>142</Id>
@@ -1409,7 +1410,7 @@
     <Entry>
       <PointerOffset>115260</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>144</Id>
@@ -1474,7 +1475,7 @@
     </Entry>
     <Entry>
       <PointerOffset>117628</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

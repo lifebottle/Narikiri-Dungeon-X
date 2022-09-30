@@ -111,7 +111,7 @@
     <Entry>
       <PointerOffset>285768</PointerOffset>
       <VoiceId>&lt;VSM_100_060_005&gt;</VoiceId>
-      <JapaneseText>ありがと、</JapaneseText>
+      <JapaneseText>ありがと、&lt;KUL&gt;</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>3</Id>
@@ -155,7 +155,7 @@
     <Entry>
       <PointerOffset>290592</PointerOffset>
       <VoiceId>&lt;VSM_100_060_010&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;KUL&gt;！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>7</Id>
@@ -247,7 +247,7 @@
       <PointerOffset>297620</PointerOffset>
       <VoiceId>&lt;VSM_100_060_019&gt;</VoiceId>
       <JapaneseText>お久しぶりですね、エトス。
-そして、</JapaneseText>
+そして、&lt;DIO&gt;、&lt;MEL&gt;</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>15</Id>
@@ -553,7 +553,8 @@
     <Entry>
       <PointerOffset>305176</PointerOffset>
       <VoiceId>&lt;VSM_100_060_055&gt;</VoiceId>
-      <JapaneseText>時空戦士</JapaneseText>
+      <JapaneseText>時空戦士&lt;ARC&gt;・クラインから
+預かってきました</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>40</Id>
@@ -736,7 +737,8 @@
       <PointerOffset>308488</PointerOffset>
       <VoiceId>&lt;VSM_100_060_071&gt;</VoiceId>
       <JapaneseText>では、１００年前の世界に
-着いたら、</JapaneseText>
+着いたら、&lt;Red&gt;ユークリッド&lt;White&gt;の南、
+&lt;Red&gt;トーティス村&lt;White&gt;へ行きなさい</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>55</Id>
@@ -748,7 +750,7 @@
       <PointerOffset>308488</PointerOffset>
       <VoiceId>&lt;VSM_100_060_072&gt;</VoiceId>
       <JapaneseText>そこに時空戦士の筆頭騎士だった
-</JapaneseText>
+&lt;CLE&gt;・アルベインが住んでいます</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>56</Id>
@@ -759,7 +761,7 @@
     <Entry>
       <PointerOffset>308832</PointerOffset>
       <VoiceId>&lt;VSM_100_060_073&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;CLE&gt;って、あの！？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>57</Id>
@@ -796,7 +798,7 @@
       <PointerOffset>310700</PointerOffset>
       <VoiceId>&lt;VSM_100_060_076&gt;</VoiceId>
       <JapaneseText>行きなさい。
-１００年前の</JapaneseText>
+１００年前の&lt;Red&gt;トーティス&lt;White&gt;へ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>60</Id>
@@ -829,7 +831,7 @@
     <Entry>
       <PointerOffset>312968</PointerOffset>
       <VoiceId>&lt;VSM_100_060_079&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;KUL&gt;、平気？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>63</Id>
@@ -840,7 +842,8 @@
     <Entry>
       <PointerOffset>313340</PointerOffset>
       <VoiceId>&lt;VSM_100_060_080&gt;</VoiceId>
-      <JapaneseText>１００年前の</JapaneseText>
+      <JapaneseText>１００年前の&lt;Red&gt;トーティス&lt;White&gt;か……
+行こうぜ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>64</Id>
@@ -1924,7 +1927,7 @@
     <Entry>
       <PointerOffset>114720</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>182</Id>
@@ -1941,7 +1944,7 @@
     <Entry>
       <PointerOffset>115260</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>184</Id>
@@ -2006,7 +2009,7 @@
     </Entry>
     <Entry>
       <PointerOffset>117628</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

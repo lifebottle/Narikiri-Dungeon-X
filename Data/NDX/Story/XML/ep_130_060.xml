@@ -107,7 +107,7 @@
     <Entry>
       <PointerOffset>260012</PointerOffset>
       <VoiceId>&lt;VSM_130_060_010&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;CLE&gt;さん……？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>8</Id>
@@ -156,7 +156,9 @@
     <Entry>
       <PointerOffset>260476</PointerOffset>
       <VoiceId>&lt;VSM_130_060_014&gt;</VoiceId>
-      <JapaneseText>……</JapaneseText>
+      <JapaneseText>……&lt;CLE&gt;さんは、
+英雄として、人々のために
+がんばってます</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>12</Id>
@@ -180,7 +182,7 @@
     <Entry>
       <PointerOffset>261552</PointerOffset>
       <VoiceId>&lt;VSM_130_060_016&gt;</VoiceId>
-      <JapaneseText>何言ってるんだ、</JapaneseText>
+      <JapaneseText>何言ってるんだ、&lt;MIN&gt;</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>14</Id>
@@ -229,7 +231,7 @@
     <Entry>
       <PointerOffset>262280</PointerOffset>
       <VoiceId>&lt;VSM_130_060_023&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;MIN&gt;……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>18</Id>
@@ -240,7 +242,9 @@
     <Entry>
       <PointerOffset>262420</PointerOffset>
       <VoiceId>&lt;VSM_130_060_024&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;CLE&gt;さんの
+心ひとつだって……
+私には治せない……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>19</Id>
@@ -263,7 +267,7 @@
     <Entry>
       <PointerOffset>263160</PointerOffset>
       <VoiceId>&lt;VSM_130_060_026&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;CLE&gt;さん……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>21</Id>
@@ -287,7 +291,8 @@
       <PointerOffset>263608</PointerOffset>
       <VoiceId>&lt;VSM_130_060_028&gt;</VoiceId>
       <JapaneseText>どこへだって……
-</JapaneseText>
+&lt;CLE&gt;さんと一緒なら
+……私は平気ですよ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>23</Id>
@@ -298,7 +303,7 @@
     <Entry>
       <PointerOffset>263872</PointerOffset>
       <VoiceId>&lt;VSM_130_060_029&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;MIN&gt;……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>24</Id>
@@ -1382,7 +1387,7 @@
     <Entry>
       <PointerOffset>114720</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>142</Id>
@@ -1399,7 +1404,7 @@
     <Entry>
       <PointerOffset>115260</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>144</Id>
@@ -1464,7 +1469,7 @@
     </Entry>
     <Entry>
       <PointerOffset>117628</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

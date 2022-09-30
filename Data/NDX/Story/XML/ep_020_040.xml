@@ -176,7 +176,9 @@
     <Entry>
       <PointerOffset>281712</PointerOffset>
       <VoiceId>&lt;VSM_020_040_008Z&gt;</VoiceId>
-      <JapaneseText>私は</JapaneseText>
+      <JapaneseText>私は&lt;Red&gt;オリーブヴィレッジ&lt;White&gt;に
+住む魔術師だ。
+魔法力の研究をしている</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>11</Id>
@@ -381,7 +383,7 @@
       <PointerOffset>285052</PointerOffset>
       <VoiceId>&lt;VSM_020_040_025Z&gt;</VoiceId>
       <JapaneseText>ここから東の方向で、
-別名</JapaneseText>
+別名&lt;Red&gt;きらめきの塔&lt;White&gt;と呼ばれている</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>28</Id>
@@ -1560,7 +1562,7 @@
     <Entry>
       <PointerOffset>114720</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>154</Id>
@@ -1577,7 +1579,7 @@
     <Entry>
       <PointerOffset>115260</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>156</Id>
@@ -1642,7 +1644,7 @@
     </Entry>
     <Entry>
       <PointerOffset>117628</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

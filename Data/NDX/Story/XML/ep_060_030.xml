@@ -39,7 +39,7 @@
     <Entry>
       <PointerOffset>278480</PointerOffset>
       <VoiceId>&lt;VSM_060_030_001&gt;</VoiceId>
-      <JapaneseText>シルフ！　</JapaneseText>
+      <JapaneseText>シルフ！　&lt;KLA&gt;だ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>1</Id>
@@ -62,7 +62,9 @@
     <Entry>
       <PointerOffset>279528</PointerOffset>
       <VoiceId>&lt;VSM_060_030_003&gt;</VoiceId>
-      <JapaneseText>覚えています、</JapaneseText>
+      <JapaneseText>覚えています、&lt;KLA&gt;。
+ダオス戦役の折、
+ともに戦った勇士</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>3</Id>
@@ -1288,7 +1290,7 @@
     <Entry>
       <PointerOffset>114720</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>133</Id>
@@ -1305,7 +1307,7 @@
     <Entry>
       <PointerOffset>115260</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>135</Id>
@@ -1370,7 +1372,7 @@
     </Entry>
     <Entry>
       <PointerOffset>117628</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

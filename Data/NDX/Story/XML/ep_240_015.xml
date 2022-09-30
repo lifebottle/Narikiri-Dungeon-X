@@ -238,7 +238,8 @@
       <PointerOffset>281140</PointerOffset>
       <VoiceId>&lt;VSM_240_010_055&gt;</VoiceId>
       <JapaneseText>やっぱり……ぼくは……
-</JapaneseText>
+&lt;DIO&gt;と&lt;MEL&gt;の
+『お母さん』なんだ……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>14</Id>
@@ -422,7 +423,8 @@
     <Entry>
       <PointerOffset>288944</PointerOffset>
       <VoiceId>&lt;VSM_240_010_073&gt;</VoiceId>
-      <JapaneseText>どけ、</JapaneseText>
+      <JapaneseText>どけ、&lt;RND&gt;。
+死にたくないのであれば</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>30</Id>
@@ -444,7 +446,9 @@
     <Entry>
       <PointerOffset>289440</PointerOffset>
       <VoiceId>&lt;VSM_240_010_075&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;RND_P&gt;さん……
+ダオスとお知り合い、
+なのですか……？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>32</Id>
@@ -577,7 +581,9 @@
     <Entry>
       <PointerOffset>294348</PointerOffset>
       <VoiceId>&lt;VSM_240_010_087&gt;</VoiceId>
-      <JapaneseText>もし</JapaneseText>
+      <JapaneseText>もし&lt;MEL&gt;の魔法の使い方が
+悪かったんなら、
+それを改めなきゃだし</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>43</Id>
@@ -1749,7 +1755,7 @@
     <Entry>
       <PointerOffset>114720</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>168</Id>
@@ -1766,7 +1772,7 @@
     <Entry>
       <PointerOffset>115260</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>170</Id>
@@ -1831,7 +1837,7 @@
     </Entry>
     <Entry>
       <PointerOffset>117628</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

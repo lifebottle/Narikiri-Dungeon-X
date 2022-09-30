@@ -107,7 +107,8 @@
       <PointerOffset>279632</PointerOffset>
       <VoiceId>&lt;VSM_300_070_004&gt;</VoiceId>
       <JapaneseText>ディオス、メルティアって
-</JapaneseText>
+&lt;DIO&gt;くんと、
+&lt;MEL&gt;ちゃんのこと……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>4</Id>
@@ -322,7 +323,8 @@
       <PointerOffset>286432</PointerOffset>
       <VoiceId>&lt;VSM_300_070_022&gt;</VoiceId>
       <JapaneseText>あ……逃げた……！
-</JapaneseText>
+&lt;DIO&gt;、&lt;MEL&gt;、
+追わないと……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>22</Id>
@@ -368,7 +370,8 @@
     <Entry>
       <PointerOffset>288028</PointerOffset>
       <VoiceId>&lt;VSM_300_070_026&gt;</VoiceId>
-      <JapaneseText>今のこの身は</JapaneseText>
+      <JapaneseText>今のこの身は&lt;Red&gt;ダオス城&lt;White&gt;で眠る
+我が残存思念の夢に過ぎぬ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>26</Id>
@@ -380,7 +383,7 @@
       <PointerOffset>288844</PointerOffset>
       <VoiceId>&lt;VSM_300_070_027&gt;</VoiceId>
       <JapaneseText>あいつは……
-</JapaneseText>
+&lt;Red&gt;ダオス城&lt;White&gt;に……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>27</Id>
@@ -429,7 +432,7 @@
       <PointerOffset>290040</PointerOffset>
       <VoiceId>&lt;VSM_300_070_031&gt;</VoiceId>
       <JapaneseText>ね？　いいでしょ？
-</JapaneseText>
+&lt;RND_P&gt;さん</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>31</Id>
@@ -466,7 +469,7 @@
       <VoiceId>&lt;VSM_300_070_034&gt;</VoiceId>
       <JapaneseText>……ダオスはたぶん、
 この世界の南西のはじにある、
-</JapaneseText>
+&lt;Red&gt;ダオス城&lt;White&gt;にいるよ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>34</Id>
@@ -1550,7 +1553,7 @@
     <Entry>
       <PointerOffset>114720</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>152</Id>
@@ -1567,7 +1570,7 @@
     <Entry>
       <PointerOffset>115260</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>154</Id>
@@ -1632,7 +1635,7 @@
     </Entry>
     <Entry>
       <PointerOffset>117628</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

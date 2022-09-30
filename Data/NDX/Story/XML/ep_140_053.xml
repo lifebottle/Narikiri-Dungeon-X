@@ -94,7 +94,9 @@
     <Entry>
       <PointerOffset>259680</PointerOffset>
       <VoiceId>&lt;VSM_140_050_021&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;Red&gt;ユークリッド&lt;White&gt;及び&lt;Red&gt;トーティス&lt;White&gt;、
+その他、多くの街が
+魔物に襲撃されています！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>3</Id>
@@ -106,7 +108,8 @@
       <PointerOffset>259680</PointerOffset>
       <VoiceId>&lt;VSM_140_050_022&gt;</VoiceId>
       <JapaneseText>どうやら、その魔物たちは
-</JapaneseText>
+&lt;Red&gt;スルト深林&lt;White&gt;から来ていると
+思われます！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>4</Id>
@@ -117,7 +120,7 @@
     <Entry>
       <PointerOffset>260584</PointerOffset>
       <VoiceId>&lt;VSM_140_050_023&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;Red&gt;スルト深林&lt;White&gt;だと？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>5</Id>
@@ -191,7 +194,8 @@
       <PointerOffset>261336</PointerOffset>
       <VoiceId>&lt;VSM_140_050_029&gt;</VoiceId>
       <JapaneseText>このままでは、
-</JapaneseText>
+&lt;Red&gt;トーティス&lt;White&gt;や&lt;Red&gt;ユークリッド&lt;White&gt;で
+多くの犠牲者が出ます！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>11</Id>
@@ -215,7 +219,9 @@
     <Entry>
       <PointerOffset>262068</PointerOffset>
       <VoiceId>&lt;VSM_140_050_032&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;CLE&gt;さん……わたしたちは
+&lt;Red&gt;スルト深林&lt;White&gt;へ行った方が
+いいのではないでしょうか？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>13</Id>
@@ -265,7 +271,7 @@
       <PointerOffset>262684</PointerOffset>
       <VoiceId>&lt;VSM_140_050_036&gt;</VoiceId>
       <JapaneseText>はい。それでは
-</JapaneseText>
+&lt;Red&gt;12星座の塔&lt;White&gt;へ行きましょう！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>17</Id>
@@ -313,7 +319,8 @@
       <PointerOffset>263320</PointerOffset>
       <VoiceId>&lt;VSM_140_050_040&gt;</VoiceId>
       <JapaneseText>僕たちは、これから
-</JapaneseText>
+&lt;Red&gt;12星座の塔&lt;White&gt;へ行く。
+君たちとはここでお別れだ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>21</Id>
@@ -385,7 +392,7 @@
       <PointerOffset>265704</PointerOffset>
       <VoiceId>&lt;VSM_140_050_046&gt;</VoiceId>
       <JapaneseText>行こうぜ……！
-</JapaneseText>
+&lt;CLE&gt;さんたちの後を追おう</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>27</Id>
@@ -396,7 +403,8 @@
     <Entry>
       <PointerOffset>266156</PointerOffset>
       <VoiceId>&lt;VSM_140_050_047&gt;</VoiceId>
-      <JapaneseText>……</JapaneseText>
+      <JapaneseText>……&lt;DIO&gt;、
+もう平気なの？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>28</Id>
@@ -419,7 +427,7 @@
     <Entry>
       <PointerOffset>266616</PointerOffset>
       <VoiceId>&lt;VSM_140_050_049&gt;</VoiceId>
-      <JapaneseText>どうしたの、</JapaneseText>
+      <JapaneseText>どうしたの、&lt;DIO&gt;</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>30</Id>
@@ -431,7 +439,7 @@
       <PointerOffset>266848</PointerOffset>
       <VoiceId>&lt;VSM_140_050_050&gt;</VoiceId>
       <JapaneseText>なんでもない……
-</JapaneseText>
+&lt;Red&gt;12星座の塔&lt;White&gt;に行こう</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>31</Id>
@@ -1537,7 +1545,7 @@
     <Entry>
       <PointerOffset>114720</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>151</Id>
@@ -1554,7 +1562,7 @@
     <Entry>
       <PointerOffset>115260</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>153</Id>
@@ -1619,7 +1627,7 @@
     </Entry>
     <Entry>
       <PointerOffset>117628</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

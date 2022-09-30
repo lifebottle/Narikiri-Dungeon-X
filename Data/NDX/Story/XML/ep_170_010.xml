@@ -53,7 +53,7 @@
     <Entry>
       <PointerOffset>259916</PointerOffset>
       <VoiceId>&lt;VSM_170_010_003&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;DIO&gt;？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>3</Id>
@@ -113,7 +113,8 @@
     <Entry>
       <PointerOffset>260848</PointerOffset>
       <VoiceId>&lt;VSM_170_010_008&gt;</VoiceId>
-      <JapaneseText>ちょっと、</JapaneseText>
+      <JapaneseText>ちょっと、&lt;MEL&gt;、
+きみ、そんなこと……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>8</Id>
@@ -137,7 +138,8 @@
       <PointerOffset>261488</PointerOffset>
       <VoiceId>&lt;VSM_170_010_010&gt;</VoiceId>
       <JapaneseText>大切なエレメンツポットを
-壊すし、</JapaneseText>
+壊すし、&lt;CLE&gt;さんの代わりも
+ちゃんとできない</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>10</Id>
@@ -148,7 +150,8 @@
     <Entry>
       <PointerOffset>261488</PointerOffset>
       <VoiceId>&lt;VSM_170_010_011&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;MEL&gt;が魔物に襲われた時も
+すぐ動けなかった</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>11</Id>
@@ -185,7 +188,8 @@
       <PointerOffset>262160</PointerOffset>
       <VoiceId>&lt;VSM_170_010_017&gt;</VoiceId>
       <JapaneseText>バジルさんだけじゃない……
-</JapaneseText>
+&lt;KLA&gt;さんも、
+&lt;CLE&gt;さんも&lt;MIN&gt;さんも……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>14</Id>
@@ -1318,7 +1322,7 @@
     <Entry>
       <PointerOffset>114720</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>136</Id>
@@ -1335,7 +1339,7 @@
     <Entry>
       <PointerOffset>115260</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>138</Id>
@@ -1400,7 +1404,7 @@
     </Entry>
     <Entry>
       <PointerOffset>117628</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

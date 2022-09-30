@@ -123,7 +123,9 @@
     <Entry>
       <PointerOffset>260852</PointerOffset>
       <VoiceId>&lt;VSM_180_030_013&gt;</VoiceId>
-      <JapaneseText>オレには</JapaneseText>
+      <JapaneseText>オレには&lt;RND_P&gt;がダオスと
+会わずにすんで、ほっと
+してるふうにも見えるぜ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>6</Id>
@@ -251,7 +253,7 @@
       <PointerOffset>265204</PointerOffset>
       <VoiceId>&lt;VSM_180_030_024&gt;</VoiceId>
       <JapaneseText>私も……
-</JapaneseText>
+&lt;CLE&gt;さんと同じです</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>17</Id>
@@ -324,7 +326,7 @@
     <Entry>
       <PointerOffset>267808</PointerOffset>
       <VoiceId>&lt;VSM_180_030_030&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;CLE&gt;さんも？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>23</Id>
@@ -359,7 +361,8 @@
     <Entry>
       <PointerOffset>268612</PointerOffset>
       <VoiceId>&lt;VSM_180_030_033&gt;</VoiceId>
-      <JapaneseText>まったく、</JapaneseText>
+      <JapaneseText>まったく、&lt;CLE&gt;も&lt;MIN&gt;も
+真面目すぎるぜ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>26</Id>
@@ -382,7 +385,9 @@
     <Entry>
       <PointerOffset>269384</PointerOffset>
       <VoiceId>&lt;VSM_180_030_035&gt;</VoiceId>
-      <JapaneseText>オレ……</JapaneseText>
+      <JapaneseText>オレ……&lt;CLE&gt;さんも
+&lt;MIN&gt;さんもがんばって
+『英雄』やらなくてもいいと思う</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>28</Id>
@@ -393,7 +398,7 @@
     <Entry>
       <PointerOffset>269992</PointerOffset>
       <VoiceId>&lt;VSM_180_030_036&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;DIO&gt;……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>29</Id>
@@ -442,7 +447,9 @@
     <Entry>
       <PointerOffset>271292</PointerOffset>
       <VoiceId>&lt;VSM_180_030_040&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;DIO&gt;は自然体のままの
+ふたりでも十分魅力的って
+言いたいんだよね？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>33</Id>
@@ -476,7 +483,9 @@
     <Entry>
       <PointerOffset>273676</PointerOffset>
       <VoiceId>&lt;VSM_180_030_043&gt;</VoiceId>
-      <JapaneseText>だって、</JapaneseText>
+      <JapaneseText>だって、&lt;Red&gt;トーティス村&lt;White&gt;の
+皆さん、おふたりのこと
+大好きみたいでしたから</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>36</Id>
@@ -537,7 +546,8 @@
       <PointerOffset>277828</PointerOffset>
       <VoiceId>&lt;VSM_180_030_048&gt;</VoiceId>
       <JapaneseText>あ！　オ、オレ、なんか
-</JapaneseText>
+&lt;CLE&gt;さんに
+偉そうなこと言っちゃった？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>41</Id>
@@ -548,7 +558,8 @@
     <Entry>
       <PointerOffset>278848</PointerOffset>
       <VoiceId>&lt;VSM_180_030_049&gt;</VoiceId>
-      <JapaneseText>いや、ありがとう、</JapaneseText>
+      <JapaneseText>いや、ありがとう、&lt;DIO&gt;。
+&lt;MEL&gt;も、それに&lt;CST&gt;も</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>42</Id>
@@ -1643,7 +1654,7 @@
     <Entry>
       <PointerOffset>114720</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>161</Id>
@@ -1660,7 +1671,7 @@
     <Entry>
       <PointerOffset>115260</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>163</Id>
@@ -1725,7 +1736,7 @@
     </Entry>
     <Entry>
       <PointerOffset>117628</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

@@ -58,7 +58,7 @@
     <Entry>
       <PointerOffset>262304</PointerOffset>
       <VoiceId>&lt;VSM_210_070_002&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;MEL&gt;、そこにいるの？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>2</Id>
@@ -80,7 +80,8 @@
     <Entry>
       <PointerOffset>262640</PointerOffset>
       <VoiceId>&lt;VSM_210_070_004&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;DIO&gt;も！？
+真っ暗で見えないよ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>4</Id>
@@ -113,7 +114,7 @@
     <Entry>
       <PointerOffset>265256</PointerOffset>
       <VoiceId>&lt;VSM_210_070_007&gt;</VoiceId>
-      <JapaneseText>私は藤林</JapaneseText>
+      <JapaneseText>私は藤林&lt;SUZ&gt;と申します</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>7</Id>
@@ -125,7 +126,7 @@
       <PointerOffset>265256</PointerOffset>
       <VoiceId>&lt;VSM_210_070_008&gt;</VoiceId>
       <JapaneseText>以前、あなたと契約した
-</JapaneseText>
+&lt;KLA&gt;さんの知り合いです</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>8</Id>
@@ -136,7 +137,7 @@
     <Entry>
       <PointerOffset>265460</PointerOffset>
       <VoiceId>&lt;VSM_210_070_009&gt;</VoiceId>
-      <JapaneseText>我・知る・</JapaneseText>
+      <JapaneseText>我・知る・&lt;KLA&gt;</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>9</Id>
@@ -1292,7 +1293,7 @@
     <Entry>
       <PointerOffset>114720</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>133</Id>
@@ -1309,7 +1310,7 @@
     <Entry>
       <PointerOffset>115260</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>135</Id>
@@ -1374,7 +1375,7 @@
     </Entry>
     <Entry>
       <PointerOffset>117628</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

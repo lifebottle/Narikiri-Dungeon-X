@@ -166,7 +166,7 @@
       <VoiceId>&lt;VSM_030_060_023&gt;</VoiceId>
       <JapaneseText>明るい薔薇色（ブライトローズ）？
 あたしの名前は
-</JapaneseText>
+&lt;ARC&gt;・クライン</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>10</Id>
@@ -177,7 +177,7 @@
     <Entry>
       <PointerOffset>282648</PointerOffset>
       <VoiceId>&lt;VSM_030_060_024&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;ARC&gt;……って……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>11</Id>
@@ -285,7 +285,9 @@
     <Entry>
       <PointerOffset>286332</PointerOffset>
       <VoiceId>&lt;VSM_030_060_033&gt;</VoiceId>
-      <JapaneseText>その、</JapaneseText>
+      <JapaneseText>その、&lt;ARC&gt;さんは
+&lt;Red&gt;ヴァルハラ&lt;White&gt;のこと、
+知らないんですね？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>20</Id>
@@ -296,7 +298,8 @@
     <Entry>
       <PointerOffset>286472</PointerOffset>
       <VoiceId>&lt;VSM_030_060_034&gt;</VoiceId>
-      <JapaneseText>最近、</JapaneseText>
+      <JapaneseText>最近、&lt;Red&gt;ヴァルハラ&lt;White&gt;には
+行ってないしね</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>21</Id>
@@ -319,7 +322,7 @@
     <Entry>
       <PointerOffset>287168</PointerOffset>
       <VoiceId>&lt;VSM_030_060_036&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;MEL&gt;……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>23</Id>
@@ -390,7 +393,7 @@
       <PointerOffset>289400</PointerOffset>
       <VoiceId>&lt;VSM_030_060_048&gt;</VoiceId>
       <JapaneseText>ま、でも餅は餅屋って言うしぃ、
-</JapaneseText>
+&lt;KLA&gt;に聞いてくれば？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>29</Id>
@@ -401,7 +404,8 @@
     <Entry>
       <PointerOffset>289612</PointerOffset>
       <VoiceId>&lt;VSM_030_060_049&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;KLA&gt;？　それって……
+&lt;KLA&gt;・Ｆ・レスター博士？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>30</Id>
@@ -541,7 +545,9 @@
     <Entry>
       <PointerOffset>293300</PointerOffset>
       <VoiceId>&lt;VSM_030_060_065&gt;</VoiceId>
-      <JapaneseText>そうそう、</JapaneseText>
+      <JapaneseText>そうそう、&lt;KLA&gt;は、
+&lt;Red&gt;ユークリッド&lt;White&gt;って村に
+いるからね〜</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>42</Id>
@@ -553,7 +559,7 @@
       <PointerOffset>293496</PointerOffset>
       <VoiceId>&lt;VSM_030_060_062&gt;</VoiceId>
       <JapaneseText>ありがとう……ございます。
-</JapaneseText>
+&lt;ARC&gt;さん</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>43</Id>
@@ -608,7 +614,7 @@
     <Entry>
       <PointerOffset>296088</PointerOffset>
       <VoiceId>&lt;VSM_030_060_068&gt;</VoiceId>
-      <JapaneseText>ありがとうございます、</JapaneseText>
+      <JapaneseText>ありがとうございます、&lt;ARC&gt;</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>48</Id>
@@ -1739,7 +1745,7 @@
     <Entry>
       <PointerOffset>114720</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>170</Id>
@@ -1756,7 +1762,7 @@
     <Entry>
       <PointerOffset>115260</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>172</Id>
@@ -1821,7 +1827,7 @@
     </Entry>
     <Entry>
       <PointerOffset>117628</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

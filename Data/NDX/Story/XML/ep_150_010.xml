@@ -63,7 +63,7 @@
     <Entry>
       <PointerOffset>279224</PointerOffset>
       <VoiceId>&lt;VSM_150_010_001&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;CLE&gt;さん！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>1</Id>
@@ -401,7 +401,8 @@
     <Entry>
       <PointerOffset>300508</PointerOffset>
       <VoiceId>&lt;VSM_150_010_029&gt;</VoiceId>
-      <JapaneseText>違うよ、</JapaneseText>
+      <JapaneseText>違うよ、&lt;DIO&gt;……！
+ぼくがぶつかったかラ……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>29</Id>
@@ -483,7 +484,7 @@
       <PointerOffset>303608</PointerOffset>
       <VoiceId>&lt;VSM_150_010_036&gt;</VoiceId>
       <JapaneseText>そ、そうだよな……
-行こう、</JapaneseText>
+行こう、&lt;MEL&gt;</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>36</Id>
@@ -1578,7 +1579,7 @@
     <Entry>
       <PointerOffset>114720</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>155</Id>
@@ -1595,7 +1596,7 @@
     <Entry>
       <PointerOffset>115260</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>157</Id>
@@ -1660,7 +1661,7 @@
     </Entry>
     <Entry>
       <PointerOffset>117628</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

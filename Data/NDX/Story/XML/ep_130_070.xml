@@ -126,7 +126,9 @@
     <Entry>
       <PointerOffset>261220</PointerOffset>
       <VoiceId>&lt;VSM_130_070_006&gt;</VoiceId>
-      <JapaneseText>もしかして、</JapaneseText>
+      <JapaneseText>もしかして、&lt;CLE&gt;さんが
+なんでも指示するから、
+自分で何も考えないのか？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>7</Id>
@@ -148,7 +150,7 @@
     <Entry>
       <PointerOffset>261612</PointerOffset>
       <VoiceId>&lt;VSM_130_070_008&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;CLE&gt;様々だな</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>9</Id>
@@ -220,7 +222,9 @@
     <Entry>
       <PointerOffset>263804</PointerOffset>
       <VoiceId>&lt;VSM_130_070_014&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;Red&gt;ヴァルハラ&lt;White&gt;のちんけな犯罪組織の
+鎮圧仕事など、バカバカしくて
+やってられません</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>15</Id>
@@ -232,7 +236,7 @@
       <PointerOffset>263944</PointerOffset>
       <VoiceId>&lt;VSM_130_070_015&gt;</VoiceId>
       <JapaneseText>そう言うな。
-</JapaneseText>
+&lt;CLE&gt;様の持ってきた仕事だ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>16</Id>
@@ -281,7 +285,8 @@
       <PointerOffset>264476</PointerOffset>
       <VoiceId>&lt;VSM_130_070_019&gt;</VoiceId>
       <JapaneseText>さてと、そろそろ、
-</JapaneseText>
+&lt;CLE&gt;様にはちゃんと
+働いてもらわないとな</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>20</Id>
@@ -305,7 +310,7 @@
       <PointerOffset>265620</PointerOffset>
       <VoiceId>&lt;VSM_130_070_021&gt;</VoiceId>
       <JapaneseText>こいつ……！
-</JapaneseText>
+&lt;CLE&gt;様の代理やってた……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>22</Id>
@@ -328,7 +333,7 @@
     <Entry>
       <PointerOffset>266024</PointerOffset>
       <VoiceId>&lt;VSM_130_070_023&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;DIO&gt;！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>24</Id>
@@ -339,7 +344,8 @@
     <Entry>
       <PointerOffset>266716</PointerOffset>
       <VoiceId>&lt;VSM_130_070_024&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;CLE&gt;さん！
+こいつら……ひどいんだ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>25</Id>
@@ -1456,7 +1462,7 @@
     <Entry>
       <PointerOffset>114720</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>146</Id>
@@ -1473,7 +1479,7 @@
     <Entry>
       <PointerOffset>115260</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>148</Id>
@@ -1538,7 +1544,7 @@
     </Entry>
     <Entry>
       <PointerOffset>117628</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

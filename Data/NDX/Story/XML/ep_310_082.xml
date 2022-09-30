@@ -302,7 +302,7 @@
       <PointerOffset>287008</PointerOffset>
       <VoiceId>&lt;VSM_310_080_041&gt;</VoiceId>
       <JapaneseText>ディオスとメルティアは
-</JapaneseText>
+&lt;Red&gt;審理の晶谷&lt;White&gt;にいるよ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>22</Id>
@@ -313,7 +313,7 @@
     <Entry>
       <PointerOffset>287548</PointerOffset>
       <VoiceId>&lt;VSM_310_080_042&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;Red&gt;審理の晶谷&lt;White&gt;……？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>23</Id>
@@ -324,7 +324,7 @@
     <Entry>
       <PointerOffset>287788</PointerOffset>
       <VoiceId>&lt;VSM_310_080_043&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;RND_P&gt;はどうするの？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>24</Id>
@@ -1487,7 +1487,7 @@
     <Entry>
       <PointerOffset>113528</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>149</Id>
@@ -1504,7 +1504,7 @@
     <Entry>
       <PointerOffset>114068</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>151</Id>
@@ -1569,7 +1569,7 @@
     </Entry>
     <Entry>
       <PointerOffset>116436</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

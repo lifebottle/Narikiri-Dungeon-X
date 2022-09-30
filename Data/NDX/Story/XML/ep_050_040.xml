@@ -125,7 +125,8 @@
     <Entry>
       <PointerOffset>282588</PointerOffset>
       <VoiceId>&lt;VSM_050_040_006&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;Red&gt;熱砂の洞窟&lt;White&gt;で
+お会いしたんです</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>7</Id>
@@ -149,7 +150,7 @@
       <PointerOffset>282924</PointerOffset>
       <VoiceId>&lt;VSM_050_040_008&gt;</VoiceId>
       <JapaneseText>君たち、
-本当に</JapaneseText>
+本当に&lt;Red&gt;熱砂の洞窟&lt;White&gt;に……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>9</Id>
@@ -185,7 +186,8 @@
       <PointerOffset>284084</PointerOffset>
       <VoiceId>&lt;VSM_050_040_013&gt;</VoiceId>
       <JapaneseText>もしかして、ミラルドさん、
-</JapaneseText>
+&lt;KLA&gt;さんにもう一度、
+研究をがんばってもらいたくて……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>12</Id>
@@ -379,7 +381,8 @@
     <Entry>
       <PointerOffset>287600</PointerOffset>
       <VoiceId>&lt;VSM_050_040_033&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;KLA&gt;。
+私は好きでここにいるのよ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>28</Id>
@@ -460,7 +463,7 @@
     <Entry>
       <PointerOffset>288488</PointerOffset>
       <VoiceId>&lt;VSM_050_040_042&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;KLA&gt;……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>35</Id>
@@ -542,7 +545,7 @@
     <Entry>
       <PointerOffset>291000</PointerOffset>
       <VoiceId>&lt;VSM_050_040_049&gt;</VoiceId>
-      <JapaneseText>ちょっと、</JapaneseText>
+      <JapaneseText>ちょっと、&lt;DIO&gt;……！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>42</Id>
@@ -640,7 +643,9 @@
     <Entry>
       <PointerOffset>293640</PointerOffset>
       <VoiceId>&lt;VSM_050_040_059&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;Red&gt;ヴァルハラ&lt;White&gt;の
+バジルという学者なら
+何か知ってるかもしれない</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>50</Id>
@@ -722,7 +727,7 @@
       <PointerOffset>295288</PointerOffset>
       <VoiceId>&lt;VSM_050_040_066&gt;</VoiceId>
       <JapaneseText>それから、
-私のことは</JapaneseText>
+私のことは&lt;KLA&gt;でいい</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>57</Id>
@@ -1853,7 +1858,7 @@
     <Entry>
       <PointerOffset>114720</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>179</Id>
@@ -1870,7 +1875,7 @@
     <Entry>
       <PointerOffset>115260</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>181</Id>
@@ -1935,7 +1940,7 @@
     </Entry>
     <Entry>
       <PointerOffset>117628</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

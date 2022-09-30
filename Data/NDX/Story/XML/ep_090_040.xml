@@ -133,7 +133,7 @@
     <Entry>
       <PointerOffset>282700</PointerOffset>
       <VoiceId>&lt;VSM_090_040_012&gt;</VoiceId>
-      <JapaneseText>待て、</JapaneseText>
+      <JapaneseText>待て、&lt;RND_P&gt;！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>9</Id>
@@ -156,7 +156,8 @@
       <PointerOffset>283552</PointerOffset>
       <VoiceId>&lt;VSM_090_040_015&gt;</VoiceId>
       <JapaneseText>ダオスって……
-</JapaneseText>
+&lt;KLA&gt;さんたちが
+倒したんだろ？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>11</Id>
@@ -204,7 +205,9 @@
     <Entry>
       <PointerOffset>284520</PointerOffset>
       <VoiceId>&lt;VSM_090_040_019&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;RND_P&gt;も、みんなと一緒で
+世界を守るために
+戦いたかったんじゃねーのか？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>15</Id>
@@ -274,7 +277,7 @@
       <PointerOffset>285432</PointerOffset>
       <VoiceId>&lt;VSM_090_040_025&gt;</VoiceId>
       <JapaneseText>そうだな。
-</JapaneseText>
+&lt;MEL&gt;……帰ろう</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>21</Id>
@@ -1426,7 +1429,7 @@
     <Entry>
       <PointerOffset>113776</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>145</Id>
@@ -1443,7 +1446,7 @@
     <Entry>
       <PointerOffset>114316</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>147</Id>
@@ -1508,7 +1511,7 @@
     </Entry>
     <Entry>
       <PointerOffset>116684</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

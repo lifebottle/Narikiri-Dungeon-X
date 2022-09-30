@@ -118,7 +118,7 @@
     <Entry>
       <PointerOffset>284144</PointerOffset>
       <VoiceId>&lt;VSM_060_010_008&gt;</VoiceId>
-      <JapaneseText>……</JapaneseText>
+      <JapaneseText>……&lt;RND_P&gt;！？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>6</Id>
@@ -129,7 +129,7 @@
     <Entry>
       <PointerOffset>284728</PointerOffset>
       <VoiceId>&lt;VSM_060_010_009&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;KLA&gt;！？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>7</Id>
@@ -141,7 +141,8 @@
       <PointerOffset>285016</PointerOffset>
       <VoiceId>&lt;VSM_060_010_010&gt;</VoiceId>
       <JapaneseText>ここは……
-</JapaneseText>
+&lt;Red&gt;ローンヴァレイ&lt;White&gt;？
+なんで……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>8</Id>
@@ -164,7 +165,7 @@
       <PointerOffset>285740</PointerOffset>
       <VoiceId>&lt;VSM_060_010_012&gt;</VoiceId>
       <JapaneseText>何？
-</JapaneseText>
+&lt;KLA&gt;さんの知ってるヤツ？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>10</Id>
@@ -201,7 +202,8 @@
     <Entry>
       <PointerOffset>287404</PointerOffset>
       <VoiceId>&lt;VSM_060_010_015&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;RND&gt;・Ｅ・
+エッフェンベルグだよ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>13</Id>
@@ -235,7 +237,8 @@
     <Entry>
       <PointerOffset>287684</PointerOffset>
       <VoiceId>&lt;VSM_060_010_018&gt;</VoiceId>
-      <JapaneseText>たった今、</JapaneseText>
+      <JapaneseText>たった今、&lt;Red&gt;ダオス城&lt;White&gt;から
+飛ばされてきたばかりだよ？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>16</Id>
@@ -400,7 +403,9 @@
     <Entry>
       <PointerOffset>293816</PointerOffset>
       <VoiceId>&lt;VSM_060_010_037&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;MEL&gt;です。
+よろしくお願いします。
+ロンデ、ロンデロ……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>30</Id>
@@ -411,7 +416,8 @@
     <Entry>
       <PointerOffset>294236</PointerOffset>
       <VoiceId>&lt;VSM_060_010_038&gt;</VoiceId>
-      <JapaneseText>フフッ、</JapaneseText>
+      <JapaneseText>フフッ、&lt;RND_P&gt;でいいよ。
+よろしく</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>31</Id>
@@ -1551,7 +1557,7 @@
     <Entry>
       <PointerOffset>114720</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>154</Id>
@@ -1568,7 +1574,7 @@
     <Entry>
       <PointerOffset>115260</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>156</Id>
@@ -1633,7 +1639,7 @@
     </Entry>
     <Entry>
       <PointerOffset>117628</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

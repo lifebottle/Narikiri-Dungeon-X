@@ -50,7 +50,7 @@
     <Entry>
       <PointerOffset>259544</PointerOffset>
       <VoiceId>&lt;VSM_300_080_002&gt;</VoiceId>
-      <JapaneseText>どうしたの？　</JapaneseText>
+      <JapaneseText>どうしたの？　&lt;MEL&gt;ちゃん</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>2</Id>
@@ -61,7 +61,9 @@
     <Entry>
       <PointerOffset>259724</PointerOffset>
       <VoiceId>&lt;VSM_300_080_003&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;RND_P&gt;さん、
+やっぱりわたしたちのこと、
+許せないですか？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>3</Id>
@@ -129,7 +131,8 @@
     <Entry>
       <PointerOffset>261172</PointerOffset>
       <VoiceId>&lt;VSM_300_080_009&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;MEL&gt;ちゃん、カワイイ。
+食べちゃっていい？∀</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>9</Id>
@@ -202,7 +205,8 @@
       <PointerOffset>262092</PointerOffset>
       <VoiceId>&lt;VSM_300_080_015&gt;</VoiceId>
       <JapaneseText>でも、そっちの方が
-ダオスにも、</JapaneseText>
+ダオスにも、&lt;RND_P&gt;さんにも
+幸せだったと思います</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>15</Id>
@@ -237,7 +241,8 @@
     <Entry>
       <PointerOffset>262644</PointerOffset>
       <VoiceId>&lt;VSM_300_080_018&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;RND_P&gt;さん、
+そんなにダオスを……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>18</Id>
@@ -274,7 +279,7 @@
       <PointerOffset>263900</PointerOffset>
       <VoiceId>&lt;VSM_300_080_021&gt;</VoiceId>
       <JapaneseText>よろしくお願いします、
-</JapaneseText>
+&lt;RND_P&gt;さん</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>21</Id>
@@ -296,7 +301,7 @@
     <Entry>
       <PointerOffset>264792</PointerOffset>
       <VoiceId>&lt;VSM_300_080_023&gt;</VoiceId>
-      <JapaneseText>……よろしくね……</JapaneseText>
+      <JapaneseText>……よろしくね……&lt;RND_P&gt;</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>23</Id>
@@ -1414,7 +1419,7 @@
     <Entry>
       <PointerOffset>113528</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>144</Id>
@@ -1431,7 +1436,7 @@
     <Entry>
       <PointerOffset>114068</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>146</Id>
@@ -1496,7 +1501,7 @@
     </Entry>
     <Entry>
       <PointerOffset>116436</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

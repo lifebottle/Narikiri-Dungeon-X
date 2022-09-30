@@ -82,7 +82,7 @@
       <PointerOffset>259572</PointerOffset>
       <VoiceId>&lt;VSM_070_040_006&gt;</VoiceId>
       <JapaneseText>ウンディーネってことは
-</JapaneseText>
+&lt;Red&gt;浸食洞&lt;White&gt;か……あそこはな……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>4</Id>
@@ -104,7 +104,8 @@
     <Entry>
       <PointerOffset>260536</PointerOffset>
       <VoiceId>&lt;VSM_070_040_008&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;Red&gt;浸食洞&lt;White&gt;は現在、
+アルヴァニスタの管理下にある</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>6</Id>
@@ -246,7 +247,8 @@
     <Entry>
       <PointerOffset>262908</PointerOffset>
       <VoiceId>&lt;VSM_070_040_023&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;KLA&gt;はいいのよ、
+&lt;KLA&gt;は</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>18</Id>
@@ -258,7 +260,8 @@
       <PointerOffset>263104</PointerOffset>
       <VoiceId>&lt;VSM_070_040_024&gt;</VoiceId>
       <JapaneseText>バジルさんに
-お願いすれば</JapaneseText>
+お願いすれば&lt;Red&gt;浸食洞&lt;White&gt;に
+入る許可がもらえるんですね</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>19</Id>
@@ -269,7 +272,8 @@
     <Entry>
       <PointerOffset>263412</PointerOffset>
       <VoiceId>&lt;VSM_070_040_025&gt;</VoiceId>
-      <JapaneseText>あの人、</JapaneseText>
+      <JapaneseText>あの人、&lt;Red&gt;ヴァルハラ村&lt;White&gt;に
+いるんだよな？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>20</Id>
@@ -1364,7 +1368,7 @@
     <Entry>
       <PointerOffset>114720</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>139</Id>
@@ -1381,7 +1385,7 @@
     <Entry>
       <PointerOffset>115260</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>141</Id>
@@ -1446,7 +1450,7 @@
     </Entry>
     <Entry>
       <PointerOffset>117628</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

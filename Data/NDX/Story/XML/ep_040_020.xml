@@ -116,7 +116,7 @@
       <PointerOffset>265480</PointerOffset>
       <VoiceId>&lt;VSM_040_020_007&gt;</VoiceId>
       <JapaneseText>あなたが
-</JapaneseText>
+&lt;KLA&gt;さん、ですか？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>7</Id>
@@ -151,7 +151,8 @@
       <PointerOffset>265760</PointerOffset>
       <VoiceId>&lt;VSM_040_020_010&gt;</VoiceId>
       <JapaneseText>実は魔術の暴走を止めるために
-</JapaneseText>
+&lt;KLA&gt;さんに
+会いに来たんです</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>10</Id>
@@ -213,7 +214,8 @@
       <PointerOffset>267172</PointerOffset>
       <VoiceId>&lt;VSM_040_020_017&gt;</VoiceId>
       <JapaneseText>残念だったな、
-</JapaneseText>
+&lt;KLA&gt;・Ｆ・レスターが、
+こんな人間で</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>15</Id>
@@ -273,7 +275,8 @@
       <PointerOffset>268512</PointerOffset>
       <VoiceId>&lt;VSM_040_020_022&gt;</VoiceId>
       <JapaneseText>ここから東、フレイランドの
-</JapaneseText>
+&lt;Red&gt;熱砂の洞窟&lt;White&gt;に四大精霊の一体、
+イフリートがいる</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>20</Id>
@@ -370,7 +373,7 @@
     <Entry>
       <PointerOffset>270292</PointerOffset>
       <VoiceId>&lt;VSM_040_020_030&gt;</VoiceId>
-      <JapaneseText>行こ、</JapaneseText>
+      <JapaneseText>行こ、&lt;DIO&gt;</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>28</Id>
@@ -381,7 +384,7 @@
     <Entry>
       <PointerOffset>270944</PointerOffset>
       <VoiceId>&lt;VSM_040_020_031&gt;</VoiceId>
-      <JapaneseText>え？　ちょっ、</JapaneseText>
+      <JapaneseText>え？　ちょっ、&lt;MEL&gt;？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>29</Id>
@@ -1488,7 +1491,7 @@
     <Entry>
       <PointerOffset>114720</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>149</Id>
@@ -1505,7 +1508,7 @@
     <Entry>
       <PointerOffset>115260</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>151</Id>
@@ -1570,7 +1573,7 @@
     </Entry>
     <Entry>
       <PointerOffset>117628</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

@@ -159,7 +159,8 @@
     <Entry>
       <PointerOffset>283996</PointerOffset>
       <VoiceId>&lt;VSM_240_010_104&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;RND_P&gt;……
+気がすんだか？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>7</Id>
@@ -293,7 +294,8 @@
       <PointerOffset>287748</PointerOffset>
       <VoiceId>&lt;VSM_240_010_115&gt;</VoiceId>
       <JapaneseText>そっか……
-</JapaneseText>
+&lt;RND_P&gt;さん、
+ダオスのこと……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>18</Id>
@@ -363,7 +365,8 @@
     <Entry>
       <PointerOffset>294780</PointerOffset>
       <VoiceId>&lt;VSM_240_010_121&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;Red&gt;ヴァルハラ&lt;White&gt;で『シグルド』が
+使ってたものじゃないかな</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>24</Id>
@@ -411,7 +414,9 @@
     <Entry>
       <PointerOffset>296764</PointerOffset>
       <VoiceId>&lt;VSM_240_010_125&gt;</VoiceId>
-      <JapaneseText>なんだ……</JapaneseText>
+      <JapaneseText>なんだ……&lt;MEL&gt;の
+せいじゃねーよな、
+これって</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>28</Id>
@@ -518,7 +523,8 @@
     <Entry>
       <PointerOffset>301948</PointerOffset>
       <VoiceId>&lt;VSM_240_010_134&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;RND_P&gt;はどうすんだ。
+またダオスを……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>37</Id>
@@ -567,7 +573,7 @@
       <PointerOffset>304860</PointerOffset>
       <VoiceId>&lt;VSM_240_010_138&gt;</VoiceId>
       <JapaneseText>それじゃあ、
-</JapaneseText>
+&lt;DIO&gt;、&lt;MEL&gt;、がんばって</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>41</Id>
@@ -578,7 +584,8 @@
     <Entry>
       <PointerOffset>305200</PointerOffset>
       <VoiceId>&lt;VSM_240_010_139&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;ARC&gt;、元気でな。
+寂しくて、泣くなよ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>42</Id>
@@ -789,7 +796,8 @@
     <Entry>
       <PointerOffset>312104</PointerOffset>
       <VoiceId>&lt;VSM_240_010_157&gt;</VoiceId>
-      <JapaneseText>あ、</JapaneseText>
+      <JapaneseText>あ、&lt;DIO&gt;……
+まったく、もう！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>60</Id>
@@ -822,7 +830,8 @@
     <Entry>
       <PointerOffset>313748</PointerOffset>
       <VoiceId>&lt;VSM_240_010_160&gt;</VoiceId>
-      <JapaneseText>あ、</JapaneseText>
+      <JapaneseText>あ、&lt;MEL&gt;まで……！！
+まったく……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>63</Id>
@@ -1918,7 +1927,7 @@
     <Entry>
       <PointerOffset>113776</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>182</Id>
@@ -1935,7 +1944,7 @@
     <Entry>
       <PointerOffset>114316</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>184</Id>
@@ -2000,7 +2009,7 @@
     </Entry>
     <Entry>
       <PointerOffset>116684</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

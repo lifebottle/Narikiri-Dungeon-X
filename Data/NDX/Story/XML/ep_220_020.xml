@@ -168,7 +168,8 @@
     <Entry>
       <PointerOffset>284016</PointerOffset>
       <VoiceId>&lt;VSM_220_020_007&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;RND_P&gt;、
+行っちゃうのか？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>7</Id>
@@ -212,7 +213,9 @@
     <Entry>
       <PointerOffset>285132</PointerOffset>
       <VoiceId>&lt;VSM_220_020_011&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;SUZ&gt;ちゃんが
+ピンチだって言えば、
+必ず飛んできてくれる人たち</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>11</Id>
@@ -257,7 +260,8 @@
     <Entry>
       <PointerOffset>290252</PointerOffset>
       <VoiceId>&lt;VSM_220_020_015&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;SUZ&gt;ちゃん！
+ピンチなんだって！？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>15</Id>
@@ -312,7 +316,7 @@
     <Entry>
       <PointerOffset>292076</PointerOffset>
       <VoiceId>&lt;VSM_220_020_020&gt;</VoiceId>
-      <JapaneseText>久しぶりだね、</JapaneseText>
+      <JapaneseText>久しぶりだね、&lt;SUZ&gt;ちゃん</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>20</Id>
@@ -373,7 +377,7 @@
       <VoiceId>&lt;VSM_220_020_026&gt;</VoiceId>
       <JapaneseText>ああ。とりあえず、
 こっちはひと段落ついたし。
-</JapaneseText>
+&lt;DIO&gt;たちのおかげでね</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>25</Id>
@@ -397,7 +401,8 @@
       <PointerOffset>295420</PointerOffset>
       <VoiceId>&lt;VSM_220_020_028&gt;</VoiceId>
       <JapaneseText>本当にありがとうございます。
-</JapaneseText>
+&lt;RND_P&gt;さんも大切な力を
+私のために……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>27</Id>
@@ -409,7 +414,7 @@
       <PointerOffset>295684</PointerOffset>
       <VoiceId>&lt;VSM_220_020_029&gt;</VoiceId>
       <JapaneseText>これは私たちの世界のため。
-</JapaneseText>
+&lt;MEL&gt;ちゃんも言ってたっしょ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>28</Id>
@@ -455,7 +460,8 @@
     <Entry>
       <PointerOffset>298504</PointerOffset>
       <VoiceId>&lt;VSM_220_020_035&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;Red&gt;ネルヴィの洞窟&lt;White&gt;。
+そこにプルートが</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>32</Id>
@@ -1550,7 +1556,7 @@
     <Entry>
       <PointerOffset>113528</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>151</Id>
@@ -1567,7 +1573,7 @@
     <Entry>
       <PointerOffset>114068</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>153</Id>
@@ -1632,7 +1638,7 @@
     </Entry>
     <Entry>
       <PointerOffset>116436</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

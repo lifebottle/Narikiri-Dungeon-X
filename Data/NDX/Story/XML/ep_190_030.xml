@@ -65,7 +65,7 @@
       <VoiceId>&lt;VSM_190_030_001&gt;</VoiceId>
       <JapaneseText>申し遅れました。わたし、
 この里の忍びたちを率いる
-頭領、藤林</JapaneseText>
+頭領、藤林&lt;SUZ&gt;と申します</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>1</Id>
@@ -77,7 +77,7 @@
       <PointerOffset>278136</PointerOffset>
       <VoiceId>&lt;VSM_190_030_002&gt;</VoiceId>
       <JapaneseText>おふたりのことは、
-</JapaneseText>
+&lt;RND_P&gt;さんから聞きました</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>2</Id>
@@ -99,7 +99,8 @@
     <Entry>
       <PointerOffset>278912</PointerOffset>
       <VoiceId>&lt;VSM_190_030_004&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;SUZ&gt;って……
+もしかして、時空戦士の……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>4</Id>
@@ -134,7 +135,8 @@
     <Entry>
       <PointerOffset>280340</PointerOffset>
       <VoiceId>&lt;VSM_190_030_007&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;RND_P&gt;さんは
+なんでここにいるの？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>7</Id>
@@ -190,7 +192,8 @@
     <Entry>
       <PointerOffset>282280</PointerOffset>
       <VoiceId>&lt;VSM_190_030_012&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;SUZ&gt;ちゃん、もう一度、
+事情を話してあげてちょうだい</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>12</Id>
@@ -386,7 +389,9 @@
     <Entry>
       <PointerOffset>286456</PointerOffset>
       <VoiceId>&lt;VSM_190_030_029&gt;</VoiceId>
-      <JapaneseText>エトとも</JapaneseText>
+      <JapaneseText>エトとも&lt;KUL&gt;とも
+はなればなれに
+なっちゃったし……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>28</Id>
@@ -397,7 +402,8 @@
     <Entry>
       <PointerOffset>286652</PointerOffset>
       <VoiceId>&lt;VSM_190_030_030&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;KUL&gt;？
+それって……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>29</Id>
@@ -546,7 +552,9 @@
     <Entry>
       <PointerOffset>292204</PointerOffset>
       <VoiceId>&lt;VSM_190_030_044&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;SUZ&gt;さんの一族は、
+魔界の勢力と戦わなきゃ
+いけないんですよね</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>42</Id>
@@ -570,7 +578,8 @@
     <Entry>
       <PointerOffset>292484</PointerOffset>
       <VoiceId>&lt;VSM_190_030_046&gt;</VoiceId>
-      <JapaneseText>でも、</JapaneseText>
+      <JapaneseText>でも、&lt;SUZ&gt;さんは頭領なんですよね？
+……いいの？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>44</Id>
@@ -605,7 +614,7 @@
       <PointerOffset>292764</PointerOffset>
       <VoiceId>&lt;VSM_190_030_049&gt;</VoiceId>
       <JapaneseText>エトちゃんを探しに
-もう一回、</JapaneseText>
+もう一回、&lt;Red&gt;トール&lt;White&gt;へ行こ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>47</Id>
@@ -1689,7 +1698,7 @@
     <Entry>
       <PointerOffset>114720</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>165</Id>
@@ -1706,7 +1715,7 @@
     <Entry>
       <PointerOffset>115260</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>167</Id>
@@ -1771,7 +1780,7 @@
     </Entry>
     <Entry>
       <PointerOffset>117628</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

@@ -66,7 +66,8 @@
     <Entry>
       <PointerOffset>261496</PointerOffset>
       <VoiceId>&lt;VSM_120_020_002&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;ARC&gt;の奴に
+会ったんだろ？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>2</Id>
@@ -77,7 +78,8 @@
     <Entry>
       <PointerOffset>261692</PointerOffset>
       <VoiceId>&lt;VSM_120_020_003&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;ARC&gt;さん？
+あ、ええ、会いました</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>3</Id>
@@ -196,7 +198,8 @@
       <PointerOffset>263472</PointerOffset>
       <VoiceId>&lt;VSM_120_020_013&gt;</VoiceId>
       <JapaneseText>……悪ぃ。
-</JapaneseText>
+&lt;KLA&gt;にも
+会ったのか？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>13</Id>
@@ -209,7 +212,7 @@
       <VoiceId>&lt;VSM_120_020_014&gt;</VoiceId>
       <JapaneseText>うん。
 あ、そうだ、
-</JapaneseText>
+&lt;RND_P&gt;にも会ったぜ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>14</Id>
@@ -220,7 +223,7 @@
     <Entry>
       <PointerOffset>263864</PointerOffset>
       <VoiceId>&lt;VSM_120_020_015&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;RND_P&gt;に？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>15</Id>
@@ -1515,7 +1518,7 @@
     <Entry>
       <PointerOffset>114720</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>151</Id>
@@ -1532,7 +1535,7 @@
     <Entry>
       <PointerOffset>115260</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>153</Id>
@@ -1597,7 +1600,7 @@
     </Entry>
     <Entry>
       <PointerOffset>117628</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:0087&gt;%s&lt;White&gt;&lt;color:00ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
