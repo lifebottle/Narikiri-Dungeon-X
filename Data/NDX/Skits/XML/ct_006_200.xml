@@ -1,0 +1,160 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>38312,39112,40076,40604,41972,43312,44144,45360</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>38312</PointerOffset>
+      <VoiceId>&lt;VCT_006_200_001&gt;</VoiceId>
+      <JapaneseText>う〜〜〜〜〜ん……
+………ん〜〜〜〜〜〜</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>1</Id>
+      <UnknownPointer>25</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39112</PointerOffset>
+      <VoiceId>&lt;VCT_006_200_002&gt;</VoiceId>
+      <JapaneseText>困っただぁ、あ〜、困っただ……
+おらはどしたら、よかんべ？</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>2</Id>
+      <UnknownPointer>25</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40076</PointerOffset>
+      <VoiceId>&lt;VCT_006_200_003&gt;</VoiceId>
+      <JapaneseText>やっぱ選べねぇだ！　こっだら娘っ子揃ったら、
+おら、ひとりに絞るのは難しいだ！</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>3</Id>
+      <UnknownPointer>25</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40604</PointerOffset>
+      <VoiceId>&lt;VCT_006_200_004&gt;</VoiceId>
+      <JapaneseText>&lt;MEL&gt;&lt;MEL&gt;が一番なのは当然だが、
+&lt;SUZ&gt;ちんもなかなか捨てがたいだーな</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>4</Id>
+      <UnknownPointer>25</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41972</PointerOffset>
+      <VoiceId>&lt;VCT_006_200_005&gt;</VoiceId>
+      <JapaneseText>&lt;RND_P&gt;たんもあのボディは群を抜いてるだが、
+ミーたまもなかなかの物を持ってるだで</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>5</Id>
+      <UnknownPointer>25</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43312</PointerOffset>
+      <VoiceId>&lt;VCT_006_200_006&gt;</VoiceId>
+      <JapaneseText>いんや〜〜おら選べね！　誰かひとりにするなんて、
+選ばれなかった娘っ子がかわいそうだーよ……</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>6</Id>
+      <UnknownPointer>25</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44144</PointerOffset>
+      <VoiceId>&lt;VCT_006_200_007&gt;</VoiceId>
+      <JapaneseText>ん？　まだ他にも娘っ子がいるっでが？
+あー、ほうき女とエト助かい？</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>7</Id>
+      <UnknownPointer>25</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45360</PointerOffset>
+      <VoiceId>&lt;VCT_006_200_008&gt;</VoiceId>
+      <JapaneseText>ありゃボール球だ</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>8</Id>
+      <UnknownPointer>25</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Other Strings</Section>
+    <Entry>
+      <PointerOffset>12684</PointerOffset>
+      <JapaneseText>
+【あなたのwTime設定は失敗致しました】
+
+</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33512</PointerOffset>
+      <JapaneseText>ERROR : chatWaitVoice(int vtime) が呼ばれる回数が多杉
+</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34140</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34324</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35564</PointerOffset>
+      <JapaneseText>sleep多すぎ %d フレーム減らせ！
+ </JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <TextStart>46448</TextStart>
+</SceneText>

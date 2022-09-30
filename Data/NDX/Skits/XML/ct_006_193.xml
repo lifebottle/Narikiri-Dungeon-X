@@ -1,0 +1,305 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>37512,38764,40020,52264</PointerOffset>
+      <JapaneseText>&lt;MEL&gt;</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38348,39520,52436</PointerOffset>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40872,44276,46444,48904,49248,50600,51552</PointerOffset>
+      <JapaneseText>&lt;DIO&gt;</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42584,47692,51072</PointerOffset>
+      <JapaneseText>&lt;RND&gt;</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48396</PointerOffset>
+      <JapaneseText>&lt;MEL&gt;＆エトス</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37512</PointerOffset>
+      <VoiceId>&lt;VCT_006_193_001&gt;</VoiceId>
+      <JapaneseText>やった！　できたぁ……！</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>1</Id>
+      <UnknownPointer>13</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38348</PointerOffset>
+      <VoiceId>&lt;VCT_006_193_002&gt;</VoiceId>
+      <JapaneseText>どうしたの？　何かいいこと、あったの？</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>2</Id>
+      <UnknownPointer>24</UnknownPointer>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38764</PointerOffset>
+      <VoiceId>&lt;VCT_006_193_003&gt;</VoiceId>
+      <JapaneseText>うん！　ずっと書きためてたコレクター図鑑が
+いっぱいになったんだ！</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>3</Id>
+      <UnknownPointer>13</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39520</PointerOffset>
+      <VoiceId>&lt;VCT_006_193_004&gt;</VoiceId>
+      <JapaneseText>すごいや、&lt;MEL&gt;！　おめでとう</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>4</Id>
+      <UnknownPointer>24</UnknownPointer>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40020</PointerOffset>
+      <VoiceId>&lt;VCT_006_193_005&gt;</VoiceId>
+      <JapaneseText>ありがと♪　えへへ</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>5</Id>
+      <UnknownPointer>13</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40872</PointerOffset>
+      <VoiceId>&lt;VCT_006_193_006&gt;</VoiceId>
+      <JapaneseText>甘い！　甘いぜ！
+フルーツポンチくらい甘い！</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>6</Id>
+      <UnknownPointer>12</UnknownPointer>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42584</PointerOffset>
+      <VoiceId>&lt;VCT_006_193_007&gt;</VoiceId>
+      <JapaneseText>な、何ぃ！　貴様は&lt;DIO&gt;ッ！
+一体この図鑑のどこが甘いと言うんだぁー</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>7</Id>
+      <UnknownPointer>22</UnknownPointer>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44276</PointerOffset>
+      <VoiceId>&lt;VCT_006_193_008&gt;</VoiceId>
+      <JapaneseText>クックックッ……　わからんか。
+わからんか。わ・か・ら・ん・かァ〜</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>8</Id>
+      <UnknownPointer>12</UnknownPointer>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46444</PointerOffset>
+      <VoiceId>&lt;VCT_006_193_009&gt;</VoiceId>
+      <JapaneseText>ならば教えてやろう！　その図鑑にはこのおれが
+幼少の頃に作った『万能高枝虫取り網』が無いのだぁ</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>9</Id>
+      <UnknownPointer>12</UnknownPointer>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47692</PointerOffset>
+      <VoiceId>&lt;VCT_006_193_010&gt;</VoiceId>
+      <JapaneseText>な、なんだってー！</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>10</Id>
+      <UnknownPointer>22</UnknownPointer>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48396</PointerOffset>
+      <VoiceId>&lt;VCT_006_193_011&gt;</VoiceId>
+      <JapaneseText>……………………</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>11</Id>
+      <UnknownPointer>0</UnknownPointer>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48904</PointerOffset>
+      <VoiceId>&lt;VCT_006_193_013&gt;</VoiceId>
+      <JapaneseText>高いところに留まったセミなどを捕まえられる
+優れものよ……</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>12</Id>
+      <UnknownPointer>12</UnknownPointer>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>49248</PointerOffset>
+      <VoiceId>&lt;VCT_006_193_014&gt;</VoiceId>
+      <JapaneseText>これならもうラクラク捕れます！
+もう高いからってあきらめる必要はありません！</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>13</Id>
+      <UnknownPointer>12</UnknownPointer>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>50600</PointerOffset>
+      <VoiceId>&lt;VCT_006_193_015&gt;</VoiceId>
+      <JapaneseText>さあ、この万能高枝虫取り網を使って、
+セミをたくさん手に入れましょう！</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>14</Id>
+      <UnknownPointer>12</UnknownPointer>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>51072</PointerOffset>
+      <VoiceId>&lt;VCT_006_193_016&gt;</VoiceId>
+      <JapaneseText>効果には個人差があるのを気をつけないとね。
+でも、私にも捕れるかしら？</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>15</Id>
+      <UnknownPointer>22</UnknownPointer>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>51552</PointerOffset>
+      <VoiceId>&lt;VCT_006_193_017&gt;</VoiceId>
+      <JapaneseText>だーいじょうぶ！　長さも調節できるから安心！
+さあ、次はあなたの番です！</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>16</Id>
+      <UnknownPointer>12</UnknownPointer>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>52264</PointerOffset>
+      <VoiceId>&lt;VCT_006_193_018&gt;</VoiceId>
+      <JapaneseText>……さ、行こっか</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>17</Id>
+      <UnknownPointer>13</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>52436</PointerOffset>
+      <VoiceId>&lt;VCT_006_193_019&gt;</VoiceId>
+      <JapaneseText>……そうだね</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>18</Id>
+      <UnknownPointer>24</UnknownPointer>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Other Strings</Section>
+    <Entry>
+      <PointerOffset>12684</PointerOffset>
+      <JapaneseText>
+【あなたのwTime設定は失敗致しました】
+
+</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33512</PointerOffset>
+      <JapaneseText>ERROR : chatWaitVoice(int vtime) が呼ばれる回数が多杉
+</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34140</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34324</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35564</PointerOffset>
+      <JapaneseText>sleep多すぎ %d フレーム減らせ！
+ </JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <TextStart>53404</TextStart>
+</SceneText>

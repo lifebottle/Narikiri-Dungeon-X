@@ -1,0 +1,162 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>37208,39204</PointerOffset>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37952,41100</PointerOffset>
+      <JapaneseText>&lt;MEL&gt;</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38632,39872,39984</PointerOffset>
+      <JapaneseText>&lt;DIO&gt;</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37208</PointerOffset>
+      <VoiceId>&lt;VCT_004_133_001&gt;</VoiceId>
+      <JapaneseText>さっきの&lt;DIO&gt;の一撃、
+ものすごい威力だったね、びっくりしちゃった</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>1</Id>
+      <UnknownPointer>24</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37952</PointerOffset>
+      <VoiceId>&lt;VCT_004_133_002&gt;</VoiceId>
+      <JapaneseText>魔物が吹き飛んじゃったもん。
+あれがあればどんな敵が来ても安心かも♪</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>2</Id>
+      <UnknownPointer>13</UnknownPointer>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38632</PointerOffset>
+      <VoiceId>&lt;VCT_004_133_003&gt;</VoiceId>
+      <JapaneseText>ふっ……甘いな……</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>3</Id>
+      <UnknownPointer>12</UnknownPointer>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39204</PointerOffset>
+      <VoiceId>&lt;VCT_004_133_004&gt;</VoiceId>
+      <JapaneseText>え……何？　まさか、もっとすごいこと
+考えてる、とか？</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>4</Id>
+      <UnknownPointer>24</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39872</PointerOffset>
+      <VoiceId>&lt;VCT_004_133_005&gt;</VoiceId>
+      <JapaneseText>いや……</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>5</Id>
+      <UnknownPointer>12</UnknownPointer>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39984</PointerOffset>
+      <VoiceId>&lt;VCT_004_133_006&gt;</VoiceId>
+      <JapaneseText>この攻撃、使い方が難しすぎて
+次も出せる自信がないっ！</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>6</Id>
+      <UnknownPointer>12</UnknownPointer>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41100</PointerOffset>
+      <VoiceId>&lt;VCT_004_133_007&gt;</VoiceId>
+      <JapaneseText>それ、威張るとこ……！？</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>7</Id>
+      <UnknownPointer>13</UnknownPointer>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Other Strings</Section>
+    <Entry>
+      <PointerOffset>12684</PointerOffset>
+      <JapaneseText>
+【あなたのwTime設定は失敗致しました】
+
+</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33512</PointerOffset>
+      <JapaneseText>ERROR : chatWaitVoice(int vtime) が呼ばれる回数が多杉
+</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34140</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34324</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35564</PointerOffset>
+      <JapaneseText>sleep多すぎ %d フレーム減らせ！
+ </JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <TextStart>41668</TextStart>
+</SceneText>

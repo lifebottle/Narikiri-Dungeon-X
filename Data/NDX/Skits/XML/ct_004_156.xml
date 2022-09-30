@@ -1,0 +1,232 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>37640</PointerOffset>
+      <JapaneseText>&lt;MEL&gt;</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38016,40508</PointerOffset>
+      <JapaneseText>&lt;RND&gt;</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38672</PointerOffset>
+      <JapaneseText>&lt;MIN&gt;</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39496</PointerOffset>
+      <JapaneseText>&lt;SUZ&gt;</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42616,43376,45580,46000</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44560,46748</PointerOffset>
+      <JapaneseText>&lt;ARC&gt;</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37640</PointerOffset>
+      <VoiceId>&lt;VCT_004_156_001&gt;</VoiceId>
+      <JapaneseText>このメンバーでの戦闘も、だいぶ慣れてきましたね</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>1</Id>
+      <UnknownPointer>13</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38016</PointerOffset>
+      <VoiceId>&lt;VCT_004_156_002&gt;</VoiceId>
+      <JapaneseText>うんうん、やっぱり&lt;MIN&gt;の法術があると、
+安心して攻撃に集中できるよ</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>2</Id>
+      <UnknownPointer>22</UnknownPointer>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38672</PointerOffset>
+      <VoiceId>&lt;VCT_004_156_003&gt;</VoiceId>
+      <JapaneseText>そんなことありません。&lt;MEL&gt;ちゃんや&lt;SUZ&gt;ちゃんが
+頑張ってくれているので、詠唱に集中できるだけです</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>3</Id>
+      <UnknownPointer>17</UnknownPointer>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39496</PointerOffset>
+      <VoiceId>&lt;VCT_004_156_004&gt;</VoiceId>
+      <JapaneseText>&lt;RND_P&gt;さんの動きに比べれば、私などまだまだです。
+もっと修行して、&lt;RND_P&gt;さんのようになりたいです</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>4</Id>
+      <UnknownPointer>20</UnknownPointer>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40508</PointerOffset>
+      <VoiceId>&lt;VCT_004_156_005&gt;</VoiceId>
+      <JapaneseText>あれ〜&lt;SUZ&gt;ちゃん？
+そんなに褒めても、なんも出ないよ？∀</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>5</Id>
+      <UnknownPointer>22</UnknownPointer>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42616</PointerOffset>
+      <VoiceId>&lt;VCT_004_156_006&gt;</VoiceId>
+      <JapaneseText>おらは今、歴史の生き証人になってるだ。
+強さだけでなく、美しさも兼ね備えているパーティだよ</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>6</Id>
+      <UnknownPointer>25</UnknownPointer>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43376</PointerOffset>
+      <VoiceId>&lt;VCT_004_156_007&gt;</VoiceId>
+      <JapaneseText>戦う女性は、すんばらしい！　すんばらしいだぁ！
+このパーティのまんま、最後まで突っ切って行くだーよ！</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>7</Id>
+      <UnknownPointer>25</UnknownPointer>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44560</PointerOffset>
+      <VoiceId>&lt;VCT_004_156_008&gt;</VoiceId>
+      <JapaneseText>つんつん。あのー、あたしもいるんですけど？</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>8</Id>
+      <UnknownPointer>15</UnknownPointer>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45580</PointerOffset>
+      <VoiceId>&lt;VCT_004_156_009&gt;</VoiceId>
+      <JapaneseText>ん？　あら？　おんやぁ？　おめぇも入りてぇだが？</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>9</Id>
+      <UnknownPointer>25</UnknownPointer>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46000</PointerOffset>
+      <VoiceId>&lt;VCT_004_156_010&gt;</VoiceId>
+      <JapaneseText>…………いやぁ、ああ、すまんこってや、無理だど</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>10</Id>
+      <UnknownPointer>25</UnknownPointer>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46748</PointerOffset>
+      <VoiceId>&lt;VCT_004_156_011&gt;</VoiceId>
+      <JapaneseText>あんたが決めんの！？</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>11</Id>
+      <UnknownPointer>15</UnknownPointer>
+      <SpeakerId>6</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Other Strings</Section>
+    <Entry>
+      <PointerOffset>12684</PointerOffset>
+      <JapaneseText>
+【あなたのwTime設定は失敗致しました】
+
+</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33512</PointerOffset>
+      <JapaneseText>ERROR : chatWaitVoice(int vtime) が呼ばれる回数が多杉
+</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34140</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34324</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35564</PointerOffset>
+      <JapaneseText>sleep多すぎ %d フレーム減らせ！
+ </JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <TextStart>47316</TextStart>
+</SceneText>

@@ -1,0 +1,279 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>37420,40308,41508,43076,43860,45392,46572</PointerOffset>
+      <JapaneseText>&lt;DIO&gt;</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39732,41152,46272,47620</PointerOffset>
+      <JapaneseText>&lt;MEL&gt;</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42364,47928,48380</PointerOffset>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44432</PointerOffset>
+      <JapaneseText>&lt;KUL&gt;</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>49528</PointerOffset>
+      <JapaneseText>&lt;DIO&gt;＆&lt;MEL&gt;</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37420</PointerOffset>
+      <VoiceId>&lt;VCT_004_162_001&gt;</VoiceId>
+      <JapaneseText>あ！　お金みっけ！　ラッキー！！
+……って、あ……ビンのふたか。ちっ……</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>1</Id>
+      <UnknownPointer>12</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39732</PointerOffset>
+      <VoiceId>&lt;VCT_004_162_002&gt;</VoiceId>
+      <JapaneseText>よしなよ、&lt;DIO&gt;、みっともない</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>2</Id>
+      <UnknownPointer>13</UnknownPointer>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40308</PointerOffset>
+      <VoiceId>&lt;VCT_004_162_003&gt;</VoiceId>
+      <JapaneseText>うるせー！　今のオレは盗賊！
+金目のものは見逃がさねーぜ</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>3</Id>
+      <UnknownPointer>12</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41152</PointerOffset>
+      <VoiceId>&lt;VCT_004_162_004&gt;</VoiceId>
+      <JapaneseText>……いつもとそんなにかわらないじゃない</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>4</Id>
+      <UnknownPointer>13</UnknownPointer>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41508</PointerOffset>
+      <VoiceId>&lt;VCT_004_162_005&gt;</VoiceId>
+      <JapaneseText>そんなことない！　な、エト？</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>5</Id>
+      <UnknownPointer>12</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42364</PointerOffset>
+      <VoiceId>&lt;VCT_004_162_006&gt;</VoiceId>
+      <JapaneseText>え？　そ、そう、だった、かな……</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>6</Id>
+      <UnknownPointer>24</UnknownPointer>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43076</PointerOffset>
+      <VoiceId>&lt;VCT_004_162_007&gt;</VoiceId>
+      <JapaneseText>ちょっ、エト……！　目そらすなよ！</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>7</Id>
+      <UnknownPointer>12</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43860</PointerOffset>
+      <VoiceId>&lt;VCT_004_162_008&gt;</VoiceId>
+      <JapaneseText>……あ！　おまえならわかるよな、&lt;KUL&gt;</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>8</Id>
+      <UnknownPointer>12</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44432</PointerOffset>
+      <VoiceId>&lt;VCT_004_162_009&gt;</VoiceId>
+      <JapaneseText>クルール？　クル？　クルルン？</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>9</Id>
+      <UnknownPointer>14</UnknownPointer>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45392</PointerOffset>
+      <VoiceId>&lt;VCT_004_162_010&gt;</VoiceId>
+      <JapaneseText>ほら、&lt;KUL&gt;もこう言ってんぞ。
+盗賊のオレの目にくるいはねーぜ！</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>10</Id>
+      <UnknownPointer>12</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46272</PointerOffset>
+      <VoiceId>&lt;VCT_004_162_011&gt;</VoiceId>
+      <JapaneseText>……そのでまかせっぷりが盗賊っぽいよね</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>11</Id>
+      <UnknownPointer>13</UnknownPointer>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46572</PointerOffset>
+      <VoiceId>&lt;VCT_004_162_012&gt;</VoiceId>
+      <JapaneseText>なんだと！　おまえ、盗賊をバカにすんなよ！
+盗賊はひとすじの流れ星の男の美学なんだぞ？</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>12</Id>
+      <UnknownPointer>12</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47620</PointerOffset>
+      <VoiceId>&lt;VCT_004_162_013&gt;</VoiceId>
+      <JapaneseText>……意味わかんないよ</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>13</Id>
+      <UnknownPointer>13</UnknownPointer>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47928</PointerOffset>
+      <VoiceId>&lt;VCT_004_162_014&gt;</VoiceId>
+      <JapaneseText>いいじゃない</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>14</Id>
+      <UnknownPointer>24</UnknownPointer>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48380</PointerOffset>
+      <VoiceId>&lt;VCT_004_162_015&gt;</VoiceId>
+      <JapaneseText>今の&lt;DIO&gt;は盗賊だからお金にせこい。
+いつもの&lt;DIO&gt;はお金にせこい、これでＯＫでしょ</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>15</Id>
+      <UnknownPointer>24</UnknownPointer>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>49528</PointerOffset>
+      <VoiceId>&lt;VCT_004_162_016&gt;</VoiceId>
+      <JapaneseText>はーい
+は〜い……ん？？？</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>16</Id>
+      <UnknownPointer>0</UnknownPointer>
+      <SpeakerId>5</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Other Strings</Section>
+    <Entry>
+      <PointerOffset>12684</PointerOffset>
+      <JapaneseText>
+【あなたのwTime設定は失敗致しました】
+
+</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33512</PointerOffset>
+      <JapaneseText>ERROR : chatWaitVoice(int vtime) が呼ばれる回数が多杉
+</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34140</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34324</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35564</PointerOffset>
+      <JapaneseText>sleep多すぎ %d フレーム減らせ！
+ </JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <TextStart>50456</TextStart>
+</SceneText>

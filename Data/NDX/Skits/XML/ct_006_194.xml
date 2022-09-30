@@ -1,0 +1,284 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>37324,37880,38168,39040,40676,42480,42844,44160,46632</PointerOffset>
+      <JapaneseText>&lt;DIO&gt;</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37436,38608</PointerOffset>
+      <JapaneseText>&lt;MEL&gt;</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37992,47048</PointerOffset>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40032,41372,45012,45704</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37324</PointerOffset>
+      <VoiceId>&lt;VCT_006_194_000&gt;</VoiceId>
+      <JapaneseText>なー、なんでそんな何回も温泉に入んだ？</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>1</Id>
+      <UnknownPointer>12</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37436</PointerOffset>
+      <VoiceId>&lt;VCT_006_194_001&gt;</VoiceId>
+      <JapaneseText>え？　だって気持ちいいよ？</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>2</Id>
+      <UnknownPointer>13</UnknownPointer>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37880</PointerOffset>
+      <VoiceId>&lt;VCT_006_194_002&gt;</VoiceId>
+      <JapaneseText>そっかー？　めんどくせーじゃん</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>3</Id>
+      <UnknownPointer>12</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37992</PointerOffset>
+      <VoiceId>&lt;VCT_006_194_003&gt;</VoiceId>
+      <JapaneseText>&lt;DIO&gt;は昔からお風呂嫌いだもんね</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>4</Id>
+      <UnknownPointer>24</UnknownPointer>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38168</PointerOffset>
+      <VoiceId>&lt;VCT_006_194_004&gt;</VoiceId>
+      <JapaneseText>そりゃ汚れたり、汗でベトベトすりゃ
+入っけど、意味もなく何度も入んのはワケわかんね</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>5</Id>
+      <UnknownPointer>12</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38608</PointerOffset>
+      <VoiceId>&lt;VCT_006_194_005&gt;</VoiceId>
+      <JapaneseText>そう？　でも温泉は体にいいんだよ</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>6</Id>
+      <UnknownPointer>13</UnknownPointer>
+      <SpeakerId>2</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39040</PointerOffset>
+      <VoiceId>&lt;VCT_006_194_006&gt;</VoiceId>
+      <JapaneseText>それってなんかじじくせー</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>7</Id>
+      <UnknownPointer>12</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40032</PointerOffset>
+      <VoiceId>&lt;VCT_006_194_007&gt;</VoiceId>
+      <JapaneseText>ま〜ったく、この毛無しのハゲぼうずは、
+本当にロマンがわかってねーやつだ</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>8</Id>
+      <UnknownPointer>25</UnknownPointer>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40676</PointerOffset>
+      <VoiceId>&lt;VCT_006_194_008&gt;</VoiceId>
+      <JapaneseText>ロマン、ロマンうるせー！
+このタンス野郎が！</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>9</Id>
+      <UnknownPointer>12</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41372</PointerOffset>
+      <VoiceId>&lt;VCT_006_194_009&gt;</VoiceId>
+      <JapaneseText>温泉といえば覗きイベントだべ。
+混浴って手もあるだよ</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>10</Id>
+      <UnknownPointer>25</UnknownPointer>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42480</PointerOffset>
+      <VoiceId>&lt;VCT_006_194_010&gt;</VoiceId>
+      <JapaneseText>……おまえ……男とか女とかわかってんのか？</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>11</Id>
+      <UnknownPointer>12</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42844</PointerOffset>
+      <VoiceId>&lt;VCT_006_194_011&gt;</VoiceId>
+      <JapaneseText>男湯には男しか入れない、女湯には女しか入れない！
+だからタンス、おまえに入れる『湯』は、ない！</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>12</Id>
+      <UnknownPointer>12</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44160</PointerOffset>
+      <VoiceId>&lt;VCT_006_194_012&gt;</VoiceId>
+      <JapaneseText>……『タンス湯』とかありゃ、おまえも入れたのにな。
+いやそもそも、湯に浸かったらマズイだろ？</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>13</Id>
+      <UnknownPointer>12</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45012</PointerOffset>
+      <VoiceId>&lt;VCT_006_194_013&gt;</VoiceId>
+      <JapaneseText>あ〜、んなもん関係ねーだ〜。
+おらはどこにでも行ける、自由な小鳥さんだーよ</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>14</Id>
+      <UnknownPointer>25</UnknownPointer>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45704</PointerOffset>
+      <VoiceId>&lt;VCT_006_194_014&gt;</VoiceId>
+      <JapaneseText>ぬはっ！　そ、そうだ、そうだよ。おらが温泉に入っだら
+&lt;MEL&gt;&lt;MEL&gt;のだ〜いじな衣装がびしょ濡れに……</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>15</Id>
+      <UnknownPointer>25</UnknownPointer>
+      <SpeakerId>4</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46632</PointerOffset>
+      <VoiceId>&lt;VCT_006_194_015&gt;</VoiceId>
+      <JapaneseText>……なんか知んねーけど、勝った……</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>16</Id>
+      <UnknownPointer>12</UnknownPointer>
+      <SpeakerId>1</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47048</PointerOffset>
+      <VoiceId>&lt;VCT_006_194_016&gt;</VoiceId>
+      <JapaneseText>……ばかなことやってないで、ほら、行くよ……</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>17</Id>
+      <UnknownPointer>24</UnknownPointer>
+      <SpeakerId>3</SpeakerId>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Other Strings</Section>
+    <Entry>
+      <PointerOffset>12684</PointerOffset>
+      <JapaneseText>
+【あなたのwTime設定は失敗致しました】
+
+</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33512</PointerOffset>
+      <JapaneseText>ERROR : chatWaitVoice(int vtime) が呼ばれる回数が多杉
+</JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34140</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34324</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35564</PointerOffset>
+      <JapaneseText>sleep多すぎ %d フレーム減らせ！
+ </JapaneseText>
+      <EnglishText></EnglishText>
+      <Notes></Notes>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <TextStart>47840</TextStart>
+</SceneText>
