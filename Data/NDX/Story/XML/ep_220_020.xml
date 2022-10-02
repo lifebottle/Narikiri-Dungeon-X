@@ -100,8 +100,9 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>1</Id>
-      <UnknownPointer>20</UnknownPointer>
+      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>20</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -113,8 +114,9 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>2</Id>
-      <UnknownPointer>13</UnknownPointer>
+      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -124,8 +126,9 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>3</Id>
-      <UnknownPointer>12</UnknownPointer>
+      <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -136,8 +139,9 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>4</Id>
-      <UnknownPointer>20</UnknownPointer>
+      <StructId>4</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>20</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -148,8 +152,9 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>5</Id>
-      <UnknownPointer>20</UnknownPointer>
+      <StructId>4</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>20</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -161,19 +166,22 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>6</Id>
-      <UnknownPointer>20</UnknownPointer>
+      <StructId>4</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>20</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>284016</PointerOffset>
       <VoiceId>&lt;VSM_220_020_007&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;RND_P&gt;、
+行っちゃうのか？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>7</Id>
-      <UnknownPointer>12</UnknownPointer>
+      <StructId>5</StructId>
       <SpeakerId>3</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -183,8 +191,9 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>8</Id>
-      <UnknownPointer>13</UnknownPointer>
+      <StructId>6</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -194,8 +203,9 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>9</Id>
-      <UnknownPointer>22</UnknownPointer>
+      <StructId>7</StructId>
       <SpeakerId>4</SpeakerId>
+      <UnknownPointer>22</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -205,19 +215,23 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>10</Id>
-      <UnknownPointer>20</UnknownPointer>
+      <StructId>8</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>20</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>285132</PointerOffset>
       <VoiceId>&lt;VSM_220_020_011&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;SUZ&gt;ちゃんが
+ピンチだって言えば、
+必ず飛んできてくれる人たち</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>11</Id>
-      <UnknownPointer>22</UnknownPointer>
+      <StructId>9</StructId>
       <SpeakerId>4</SpeakerId>
+      <UnknownPointer>22</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -227,8 +241,9 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>12</Id>
-      <UnknownPointer>20</UnknownPointer>
+      <StructId>10</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>20</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -239,8 +254,9 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>13</Id>
-      <UnknownPointer>12</UnknownPointer>
+      <StructId>11</StructId>
       <SpeakerId>3</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -250,19 +266,22 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>14</Id>
-      <UnknownPointer>24</UnknownPointer>
+      <StructId>12</StructId>
       <SpeakerId>5</SpeakerId>
+      <UnknownPointer>24</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>290252</PointerOffset>
       <VoiceId>&lt;VSM_220_020_015&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;SUZ&gt;ちゃん！
+ピンチなんだって！？</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>15</Id>
-      <UnknownPointer>15</UnknownPointer>
+      <StructId>13</StructId>
       <SpeakerId>6</SpeakerId>
+      <UnknownPointer>15</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -272,8 +291,9 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>16</Id>
-      <UnknownPointer>16</UnknownPointer>
+      <StructId>14</StructId>
       <SpeakerId>7</SpeakerId>
+      <UnknownPointer>16</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -283,8 +303,9 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>17</Id>
-      <UnknownPointer>20</UnknownPointer>
+      <StructId>15</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>20</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -294,8 +315,9 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>18</Id>
-      <UnknownPointer>14</UnknownPointer>
+      <StructId>16</StructId>
       <SpeakerId>8</SpeakerId>
+      <UnknownPointer>14</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -305,19 +327,21 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>19</Id>
-      <UnknownPointer>22</UnknownPointer>
+      <StructId>17</StructId>
       <SpeakerId>4</SpeakerId>
+      <UnknownPointer>22</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>292076</PointerOffset>
       <VoiceId>&lt;VSM_220_020_020&gt;</VoiceId>
-      <JapaneseText>久しぶりだね、</JapaneseText>
+      <JapaneseText>久しぶりだね、&lt;SUZ&gt;ちゃん</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>20</Id>
-      <UnknownPointer>19</UnknownPointer>
+      <StructId>18</StructId>
       <SpeakerId>9</SpeakerId>
+      <UnknownPointer>19</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -327,8 +351,9 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>21</Id>
-      <UnknownPointer>17</UnknownPointer>
+      <StructId>19</StructId>
       <SpeakerId>10</SpeakerId>
+      <UnknownPointer>17</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -339,8 +364,9 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>22</Id>
-      <UnknownPointer>18</UnknownPointer>
+      <StructId>20</StructId>
       <SpeakerId>11</SpeakerId>
+      <UnknownPointer>18</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -351,8 +377,9 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>23</Id>
-      <UnknownPointer>13</UnknownPointer>
+      <StructId>21</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -364,8 +391,9 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>24</Id>
-      <UnknownPointer>20</UnknownPointer>
+      <StructId>22</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>20</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -373,12 +401,13 @@
       <VoiceId>&lt;VSM_220_020_026&gt;</VoiceId>
       <JapaneseText>ああ。とりあえず、
 こっちはひと段落ついたし。
-</JapaneseText>
+&lt;DIO&gt;たちのおかげでね</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>25</Id>
-      <UnknownPointer>19</UnknownPointer>
+      <StructId>23</StructId>
       <SpeakerId>9</SpeakerId>
+      <UnknownPointer>19</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -389,32 +418,36 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>26</Id>
-      <UnknownPointer>18</UnknownPointer>
+      <StructId>24</StructId>
       <SpeakerId>11</SpeakerId>
+      <UnknownPointer>18</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>295420</PointerOffset>
       <VoiceId>&lt;VSM_220_020_028&gt;</VoiceId>
       <JapaneseText>本当にありがとうございます。
-</JapaneseText>
+&lt;RND_P&gt;さんも大切な力を
+私のために……</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>27</Id>
-      <UnknownPointer>20</UnknownPointer>
+      <StructId>25</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>20</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>295684</PointerOffset>
       <VoiceId>&lt;VSM_220_020_029&gt;</VoiceId>
       <JapaneseText>これは私たちの世界のため。
-</JapaneseText>
+&lt;MEL&gt;ちゃんも言ってたっしょ</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>28</Id>
-      <UnknownPointer>22</UnknownPointer>
+      <StructId>26</StructId>
       <SpeakerId>4</SpeakerId>
+      <UnknownPointer>22</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -424,8 +457,9 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>29</Id>
-      <UnknownPointer>20</UnknownPointer>
+      <StructId>27</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>20</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -436,8 +470,9 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>30</Id>
-      <UnknownPointer>20</UnknownPointer>
+      <StructId>27</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>20</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -448,19 +483,22 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>31</Id>
-      <UnknownPointer>12</UnknownPointer>
+      <StructId>28</StructId>
       <SpeakerId>3</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>298504</PointerOffset>
       <VoiceId>&lt;VSM_220_020_035&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
+      <JapaneseText>&lt;Red&gt;ネルヴィの洞窟&lt;White&gt;。
+そこにプルートが</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>32</Id>
-      <UnknownPointer>20</UnknownPointer>
+      <StructId>29</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>20</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -470,8 +508,9 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>33</Id>
-      <UnknownPointer>12</UnknownPointer>
+      <StructId>30</StructId>
       <SpeakerId>3</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
   </Strings>
@@ -1550,7 +1589,7 @@
     <Entry>
       <PointerOffset>113528</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:87&gt;%s&lt;White&gt;&lt;color:ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>151</Id>
@@ -1567,7 +1606,7 @@
     <Entry>
       <PointerOffset>114068</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:87&gt;%s&lt;White&gt;&lt;color:ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>153</Id>
@@ -1632,7 +1671,7 @@
     </Entry>
     <Entry>
       <PointerOffset>116436</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:87&gt;%s&lt;White&gt;&lt;color:ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>

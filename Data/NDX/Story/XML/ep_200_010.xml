@@ -60,20 +60,23 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>1</Id>
-      <UnknownPointer>20</UnknownPointer>
+      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>20</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>285172</PointerOffset>
       <VoiceId>&lt;VSM_200_010_002&gt;</VoiceId>
       <JapaneseText>左様。
-忍びの頭領、藤林</JapaneseText>
+忍びの頭領、藤林&lt;SUZ&gt;と見た。
+その命もらいうける！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>2</Id>
-      <UnknownPointer>142</UnknownPointer>
+      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>142</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -84,8 +87,9 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>3</Id>
-      <UnknownPointer>20</UnknownPointer>
+      <StructId>3</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>20</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -96,8 +100,9 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>4</Id>
-      <UnknownPointer>22</UnknownPointer>
+      <StructId>4</StructId>
       <SpeakerId>3</SpeakerId>
+      <UnknownPointer>22</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -107,8 +112,9 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>5</Id>
-      <UnknownPointer>20</UnknownPointer>
+      <StructId>5</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>20</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -118,8 +124,9 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>6</Id>
-      <UnknownPointer>14</UnknownPointer>
+      <StructId>6</StructId>
       <SpeakerId>4</SpeakerId>
+      <UnknownPointer>14</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -131,8 +138,9 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>7</Id>
-      <UnknownPointer>12</UnknownPointer>
+      <StructId>7</StructId>
       <SpeakerId>5</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -143,8 +151,9 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>8</Id>
-      <UnknownPointer>13</UnknownPointer>
+      <StructId>8</StructId>
       <SpeakerId>6</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -155,8 +164,9 @@
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>9</Id>
-      <UnknownPointer>142</UnknownPointer>
+      <StructId>9</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>142</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
   </Strings>
@@ -1235,7 +1245,7 @@
     <Entry>
       <PointerOffset>114720</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:87&gt;%s&lt;White&gt;&lt;color:ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>127</Id>
@@ -1252,7 +1262,7 @@
     <Entry>
       <PointerOffset>115260</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
+&lt;Black&gt;&lt;color:87&gt;%s&lt;White&gt;&lt;color:ff&gt;×%d</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
       <Id>129</Id>
@@ -1317,7 +1327,7 @@
     </Entry>
     <Entry>
       <PointerOffset>117628</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:87&gt;%s&lt;White&gt;&lt;color:ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
       <EnglishText></EnglishText>
       <Notes></Notes>
