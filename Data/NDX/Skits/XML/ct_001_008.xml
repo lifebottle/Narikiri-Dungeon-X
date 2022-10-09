@@ -1,27 +1,26 @@
 <SceneText>
   <Speakers>
-    <Section>Speaker</Section>
     <Entry>
       <PointerOffset>37280,40588,46300,48076</PointerOffset>
       <JapaneseText>&lt;DIO&gt;</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>37708,43076</PointerOffset>
       <JapaneseText>&lt;MEL&gt;</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>37820,39716,41560,44352,46564</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
@@ -33,22 +32,24 @@
       <VoiceId>&lt;VCT_001_008_001&gt;</VoiceId>
       <JapaneseText>あれ？　なんかヘンくね？
 さっきまで戦い疲れてたのに……</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
-      <UnknownPointer>12</UnknownPointer>
+      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>37708</PointerOffset>
       <VoiceId>&lt;VCT_001_008_002&gt;</VoiceId>
       <JapaneseText>体力が回復してる？</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
-      <UnknownPointer>13</UnknownPointer>
+      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -56,11 +57,12 @@
       <VoiceId>&lt;VCT_001_008_003&gt;</VoiceId>
       <JapaneseText>エッヘヘ〜ン！　アルベルト様が教えてやるだーよ。
 それも『なりきり士』の力のひとつだ、&lt;MEL&gt;&lt;MEL&gt;∀</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
-      <UnknownPointer>25</UnknownPointer>
+      <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -68,11 +70,12 @@
       <VoiceId>&lt;VCT_001_008_004&gt;</VoiceId>
       <JapaneseText>ノルン様の加護ある場所なら、
 大地の力で体力も全回復だ〜〜よ♪</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
-      <UnknownPointer>25</UnknownPointer>
+      <StructId>4</StructId>
       <SpeakerId>3</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -80,11 +83,12 @@
       <VoiceId>&lt;VCT_001_008_005&gt;</VoiceId>
       <JapaneseText>おまえがそんなでけーずーたい隠して、
 手伝わないから疲れるんだっての！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>5</Id>
-      <UnknownPointer>12</UnknownPointer>
+      <StructId>5</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -92,11 +96,12 @@
       <VoiceId>&lt;VCT_001_008_006&gt;</VoiceId>
       <JapaneseText>はん、おら、戦ってもええだが、衣装がボロボロになるだど！
 偉そうなこと言って。おめぇが使えねぇからだろ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>6</Id>
-      <UnknownPointer>25</UnknownPointer>
+      <StructId>6</StructId>
       <SpeakerId>3</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -104,11 +109,12 @@
       <VoiceId>&lt;VCT_001_008_007&gt;</VoiceId>
       <JapaneseText>&lt;DIO&gt;、アルベルトさんも……
 やめてください</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>7</Id>
-      <UnknownPointer>13</UnknownPointer>
+      <StructId>7</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -116,22 +122,24 @@
       <VoiceId>&lt;VCT_001_008_008&gt;</VoiceId>
       <JapaneseText>あう〜〜ん、&lt;MEL&gt;&lt;MEL&gt;ぅ、言ってやってほしいだ。
 このクソぼうずに、おらがどれだけ大変かっちゅーの</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>8</Id>
-      <UnknownPointer>25</UnknownPointer>
+      <StructId>8</StructId>
       <SpeakerId>3</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>46300</PointerOffset>
       <VoiceId>&lt;VCT_001_008_009&gt;</VoiceId>
       <JapaneseText>こんのぉ〜……</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>9</Id>
-      <UnknownPointer>12</UnknownPointer>
+      <StructId>9</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -139,11 +147,12 @@
       <VoiceId>&lt;VCT_001_008_010&gt;</VoiceId>
       <JapaneseText>っつーことで、ダンジョンから外に出れば、
 体力が全快だで、いちいち寝る必要もないだーよ</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>10</Id>
-      <UnknownPointer>25</UnknownPointer>
+      <StructId>10</StructId>
       <SpeakerId>3</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -151,11 +160,12 @@
       <VoiceId>&lt;VCT_001_008_011&gt;</VoiceId>
       <JapaneseText>……誰に向かって
 言ってんだ？</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>11</Id>
-      <UnknownPointer>12</UnknownPointer>
+      <StructId>11</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
   </Strings>
@@ -167,8 +177,8 @@
 【あなたのwTime設定は失敗致しました】
 
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>12</Id>
       <Status>To Do</Status>
     </Entry>
@@ -176,24 +186,24 @@
       <PointerOffset>33512</PointerOffset>
       <JapaneseText>ERROR : chatWaitVoice(int vtime) が呼ばれる回数が多杉
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>13</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>34140</PointerOffset>
       <JapaneseText></JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>14</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>34324</PointerOffset>
       <JapaneseText></JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>15</Id>
       <Status>To Do</Status>
     </Entry>
@@ -201,11 +211,10 @@
       <PointerOffset>35564</PointerOffset>
       <JapaneseText>sleep多すぎ %d フレーム減らせ！
  </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>16</Id>
       <Status>To Do</Status>
     </Entry>
   </Strings>
-  <TextStart>48752</TextStart>
 </SceneText>

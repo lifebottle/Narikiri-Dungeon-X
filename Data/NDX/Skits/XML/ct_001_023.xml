@@ -1,19 +1,18 @@
 <SceneText>
   <Speakers>
-    <Section>Speaker</Section>
     <Entry>
       <PointerOffset>37120,37912,38296,39932,41764</PointerOffset>
       <JapaneseText>&lt;RND&gt;</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>37744,38064,38736,39336,40724,42180</PointerOffset>
       <JapaneseText>&lt;KLA&gt;</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
@@ -25,11 +24,12 @@
       <VoiceId>&lt;VCT_001_023_001&gt;</VoiceId>
       <JapaneseText>精霊晶核って、精霊さんの卵なんだよね？
 あれから精霊さんが生まれるの？</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
-      <UnknownPointer>22</UnknownPointer>
+      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>22</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -37,22 +37,24 @@
       <VoiceId>&lt;VCT_001_023_002&gt;</VoiceId>
       <JapaneseText>簡単に言えばそうなるが、
 そんな簡単な話でもない</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
-      <UnknownPointer>18</UnknownPointer>
+      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>18</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>37912</PointerOffset>
       <VoiceId>&lt;VCT_001_023_003&gt;</VoiceId>
       <JapaneseText>…………？</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
-      <UnknownPointer>22</UnknownPointer>
+      <StructId>3</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>22</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -60,11 +62,12 @@
       <VoiceId>&lt;VCT_001_023_004&gt;</VoiceId>
       <JapaneseText>精霊晶核そのものだけでは、
 精霊は生まれないのさ</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
-      <UnknownPointer>18</UnknownPointer>
+      <StructId>4</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>18</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -72,11 +75,12 @@
       <VoiceId>&lt;VCT_001_023_005&gt;</VoiceId>
       <JapaneseText>そっか、そんな簡単に精霊さんが生まれたら、
 世界中精霊さんまみれになっちゃうもんね</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>5</Id>
-      <UnknownPointer>22</UnknownPointer>
+      <StructId>5</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>22</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -84,11 +88,12 @@
       <VoiceId>&lt;VCT_001_023_006&gt;</VoiceId>
       <JapaneseText>凝縮したマナのエネルギーを与えてやって
 初めて精霊晶核に精霊の命が宿る</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>6</Id>
-      <UnknownPointer>18</UnknownPointer>
+      <StructId>6</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>18</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -96,11 +101,12 @@
       <VoiceId>&lt;VCT_001_023_007&gt;</VoiceId>
       <JapaneseText>が、そのエネルギーというのが
 そう簡単には手に入らない</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>7</Id>
-      <UnknownPointer>18</UnknownPointer>
+      <StructId>7</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>18</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -108,11 +114,12 @@
       <VoiceId>&lt;VCT_001_023_008&gt;</VoiceId>
       <JapaneseText>そっか、つまりそれはヒヨコが生まれる卵と
 そうでない卵があるのとおんなじってことなんだね</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>8</Id>
-      <UnknownPointer>22</UnknownPointer>
+      <StructId>8</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>22</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -120,33 +127,36 @@
       <VoiceId>&lt;VCT_001_023_009&gt;</VoiceId>
       <JapaneseText>ニワトリ……まぁ、端的に言うとそうだが……
 精霊晶核がいっきに安っぽくなるな……</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>9</Id>
-      <UnknownPointer>18</UnknownPointer>
+      <StructId>9</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>18</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>41764</PointerOffset>
       <VoiceId>&lt;VCT_001_023_010&gt;</VoiceId>
       <JapaneseText>フライパン、ない？</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>10</Id>
-      <UnknownPointer>22</UnknownPointer>
+      <StructId>10</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>22</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>42180</PointerOffset>
       <VoiceId>&lt;VCT_001_023_011&gt;</VoiceId>
       <JapaneseText>食うんじゃないぞ……</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>11</Id>
-      <UnknownPointer>18</UnknownPointer>
+      <StructId>11</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>18</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
   </Strings>
@@ -158,8 +168,8 @@
 【あなたのwTime設定は失敗致しました】
 
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>12</Id>
       <Status>To Do</Status>
     </Entry>
@@ -167,24 +177,24 @@
       <PointerOffset>33512</PointerOffset>
       <JapaneseText>ERROR : chatWaitVoice(int vtime) が呼ばれる回数が多杉
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>13</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>34140</PointerOffset>
       <JapaneseText></JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>14</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>34324</PointerOffset>
       <JapaneseText></JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>15</Id>
       <Status>To Do</Status>
     </Entry>
@@ -192,11 +202,10 @@
       <PointerOffset>35564</PointerOffset>
       <JapaneseText>sleep多すぎ %d フレーム減らせ！
  </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>16</Id>
       <Status>To Do</Status>
     </Entry>
   </Strings>
-  <TextStart>42680</TextStart>
 </SceneText>
