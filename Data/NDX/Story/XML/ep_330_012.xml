@@ -4,96 +4,96 @@
     <Entry>
       <PointerOffset>283728,283880,284032</PointerOffset>
       <JapaneseText>ノルン</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>286400,290564,290856,297224,303304,304748,306808,306960,307328,308532,308948,311664,312848</PointerOffset>
       <JapaneseText>&lt;DIO&gt;</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>290340,291204,296824</PointerOffset>
       <JapaneseText>&lt;CLE&gt;</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>291740,303640,305468,306084,307808,311148,312396,313196</PointerOffset>
       <JapaneseText>&lt;MEL&gt;</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>292076</PointerOffset>
       <JapaneseText>&lt;MIN&gt;</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>5</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>292584,294440</PointerOffset>
       <JapaneseText>&lt;ARC&gt;</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>6</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>293196,295848</PointerOffset>
       <JapaneseText>&lt;KLA&gt;</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>7</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>295624</PointerOffset>
       <JapaneseText>&lt;CST&gt;</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>8</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>296128,296280</PointerOffset>
       <JapaneseText>&lt;SUZ&gt;</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>9</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>299148,315744</PointerOffset>
       <JapaneseText>&lt;RND&gt;</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>10</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>304084,305076,309540,309972,310492,310644,311992,314948,315100,315968,316120,316272</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>11</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>317092</PointerOffset>
       <JapaneseText>&lt;KUL&gt;</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>12</Id>
       <Status>To Do</Status>
     </Entry>
@@ -105,11 +105,12 @@
       <VoiceId>&lt;VSM_330_010_064&gt;</VoiceId>
       <JapaneseText>この強さが
 あなたがたの生きてきた証</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>1</Id>
-      <UnknownPointer>26</UnknownPointer>
+      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>26</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -118,11 +119,12 @@
       <JapaneseText>過ちを受け止めた
 あなたがたの覚悟、
 見せてもらいました</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>2</Id>
-      <UnknownPointer>26</UnknownPointer>
+      <StructId>2</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>26</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -130,22 +132,24 @@
       <VoiceId>&lt;VSM_330_010_066&gt;</VoiceId>
       <JapaneseText>これで私の役目は終わりです。
 さようなら……</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>3</Id>
-      <UnknownPointer>26</UnknownPointer>
+      <StructId>3</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>26</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>286400</PointerOffset>
       <VoiceId>&lt;VSM_330_010_067&gt;</VoiceId>
       <JapaneseText>エト……！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>4</Id>
-      <UnknownPointer>12</UnknownPointer>
+      <StructId>4</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -153,33 +157,38 @@
       <VoiceId>&lt;VSM_330_010_068&gt;</VoiceId>
       <JapaneseText>エトくんは
 無事みたいだね</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>5</Id>
-      <UnknownPointer>19</UnknownPointer>
+      <StructId>5</StructId>
       <SpeakerId>3</SpeakerId>
+      <UnknownPointer>19</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>290564</PointerOffset>
       <VoiceId>&lt;VSM_330_010_069&gt;</VoiceId>
       <JapaneseText>ああ、うん</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>6</Id>
-      <UnknownPointer>12</UnknownPointer>
+      <StructId>6</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>290856</PointerOffset>
       <VoiceId>&lt;VSM_330_010_070&gt;</VoiceId>
-      <JapaneseText>……</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <JapaneseText>……&lt;CLE&gt;さんたち、
+こんなとこまでついて
+きてくれて……あんがと</JapaneseText>
+      <EnglishText/>
+      <Notes/>
       <Id>7</Id>
-      <UnknownPointer>12</UnknownPointer>
+      <StructId>7</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -188,22 +197,24 @@
       <JapaneseText>いいや……
 ここまで君たちと一緒に
 旅ができてよかったよ</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>8</Id>
-      <UnknownPointer>19</UnknownPointer>
+      <StructId>8</StructId>
       <SpeakerId>3</SpeakerId>
+      <UnknownPointer>19</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>291740</PointerOffset>
       <VoiceId>&lt;VSM_330_010_072&gt;</VoiceId>
       <JapaneseText>わたしたちもです……！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>9</Id>
-      <UnknownPointer>13</UnknownPointer>
+      <StructId>9</StructId>
       <SpeakerId>4</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -212,34 +223,38 @@
       <JapaneseText>デリス・カーラーンで
 何があったか……
 それを知ることができましたし……</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>10</Id>
-      <UnknownPointer>17</UnknownPointer>
+      <StructId>10</StructId>
       <SpeakerId>5</SpeakerId>
+      <UnknownPointer>17</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>292584</PointerOffset>
       <VoiceId>&lt;VSM_330_010_074&gt;</VoiceId>
       <JapaneseText>うん……それに君たちが
-いてくれたから、</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+いてくれたから、&lt;CLE&gt;や&lt;MIN&gt;、
+&lt;KLA&gt;もこうして生きてる</JapaneseText>
+      <EnglishText/>
+      <Notes/>
       <Id>11</Id>
-      <UnknownPointer>15</UnknownPointer>
+      <StructId>11</StructId>
       <SpeakerId>6</SpeakerId>
+      <UnknownPointer>15</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>293196</PointerOffset>
       <VoiceId>&lt;VSM_330_010_075&gt;</VoiceId>
       <JapaneseText>ど、どういうことだ？</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>12</Id>
-      <UnknownPointer>18</UnknownPointer>
+      <StructId>12</StructId>
       <SpeakerId>7</SpeakerId>
+      <UnknownPointer>18</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -247,11 +262,12 @@
       <VoiceId>&lt;VSM_330_010_076&gt;</VoiceId>
       <JapaneseText>え？　あ、気にしない、
 気にしない</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>13</Id>
-      <UnknownPointer>15</UnknownPointer>
+      <StructId>13</StructId>
       <SpeakerId>6</SpeakerId>
+      <UnknownPointer>15</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -259,11 +275,12 @@
       <VoiceId>&lt;VSM_330_010_077&gt;</VoiceId>
       <JapaneseText>でも……ここで……
 こんな形でお別れなんてさ……</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>14</Id>
-      <UnknownPointer>16</UnknownPointer>
+      <StructId>14</StructId>
       <SpeakerId>8</SpeakerId>
+      <UnknownPointer>16</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -271,22 +288,25 @@
       <VoiceId>&lt;VSM_330_010_078&gt;</VoiceId>
       <JapaneseText>だが、これが、君たちの決意なら
 否定はしない</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>15</Id>
-      <UnknownPointer>18</UnknownPointer>
+      <StructId>15</StructId>
       <SpeakerId>7</SpeakerId>
+      <UnknownPointer>18</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>296128</PointerOffset>
       <VoiceId>&lt;VSM_330_010_079&gt;</VoiceId>
-      <JapaneseText>……</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <JapaneseText>……&lt;DIO&gt;さん、
+&lt;MEL&gt;さん……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
       <Id>16</Id>
-      <UnknownPointer>20</UnknownPointer>
+      <StructId>16</StructId>
       <SpeakerId>9</SpeakerId>
+      <UnknownPointer>20</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -295,11 +315,12 @@
       <JapaneseText>私、忘れません、
 あなたたちという
 友達がいたことを……</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>17</Id>
-      <UnknownPointer>20</UnknownPointer>
+      <StructId>17</StructId>
       <SpeakerId>9</SpeakerId>
+      <UnknownPointer>20</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -308,22 +329,24 @@
       <JapaneseText>僕だって、
 いや、みんなも
 君たちの友達だ</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>18</Id>
-      <UnknownPointer>19</UnknownPointer>
+      <StructId>18</StructId>
       <SpeakerId>3</SpeakerId>
+      <UnknownPointer>19</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>297224</PointerOffset>
       <VoiceId>&lt;VSM_330_010_082&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <JapaneseText>&lt;CLE&gt;さん……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
       <Id>19</Id>
-      <UnknownPointer>12</UnknownPointer>
+      <StructId>19</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -331,11 +354,12 @@
       <VoiceId>&lt;VSM_330_010_083&gt;</VoiceId>
       <JapaneseText>ふたりとも……
 消えかけて……</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>20</Id>
-      <UnknownPointer>22</UnknownPointer>
+      <StructId>20</StructId>
       <SpeakerId>10</SpeakerId>
+      <UnknownPointer>22</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -343,11 +367,12 @@
       <VoiceId>&lt;VSM_330_010_084&gt;</VoiceId>
       <JapaneseText>もうお別れって
 ことみたいだぜ</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>21</Id>
-      <UnknownPointer>12</UnknownPointer>
+      <StructId>21</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -356,11 +381,12 @@
       <JapaneseText>ゴメンね、エト……
 エトをひとり置き去りに
 していくみたいになって</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>22</Id>
-      <UnknownPointer>13</UnknownPointer>
+      <StructId>22</StructId>
       <SpeakerId>4</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -368,11 +394,12 @@
       <VoiceId>&lt;VSM_330_010_086&gt;</VoiceId>
       <JapaneseText>いやだよ……行かないで……
 ずっと一緒に楽しく……</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>23</Id>
-      <UnknownPointer>24</UnknownPointer>
+      <StructId>23</StructId>
       <SpeakerId>11</SpeakerId>
+      <UnknownPointer>24</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -381,22 +408,24 @@
       <JapaneseText>なんだよ〜、オレらの
 決断受け止めるって
 言ったじゃねーか！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>24</Id>
-      <UnknownPointer>12</UnknownPointer>
+      <StructId>24</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>305076</PointerOffset>
       <VoiceId>&lt;VSM_330_010_088&gt;</VoiceId>
       <JapaneseText>だって……だってさ……</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>25</Id>
-      <UnknownPointer>24</UnknownPointer>
+      <StructId>25</StructId>
       <SpeakerId>11</SpeakerId>
+      <UnknownPointer>24</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -404,11 +433,12 @@
       <VoiceId>&lt;VSM_330_010_089&gt;</VoiceId>
       <JapaneseText>わたしも……もっともっと、
 エトと思い出作りたかったよ</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>26</Id>
-      <UnknownPointer>13</UnknownPointer>
+      <StructId>26</StructId>
       <SpeakerId>4</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -416,22 +446,24 @@
       <VoiceId>&lt;VSM_330_010_090&gt;</VoiceId>
       <JapaneseText>こんなとこで、
 お別れなんてイヤだよ……</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>27</Id>
-      <UnknownPointer>13</UnknownPointer>
+      <StructId>27</StructId>
       <SpeakerId>4</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>306808</PointerOffset>
       <VoiceId>&lt;VSM_330_010_091&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <JapaneseText>&lt;MEL&gt;まで何言っ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
       <Id>28</Id>
-      <UnknownPointer>12</UnknownPointer>
+      <StructId>28</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -439,22 +471,24 @@
       <VoiceId>&lt;VSM_330_010_092&gt;</VoiceId>
       <JapaneseText>……なんだよ……
 決めたんだろ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>29</Id>
-      <UnknownPointer>12</UnknownPointer>
+      <StructId>29</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>307328</PointerOffset>
       <VoiceId>&lt;VSM_330_010_093&gt;</VoiceId>
       <JapaneseText>オレ、らは……</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>30</Id>
-      <UnknownPointer>12</UnknownPointer>
+      <StructId>30</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -463,11 +497,12 @@
       <JapaneseText>楽しかったよ、エト。
 たくさんたくさん……
 思い出ありがと</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>31</Id>
-      <UnknownPointer>13</UnknownPointer>
+      <StructId>31</StructId>
       <SpeakerId>4</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -475,11 +510,12 @@
       <VoiceId>&lt;VSM_330_010_095&gt;</VoiceId>
       <JapaneseText>……最後の、最後に……
 ツライ想いさせてゴメンな</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>32</Id>
-      <UnknownPointer>12</UnknownPointer>
+      <StructId>32</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -487,33 +523,37 @@
       <VoiceId>&lt;VSM_330_010_096&gt;</VoiceId>
       <JapaneseText>オレってやっぱ
 親不孝もんかも</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>33</Id>
-      <UnknownPointer>12</UnknownPointer>
+      <StructId>33</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>309540</PointerOffset>
       <VoiceId>&lt;VSM_330_010_097&gt;</VoiceId>
       <JapaneseText>そんなことない……</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>34</Id>
-      <UnknownPointer>24</UnknownPointer>
+      <StructId>34</StructId>
       <SpeakerId>11</SpeakerId>
+      <UnknownPointer>24</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>309972</PointerOffset>
       <VoiceId>&lt;VSM_330_010_098&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <JapaneseText>&lt;DIO&gt;も、&lt;MEL&gt;も、
+いい子だったよ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
       <Id>35</Id>
-      <UnknownPointer>24</UnknownPointer>
+      <StructId>35</StructId>
       <SpeakerId>11</SpeakerId>
+      <UnknownPointer>24</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -522,11 +562,12 @@
       <JapaneseText>ぼくのかわいい双子だもん、
 いい子じゃないはずが
 ないでしょ</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>36</Id>
-      <UnknownPointer>24</UnknownPointer>
+      <StructId>36</StructId>
       <SpeakerId>11</SpeakerId>
+      <UnknownPointer>24</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -534,22 +575,24 @@
       <VoiceId>&lt;VSM_330_010_100&gt;</VoiceId>
       <JapaneseText>……でも、
 これきりだなんて……</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>37</Id>
-      <UnknownPointer>24</UnknownPointer>
+      <StructId>37</StructId>
       <SpeakerId>11</SpeakerId>
+      <UnknownPointer>24</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>311148</PointerOffset>
       <VoiceId>&lt;VSM_330_010_101&gt;</VoiceId>
       <JapaneseText>これきりじゃないよ、エト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>38</Id>
-      <UnknownPointer>13</UnknownPointer>
+      <StructId>38</StructId>
       <SpeakerId>4</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -557,11 +600,12 @@
       <VoiceId>&lt;VSM_330_010_102&gt;</VoiceId>
       <JapaneseText>全然大丈夫だって。
 また会える</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>39</Id>
-      <UnknownPointer>12</UnknownPointer>
+      <StructId>39</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -569,11 +613,12 @@
       <VoiceId>&lt;VSM_330_010_103&gt;</VoiceId>
       <JapaneseText>何言ってんの……
 きみたちは……もう……</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>40</Id>
-      <UnknownPointer>24</UnknownPointer>
+      <StructId>40</StructId>
       <SpeakerId>11</SpeakerId>
+      <UnknownPointer>24</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -582,66 +627,73 @@
       <JapaneseText>ううん……
 ……そうだよ。
 きっと、そう</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>41</Id>
-      <UnknownPointer>13</UnknownPointer>
+      <StructId>41</StructId>
       <SpeakerId>4</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>312848</PointerOffset>
       <VoiceId>&lt;VSM_330_010_105&gt;</VoiceId>
       <JapaneseText>また、いつか</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>42</Id>
-      <UnknownPointer>12</UnknownPointer>
+      <StructId>42</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>313196</PointerOffset>
       <VoiceId>&lt;VSM_330_010_106&gt;</VoiceId>
       <JapaneseText>どこかで……</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>43</Id>
-      <UnknownPointer>13</UnknownPointer>
+      <StructId>43</StructId>
       <SpeakerId>4</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>314948</PointerOffset>
       <VoiceId>&lt;VSM_330_010_107&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <JapaneseText>&lt;DIO&gt;ーっ！！
+&lt;MEL&gt;ーっ！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
       <Id>44</Id>
-      <UnknownPointer>24</UnknownPointer>
+      <StructId>44</StructId>
       <SpeakerId>11</SpeakerId>
+      <UnknownPointer>24</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>315100</PointerOffset>
       <VoiceId>&lt;VSM_330_010_108&gt;</VoiceId>
       <JapaneseText>うっうううう……</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>45</Id>
-      <UnknownPointer>24</UnknownPointer>
+      <StructId>45</StructId>
       <SpeakerId>11</SpeakerId>
+      <UnknownPointer>24</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>315744</PointerOffset>
       <VoiceId>&lt;VSM_330_010_109&gt;</VoiceId>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>46</Id>
-      <UnknownPointer>22</UnknownPointer>
+      <StructId>46</StructId>
       <SpeakerId>10</SpeakerId>
+      <UnknownPointer>22</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -649,22 +701,24 @@
       <VoiceId>&lt;VSM_330_010_110&gt;</VoiceId>
       <JapaneseText>いつかって
 いつだよーっ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>47</Id>
-      <UnknownPointer>24</UnknownPointer>
+      <StructId>47</StructId>
       <SpeakerId>11</SpeakerId>
+      <UnknownPointer>24</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>316120</PointerOffset>
       <VoiceId>&lt;VSM_330_010_111&gt;</VoiceId>
-      <JapaneseText></JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <JapaneseText>&lt;DIO&gt;ォ！　&lt;MEL&gt;ーっ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
       <Id>48</Id>
-      <UnknownPointer>24</UnknownPointer>
+      <StructId>48</StructId>
       <SpeakerId>11</SpeakerId>
+      <UnknownPointer>24</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -672,22 +726,24 @@
       <VoiceId>&lt;VSM_330_010_112&gt;</VoiceId>
       <JapaneseText>どこかでって……
 どこで……</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>49</Id>
-      <UnknownPointer>24</UnknownPointer>
+      <StructId>49</StructId>
       <SpeakerId>11</SpeakerId>
+      <UnknownPointer>24</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>317092</PointerOffset>
       <VoiceId>&lt;VSM_330_010_113&gt;</VoiceId>
       <JapaneseText>クルクゥル……</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>50</Id>
-      <UnknownPointer>14</UnknownPointer>
+      <StructId>50</StructId>
       <SpeakerId>12</SpeakerId>
+      <UnknownPointer>14</UnknownPointer>
       <Status>To Do</Status>
     </Entry>
   </Strings>
@@ -696,32 +752,32 @@
     <Entry>
       <PointerOffset>916</PointerOffset>
       <JapaneseText>DYC_EP_330_012</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>51</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>1040</PointerOffset>
       <JapaneseText>DYC_EP_330_012</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>52</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>1480</PointerOffset>
       <JapaneseText>MUS_B001</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>53</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>1732</PointerOffset>
       <JapaneseText>MUS_B002</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>54</Id>
       <Status>To Do</Status>
     </Entry>
@@ -729,8 +785,8 @@
       <PointerOffset>18740</PointerOffset>
       <JapaneseText>init_common_script 開始
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>55</Id>
       <Status>To Do</Status>
     </Entry>
@@ -738,8 +794,8 @@
       <PointerOffset>18780</PointerOffset>
       <JapaneseText>フェードアウト開始
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>56</Id>
       <Status>To Do</Status>
     </Entry>
@@ -750,8 +806,8 @@
 おおざっぱに言うと【%d時間台】です
 
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>57</Id>
       <Status>To Do</Status>
     </Entry>
@@ -762,8 +818,8 @@
 １だと行ってます
 
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>58</Id>
       <Status>To Do</Status>
     </Entry>
@@ -771,8 +827,8 @@
       <PointerOffset>19804</PointerOffset>
       <JapaneseText>%d [%d]
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>59</Id>
       <Status>To Do</Status>
     </Entry>
@@ -780,8 +836,8 @@
       <PointerOffset>20256</PointerOffset>
       <JapaneseText>init_common_script 終了
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>60</Id>
       <Status>To Do</Status>
     </Entry>
@@ -789,16 +845,16 @@
       <PointerOffset>20988</PointerOffset>
       <JapaneseText>COMM_EVENT_START開始
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>61</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>21588</PointerOffset>
       <JapaneseText>NULL</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>62</Id>
       <Status>To Do</Status>
     </Entry>
@@ -806,8 +862,8 @@
       <PointerOffset>21964</PointerOffset>
       <JapaneseText>COMM_EVENT_START終了
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>63</Id>
       <Status>To Do</Status>
     </Entry>
@@ -815,16 +871,16 @@
       <PointerOffset>22552</PointerOffset>
       <JapaneseText>COMM_SUB_START開始
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>64</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>23364</PointerOffset>
       <JapaneseText>NULL</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>65</Id>
       <Status>To Do</Status>
     </Entry>
@@ -832,8 +888,8 @@
       <PointerOffset>34864</PointerOffset>
       <JapaneseText>FAR CAMERA:%f
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>66</Id>
       <Status>To Do</Status>
     </Entry>
@@ -841,8 +897,8 @@
       <PointerOffset>35744</PointerOffset>
       <JapaneseText>&lt;_set_cam_limit_trap&gt; Warning: カメラリミットIDが登録済み
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>67</Id>
       <Status>To Do</Status>
     </Entry>
@@ -850,8 +906,8 @@
       <PointerOffset>36124</PointerOffset>
       <JapaneseText>&lt;_set_cam_limit_trap&gt; Warning: カメラリミットバッファに空き無し
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>68</Id>
       <Status>To Do</Status>
     </Entry>
@@ -859,8 +915,8 @@
       <PointerOffset>37116</PointerOffset>
       <JapaneseText>&lt;_set_cam_limit_var&gt; Warning: カメラリミットバッファに指定IDの登録無し
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>69</Id>
       <Status>To Do</Status>
     </Entry>
@@ -868,8 +924,8 @@
       <PointerOffset>42464</PointerOffset>
       <JapaneseText>&lt;_set_jump&gt; 終了座標の指定が不正です
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>70</Id>
       <Status>To Do</Status>
     </Entry>
@@ -877,8 +933,8 @@
       <PointerOffset>45640</PointerOffset>
       <JapaneseText>&lt;_set_jump_th&gt; キャラクタID:%dは既に登録されています
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>71</Id>
       <Status>To Do</Status>
     </Entry>
@@ -886,8 +942,8 @@
       <PointerOffset>45948</PointerOffset>
       <JapaneseText>&lt;_set_jump_th&gt; 登録数オーバーです
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>72</Id>
       <Status>To Do</Status>
     </Entry>
@@ -895,8 +951,8 @@
       <PointerOffset>46892</PointerOffset>
       <JapaneseText>&lt;_float_motion&gt; キャラクタID:%dは既に登録されています
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>73</Id>
       <Status>To Do</Status>
     </Entry>
@@ -904,8 +960,8 @@
       <PointerOffset>47200</PointerOffset>
       <JapaneseText>&lt;_float_motion&gt; 登録数オーバーです
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>74</Id>
       <Status>To Do</Status>
     </Entry>
@@ -913,8 +969,8 @@
       <PointerOffset>48172</PointerOffset>
       <JapaneseText>&lt;_float_motion&gt; 登録されていません
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>75</Id>
       <Status>To Do</Status>
     </Entry>
@@ -922,8 +978,8 @@
       <PointerOffset>48404</PointerOffset>
       <JapaneseText>&lt;_float_landing_motion&gt; キャラクタID:%dは既に登録されています
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>76</Id>
       <Status>To Do</Status>
     </Entry>
@@ -931,8 +987,8 @@
       <PointerOffset>48712</PointerOffset>
       <JapaneseText>&lt;_float_landing_motion&gt; 登録数オーバーです
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>77</Id>
       <Status>To Do</Status>
     </Entry>
@@ -940,8 +996,8 @@
       <PointerOffset>51208</PointerOffset>
       <JapaneseText>&lt;_get_abs_angle&gt; ループカウントがリミットを越え、正確な値を返していません
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>78</Id>
       <Status>To Do</Status>
     </Entry>
@@ -949,8 +1005,8 @@
       <PointerOffset>53780</PointerOffset>
       <JapaneseText>&lt;_set_turn&gt; キャラクタID:%dは既に登録されています
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>79</Id>
       <Status>To Do</Status>
     </Entry>
@@ -958,8 +1014,8 @@
       <PointerOffset>53836</PointerOffset>
       <JapaneseText>&lt;_set_turn&gt; セット箇所はgnTurnStatus[%d]
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>80</Id>
       <Status>To Do</Status>
     </Entry>
@@ -967,8 +1023,8 @@
       <PointerOffset>54148</PointerOffset>
       <JapaneseText>&lt;_set_turn&gt; 登録数オーバーです
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>81</Id>
       <Status>To Do</Status>
     </Entry>
@@ -976,8 +1032,8 @@
       <PointerOffset>56940</PointerOffset>
       <JapaneseText>&lt;_set_turn_th&gt; キャラクタID:%dは既に登録されています
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>82</Id>
       <Status>To Do</Status>
     </Entry>
@@ -985,8 +1041,8 @@
       <PointerOffset>57248</PointerOffset>
       <JapaneseText>&lt;_set_turn_th&gt; 登録数オーバーです
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>83</Id>
       <Status>To Do</Status>
     </Entry>
@@ -994,8 +1050,8 @@
       <PointerOffset>58788</PointerOffset>
       <JapaneseText>&lt;_set_watch_c2c_th&gt; キャラクタID:%dは既に登録されています
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>84</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1003,8 +1059,8 @@
       <PointerOffset>58844</PointerOffset>
       <JapaneseText>&lt;_set_watch_c2c_th&gt; セット箇所はgnTurnStatus[%d]
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>85</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1012,8 +1068,8 @@
       <PointerOffset>59152</PointerOffset>
       <JapaneseText>&lt;_set_watch_c2c_th&gt; 登録数オーバーです
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>86</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1021,8 +1077,8 @@
       <PointerOffset>59692</PointerOffset>
       <JapaneseText>&lt;_set_around_look_th&gt; 登録済みキャラクタIDです
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>87</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1030,8 +1086,8 @@
       <PointerOffset>59984</PointerOffset>
       <JapaneseText>&lt;_set_around_look_th&gt; 最大登録数オーバーです
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>88</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1039,8 +1095,8 @@
       <PointerOffset>62108</PointerOffset>
       <JapaneseText>&lt;_set_alpha&gt; アルファ値が設定範囲外です(0&lt;=alpha&lt;=255)
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>89</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1048,8 +1104,8 @@
       <PointerOffset>63020</PointerOffset>
       <JapaneseText>&lt;_set_alpha_th&gt; キャラクタID:%dは既に登録されています
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>90</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1057,8 +1113,8 @@
       <PointerOffset>63328</PointerOffset>
       <JapaneseText>&lt;_set_alpha_th&gt; 最大登録数オーバーです
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>91</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1066,8 +1122,8 @@
       <PointerOffset>66516</PointerOffset>
       <JapaneseText>&lt;_init_motion_detail&gt; 引数が不正です
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>92</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1075,8 +1131,8 @@
       <PointerOffset>67436</PointerOffset>
       <JapaneseText>&lt;_set_motion_detail_th&gt; 登録数オーバーです
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>93</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1084,8 +1140,8 @@
       <PointerOffset>75868</PointerOffset>
       <JapaneseText>&lt;_disp_ef&gt; エフェクトID:%dは既に登録されています
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>94</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1093,8 +1149,8 @@
       <PointerOffset>76176</PointerOffset>
       <JapaneseText>&lt;_disp_ef&gt; 最大登録数オーバーです
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>95</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1102,8 +1158,8 @@
       <PointerOffset>77584</PointerOffset>
       <JapaneseText>&lt;_move_pos_ef&gt; 移動量の指定が0以下です
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>96</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1111,8 +1167,8 @@
       <PointerOffset>77820</PointerOffset>
       <JapaneseText>&lt;_move_pos_ef&gt; エフェクトID:%dは既に登録されています
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>97</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1120,8 +1176,8 @@
       <PointerOffset>78132</PointerOffset>
       <JapaneseText>&lt;_move_pos_ef&gt; 最大登録数オーバーです
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>98</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1129,8 +1185,8 @@
       <PointerOffset>81032</PointerOffset>
       <JapaneseText>&lt;_move_pos_spline_ef_th&gt;引数が不正です
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>99</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1138,8 +1194,8 @@
       <PointerOffset>81232</PointerOffset>
       <JapaneseText>&lt;_move_pos_spline_ef_th&gt; エフェクトID:%dは既に登録されています
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>100</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1147,16 +1203,16 @@
       <PointerOffset>81540</PointerOffset>
       <JapaneseText>&lt;_move_pos_spline_ef_th&gt; 最大登録数オーバーです
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>101</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>84460</PointerOffset>
       <JapaneseText>イベントをスキップしますか？</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>102</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1164,16 +1220,16 @@
       <PointerOffset>84476</PointerOffset>
       <JapaneseText>はい
 いいえ</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>103</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>86020</PointerOffset>
       <JapaneseText>選択肢</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>104</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1181,16 +1237,16 @@
       <PointerOffset>86036</PointerOffset>
       <JapaneseText>はい
 いいえ</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>105</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>90652</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>106</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1203,8 +1259,8 @@
 ちなみに青い記憶陣は
 ＨＰも回復するだ。
 おらの耳寄り情報に感謝せぇ〜よ</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>107</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1212,16 +1268,16 @@
       <PointerOffset>92488</PointerOffset>
       <JapaneseText>%sが
 仲間になっただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>108</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>92620</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>109</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1229,16 +1285,16 @@
       <PointerOffset>92756</PointerOffset>
       <JapaneseText>パーティがいっぱいだったので
 %sは休憩所へ向かっただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>110</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>92916</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>111</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1247,16 +1303,16 @@
       <JapaneseText>%s
 %sが
 仲間になっただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>112</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>94076</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>113</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1266,16 +1322,16 @@
 %sと
 %sは
 休憩所へ向かっただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>114</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>94436</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>115</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1284,16 +1340,16 @@
       <JapaneseText>パーティがいっぱいだったので
 %sは
 休憩所へ向かっただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>116</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>94740</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>117</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1303,16 +1359,16 @@
 %s
 %sが
 仲間になっただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>118</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>96064</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>119</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1323,16 +1379,16 @@
 %sと
 %sは
 休憩所へ向かっただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>120</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>96488</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>121</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1342,16 +1398,16 @@
 %sと
 %sは
 休憩所へ向かっただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>122</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>96856</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>123</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1360,32 +1416,32 @@
       <JapaneseText>パーティがいっぱいだったので
 %sは
 休憩所へ向かっただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>124</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>97160</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>125</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>98388</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>126</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>98404</PointerOffset>
       <JapaneseText>時空戦士が仲間になっただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>127</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1399,16 +1455,16 @@
 %sと
 %sは
 休憩所へ向かっただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>128</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>99004</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>129</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1421,16 +1477,16 @@
 %sと
 %sは
 休憩所へ向かっただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>130</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>99564</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>131</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1442,16 +1498,16 @@
 %sと
 %sは
 休憩所へ向かっただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>132</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>100060</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>133</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1462,16 +1518,16 @@
 %sと
 %sは
 休憩所へ向かっただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>134</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>100492</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>135</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1481,16 +1537,16 @@
 %sと
 %sは
 休憩所へ向かっただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>136</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>100860</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>137</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1499,24 +1555,24 @@
       <JapaneseText>パーティがいっぱいだったので
 %sは
 休憩所へ向かっただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>138</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>101164</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>139</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>101396</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>140</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1526,8 +1582,8 @@
 バッチリ準備して駆けつけてくれたみたいだなや〜
 前とはまるで強さが違うみてぇだから、
 一度確認しておくとええだ</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>141</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1535,16 +1591,16 @@
       <PointerOffset>101796</PointerOffset>
       <JapaneseText>%sと
 別れただ！　　　</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>142</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>102028</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>143</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1552,24 +1608,24 @@
       <PointerOffset>102820</PointerOffset>
       <JapaneseText>%sと
 別れただ！　　　</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>144</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>102952</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>145</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>103220</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>146</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1577,8 +1633,8 @@
       <PointerOffset>103236</PointerOffset>
       <JapaneseText>別れた時に
 装備品をもらっただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>147</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1587,16 +1643,16 @@
       <JapaneseText>%s
 %sと
 別れただ！　　　</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>148</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>104240</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>149</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1605,24 +1661,24 @@
       <JapaneseText>%s
 %sと
 別れただ！　　　</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>150</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>105408</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>151</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>105576</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>152</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1630,8 +1686,8 @@
       <PointerOffset>105592</PointerOffset>
       <JapaneseText>別れた時に
 装備品をもらっただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>153</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1641,16 +1697,16 @@
 %s
 %sと
 別れただ！　　　</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>154</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>106772</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>155</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1660,24 +1716,24 @@
 %s
 %sと
 別れただ！　　　</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>156</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>108148</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>157</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>108316</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>158</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1685,8 +1741,8 @@
       <PointerOffset>108332</PointerOffset>
       <JapaneseText>別れた時に
 装備品をもらっただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>159</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1697,16 +1753,16 @@
 %s
 %sと
 別れただ！　　　</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>160</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>109480</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>161</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1717,24 +1773,24 @@
 %s
 %sと
 別れただ！　　　</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>162</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>111064</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>163</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>111232</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>164</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1742,90 +1798,90 @@
       <PointerOffset>111248</PointerOffset>
       <JapaneseText>別れた時に
 装備品をもらっただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>165</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>112944</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>166</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>112960</PointerOffset>
       <JapaneseText>みんなと別れただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>167</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>113528</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+&lt;Black&gt;&lt;color:87&gt;%s&lt;White&gt;&lt;color:ff&gt;×%d</JapaneseText>
+      <EnglishText/>
+      <Notes/>
       <Id>168</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>113708</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>169</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>114068</PointerOffset>
       <JapaneseText>アイテムを取得しました！
-&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;×%d</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+&lt;Black&gt;&lt;color:87&gt;%s&lt;White&gt;&lt;color:ff&gt;×%d</JapaneseText>
+      <EnglishText/>
+      <Notes/>
       <Id>170</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>114248</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>171</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>114496</PointerOffset>
       <JapaneseText>%sを失っただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>172</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>114628</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>173</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>114988</PointerOffset>
       <JapaneseText>%dガルドを手に入れただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>174</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>115120</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>175</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1833,33 +1889,33 @@
       <PointerOffset>115740</PointerOffset>
       <JapaneseText>%sは『%s』の
 称号を手に入れただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>176</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>115888</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>177</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>116436</PointerOffset>
-      <JapaneseText>%sは&lt;color:0009&gt;&lt;color:0087&gt;%s&lt;color:0007&gt;&lt;color:00ff&gt;の
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:87&gt;%s&lt;White&gt;&lt;color:ff&gt;の
 コスチュームを手に入れただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>178</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>116616</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>179</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1867,16 +1923,16 @@
       <PointerOffset>117036</PointerOffset>
       <JapaneseText>%sは%sを
 習得しただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>180</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>117184</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>181</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1884,16 +1940,16 @@
       <PointerOffset>117488</PointerOffset>
       <JapaneseText>%sは%sの
 スキルを習得しただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>182</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>117636</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>183</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1901,8 +1957,8 @@
       <PointerOffset>126996</PointerOffset>
       <JapaneseText>クラースがいるので判定開始デス
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>184</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1912,8 +1968,8 @@
 GLRへぼますたー
 
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>185</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1923,8 +1979,8 @@ GLRへぼますたー
 FBSへぼますたー
 
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>186</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1934,8 +1990,8 @@ FBSへぼますたー
 YSRへぼますたー
 
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>187</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1945,8 +2001,8 @@ YSRへぼますたー
 FRBへぼますたー
 
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>188</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1956,8 +2012,8 @@ FRBへぼますたー
 BGEへぼますたー
 
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>189</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1967,16 +2023,16 @@ BGEへぼますたー
 JSTへぼますたー
 
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>190</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>130952</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>191</Id>
       <Status>To Do</Status>
     </Entry>
@@ -1984,16 +2040,16 @@ JSTへぼますたー
       <PointerOffset>130968</PointerOffset>
       <JapaneseText>この魔法陣から
 入口に戻ることができそうだ</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>192</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>131144</PointerOffset>
       <JapaneseText>入口に……</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>193</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2001,224 +2057,224 @@ JSTへぼますたー
       <PointerOffset>131160</PointerOffset>
       <JapaneseText>戻る
 やめる　　　</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>194</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>134468</PointerOffset>
       <JapaneseText>MUS_B003</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>195</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>134668</PointerOffset>
       <JapaneseText>MUS_B004</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>196</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>134868</PointerOffset>
       <JapaneseText>MUS_B004</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>197</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>135068</PointerOffset>
       <JapaneseText>MUS_B004</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>198</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>135268</PointerOffset>
       <JapaneseText>MUS_B004</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>199</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>135468</PointerOffset>
       <JapaneseText>MUS_B004</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>200</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>135764</PointerOffset>
       <JapaneseText>MUS_B004</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>201</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>136060</PointerOffset>
       <JapaneseText>MUS_B004</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>202</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>136404</PointerOffset>
       <JapaneseText>MUS_C003</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>203</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>136652</PointerOffset>
       <JapaneseText>MUS_B004</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>204</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>136900</PointerOffset>
       <JapaneseText>MUS_B004</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>205</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>137148</PointerOffset>
       <JapaneseText>MUS_B004</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>206</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>137348</PointerOffset>
       <JapaneseText>MUS_B004</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>207</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>137548</PointerOffset>
       <JapaneseText>MUS_B009</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>208</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>137748</PointerOffset>
       <JapaneseText>MUS_B005</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>209</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>137948</PointerOffset>
       <JapaneseText>MUS_B009</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>210</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>138148</PointerOffset>
       <JapaneseText>MUS_B009</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>211</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>138348</PointerOffset>
       <JapaneseText>MUS_B009</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>212</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>138548</PointerOffset>
       <JapaneseText>MUS_B009</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>213</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>138748</PointerOffset>
       <JapaneseText>MUS_B009</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>214</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>138948</PointerOffset>
       <JapaneseText>MUS_B003</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>215</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>139148</PointerOffset>
       <JapaneseText>MUS_B003</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>216</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>139348</PointerOffset>
       <JapaneseText>MUS_B005</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>217</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>139548</PointerOffset>
       <JapaneseText>MUS_B006</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>218</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>139748</PointerOffset>
       <JapaneseText>MUS_C003</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>219</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>139948</PointerOffset>
       <JapaneseText>MUS_B007</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>220</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>140148</PointerOffset>
       <JapaneseText>MUS_B008</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>221</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2228,8 +2284,8 @@ JSTへぼますたー
 メインイベント終了処理開始！
 
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>222</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2237,8 +2293,8 @@ JSTへぼますたー
       <PointerOffset>148952</PointerOffset>
       <JapaneseText>%sですよ
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>223</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2246,24 +2302,24 @@ JSTへぼますたー
       <PointerOffset>149116</PointerOffset>
       <JapaneseText>パーティがいっぱいだったので
 %sは休憩所へ向かっただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>224</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>149284</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>225</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>149460</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>226</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2271,8 +2327,8 @@ JSTへぼますたー
       <PointerOffset>149476</PointerOffset>
       <JapaneseText>魔物がいるところでは着替えらんねーかんな。
 安全な記憶陣でおらを呼ぶだよ</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>227</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2282,8 +2338,8 @@ JSTへぼますたー
 くらーすいんぐま
 
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>228</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2293,24 +2349,24 @@ JSTへぼますたー
 %s
 %sを
 戦闘メンバーに加えてください</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>229</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>156852</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>230</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>158544</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>231</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2319,16 +2375,16 @@ JSTへぼますたー
       <JapaneseText>ハゲぼうずたちだけで戦ったから
 ショートカットの設定が外れちまっただ……
 戦う前には注意するべや〜</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>232</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>167288</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>233</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2339,16 +2395,16 @@ JSTへぼますたー
 決めることができるでな。
 詳しくはバトルメモに書いてあっから
 よっく確認するだよ〜</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>234</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>169912</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>235</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2357,16 +2413,16 @@ JSTへぼますたー
       <JapaneseText>システム
 『オーバーブレイブ』と
 『オーバーキル』が開放されただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>236</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>170436</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>237</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2375,16 +2431,16 @@ JSTへぼますたー
       <JapaneseText>二人だけで戦ったから
 ショートカットの設定が外れちまっただ……
 戦う前には注意するべや〜</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>238</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>172140</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>239</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2393,16 +2449,16 @@ JSTへぼますたー
       <JapaneseText>ハゲぼうず一人で戦ったせいで
 ショートカットの設定が外れちまっただ……
 戦う前には注意するべや〜</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>240</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>176148</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>241</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2411,16 +2467,16 @@ JSTへぼますたー
       <JapaneseText>エレメンツポットと
 今まで集めた精霊晶核を
 失っただ……</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>242</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>181344</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>243</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2428,16 +2484,16 @@ JSTへぼますたー
       <PointerOffset>181360</PointerOffset>
       <JapaneseText>火、水、地、風の
 精霊晶核を手に入れただ！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>244</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>184800</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>245</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2445,32 +2501,32 @@ JSTへぼますたー
       <PointerOffset>184816</PointerOffset>
       <JapaneseText>&lt;RND_P&gt;たんの装備は何もないから
 ちゃんとセットするだーよ</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>246</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>194608</PointerOffset>
       <JapaneseText>%sを戦闘メンバーに加えてください</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>247</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>194740</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>248</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>198092</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>249</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2482,16 +2538,16 @@ JSTへぼますたー
 新しくなっているみたいだーよ。
 この時代でちょっと寄り道して
 準備万端にするのもありだべ</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>250</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>200788</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>251</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2499,24 +2555,24 @@ JSTへぼますたー
       <PointerOffset>200804</PointerOffset>
       <JapaneseText>彼女の装備は何もないから
 ちゃんとセットするだーよ</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>252</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>210452</PointerOffset>
       <JapaneseText>%sを戦闘メンバーに加えてください</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>253</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>210584</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>254</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2524,16 +2580,16 @@ JSTへぼますたー
       <PointerOffset>214432</PointerOffset>
       <JapaneseText>%sが抜けました。
 隊列をセットしてください</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>255</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>214664</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>256</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2541,16 +2597,16 @@ JSTへぼますたー
       <PointerOffset>216256</PointerOffset>
       <JapaneseText>%sが加わりました。
 隊列をセットしてください</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>257</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>216488</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>258</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2558,16 +2614,16 @@ JSTへぼますたー
       <PointerOffset>218420</PointerOffset>
       <JapaneseText>＿SUB_END_PROC開始！！！
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>259</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>219244</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>260</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2575,16 +2631,16 @@ JSTへぼますたー
       <PointerOffset>219260</PointerOffset>
       <JapaneseText>時空戦士の装備は何もないから
 ちゃんとセットするだーよ</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>261</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>219848</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>262</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2592,16 +2648,16 @@ JSTへぼますたー
       <PointerOffset>219864</PointerOffset>
       <JapaneseText>時空戦士の装備は何もないから
 ちゃんとセットするだーよ</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>263</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>220500</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>264</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2609,16 +2665,16 @@ JSTへぼますたー
       <PointerOffset>220516</PointerOffset>
       <JapaneseText>時空戦士の装備は何もないから
 ちゃんとセットするだーよ</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>265</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>221104</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>266</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2626,16 +2682,16 @@ JSTへぼますたー
       <PointerOffset>221120</PointerOffset>
       <JapaneseText>時空戦士の装備は何もないから
 ちゃんとセットするだーよ</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>267</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>226068</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>268</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2643,16 +2699,16 @@ JSTへぼますたー
       <PointerOffset>226084</PointerOffset>
       <JapaneseText>グーングニルの真の力が
 解放された！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>269</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>231964</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>270</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2660,16 +2716,16 @@ JSTへぼますたー
       <PointerOffset>231980</PointerOffset>
       <JapaneseText>おにぎりのレシピを
 教えてもらった！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>271</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>232276</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>272</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2677,16 +2733,16 @@ JSTへぼますたー
       <PointerOffset>232292</PointerOffset>
       <JapaneseText>教わったレシピの食材を
 ３セットもらった！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>273</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>232812</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>274</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2694,16 +2750,16 @@ JSTへぼますたー
       <PointerOffset>232828</PointerOffset>
       <JapaneseText>マーボーカレースープのレシピを
 教えてもらった！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>275</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>233280</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>276</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2711,16 +2767,16 @@ JSTへぼますたー
       <PointerOffset>233296</PointerOffset>
       <JapaneseText>教わったレシピの食材を
 ３セットもらった！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>277</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>233680</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>278</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2728,16 +2784,16 @@ JSTへぼますたー
       <PointerOffset>233696</PointerOffset>
       <JapaneseText>マーボーカレーのレシピを
 教えてもらった！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>279</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>234148</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>280</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2745,8 +2801,8 @@ JSTへぼますたー
       <PointerOffset>234164</PointerOffset>
       <JapaneseText>教わったレシピの食材を
 ３セットもらった！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>281</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2757,24 +2813,24 @@ JSTへぼますたー
 正解終了処理に入りました
 
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>282</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>247596</PointerOffset>
       <JapaneseText>../sysdata/gust.gim</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>283</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>248628</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>284</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2782,16 +2838,16 @@ JSTへぼますたー
       <PointerOffset>248644</PointerOffset>
       <JapaneseText>チーズINハンバーグのレシピを
 教えてもらった！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>285</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>248796</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>286</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2799,8 +2855,8 @@ JSTへぼますたー
       <PointerOffset>248812</PointerOffset>
       <JapaneseText>チーズINハンバーグの材料も
 １セットもらった！</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>287</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2811,8 +2867,8 @@ JSTへぼますたー
 終了処理に入りました
 
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>288</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2820,16 +2876,16 @@ JSTへぼますたー
       <PointerOffset>251368</PointerOffset>
       <JapaneseText>&lt;_CnvPTNo2EVNo&gt; Error: PTNo:%d は変換不可です
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>289</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>253044</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>290</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2844,8 +2900,8 @@ JSTへぼますたー
 ミックスグミ　　x 6
 ミラクルグミ　　x 6
 クジグミ　　　　x 6</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>291</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2856,8 +2912,8 @@ JSTへぼますたー
 ディオONです
 
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>292</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2868,8 +2924,8 @@ JSTへぼますたー
 メルONです
 
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>293</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2880,8 +2936,8 @@ JSTへぼますたー
 クルールONです
 
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>294</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2892,8 +2948,8 @@ JSTへぼますたー
 ロディONです
 
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>295</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2904,8 +2960,8 @@ JSTへぼますたー
 クレスONです
 
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>296</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2916,8 +2972,8 @@ JSTへぼますたー
 ミントONです
 
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>297</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2928,8 +2984,8 @@ JSTへぼますたー
 チェスターONです
 
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>298</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2940,8 +2996,8 @@ JSTへぼますたー
 アーチェONです
 
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>299</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2952,8 +3008,8 @@ JSTへぼますたー
 クラースONです
 
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>300</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2964,16 +3020,16 @@ JSTへぼますたー
 すずONです
 
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>301</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>255236</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>302</Id>
       <Status>To Do</Status>
     </Entry>
@@ -2989,16 +3045,16 @@ JSTへぼますたー
 パナシーアボトル　x 6
 キュアボトル　　　x 6
 ディネイボトル　　x 6</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>303</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>255404</PointerOffset>
       <JapaneseText>アルベルト</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>304</Id>
       <Status>To Do</Status>
     </Entry>
@@ -3014,32 +3070,32 @@ JSTへぼますたー
 スピードボトル　　x 6
 スペルボトル　　　x 6
 スペシフィック　　x 6</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>305</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>257424</PointerOffset>
       <JapaneseText>obj_m900_ringcube</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>306</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>264884</PointerOffset>
       <JapaneseText>obj_m800_warp</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>307</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>265864</PointerOffset>
       <JapaneseText>obj_m800_warp</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>308</Id>
       <Status>To Do</Status>
     </Entry>
@@ -3047,8 +3103,8 @@ JSTへぼますたー
       <PointerOffset>270580</PointerOffset>
       <JapaneseText>%.1ff, %.1ff, %.1ff
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>309</Id>
       <Status>To Do</Status>
     </Entry>
@@ -3056,8 +3112,8 @@ JSTへぼますたー
       <PointerOffset>272132</PointerOffset>
       <JapaneseText>%.1ff, %.1ff, %.1ff
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>310</Id>
       <Status>To Do</Status>
     </Entry>
@@ -3065,8 +3121,8 @@ JSTへぼますたー
       <PointerOffset>272888</PointerOffset>
       <JapaneseText>&lt;_ef_pos_test2&gt; エフェクトID:%dは既に%d番に登録されています
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>311</Id>
       <Status>To Do</Status>
     </Entry>
@@ -3074,8 +3130,8 @@ JSTへぼますたー
       <PointerOffset>273212</PointerOffset>
       <JapaneseText>&lt;_ef_pos_test2&gt; 登録数オーバーです
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>312</Id>
       <Status>To Do</Status>
     </Entry>
@@ -3083,1051 +3139,1050 @@ JSTへぼますたー
       <PointerOffset>274340</PointerOffset>
       <JapaneseText>Effect Pos idx:%d x:%.2f y:%.2f z:%.2f
 </JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>313</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>276780</PointerOffset>
       <JapaneseText>rDIO008</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>314</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>276904</PointerOffset>
       <JapaneseText>rDIO008</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>315</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>277056</PointerOffset>
       <JapaneseText>rDIO_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>316</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>277160</PointerOffset>
       <JapaneseText>rMEL008</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>317</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>277284</PointerOffset>
       <JapaneseText>rMEL008</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>318</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>277436</PointerOffset>
       <JapaneseText>rMEL_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>319</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>280688</PointerOffset>
       <JapaneseText>EP_330_012</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>320</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>280984</PointerOffset>
       <JapaneseText>rDIO007</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>321</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>281128</PointerOffset>
       <JapaneseText>rMEL007</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>322</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>281272</PointerOffset>
       <JapaneseText>rRND007</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>323</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>281416</PointerOffset>
       <JapaneseText>rKUL007</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>324</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>281572</PointerOffset>
       <JapaneseText>rETS237</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>325</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>281880</PointerOffset>
       <JapaneseText>rNRN</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>326</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>282028</PointerOffset>
       <JapaneseText>rNRN219</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>327</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>282220</PointerOffset>
       <JapaneseText>rCLE_EV</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>328</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>282364</PointerOffset>
       <JapaneseText>rMIN_EVEX</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>329</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>282508</PointerOffset>
       <JapaneseText>rCST_EVEX</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>330</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>282652</PointerOffset>
       <JapaneseText>rARC_EVEX</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>331</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>282796</PointerOffset>
       <JapaneseText>rKLA_EVEX</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>332</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>282940</PointerOffset>
       <JapaneseText>rSUZ_EVEX</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>333</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>284092</PointerOffset>
       <JapaneseText>rNRN219</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>334</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>284932</PointerOffset>
       <JapaneseText>rDIO007</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>335</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>284948</PointerOffset>
       <JapaneseText>rDIO_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>336</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>285000</PointerOffset>
       <JapaneseText>rMEL007</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>337</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>285016</PointerOffset>
       <JapaneseText>rMEL_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>338</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>285068</PointerOffset>
       <JapaneseText>rRND007</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>339</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>285084</PointerOffset>
       <JapaneseText>rRND_EV</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>340</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>285136</PointerOffset>
       <JapaneseText>rKUL007</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>341</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>285152</PointerOffset>
       <JapaneseText>rKUL</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>342</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>285912</PointerOffset>
       <JapaneseText>rETS</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>343</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>286524</PointerOffset>
       <JapaneseText>rDIO224</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>344</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>286580</PointerOffset>
       <JapaneseText>rMEL224</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>345</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>287060</PointerOffset>
       <JapaneseText>rDIO_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>346</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>287116</PointerOffset>
       <JapaneseText>rMEL_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>347</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>287928</PointerOffset>
       <JapaneseText>rMEL218</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>348</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>287984</PointerOffset>
       <JapaneseText>rDIO218</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>349</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>288040</PointerOffset>
       <JapaneseText>rRND218</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>350</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>288528</PointerOffset>
       <JapaneseText>rDIO_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>351</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>288584</PointerOffset>
       <JapaneseText>rMEL_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>352</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>288640</PointerOffset>
       <JapaneseText>rRND_EV</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>353</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>290756</PointerOffset>
       <JapaneseText>rDIO_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>354</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>291104</PointerOffset>
       <JapaneseText>rCLE008</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>355</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>291312</PointerOffset>
       <JapaneseText>rCLE008</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>356</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>291464</PointerOffset>
       <JapaneseText>rCLE_EV</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>357</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>291640</PointerOffset>
       <JapaneseText>rMEL008</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>358</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>291920</PointerOffset>
       <JapaneseText>rMEL_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>359</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>291976</PointerOffset>
       <JapaneseText>rMIN071</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>360</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>292324</PointerOffset>
       <JapaneseText>rMIN_EVEX</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>361</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>292484</PointerOffset>
       <JapaneseText>rARC218</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>362</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>292832</PointerOffset>
       <JapaneseText>rARC_EVEX</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>363</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>294340</PointerOffset>
       <JapaneseText>rARC218</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>364</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>294964</PointerOffset>
       <JapaneseText>rARC_EVEX</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>365</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>295524</PointerOffset>
       <JapaneseText>rCST008</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>366</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>296028</PointerOffset>
       <JapaneseText>rSUZ008</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>367</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>296460</PointerOffset>
       <JapaneseText>rCST_EVEX</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>368</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>296516</PointerOffset>
       <JapaneseText>rSUZ_EVEX</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>369</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>297004</PointerOffset>
       <JapaneseText>rDIO008</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>370</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>297060</PointerOffset>
       <JapaneseText>rMEL008</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>371</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>297404</PointerOffset>
       <JapaneseText>rCLE013</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>372</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>297460</PointerOffset>
       <JapaneseText>rMIN013</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>373</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>297516</PointerOffset>
       <JapaneseText>rARC013</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>374</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>297572</PointerOffset>
       <JapaneseText>rSUZ013</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>375</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>297628</PointerOffset>
       <JapaneseText>rCST013</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>376</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>297684</PointerOffset>
       <JapaneseText>rKLA013</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>377</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>298148</PointerOffset>
       <JapaneseText>rCLE_EV</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>378</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>298204</PointerOffset>
       <JapaneseText>rMIN_EVEX</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>379</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>298260</PointerOffset>
       <JapaneseText>rARC_EVEX</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>380</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>298316</PointerOffset>
       <JapaneseText>rSUZ_EVEX</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>381</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>298372</PointerOffset>
       <JapaneseText>rCST_EVEX</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>382</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>298428</PointerOffset>
       <JapaneseText>rKLA_EVEX</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>383</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>298696</PointerOffset>
       <JapaneseText>rRND_EV</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>384</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>299280</PointerOffset>
       <JapaneseText>rMEL_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>385</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>299440</PointerOffset>
       <JapaneseText>rDIO067</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>386</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>299496</PointerOffset>
       <JapaneseText>rMEL066</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>387</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>300100</PointerOffset>
       <JapaneseText>rDIO_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>388</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>300260</PointerOffset>
       <JapaneseText>rDIO067</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>389</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>300316</PointerOffset>
       <JapaneseText>rMEL066</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>390</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>301220</PointerOffset>
       <JapaneseText>rDIO_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>391</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>301276</PointerOffset>
       <JapaneseText>rMEL_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>392</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>301952</PointerOffset>
       <JapaneseText>rDIO008</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>393</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>302008</PointerOffset>
       <JapaneseText>rMEL008</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>394</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>302240</PointerOffset>
       <JapaneseText>rDIO_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>395</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>302296</PointerOffset>
       <JapaneseText>rMEL_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>396</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>302692</PointerOffset>
       <JapaneseText>rDIO_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>397</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>302748</PointerOffset>
       <JapaneseText>rMEL_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>398</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>303140</PointerOffset>
       <JapaneseText>rDIO008</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>399</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>303484</PointerOffset>
       <JapaneseText>rDIO_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>400</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>303540</PointerOffset>
       <JapaneseText>rMEL008</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>401</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>303884</PointerOffset>
       <JapaneseText>rETS084</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>402</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>304312</PointerOffset>
       <JapaneseText>rRND008</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>403</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>304416</PointerOffset>
       <JapaneseText>rDIO008</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>404</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>304648</PointerOffset>
       <JapaneseText>rDIO216</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>405</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>304976</PointerOffset>
       <JapaneseText>rDIO_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>406</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>305184</PointerOffset>
       <JapaneseText>rDIO008</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>407</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>305576</PointerOffset>
       <JapaneseText>rMEL100</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>408</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>305720</PointerOffset>
       <JapaneseText>rMEL100</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>409</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>305944</PointerOffset>
       <JapaneseText>rMEL049</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>410</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>306208</PointerOffset>
       <JapaneseText>rDIO_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>411</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>306488</PointerOffset>
       <JapaneseText>rMEL100</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>412</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>306632</PointerOffset>
       <JapaneseText>rMEL100</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>413</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>306708</PointerOffset>
       <JapaneseText>rDIO201</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>414</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>307020</PointerOffset>
       <JapaneseText>rDIO008</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>415</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>307124</PointerOffset>
       <JapaneseText>rDIO224</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>416</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>307228</PointerOffset>
       <JapaneseText>rDIO008</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>417</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>307708</PointerOffset>
       <JapaneseText>rMEL_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>418</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>307916</PointerOffset>
       <JapaneseText>rMEL218</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>419</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>308160</PointerOffset>
       <JapaneseText>rMEL_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>420</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>308272</PointerOffset>
       <JapaneseText>rDIO_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>421</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>308432</PointerOffset>
       <JapaneseText>rDIO008</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>422</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>308592</PointerOffset>
       <JapaneseText>rMEL_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>423</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>308800</PointerOffset>
       <JapaneseText>rMEL008</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>424</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>309008</PointerOffset>
       <JapaneseText>rDIO203</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>425</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>309184</PointerOffset>
       <JapaneseText>rETS084</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>426</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>309336</PointerOffset>
       <JapaneseText>rETS</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>427</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>309720</PointerOffset>
       <JapaneseText>rRND_EV</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>428</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>310088</PointerOffset>
       <JapaneseText>rDIO_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>429</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>310244</PointerOffset>
       <JapaneseText>rMEL_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>430</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>310924</PointerOffset>
       <JapaneseText>rMEL100</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>431</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>311048</PointerOffset>
       <JapaneseText>rMEL202</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>432</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>311324</PointerOffset>
       <JapaneseText>rMEL218</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>433</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>311564</PointerOffset>
       <JapaneseText>rDIO216</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>434</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>311772</PointerOffset>
       <JapaneseText>rDIO218</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>435</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>312240</PointerOffset>
       <JapaneseText>rDIO_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>436</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>312296</PointerOffset>
       <JapaneseText>rMEL049</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>437</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>312504</PointerOffset>
       <JapaneseText>rMEL013</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>438</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>312628</PointerOffset>
       <JapaneseText>rMEL218</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>439</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>313096</PointerOffset>
       <JapaneseText>rMEL_EV2</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>440</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>315160</PointerOffset>
       <JapaneseText>rETS084</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>441</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>315644</PointerOffset>
       <JapaneseText>rRND008</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>442</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>316992</PointerOffset>
       <JapaneseText>rKUL031</JapaneseText>
-      <EnglishText></EnglishText>
-      <Notes></Notes>
+      <EnglishText/>
+      <Notes/>
       <Id>443</Id>
       <Status>To Do</Status>
     </Entry>
   </Strings>
-  <TextStart>320496</TextStart>
 </SceneText>
