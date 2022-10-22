@@ -57,38 +57,38 @@
       <VoiceId>&lt;VSM_130_070_000&gt;</VoiceId>
       <JapaneseText>これ、どこへ
 持っていけばいい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Where should I leave these? </EnglishText>
       <Notes/>
       <Id>1</Id>
       <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>181</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>259156</PointerOffset>
       <VoiceId>&lt;VSM_130_070_001&gt;</VoiceId>
       <JapaneseText>えっと……それは
 前から三番目の馬車へ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well... put it inside wagon number three. </EnglishText>
       <Notes/>
       <Id>2</Id>
       <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>259864</PointerOffset>
       <VoiceId>&lt;VSM_130_070_002&gt;</VoiceId>
       <JapaneseText>俺、何すればいい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So, am I relieved of my duties or what? </EnglishText>
       <Notes/>
       <Id>3</Id>
       <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
       <UnknownPointer>152</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>260004</PointerOffset>
@@ -96,38 +96,38 @@
       <JapaneseText>あ、んじゃあ、
 今夜、みんなが寝れるよう、
 道場の方の準備してくれよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Right. Tell everyone to rest and meet at the dojo. </EnglishText>
       <Notes/>
       <Id>4</Id>
       <StructId>4</StructId>
       <SpeakerId>2</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>260144</PointerOffset>
       <VoiceId>&lt;VSM_130_070_004&gt;</VoiceId>
       <JapaneseText>了解〜</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Understood! </EnglishText>
       <Notes/>
       <Id>5</Id>
       <StructId>5</StructId>
       <SpeakerId>3</SpeakerId>
       <UnknownPointer>152</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>260900</PointerOffset>
       <VoiceId>&lt;VSM_130_070_005&gt;</VoiceId>
       <JapaneseText>……みんな、なんで、
 自分で考えないんだろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Why is it everyone is treating me so poorly? </EnglishText>
       <Notes/>
       <Id>6</Id>
       <StructId>6</StructId>
       <SpeakerId>2</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>261220</PointerOffset>
@@ -135,49 +135,50 @@
       <JapaneseText>もしかして、&lt;CLE&gt;さんが
 なんでも指示するから、
 自分で何も考えないのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Could it be... they don't really think highly of &lt;CLE&gt; 
+either? </EnglishText>
       <Notes/>
       <Id>7</Id>
       <StructId>7</StructId>
       <SpeakerId>2</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>261472</PointerOffset>
       <VoiceId>&lt;VSM_130_070_007&gt;</VoiceId>
       <JapaneseText>うーん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Umm... </EnglishText>
       <Notes/>
       <Id>8</Id>
       <StructId>8</StructId>
       <SpeakerId>2</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>261612</PointerOffset>
       <VoiceId>&lt;VSM_130_070_008&gt;</VoiceId>
       <JapaneseText>&lt;CLE&gt;様々だな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our great mighty &lt;CLE&gt;, right? </EnglishText>
       <Notes/>
       <Id>9</Id>
       <StructId>9</StructId>
       <SpeakerId>4</SpeakerId>
       <UnknownPointer>179</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>261932</PointerOffset>
       <VoiceId>&lt;VSM_130_070_009&gt;</VoiceId>
       <JapaneseText>いや、まったくです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, please. </EnglishText>
       <Notes/>
       <Id>10</Id>
       <StructId>10</StructId>
       <SpeakerId>5</SpeakerId>
       <UnknownPointer>169</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>263328</PointerOffset>
@@ -185,13 +186,14 @@
       <JapaneseText>奴のおかげで、
 多くの騎士志願者も
 取り込める</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Due to that brat's fault we've had a ridiculous number of 
+knight applicants. </EnglishText>
       <Notes/>
       <Id>11</Id>
       <StructId>11</StructId>
       <SpeakerId>4</SpeakerId>
       <UnknownPointer>179</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>263328</PointerOffset>
@@ -199,39 +201,40 @@
       <JapaneseText>あいつら、
 英雄の言うことなら
 なんでも聞くしな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He'll do anything to hear people call him a hero. </EnglishText>
       <Notes/>
       <Id>12</Id>
       <StructId>11</StructId>
       <SpeakerId>4</SpeakerId>
       <UnknownPointer>179</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>263524</PointerOffset>
       <VoiceId>&lt;VSM_130_070_012&gt;</VoiceId>
       <JapaneseText>この調子で、うちの騎士団
 もっと大きくなればいいですな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's that way. He thinks he's the great thing in the 
+Imperial Knights. </EnglishText>
       <Notes/>
       <Id>13</Id>
       <StructId>12</StructId>
       <SpeakerId>5</SpeakerId>
       <UnknownPointer>169</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>263664</PointerOffset>
       <VoiceId>&lt;VSM_130_070_013&gt;</VoiceId>
       <JapaneseText>ああ……そうなったら、
 他の国々も圧倒できる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah...Other countries became overwhelmed. </EnglishText>
       <Notes/>
       <Id>14</Id>
       <StructId>13</StructId>
       <SpeakerId>4</SpeakerId>
       <UnknownPointer>179</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>263804</PointerOffset>
@@ -239,26 +242,28 @@
       <JapaneseText>&lt;Red&gt;ヴァルハラ&lt;White&gt;のちんけな犯罪組織の
 鎮圧仕事など、バカバカしくて
 やってられません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The great duty of suppressing the criminal organization in 
+Valhalla...Tch. Only an i&lt;DIO&gt;t would take that mission. </EnglishText>
       <Notes/>
       <Id>15</Id>
       <StructId>14</StructId>
       <SpeakerId>5</SpeakerId>
       <UnknownPointer>169</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>263944</PointerOffset>
       <VoiceId>&lt;VSM_130_070_015&gt;</VoiceId>
       <JapaneseText>そう言うな。
 &lt;CLE&gt;様の持ってきた仕事だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So you say, but the great almighty &lt;CLE&gt; decided to take 
+that job. </EnglishText>
       <Notes/>
       <Id>16</Id>
       <StructId>15</StructId>
       <SpeakerId>4</SpeakerId>
       <UnknownPointer>179</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>263944</PointerOffset>
@@ -266,39 +271,39 @@
       <JapaneseText>きっちりこなして、
 信頼を得なければ
 台無しだぞ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If he loses his trust he won't be more than a spoiled brat. </EnglishText>
       <Notes/>
       <Id>17</Id>
       <StructId>15</StructId>
       <SpeakerId>4</SpeakerId>
       <UnknownPointer>179</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>264140</PointerOffset>
       <VoiceId>&lt;VSM_130_070_017&gt;</VoiceId>
       <JapaneseText>そうですな、
 わっはっはっは</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's right...Hahahaha! </EnglishText>
       <Notes/>
       <Id>18</Id>
       <StructId>16</StructId>
       <SpeakerId>5</SpeakerId>
       <UnknownPointer>169</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>264336</PointerOffset>
       <VoiceId>&lt;VSM_130_070_018&gt;</VoiceId>
       <JapaneseText>……どーゆーことだよ、
 これ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The hell do they mean? </EnglishText>
       <Notes/>
       <Id>19</Id>
       <StructId>17</StructId>
       <SpeakerId>2</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>264476</PointerOffset>
@@ -306,113 +311,113 @@
       <JapaneseText>さてと、そろそろ、
 &lt;CLE&gt;様にはちゃんと
 働いてもらわないとな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Soon the almighty &lt;CLE&gt; will get no missions at all... </EnglishText>
       <Notes/>
       <Id>20</Id>
       <StructId>18</StructId>
       <SpeakerId>4</SpeakerId>
       <UnknownPointer>179</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>265480</PointerOffset>
       <VoiceId>&lt;VSM_130_070_020&gt;</VoiceId>
       <JapaneseText>な、なんだ、
 今の話聞いていたのか！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What!? Were you eavesdropping!? </EnglishText>
       <Notes/>
       <Id>21</Id>
       <StructId>19</StructId>
       <SpeakerId>4</SpeakerId>
       <UnknownPointer>179</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>265620</PointerOffset>
       <VoiceId>&lt;VSM_130_070_021&gt;</VoiceId>
       <JapaneseText>こいつ……！
 &lt;CLE&gt;様の代理やってた……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This kid! He's the representative of &lt;CLE&gt;! </EnglishText>
       <Notes/>
       <Id>22</Id>
       <StructId>20</StructId>
       <SpeakerId>5</SpeakerId>
       <UnknownPointer>169</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>265884</PointerOffset>
       <VoiceId>&lt;VSM_130_070_022&gt;</VoiceId>
       <JapaneseText>こいつら……
 許せない……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I won't forgive you pair of freaks... </EnglishText>
       <Notes/>
       <Id>23</Id>
       <StructId>21</StructId>
       <SpeakerId>2</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>266024</PointerOffset>
       <VoiceId>&lt;VSM_130_070_023&gt;</VoiceId>
       <JapaneseText>&lt;DIO&gt;！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;DIO&gt;! </EnglishText>
       <Notes/>
       <Id>24</Id>
       <StructId>22</StructId>
       <SpeakerId>6</SpeakerId>
       <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>266716</PointerOffset>
       <VoiceId>&lt;VSM_130_070_024&gt;</VoiceId>
       <JapaneseText>&lt;CLE&gt;さん！
 こいつら……ひどいんだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mister &lt;CLE&gt;! These...these guys are horrible! </EnglishText>
       <Notes/>
       <Id>25</Id>
       <StructId>23</StructId>
       <SpeakerId>2</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>267976</PointerOffset>
       <VoiceId>&lt;VSM_130_070_025&gt;</VoiceId>
       <JapaneseText>いいんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's fine. </EnglishText>
       <Notes/>
       <Id>26</Id>
       <StructId>24</StructId>
       <SpeakerId>6</SpeakerId>
       <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268296</PointerOffset>
       <VoiceId>&lt;VSM_130_070_026&gt;</VoiceId>
       <JapaneseText>だって……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fine!? But...! </EnglishText>
       <Notes/>
       <Id>27</Id>
       <StructId>25</StructId>
       <SpeakerId>2</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268492</PointerOffset>
       <VoiceId>&lt;VSM_130_070_027&gt;</VoiceId>
       <JapaneseText>いいんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes, it's fine. </EnglishText>
       <Notes/>
       <Id>28</Id>
       <StructId>26</StructId>
       <SpeakerId>6</SpeakerId>
       <UnknownPointer>19</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

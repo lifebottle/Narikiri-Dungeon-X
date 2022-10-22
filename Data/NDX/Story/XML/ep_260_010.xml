@@ -49,13 +49,13 @@
       <VoiceId>&lt;VSM_260_010_000&gt;</VoiceId>
       <JapaneseText>あいつら……
 どこ行ったんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Where did those two go? </EnglishText>
       <Notes/>
       <Id>1</Id>
       <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278848</PointerOffset>
@@ -63,114 +63,115 @@
       <JapaneseText>……わからない……
 ここ、どこなんだろう……
 なんかイヤな感じがする……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I don't know...I don't recognize this place, either... 
+For some reason, I feel really bad about this... </EnglishText>
       <Notes/>
       <Id>2</Id>
       <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
       <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279468</PointerOffset>
       <VoiceId>&lt;VSM_260_010_002&gt;</VoiceId>
       <JapaneseText>クルクルッ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kurukuru! </EnglishText>
       <Notes/>
       <Id>3</Id>
       <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
       <UnknownPointer>14</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281088</PointerOffset>
       <VoiceId>&lt;VSM_260_010_003&gt;</VoiceId>
       <JapaneseText>ダオス！
 倒したはずなのに……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dhaos! I thought we defeated you...!? </EnglishText>
       <Notes/>
       <Id>4</Id>
       <StructId>4</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281228</PointerOffset>
       <VoiceId>&lt;VSM_260_010_005&gt;</VoiceId>
       <JapaneseText>今の私は
 私であって、私でない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The man you are meeting is not really me. </EnglishText>
       <Notes/>
       <Id>5</Id>
       <StructId>5</StructId>
       <SpeakerId>4</SpeakerId>
       <UnknownPointer>21</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281228</PointerOffset>
       <VoiceId>&lt;VSM_260_010_006&gt;</VoiceId>
       <JapaneseText>おまえたちが戦った
 私もまた</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The same goes for the Dhaos you fought. </EnglishText>
       <Notes/>
       <Id>6</Id>
       <StructId>5</StructId>
       <SpeakerId>4</SpeakerId>
       <UnknownPointer>21</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281600</PointerOffset>
       <VoiceId>&lt;VSM_260_010_007&gt;</VoiceId>
       <JapaneseText>…………？
 どーゆーことだよっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...!? What the hell is the meaning of that!? </EnglishText>
       <Notes/>
       <Id>7</Id>
       <StructId>6</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281740</PointerOffset>
       <VoiceId>&lt;VSM_260_010_008&gt;</VoiceId>
       <JapaneseText>残存思念、
 それが今の私だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I am nothing more than a lingering recollection. </EnglishText>
       <Notes/>
       <Id>8</Id>
       <StructId>7</StructId>
       <SpeakerId>4</SpeakerId>
       <UnknownPointer>21</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281992</PointerOffset>
       <VoiceId>&lt;VSM_260_010_009&gt;</VoiceId>
       <JapaneseText>残存思念？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A lingering recollection? </EnglishText>
       <Notes/>
       <Id>9</Id>
       <StructId>8</StructId>
       <SpeakerId>2</SpeakerId>
       <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282356</PointerOffset>
       <VoiceId>&lt;VSM_260_010_010&gt;</VoiceId>
       <JapaneseText>執着、遺恨、悔い</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fixation, enmity, disdain... </EnglishText>
       <Notes/>
       <Id>10</Id>
       <StructId>9</StructId>
       <SpeakerId>4</SpeakerId>
       <UnknownPointer>21</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282356</PointerOffset>
@@ -178,13 +179,15 @@
       <JapaneseText>ここはそうした思念が
 本来の時空からはぐれ
 集った暗黒時空なのだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This whole time-space continuum is an existence like such. 
+A place materialized by collections of feelings scattered 
+through time. This is the Darkened Time-Space. </EnglishText>
       <Notes/>
       <Id>11</Id>
       <StructId>9</StructId>
       <SpeakerId>4</SpeakerId>
       <UnknownPointer>21</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282720</PointerOffset>
@@ -192,52 +195,54 @@
       <JapaneseText>あんたのこととか
 ここがどことか
 どーだっていい！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't understand the very first thing you mean about this 
+place or you! </EnglishText>
       <Notes/>
       <Id>12</Id>
       <StructId>10</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282720</PointerOffset>
       <VoiceId>&lt;VSM_260_010_013&gt;</VoiceId>
       <JapaneseText>仮面つけたヤツら、
 見なかったか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Have you seen those masked screwballs? </EnglishText>
       <Notes/>
       <Id>13</Id>
       <StructId>10</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283036</PointerOffset>
       <VoiceId>&lt;VSM_260_010_014&gt;</VoiceId>
       <JapaneseText>……『&lt;Red&gt;焔王（ほむらおう）の楔&lt;White&gt;』
 へ行った</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...They have braved into the Linchpin of the Lord of Fire. </EnglishText>
       <Notes/>
       <Id>14</Id>
       <StructId>11</StructId>
       <SpeakerId>4</SpeakerId>
       <UnknownPointer>21</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283036</PointerOffset>
       <VoiceId>&lt;VSM_260_010_015&gt;</VoiceId>
       <JapaneseText>追うがいい！
 貴様らの因縁を</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Chase them if you so desire. Alas, you cannot escape your 
+fate. </EnglishText>
       <Notes/>
       <Id>15</Id>
       <StructId>11</StructId>
       <SpeakerId>4</SpeakerId>
       <UnknownPointer>21</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283660</PointerOffset>
@@ -245,25 +250,25 @@
       <JapaneseText>消えた……
 なんか親切すぎねーか？
 あいつ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He's gone... Did he seem...kind to us to you? That guy... </EnglishText>
       <Notes/>
       <Id>16</Id>
       <StructId>12</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283904</PointerOffset>
       <VoiceId>&lt;VSM_260_010_017&gt;</VoiceId>
       <JapaneseText>それに襲ってこなかったシ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Besides he didn't try to attack us... </EnglishText>
       <Notes/>
       <Id>17</Id>
       <StructId>13</StructId>
       <SpeakerId>5</SpeakerId>
       <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284340</PointerOffset>
@@ -271,13 +276,14 @@
       <JapaneseText>……今、見たの、
 前会ったダオスとは
 なんか違う雰囲気だったね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...This "Dhaos" we met had a different air to him than the 
+one we've met before. </EnglishText>
       <Notes/>
       <Id>18</Id>
       <StructId>14</StructId>
       <SpeakerId>2</SpeakerId>
       <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284604</PointerOffset>
@@ -285,13 +291,13 @@
       <JapaneseText>とにかく、
 『&lt;Red&gt;焔王の楔&lt;White&gt;』ってとこ
 行ってみよーぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>At any rate let's head to the Linchpin of the Lord of Fire. </EnglishText>
       <Notes/>
       <Id>19</Id>
       <StructId>15</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
