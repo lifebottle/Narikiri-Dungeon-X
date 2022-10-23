@@ -22,12 +22,32 @@ body:
     validations:
       required: true
 
+  - type: dropdown
+    id: play
+    attributes:
+      label: How do you play the game?
+      multiple: false
+      options:
+        - Hardware
+        - Emulator
+    validations:
+      required: true
+
   - type: input
     id: contact
     attributes:
       label: Contact Details
       description: How can we get in touch with you if we need more info?
       placeholder: Discord name
+    validations:
+      required: true
+
+  - type: input
+    id: where
+    attributes:
+      label: Where in the game the bug is occuring?
+      description: Location in the game
+      placeholder: Location
     validations:
       required: true
 
@@ -39,22 +59,4 @@ body:
       placeholder: Tell us what you see!
     validations:
       required: true
-
-  - type: textarea
-    id: how
-    attributes:
-      label: How can we replicate the same issue?
-      description: Tell us how it happened
-      placeholder: How did it happen?
-    validations:
-      required: true
-
-  - type: textarea
-    id: useful
-    attributes:
-      label: Other useful information for us
-      description: additional information
-      placeholder: Additional information
-    validations:
-      required: false
 
