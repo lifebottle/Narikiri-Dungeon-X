@@ -1,46 +1,59 @@
 [
 	{	
 		"File_Original":"../Data/Narikiri-Dungeon-X/Misc/EBOOT.BIN",
-		"File_Extract": "../Data/Narikiri-Dungeon-X/Misc/EBOOT.BIN",
+		"File_Extract": "../Data/Narikiri-Dungeon-X/Disc/New/PSP_GAME/SYSDIR/EBOOT.BIN",
 		"Hashes_Name":	"",
 		"File_XML":		"../Narikiri-Dungeon-X/Data/NDX/Menu/XML/EBOOT.xml",
-		"Text_Start":	1654980,
+		"Text_Start":	1645672,
 		"Text_End":		1655035,
 		"Base_Offset":	160,
 		"Sections":
 		[
 		{
+			"Section":					"Main Menu 3",
+			"Pointer_Offset_Start":		1796624,
+			"Style":					"P",
+			"Text_Start":				1645672,   
+			"Text_End":					1645955,
+			"To_Translate":				1
+		},
+		{
+			"Section":					"Main Menu 4",
+			"Pointer_Offset_Start":		1797524,
+			"Style":					"P",
+			"Text_Start":				1645948,   
+			"Text_End":					1645999,
+			"To_Translate":				1
+		},
+		{
 			"Section":					"Character Attributes",
 			"Pointer_Offset_Start":		2084256,
-			"Nb_Per_Block":				1,
-			"Step":						0,
+			"Style":					"P",
 			"Text_Start":				1654980,
 			"Text_End":					1655035,
 			"To_Translate":				1
 		},
 		{
-			"Section":					"Main Menu 1",
-			"Pointer_Offset_Start":		2084312,
-			"Nb_Per_Block":				1,
-			"Step":						0,
-			"Text_Start":				1655936,
-			"Text_End":					1656295,
-			"To_Translate":				1
-		},
-		{
 			"Section":					"Not Important 1",
 			"Pointer_Offset_Start":		2084456,
-			"Nb_Per_Block":				1,
-			"Step":						0,
+			"Style":					"P",
 			"Text_Start":				1656296,
 			"Text_End":					1669779,
 			"To_Translate":				0
 		},
 		{
+			"Section":					"Main Menu 1",
+			"Pointer_Offset_Start":		2084484,
+			"Style":					"P",
+			"Text_Start":				1655936,
+			"Text_End":					1656295,
+			"To_Translate":				1
+		},
+		
+		{
 			"Section":					"Not Important 2",
 			"Pointer_Offset_Start":		2087104,
-			"Nb_Per_Block":				1,
-			"Step":						0,
+			"Style":					"P",
 			"Text_Start":				1670092,
 			"Text_End":					1670491,
 			"To_Translate":				0
@@ -48,8 +61,7 @@
 		{
 			"Section":					"Actions 1",
 			"Pointer_Offset_Start":		2087284,
-			"Nb_Per_Block":				1,
-			"Step":						0,
+			"Style":					"P",
 			"Text_Start":				1670844,
 			"Text_End":					1670919,
 			"To_Translate":				1
@@ -57,8 +69,7 @@
 		{
 			"Section":					"Actions 2",
 			"Pointer_Offset_Start":		[2087468, 2087528, 2087540, 2087552, 2087576, 2087588],
-			"Nb_Per_Block":				1,
-			"Step":						0,
+			"Style":					"P",
 			"Text_Start":				1671020,
 			"Text_End":					1671091,
 			"To_Translate":				1
@@ -85,7 +96,7 @@
 	},
 	{
 		"File_Original":"../Data/Narikiri-Dungeon-X/All/battle/data/bt_data.b",
-		"File_Extract": "../Data/Narikiri-Dungeon-X/Menu/New/battle/data/BT_DATA/BT_ITEM_DATA/bt_item_data.dat",
+		"File_Extract": "../Data/Narikiri-Dungeon-X/Menu/New/battle/data/BT_DATA/bt_item_data/bt_item_data.dat",
 		"File_XML":		"../Narikiri-Dungeon-X/Data/NDX/Menu/XML/Items.xml",
 		"Hashes_Name":	"battle/data",
 		"Text_Start":	57376,
