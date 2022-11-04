@@ -1,0 +1,3653 @@
+<MenuText>
+  <Strings>
+    <Section>Strategy</Section>
+    <Entry>
+      <PointerOffset>8,12</PointerOffset>
+      <JapaneseText>だみー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4163</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>76,72</PointerOffset>
+      <JapaneseText>HPが100%以下のとき</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4164</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>140,136</PointerOffset>
+      <JapaneseText>HPが95%以下のとき</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4165</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>200,204</PointerOffset>
+      <JapaneseText>HPが90%以下のとき</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4166</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264,268</PointerOffset>
+      <JapaneseText>HPが85%以下のとき</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4167</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>328,332</PointerOffset>
+      <JapaneseText>HPが80%以下のとき</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4168</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>396,392</PointerOffset>
+      <JapaneseText>HPが75%以下のとき</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4169</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>460,456</PointerOffset>
+      <JapaneseText>HPが70%以下のとき</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4170</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>520,524</PointerOffset>
+      <JapaneseText>HPが65%以下のとき</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4171</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>584,588</PointerOffset>
+      <JapaneseText>HPが60%以下のとき</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4172</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>652,648</PointerOffset>
+      <JapaneseText>HPが55%以下のとき</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4173</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>712,716</PointerOffset>
+      <JapaneseText>HPが50%以下のとき</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4174</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>776,780</PointerOffset>
+      <JapaneseText>HPが45%以下のとき</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4175</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>840,844</PointerOffset>
+      <JapaneseText>HPが40%以下のとき</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4176</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>908,904</PointerOffset>
+      <JapaneseText>HPが35%以下のとき</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4177</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>968,972</PointerOffset>
+      <JapaneseText>HPが30%以下のとき</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4178</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1032,1036</PointerOffset>
+      <JapaneseText>HPが25%以下のとき</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4179</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1100,1096</PointerOffset>
+      <JapaneseText>HPが20%以下のとき</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4180</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1164,1160</PointerOffset>
+      <JapaneseText>HPが15%以下のとき</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4181</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1228,1224</PointerOffset>
+      <JapaneseText>HPが10%以下のとき</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4182</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1288,1292</PointerOffset>
+      <JapaneseText>HPが5%以下のとき</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4183</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1356,1352</PointerOffset>
+      <JapaneseText>HPが0%以下のとき</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4184</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1416</PointerOffset>
+      <JapaneseText>自らは守らない</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4185</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1420</PointerOffset>
+      <JapaneseText>まったく守備行動を行いません</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4186</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1544</PointerOffset>
+      <JapaneseText>ピンチ時に守れ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4187</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1548</PointerOffset>
+      <JapaneseText>ＨＰ25%以下になると守備行動をとります</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4188</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1740,1804,1484,1676,1612</PointerOffset>
+      <JapaneseText>ＨＰ50%以下になると守備行動をとります</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4189</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1800,1480,1672,1608,1736</PointerOffset>
+      <JapaneseText>ほどほどに守れ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4190</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1864</PointerOffset>
+      <JapaneseText>自由に敵を狙え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4191</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1868</PointerOffset>
+      <JapaneseText>自由に敵を狙います</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4192</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1928</PointerOffset>
+      <JapaneseText>目の前の敵を狙え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4193</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1932</PointerOffset>
+      <JapaneseText>一番近くにいる敵を狙います</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4194</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1992</PointerOffset>
+      <JapaneseText>一番後ろの敵を狙え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4195</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2056</PointerOffset>
+      <JapaneseText>同じ敵を狙え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4196</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2060</PointerOffset>
+      <JapaneseText>操作キャラが狙っている敵と同じ敵を狙います</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4197</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2120</PointerOffset>
+      <JapaneseText>分散して戦え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4198</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2124</PointerOffset>
+      <JapaneseText>操作キャラが狙っている敵と違う敵を狙います</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4199</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2184</PointerOffset>
+      <JapaneseText>敵の数を減らせ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4200</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2188</PointerOffset>
+      <JapaneseText>現在のＨＰが最も低い敵を狙います</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4201</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2248</PointerOffset>
+      <JapaneseText>元気な敵を狙え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4202</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2312</PointerOffset>
+      <JapaneseText>空の敵を狙え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4203</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2376</PointerOffset>
+      <JapaneseText>素早い敵を倒せ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4204</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2440</PointerOffset>
+      <JapaneseText>術を使わせるな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4205</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2444</PointerOffset>
+      <JapaneseText>詠唱中の敵を優先的に狙います</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4206</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2504</PointerOffset>
+      <JapaneseText>仲間を守れ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4207</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2508</PointerOffset>
+      <JapaneseText>ＨＰが少ない仲間を狙っている敵を狙います</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4208</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2568,2572</PointerOffset>
+      <JapaneseText>ボス用</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4209</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2632</PointerOffset>
+      <JapaneseText>一番前の敵を狙え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4210</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1996,2316,2380,2252,2636</PointerOffset>
+      <JapaneseText>敵用</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4211</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2760,2888,2696,2892,2764,2952,2956,2700,2828,2824</PointerOffset>
+      <JapaneseText>予備</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4212</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4808,4104,4360,3208,3656,8968,3976,4488,3720,3016,3400,3848,3272,3144,7816,4168,4936,3528,4296,3464,8904,4744,4872,3336,7880,4616,4040,5000,8776,3912,4424,3592,3080,8840,4232,3784,4552,4680</PointerOffset>
+      <JapaneseText>お前に任せた</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4213</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3980,4044,7820,3532,4428,3084,4620,7884,4172,3468,4556,8908,4364,3020,3724,4300,3340,4876,3788,4236,4492,5004,8972,4940,3852,3404,3660,4748,4108,8844,8780,3148,3276,3212,3916,3596,4812,4684</PointerOffset>
+      <JapaneseText>自由に術技を使って戦います</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4214</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5064</PointerOffset>
+      <JapaneseText>防御重視</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4215</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5068</PointerOffset>
+      <JapaneseText>防御に重きを置きますが、スキを見て攻撃を繰り出して戦います</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4216</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5128</PointerOffset>
+      <JapaneseText>待機しろ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4217</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5132</PointerOffset>
+      <JapaneseText>その場に待機し、防御に徹して戦います</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4218</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6540,8652,6220,5772</PointerOffset>
+      <JapaneseText>術のみで戦います</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4219</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6920,7688,8520,7304,8200,5448,6088</PointerOffset>
+      <JapaneseText>技のみで戦え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4220</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6472,8584,5704,6152</PointerOffset>
+      <JapaneseText>術重視</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4221</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5708,8588,6476,6156</PointerOffset>
+      <JapaneseText>術の使用頻度高めで戦います</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4222</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5768,6536,8648,6216</PointerOffset>
+      <JapaneseText>術のみで戦え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4223</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8008,7112,7496,8328,5896,5576,5256,6728,6344</PointerOffset>
+      <JapaneseText>通常技重視</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4224</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6600</PointerOffset>
+      <JapaneseText>回復を頼んだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4225</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6604</PointerOffset>
+      <JapaneseText>回復術のみを使用して戦います</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4226</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5512,7944,7432,8264,5192,6280,7048,5832,6664</PointerOffset>
+      <JapaneseText>通常技で戦え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4227</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6348,8332,5900,5260,5580,7116,7500,8012,6732</PointerOffset>
+      <JapaneseText>通常技の使用頻度高めで戦います</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4228</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7368,7752,5640,8712,8072,6984</PointerOffset>
+      <JapaneseText>回復を優先で</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4229</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8456,5384,8136,6856,6024,7624,7240</PointerOffset>
+      <JapaneseText>技重視</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4230</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6028,7628,6860,8140,8460,5388,7244</PointerOffset>
+      <JapaneseText>技の使用頻度高めで戦います</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4231</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6284,6668,5196,7052,7948,8268,5516,5836,7436</PointerOffset>
+      <JapaneseText>通常技のみで戦います</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4232</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8524,5452,7308,6924,6092,8204,7692</PointerOffset>
+      <JapaneseText>技のみで戦います</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4233</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7756</PointerOffset>
+      <JapaneseText>回復を優先して使用します</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4234</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5644,8076,7372,6988,8716</PointerOffset>
+      <JapaneseText>回復を優先して使用して戦います</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4235</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9352</PointerOffset>
+      <JapaneseText>e300 ロボ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4236</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9416</PointerOffset>
+      <JapaneseText>e300 ロボ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4237</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9480</PointerOffset>
+      <JapaneseText>e301 メイヤー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4238</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9544</PointerOffset>
+      <JapaneseText>e302 バグベア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4239</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9608</PointerOffset>
+      <JapaneseText>e303 クレイアイドル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4240</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9672</PointerOffset>
+      <JapaneseText>e303 クレイアイドル2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4241</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9800</PointerOffset>
+      <JapaneseText>e305 旅の戦士</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4242</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9864</PointerOffset>
+      <JapaneseText>e306 ケイヴキャッツ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4243</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9928</PointerOffset>
+      <JapaneseText>e306 ケイヴキャッツ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4244</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9992</PointerOffset>
+      <JapaneseText>e307 旅の猟人</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4245</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10056</PointerOffset>
+      <JapaneseText>e308 クィーンネレウス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4246</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10120</PointerOffset>
+      <JapaneseText>e309 くノ一</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4247</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10184</PointerOffset>
+      <JapaneseText>e310 クロボア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4248</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10248</PointerOffset>
+      <JapaneseText>e311 アルラウネ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4249</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10312</PointerOffset>
+      <JapaneseText>e313 ポッチャイル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4250</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10376</PointerOffset>
+      <JapaneseText>e319 ハエトリソウ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4251</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10440</PointerOffset>
+      <JapaneseText>e320 女盗賊</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4252</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10504</PointerOffset>
+      <JapaneseText>e321 ウィッチ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4253</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10568</PointerOffset>
+      <JapaneseText>e322 アマゾネス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4254</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10632</PointerOffset>
+      <JapaneseText>e323 ネレウス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4255</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10696</PointerOffset>
+      <JapaneseText>e324 バンデット</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4256</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10760</PointerOffset>
+      <JapaneseText>e325 ウリボア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4257</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10824</PointerOffset>
+      <JapaneseText>e325 ウリボア2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4258</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10888</PointerOffset>
+      <JapaneseText>e326 マンドラゴラ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4259</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10952</PointerOffset>
+      <JapaneseText>e327 プチプリ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4260</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11016</PointerOffset>
+      <JapaneseText>e328 ブレイクゴイル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4261</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11080</PointerOffset>
+      <JapaneseText>e330 フサフサドール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4262</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11144</PointerOffset>
+      <JapaneseText>e330 フサフサドール2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4263</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11208</PointerOffset>
+      <JapaneseText>e331 ピヨピヨドール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4264</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11272</PointerOffset>
+      <JapaneseText>e332 トイボックス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4265</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11336</PointerOffset>
+      <JapaneseText>e333 フルオライト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4266</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11400</PointerOffset>
+      <JapaneseText>e334 イミテートプリン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4267</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11464</PointerOffset>
+      <JapaneseText>e335 オトギノエホン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4268</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11528</PointerOffset>
+      <JapaneseText>e336 マニプドール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4269</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11592</PointerOffset>
+      <JapaneseText>e337 ジルウォーム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4270</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11656</PointerOffset>
+      <JapaneseText>e338 エルダードラゴン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4271</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11720</PointerOffset>
+      <JapaneseText>e338 エルダードラゴン2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4272</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11784</PointerOffset>
+      <JapaneseText>e339 クリスタルホーク</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4273</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11848</PointerOffset>
+      <JapaneseText>e339 クリスタルホーク2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4274</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11912</PointerOffset>
+      <JapaneseText>e340 リビングスキッド</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4275</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11976</PointerOffset>
+      <JapaneseText>e341 ナイトメアミラー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4276</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12040</PointerOffset>
+      <JapaneseText>e342 ファイガ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4277</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12104</PointerOffset>
+      <JapaneseText>e342 ファイガ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4278</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12168</PointerOffset>
+      <JapaneseText>e343 フェニックス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4279</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12232</PointerOffset>
+      <JapaneseText>e344 クラムボン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4280</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12296</PointerOffset>
+      <JapaneseText>e345 ロックトータス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4281</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12360</PointerOffset>
+      <JapaneseText>e346 ヴァサーゴ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4282</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12424</PointerOffset>
+      <JapaneseText>e346 ヴァサーゴ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4283</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12488</PointerOffset>
+      <JapaneseText>e347 ヴェパール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4284</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12552</PointerOffset>
+      <JapaneseText>e347 ヴェパール2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4285</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12616</PointerOffset>
+      <JapaneseText>e348 チルドフルール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4286</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12680</PointerOffset>
+      <JapaneseText>e349 スターフィッシュ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4287</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16908,32460,21836,17292,26700,27852,19532,32588,9292,33356,12556,40012,40652,24396,32844,11596,38924,17484,23628,27404,28620,36364,21452,18444,14284,31436,33932,14988,21324,21964,16972,11084,23180,28556,11532,27724,26892,25164,29580,13196,19916,35212,13388,20940,37772,29324,23692,25612,32780,16012,32012,24332,36492,9612,28172,32652,9740,34508,9996,35852,20492,32204,30988,23052,7180,33484,20236,21900,19724,9676,31756,13708,22860,29708,28108,37324,27532,35532,27084,11788,27468,35788,15116,10956,19788,34956,37388,27212,10572,10508,35980,23756,40716,29836,38092,40140,18060,32140,6412,33676,20300,34252,13964,32396,11724,32268,29196,17612,33548,20428,24972,25484,27276,31564,28684,28492,32972,36236,21388,39692,35020,23500,33996,16524,29004,26636,37964,33420,12364,24012,40524,32908,19020,15244,36940,27916,30028,12428,26572,22476,39628,21580,28364,12812,14860,33228,21708,30348,31308,14092,20556,39884,10764,37452,24780,20044,39820,35276,24140,27340,40460,7564,12492,19852,17676,10252,28428,33612,18700,18892,22924,28748,10636,29516,18636,20108,21260,11980,25228,35404,36684,26252,17868,35724,27596,21644,31116,12108,9100,14348,13580,26124,16396,16844,30476,12940,14540,24908,31820,34188,18380,16780,31628,20812,27788,19596,14476,31372,19468,22220,37196,16076,14924,32076,32332,36812,34444,15884,19212,12236,9804,36428,13132,29964,28812,20684,10124,11660,11020,30156,10060,24652,26188,22156,20172,35340,22284,25100,30604,24716,27980,15948,22028,22348,25292,29132,19660,17356,17100,15692,36620,18188,17932,25676,13644,13516,17420,35916,29388,29644,11212,17740,32716,35084,14604,12172,21196,26060,38028,25740,13324,24588,30796,18124,14796,29068,20876,13836,23308,27020,30668,35148,9868,33100,16716,30412,23820,24844,9932,37708,25868,34700,31500,35596,22412,40268,13452,17036,39756,29900,23244,25548,17548,31052,15820,34892,20620,37644,18828,30220,16588,10444,25932,31180,23372,24268,15436,40588,31884,36172,11468,17164,11404,9164,37580,15500,5324,21004,21772,15372,16268,25996,28236,24076,13260,37004,9548,23884,26444,25356,39948,26956,33036,15756,13772,15180,34636,40204,6796,19340,25804,22604,29260,29772,37068,18572,33292,22540,40780,14028,14156,22668,12300,12748,15052,28044,36876,30092,35468,37260,26828,23948,10188,18252,11916,22732,34316,15628,37836,24460,30284,11148,16460,19148,31692,23436,22796,21068,5964,15564,10892,18508,20748,8396,16140,13068,22092,26508,34764,23116,37516,16652,26764,11852,17996,27660,11340,10828,18956,25036,14668,9420,30924,17804,30732,11276,17228,40332,21132,25420,23564,9356,36108,30540,34828,28940,21516,19980,36044,28300,34380,37132,22988,10380,35660,9036,33740,26316,27148,37900,10316,29452,36748,16332,24204,14412,36556,14732,31244,10700,12620,9484,19404,31948,26380,15308,33804,34124,28876,13900,9228,33868,40076,32524,24524,20364,34060,40396,19084,19276,13004,12876,34572,18764,30860,36300,14220,16204,18316,12044,33164,12684</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>4288</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12744</PointerOffset>
+      <JapaneseText>e350 シャケ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4289</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12808</PointerOffset>
+      <JapaneseText>e351 レンメデュズ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4290</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12872</PointerOffset>
+      <JapaneseText>e351 レンメデュズ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4291</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12936</PointerOffset>
+      <JapaneseText>e352 オークロット</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4292</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13000</PointerOffset>
+      <JapaneseText>e353 ファイアフライ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4293</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13064</PointerOffset>
+      <JapaneseText>e354 アルジャーノン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4294</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13128</PointerOffset>
+      <JapaneseText>e355 ケイヴンニードル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4295</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13192</PointerOffset>
+      <JapaneseText>e356 ショヴスリ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4296</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13256</PointerOffset>
+      <JapaneseText>e357 キャリオンクロラ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4297</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13320</PointerOffset>
+      <JapaneseText>e358 オウルベア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4298</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13384</PointerOffset>
+      <JapaneseText>e358 オウルベア2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4299</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13448</PointerOffset>
+      <JapaneseText>e359 ケイブモス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4300</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13512</PointerOffset>
+      <JapaneseText>e360 メルドウォーム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4301</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13576</PointerOffset>
+      <JapaneseText>e360 メルドウォーム2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4302</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13640</PointerOffset>
+      <JapaneseText>e361 クレイデーモン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4303</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13704</PointerOffset>
+      <JapaneseText>e362 ラッキーホワイト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4304</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13768</PointerOffset>
+      <JapaneseText>e362 ラッキーホワイト2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4305</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13832</PointerOffset>
+      <JapaneseText>e363 クラッグスコピオ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4306</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13896</PointerOffset>
+      <JapaneseText>e364 モサモサ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4307</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13960</PointerOffset>
+      <JapaneseText>e365 ラクシャサ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4308</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14024</PointerOffset>
+      <JapaneseText>e366 スタウトマッシュ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4309</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14088</PointerOffset>
+      <JapaneseText>e367 ストーンゴーレム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4310</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14152</PointerOffset>
+      <JapaneseText>e367 ストーンゴーレム2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4311</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14216</PointerOffset>
+      <JapaneseText>e368 リビングシールド</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4312</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14280</PointerOffset>
+      <JapaneseText>e369 ブルーワイバーン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4313</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14344</PointerOffset>
+      <JapaneseText>e369 ブルーワイバーン2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4314</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14408</PointerOffset>
+      <JapaneseText>e370 マッドイール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4315</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14472</PointerOffset>
+      <JapaneseText>e371 デスサーヴァント</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4316</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14536</PointerOffset>
+      <JapaneseText>e372 レッサータウルス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4317</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14600</PointerOffset>
+      <JapaneseText>e373 ナイトジャッカー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4318</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14664</PointerOffset>
+      <JapaneseText>e374 スカウトアイボル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4319</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14728</PointerOffset>
+      <JapaneseText>e375 デュロック</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4320</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14792</PointerOffset>
+      <JapaneseText>e375 デュロック2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4321</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14856</PointerOffset>
+      <JapaneseText>e376 クラッカーナッツ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4322</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14920</PointerOffset>
+      <JapaneseText>e377 ロック</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4323</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14984</PointerOffset>
+      <JapaneseText>e378 ピヨピヨ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4324</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15048</PointerOffset>
+      <JapaneseText>e379 ピヨファット</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4325</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15112</PointerOffset>
+      <JapaneseText>e379 ピヨファット2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4326</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15176</PointerOffset>
+      <JapaneseText>e380 ピヨサイド</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4327</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15240</PointerOffset>
+      <JapaneseText>e380 ピヨサイド2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4328</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15304</PointerOffset>
+      <JapaneseText>e381 フライマンティス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4329</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15368</PointerOffset>
+      <JapaneseText>e382 プチヒュドラ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4330</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15432</PointerOffset>
+      <JapaneseText>e383 ホールドツリー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4331</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15496</PointerOffset>
+      <JapaneseText>e383 ホールドツリー2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4332</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15560</PointerOffset>
+      <JapaneseText>e384 エメラドウォーム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4333</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15624</PointerOffset>
+      <JapaneseText>e385 レッドアイトード</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4334</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15688</PointerOffset>
+      <JapaneseText>e386 ゲイトスタチュー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4335</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15752</PointerOffset>
+      <JapaneseText>e386 ゲイトスタチュー2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4336</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15816</PointerOffset>
+      <JapaneseText>e387 スタートレイサー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4337</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15880</PointerOffset>
+      <JapaneseText>e387 スタートレイサー2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4338</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15944</PointerOffset>
+      <JapaneseText>e388 ミチビキノヤイバ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4339</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16008</PointerOffset>
+      <JapaneseText>e389 マーブルメア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4340</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16072</PointerOffset>
+      <JapaneseText>e390 カメレオン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4341</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16136</PointerOffset>
+      <JapaneseText>e391 ワイズエメラルド</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4342</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16200</PointerOffset>
+      <JapaneseText>e392 イエロースリップ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4343</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16264</PointerOffset>
+      <JapaneseText>e393 プロトタイプ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4344</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16328</PointerOffset>
+      <JapaneseText>e393 プロトタイプ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4345</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16392</PointerOffset>
+      <JapaneseText>e394 HRX-3</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4346</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16456</PointerOffset>
+      <JapaneseText>e395 ボーンアーム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4347</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16520</PointerOffset>
+      <JapaneseText>e396 ゴールドパラビィ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4348</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16584</PointerOffset>
+      <JapaneseText>e397 シンプルパラビィ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4349</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16648</PointerOffset>
+      <JapaneseText>e398 ルビナスマテル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4350</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16712</PointerOffset>
+      <JapaneseText>e399 ネガティヴエッグ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4351</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16776</PointerOffset>
+      <JapaneseText>e400 ロードモンク</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4352</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16840</PointerOffset>
+      <JapaneseText>e401 デジーフィッシュ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4353</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16904</PointerOffset>
+      <JapaneseText>e402 デッドスラッジ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4354</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16968</PointerOffset>
+      <JapaneseText>e403 スタミネイト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4355</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17032</PointerOffset>
+      <JapaneseText>e403 スタミネイト2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4356</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17096</PointerOffset>
+      <JapaneseText>e404 イービルアイ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4357</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17160</PointerOffset>
+      <JapaneseText>e405 スライアンティス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4358</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17224</PointerOffset>
+      <JapaneseText>e405 スライアンティス2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4359</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17288</PointerOffset>
+      <JapaneseText>e406 デザートベリー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4360</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17352</PointerOffset>
+      <JapaneseText>e407 クロノメモリー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4361</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17416</PointerOffset>
+      <JapaneseText>e408 ヘンデル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4362</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17480</PointerOffset>
+      <JapaneseText>e409 ワンダーフライ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4363</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17544</PointerOffset>
+      <JapaneseText>e411 シャドウトリズン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4364</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17608</PointerOffset>
+      <JapaneseText>e412 ダークチェイサー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4365</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17672</PointerOffset>
+      <JapaneseText>e412 ダークチェイサー2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4366</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17736</PointerOffset>
+      <JapaneseText>e413 アルメディップ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4367</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17800</PointerOffset>
+      <JapaneseText>e414 ヘヴィクロウラー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4368</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17864</PointerOffset>
+      <JapaneseText>e415 グラフウィング</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4369</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17928</PointerOffset>
+      <JapaneseText>e416 カメレオンビー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4370</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17992</PointerOffset>
+      <JapaneseText>e417 スノーバニー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4371</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18056</PointerOffset>
+      <JapaneseText>e418 ワイルドウッド</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4372</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18120</PointerOffset>
+      <JapaneseText>e419 オンドゥ大カブト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4373</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18184</PointerOffset>
+      <JapaneseText>e419 オンドゥ大カブト2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4374</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18248</PointerOffset>
+      <JapaneseText>e420 グラスランナー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4375</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18312</PointerOffset>
+      <JapaneseText>e421 バイトプラント</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4376</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18376</PointerOffset>
+      <JapaneseText>e421 バイトプラント2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4377</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18440</PointerOffset>
+      <JapaneseText>e422 アポストル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4378</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18504</PointerOffset>
+      <JapaneseText>e423 チューブワーム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4379</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18568</PointerOffset>
+      <JapaneseText>e423 チューブワーム2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4380</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18632</PointerOffset>
+      <JapaneseText>e424 ランドタートル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4381</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18696</PointerOffset>
+      <JapaneseText>e425 ネクロワンド</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4382</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18760</PointerOffset>
+      <JapaneseText>e426 コ-コー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4383</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18824</PointerOffset>
+      <JapaneseText>e427 ブラックオマリダ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4384</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18888</PointerOffset>
+      <JapaneseText>e427 ブラックオマリダ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4385</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18952</PointerOffset>
+      <JapaneseText>e428 ノクトファルク</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4386</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19016</PointerOffset>
+      <JapaneseText>e429 マーロンエイプ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4387</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19080</PointerOffset>
+      <JapaneseText>e429 マーロンエイプ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4388</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19144</PointerOffset>
+      <JapaneseText>e430 グレンデル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4389</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19208</PointerOffset>
+      <JapaneseText>e431 ラーヴァテイル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4390</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19272</PointerOffset>
+      <JapaneseText>e432 ダビアスクック</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4391</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19336</PointerOffset>
+      <JapaneseText>e432 ダビアスクック2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4392</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19400</PointerOffset>
+      <JapaneseText>e433 クレオン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4393</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19464</PointerOffset>
+      <JapaneseText>e434 ヴォルケーナ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4394</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19528</PointerOffset>
+      <JapaneseText>e435 フリッドヘイト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4395</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19592</PointerOffset>
+      <JapaneseText>e436 ラジアータボア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4396</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19656</PointerOffset>
+      <JapaneseText>e436 ラジアータボア2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4397</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19720</PointerOffset>
+      <JapaneseText>e437 レグタイト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4398</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19784</PointerOffset>
+      <JapaneseText>e437 レグタイト2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4399</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19848</PointerOffset>
+      <JapaneseText>e438 フローズウェポン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4400</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19912</PointerOffset>
+      <JapaneseText>e438 フローズウェポン2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4401</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19976</PointerOffset>
+      <JapaneseText>e440 アイスフロトベア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4402</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20040</PointerOffset>
+      <JapaneseText>e441 オーグバニー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4403</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20104</PointerOffset>
+      <JapaneseText>e442 アーウィッグ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4404</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20168</PointerOffset>
+      <JapaneseText>e443 ジェントルオクス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4405</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20232</PointerOffset>
+      <JapaneseText>e444 ピアステンタクル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4406</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20360</PointerOffset>
+      <JapaneseText>e445 フローリック</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4407</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20424</PointerOffset>
+      <JapaneseText>e446 イースター</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4408</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20488</PointerOffset>
+      <JapaneseText>e447 ビヤーキー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4409</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20552</PointerOffset>
+      <JapaneseText>e448 ナイトメアー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4410</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20616</PointerOffset>
+      <JapaneseText>e449 ダンデリオン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4411</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20680</PointerOffset>
+      <JapaneseText>e450 アサルトボア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4412</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20744</PointerOffset>
+      <JapaneseText>e451 バルー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4413</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20808</PointerOffset>
+      <JapaneseText>e451 バルー2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4414</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20872</PointerOffset>
+      <JapaneseText>e452 アルカウサー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4415</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20936</PointerOffset>
+      <JapaneseText>e452 アルカウサー2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4416</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21000</PointerOffset>
+      <JapaneseText>e453 ドラゴントゥース</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4417</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21064</PointerOffset>
+      <JapaneseText>e454 シンセサイザー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4418</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21128</PointerOffset>
+      <JapaneseText>e455 グラシャラボラス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4419</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21192</PointerOffset>
+      <JapaneseText>e455 グラシャラボラス2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4420</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21256</PointerOffset>
+      <JapaneseText>e456 オンルッカー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4421</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21320</PointerOffset>
+      <JapaneseText>e457 フィズケイノ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4422</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21384</PointerOffset>
+      <JapaneseText>e458 ライジングドラヴ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4423</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21448</PointerOffset>
+      <JapaneseText>e458 ライジングドラヴ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4424</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21512</PointerOffset>
+      <JapaneseText>e460 ライゾム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4425</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21576</PointerOffset>
+      <JapaneseText>e461 アラストル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4426</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21640</PointerOffset>
+      <JapaneseText>e461 アラストル2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4427</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21704</PointerOffset>
+      <JapaneseText>e462 ガープ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4428</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21768</PointerOffset>
+      <JapaneseText>e462 ガープ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4429</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21832</PointerOffset>
+      <JapaneseText>e463 ミサレクイエム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4430</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21896</PointerOffset>
+      <JapaneseText>e464 ガープスドール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4431</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21960</PointerOffset>
+      <JapaneseText>e465 ナイトベア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4432</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22024</PointerOffset>
+      <JapaneseText>e466 セキュラー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4433</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22088</PointerOffset>
+      <JapaneseText>e467 ハウボーン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4434</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22152</PointerOffset>
+      <JapaneseText>e467 ハウボーン2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4435</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22216</PointerOffset>
+      <JapaneseText>e468 ネクロマンサー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4436</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22280</PointerOffset>
+      <JapaneseText>e468 ネクロマンサー2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4437</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22344</PointerOffset>
+      <JapaneseText>e469 マラカイトツリー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4438</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22408</PointerOffset>
+      <JapaneseText>e470 Gブリガンディン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4439</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22472</PointerOffset>
+      <JapaneseText>e470 Gブリガンディン2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4440</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22536</PointerOffset>
+      <JapaneseText>e471 ファイロクセン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4441</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22600</PointerOffset>
+      <JapaneseText>e472 エグゼクショナ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4442</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22664</PointerOffset>
+      <JapaneseText>e472 エグゼクショナ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4443</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22728</PointerOffset>
+      <JapaneseText>e473 ターミナルアイ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4444</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22792</PointerOffset>
+      <JapaneseText>e474 ステルコーブ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4445</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22856</PointerOffset>
+      <JapaneseText>e476 ドライアールータ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4446</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22920</PointerOffset>
+      <JapaneseText>e477 ピュアゴールド</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4447</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22984</PointerOffset>
+      <JapaneseText>e478 レアブロッブ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4448</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23048</PointerOffset>
+      <JapaneseText>e479 デストロイヤー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4449</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23112</PointerOffset>
+      <JapaneseText>e490 グレムリン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4450</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23176</PointerOffset>
+      <JapaneseText>e491 シルバーバーグ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4451</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23240</PointerOffset>
+      <JapaneseText>e493 フェイク</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4452</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23304</PointerOffset>
+      <JapaneseText>e494 ジェントルメン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4453</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23368</PointerOffset>
+      <JapaneseText>e495 ブラックボックス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4454</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23432</PointerOffset>
+      <JapaneseText>e496 ヴェパール（片バサミ）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4455</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23496</PointerOffset>
+      <JapaneseText>e496 ヴェパール（片バサミ）2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4456</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23560</PointerOffset>
+      <JapaneseText>e497 ジェントルレディ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4457</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23624</PointerOffset>
+      <JapaneseText>e498 ジェントルカレー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4458</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23688</PointerOffset>
+      <JapaneseText>e499 ジェントルカゲ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4459</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23752</PointerOffset>
+      <JapaneseText>e511 ウリボア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4460</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23816</PointerOffset>
+      <JapaneseText>e512 マニプドール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4461</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23880</PointerOffset>
+      <JapaneseText>e513 スノーバニー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4462</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23944</PointerOffset>
+      <JapaneseText>e235 ミラクルD・X</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4463</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24008</PointerOffset>
+      <JapaneseText>e235 ミラクルD・X2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4464</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24200</PointerOffset>
+      <JapaneseText>e211 イフリート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4465</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24264</PointerOffset>
+      <JapaneseText>e211 イフリート2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4466</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24456</PointerOffset>
+      <JapaneseText>e209 シルフ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4467</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24520</PointerOffset>
+      <JapaneseText>e209 シルフ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4468</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24712</PointerOffset>
+      <JapaneseText>e212 ノームＡ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4469</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24776</PointerOffset>
+      <JapaneseText>e212 ノームＡ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4470</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24968</PointerOffset>
+      <JapaneseText>e210 ウンディーネ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4471</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25032</PointerOffset>
+      <JapaneseText>e210 ウンディーネ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4472</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25224</PointerOffset>
+      <JapaneseText>e201 敵クレス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4473</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25288</PointerOffset>
+      <JapaneseText>e201 敵クレス2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4474</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25352</PointerOffset>
+      <JapaneseText>e213 マクスウェル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4475</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25416</PointerOffset>
+      <JapaneseText>e213 マクスウェル2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4476</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25608</PointerOffset>
+      <JapaneseText>e216 ルナ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4477</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25672</PointerOffset>
+      <JapaneseText>e216 ルナ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4478</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25864</PointerOffset>
+      <JapaneseText>e214 グレムリンレア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4479</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25928</PointerOffset>
+      <JapaneseText>e214 グレムリンレア2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4480</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26120</PointerOffset>
+      <JapaneseText>e238 ディオス（仮面）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4481</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26184</PointerOffset>
+      <JapaneseText>e238 ディオス（仮面）2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4482</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26376</PointerOffset>
+      <JapaneseText>e239 メルティア（仮面）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4483</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26440</PointerOffset>
+      <JapaneseText>e239 メルティア（仮面）2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4484</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26632</PointerOffset>
+      <JapaneseText>e215 アスカ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4485</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26696</PointerOffset>
+      <JapaneseText>e215 アスカ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4486</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26888</PointerOffset>
+      <JapaneseText>e217 ヴォルト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4487</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26952</PointerOffset>
+      <JapaneseText>e217 ヴォルト2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4488</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27144</PointerOffset>
+      <JapaneseText>e218 シャドウ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4489</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27208</PointerOffset>
+      <JapaneseText>e218 シャドウ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4490</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27400</PointerOffset>
+      <JapaneseText>e219 オリジン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4491</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27464</PointerOffset>
+      <JapaneseText>e219 オリジン2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4492</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27656</PointerOffset>
+      <JapaneseText>e220 プルート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4493</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27720</PointerOffset>
+      <JapaneseText>e220 プルート2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4494</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27912</PointerOffset>
+      <JapaneseText>e226 第2部ダオス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4495</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27976</PointerOffset>
+      <JapaneseText>e226 第2部ダオス2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4496</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28168</PointerOffset>
+      <JapaneseText>e221 フラムベルク</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4497</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28232</PointerOffset>
+      <JapaneseText>e221 フラムベルク2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4498</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28424</PointerOffset>
+      <JapaneseText>e222 フェンビースト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4499</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28488</PointerOffset>
+      <JapaneseText>e222 フェンビースト2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4500</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28680</PointerOffset>
+      <JapaneseText>e223 イシュラント</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4501</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28744</PointerOffset>
+      <JapaneseText>e223 イシュラント2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4502</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28040,7560,24648,29896,30664,40392,6408,7176,31112,9224,39816,40520,27016,28552,39624,37832,38920,35592,31624,30856,28360,26248,30088,35144,37960,24136,36360,37768,40456,39944,31432,5320,36872,37192,25480,25160,26824,29640,27784,40584,9736,27592,28104,28616,40328,9096,35080,40264,29576,29320,40200,24328,26760,26504,24072,40776,29832,25800,30408,30984,40648,37640,39688,29384,25992,37256,9160,26568,26056,31048,27336,8392,29128,9032,40712,24392,9288,37512,27848,6792,25544,31368,38088,26312,31176,24840,39752,24904,38024,37896,37576,40008,20296,25096,30920,24584,27272,28296,30600,25736,37320,35208,31688,28872,27528,5960,30152,35976,27080,29064,30344,28808</PointerOffset>
+      <JapaneseText>※未使用</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4503</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28936</PointerOffset>
+      <JapaneseText>e224 ジェストーナ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4504</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>29000</PointerOffset>
+      <JapaneseText>e224 ジェストーナ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4505</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>29192</PointerOffset>
+      <JapaneseText>e225 ビッグアイ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4506</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>29256</PointerOffset>
+      <JapaneseText>e225 ビッグアイ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4507</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>29448</PointerOffset>
+      <JapaneseText>e226 ダオス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4508</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>29512</PointerOffset>
+      <JapaneseText>e226 ダオス2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4509</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>29704</PointerOffset>
+      <JapaneseText>e227 ダオス第二形態</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4510</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>29768</PointerOffset>
+      <JapaneseText>e227 ダオス第二形態2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4511</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>29960</PointerOffset>
+      <JapaneseText>e228 ディオス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4512</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>30024</PointerOffset>
+      <JapaneseText>e228 ディオス2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4513</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>30216</PointerOffset>
+      <JapaneseText>e??? メルティア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4514</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>30280</PointerOffset>
+      <JapaneseText>e??? メルティア2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4515</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>30472</PointerOffset>
+      <JapaneseText>e230 ノルン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4516</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>30536</PointerOffset>
+      <JapaneseText>e230 ノルン2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4517</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>30728</PointerOffset>
+      <JapaneseText>e231 ノルン第二形態</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4518</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>30792</PointerOffset>
+      <JapaneseText>e231 ノルン第二形態2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4519</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31240</PointerOffset>
+      <JapaneseText>e234 EXボス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4520</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31304</PointerOffset>
+      <JapaneseText>e234 EXボス2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4521</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31496</PointerOffset>
+      <JapaneseText>e240 赤シルフ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4522</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31560</PointerOffset>
+      <JapaneseText>e240 赤シルフ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4523</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31752</PointerOffset>
+      <JapaneseText>e241 EXシルフ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4524</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31816</PointerOffset>
+      <JapaneseText>e241 EXシルフ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4525</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31880</PointerOffset>
+      <JapaneseText>e242 EXウンディーネ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4526</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31944</PointerOffset>
+      <JapaneseText>e242 EXウンディーネ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4527</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32008</PointerOffset>
+      <JapaneseText>e243 EXイフリート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4528</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32072</PointerOffset>
+      <JapaneseText>e243 EXイフリート2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4529</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32136</PointerOffset>
+      <JapaneseText>e244 EXノーム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4530</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32200</PointerOffset>
+      <JapaneseText>e244 EXノーム2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4531</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32264</PointerOffset>
+      <JapaneseText>e245 EXマクスウェル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4532</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32328</PointerOffset>
+      <JapaneseText>e245 EXマクスウェル2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4533</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32392</PointerOffset>
+      <JapaneseText>e246 EXグレムリンレア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4534</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32456</PointerOffset>
+      <JapaneseText>e246 EXグレムリンレア2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4535</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32520</PointerOffset>
+      <JapaneseText>e247 EXアスカ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4536</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32584</PointerOffset>
+      <JapaneseText>e247 EXアスカ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4537</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32648</PointerOffset>
+      <JapaneseText>e248 EXルナ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4538</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32712</PointerOffset>
+      <JapaneseText>e248 EXルナ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4539</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32776</PointerOffset>
+      <JapaneseText>e249 EXヴォルト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4540</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32840</PointerOffset>
+      <JapaneseText>e249 EXヴォルト2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4541</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32904</PointerOffset>
+      <JapaneseText>e250 EXシャドウ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4542</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32968</PointerOffset>
+      <JapaneseText>e250 EXシャドウ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4543</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33032</PointerOffset>
+      <JapaneseText>e251 EXオリジン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4544</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33096</PointerOffset>
+      <JapaneseText>e251 EXオリジン2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4545</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33160</PointerOffset>
+      <JapaneseText>e252 EXプルート</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4546</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33224</PointerOffset>
+      <JapaneseText>e252 EXプルート2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4547</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33288</PointerOffset>
+      <JapaneseText>e253 EXフラムベルク</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4548</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33352</PointerOffset>
+      <JapaneseText>e253 EXフラムベルク2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4549</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33416</PointerOffset>
+      <JapaneseText>e254 EXフェンビースト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4550</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33480</PointerOffset>
+      <JapaneseText>e254 EXフェンビースト2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4551</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33544</PointerOffset>
+      <JapaneseText>e255 EXイシュラント</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4552</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33608</PointerOffset>
+      <JapaneseText>e255 EXイシュラント2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4553</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33672</PointerOffset>
+      <JapaneseText>e256 EXジェストーナ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4554</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33736</PointerOffset>
+      <JapaneseText>e256 EXジェストーナ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4555</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33800</PointerOffset>
+      <JapaneseText>e257 EXビックアイ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4556</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33864</PointerOffset>
+      <JapaneseText>e257 EXビックアイ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4557</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33928</PointerOffset>
+      <JapaneseText>e258 EXミラクルＤ.Ｘ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4558</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33992</PointerOffset>
+      <JapaneseText>e258 EXミラクルＤ.Ｘ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4559</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34056</PointerOffset>
+      <JapaneseText>e259 EX赤シルフ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4560</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34120</PointerOffset>
+      <JapaneseText>e259 EX赤シルフ2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4561</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34184</PointerOffset>
+      <JapaneseText>e260 ＥＸメルティア</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4562</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34248</PointerOffset>
+      <JapaneseText>e260 ＥＸメルティア2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4563</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34312</PointerOffset>
+      <JapaneseText>e261 ＥＸディオス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4564</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34376</PointerOffset>
+      <JapaneseText>e261 ＥＸディオス2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4565</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34440</PointerOffset>
+      <JapaneseText>e262 ＥＸダオス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4566</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34504</PointerOffset>
+      <JapaneseText>e262 ＥＸダオス2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4567</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34568</PointerOffset>
+      <JapaneseText>e263 ＥＸダオス(フェザー)</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4568</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34632</PointerOffset>
+      <JapaneseText>e263 ＥＸダオス(フェザー)2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4569</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34696</PointerOffset>
+      <JapaneseText>e264 ＥＸノルン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4570</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34760</PointerOffset>
+      <JapaneseText>e264 ＥＸノルン2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4571</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34824</PointerOffset>
+      <JapaneseText>e265 ＥＸノルン第二形態</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4572</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34888</PointerOffset>
+      <JapaneseText>e265 ＥＸノルン第二形態2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4573</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34952</PointerOffset>
+      <JapaneseText>e266 闘技場フェンビースト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4574</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35016</PointerOffset>
+      <JapaneseText>e266 闘技場フェンビースト2</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4575</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35272</PointerOffset>
+      <JapaneseText>ナイトメアミラーのピンチ時作戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4576</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35336</PointerOffset>
+      <JapaneseText>アルジャーノンのピンチ作戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4577</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35400</PointerOffset>
+      <JapaneseText>マンドラゴラのピンチ作戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4578</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35528</PointerOffset>
+      <JapaneseText>チルドフルールのピンチ作戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4579</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35656</PointerOffset>
+      <JapaneseText>リビングシールドのピンチ行動</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4580</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35720</PointerOffset>
+      <JapaneseText>マッドイールのピンチ行動</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4581</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35784</PointerOffset>
+      <JapaneseText>マーブルメアピンチ行動</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4582</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35848</PointerOffset>
+      <JapaneseText>ワイズエメラルドピンチ行動</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4583</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35912</PointerOffset>
+      <JapaneseText>フライングマンティスピンチ作戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4584</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36040</PointerOffset>
+      <JapaneseText>ボーンアームピンチ時作戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4585</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36104</PointerOffset>
+      <JapaneseText>ルビナスマテルピンチ時作戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4586</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36168</PointerOffset>
+      <JapaneseText>ロードモンクピンチ時作戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4587</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36232</PointerOffset>
+      <JapaneseText>デッドスラッジピンチ時作戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4588</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36296</PointerOffset>
+      <JapaneseText>シャドウトリズンピンチ時作戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4589</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36424</PointerOffset>
+      <JapaneseText>ワイルドウッドピンチ時作戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4590</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36488</PointerOffset>
+      <JapaneseText>カメレオンビーピンチ時作戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4591</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36552</PointerOffset>
+      <JapaneseText>ネクロワンドピンチ作戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4592</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36616</PointerOffset>
+      <JapaneseText>イービルアイピンチ時作戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4593</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36680</PointerOffset>
+      <JapaneseText>クレオンピンチ時作戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4594</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36744</PointerOffset>
+      <JapaneseText>フリッドヘイトピンチ時作戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4595</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36808</PointerOffset>
+      <JapaneseText>フローリックピンチ時作戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4596</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36936</PointerOffset>
+      <JapaneseText>ライゾムピンチ作戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4597</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37000</PointerOffset>
+      <JapaneseText>シンセサイザーピンチ作戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4598</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37064</PointerOffset>
+      <JapaneseText>ダンデリオンピンチ時行動</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4599</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37128</PointerOffset>
+      <JapaneseText>ナイトメアーピンチ時行動</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4600</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35464,37384</PointerOffset>
+      <JapaneseText>未登録</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4601</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37448</PointerOffset>
+      <JapaneseText>ドライアールータピンチ時作戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4602</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37704</PointerOffset>
+      <JapaneseText>旅の戦士のピンチ作戦</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4603</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38152</PointerOffset>
+      <JapaneseText>ＯＢ禁止</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4604</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38156</PointerOffset>
+      <JapaneseText>オーバーブレイブの発動をしません</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4605</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38664,38600,39496,38408</PointerOffset>
+      <JapaneseText>術で攻めろ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4606</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38344,39432,38856,39240,39112,38536</PointerOffset>
+      <JapaneseText>技で攻めろ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4607</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39180,39308,38988,38732</PointerOffset>
+      <JapaneseText>回復と支援を連続使用します</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4608</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39304,38728,39176,38984</PointerOffset>
+      <JapaneseText>全力で援護せよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4609</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39560,38792,38472,38280,39048</PointerOffset>
+      <JapaneseText>バランス良く攻めろ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4610</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38860,38348,38540,39116,39436,39244</PointerOffset>
+      <JapaneseText>技のみで攻撃し続けます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4611</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38216,39368</PointerOffset>
+      <JapaneseText>通常技で攻めろ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4612</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38220,39372</PointerOffset>
+      <JapaneseText>通常技のみで攻撃し続けます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4613</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38412,38604,38668,39500</PointerOffset>
+      <JapaneseText>攻撃術のみで攻撃し続けます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4614</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38796,38476,39052,38284,39564</PointerOffset>
+      <JapaneseText>バランス良く術技を使って攻撃していきます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4615</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39880</PointerOffset>
+      <JapaneseText>バランス良く戦います</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4616</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40072</PointerOffset>
+      <JapaneseText>通常技のみで攻撃します</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4617</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40136</PointerOffset>
+      <JapaneseText>通常技と技で戦います</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4618</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</MenuText>
