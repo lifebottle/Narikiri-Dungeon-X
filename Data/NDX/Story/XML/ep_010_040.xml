@@ -106,7 +106,7 @@ say... </EnglishText>
 『なりきり士』の仕事を始める
 年頃なわけだーよ</JapaneseText>
       <EnglishText>Seems you are about the age to start your job as 
-Roleplayer. </EnglishText>
+Roleplayers. </EnglishText>
       <Notes/>
       <Id>5</Id>
       <StructId>3</StructId>
@@ -118,7 +118,7 @@ Roleplayer. </EnglishText>
       <PointerOffset>261116</PointerOffset>
       <VoiceId>&lt;VSM_010_040_006&gt;</VoiceId>
       <JapaneseText>『なりきり士』……？</JapaneseText>
-      <EnglishText>Roleplayer? </EnglishText>
+      <EnglishText>Roleplayers? </EnglishText>
       <Notes/>
       <Id>6</Id>
       <StructId>4</StructId>
@@ -132,10 +132,8 @@ Roleplayer. </EnglishText>
       <JapaneseText>おぉ『なりきり士』っつーのは、
 その服装の人になりきる力を
 持った人間のことを言うだ</JapaneseText>
-      <EnglishText>Roleplayer are people who can borrow power from other 
-people's clothing which in turn allows them to transform into what 
-they wear, having the same abilities as the person who used that 
-garment. </EnglishText>
+      <EnglishText>Roleplayers are people who can borrow power from other 
+people's clothing which in turn allows them to transform into what they wear, having the same abilities as the person who used that garment. </EnglishText>
       <Notes/>
       <Id>7</Id>
       <StructId>5</StructId>
@@ -220,8 +218,7 @@ have inside me and see for yourselves. </EnglishText>
       <JapaneseText>とにかく、『なりきり士』の力で
 困ってる人たちを
 助ける仕事をするんだど</JapaneseText>
-      <EnglishText>Anyhow, the most important mission you have as Roleplayer 
-is to help people in need. </EnglishText>
+      <EnglishText>Anyhow, the most important mission you have as a Roleplayer is to help people in need. </EnglishText>
       <Notes/>
       <Id>13</Id>
       <StructId>8</StructId>
@@ -234,7 +231,7 @@ is to help people in need. </EnglishText>
       <VoiceId>&lt;VSM_010_040_015&gt;</VoiceId>
       <JapaneseText>ノルン様はそれをおめぇらに
 期待しとるっちゅーわけだ</JapaneseText>
-      <EnglishText>Miss Norn has high expectations of you two. </EnglishText>
+      <EnglishText>Miss Norn has high expectations of the two of you.</EnglishText>
       <Notes/>
       <Id>14</Id>
       <StructId>8</StructId>
@@ -454,104 +451,105 @@ go wherever you want to go! </EnglishText>
     <Entry>
       <PointerOffset>270172</PointerOffset>
       <JapaneseText>まず&lt;icon:2700072&gt;でメニューを開くだ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>First, open the menu with &lt;icon:2700072&gt;.</EnglishText>
+      <Notes>Just need reviewed by a translator.</Notes>
       <Id>31</Id>
       <StructId>20</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>270660</PointerOffset>
       <JapaneseText>『コスチューム』の項目で、
 服を着ることができるだーよ。
 今は１着ずつしかないんだど</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>In the "Costumes" section, you can change the clothes that you are wearing. Currently, we only have one piece of clothing each.</EnglishText>
+      <Notes>Just need reviewed by a translator.</Notes>
       <Id>32</Id>
       <StructId>21</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>271480</PointerOffset>
       <JapaneseText>『コスチューム』は世界の
 どこかに落ちてたりする
 もんだーよ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>"Costumes" can be found anywhere in the world.</EnglishText>
+      <Notes>Just need reviewed by a translator.</Notes>
       <Id>33</Id>
       <StructId>22</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>271768</PointerOffset>
       <JapaneseText>服を着替えっと、
 その服の格好に応じた
 戦闘特性になるだで</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Change Clothes: You can change to the outfit you want to wear.</EnglishText>
+      <Notes>Just need reviewed by a translator.</Notes>
       <Id>34</Id>
       <StructId>23</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272248</PointerOffset>
       <JapaneseText>おめぇらにわかりやすく教えっと、
 『剣士』だと、
 剣士としての能力が上がるだ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Let me make this easy for you. "Swordsman."
+It makes you a more skilled swordsman.</EnglishText>
+      <Notes>Just need reviewed by a translator.</Notes>
       <Id>35</Id>
       <StructId>24</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272428</PointerOffset>
       <JapaneseText>つまりだ、本物の剣士と同じよう
 に剣を振って攻撃ができるように
 なるんだでよ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>You'll be able to swing a sword and attack just like a real swordsman. </EnglishText>
+      <Notes>Just need reviewed by a translator.</Notes>
       <Id>36</Id>
       <StructId>25</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272700</PointerOffset>
       <JapaneseText>でもただただ『コスチューム』
 を集めて、着てるだけでは
 芸がないんだべ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>But just collecting "Costumes" and wearing them is not enough. there's no art in that.</EnglishText>
+      <Notes>Just need reviewed by a translator.</Notes>
       <Id>37</Id>
       <StructId>26</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272840</PointerOffset>
       <JapaneseText>戦闘でもらえるＣＰっちゅーの
 を溜めると、熟練度が上がって
 スキルが開放できるだ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Using the CP you gain in battle, you can unlock skills and upgrade your skill level.</EnglishText>
+      <Notes>Just need reviewed by a translator.</Notes>
       <Id>38</Id>
       <StructId>27</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>273280</PointerOffset>
@@ -559,13 +557,15 @@ go wherever you want to go! </EnglishText>
       <JapaneseText>とまぁ、こんなところだ。おらが
 こんな説明までせねばなんねぇ
 とはまったくめんどうくせぇ</JapaneseText>
-      <EnglishText>So, what do you think? That's where the explanation ends. </EnglishText>
-      <Notes/>
+      <EnglishText>And, well, that's about it. To be the one that has
+to go through the trouble of explaining all this
+is a real pain!</EnglishText>
+      <Notes>Just need reviewed by a translator.</Notes>
       <Id>39</Id>
       <StructId>28</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>25</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>273280</PointerOffset>
@@ -662,8 +662,7 @@ go wherever you want to go! </EnglishText>
       <VoiceId>&lt;VSM_010_040_069&gt;</VoiceId>
       <JapaneseText>そう。ヴァルハラ平原に貧しい人たちが
 移り住んで作った村なんだけド</JapaneseText>
-      <EnglishText>Yes, poor people moved in where the Valhalla Plains used to 
-be and built a village. </EnglishText>
+      <EnglishText>Yes, poor people moved into the Valhalla Plains and built a village there.</EnglishText>
       <Notes/>
       <Id>47</Id>
       <StructId>34</StructId>
@@ -677,7 +676,7 @@ be and built a village. </EnglishText>
       <JapaneseText>たくさん人が集まってる場所
 なんだから、困ってる人だって
 きっといるんじゃないのかな</JapaneseText>
-      <EnglishText>Many people settled in, I think there's a high chance 
+      <EnglishText>Many people settled there, I think there's a high chance 
 someone wants some help. </EnglishText>
       <Notes/>
       <Id>48</Id>
@@ -691,7 +690,7 @@ someone wants some help. </EnglishText>
       <VoiceId>&lt;VSM_010_040_071&gt;</VoiceId>
       <JapaneseText>んじゃー
 そこ行ってみようぜ</JapaneseText>
-      <EnglishText>Ok then, let's go take a look around there! </EnglishText>
+      <EnglishText>Ok then, let's go head there! </EnglishText>
       <Notes/>
       <Id>49</Id>
       <StructId>35</StructId>
@@ -704,7 +703,7 @@ someone wants some help. </EnglishText>
       <VoiceId>&lt;VSM_010_040_077&gt;</VoiceId>
       <JapaneseText>あなたたちの旅立ちに
 祝福を……</JapaneseText>
-      <EnglishText>May the trip you are setting off to be blessed... </EnglishText>
+      <EnglishText>May the trip you are setting off on be blessed... </EnglishText>
       <Notes/>
       <Id>50</Id>
       <StructId>36</StructId>

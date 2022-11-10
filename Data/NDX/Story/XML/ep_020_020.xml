@@ -77,12 +77,12 @@ store where you can buy a variety of wares. </EnglishText>
       <JapaneseText>へん！
 タンス野郎が偉そうに</JapaneseText>
       <EnglishText>Heh! This dresser bastard sure likes to run his tongue! </EnglishText>
-      <Notes/>
+      <Notes>Review: Maybe something less offensive.</Notes>
       <Id>3</Id>
       <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>259512</PointerOffset>
@@ -146,8 +146,7 @@ understand me! What a nice girl! </EnglishText>
 ここはおらが買い物の仕方、
 手取り足取り教えてやるだーよ</JapaneseText>
       <EnglishText>For &lt;MEL&gt;-&lt;MEL&gt;'s sake, I will explain the ways of 
-shopping. I'll pull your hand or, if I need to do to, your leg. So, 
-let the teaching begin! </EnglishText>
+shopping. I'll hold your hand or, if I need to do to, your leg. So, let the teaching begin! </EnglishText>
       <Notes/>
       <Id>8</Id>
       <StructId>8</StructId>
@@ -200,7 +199,7 @@ let the teaching begin! </EnglishText>
       <VoiceId>&lt;VSM_020_020_013&gt;</VoiceId>
       <JapaneseText>いや……クローゼットでも
 お客様……</JapaneseText>
-      <EnglishText>No... even if it's a costumer it's still a customer... </EnglishText>
+      <EnglishText>No... even if it's a closet it's still a customer...</EnglishText>
       <Notes/>
       <Id>12</Id>
       <StructId>10</StructId>
@@ -240,13 +239,13 @@ let the teaching begin! </EnglishText>
       <JapaneseText>ええが？
 このショップ画面に入ったら、
 買いたい商品を選んで</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Right. Once you are in the store. Select the item you want to buy.</EnglishText>
+      <Notes>Review</Notes>
       <Id>15</Id>
       <StructId>11</StructId>
       <SpeakerId>2</SpeakerId>
       <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>263672</PointerOffset>
@@ -254,13 +253,13 @@ let the teaching begin! </EnglishText>
       <JapaneseText>方向キーの左右で欲しい個数を
 決めるだよ。んで、&lt;icon:2699560&gt;で
 買ってやればいいだ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Use the left and right directional buttons to set the amount of the item you want. Then, press &lt;icon:2699560&gt; to complete the purchase.</EnglishText>
+      <Notes>Review</Notes>
       <Id>16</Id>
       <StructId>12</StructId>
       <SpeakerId>2</SpeakerId>
       <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>263672</PointerOffset>
@@ -268,13 +267,13 @@ let the teaching begin! </EnglishText>
       <JapaneseText>複数の商品が欲しい場合は
 まとめて買うことも
 できるっちゅー話だど</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>If you want more than one item, you can buy them all at once.</EnglishText>
+      <Notes>Review</Notes>
       <Id>17</Id>
       <StructId>12</StructId>
       <SpeakerId>2</SpeakerId>
       <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>263964</PointerOffset>
@@ -282,19 +281,19 @@ let the teaching begin! </EnglishText>
       <JapaneseText>あー、商品買う前には、
 ガルドが足りてるかどうか
 きーっちり確認しとくだよ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Uh, before you buy any items, make sure you have enough Gald.</EnglishText>
+      <Notes>Review</Notes>
       <Id>18</Id>
       <StructId>13</StructId>
       <SpeakerId>2</SpeakerId>
       <UnknownPointer>25</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>266492</PointerOffset>
       <VoiceId>&lt;VSM_020_020_020&gt;</VoiceId>
       <JapaneseText>何してんだ？</JapaneseText>
-      <EnglishText>What's the matter? </EnglishText>
+      <EnglishText>What're you doing?</EnglishText>
       <Notes/>
       <Id>19</Id>
       <StructId>14</StructId>
@@ -307,26 +306,26 @@ let the teaching begin! </EnglishText>
       <VoiceId>&lt;VSM_020_020_021&gt;</VoiceId>
       <JapaneseText>今、買ったモノを
 書いてるの</JapaneseText>
-      <EnglishText>Right now we are just window shopping... </EnglishText>
-      <Notes/>
+      <EnglishText>Oh, I'm writing down everything we bought.</EnglishText>
+      <Notes>Review</Notes>
       <Id>20</Id>
       <StructId>15</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>13</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>266988</PointerOffset>
       <VoiceId>&lt;VSM_020_020_022&gt;</VoiceId>
       <JapaneseText>買ったもの全部
 そこに書くつもりか？</JapaneseText>
-      <EnglishText>Don't visitors window shop all the time, anyways? </EnglishText>
-      <Notes/>
+      <EnglishText>Everything we bought, you're going to write it all down there?</EnglishText>
+      <Notes>Review</Notes>
       <Id>21</Id>
       <StructId>16</StructId>
       <SpeakerId>3</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>267184</PointerOffset>
@@ -336,12 +335,12 @@ let the teaching begin! </EnglishText>
 書いとけば思いだせるでしょ</JapaneseText>
       <EnglishText>True but still... from now on let's remember every place 
 and person so we don't run into this problem again. </EnglishText>
-      <Notes/>
+      <Notes>Review</Notes>
       <Id>22</Id>
       <StructId>17</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>13</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>267436</PointerOffset>
