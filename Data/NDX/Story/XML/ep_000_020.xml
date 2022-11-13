@@ -48,25 +48,25 @@
       <PointerOffset>259948</PointerOffset>
       <VoiceId>&lt;VSM_000_020_001&gt;</VoiceId>
       <JapaneseText>ここは……？</JapaneseText>
-      <EnglishText>This place ... </EnglishText>
+      <EnglishText>Where is this... </EnglishText>
       <Notes/>
       <Id>1</Id>
       <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>24</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>261800</PointerOffset>
       <VoiceId>&lt;VSM_000_020_002&gt;</VoiceId>
       <JapaneseText>この子たち……</JapaneseText>
-      <EnglishText>These kids... </EnglishText>
+      <EnglishText>These children... </EnglishText>
       <Notes/>
       <Id>2</Id>
       <StructId>2</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>24</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>263336</PointerOffset>
@@ -78,7 +78,7 @@
       <StructId>3</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>24</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>263476</PointerOffset>
@@ -86,13 +86,14 @@
       <JapaneseText>静かに。大きな声を出すと、
 この子たちが目を覚まして
 しまいますよ</JapaneseText>
-      <EnglishText>Quiet, please. If you shout any more you will wake the childen.</EnglishText>
+      <EnglishText>Quiet, please. If you shout any 
+more you will wake the children.</EnglishText>
       <Notes/>
       <Id>4</Id>
       <StructId>4</StructId>
       <SpeakerId>2</SpeakerId>
       <UnknownPointer>26</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>263656</PointerOffset>
@@ -104,7 +105,7 @@
       <StructId>5</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>24</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>263868</PointerOffset>
@@ -116,7 +117,7 @@
       <StructId>6</StructId>
       <SpeakerId>2</SpeakerId>
       <UnknownPointer>26</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>264008</PointerOffset>
@@ -129,7 +130,7 @@
       <StructId>7</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>24</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>264148</PointerOffset>
@@ -141,7 +142,7 @@
       <StructId>8</StructId>
       <SpeakerId>3</SpeakerId>
       <UnknownPointer>26</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>264344</PointerOffset>
@@ -155,20 +156,21 @@
       <StructId>9</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>24</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>264648</PointerOffset>
       <VoiceId>&lt;VSM_000_020_010&gt;</VoiceId>
       <JapaneseText>ええ。倒れていた貴方を
 私がここまで連れてきました</JapaneseText>
-      <EnglishText>Precisely. I found you collapsed on the ground and brought you here.</EnglishText>
+      <EnglishText>Precisely. I found you collapsed on
+the ground and brought you here.</EnglishText>
       <Notes/>
       <Id>10</Id>
       <StructId>10</StructId>
       <SpeakerId>3</SpeakerId>
       <UnknownPointer>26</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>264648</PointerOffset>
@@ -176,26 +178,26 @@
       <JapaneseText>貴方にこの子たち、
 &lt;DIO&gt;と&lt;MEL&gt;ふたりの
 親代わりをお願いするために</JapaneseText>
-      <EnglishText>These infants are &lt;DIO&gt; and &lt;MEL&gt;. I want you to be these 
-children's foster mother. </EnglishText>
-      <Notes/>
+      <EnglishText>These infants are &lt;DIO&gt; and &lt;MEL&gt;. I want 
+you to be these children's foster mother. </EnglishText>
+      <Notes>Maybe adoptive mother?</Notes>
       <Id>11</Id>
       <StructId>10</StructId>
       <SpeakerId>3</SpeakerId>
       <UnknownPointer>26</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>264788</PointerOffset>
       <VoiceId>&lt;VSM_000_020_012&gt;</VoiceId>
       <JapaneseText>親代わり……</JapaneseText>
       <EnglishText>Their foster mother...</EnglishText>
-      <Notes/>
+      <Notes>Maybe adoptive mother?</Notes>
       <Id>12</Id>
       <StructId>11</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>24</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>265104</PointerOffset>
@@ -209,7 +211,7 @@ children's foster mother. </EnglishText>
       <StructId>12</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>24</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>265104</PointerOffset>
@@ -224,7 +226,7 @@ and I'm not even human like these kids... </EnglishText>
       <StructId>12</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>24</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>265384</PointerOffset>
@@ -232,13 +234,14 @@ and I'm not even human like these kids... </EnglishText>
       <JapaneseText>この家は強力な結界に
 守られています。
 魔物は決して襲ってきません</JapaneseText>
-      <EnglishText>You needn’t worry as this house is surrounded by a magical barrier that will protect you. Monsters have no way of through it. </EnglishText>
+      <EnglishText>You needn’t worry as this house is surrounded by a magical barrier that will protect you. Monsters have
+no way through it. </EnglishText>
       <Notes/>
       <Id>15</Id>
       <StructId>13</StructId>
       <SpeakerId>3</SpeakerId>
       <UnknownPointer>26</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>265628</PointerOffset>
@@ -250,7 +253,7 @@ and I'm not even human like these kids... </EnglishText>
       <StructId>14</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>24</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>265824</PointerOffset>
@@ -265,21 +268,21 @@ recurring fate that they must meet. </EnglishText>
       <StructId>15</StructId>
       <SpeakerId>3</SpeakerId>
       <UnknownPointer>26</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>265824</PointerOffset>
       <VoiceId>&lt;VSM_000_020_018&gt;</VoiceId>
       <JapaneseText>いずれ世界を救うかもしれません。
 あるいは滅ぼすかもしれません</JapaneseText>
-      <EnglishText>They might try to make the world theirs. They might even 
-try to destroy it. </EnglishText>
+      <EnglishText>They might try to make the world theirs. 
+They might even try to destroy it. </EnglishText>
       <Notes/>
       <Id>18</Id>
       <StructId>15</StructId>
       <SpeakerId>3</SpeakerId>
       <UnknownPointer>26</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>265824</PointerOffset>
@@ -288,12 +291,12 @@ try to destroy it. </EnglishText>
 お願いします。彼らの魂の行く先を
 ……見守ってあげてください</JapaneseText>
       <EnglishText>Despite that, I request that you look after and protect them. It was a promise to him, to his soul… So please I must ask you to watch over these children. </EnglishText>
-      <Notes/>
+      <Notes>Review. Specifically "It was a promise to him, to his soul..."</Notes>
       <Id>19</Id>
       <StructId>15</StructId>
       <SpeakerId>3</SpeakerId>
       <UnknownPointer>26</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>267148</PointerOffset>
@@ -306,7 +309,7 @@ try to destroy it. </EnglishText>
       <StructId>16</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>24</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>267952</PointerOffset>
@@ -318,7 +321,7 @@ try to destroy it. </EnglishText>
       <StructId>17</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>24</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>268544</PointerOffset>
@@ -330,7 +333,7 @@ try to destroy it. </EnglishText>
       <StructId>18</StructId>
       <SpeakerId>4</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>268908</PointerOffset>
@@ -342,7 +345,7 @@ try to destroy it. </EnglishText>
       <StructId>19</StructId>
       <SpeakerId>5</SpeakerId>
       <UnknownPointer>13</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>269272</PointerOffset>
@@ -354,7 +357,7 @@ try to destroy it. </EnglishText>
       <StructId>20</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>24</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>269272</PointerOffset>
@@ -368,7 +371,7 @@ try to destroy it. </EnglishText>
       <StructId>20</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>24</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>269272</PointerOffset>
@@ -380,7 +383,7 @@ try to destroy it. </EnglishText>
       <StructId>20</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>24</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

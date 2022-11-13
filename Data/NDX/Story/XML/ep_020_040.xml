@@ -64,25 +64,25 @@
       <PointerOffset>279136</PointerOffset>
       <VoiceId>&lt;VSM_020_040_037&gt;</VoiceId>
       <JapaneseText>ああ、空が……</JapaneseText>
-      <EnglishText>L-look at the sky! </EnglishText>
+      <EnglishText>L-look in the sky! </EnglishText>
       <Notes/>
       <Id>1</Id>
       <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>0</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279276</PointerOffset>
       <VoiceId>&lt;VSM_020_040_036&gt;</VoiceId>
       <JapaneseText>な、何が起きたんだ</JapaneseText>
-      <EnglishText>What has just happened!? </EnglishText>
+      <EnglishText>What just happened!? </EnglishText>
       <Notes/>
       <Id>2</Id>
       <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
       <UnknownPointer>0</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>279744</PointerOffset>
@@ -94,7 +94,7 @@
       <StructId>3</StructId>
       <SpeakerId>3</SpeakerId>
       <UnknownPointer>0</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280004</PointerOffset>
@@ -106,7 +106,7 @@
       <StructId>4</StructId>
       <SpeakerId>4</SpeakerId>
       <UnknownPointer>13</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280004</PointerOffset>
@@ -118,7 +118,7 @@
       <StructId>4</StructId>
       <SpeakerId>4</SpeakerId>
       <UnknownPointer>13</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280144</PointerOffset>
@@ -130,7 +130,7 @@
       <StructId>5</StructId>
       <SpeakerId>5</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280388</PointerOffset>
@@ -143,7 +143,7 @@
       <StructId>6</StructId>
       <SpeakerId>6</SpeakerId>
       <UnknownPointer>24</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280600</PointerOffset>
@@ -156,20 +156,21 @@
       <StructId>7</StructId>
       <SpeakerId>7</SpeakerId>
       <UnknownPointer>133</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>280600</PointerOffset>
       <VoiceId>&lt;VSM_020_040_006Z&gt;</VoiceId>
       <JapaneseText>これは大きい！
 大変だぞ</JapaneseText>
-      <EnglishText>That's a big one! This'll get really dangerous! </EnglishText>
+      <EnglishText>It's huge! This'll get 
+really dangerous! </EnglishText>
       <Notes/>
       <Id>9</Id>
       <StructId>7</StructId>
       <SpeakerId>7</SpeakerId>
       <UnknownPointer>133</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281572</PointerOffset>
@@ -181,7 +182,7 @@
       <StructId>8</StructId>
       <SpeakerId>5</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281712</PointerOffset>
@@ -195,7 +196,7 @@
       <StructId>9</StructId>
       <SpeakerId>7</SpeakerId>
       <UnknownPointer>133</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>281852</PointerOffset>
@@ -207,7 +208,7 @@
       <StructId>10</StructId>
       <SpeakerId>4</SpeakerId>
       <UnknownPointer>13</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>282096</PointerOffset>
@@ -216,28 +217,27 @@
 魔法力を得て
 虹色の輪になるんだ</JapaneseText>
       <EnglishText>I'm afraid it's a giant cluster of Mana. It surges from a 
-strong interaction of magic energy resulting in a rainbow colored 
-column. </EnglishText>
+strong interaction of magic energy resulting in a rainbow colored column. </EnglishText>
       <Notes/>
       <Id>13</Id>
       <StructId>11</StructId>
       <SpeakerId>7</SpeakerId>
       <UnknownPointer>133</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>282096</PointerOffset>
       <VoiceId>&lt;VSM_020_040_011Z&gt;</VoiceId>
       <JapaneseText>近くのマナを吸収して、
 どんどん大きくなっていくのさ。</JapaneseText>
-      <EnglishText>It'll gradually absorb all the Mana in its range, growing 
-bigger and stronger in the process. </EnglishText>
+      <EnglishText>It'll gradually absorb all the Mana within its range,
+growing bigger and stronger in the process. </EnglishText>
       <Notes/>
       <Id>14</Id>
       <StructId>11</StructId>
       <SpeakerId>7</SpeakerId>
       <UnknownPointer>133</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>282236</PointerOffset>
@@ -249,7 +249,7 @@ bigger and stronger in the process. </EnglishText>
       <StructId>12</StructId>
       <SpeakerId>5</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>282480</PointerOffset>
@@ -257,15 +257,14 @@ bigger and stronger in the process. </EnglishText>
       <JapaneseText>ほうっておいたら世界中の
 マナを吸い尽くしてしまう……
 魔術が暴走するなんて……</JapaneseText>
-      <EnglishText>At this rate, it's likely all the Mana from this world will 
-be drained, exhausting its supplies... Then, unable to control 
+      <EnglishText>At this rate, it's likely all the Mana from this world will be drained, exhausting its supplies... Then, unable to control
 its magic, the Prism Ring will enter a wild rampage... </EnglishText>
       <Notes/>
       <Id>16</Id>
       <StructId>13</StructId>
       <SpeakerId>7</SpeakerId>
       <UnknownPointer>133</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>282780</PointerOffset>
@@ -277,7 +276,7 @@ its magic, the Prism Ring will enter a wild rampage... </EnglishText>
       <StructId>14</StructId>
       <SpeakerId>4</SpeakerId>
       <UnknownPointer>13</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>282976</PointerOffset>
@@ -290,7 +289,7 @@ its magic, the Prism Ring will enter a wild rampage... </EnglishText>
       <StructId>15</StructId>
       <SpeakerId>4</SpeakerId>
       <UnknownPointer>13</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>283284</PointerOffset>
@@ -298,42 +297,41 @@ its magic, the Prism Ring will enter a wild rampage... </EnglishText>
       <JapaneseText>虹輪は
 地水火風の４つの力が
 混ざり合ったものだ</JapaneseText>
-      <EnglishText>The Prism Ring might be stopped by combining the powers of 
-Earth, Water, Fire and Wind. </EnglishText>
+      <EnglishText>The Prism Ring might be stopped by combining the powers of Earth, Water, Fire and Wind. </EnglishText>
       <Notes/>
       <Id>19</Id>
       <StructId>16</StructId>
       <SpeakerId>7</SpeakerId>
       <UnknownPointer>133</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>283284</PointerOffset>
       <VoiceId>&lt;VSM_020_040_017Z&gt;</VoiceId>
       <JapaneseText>……四大精霊の力を
 借りられたらいいんだが……</JapaneseText>
-      <EnglishText>...You could probably borrow the powers of the Four 
-Elemental Summon Spirits, but... </EnglishText>
+      <EnglishText>...You might be able to borrow the powers
+of the Four Elemental Summon Spirits, but... </EnglishText>
       <Notes/>
       <Id>20</Id>
       <StructId>16</StructId>
       <SpeakerId>7</SpeakerId>
       <UnknownPointer>133</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>283624</PointerOffset>
       <VoiceId>&lt;VSM_020_040_018&gt;</VoiceId>
       <JapaneseText>四大精霊……
 あの、それはどこに！？</JapaneseText>
-      <EnglishText>The Four Elemental Summon Spirits... Please tell me, where 
-to find them! </EnglishText>
+      <EnglishText>The Four Elemental Summon Spirits... Please
+tell me, where to find them! </EnglishText>
       <Notes/>
       <Id>21</Id>
       <StructId>17</StructId>
       <SpeakerId>4</SpeakerId>
       <UnknownPointer>13</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>283820</PointerOffset>
@@ -346,7 +344,7 @@ to find them! </EnglishText>
       <StructId>18</StructId>
       <SpeakerId>7</SpeakerId>
       <UnknownPointer>133</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>284104</PointerOffset>
@@ -358,7 +356,7 @@ to find them! </EnglishText>
       <StructId>19</StructId>
       <SpeakerId>5</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>284348</PointerOffset>
@@ -373,7 +371,7 @@ living in a tower nearby. It wouldn't hurt to pay her a visit. </EnglishText>
       <StructId>20</StructId>
       <SpeakerId>7</SpeakerId>
       <UnknownPointer>133</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>284560</PointerOffset>
@@ -385,7 +383,7 @@ living in a tower nearby. It wouldn't hurt to pay her a visit. </EnglishText>
       <StructId>21</StructId>
       <SpeakerId>4</SpeakerId>
       <UnknownPointer>13</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>284700</PointerOffset>
@@ -393,14 +391,14 @@ living in a tower nearby. It wouldn't hurt to pay her a visit. </EnglishText>
       <JapaneseText>これはもしかすると
 あの魔女の仕業かも
 しれないな……</JapaneseText>
-      <EnglishText>I don't know about her, personally, but it's as good a lead 
-as any... </EnglishText>
+      <EnglishText>I don't know about her, personally, 
+but it's as good a lead as any... </EnglishText>
       <Notes/>
       <Id>26</Id>
       <StructId>22</StructId>
       <SpeakerId>7</SpeakerId>
       <UnknownPointer>133</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>284912</PointerOffset>
@@ -408,27 +406,27 @@ as any... </EnglishText>
       <JapaneseText>なぁ、おっさん。
 魔女の塔ってドコに
 あるんだ？</JapaneseText>
-      <EnglishText>So, grandpa, where can I find the magician's tower? </EnglishText>
+      <EnglishText>So, grandpa, where can I find this magician's tower? </EnglishText>
       <Notes/>
       <Id>27</Id>
       <StructId>23</StructId>
       <SpeakerId>5</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>285052</PointerOffset>
       <VoiceId>&lt;VSM_020_040_025Z&gt;</VoiceId>
       <JapaneseText>ここから東の方向で、
 別名&lt;Red&gt;きらめきの塔&lt;White&gt;と呼ばれている</JapaneseText>
-      <EnglishText>If you travel east from here you'll bump into a tower named 
-"Glimmer Spire." </EnglishText>
+      <EnglishText>If you travel east from here you'll bump
+into a tower named "Glimmer Spire." </EnglishText>
       <Notes/>
       <Id>28</Id>
       <StructId>24</StructId>
       <SpeakerId>7</SpeakerId>
       <UnknownPointer>133</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>285052</PointerOffset>
@@ -436,14 +434,14 @@ as any... </EnglishText>
       <JapaneseText>きみたち行くつもりなのかい。
 危険かもしれないから
 気をつけるんだぞ</JapaneseText>
-      <EnglishText>I'm not certain what dangers await you there but if you 
-intend to go please be careful. </EnglishText>
+      <EnglishText>I'm not certain what dangers await you there
+but if you intend to go please be careful. </EnglishText>
       <Notes/>
       <Id>29</Id>
       <StructId>24</StructId>
       <SpeakerId>7</SpeakerId>
       <UnknownPointer>133</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>285844</PointerOffset>
@@ -457,32 +455,33 @@ intend to go please be careful. </EnglishText>
       <StructId>25</StructId>
       <SpeakerId>5</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>286336</PointerOffset>
       <VoiceId>&lt;VSM_020_040_028&gt;</VoiceId>
       <JapaneseText>行ってくるって……</JapaneseText>
-      <EnglishText>You...really do want to go there... </EnglishText>
+      <EnglishText>You...really want to go there... </EnglishText>
       <Notes/>
       <Id>31</Id>
       <StructId>26</StructId>
       <SpeakerId>4</SpeakerId>
       <UnknownPointer>13</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>286476</PointerOffset>
       <VoiceId>&lt;VSM_020_040_029&gt;</VoiceId>
       <JapaneseText>そいつに聞きゃ、
 あれ消せるかもだし</JapaneseText>
-      <EnglishText>You heard the dude already. I need to dispel this thing. </EnglishText>
+      <EnglishText>You heard the dude already. 
+I need to dispel this thing. </EnglishText>
       <Notes/>
       <Id>32</Id>
       <StructId>27</StructId>
       <SpeakerId>5</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>286476</PointerOffset>
@@ -490,25 +489,25 @@ intend to go please be careful. </EnglishText>
       <JapaneseText>それと、
 困ってる人助けんのが
 オレらの仕事なんだろ</JapaneseText>
-      <EnglishText>‘Sides helping people in need was my job, wasn't it? </EnglishText>
+      <EnglishText>‘Sides helping people in need is my job, isn't it? </EnglishText>
       <Notes/>
       <Id>33</Id>
       <StructId>27</StructId>
       <SpeakerId>5</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>286816</PointerOffset>
       <VoiceId>&lt;VSM_020_040_031&gt;</VoiceId>
       <JapaneseText>……わたしも行くよ</JapaneseText>
-      <EnglishText>...I want to go with you. </EnglishText>
+      <EnglishText>...I'm going with you. </EnglishText>
       <Notes/>
       <Id>34</Id>
       <StructId>28</StructId>
       <SpeakerId>4</SpeakerId>
       <UnknownPointer>13</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>286956</PointerOffset>
@@ -520,19 +519,19 @@ intend to go please be careful. </EnglishText>
       <StructId>29</StructId>
       <SpeakerId>5</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>286956</PointerOffset>
       <VoiceId>&lt;VSM_020_040_035C&gt;</VoiceId>
       <JapaneseText>んじゃ、行こうぜ</JapaneseText>
-      <EnglishText>Well then, let's go! </EnglishText>
+      <EnglishText>Let's go, then! </EnglishText>
       <Notes/>
       <Id>36</Id>
       <StructId>29</StructId>
       <SpeakerId>5</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>
