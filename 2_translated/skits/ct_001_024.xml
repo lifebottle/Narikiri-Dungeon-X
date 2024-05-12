@@ -1,0 +1,234 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>37468,43660</PointerOffset>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38024</PointerOffset>
+      <JapaneseText>&lt;DIO&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38588</PointerOffset>
+      <JapaneseText>&lt;KUL&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38828,40124,41544,42932,43960</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39824,41336</PointerOffset>
+      <JapaneseText>&lt;MEL&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37468</PointerOffset>
+      <VoiceId>&lt;VCT_001_024_001&gt;</VoiceId>
+      <JapaneseText>ねぇ、そう言えば、アルベルトって、ぼくたちと一緒に
+食事してるけど、食べた物ってどうなってるの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <StructId>1</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>24</UnknownPointer>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38024</PointerOffset>
+      <VoiceId>&lt;VCT_001_024_002&gt;</VoiceId>
+      <JapaneseText>お、それ、オレも気になってた！
+扉開けても、服しか出てこねーしな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <StructId>2</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38588</PointerOffset>
+      <VoiceId>&lt;VCT_001_024_003&gt;</VoiceId>
+      <JapaneseText>クリュールゥ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <StructId>3</StructId>
+      <SpeakerId>3</SpeakerId>
+      <UnknownPointer>14</UnknownPointer>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38828</PointerOffset>
+      <VoiceId>&lt;VCT_001_024_004&gt;</VoiceId>
+      <JapaneseText>まぁ、おめぇらの薄っぺらい脳みそで考えたところで、
+ぜぇーったいわかるわけがねぇーだーよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <StructId>4</StructId>
+      <SpeakerId>4</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39824</PointerOffset>
+      <VoiceId>&lt;VCT_001_024_005&gt;</VoiceId>
+      <JapaneseText>う〜ん……わたしたちよりいっぱい食べてるのに、
+どこに行ってるのか不思議だよね……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <StructId>5</StructId>
+      <SpeakerId>5</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40124</PointerOffset>
+      <VoiceId>&lt;VCT_001_024_006&gt;</VoiceId>
+      <JapaneseText>&lt;MEL&gt;&lt;MEL&gt;が、おらに興味を持ってるなら、教えるだよ。
+実は、おらの体の中というのは……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <StructId>6</StructId>
+      <SpeakerId>4</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41336</PointerOffset>
+      <VoiceId>&lt;VCT_001_024_007&gt;</VoiceId>
+      <JapaneseText>いうのは……？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <StructId>7</StructId>
+      <SpeakerId>5</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41544</PointerOffset>
+      <VoiceId>&lt;VCT_001_024_008&gt;</VoiceId>
+      <JapaneseText>体の中というのは…………実は…………</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <StructId>8</StructId>
+      <SpeakerId>4</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42932</PointerOffset>
+      <VoiceId>&lt;VCT_001_024_009&gt;</VoiceId>
+      <JapaneseText>…………おらにもよくわからねぇだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <StructId>9</StructId>
+      <SpeakerId>4</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43660</PointerOffset>
+      <VoiceId>&lt;VCT_001_024_010&gt;</VoiceId>
+      <JapaneseText>なにソレ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <StructId>10</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>24</UnknownPointer>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43960</PointerOffset>
+      <VoiceId>&lt;VCT_001_024_011&gt;</VoiceId>
+      <JapaneseText>ひとつだけ確かなのは、腹が減ったら、
+何か食べたくなるってことだ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <StructId>11</StructId>
+      <SpeakerId>4</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Other Strings</Section>
+    <Entry>
+      <PointerOffset>12684</PointerOffset>
+      <JapaneseText>
+【あなたのwTime設定は失敗致しました】
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33512</PointerOffset>
+      <JapaneseText>ERROR : chatWaitVoice(int vtime) が呼ばれる回数が多杉
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34140</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34324</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35564</PointerOffset>
+      <JapaneseText>sleep多すぎ %d フレーム減らせ！
+ </JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

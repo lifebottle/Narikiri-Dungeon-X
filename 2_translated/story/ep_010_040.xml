@@ -1,0 +1,3398 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>260004,260284,261256,262440,262868,269232,270172,270660,271480,271768,272248,272428,272700,272840,273280,273588</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260144,267344,268272,268768,275780,276384</PointerOffset>
+      <JapaneseText>エトス</JapaneseText>
+      <EnglishText>Ethos</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261116,264208,267204,267936,275032,276244,276524</PointerOffset>
+      <JapaneseText>&lt;DIO&gt;</JapaneseText>
+      <EnglishText>&lt;DIO&gt;</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261972,265952,266952,268076,268628,275520</PointerOffset>
+      <JapaneseText>&lt;MEL&gt;</JapaneseText>
+      <EnglishText>&lt;MEL&gt;</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>278548</PointerOffset>
+      <JapaneseText>ノルン</JapaneseText>
+      <EnglishText>Norn</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>Editing</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>260004</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_001&gt;</VoiceId>
+      <JapaneseText>へっへっへっへぇ〜。
+やっとこ落ち着いただ〜</JapaneseText>
+      <EnglishText>Hehehehehe! I'm surprised I made
+it in one piece from that fall! </EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <StructId>1</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260144</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_002&gt;</VoiceId>
+      <JapaneseText>ところでさっきの話の
+続きだけド……</JapaneseText>
+      <EnglishText>In any case, please continue with
+what you were going to say... </EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <StructId>2</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer>24</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260284</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_003&gt;</VoiceId>
+      <JapaneseText>わーってるだぁ、
+せかすでねーって。
+んだば……</JapaneseText>
+      <EnglishText>Cutting to the chase, eh? Let's get down to it then. So... </EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <StructId>3</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260284</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_004&gt;</VoiceId>
+      <JapaneseText>おめぇら
+もう１３歳だなや？</JapaneseText>
+      <EnglishText>You children are 13-years-old already, right? </EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <StructId>3</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>260284</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_005&gt;</VoiceId>
+      <JapaneseText>そういうことで、そろそろ
+『なりきり士』の仕事を始める
+年頃なわけだーよ</JapaneseText>
+      <EnglishText>Seems you are about the age to start your job as 
+Roleplayers. </EnglishText>
+      <Notes>Review. Should 『なりきり士』 = Roleplayer or Narikiri's , etc...</Notes>
+      <Id>5</Id>
+      <StructId>3</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261116</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_006&gt;</VoiceId>
+      <JapaneseText>『なりきり士』……？</JapaneseText>
+      <EnglishText>Roleplayers? </EnglishText>
+      <Notes>Review. Narikiri's?</Notes>
+      <Id>6</Id>
+      <StructId>4</StructId>
+      <SpeakerId>3</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261256</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_007&gt;</VoiceId>
+      <JapaneseText>おぉ『なりきり士』っつーのは、
+その服装の人になりきる力を
+持った人間のことを言うだ</JapaneseText>
+      <EnglishText>Roleplayers are people who can borrow power from other 
+people's clothing which in turn allows them to transform into what they wear, having the same abilities as the person who used that garment. </EnglishText>
+      <Notes>Review. Narikiri's?</Notes>
+      <Id>7</Id>
+      <StructId>5</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261256</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_008&gt;</VoiceId>
+      <JapaneseText>剣士の服を着れば立派な剣士で、
+魔法使いの服を着てみれば、
+魔法使いになれるっつー具合だ</JapaneseText>
+      <EnglishText>If you wear a knight's clothing, you'll impersonate a splendid knight. If you wear magician's clothes, you'll be skilled in magic.</EnglishText>
+      <Notes/>
+      <Id>8</Id>
+      <StructId>5</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261256</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_009&gt;</VoiceId>
+      <JapaneseText>おめぇらふたりには、
+そんだら力が生まれたときから
+宿っとるんだーよ</JapaneseText>
+      <EnglishText>The two of you will have this power at your 
+disposal for the rest of your lives. </EnglishText>
+      <Notes/>
+      <Id>9</Id>
+      <StructId>5</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261972</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_010&gt;</VoiceId>
+      <JapaneseText>わたしたちに？　まさか？</JapaneseText>
+      <EnglishText>The two of us? Even me? You can't be serious... </EnglishText>
+      <Notes/>
+      <Id>10</Id>
+      <StructId>6</StructId>
+      <SpeakerId>4</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262440</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_011&gt;</VoiceId>
+      <JapaneseText>はん！
+おらが信じられねぇってが？
+このおらをか？　あ〜ん？</JapaneseText>
+      <EnglishText>Hah! Do you dare doubt what I say? </EnglishText>
+      <Notes/>
+      <Id>11</Id>
+      <StructId>7</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262868</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_013&gt;</VoiceId>
+      <JapaneseText>グダグダ言ってねぇで、
+おらの中の服、
+着てみりゃわかるだ！</JapaneseText>
+      <EnglishText>I'm tired of explanations, so try some of the clothes
+I have inside me and see for yourselves. </EnglishText>
+      <Notes/>
+      <Id>12</Id>
+      <StructId>8</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262868</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_014&gt;</VoiceId>
+      <JapaneseText>とにかく、『なりきり士』の力で
+困ってる人たちを
+助ける仕事をするんだど</JapaneseText>
+      <EnglishText>Anyhow, the most important mission you have as a Roleplayer is to help people in need. </EnglishText>
+      <Notes>Review. Narikiri?</Notes>
+      <Id>13</Id>
+      <StructId>8</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262868</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_015&gt;</VoiceId>
+      <JapaneseText>ノルン様はそれをおめぇらに
+期待しとるっちゅーわけだ</JapaneseText>
+      <EnglishText>Miss Norn has high expectations of the two of you.</EnglishText>
+      <Notes/>
+      <Id>14</Id>
+      <StructId>8</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264208</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_017&gt;</VoiceId>
+      <JapaneseText>それ……すごいいいかも！</JapaneseText>
+      <EnglishText>Piece of cake! </EnglishText>
+      <Notes/>
+      <Id>15</Id>
+      <StructId>9</StructId>
+      <SpeakerId>3</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264208</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_018&gt;</VoiceId>
+      <JapaneseText>オレ、困ってる人、
+助けに行くよ！</JapaneseText>
+      <EnglishText>I'll help all the troubled people out there in a jiffy!</EnglishText>
+      <Notes/>
+      <Id>16</Id>
+      <StructId>9</StructId>
+      <SpeakerId>3</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264208</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_019&gt;</VoiceId>
+      <JapaneseText>オレ、外に出る！
+『なりきり士』の仕事する！</JapaneseText>
+      <EnglishText>Let's go outside! It's time to start my
+job as a Roleplayer, right now! </EnglishText>
+      <Notes>Review. Narikiri?</Notes>
+      <Id>17</Id>
+      <StructId>9</StructId>
+      <SpeakerId>3</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265952</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_028&gt;</VoiceId>
+      <JapaneseText>そんなの……
+&lt;DIO&gt;ひとりだけで
+行かせられると思う？</JapaneseText>
+      <EnglishText>Wait don't rush away just yet... did you even
+consider what it means to go alone? </EnglishText>
+      <Notes/>
+      <Id>18</Id>
+      <StructId>10</StructId>
+      <SpeakerId>4</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265952</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_029&gt;</VoiceId>
+      <JapaneseText>すぐ無茶するし、
+危なっかしいし……</JapaneseText>
+      <EnglishText>He is so dumb, it's so dangerous out there... </EnglishText>
+      <Notes/>
+      <Id>19</Id>
+      <StructId>10</StructId>
+      <SpeakerId>4</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266952</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_033&gt;</VoiceId>
+      <JapaneseText>わかった……
+わたしも一緒に行く</JapaneseText>
+      <EnglishText>I got it! I'll go too. </EnglishText>
+      <Notes/>
+      <Id>20</Id>
+      <StructId>11</StructId>
+      <SpeakerId>4</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267204</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_034&gt;</VoiceId>
+      <JapaneseText>おまえも……！？</JapaneseText>
+      <EnglishText>What!? You too!? </EnglishText>
+      <Notes/>
+      <Id>21</Id>
+      <StructId>12</StructId>
+      <SpeakerId>3</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267344</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_040&gt;</VoiceId>
+      <JapaneseText>うん。いいよ……
+行っておいで</JapaneseText>
+      <EnglishText>All right... I'll allow the two of you to go. </EnglishText>
+      <Notes/>
+      <Id>22</Id>
+      <StructId>13</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer>24</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267936</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_041&gt;</VoiceId>
+      <JapaneseText>っしゃ！</JapaneseText>
+      <EnglishText>Sweet! </EnglishText>
+      <Notes/>
+      <Id>23</Id>
+      <StructId>14</StructId>
+      <SpeakerId>3</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>268076</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_042&gt;</VoiceId>
+      <JapaneseText>何言ってるの。
+エトも一緒だよ？</JapaneseText>
+      <EnglishText>What do you mean, Eto? Aren't you coming as well?</EnglishText>
+      <Notes/>
+      <Id>24</Id>
+      <StructId>15</StructId>
+      <SpeakerId>4</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>268272</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_043&gt;</VoiceId>
+      <JapaneseText>え……ぼくも……
+行っていいの？</JapaneseText>
+      <EnglishText>Huh? Is it really okay
+for me to go too? </EnglishText>
+      <Notes/>
+      <Id>25</Id>
+      <StructId>16</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer>24</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>268628</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_044&gt;</VoiceId>
+      <JapaneseText>一緒に行こ！</JapaneseText>
+      <EnglishText>Of course! Let's go together! </EnglishText>
+      <Notes/>
+      <Id>26</Id>
+      <StructId>17</StructId>
+      <SpeakerId>4</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>268768</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_045&gt;</VoiceId>
+      <JapaneseText>そっか……</JapaneseText>
+      <EnglishText>I see... </EnglishText>
+      <Notes/>
+      <Id>27</Id>
+      <StructId>18</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer>24</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>268768</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_046&gt;</VoiceId>
+      <JapaneseText>うん！　&lt;DIO&gt;と&lt;MEL&gt;は
+ぼくの可愛い双子だもん。
+ぼくも一緒でなきゃね！</JapaneseText>
+      <EnglishText>Yeah... &lt;DIO&gt; and &lt;MEL&gt; are such a fair pair of twins! I'll 
+go wherever you want to go! </EnglishText>
+      <Notes>Review translation.</Notes>
+      <Id>28</Id>
+      <StructId>18</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer>24</UnknownPointer>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>269232</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_048&gt;</VoiceId>
+      <JapaneseText>あ？　話はまとまっただな？
+んだら、準備してやるだよ</JapaneseText>
+      <EnglishText>Uh? Are we finished yapping now? Then, let's get started. </EnglishText>
+      <Notes/>
+      <Id>29</Id>
+      <StructId>19</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>269232</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_049&gt;</VoiceId>
+      <JapaneseText>『なりきり士』のことを
+教えてほしいだか？
+ん？　ん？</JapaneseText>
+      <EnglishText>Do you want to know more about the Roleplayer? Mmm? </EnglishText>
+      <Notes>Review. Narikiri?</Notes>
+      <Id>30</Id>
+      <StructId>19</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>270172</PointerOffset>
+      <JapaneseText>まず&lt;icon:2700072&gt;でメニューを開くだ</JapaneseText>
+      <EnglishText>First, open the menu with &lt;icon:2700072&gt;.</EnglishText>
+      <Notes>Just need reviewed by a translator.</Notes>
+      <Id>31</Id>
+      <StructId>20</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>270660</PointerOffset>
+      <JapaneseText>『コスチューム』の項目で、
+服を着ることができるだーよ。
+今は１着ずつしかないんだど</JapaneseText>
+      <EnglishText>In the "Costumes" section, you can change the clothes that you are wearing. Currently, we only have one piece of clothing each.</EnglishText>
+      <Notes>Just need reviewed by a translator.</Notes>
+      <Id>32</Id>
+      <StructId>21</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>271480</PointerOffset>
+      <JapaneseText>『コスチューム』は世界の
+どこかに落ちてたりする
+もんだーよ</JapaneseText>
+      <EnglishText>"Costumes" can be found anywhere in the world.</EnglishText>
+      <Notes>Just need reviewed by a translator.</Notes>
+      <Id>33</Id>
+      <StructId>22</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>271768</PointerOffset>
+      <JapaneseText>服を着替えっと、
+その服の格好に応じた
+戦闘特性になるだで</JapaneseText>
+      <EnglishText>Change Clothes: You can change to the outfit you want to wear.</EnglishText>
+      <Notes>Just need reviewed by a translator.</Notes>
+      <Id>34</Id>
+      <StructId>23</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>272248</PointerOffset>
+      <JapaneseText>おめぇらにわかりやすく教えっと、
+『剣士』だと、
+剣士としての能力が上がるだ</JapaneseText>
+      <EnglishText>Let me make this easy for you. "Swordsman."
+It makes you a more skilled swordsman.</EnglishText>
+      <Notes>Just need reviewed by a translator.</Notes>
+      <Id>35</Id>
+      <StructId>24</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>272428</PointerOffset>
+      <JapaneseText>つまりだ、本物の剣士と同じよう
+に剣を振って攻撃ができるように
+なるんだでよ</JapaneseText>
+      <EnglishText>You'll be able to swing a sword and attack just like a real swordsman. </EnglishText>
+      <Notes>Just need reviewed by a translator.</Notes>
+      <Id>36</Id>
+      <StructId>25</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>272700</PointerOffset>
+      <JapaneseText>でもただただ『コスチューム』
+を集めて、着てるだけでは
+芸がないんだべ</JapaneseText>
+      <EnglishText>But just collecting "Costumes" and wearing them is not enough. there's no art in that.</EnglishText>
+      <Notes>Just need reviewed by a translator.</Notes>
+      <Id>37</Id>
+      <StructId>26</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>272840</PointerOffset>
+      <JapaneseText>戦闘でもらえるＣＰっちゅーの
+を溜めると、熟練度が上がって
+スキルが開放できるだ</JapaneseText>
+      <EnglishText>Using the CP you gain in battle, you can unlock skills and upgrade your skill level.</EnglishText>
+      <Notes>Just need reviewed by a translator.</Notes>
+      <Id>38</Id>
+      <StructId>27</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>273280</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_057&gt;</VoiceId>
+      <JapaneseText>とまぁ、こんなところだ。おらが
+こんな説明までせねばなんねぇ
+とはまったくめんどうくせぇ</JapaneseText>
+      <EnglishText>And, well, that's about it. To be the one that has
+to go through the trouble of explaining all this
+is a real pain!</EnglishText>
+      <Notes>Just need reviewed by a translator.</Notes>
+      <Id>39</Id>
+      <StructId>28</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>273280</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_058&gt;</VoiceId>
+      <JapaneseText>それから、おらは豆粒みたいに
+ちっちゃくなって
+おめぇらについてくだーよ</JapaneseText>
+      <EnglishText>Now then, I'll shrink bean-size to keep an eye on you. </EnglishText>
+      <Notes/>
+      <Id>40</Id>
+      <StructId>28</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>273588</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_061&gt;</VoiceId>
+      <JapaneseText>あー、あとな、おらは、
+魔物のいるところは、
+絶対出ていがねぇからな</JapaneseText>
+      <EnglishText>Oh, and I'll never appear when
+there's monsters around. </EnglishText>
+      <Notes/>
+      <Id>41</Id>
+      <StructId>29</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>273588</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_062&gt;</VoiceId>
+      <JapaneseText>どうしても着替えてぇなら、
+魔物のいない町中とか、
+安全な場所にするだよ</JapaneseText>
+      <EnglishText>I'll only show up when it's safe, like in a town. </EnglishText>
+      <Notes/>
+      <Id>42</Id>
+      <StructId>29</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>25</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>275032</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_063&gt;</VoiceId>
+      <JapaneseText>さ！　行くか！</JapaneseText>
+      <EnglishText>All right then! Let's go! </EnglishText>
+      <Notes/>
+      <Id>43</Id>
+      <StructId>30</StructId>
+      <SpeakerId>3</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>275520</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_064&gt;</VoiceId>
+      <JapaneseText>行くって……どこへ？</JapaneseText>
+      <EnglishText>Go? Where to? </EnglishText>
+      <Notes/>
+      <Id>44</Id>
+      <StructId>31</StructId>
+      <SpeakerId>4</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>275780</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_067&gt;</VoiceId>
+      <JapaneseText>&lt;Red&gt;ヴァルハラ村&lt;White&gt;はどうかな？</JapaneseText>
+      <EnglishText>How about we start in Valhalla Village? </EnglishText>
+      <Notes/>
+      <Id>45</Id>
+      <StructId>32</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer>24</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>276244</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_068&gt;</VoiceId>
+      <JapaneseText>&lt;Red&gt;ヴァルハラ村&lt;White&gt;？</JapaneseText>
+      <EnglishText>Valhalla Village? </EnglishText>
+      <Notes/>
+      <Id>46</Id>
+      <StructId>33</StructId>
+      <SpeakerId>3</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>276384</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_069&gt;</VoiceId>
+      <JapaneseText>そう。ヴァルハラ平原に貧しい人たちが
+移り住んで作った村なんだけド</JapaneseText>
+      <EnglishText>Yes, poor people moved into the Valhalla Plains and built a village there.</EnglishText>
+      <Notes/>
+      <Id>47</Id>
+      <StructId>34</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer>24</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>276384</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_070&gt;</VoiceId>
+      <JapaneseText>たくさん人が集まってる場所
+なんだから、困ってる人だって
+きっといるんじゃないのかな</JapaneseText>
+      <EnglishText>Many people settled there, I think there's
+a high chance someone needs help. </EnglishText>
+      <Notes/>
+      <Id>48</Id>
+      <StructId>34</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer>24</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>276524</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_071&gt;</VoiceId>
+      <JapaneseText>んじゃー
+そこ行ってみようぜ</JapaneseText>
+      <EnglishText>Ok then, let's head there! </EnglishText>
+      <Notes/>
+      <Id>49</Id>
+      <StructId>35</StructId>
+      <SpeakerId>3</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>278548</PointerOffset>
+      <VoiceId>&lt;VSM_010_040_077&gt;</VoiceId>
+      <JapaneseText>あなたたちの旅立ちに
+祝福を……</JapaneseText>
+      <EnglishText>May the trip you're setting off on be blessed... </EnglishText>
+      <Notes/>
+      <Id>50</Id>
+      <StructId>36</StructId>
+      <SpeakerId>5</SpeakerId>
+      <UnknownPointer>26</UnknownPointer>
+      <Status>Proofreading</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Other Strings</Section>
+    <Entry>
+      <PointerOffset>916</PointerOffset>
+      <JapaneseText>DYC_EP_010_040</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1040</PointerOffset>
+      <JapaneseText>DYC_EP_010_040</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1480</PointerOffset>
+      <JapaneseText>MUS_B001</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1732</PointerOffset>
+      <JapaneseText>MUS_B002</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18740</PointerOffset>
+      <JapaneseText>init_common_script 開始
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18780</PointerOffset>
+      <JapaneseText>フェードアウト開始
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19240</PointerOffset>
+      <JapaneseText>
+今の累計プレイ時間は【%d秒】で、
+おおざっぱに言うと【%d時間台】です
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19660</PointerOffset>
+      <JapaneseText>
+セーブポイントめぐりのチェックリスト
+１だと行ってます
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19804</PointerOffset>
+      <JapaneseText>%d [%d]
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20256</PointerOffset>
+      <JapaneseText>init_common_script 終了
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20988</PointerOffset>
+      <JapaneseText>COMM_EVENT_START開始
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21588</PointerOffset>
+      <JapaneseText>NULL</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21964</PointerOffset>
+      <JapaneseText>COMM_EVENT_START終了
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22552</PointerOffset>
+      <JapaneseText>COMM_SUB_START開始
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23364</PointerOffset>
+      <JapaneseText>NULL</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34864</PointerOffset>
+      <JapaneseText>FAR CAMERA:%f
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35744</PointerOffset>
+      <JapaneseText>&lt;_set_cam_limit_trap&gt; Warning: カメラリミットIDが登録済み
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36124</PointerOffset>
+      <JapaneseText>&lt;_set_cam_limit_trap&gt; Warning: カメラリミットバッファに空き無し
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>68</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37116</PointerOffset>
+      <JapaneseText>&lt;_set_cam_limit_var&gt; Warning: カメラリミットバッファに指定IDの登録無し
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>69</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42464</PointerOffset>
+      <JapaneseText>&lt;_set_jump&gt; 終了座標の指定が不正です
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>70</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45640</PointerOffset>
+      <JapaneseText>&lt;_set_jump_th&gt; キャラクタID:%dは既に登録されています
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>71</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45948</PointerOffset>
+      <JapaneseText>&lt;_set_jump_th&gt; 登録数オーバーです
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>72</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46892</PointerOffset>
+      <JapaneseText>&lt;_float_motion&gt; キャラクタID:%dは既に登録されています
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>73</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47200</PointerOffset>
+      <JapaneseText>&lt;_float_motion&gt; 登録数オーバーです
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>74</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48172</PointerOffset>
+      <JapaneseText>&lt;_float_motion&gt; 登録されていません
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>75</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48404</PointerOffset>
+      <JapaneseText>&lt;_float_landing_motion&gt; キャラクタID:%dは既に登録されています
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>76</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48712</PointerOffset>
+      <JapaneseText>&lt;_float_landing_motion&gt; 登録数オーバーです
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>77</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>51208</PointerOffset>
+      <JapaneseText>&lt;_get_abs_angle&gt; ループカウントがリミットを越え、正確な値を返していません
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>78</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>53780</PointerOffset>
+      <JapaneseText>&lt;_set_turn&gt; キャラクタID:%dは既に登録されています
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>79</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>53836</PointerOffset>
+      <JapaneseText>&lt;_set_turn&gt; セット箇所はgnTurnStatus[%d]
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>80</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>54148</PointerOffset>
+      <JapaneseText>&lt;_set_turn&gt; 登録数オーバーです
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>81</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>56940</PointerOffset>
+      <JapaneseText>&lt;_set_turn_th&gt; キャラクタID:%dは既に登録されています
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>82</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>57248</PointerOffset>
+      <JapaneseText>&lt;_set_turn_th&gt; 登録数オーバーです
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>83</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>58788</PointerOffset>
+      <JapaneseText>&lt;_set_watch_c2c_th&gt; キャラクタID:%dは既に登録されています
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>84</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>58844</PointerOffset>
+      <JapaneseText>&lt;_set_watch_c2c_th&gt; セット箇所はgnTurnStatus[%d]
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>85</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>59152</PointerOffset>
+      <JapaneseText>&lt;_set_watch_c2c_th&gt; 登録数オーバーです
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>86</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>59692</PointerOffset>
+      <JapaneseText>&lt;_set_around_look_th&gt; 登録済みキャラクタIDです
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>87</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>59984</PointerOffset>
+      <JapaneseText>&lt;_set_around_look_th&gt; 最大登録数オーバーです
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>88</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>62108</PointerOffset>
+      <JapaneseText>&lt;_set_alpha&gt; アルファ値が設定範囲外です(0&lt;=alpha&lt;=255)
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>89</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>63020</PointerOffset>
+      <JapaneseText>&lt;_set_alpha_th&gt; キャラクタID:%dは既に登録されています
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>90</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>63328</PointerOffset>
+      <JapaneseText>&lt;_set_alpha_th&gt; 最大登録数オーバーです
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>91</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>66516</PointerOffset>
+      <JapaneseText>&lt;_init_motion_detail&gt; 引数が不正です
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>92</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>67436</PointerOffset>
+      <JapaneseText>&lt;_set_motion_detail_th&gt; 登録数オーバーです
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>93</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>75868</PointerOffset>
+      <JapaneseText>&lt;_disp_ef&gt; エフェクトID:%dは既に登録されています
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>94</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>76176</PointerOffset>
+      <JapaneseText>&lt;_disp_ef&gt; 最大登録数オーバーです
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>95</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>77584</PointerOffset>
+      <JapaneseText>&lt;_move_pos_ef&gt; 移動量の指定が0以下です
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>96</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>77820</PointerOffset>
+      <JapaneseText>&lt;_move_pos_ef&gt; エフェクトID:%dは既に登録されています
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>97</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>78132</PointerOffset>
+      <JapaneseText>&lt;_move_pos_ef&gt; 最大登録数オーバーです
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>98</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>81032</PointerOffset>
+      <JapaneseText>&lt;_move_pos_spline_ef_th&gt;引数が不正です
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>99</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>81232</PointerOffset>
+      <JapaneseText>&lt;_move_pos_spline_ef_th&gt; エフェクトID:%dは既に登録されています
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>100</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>81540</PointerOffset>
+      <JapaneseText>&lt;_move_pos_spline_ef_th&gt; 最大登録数オーバーです
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>101</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>84460</PointerOffset>
+      <JapaneseText>イベントをスキップしますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>102</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>84476</PointerOffset>
+      <JapaneseText>はい
+いいえ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>103</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>86020</PointerOffset>
+      <JapaneseText>選択肢</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>104</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>86036</PointerOffset>
+      <JapaneseText>はい
+いいえ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>105</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>90664</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>106</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>90680</PointerOffset>
+      <JapaneseText>これが記憶陣だべ。
+旅の記録ができるのはもちろん、
+ダンジョンでは魔物も入ってこれないから、
+おらも出てきてやるから着替えられるだ〜よ。
+ちなみに青い記憶陣は
+ＨＰも回復するだ。
+おらの耳寄り情報に感謝せぇ〜よ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>107</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>92500</PointerOffset>
+      <JapaneseText>%sが
+仲間になっただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>108</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>92632</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>109</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>92768</PointerOffset>
+      <JapaneseText>パーティがいっぱいだったので
+%sは休憩所へ向かっただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>110</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>92928</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>111</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>93940</PointerOffset>
+      <JapaneseText>%s
+%sが
+仲間になっただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>112</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>94088</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>113</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>94244</PointerOffset>
+      <JapaneseText>パーティがいっぱいだったので
+%sと
+%sは
+休憩所へ向かっただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>114</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>94448</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>115</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>94592</PointerOffset>
+      <JapaneseText>パーティがいっぱいだったので
+%sは
+休憩所へ向かっただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>116</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>94752</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>117</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>95912</PointerOffset>
+      <JapaneseText>%s
+%s
+%sが
+仲間になっただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>118</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>96076</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>119</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>96252</PointerOffset>
+      <JapaneseText>パーティがいっぱいだったので
+%sと
+%sと
+%sは
+休憩所へ向かっただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>120</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>96500</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>121</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>96664</PointerOffset>
+      <JapaneseText>パーティがいっぱいだったので
+%sと
+%sは
+休憩所へ向かっただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>122</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>96868</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>123</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>97012</PointerOffset>
+      <JapaneseText>パーティがいっぱいだったので
+%sは
+休憩所へ向かっただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>124</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>97172</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>125</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>98400</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>126</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>98416</PointerOffset>
+      <JapaneseText>時空戦士が仲間になっただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>127</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>98636</PointerOffset>
+      <JapaneseText>パーティがいっぱいだったので
+%sと
+%sと
+%sと
+%sと
+%sと
+%sは
+休憩所へ向かっただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>128</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>99016</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>129</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>99240</PointerOffset>
+      <JapaneseText>パーティがいっぱいだったので
+%sと
+%sと
+%sと
+%sと
+%sは
+休憩所へ向かっただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>130</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>99576</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>131</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>99780</PointerOffset>
+      <JapaneseText>パーティがいっぱいだったので
+%sと
+%sと
+%sと
+%sは
+休憩所へ向かっただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>132</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>100072</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>133</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>100256</PointerOffset>
+      <JapaneseText>パーティがいっぱいだったので
+%sと
+%sと
+%sは
+休憩所へ向かっただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>134</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>100504</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>135</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>100668</PointerOffset>
+      <JapaneseText>パーティがいっぱいだったので
+%sと
+%sは
+休憩所へ向かっただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>136</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>100872</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>137</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>101016</PointerOffset>
+      <JapaneseText>パーティがいっぱいだったので
+%sは
+休憩所へ向かっただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>138</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>101176</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>139</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>101408</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>140</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>101424</PointerOffset>
+      <JapaneseText>こ、こんどの時空戦士たちは
+バッチリ準備して駆けつけてくれたみたいだなや〜
+前とはまるで強さが違うみてぇだから、
+一度確認しておくとええだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>141</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>101808</PointerOffset>
+      <JapaneseText>%sと
+別れただ！　　　</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>142</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>102040</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>143</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>102832</PointerOffset>
+      <JapaneseText>%sと
+別れただ！　　　</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>144</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>102964</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>145</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>103232</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>146</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>103248</PointerOffset>
+      <JapaneseText>別れた時に
+装備品をもらっただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>147</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>104240</PointerOffset>
+      <JapaneseText>%s
+%sと
+別れただ！　　　</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>148</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>104488</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>149</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>105408</PointerOffset>
+      <JapaneseText>%s
+%sと
+別れただ！　　　</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>150</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>105656</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>151</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>105824</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>152</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>105840</PointerOffset>
+      <JapaneseText>別れた時に
+装備品をもらっただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>153</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>106992</PointerOffset>
+      <JapaneseText>%s
+%s
+%sと
+別れただ！　　　</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>154</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>107256</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>155</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>108368</PointerOffset>
+      <JapaneseText>%s
+%s
+%sと
+別れただ！　　　</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>156</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>108632</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>157</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>108800</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>158</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>108816</PointerOffset>
+      <JapaneseText>別れた時に
+装備品をもらっただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>159</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>109920</PointerOffset>
+      <JapaneseText>%s
+%s
+%s
+%sと
+別れただ！　　　</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>160</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>110200</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>161</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>111504</PointerOffset>
+      <JapaneseText>%s
+%s
+%s
+%sと
+別れただ！　　　</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>162</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>111784</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>163</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>111952</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>164</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>111968</PointerOffset>
+      <JapaneseText>別れた時に
+装備品をもらっただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>165</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>113900</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>166</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>113916</PointerOffset>
+      <JapaneseText>みんなと別れただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>167</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>114720</PointerOffset>
+      <JapaneseText>アイテムを取得しました！
+&lt;Black&gt;&lt;color:87&gt;%s&lt;White&gt;&lt;color:ff&gt;×%d</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>168</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>114900</PointerOffset>
+      <JapaneseText>information</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>169</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>115260</PointerOffset>
+      <JapaneseText>アイテムを取得しました！
+&lt;Black&gt;&lt;color:87&gt;%s&lt;White&gt;&lt;color:ff&gt;×%d</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>170</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>115440</PointerOffset>
+      <JapaneseText>information</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>171</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>115688</PointerOffset>
+      <JapaneseText>%sを失っただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>172</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>115820</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>173</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>116180</PointerOffset>
+      <JapaneseText>%dガルドを手に入れただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>174</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>116312</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>175</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>116932</PointerOffset>
+      <JapaneseText>%sは『%s』の
+称号を手に入れただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>176</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>117080</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>177</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>117628</PointerOffset>
+      <JapaneseText>%sは&lt;Black&gt;&lt;color:87&gt;%s&lt;White&gt;&lt;color:ff&gt;の
+コスチュームを手に入れただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>178</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>117808</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>179</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>118228</PointerOffset>
+      <JapaneseText>%sは%sを
+習得しただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>180</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>118376</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>181</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>118680</PointerOffset>
+      <JapaneseText>%sは%sの
+スキルを習得しただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>182</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>118828</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>183</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>128188</PointerOffset>
+      <JapaneseText>クラースがいるので判定開始デス
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>184</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>128808</PointerOffset>
+      <JapaneseText>
+GLRへぼますたー
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>185</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>128912</PointerOffset>
+      <JapaneseText>
+FBSへぼますたー
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>186</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>129016</PointerOffset>
+      <JapaneseText>
+YSRへぼますたー
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>187</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>129120</PointerOffset>
+      <JapaneseText>
+FRBへぼますたー
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>188</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>129224</PointerOffset>
+      <JapaneseText>
+BGEへぼますたー
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>189</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>129328</PointerOffset>
+      <JapaneseText>
+JSTへぼますたー
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>190</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>132144</PointerOffset>
+      <JapaneseText>information</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>191</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>132160</PointerOffset>
+      <JapaneseText>この魔法陣から
+入口に戻ることができそうだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>192</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>132336</PointerOffset>
+      <JapaneseText>入口に……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>193</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>132352</PointerOffset>
+      <JapaneseText>戻る
+やめる　　　</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>194</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>135660</PointerOffset>
+      <JapaneseText>MUS_B003</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>195</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>135860</PointerOffset>
+      <JapaneseText>MUS_B004</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>196</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>136060</PointerOffset>
+      <JapaneseText>MUS_B004</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>197</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>136260</PointerOffset>
+      <JapaneseText>MUS_B004</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>198</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>136460</PointerOffset>
+      <JapaneseText>MUS_B004</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>199</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>136660</PointerOffset>
+      <JapaneseText>MUS_B004</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>200</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>136956</PointerOffset>
+      <JapaneseText>MUS_B004</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>201</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>137156</PointerOffset>
+      <JapaneseText>MUS_B004</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>202</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>137452</PointerOffset>
+      <JapaneseText>MUS_B004</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>203</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>137796</PointerOffset>
+      <JapaneseText>MUS_C003</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>204</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>138044</PointerOffset>
+      <JapaneseText>MUS_B004</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>205</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>138292</PointerOffset>
+      <JapaneseText>MUS_B004</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>206</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>138540</PointerOffset>
+      <JapaneseText>MUS_B004</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>207</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>138740</PointerOffset>
+      <JapaneseText>MUS_B004</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>208</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>138940</PointerOffset>
+      <JapaneseText>MUS_B009</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>209</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>139140</PointerOffset>
+      <JapaneseText>MUS_B005</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>210</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>139340</PointerOffset>
+      <JapaneseText>MUS_B009</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>211</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>139540</PointerOffset>
+      <JapaneseText>MUS_B009</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>212</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>139740</PointerOffset>
+      <JapaneseText>MUS_B009</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>213</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>139940</PointerOffset>
+      <JapaneseText>MUS_B009</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>214</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>140140</PointerOffset>
+      <JapaneseText>MUS_B009</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>215</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>140340</PointerOffset>
+      <JapaneseText>MUS_B003</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>216</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>140540</PointerOffset>
+      <JapaneseText>MUS_B003</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>217</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>140740</PointerOffset>
+      <JapaneseText>MUS_B005</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>218</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>140940</PointerOffset>
+      <JapaneseText>MUS_B006</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>219</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>141140</PointerOffset>
+      <JapaneseText>MUS_C003</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>220</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>141340</PointerOffset>
+      <JapaneseText>MUS_B007</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>221</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>141540</PointerOffset>
+      <JapaneseText>MUS_B008</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>222</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>141720</PointerOffset>
+      <JapaneseText>
+メインイベント終了処理開始！
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>223</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>150344</PointerOffset>
+      <JapaneseText>%sですよ
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>224</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>150508</PointerOffset>
+      <JapaneseText>パーティがいっぱいだったので
+%sは休憩所へ向かっただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>225</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>150676</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>226</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>150852</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>227</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>150868</PointerOffset>
+      <JapaneseText>魔物がいるところでは着替えらんねーかんな。
+安全な記憶陣でおらを呼ぶだよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>228</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>154860</PointerOffset>
+      <JapaneseText>
+くらーすいんぐま
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>229</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>158080</PointerOffset>
+      <JapaneseText>%s
+%s
+%sを
+戦闘メンバーに加えてください</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>230</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>158244</PointerOffset>
+      <JapaneseText>information</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>231</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>159936</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>232</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>159952</PointerOffset>
+      <JapaneseText>ハゲぼうずたちだけで戦ったから
+ショートカットの設定が外れちまっただ……
+戦う前には注意するべや〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>233</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>168680</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>234</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>168696</PointerOffset>
+      <JapaneseText>フリーパーティーシステムが開放されただ！
+今後は戦闘参加人数を２〜４人の間で自由に
+決めることができるでな。
+詳しくはバトルメモに書いてあっから
+よっく確認するだよ〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>235</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>171304</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>236</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>171320</PointerOffset>
+      <JapaneseText>システム
+『オーバーブレイブ』と
+『オーバーキル』が開放されただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>237</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>171828</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>238</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>171844</PointerOffset>
+      <JapaneseText>二人だけで戦ったから
+ショートカットの設定が外れちまっただ……
+戦う前には注意するべや〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>239</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>173532</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>240</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>173548</PointerOffset>
+      <JapaneseText>ハゲぼうず一人で戦ったせいで
+ショートカットの設定が外れちまっただ……
+戦う前には注意するべや〜</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>241</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>177540</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>242</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>177556</PointerOffset>
+      <JapaneseText>エレメンツポットと
+今まで集めた精霊晶核を
+失っただ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>243</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>182736</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>244</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>182752</PointerOffset>
+      <JapaneseText>火、水、地、土の
+精霊晶核を手に入れただ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>245</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>186192</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>246</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>186208</PointerOffset>
+      <JapaneseText>&lt;RND_P&gt;たんの装備は何もないから
+ちゃんとセットするだーよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>247</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>195868</PointerOffset>
+      <JapaneseText>%sを戦闘メンバーに加えてください</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>248</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>196000</PointerOffset>
+      <JapaneseText>information</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>249</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>199352</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>250</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>199368</PointerOffset>
+      <JapaneseText>おーい、はやる気持ちもわかるけんど、
+ちゃんと準備できてっか！？
+ヴァルハラとかのショップの売り物も
+新しくなっているみたいだーよ。
+この時代でちょっと寄り道して
+準備万端にするのもありだべ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>251</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>202048</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>252</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>202064</PointerOffset>
+      <JapaneseText>彼女の装備は何もないから
+ちゃんとセットするだーよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>253</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>211548</PointerOffset>
+      <JapaneseText>%sを戦闘メンバーに加えてください</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>254</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>211680</PointerOffset>
+      <JapaneseText>information</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>255</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>215528</PointerOffset>
+      <JapaneseText>%sが抜けました。
+隊列をセットしてください</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>256</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>215760</PointerOffset>
+      <JapaneseText>information</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>257</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>217352</PointerOffset>
+      <JapaneseText>%sが加わりました。
+隊列をセットしてください</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>258</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>217584</PointerOffset>
+      <JapaneseText>information</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>259</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>219516</PointerOffset>
+      <JapaneseText>＿SUB_END_PROC開始！！！
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>260</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>220340</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>261</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>220356</PointerOffset>
+      <JapaneseText>時空戦士の装備は何もないから
+ちゃんとセットするだーよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>262</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>220944</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>263</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>220960</PointerOffset>
+      <JapaneseText>時空戦士の装備は何もないから
+ちゃんとセットするだーよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>264</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>221596</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>265</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>221612</PointerOffset>
+      <JapaneseText>時空戦士の装備は何もないから
+ちゃんとセットするだーよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>266</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>222200</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>267</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>222216</PointerOffset>
+      <JapaneseText>時空戦士の装備は何もないから
+ちゃんとセットするだーよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>268</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>227164</PointerOffset>
+      <JapaneseText>information</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>269</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>227180</PointerOffset>
+      <JapaneseText>グーングニルの真の力が
+解放された！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>270</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>232956</PointerOffset>
+      <JapaneseText>information</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>271</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>232972</PointerOffset>
+      <JapaneseText>おにぎりのレシピを
+教えてもらった！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>272</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>233268</PointerOffset>
+      <JapaneseText>information</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>273</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>233284</PointerOffset>
+      <JapaneseText>教わったレシピの食材を
+３セットもらった！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>274</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>233804</PointerOffset>
+      <JapaneseText>information</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>275</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>233820</PointerOffset>
+      <JapaneseText>マーボーカレースープのレシピを
+教えてもらった！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>276</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>234272</PointerOffset>
+      <JapaneseText>information</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>277</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>234288</PointerOffset>
+      <JapaneseText>教わったレシピの食材を
+３セットもらった！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>278</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>234672</PointerOffset>
+      <JapaneseText>information</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>279</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>234688</PointerOffset>
+      <JapaneseText>マーボーカレーのレシピを
+教えてもらった！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>280</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>235140</PointerOffset>
+      <JapaneseText>information</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>281</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>235156</PointerOffset>
+      <JapaneseText>教わったレシピの食材を
+３セットもらった！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>282</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>248428</PointerOffset>
+      <JapaneseText>
+
+正解終了処理に入りました
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>283</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>248484</PointerOffset>
+      <JapaneseText>../sysdata/gust.gim</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>284</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>249516</PointerOffset>
+      <JapaneseText>information</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>285</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>249532</PointerOffset>
+      <JapaneseText>チーズINハンバーグのレシピを
+教えてもらった！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>286</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>249684</PointerOffset>
+      <JapaneseText>information</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>287</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>249700</PointerOffset>
+      <JapaneseText>チーズINハンバーグの材料も
+１セットもらった！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>288</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>250540</PointerOffset>
+      <JapaneseText>
+
+終了処理に入りました
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>289</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>252256</PointerOffset>
+      <JapaneseText>&lt;_CnvPTNo2EVNo&gt; Error: PTNo:%d は変換不可です
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>290</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>253932</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>291</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>253948</PointerOffset>
+      <JapaneseText>優勝賞品だべ
+
+アップルグミ　　x 6
+オレンジグミ　　x 6
+レモングミ　　　x 6
+パイングミ　　　x 6
+ミックスグミ　　x 6
+ミラクルグミ　　x 6
+クジグミ　　　　x 6</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>292</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>254548</PointerOffset>
+      <JapaneseText>
+
+ディオONです
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>293</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>254688</PointerOffset>
+      <JapaneseText>
+
+メルONです
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>294</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>254828</PointerOffset>
+      <JapaneseText>
+
+クルールONです
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>295</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>254968</PointerOffset>
+      <JapaneseText>
+
+ロディONです
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>296</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>255108</PointerOffset>
+      <JapaneseText>
+
+クレスONです
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>297</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>255248</PointerOffset>
+      <JapaneseText>
+
+ミントONです
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>298</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>255388</PointerOffset>
+      <JapaneseText>
+
+チェスターONです
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>299</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>255528</PointerOffset>
+      <JapaneseText>
+
+アーチェONです
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>300</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>255668</PointerOffset>
+      <JapaneseText>
+
+クラースONです
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>301</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>255808</PointerOffset>
+      <JapaneseText>
+
+すずONです
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>302</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>256124</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>303</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>256140</PointerOffset>
+      <JapaneseText>優勝賞品だべ
+
+ダークボトル　　　x 6
+ホーリィボトル　　x 6
+ライフボトル　　　x 6
+リキュールボトル　x 6
+カクテルボトル　　x 6
+パナシーアボトル　x 6
+キュアボトル　　　x 6
+ディネイボトル　　x 6</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>304</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>256292</PointerOffset>
+      <JapaneseText>アルベルト</JapaneseText>
+      <EnglishText>Albert</EnglishText>
+      <Notes/>
+      <Id>305</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>256308</PointerOffset>
+      <JapaneseText>優勝賞品だべ
+
+オールディバイド　x 6
+フレアボトル　　　x 6
+ハードボトル　　　x 6
+マジックボトル　　x 6
+レジストボトル　　x 6
+スピードボトル　　x 6
+スペルボトル　　　x 6
+スペシフィック　　x 6</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>306</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259092</PointerOffset>
+      <JapaneseText>EP_010_040</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>307</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259348</PointerOffset>
+      <JapaneseText>rDIO_EV</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>308</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259492</PointerOffset>
+      <JapaneseText>rMEL_EV</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>309</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259636</PointerOffset>
+      <JapaneseText>rETS</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>310</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>259768</PointerOffset>
+      <JapaneseText>rALB</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>311</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>261816</PointerOffset>
+      <JapaneseText>rDIO224</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>312</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262124</PointerOffset>
+      <JapaneseText>rDIO_EV</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>313</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>262284</PointerOffset>
+      <JapaneseText>rDIO067</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>314</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263084</PointerOffset>
+      <JapaneseText>rALB053</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>315</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263220</PointerOffset>
+      <JapaneseText>rDIO_EV</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>316</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263380</PointerOffset>
+      <JapaneseText>rDIO224</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>317</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263600</PointerOffset>
+      <JapaneseText>rALB052</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>318</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263672</PointerOffset>
+      <JapaneseText>rDIO_EV</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>319</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>263856</PointerOffset>
+      <JapaneseText>rALB</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>320</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264052</PointerOffset>
+      <JapaneseText>rMEL008</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>321</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264432</PointerOffset>
+      <JapaneseText>rMEL_EV</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>322</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264768</PointerOffset>
+      <JapaneseText>rDIO201</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>323</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>264888</PointerOffset>
+      <JapaneseText>rALB</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>324</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265008</PointerOffset>
+      <JapaneseText>rDIO_EV</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>325</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265168</PointerOffset>
+      <JapaneseText>rDIO216</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>326</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265448</PointerOffset>
+      <JapaneseText>rDIO_EV</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>327</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>265852</PointerOffset>
+      <JapaneseText>rMEL224</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>328</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266344</PointerOffset>
+      <JapaneseText>rMEL_EV</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>329</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266504</PointerOffset>
+      <JapaneseText>rMEL217</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>330</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266560</PointerOffset>
+      <JapaneseText>rDIO203</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>331</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>266748</PointerOffset>
+      <JapaneseText>rMEL_EV</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>332</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267048</PointerOffset>
+      <JapaneseText>rDIO224</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>333</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267468</PointerOffset>
+      <JapaneseText>rDIO_EV</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>334</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>267764</PointerOffset>
+      <JapaneseText>rDIO201</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>335</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>268332</PointerOffset>
+      <JapaneseText>rDIO_EV</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>336</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>269904</PointerOffset>
+      <JapaneseText>『なりきり士』の説明を聞きますか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>337</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>269920</PointerOffset>
+      <JapaneseText>はい
+いいえ　　　　　　　　　　　　　　</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>338</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>272576</PointerOffset>
+      <JapaneseText>rALB</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>339</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>273940</PointerOffset>
+      <JapaneseText>rALB068</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>340</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>274104</PointerOffset>
+      <JapaneseText>rDIO224</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>341</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>274160</PointerOffset>
+      <JapaneseText>rMEL224</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>342</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>274448</PointerOffset>
+      <JapaneseText>rDIO_EV</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>343</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>274504</PointerOffset>
+      <JapaneseText>rMEL_EV</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>344</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>274932</PointerOffset>
+      <JapaneseText>rDIO201</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>345</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>275364</PointerOffset>
+      <JapaneseText>rDIO_EV</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>346</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>277700</PointerOffset>
+      <JapaneseText>obj_m800_warp</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>347</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>278096</PointerOffset>
+      <JapaneseText>rNRN</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>348</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>278744</PointerOffset>
+      <JapaneseText>obj_m800_warp</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>349</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

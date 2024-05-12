@@ -1,0 +1,194 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset>37320,40944</PointerOffset>
+      <JapaneseText>&lt;CST&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37564,38252,38796,39308,41568</PointerOffset>
+      <JapaneseText>&lt;CLE&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37808,42076</PointerOffset>
+      <JapaneseText>&lt;DIO&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Story</Section>
+    <Entry>
+      <PointerOffset>37320</PointerOffset>
+      <VoiceId>&lt;VCT_002_062_001&gt;</VoiceId>
+      <JapaneseText>それにしても、いつから、誰がオレたちのこと
+『英雄』とか言い出したんだろうな</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <StructId>1</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>16</UnknownPointer>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37564</PointerOffset>
+      <VoiceId>&lt;VCT_002_062_002&gt;</VoiceId>
+      <JapaneseText>さぁ……&lt;KLA&gt;さんたちの時代でダオスを倒した
+時に僕たちは英雄って呼ばれたみたいだから……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <StructId>2</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer>19</UnknownPointer>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37808</PointerOffset>
+      <VoiceId>&lt;VCT_002_062_003&gt;</VoiceId>
+      <JapaneseText>じゃあ、&lt;KLA&gt;さんが
+広めたってことか？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <StructId>3</StructId>
+      <SpeakerId>3</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38252</PointerOffset>
+      <VoiceId>&lt;VCT_002_062_004&gt;</VoiceId>
+      <JapaneseText>誰が広めたにしても仰々しくて、
+少し戸惑う言葉だね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <StructId>4</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer>19</UnknownPointer>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38796</PointerOffset>
+      <VoiceId>&lt;VCT_002_062_005&gt;</VoiceId>
+      <JapaneseText>英雄なんて、
+やっぱり重荷だ……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <StructId>5</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer>19</UnknownPointer>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39308</PointerOffset>
+      <VoiceId>&lt;VCT_002_062_006&gt;</VoiceId>
+      <JapaneseText>英雄なんて、もうえーゆー（えーよ）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <StructId>6</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer>19</UnknownPointer>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40944</PointerOffset>
+      <VoiceId>&lt;VCT_002_062_007&gt;</VoiceId>
+      <JapaneseText>……おい、&lt;CLE&gt;、全部台無しだ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <StructId>7</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>16</UnknownPointer>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41568</PointerOffset>
+      <VoiceId>&lt;VCT_002_062_008&gt;</VoiceId>
+      <JapaneseText>何言ってるんだ、僕はこの重い空気を
+なんとかしたくて……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <StructId>8</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer>19</UnknownPointer>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42076</PointerOffset>
+      <VoiceId>&lt;VCT_002_062_009&gt;</VoiceId>
+      <JapaneseText>よけいに空気が重くなってる気がする……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <StructId>9</StructId>
+      <SpeakerId>3</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Other Strings</Section>
+    <Entry>
+      <PointerOffset>12684</PointerOffset>
+      <JapaneseText>
+【あなたのwTime設定は失敗致しました】
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33512</PointerOffset>
+      <JapaneseText>ERROR : chatWaitVoice(int vtime) が呼ばれる回数が多杉
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34140</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34324</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35564</PointerOffset>
+      <JapaneseText>sleep多すぎ %d フレーム減らせ！
+ </JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>
