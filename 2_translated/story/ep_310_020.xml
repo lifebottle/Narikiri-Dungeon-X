@@ -27,8 +27,10 @@
 ダオス様には会えぬ！</JapaneseText>
       <EnglishText>You will not reach Lord Dhaos! </EnglishText>
       <Notes/>
-      <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <StructId>1</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>53</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -37,8 +39,10 @@
       <JapaneseText>なんだと！？</JapaneseText>
       <EnglishText>What did you say!? </EnglishText>
       <Notes/>
-      <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <StructId>2</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -49,8 +53,10 @@
 ここで死ぬからだ！</JapaneseText>
       <EnglishText>Because this is where you die! </EnglishText>
       <Notes/>
-      <SpeakerId>1</SpeakerId>
       <Id>3</Id>
+      <StructId>3</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>53</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
   </Strings>

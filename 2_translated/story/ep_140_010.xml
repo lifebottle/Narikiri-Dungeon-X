@@ -21,8 +21,10 @@
       <EnglishText>Once we leave we won't return until the mission is 
 finished. Ready yourselves until then. </EnglishText>
       <Notes/>
-      <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <StructId>1</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>19</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -32,8 +34,10 @@ finished. Ready yourselves until then. </EnglishText>
 ゆっくり休むといいよ</JapaneseText>
       <EnglishText>All right! Let's scramble! Let's head to Valhalla village! </EnglishText>
       <Notes/>
-      <SpeakerId>1</SpeakerId>
       <Id>2</Id>
+      <StructId>1</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>19</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
   </Strings>
