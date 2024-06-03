@@ -42,8 +42,10 @@
       <JapaneseText>てな、具合かな</JapaneseText>
       <EnglishText>That's the gist of it. </EnglishText>
       <Notes/>
-      <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <StructId>1</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>16</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -52,8 +54,10 @@
       <JapaneseText>さて。それじゃ、行くか</JapaneseText>
       <EnglishText>Okay, let's get moving. </EnglishText>
       <Notes/>
-      <SpeakerId>1</SpeakerId>
       <Id>2</Id>
+      <StructId>2</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>16</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -62,8 +66,10 @@
       <JapaneseText>アミィって誰かな？</JapaneseText>
       <EnglishText>He said "Ami."..Who's that? </EnglishText>
       <Notes/>
-      <SpeakerId>2</SpeakerId>
       <Id>3</Id>
+      <StructId>3</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -72,8 +78,10 @@
       <JapaneseText>あ……</JapaneseText>
       <EnglishText>Err... </EnglishText>
       <Notes/>
-      <SpeakerId>3</SpeakerId>
       <Id>4</Id>
+      <StructId>4</StructId>
+      <SpeakerId>3</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -85,8 +93,10 @@
       <EnglishText>She was &lt;CST&gt;'s little sister. But during the war with 
 Dhaos she died... </EnglishText>
       <Notes/>
-      <SpeakerId>3</SpeakerId>
       <Id>5</Id>
+      <StructId>5</StructId>
+      <SpeakerId>3</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -95,8 +105,10 @@ Dhaos she died... </EnglishText>
       <JapaneseText>その子がアミィ？</JapaneseText>
       <EnglishText>Are you sure that child is the same Ami? </EnglishText>
       <Notes/>
-      <SpeakerId>4</SpeakerId>
       <Id>6</Id>
+      <StructId>6</StructId>
+      <SpeakerId>4</SpeakerId>
+      <UnknownPointer>24</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -106,8 +118,10 @@ Dhaos she died... </EnglishText>
 その子の名前で呼んで……</JapaneseText>
       <EnglishText>He called out her name when I was attacked... </EnglishText>
       <Notes/>
-      <SpeakerId>2</SpeakerId>
       <Id>7</Id>
+      <StructId>7</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
   </Strings>
