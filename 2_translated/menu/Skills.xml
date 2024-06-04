@@ -240,52 +240,55 @@ of increasing max HP by 1.</EnglishText>
       <PointerOffset>892,1012,772,2452,3532,3892,652,4972,3412,4732,5332,1732,2692,1852,4012,4852,5212,2812,3052,4132,2212,1612,1252,2092,4492,4372,3172,3652,3772,1492,2932,1132,4612,2572,5452,2332,1972,4252,5092,1372,3292</PointerOffset>
       <JapaneseText>通常技が＋１回余分に出せる。　
 通常技ヒット時に与えるダメージが少し増える</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Raises amount of normal attacks in a combo
+by 1. Small increase to normal attack damage.</EnglishText>
       <Notes/>
       <Id>4648</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1928,4688,848,4808,2888,4928,3368,3128,4208,4328,2168,2648,4088,3488,5288,1568,2408,1448,4448,2768,3848,3248,968,2528,608,728,5408,3968,1688,1808,3008,4568,5048,1208,3608,2048,1088,2288,5168,1328,3728</PointerOffset>
       <JapaneseText>アタックプラス１</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Add Combo 1</EnglishText>
       <Notes/>
       <Id>4649</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2808,2688,4008,2088,648,4368,3168,4488,4728,3888,2328,1968,4608,3408,4968,888,1128,3048,1488,3288,5448,1248,3528,1008,1728,5328,3768,768,2568,1608,5208,3648,2448,4848,2208,1848,4128,2928,5088,1368,4248</PointerOffset>
       <JapaneseText>アタックプラス２</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Add Combo 2</EnglishText>
       <Notes/>
       <Id>4650</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4212,3732,3972,4572,4092,4452,5412,2052,1452,3612,732,4692,3492,5052,5292,4932,5172,1812,2532,3372,2292,3012,2172,2772,1932,3852,1692,2412,3132,1332,3252,1572,4332,612,2652,972,2892,1212,852,1092,4812</PointerOffset>
       <JapaneseText>通常技が＋１回余分に出せる。　
 通常技ヒット時に増加するＥＢＧが少し増える</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Raises amount of normal attacks in a combo
+by 1. Small EBG boost with normal attacks.</EnglishText>
       <Notes/>
       <Id>4651</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1172,4652,5372,2732,1652,3452,5492,3572,1412,2132,4172,4772,4412,1052,3932,5012,2972,4292,692,932,5132,4892,3332,4532,4052,1892,1292,1532,2252,2372,3692,1772,2852,2492,3812,3092,2612,2012,3212,812,5252</PointerOffset>
       <JapaneseText>通常技が＋１回余分に出せる。　
 通常技ヒット時にクリティカルが発生し易くなる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Raises amount of normal attacks in a combo
+by 1. Critical hits chance increase with normal moves.</EnglishText>
       <Notes/>
       <Id>4652</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5128,4528,4288,2008,3808,5248,3208,2128,1768,2368,1528,2968,5008,2848,2488,1648,3328,2608,1168,1408,4648,808,1888,2248,4168,3088,4888,4768,4048,3448,4408,688,1288,1048,3568,2728,3688,928,3928,5488,5368</PointerOffset>
       <JapaneseText>アタックプラス３</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Add Combo 3</EnglishText>
       <Notes/>
       <Id>4653</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5528</PointerOffset>
@@ -307,26 +310,28 @@ of increasing max HP by 1.</EnglishText>
     <Entry>
       <PointerOffset>13528,12568,14488,8968,10888,14008,7288,6808,7048,8728,9448,14968,11128,14248,13768,11848,8488,5848,8008,8248,7528,6088,9688,11608,12808,6568,6328,9208,12088,14728,10648,10168,13048,11368,13288,12328,9928,10408,5608</PointerOffset>
       <JapaneseText>キャンセラー２</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ability Plus 2</EnglishText>
       <Notes/>
       <Id>4656</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7732</PointerOffset>
       <JapaneseText>戦闘終了時に、１０％の確率で取得ガルドが１０％増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>After a battle, there is a 10% chance of
+gaining 10% more gald.</EnglishText>
       <Notes/>
       <Id>4657</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7772</PointerOffset>
       <JapaneseText>戦闘終了時に、１０％の確率で取得ＣＰが１０％増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>After a battle, there is a 10% chance of
+gaining 10% CP.</EnglishText>
       <Notes/>
       <Id>4658</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7812</PointerOffset>
@@ -341,26 +346,26 @@ of a 10% increase in EXP earned.</EnglishText>
     <Entry>
       <PointerOffset>10928,12128,5648,11888,9728,13568,7088,13808,8768,10688,11648,14288,12848,11408,9488,13328,14048,8528,10448,11168,9248,5888,12608,14768,15008,9008,7328,6368,13088,14528,12368,10208,6128,6608,8288,7568,9968,6848,8048</PointerOffset>
       <JapaneseText>キャンセラー３</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ability Plus 2</EnglishText>
       <Notes/>
       <Id>4660</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8448,10368,14688,6768,12288,10608,7968,14208,9648,14928,10848,13728,6288,6528,14448,11808,11568,7008,13488,10128,13248,9888,11328,6048,12768,5808,5568,9408,8688,12528,11088,13968,13008,8928,7488,12048,9168,7248,8208</PointerOffset>
       <JapaneseText>キャンセラー１</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ability Plus 1</EnglishText>
       <Notes/>
       <Id>4661</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9568,13408,10768,7168,11248,12928,14368,14608,8128,6688,9808,7648,11968,10048,10528,11728,12448,11488,5728,13888,14848,7888,15088,12688,13648,6208,7408,13168,12208,10288,9088,14128,11008,6448,8608,8848,6928,8368,5968,9328</PointerOffset>
       <JapaneseText>キャンセラー５</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ability Plus 5</EnglishText>
       <Notes/>
       <Id>4662</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6012,8172,13372,11972,11372,11412,5932,11772,14492,6452,12692,14812,11812,15052,5732,8332,9292,9892,11212,8612,5812,6892,8492,12332,14612,7892,7932,11652,12172,13012,8652,10652,8132,5772,11092,9732,10092,6212,6052,12612,12972,9052,12092,10972,5612,7252,14932,9572,13492,13892,13972,14772,8292,13092,12812,11532,15012,8692,10892,14172,14692,15092,14092,11052,6372,12452,8732,9692,7612,5892,7652,10852,11852,14892,12412,6172,13292,14452,12252,6132,9092,9932,11692,6732,6332,12492,9612,12132,14012,6292,13452,6812,7012,8452,14372,9012,13652,14212,10252,5972,5852,9212,6252,10932,10212,5692,10012,12372,13812,6572,10772,11292,13252,7972,13572,13932,11132,14652,10692,12932,6532,10412,10732,12652,14332,11252,9412,14132,8412,11932,14532,13852,13332,8772,14292,9772,8852,14572,6932,11332,12012,6772,8972,7452,8252,9652,6612,5572,7132,13612,8892,14412,10372,6652,12292,12772,14732,11612,6852,9172,8532,10572,13692,14252,8932,10492,13052,12892,12572,10612,8092,10532,14052,9532,9492,11172,12732,7532,13212,13132,10292,10812,11012,12052,13732,6492,7492,7292,11892,12532,6412,10132,8372,11732,13412,9852,6692,9972,6092,14852,5652,7212,12852,7332,7372,11452,14972,7572,10052,6972,7172,9452,7052,9372,13532,8212,10332,11572,13172,7092,8012,8572,7692,9252,7412,10452,8052,13772,10172,11492,15132,12212,8812,9812,9132,9332</PointerOffset>
@@ -374,18 +379,18 @@ of a 10% increase in EXP earned.</EnglishText>
     <Entry>
       <PointerOffset>12968,11288,15128,6968,14168,14648,13928,11528,6728,13688,8888,9848,14408,13448,12728,5768,9128,8408,6008,10808,6248,7928,9608,7688,8648,13208,9368,12008,6488,8168,10568,11048,12488,7448,11768,14888,7208,10088,10328,12248</PointerOffset>
       <JapaneseText>キャンセラー６</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ability Plus 6</EnglishText>
       <Notes/>
       <Id>4664</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7368,12408,14808,7128,14568,11688,10248,12888,11448,9048,6408,8808,10488,10728,8568,11208,5928,8088,13368,14328,6888,9768,13128,6648,7608,13608,8328,5688,6168,9288,10008,11928,10968,15048,12648,13848,9528,12168,14088</PointerOffset>
       <JapaneseText>キャンセラー４</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ability Plus 4</EnglishText>
       <Notes/>
       <Id>4665</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>15168</PointerOffset>
