@@ -26,8 +26,10 @@
       <JapaneseText>待て！</JapaneseText>
       <EnglishText>Not so fast! </EnglishText>
       <Notes/>
-      <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <StructId>1</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -36,8 +38,10 @@
       <JapaneseText>くそっ……</JapaneseText>
       <EnglishText>Damn... </EnglishText>
       <Notes/>
-      <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <StructId>2</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer>140</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
   </Strings>

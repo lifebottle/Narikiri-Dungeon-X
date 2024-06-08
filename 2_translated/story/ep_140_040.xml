@@ -45,8 +45,10 @@
       <EnglishText>Our target is the revolt group situated in Valhalla 
 Village, Sigurd. </EnglishText>
       <Notes/>
-      <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <StructId>1</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>159</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -56,8 +58,10 @@ Village, Sigurd. </EnglishText>
 『ブレイナー』の捕獲だ</JapaneseText>
       <EnglishText>The mission is to seize their leader, Brynhildr. </EnglishText>
       <Notes/>
-      <SpeakerId>1</SpeakerId>
       <Id>2</Id>
+      <StructId>1</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>159</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -66,8 +70,10 @@ Village, Sigurd. </EnglishText>
       <JapaneseText>何か質問は？</JapaneseText>
       <EnglishText>Any questions? </EnglishText>
       <Notes/>
-      <SpeakerId>1</SpeakerId>
       <Id>3</Id>
+      <StructId>1</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>159</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -76,8 +82,10 @@ Village, Sigurd. </EnglishText>
       <JapaneseText>現在の戦況は？</JapaneseText>
       <EnglishText>What's the current status? </EnglishText>
       <Notes/>
-      <SpeakerId>2</SpeakerId>
       <Id>4</Id>
+      <StructId>2</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer>19</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -89,8 +97,10 @@ Village, Sigurd. </EnglishText>
       <EnglishText>The enemies' Magitech weapon has made this a difficult 
 battle. However, we have the upper hand. </EnglishText>
       <Notes/>
-      <SpeakerId>3</SpeakerId>
       <Id>5</Id>
+      <StructId>3</StructId>
+      <SpeakerId>3</SpeakerId>
+      <UnknownPointer>157</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -102,8 +112,10 @@ battle. However, we have the upper hand. </EnglishText>
       <EnglishText>The entrance is completely covered by a barricade. It's 
 only a matter of time until we can break through. </EnglishText>
       <Notes/>
-      <SpeakerId>3</SpeakerId>
       <Id>6</Id>
+      <StructId>3</StructId>
+      <SpeakerId>3</SpeakerId>
+      <UnknownPointer>157</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -113,8 +125,10 @@ only a matter of time until we can break through. </EnglishText>
 一気にたたみこむぞ</JapaneseText>
       <EnglishText>As soon as you're told, you will land attack directly. </EnglishText>
       <Notes/>
-      <SpeakerId>1</SpeakerId>
       <Id>7</Id>
+      <StructId>4</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>159</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -123,8 +137,10 @@ only a matter of time until we can break through. </EnglishText>
       <JapaneseText>&lt;CLE&gt;様、お願いします</JapaneseText>
       <EnglishText>Sir &lt;CLE&gt;, we'll rely on your support. </EnglishText>
       <Notes/>
-      <SpeakerId>1</SpeakerId>
       <Id>8</Id>
+      <StructId>4</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>159</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -133,8 +149,10 @@ only a matter of time until we can break through. </EnglishText>
       <JapaneseText>ああ</JapaneseText>
       <EnglishText>Roger! </EnglishText>
       <Notes/>
-      <SpeakerId>2</SpeakerId>
       <Id>9</Id>
+      <StructId>5</StructId>
+      <SpeakerId>2</SpeakerId>
+      <UnknownPointer>19</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -143,8 +161,10 @@ only a matter of time until we can break through. </EnglishText>
       <JapaneseText>ご報告します！</JapaneseText>
       <EnglishText>Reporting, sir! </EnglishText>
       <Notes/>
-      <SpeakerId>4</SpeakerId>
       <Id>10</Id>
+      <StructId>6</StructId>
+      <SpeakerId>4</SpeakerId>
+      <UnknownPointer>170</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -155,8 +175,10 @@ only a matter of time until we can break through. </EnglishText>
 突破しました！</JapaneseText>
       <EnglishText>The barricade surrounding the city has been broken down! </EnglishText>
       <Notes/>
-      <SpeakerId>4</SpeakerId>
       <Id>11</Id>
+      <StructId>6</StructId>
+      <SpeakerId>4</SpeakerId>
+      <UnknownPointer>170</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -167,8 +189,10 @@ only a matter of time until we can break through. </EnglishText>
       <EnglishText>All right! Every unit march into the city! All troops, on 
 the move! </EnglishText>
       <Notes/>
-      <SpeakerId>1</SpeakerId>
       <Id>12</Id>
+      <StructId>7</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>159</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
   </Strings>

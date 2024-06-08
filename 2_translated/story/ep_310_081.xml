@@ -18,8 +18,10 @@
       <JapaneseText>まだ分からないのかっ！</JapaneseText>
       <EnglishText>You still fail to understand...! </EnglishText>
       <Notes/>
-      <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <StructId>1</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>21</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -28,8 +30,10 @@
       <JapaneseText>はぁぁぁぁぁっ！</JapaneseText>
       <EnglishText>Haaah! </EnglishText>
       <Notes/>
-      <SpeakerId>1</SpeakerId>
       <Id>2</Id>
+      <StructId>2</StructId>
+      <SpeakerId>1</SpeakerId>
+      <UnknownPointer>21</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
   </Strings>
