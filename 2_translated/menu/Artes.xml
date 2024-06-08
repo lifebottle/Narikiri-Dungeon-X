@@ -2900,7 +2900,7 @@ instantaneously cut through the enemy.</EnglishText>
       <PointerOffset>6700</PointerOffset>
       <JapaneseText>（ホウオウテンショウキャク）奥義
 鳳凰天駆と飛燕連脚を組み合わせた奥義</JapaneseText>
-      <EnglishText>Rising Pheonix + Swallow Dance</EnglishText>
+      <EnglishText>Rising Phoenix + Swallow Dance</EnglishText>
       <Notes/>
       <Id>924</Id>
       <Status>Editing</Status>
@@ -2917,7 +2917,7 @@ instantaneously cut through the enemy.</EnglishText>
       <PointerOffset>6732</PointerOffset>
       <JapaneseText>（ホウオウショウハザン）奥義
 鳳凰天駆と虎牙破斬を組み合わせた奥義</JapaneseText>
-      <EnglishText>Rising Pheonix + Tiger Bade</EnglishText>
+      <EnglishText>Rising Phoenix + Tiger Blade</EnglishText>
       <Notes/>
       <Id>926</Id>
       <Status>Editing</Status>
@@ -2934,7 +2934,7 @@ instantaneously cut through the enemy.</EnglishText>
       <PointerOffset>6764</PointerOffset>
       <JapaneseText>（ホウオウセンレツハ）奥義
 鳳凰天駆と秋沙雨を組み合わせた奥義</JapaneseText>
-      <EnglishText>Rising Pheonix + Sword Rain</EnglishText>
+      <EnglishText>Rising Phoenix + Sword Rain</EnglishText>
       <Notes/>
       <Id>928</Id>
       <Status>Editing</Status>
@@ -2951,7 +2951,7 @@ instantaneously cut through the enemy.</EnglishText>
       <PointerOffset>6796</PointerOffset>
       <JapaneseText>（ホウオウテンクウハ）奥義
 鳳凰天駆と閃空裂破を組み合わせた奥義</JapaneseText>
-      <EnglishText>Rising Pheonix + Light Spear</EnglishText>
+      <EnglishText>Rising Phoenix + Light Spear</EnglishText>
       <Notes/>
       <Id>930</Id>
       <Status>Editing</Status>
@@ -3030,8 +3030,8 @@ just as the arrow hits.</EnglishText>
       <PointerOffset>6988</PointerOffset>
       <JapaneseText>（ショウハ）特技
 地上へ向けて矢を放ち、地を抉る弓技</JapaneseText>
-      <EnglishText>Fire an arrow that
-flies like an eagle hunting prey.</EnglishText>
+      <EnglishText>Base: Fire an arrow that flies like
+an eagle hunting prey.</EnglishText>
       <Notes/>
       <Id>939</Id>
       <Status>Editing</Status>
@@ -3057,7 +3057,7 @@ flies like an eagle hunting prey.</EnglishText>
       <PointerOffset>7052</PointerOffset>
       <JapaneseText>（シュウウ）特技
 空より地上を薙ぐように弧を描く矢を放つ弓技</JapaneseText>
-      <EnglishText>An arrow strikes the ground
+      <EnglishText>Base: An arrow strikes the ground,
 sending up a shower of stones.</EnglishText>
       <Notes/>
       <Id>942</Id>
@@ -3075,10 +3075,10 @@ sending up a shower of stones.</EnglishText>
       <PointerOffset>7084</PointerOffset>
       <JapaneseText>（ハヤテ）特技
 矢を素早く連続で射る弓技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Fire arrows in quick succession.</EnglishText>
       <Notes/>
       <Id>944</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7112</PointerOffset>
@@ -3109,7 +3109,7 @@ sending up a shower of stones.</EnglishText>
       <PointerOffset>7148</PointerOffset>
       <JapaneseText>（トリュウ）奥義
 敵に命中するとはじけて分裂する特殊な弾を撃ち出す弓技</JapaneseText>
-      <EnglishText>Simultaneously fire one arrow straight
+      <EnglishText>Arcane: Simultaneously fire one arrow straight
 at the enemy with four other guided arrows.</EnglishText>
       <Notes/>
       <Id>948</Id>
@@ -3127,10 +3127,11 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>7180</PointerOffset>
       <JapaneseText>（エンセンガ）特技
 手元で短剣を回転させ、敵を斬り刻む双剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Slash the enemy with a spinning
+dagger by twirling it in one's hand.</EnglishText>
       <Notes/>
       <Id>950</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7208</PointerOffset>
@@ -3144,7 +3145,7 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>7212</PointerOffset>
       <JapaneseText>特技　追加技『燕閃牙』
 伸びる刃で敵を絡めとり、手元に引き寄せる双剣技</JapaneseText>
-      <EnglishText>Additional Arte: "Shining Fang"
+      <EnglishText>Base: Extends into Shining Fang.
 伸びる刃で敵を絡めとり、手元に引き寄せる双剣技</EnglishText>
       <Notes/>
       <Id>952</Id>
@@ -3180,10 +3181,11 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>7276</PointerOffset>
       <JapaneseText>（テンショウヨク）特技
 短剣を素早く抜き放ち、旋風を巻き起こす双剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: A dual-sword arte that creates a
+whirlwind by quickly unsheathing a dagger.</EnglishText>
       <Notes/>
       <Id>956</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7304</PointerOffset>
@@ -3197,7 +3199,7 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>7308</PointerOffset>
       <JapaneseText>特技　追加技『天翔翼』
 伸ばした刃で地面を抉り、衝撃を起こす双剣技</JapaneseText>
-      <EnglishText>Additional Arte:  "Tenshouyoku"
+      <EnglishText>Base: Extends into Phoenix Strike.
 伸ばした刃で地面を抉り、衝撃を起こす双剣技</EnglishText>
       <Notes/>
       <Id>958</Id>
@@ -3283,7 +3285,7 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>7468</PointerOffset>
       <JapaneseText>（レンジンエンショウケン）奥義　追加技『バックスティンガー』
 闇に溶け込み、踊るように幾度も斬り裂く双剣技</JapaneseText>
-      <EnglishText>（レンジンエンショウケン）Additional Arte:  "Back Stinger"
+      <EnglishText>Additional Arte:  "Back Stinger"
 闇に溶け込み、踊るように幾度も斬り裂く双剣技</EnglishText>
       <Notes/>
       <Id>968</Id>
