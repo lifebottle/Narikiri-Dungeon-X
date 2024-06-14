@@ -1873,8 +1873,8 @@ Attack the enemy with a series of Artes.</EnglishText>
       <PointerOffset>4268</PointerOffset>
       <JapaneseText>（コウハジン）特技
 斬撃とそこから生じる熱波で攻撃する剣技</JapaneseText>
-      <EnglishText>Swing your flame imbued blade and burn your
-foes to ashes.</EnglishText>
+      <EnglishText>Base: Swing your flame imbued blade and
+burn your foes to ashes.</EnglishText>
       <Notes/>
       <Id>807</Id>
       <Status>Editing</Status>
@@ -1918,8 +1918,8 @@ foes to ashes.</EnglishText>
       <PointerOffset>4396</PointerOffset>
       <JapaneseText>（チリシグレ）特技
 しとどに降る雨の如く、素早く連続で斬る剣技</JapaneseText>
-      <EnglishText>(Chirishigure) Swing your sword with rapid
-succession, like rain.</EnglishText>
+      <EnglishText>Base: Swing your sword in rapid succession,
+like a downpour of rain.</EnglishText>
       <Notes/>
       <Id>812</Id>
       <Status>Editing</Status>
@@ -1928,10 +1928,10 @@ succession, like rain.</EnglishText>
       <PointerOffset>4428</PointerOffset>
       <JapaneseText>（コランシュウ）特技ＬＶ１
 上空より敵を打ち下ろす技</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Base LV1: An arte that sends</EnglishText>
+      <Notes>Used for Ravagin Tiger</Notes>
       <Id>813</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4460</PointerOffset>
@@ -1945,7 +1945,7 @@ succession, like rain.</EnglishText>
     <Entry>
       <PointerOffset>4488</PointerOffset>
       <JapaneseText>虎乱襲</JapaneseText>
-      <EnglishText>Tiger Strike</EnglishText>
+      <EnglishText>Ravaging Tiger</EnglishText>
       <Notes/>
       <Id>815</Id>
       <Status>Editing</Status>
@@ -1954,10 +1954,11 @@ succession, like rain.</EnglishText>
       <PointerOffset>4492</PointerOffset>
       <JapaneseText>（コランシュウ）特技
 斬り上げて上空より敵を蹴り落とす剣技</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Base: Slash the enemy up into the sky
+before kicking them back down.</EnglishText>
+      <Notes>Need to watch how the arte plays out</Notes>
       <Id>816</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>4520</PointerOffset>
@@ -1971,8 +1972,8 @@ succession, like rain.</EnglishText>
       <PointerOffset>4524</PointerOffset>
       <JapaneseText>（ランコ・コウハシュウ）特技
 流れるような上下段の連続斬りを繰り出す剣技</JapaneseText>
-      <EnglishText>A flowing sequence of rising up-down slash
-attacks.</EnglishText>
+      <EnglishText>Base: A flowing sequence of rising up-down
+slash attacks.</EnglishText>
       <Notes/>
       <Id>818</Id>
       <Status>Editing</Status>
@@ -1980,10 +1981,10 @@ attacks.</EnglishText>
     <Entry>
       <PointerOffset>5832,18152,4552</PointerOffset>
       <JapaneseText>虎牙破斬</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Tiger Blade</EnglishText>
       <Notes/>
       <Id>819</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4584</PointerOffset>
@@ -1997,7 +1998,7 @@ attacks.</EnglishText>
       <PointerOffset>4588</PointerOffset>
       <JapaneseText>（ジュウハ・ソウガショウ）奥義
 流れるような上下段の多段斬りを繰り出す剣技</JapaneseText>
-      <EnglishText>Repeatedly attack with flowing up-down combos,
+      <EnglishText>Arcane: Repeatedly attack with flowing up-down combos,
 finishing by knocking the enemy into the air.</EnglishText>
       <Notes/>
       <Id>821</Id>
@@ -2033,8 +2034,8 @@ finishing by knocking the enemy into the air.</EnglishText>
       <PointerOffset>4684</PointerOffset>
       <JapaneseText>（ソウガザン）特技
 斬り下ろし、斬り上げと流れるように繋ぐ剣技</JapaneseText>
-      <EnglishText>(Fang Blade) Slash the enemy down,
-then up into the air.</EnglishText>
+      <EnglishText>Base: Slash the enemy down, then up into
+the air.</EnglishText>
       <Notes/>
       <Id>825</Id>
       <Status>Editing</Status>
@@ -2043,19 +2044,21 @@ then up into the air.</EnglishText>
       <PointerOffset>4716</PointerOffset>
       <JapaneseText>（シュンジンケン）特技ＬＶ１
 瞬速で敵に突きを打ち込む剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV1: Thrust your sword at the enemy
+in an instant.</EnglishText>
       <Notes/>
       <Id>826</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4748</PointerOffset>
       <JapaneseText>（シュンジンケン）特技ＬＶ２
 瞬速で敵に突きを打ち込む剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV2: Thrust your sword at the enemy
+in an instant.</EnglishText>
       <Notes/>
       <Id>827</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4776</PointerOffset>
@@ -2069,8 +2072,8 @@ then up into the air.</EnglishText>
       <PointerOffset>4780</PointerOffset>
       <JapaneseText>（シュンジンケン）特技　追加技『瞬迅回帰』
 瞬速で敵に突きを打ち込む剣技</JapaneseText>
-      <EnglishText>（Shunjinken）Extend Effect: A second thrust.
-A strong thrust that blows the enemy back.</EnglishText>
+      <EnglishText>Base: Thrust your sword at the enemy in
+an instant. Extends to Sonic Return.</EnglishText>
       <Notes/>
       <Id>829</Id>
       <Status>Editing</Status>
@@ -2079,10 +2082,10 @@ A strong thrust that blows the enemy back.</EnglishText>
       <PointerOffset>4812</PointerOffset>
       <JapaneseText>（クウショウザン）特技ＬＶ１
 素早く上空より斬り落とす剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV1: Quickly slash down from the sky.</EnglishText>
       <Notes/>
       <Id>830</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4840</PointerOffset>
@@ -3156,8 +3159,8 @@ dagger by twirling it in one's hand.</EnglishText>
       <PointerOffset>7212</PointerOffset>
       <JapaneseText>特技　追加技『燕閃牙』
 伸びる刃で敵を絡めとり、手元に引き寄せる双剣技</JapaneseText>
-      <EnglishText>Base: Extends into Shining Fang.
-伸びる刃で敵を絡めとり、手元に引き寄せる双剣技</EnglishText>
+      <EnglishText>Base: Ensare foes with your whip-sword and
+draw them in. Extends to Shining Fang.</EnglishText>
       <Notes/>
       <Id>952</Id>
       <Status>Editing</Status>
@@ -3174,8 +3177,8 @@ dagger by twirling it in one's hand.</EnglishText>
       <PointerOffset>7244</PointerOffset>
       <JapaneseText>特技　追加技『虹天疾駆』
 投げた短剣で虹の軌跡を生み出す投擲術</JapaneseText>
-      <EnglishText>Additional Arte: "Koutenshikku"
-投げた短剣で虹の軌跡を生み出す投擲術</EnglishText>
+      <EnglishText>Base: Throw a dagger that leaves a
+rainbow trail. Extends to Rainbow Ascension.</EnglishText>
       <Notes/>
       <Id>954</Id>
       <Status>Editing</Status>
@@ -3210,8 +3213,8 @@ whirlwind by quickly unsheathing a dagger.</EnglishText>
       <PointerOffset>7308</PointerOffset>
       <JapaneseText>特技　追加技『天翔翼』
 伸ばした刃で地面を抉り、衝撃を起こす双剣技</JapaneseText>
-      <EnglishText>Base: Extends into Phoenix Strike.
-伸ばした刃で地面を抉り、衝撃を起こす双剣技</EnglishText>
+      <EnglishText>Base: Slash the ground to cause an
+explosion. Extends into Phoenix Strike.</EnglishText>
       <Notes/>
       <Id>958</Id>
       <Status>Editing</Status>
@@ -3228,16 +3231,17 @@ whirlwind by quickly unsheathing a dagger.</EnglishText>
       <PointerOffset>7340</PointerOffset>
       <JapaneseText>（ツバメガエシ）特技
 敵を斜めに斬り抜け、背後から斬り返す双剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Slash the enemy diagonally before
+slashing back from behind them.</EnglishText>
       <Notes/>
       <Id>960</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7368</PointerOffset>
       <JapaneseText>連波女返し</JapaneseText>
       <EnglishText>Tsubame Gaeshi</EnglishText>
-      <Notes/>
+      <Notes>May need to retranslate to indicate it's not the real Tsubame Gaeshi, but rather a pun on words. Maybe Subame Gaeshi or Tsuvame Gaeshi since the "Tsubame" part is the pun. Read the aselia wikia for details.</Notes>
       <Id>961</Id>
       <Status>Editing</Status>
     </Entry>
@@ -3245,10 +3249,11 @@ whirlwind by quickly unsheathing a dagger.</EnglishText>
       <PointerOffset>7372</PointerOffset>
       <JapaneseText>（ツバメガエシ）特技
 敵の攻撃を避け、間髪入れず蹴り上げる体技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Take a step back to avoid incoming
+attacks before kicking the enemy.</EnglishText>
       <Notes/>
       <Id>962</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7400</PointerOffset>
@@ -3262,15 +3267,16 @@ whirlwind by quickly unsheathing a dagger.</EnglishText>
       <PointerOffset>7404</PointerOffset>
       <JapaneseText>（エンテンシン）特技
 残像を残して敵を斬り裂き、返す刃で斬り戻る双剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Slash through the enemy that you
+leave an afterimage, then slash back.</EnglishText>
       <Notes/>
       <Id>964</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7432</PointerOffset>
       <JapaneseText>封翼爪</JapaneseText>
-      <EnglishText>Pinion Seal</EnglishText>
+      <EnglishText>Sealing Hook</EnglishText>
       <Notes/>
       <Id>965</Id>
       <Status>Editing</Status>
@@ -3279,10 +3285,11 @@ whirlwind by quickly unsheathing a dagger.</EnglishText>
       <PointerOffset>7436</PointerOffset>
       <JapaneseText>（ホウヨクソウ）特技
 空中より刃を伸ばして突き下ろし、電撃を流す双剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Throw your sword diagonally from
+the air and create an electric shock from it.</EnglishText>
       <Notes/>
       <Id>966</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7464</PointerOffset>
@@ -3296,8 +3303,8 @@ whirlwind by quickly unsheathing a dagger.</EnglishText>
       <PointerOffset>7468</PointerOffset>
       <JapaneseText>（レンジンエンショウケン）奥義　追加技『バックスティンガー』
 闇に溶け込み、踊るように幾度も斬り裂く双剣技</JapaneseText>
-      <EnglishText>Additional Arte:  "Back Stinger"
-闇に溶け込み、踊るように幾度も斬り裂く双剣技</EnglishText>
+      <EnglishText>Arcane: Disappear into the dark and slash
+over and over. Extends to Back Stinger.</EnglishText>
       <Notes/>
       <Id>968</Id>
       <Status>Editing</Status>
@@ -3314,27 +3321,29 @@ whirlwind by quickly unsheathing a dagger.</EnglishText>
       <PointerOffset>7500</PointerOffset>
       <JapaneseText>（ヒエンザンクウキャク）奥義
 鋭く二段蹴りを放ち、真空の刃を十文字に飛ばす体技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Carve an X-shaped blade of wind
+with a kick and a slash and send it flying.</EnglishText>
       <Notes/>
       <Id>970</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4872,7528</PointerOffset>
       <JapaneseText>空翔斬</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Soaring Strike</EnglishText>
+      <Notes>Also localized as Featherfall</Notes>
       <Id>971</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4876,7532</PointerOffset>
       <JapaneseText>（クウショウザン）特技　追加技『空翔烈風』
 素早く上空より斬り落とす剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Quickly slash down from the sky.
+Extends to Skysoar Slash.</EnglishText>
       <Notes/>
       <Id>972</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5544,7560</PointerOffset>
@@ -3348,16 +3357,17 @@ whirlwind by quickly unsheathing a dagger.</EnglishText>
       <PointerOffset>5548,7564</PointerOffset>
       <JapaneseText>（カゲロウ）特技
 瞬時に敵の頭上へ移動し、垂直に斬り落とす剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Instantly move above the enemy and
+slash them down.</EnglishText>
       <Notes/>
       <Id>974</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7592</PointerOffset>
       <JapaneseText>飛連斬</JapaneseText>
-      <EnglishText>Swallow Blade</EnglishText>
-      <Notes/>
+      <EnglishText>Dreadfall</EnglishText>
+      <Notes>Potentially Swallow Blade</Notes>
       <Id>975</Id>
       <Status>Editing</Status>
     </Entry>
@@ -3365,11 +3375,11 @@ whirlwind by quickly unsheathing a dagger.</EnglishText>
       <PointerOffset>7596</PointerOffset>
       <JapaneseText>（ヒレンザン）特技　追加技『飛連双閃』
 斬りつけた後、斬り上げる忍術</JapaneseText>
-      <EnglishText>（ヒレンザン）Additional Arte: 『飛連双閃』
-斬りつけた後、斬り上げる忍術</EnglishText>
-      <Notes/>
+      <EnglishText>A ninjutsu arte that slashes down then up.
+Extends into Dreadchain.</EnglishText>
+      <Notes>May need to revise extension arte - based off Judas' arte Dreadfall and Hirensousen</Notes>
       <Id>976</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>5228,7628</PointerOffset>
@@ -3409,7 +3419,7 @@ whirlwind by quickly unsheathing a dagger.</EnglishText>
     <Entry>
       <PointerOffset>5608,7720</PointerOffset>
       <JapaneseText>絶影</JapaneseText>
-      <EnglishText>Shadow Drop</EnglishText>
+      <EnglishText>Dark Projection</EnglishText>
       <Notes/>
       <Id>981</Id>
       <Status>Editing</Status>
@@ -3417,10 +3427,10 @@ whirlwind by quickly unsheathing a dagger.</EnglishText>
     <Entry>
       <PointerOffset>15176,14088,7752</PointerOffset>
       <JapaneseText>裂駆槍</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Skewering Spear</EnglishText>
       <Notes/>
       <Id>982</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>15180,7756</PointerOffset>
@@ -3434,10 +3444,10 @@ whirlwind by quickly unsheathing a dagger.</EnglishText>
     <Entry>
       <PointerOffset>8904,7784</PointerOffset>
       <JapaneseText>鎌鼬</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Omega Storm</EnglishText>
       <Notes/>
       <Id>984</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8908,7788</PointerOffset>
@@ -4656,7 +4666,7 @@ a shockwave.</EnglishText>
       <PointerOffset>10860</PointerOffset>
       <JapaneseText>（チリヒサメ）特技
 冷気を纏った剣身で素早く何度も突き刺し、凍傷を与える剣技</JapaneseText>
-      <EnglishText>(Chirihisame) Stab the enemy numerous times,
+      <EnglishText>Base: Stab the enemy numerous times,
 finishing with a single ice cold stab.</EnglishText>
       <Notes/>
       <Id>1127</Id>
@@ -4784,7 +4794,7 @@ finishing with a single ice cold stab.</EnglishText>
       <PointerOffset>11180</PointerOffset>
       <JapaneseText>（フウジンケン）特技　追加技『風迅裂昇』
 重心を低くとり、敵を鋭く突き刺す突進剣技</JapaneseText>
-      <EnglishText>(Fuujinken) Stab the enemy, creating a small
+      <EnglishText>Base: Stab the enemy, creating a small
 hurricane. Extend: Add's upward slash.</EnglishText>
       <Notes/>
       <Id>1142</Id>
@@ -12332,19 +12342,20 @@ Extend Effect: Increase stun duration.</EnglishText>
     <Entry>
       <PointerOffset>45032,39784</PointerOffset>
       <JapaneseText>バリアー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Barrier</EnglishText>
       <Notes/>
       <Id>2014</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45036,39788</PointerOffset>
       <JapaneseText>味方一人の物理防御力を３０秒間１００％上昇させる
 エクステンドスペル効果：持続時間が６０秒に増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Increase an ally's P. DEF by 100% for 30
+seconds. Extend Effect: Increase duration to 60 seconds.</EnglishText>
       <Notes/>
       <Id>2015</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45164,39820</PointerOffset>
@@ -12367,7 +12378,7 @@ Extend Effect: Increase stun duration.</EnglishText>
       <PointerOffset>39852</PointerOffset>
       <JapaneseText>味方一人の敏捷を一定時間３０増加させる
 エクステンドスペル効果：持続時間が倍になる</JapaneseText>
-      <EnglishText>Increase ally's Agility for 30 seconds.
+      <EnglishText>Increase an ally's Agility for 30 seconds.
 Extend Effect: Increase duration to 60 seconds.</EnglishText>
       <Notes/>
       <Id>2018</Id>
