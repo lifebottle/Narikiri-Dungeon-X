@@ -3006,17 +3006,17 @@ then swing it down with a lightning bolt.</EnglishText>
       <PointerOffset>6892</PointerOffset>
       <JapaneseText>（グレン）特技
 炎を纏った矢で射撃を行う弓技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Fire an arrow imbued with fire.</EnglishText>
       <Notes/>
       <Id>935</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6924</PointerOffset>
       <JapaneseText>（トウガ）特技　効果：麻痺
 冷気を纏った矢で射撃を行う弓技</JapaneseText>
-      <EnglishText>Base: Shoot an arrow imbued with the
-power of ice. Can inflict paralysis.</EnglishText>
+      <EnglishText>Base: Fire an arrow imbued with the
+power of ice. Effect: Paralysis.</EnglishText>
       <Notes/>
       <Id>936</Id>
       <Status>Editing</Status>
@@ -3033,8 +3033,8 @@ power of ice. Can inflict paralysis.</EnglishText>
       <PointerOffset>6956</PointerOffset>
       <JapaneseText>（ゴウテン）特技
 落雷を発生させる矢を空へ向けて撃ち出す弓技</JapaneseText>
-      <EnglishText>Base: Lightning strikes the enemy
-just as the arrow hits.</EnglishText>
+      <EnglishText>Base: Fire an arrow that will strike the
+enemy with lightning upon impact.</EnglishText>
       <Notes/>
       <Id>938</Id>
       <Status>Editing</Status>
@@ -3053,10 +3053,11 @@ an eagle hunting prey.</EnglishText>
       <PointerOffset>7020</PointerOffset>
       <JapaneseText>（シンテン）特技　効果：気絶
 複数の矢を空へ向けて放ち、広範囲の敵の頭上に降らせる弓技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Fire multiple arrows into the sky that
+rain down on foes. Effect: Stun.</EnglishText>
       <Notes/>
       <Id>940</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7048</PointerOffset>
@@ -3070,8 +3071,8 @@ an eagle hunting prey.</EnglishText>
       <PointerOffset>7052</PointerOffset>
       <JapaneseText>（シュウウ）特技
 空より地上を薙ぐように弧を描く矢を放つ弓技</JapaneseText>
-      <EnglishText>Base: An arrow strikes the ground,
-sending up a shower of stones.</EnglishText>
+      <EnglishText>Base: Fire an arc of arrows from midair
+that sweeps over the ground.</EnglishText>
       <Notes/>
       <Id>942</Id>
       <Status>Editing</Status>
@@ -3106,7 +3107,7 @@ sending up a shower of stones.</EnglishText>
       <JapaneseText>（タイガ）奥義
 力を込めた矢を水平に高速で撃ち出す弓技</JapaneseText>
       <EnglishText>Arcane: Fire an arrow horizontally at a
-high speed.</EnglishText>
+high speed and force.</EnglishText>
       <Notes/>
       <Id>946</Id>
       <Status>Editing</Status>
@@ -3394,10 +3395,11 @@ Extends into Dreadchain.</EnglishText>
       <PointerOffset>5420,7660</PointerOffset>
       <JapaneseText>（ロウエイガ）特技
 黒き闇を纏わせた剣で二度斬り抜ける剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Slash twice with a sword imbued
+with darkness.</EnglishText>
       <Notes/>
       <Id>978</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7688</PointerOffset>
@@ -3453,15 +3455,16 @@ Extends into Dreadchain.</EnglishText>
       <PointerOffset>8908,7788</PointerOffset>
       <JapaneseText>（カマイタチ）特技
 真空波を起こして敵を切り刻む忍術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Create a vacuum wave to slice up
+your enemies.</EnglishText>
       <Notes/>
       <Id>985</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7848</PointerOffset>
       <JapaneseText>夢幻刃</JapaneseText>
-      <EnglishText>Mugenjin</EnglishText>
+      <EnglishText>Phantom Assault</EnglishText>
       <Notes/>
       <Id>986</Id>
       <Status>Editing</Status>
@@ -3470,8 +3473,8 @@ Extends into Dreadchain.</EnglishText>
       <PointerOffset>7852</PointerOffset>
       <JapaneseText>（ムゲンジン）特技　追加技『夢幻抱擁』
 様々な角度から何度も敵に斬りかかる忍術</JapaneseText>
-      <EnglishText>（ムゲンジン）Additional Arte: 『夢幻抱擁』
-様々な角度から何度も敵に斬りかかる忍術</EnglishText>
+      <EnglishText>Base: Ninjutsu that slashes the foe from all
+directions. Extends to Phantom Embrace.</EnglishText>
       <Notes/>
       <Id>987</Id>
       <Status>Editing</Status>
@@ -3712,7 +3715,7 @@ Extends into Dreadchain.</EnglishText>
     <Entry>
       <PointerOffset>8360</PointerOffset>
       <JapaneseText>フォール・ザ・サン</JapaneseText>
-      <EnglishText>The Sun Falls</EnglishText>
+      <EnglishText>Sun Fall</EnglishText>
       <Notes/>
       <Id>1015</Id>
       <Status>Editing</Status>
@@ -3721,27 +3724,29 @@ Extends into Dreadchain.</EnglishText>
       <PointerOffset>8364</PointerOffset>
       <JapaneseText>特技
 キュートな外見に似合わない超重量で落下する危ない技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Drop a super heavy weight that
+does not match its cute appearance.</EnglishText>
       <Notes/>
       <Id>1016</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8392</PointerOffset>
       <JapaneseText>どりーむホバー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dream Hover</EnglishText>
       <Notes/>
       <Id>1017</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8396</PointerOffset>
       <JapaneseText>特技
 突進にはねられた者は、夢見心地で吹き飛ばされる技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Anyone hit by this charge will be
+knocked out into next week.</EnglishText>
       <Notes/>
       <Id>1018</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8424</PointerOffset>
@@ -3755,10 +3760,11 @@ Extends into Dreadchain.</EnglishText>
       <PointerOffset>8428</PointerOffset>
       <JapaneseText>（オニゴロシ）特技
 拳撃により、敵を打ち上げる打撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Launch the enemy into the air with
+a punch.</EnglishText>
       <Notes/>
       <Id>1020</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8456</PointerOffset>
@@ -3772,10 +3778,11 @@ Extends into Dreadchain.</EnglishText>
       <PointerOffset>8460</PointerOffset>
       <JapaneseText>（ハクロユウブ）特技
 拳と脚を織り交ぜた、華麗な四段打撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: A four-step striking arte that
+utilizes both fists and legs.</EnglishText>
       <Notes/>
       <Id>1022</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8488</PointerOffset>
@@ -3789,10 +3796,11 @@ Extends into Dreadchain.</EnglishText>
       <PointerOffset>8492</PointerOffset>
       <JapaneseText>（オニクビオトシ）特技
 鋭い回転により勢いをつけ、相手の首元を凪ぐ脚技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: A leg arte that uses the spinning
+momentum to break your foes' neck.</EnglishText>
       <Notes/>
       <Id>1024</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8520</PointerOffset>
@@ -3806,10 +3814,11 @@ Extends into Dreadchain.</EnglishText>
       <PointerOffset>8524</PointerOffset>
       <JapaneseText>（リュウシャゲリ）特技
 後方宙返りと共に、大きく蹴り上げる脚技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: A leg arte where the user kicks up
+and leaps into a backwards somersault.</EnglishText>
       <Notes/>
       <Id>1026</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8552</PointerOffset>
@@ -3823,10 +3832,11 @@ Extends into Dreadchain.</EnglishText>
       <PointerOffset>8556</PointerOffset>
       <JapaneseText>（ミソギハライ）特技
 体の回転を利用した、力強い打撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Rotate your body to deal powerful
+strikes.</EnglishText>
       <Notes/>
       <Id>1028</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8584</PointerOffset>
@@ -3840,10 +3850,11 @@ Extends into Dreadchain.</EnglishText>
       <PointerOffset>8588</PointerOffset>
       <JapaneseText>（カリアシシラヌイ）特技
 相手の足を払い、間髪入れず回し蹴りを放つ脚技 </JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: A leg arte that sweeps your foes
+immediately followed by a spinning kick.</EnglishText>
       <Notes/>
       <Id>1030</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8616</PointerOffset>
@@ -6260,7 +6271,7 @@ creating a damaging shockwave.</EnglishText>
       <PointerOffset>14668</PointerOffset>
       <JapaneseText>（バク・マジンケン）特技
 武器に力を溜め、地上を抉り連鎖する衝撃波を打ち出す戦技</JapaneseText>
-      <EnglishText>(Majinken Bak) Accumulate power within your
+      <EnglishText>Base: Accumulate power within your
 axe and release it all at once.</EnglishText>
       <Notes/>
       <Id>1311</Id>
@@ -6270,10 +6281,11 @@ axe and release it all at once.</EnglishText>
       <PointerOffset>14700</PointerOffset>
       <JapaneseText>（ヒョウコウガ）特技ＬＶ１
 武器を凍らせ、地面に叩きつけ氷の刃を突き出す戦技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Imbue your axe with ice and slam it
+on the ground to hurl icicles at your foes.</EnglishText>
       <Notes/>
       <Id>1312</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>14728</PointerOffset>
@@ -6287,10 +6299,11 @@ axe and release it all at once.</EnglishText>
       <PointerOffset>14732</PointerOffset>
       <JapaneseText>（ヒョウコウガ）特技
 武器を凍らせ、地面に叩きつけ氷の刃を突き出す戦技</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Base: Imbue your axe with ice and slam it
+on the ground to hurl icicles at your foes.</EnglishText>
+      <Notes>Need to check if it's actually icicles.</Notes>
       <Id>1314</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>14760</PointerOffset>
@@ -6304,10 +6317,11 @@ axe and release it all at once.</EnglishText>
       <PointerOffset>14764</PointerOffset>
       <JapaneseText>（ドリュウショウ・ゴウケン）奥義　効果：物攻↑
 地面に衝撃を与え敵を弾き飛ばし、斬り払う戦技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Slam the ground to send enemies
+flying. Effect: P.ATK ↑</EnglishText>
       <Notes/>
       <Id>1316</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>14792</PointerOffset>
@@ -6321,7 +6335,7 @@ axe and release it all at once.</EnglishText>
       <PointerOffset>14796</PointerOffset>
       <JapaneseText>（ドリュウショウ）特技
 地面に衝撃を与え、少し離れた前方に砂煙を巻き上げる戦技</JapaneseText>
-      <EnglishText>(Doryuushou) Swing your axe upwards, leaving
+      <EnglishText>Base: Swing your axe upwards, leaving
 behind a trail of dust.</EnglishText>
       <Notes/>
       <Id>1318</Id>
@@ -7211,28 +7225,29 @@ shoot at them with exploding bullets.</EnglishText>
     <Entry>
       <PointerOffset>6888,16840</PointerOffset>
       <JapaneseText>紅蓮</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hell Fire</EnglishText>
       <Notes/>
       <Id>1421</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16844</PointerOffset>
       <JapaneseText>（グレン）特技
 炎を纏った矢で射撃を行う射撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Shoot an arrow imbued with fire.</EnglishText>
       <Notes/>
       <Id>1422</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16876</PointerOffset>
       <JapaneseText>（トウガ）特技ＬＶ１
 冷気を纏った射撃を行う射撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV1: Shoot an arrow imbued with the
+power of ice.</EnglishText>
       <Notes/>
       <Id>1423</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6920,16904</PointerOffset>
@@ -7283,10 +7298,11 @@ enemy in front of you.</EnglishText>
       <PointerOffset>17004</PointerOffset>
       <JapaneseText>（シンテン）特技ＬＶ１
 複数の矢を空へ向けて放ち、広範囲の敵の頭上に降らせる射撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV1: Fire multiple arrows into the sky
+that rain down on foes.</EnglishText>
       <Notes/>
       <Id>1429</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7016,17032</PointerOffset>
@@ -7300,10 +7316,11 @@ enemy in front of you.</EnglishText>
       <PointerOffset>17036</PointerOffset>
       <JapaneseText>（シンテン）特技　効果：気絶
 複数の矢を空へ向けて放ち、広範囲の敵の頭上に降らせる射撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Fire multiple arrows into the sky that
+rain down on foes. Effect: Stun.</EnglishText>
       <Notes/>
       <Id>1431</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17068</PointerOffset>
