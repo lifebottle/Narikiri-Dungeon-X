@@ -3456,10 +3456,11 @@ with darkness.</EnglishText>
       <PointerOffset>15180,7756</PointerOffset>
       <JapaneseText>（レックソウ）特技
 高速で突進しながら武器を最大限に突き出す戦技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Thrust your spear in front as you
+rush forward at high speeds.</EnglishText>
       <Notes/>
       <Id>983</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8904,7784</PointerOffset>
@@ -3518,10 +3519,10 @@ directions. Extends to Phantom Embrace.</EnglishText>
     <Entry>
       <PointerOffset>14984,7944</PointerOffset>
       <JapaneseText>断空槍</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Judgement Spear</EnglishText>
       <Notes/>
       <Id>990</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>14988,7948</PointerOffset>
@@ -6253,8 +6254,8 @@ creating a damaging shockwave.</EnglishText>
     <Entry>
       <PointerOffset>15592,14536</PointerOffset>
       <JapaneseText>裂走天翔撃</JapaneseText>
-      <EnglishText>Goring Descent</EnglishText>
-      <Notes/>
+      <EnglishText>Goring Ascent</EnglishText>
+      <Notes>Rretranslated as Goring Ascent considering you hit the enemy up into the air.</Notes>
       <Id>1305</Id>
       <Status>Editing</Status>
     </Entry>
@@ -6262,10 +6263,11 @@ creating a damaging shockwave.</EnglishText>
       <PointerOffset>14540</PointerOffset>
       <JapaneseText>（レッソウテンショウゲキ）奥義
 裂駆槍で敵に攻撃した後、武器を大きく振り上げる戦技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Swing your weapon in a wide arc
+after striking your enemy.</EnglishText>
       <Notes/>
       <Id>1306</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>14600</PointerOffset>
@@ -6333,7 +6335,7 @@ on the ground to hurl icicles at your foes.</EnglishText>
       <PointerOffset>14732</PointerOffset>
       <JapaneseText>（ヒョウコウガ）特技
 武器を凍らせ、地面に叩きつけ氷の刃を突き出す戦技</JapaneseText>
-      <EnglishText>Base: Imbue your axe with ice and slam it
+      <EnglishText>Base: Imbue your spear with ice and slam it
 on the ground to hurl icicles at your foes.</EnglishText>
       <Notes>Need to check if it's actually icicles.</Notes>
       <Id>1314</Id>
@@ -6500,7 +6502,7 @@ behind a trail of dust.</EnglishText>
     <Entry>
       <PointerOffset>15144</PointerOffset>
       <JapaneseText>裂駆閃・堅装</JapaneseText>
-      <EnglishText>Rekkusen Kensou</EnglishText>
+      <EnglishText>Ramming Barrier</EnglishText>
       <Notes/>
       <Id>1333</Id>
       <Status>Editing</Status>
@@ -6509,10 +6511,11 @@ behind a trail of dust.</EnglishText>
       <PointerOffset>15148</PointerOffset>
       <JapaneseText>（レックセン・ケンソウ）奥義　効果：物防↑
 力の防壁を張り巡らせ、高速で突進する戦技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Rush at your foes with a protective
+barrier. Effect: P.DEF↑</EnglishText>
       <Notes/>
       <Id>1334</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>15208</PointerOffset>
@@ -6749,7 +6752,7 @@ behind a trail of dust.</EnglishText>
     <Entry>
       <PointerOffset>15720</PointerOffset>
       <JapaneseText>氷爆旋風牙</JapaneseText>
-      <EnglishText>Hyoubaku Senpuuga</EnglishText>
+      <EnglishText>Glacial Fang Blast</EnglishText>
       <Notes/>
       <Id>1362</Id>
       <Status>Editing</Status>
@@ -6758,10 +6761,11 @@ behind a trail of dust.</EnglishText>
       <PointerOffset>15724</PointerOffset>
       <JapaneseText>（ヒョウバクセンプウガ）奥義
 武器を地面に突き立て、地面から広範囲に衝撃波を打ち出す戦技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Thrust your spear into the ground
+to summon an explosive blast of water.</EnglishText>
       <Notes/>
       <Id>1363</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>15752</PointerOffset>
@@ -11917,10 +11921,11 @@ small lightning bolt. Extend: Increase power.</EnglishText>
       <PointerOffset>44300,38700</PointerOffset>
       <JapaneseText>風系攻撃呪文の一つ。敵の周囲に突風を巻き起こす
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A wind spell that conjures a gust of wind
+around the enemy. Extend: Increase power.</EnglishText>
       <Notes/>
       <Id>1960</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38728</PointerOffset>
@@ -11952,10 +11957,11 @@ below. Extend: Increase power.</EnglishText>
       <PointerOffset>38764</PointerOffset>
       <JapaneseText>水系攻撃呪文の一つ。敵を沸き立つ水泡で打ち上げる
 エクステンドスペル効果：泡の数が増加する</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>A water spell that strikes the enemy with
+boiling bubbles. Extend: Increase bubbles.</EnglishText>
+      <Notes>Maybe "launch" instead of strikes if that's what it actually does</Notes>
       <Id>1964</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44456,44424,38792</PointerOffset>
@@ -11977,8 +11983,9 @@ below. Extend: Increase power.</EnglishText>
       <PointerOffset>38828</PointerOffset>
       <JapaneseText>火系攻撃呪文の一つ。敵の周囲に溶岩弾を噴出させる
 エクステンドスペル効果：吹き飛ばす威力と溶岩弾が増加する</JapaneseText>
-      <EnglishText>Causes columns of lava to
-erupt around the enemy.</EnglishText>
+      <EnglishText>A fire spell that causes columns of lava to
+erupt around the enemy. Extend: Increase the
+explosiveness and sends out more fire.</EnglishText>
       <Notes/>
       <Id>1967</Id>
       <Status>Editing</Status>
@@ -11996,7 +12003,8 @@ erupt around the enemy.</EnglishText>
       <JapaneseText>無属性攻撃呪文の一つ。地上の敵を空へ持ち上げる
 エクステンドスペル効果：威力が増加する</JapaneseText>
       <EnglishText>A non-elemental attack spell that lifts enemies
-off the ground and then drops them back down.</EnglishText>
+off the ground and then drops them back down.
+Extend: Increase damage.</EnglishText>
       <Notes/>
       <Id>1969</Id>
       <Status>Editing</Status>
@@ -12013,8 +12021,9 @@ off the ground and then drops them back down.</EnglishText>
       <PointerOffset>38892</PointerOffset>
       <JapaneseText>雷系攻撃呪文の一つ。敵の周囲に落雷を生じさせる
 エクステンドスペル効果：衝撃波が追加される</JapaneseText>
-      <EnglishText>A lightning-based attack spell that
-causes a lightning strike around the enemy.</EnglishText>
+      <EnglishText>A lightning spell that causes a lightning
+strike around the enemy.
+Extend: Adds a shockwave.</EnglishText>
       <Notes/>
       <Id>1971</Id>
       <Status>Editing</Status>
@@ -12031,8 +12040,9 @@ causes a lightning strike around the enemy.</EnglishText>
       <PointerOffset>38924</PointerOffset>
       <JapaneseText>風系攻撃呪文の一つ。敵の周囲に竜巻を生じさせる
 エクステンドスペル効果：威力と攻撃回数が増加する</JapaneseText>
-      <EnglishText>A wind-based attack spell that
-causes a cyclone around enemies.</EnglishText>
+      <EnglishText>A wind spell spell that conjures a cyclone
+around enemies.
+Extend: Increase power and hit count.</EnglishText>
       <Notes/>
       <Id>1973</Id>
       <Status>Editing</Status>
@@ -12049,8 +12059,9 @@ causes a cyclone around enemies.</EnglishText>
       <PointerOffset>38956</PointerOffset>
       <JapaneseText>光系攻撃呪文の一つ。天より降り注ぐレーザーで敵を射抜く
 エクステンドスペル効果：レーザーの数が増加する</JapaneseText>
-      <EnglishText>The enemy is showered with
-numerous heat rays.</EnglishText>
+      <EnglishText>A light spell that showers enemies with
+numerous lasers from the sky.
+Extend: Increase number of lasers.</EnglishText>
       <Notes/>
       <Id>1975</Id>
       <Status>Editing</Status>
@@ -12067,10 +12078,12 @@ numerous heat rays.</EnglishText>
       <PointerOffset>44492,38988</PointerOffset>
       <JapaneseText>火系攻撃呪文の一つ。敵に向かって炎の渦を巻き起こす
 エクステンドスペル効果：範囲が拡大する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A fire spell that conjures a vortex of
+flames in front of you.
+Extend: Increase the range.</EnglishText>
       <Notes/>
       <Id>1977</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39016</PointerOffset>
@@ -12084,8 +12097,8 @@ numerous heat rays.</EnglishText>
       <PointerOffset>39020</PointerOffset>
       <JapaneseText>地系攻撃呪文の一つ。巨石を落下させて敵を押しつぶす
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText>An earth-based attack spell that
-crushes enemies with huge boulders.</EnglishText>
+      <EnglishText>An earth spell that crushes enemies with
+huge boulders. Extend: Increase damage.</EnglishText>
       <Notes/>
       <Id>1979</Id>
       <Status>Editing</Status>
