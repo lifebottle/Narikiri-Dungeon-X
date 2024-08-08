@@ -11912,7 +11912,7 @@ stones. Extend: Launch more rocks.</EnglishText>
       <JapaneseText>雷系攻撃呪文の中で最も簡単なもの。小さな雷を落とす
 エクステンドスペル効果：威力が増加する</JapaneseText>
       <EnglishText>The simplest of lightning spells that casts a
-small lightning bolt. Extend: Increase power.</EnglishText>
+small lightning bolt. Extend: Increase damage.</EnglishText>
       <Notes/>
       <Id>1959</Id>
       <Status>Editing</Status>
@@ -11922,7 +11922,7 @@ small lightning bolt. Extend: Increase power.</EnglishText>
       <JapaneseText>風系攻撃呪文の一つ。敵の周囲に突風を巻き起こす
 エクステンドスペル効果：威力が増加する</JapaneseText>
       <EnglishText>A wind spell that conjures a gust of wind
-around the enemy. Extend: Increase power.</EnglishText>
+around the enemy. Extend: Increase damage.</EnglishText>
       <Notes/>
       <Id>1960</Id>
       <Status>Editing</Status>
@@ -11940,7 +11940,7 @@ around the enemy. Extend: Increase power.</EnglishText>
       <JapaneseText>地系攻撃呪文の一つ。地面から岩の槍が突き出す
 エクステンドスペル効果：威力が増加する</JapaneseText>
       <EnglishText>Spear-shaped rocks are thrust up from
-below. Extend: Increase power.</EnglishText>
+below. Extend: Increase damage.</EnglishText>
       <Notes/>
       <Id>1962</Id>
       <Status>Editing</Status>
@@ -12042,7 +12042,7 @@ Extend: Adds a shockwave.</EnglishText>
 エクステンドスペル効果：威力と攻撃回数が増加する</JapaneseText>
       <EnglishText>A wind spell spell that conjures a cyclone
 around enemies.
-Extend: Increase power and hit count.</EnglishText>
+Extend: Increase damage and hit count.</EnglishText>
       <Notes/>
       <Id>1973</Id>
       <Status>Editing</Status>
@@ -12133,8 +12133,8 @@ to strike the enemy.</EnglishText>
       <PointerOffset>39084</PointerOffset>
       <JapaneseText>水系攻撃呪文の一つ。敵の足元に激しい大渦を生み出す
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText>A water-based attack spell that
-creates a vortex beneath enemies.</EnglishText>
+      <EnglishText>A water spell that creates a vortex
+beneath enemies.</EnglishText>
       <Notes/>
       <Id>1983</Id>
       <Status>Editing</Status>
@@ -12159,10 +12159,11 @@ creates a vortex beneath enemies.</EnglishText>
       <PointerOffset>44684,39148</PointerOffset>
       <JapaneseText>風系攻撃呪文の一つ。風圧で敵を押し潰す
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A wind spell that crushes the enemy under
+its wind pressure. Extend: Increase damage.</EnglishText>
       <Notes/>
       <Id>1986</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45960,44552,44584,39208</PointerOffset>
@@ -12193,8 +12194,8 @@ creates a vortex beneath enemies.</EnglishText>
       <PointerOffset>39308</PointerOffset>
       <JapaneseText>光系攻撃呪文の一つ。空より大量の光の剣を落下させる
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText>A light-based attack spell that
-drops a sword of light from the sky.</EnglishText>
+      <EnglishText>A light spell that drops a sword of light
+from the sky.</EnglishText>
       <Notes/>
       <Id>1990</Id>
       <Status>Editing</Status>
