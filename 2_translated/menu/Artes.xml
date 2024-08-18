@@ -12177,10 +12177,12 @@ its wind pressure. Extend: Increase damage.</EnglishText>
       <PointerOffset>44588,39212</PointerOffset>
       <JapaneseText>雷系攻撃呪文の一つ。敵の周囲に強力な雷を落とす
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A lightning spell that drops a powerful
+lightning bolt on the enemy.
+Extend: Increase damage. </EnglishText>
       <Notes/>
       <Id>1988</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45736,45768,42344,39304</PointerOffset>
@@ -12194,8 +12196,8 @@ its wind pressure. Extend: Increase damage.</EnglishText>
       <PointerOffset>39308</PointerOffset>
       <JapaneseText>光系攻撃呪文の一つ。空より大量の光の剣を落下させる
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText>A light spell that drops a sword of light
-from the sky.</EnglishText>
+      <EnglishText>A light spell that drops numerous swords of
+light from the sky. Extend: Increase power.</EnglishText>
       <Notes/>
       <Id>1990</Id>
       <Status>Editing</Status>
@@ -12204,10 +12206,11 @@ from the sky.</EnglishText>
       <PointerOffset>44940,39340</PointerOffset>
       <JapaneseText>味方一人のＨＰを３０％回復させる
 エクステンドスペル効果：回復量が４５％に増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Restores 30% of max HP to one ally.
+Extend: Restores 45% of max HP.</EnglishText>
       <Notes/>
       <Id>1991</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39368</PointerOffset>
@@ -12221,8 +12224,8 @@ from the sky.</EnglishText>
       <PointerOffset>39372</PointerOffset>
       <JapaneseText>敵の頭上にハンマーを落として気絶させる
 エクステンドスペル効果：ハンマー落下速度ＵＰ</JapaneseText>
-      <EnglishText>Stun an enemy by causing a
-hammer to fall on their head.</EnglishText>
+      <EnglishText>Stun an enemy by dropping a hammer on
+their head. Extend: Faster drop speed.</EnglishText>
       <Notes/>
       <Id>1993</Id>
       <Status>Editing</Status>
@@ -12232,7 +12235,7 @@ hammer to fall on their head.</EnglishText>
       <JapaneseText>味方一人の術技の消費ＥＢＧを、一度だけ０％に抑える
 エクステンドスペル効果：二回、術技の消費ＥＢＧを０％に抑える</JapaneseText>
       <EnglishText>Decrease cost of ally's next arte to 0% EBG.
-Extend Effect: Ally's next two artes.</EnglishText>
+Extend: Affect's ally's next two artes.</EnglishText>
       <Notes/>
       <Id>1994</Id>
       <Status>Editing</Status>
@@ -12249,8 +12252,8 @@ Extend Effect: Ally's next two artes.</EnglishText>
       <PointerOffset>39436</PointerOffset>
       <JapaneseText>敵一体の物理攻撃力を３０秒間５０％下げる霧を発生させる
 エクステンドスペル効果：持続時間が６０秒に増加する</JapaneseText>
-      <EnglishText>Decreases enemy's attack by 50% for 30 seconds.
-Extend Effect: 60 seconds</EnglishText>
+      <EnglishText>Decrease enemy's attack by 50% for 30
+seconds. Extend: Duration for 60 seconds.</EnglishText>
       <Notes/>
       <Id>1996</Id>
       <Status>Editing</Status>
@@ -12277,17 +12280,18 @@ Extend Effect: Provides immunity for 60 seconds.</EnglishText>
       <PointerOffset>44972,39500</PointerOffset>
       <JapaneseText>味方一人の物理攻撃力を３０秒間１５％上昇させる
 エクステンドスペル効果：持続時間が６０秒に増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Increase an ally's P.ATK by 15% for 30
+seconds. Extend: Duration for 60 seconds.</EnglishText>
       <Notes/>
       <Id>1999</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45068,39532</PointerOffset>
       <JapaneseText>味方一人のＨＰを５０％回復させる
 エクステンドスペル効果：回復量が７５％に増加する</JapaneseText>
       <EnglishText>Restores 50% of max HP to one ally.
-Extend Effect: Restores 75% of max HP.</EnglishText>
+Extend: Restores 75% of max HP.</EnglishText>
       <Notes/>
       <Id>2000</Id>
       <Status>Editing</Status>
@@ -12304,8 +12308,8 @@ Extend Effect: Restores 75% of max HP.</EnglishText>
       <PointerOffset>39564</PointerOffset>
       <JapaneseText>範囲内の敵の物理防御力を３０秒間５０％下げる酸の雨を降らせる
 エクステンドスペル効果：持続時間が６０秒に増加する</JapaneseText>
-      <EnglishText>Decrease enemy's defense by 50% for 30 seconds.
-Extend Effect: 60 seconds</EnglishText>
+      <EnglishText>Decrease enemy's defense by 50% for 30
+seconds. Extend: Duration for 60 seconds.</EnglishText>
       <Notes/>
       <Id>2002</Id>
       <Status>Editing</Status>
@@ -12322,8 +12326,8 @@ Extend Effect: 60 seconds</EnglishText>
       <PointerOffset>39596</PointerOffset>
       <JapaneseText>敵一体を封印状態にし、一定時間術を使えないようにする
 エクステンドスペル効果：ターゲットにダメージを与える</JapaneseText>
-      <EnglishText>Prevents enemy from casting spells.
-Extend Effect: Increase duration.</EnglishText>
+      <EnglishText>Inflict seal on an enemy, sealing their ability
+to cast spells. Extend: Inflict damage.</EnglishText>
       <Notes/>
       <Id>2004</Id>
       <Status>Editing</Status>
@@ -12341,7 +12345,7 @@ Extend Effect: Increase duration.</EnglishText>
       <JapaneseText>味方全員のＨＰを４０％回復させる
 エクステンドスペル効果：回復量が６０％に増加する</JapaneseText>
       <EnglishText>Restore 40% of max HP to the party.
-Extend Effect: Restore 60% of max HP.</EnglishText>
+Extend: Restore 60% of max HP.</EnglishText>
       <Notes/>
       <Id>2006</Id>
       <Status>Editing</Status>
@@ -12366,8 +12370,9 @@ Extend Effect: Restore 60% of max HP.</EnglishText>
       <PointerOffset>39692</PointerOffset>
       <JapaneseText>範囲内の全ての敵、味方の状態変化を解除する（能力上昇も解除）
 エクステンドスペル効果：範囲が拡大する</JapaneseText>
-      <EnglishText>Dispels an allies magical ailments.
-Extend Effect: Area of effect increased.</EnglishText>
+      <EnglishText>Remove status effects of all enemies and
+allies in range (including stat boosts).
+Extend: Area of effect increased.</EnglishText>
       <Notes/>
       <Id>2009</Id>
       <Status>Editing</Status>
@@ -12385,7 +12390,7 @@ Extend Effect: Area of effect increased.</EnglishText>
       <JapaneseText>味方一人のＨＰを７０％回復させる
 エクステンドスペル効果：回復量が１００％に増加する</JapaneseText>
       <EnglishText>Restore 70% of max HP to one ally.
-Extend Effect: Restore 100% of max HP.</EnglishText>
+Extend: Restore 100% of max HP.</EnglishText>
       <Notes/>
       <Id>2011</Id>
       <Status>Editing</Status>
@@ -12402,8 +12407,8 @@ Extend Effect: Restore 100% of max HP.</EnglishText>
       <PointerOffset>39756</PointerOffset>
       <JapaneseText>敵の頭上に巨大なハンマーを落として長時間気絶させる
 エクステンドスペル効果：気絶時間が延びる</JapaneseText>
-      <EnglishText>Throw numerous hammers to stun the enemy.
-Extend Effect: Increase stun duration.</EnglishText>
+      <EnglishText>Drop a huge hammer on the enemy to stun
+them. Extend: Increase stun duration.</EnglishText>
       <Notes/>
       <Id>2013</Id>
       <Status>Editing</Status>
@@ -12421,7 +12426,7 @@ Extend Effect: Increase stun duration.</EnglishText>
       <JapaneseText>味方一人の物理防御力を３０秒間１００％上昇させる
 エクステンドスペル効果：持続時間が６０秒に増加する</JapaneseText>
       <EnglishText>Increase an ally's P. DEF by 100% for 30
-seconds. Extend Effect: Increase duration to 60 seconds.</EnglishText>
+seconds. Extend: Duration for 60 seconds.</EnglishText>
       <Notes/>
       <Id>2015</Id>
       <Status>Editing</Status>
@@ -12430,10 +12435,12 @@ seconds. Extend Effect: Increase duration to 60 seconds.</EnglishText>
       <PointerOffset>45164,39820</PointerOffset>
       <JapaneseText>術者を中心に２秒間、飛び道具を阻止するバリアを張る
 エクステンドスペル効果：持続時間が４秒に増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Summon a barrier around the caster for 2
+seconds to block projectiles.
+Extend: Duration for 4 seconds.</EnglishText>
       <Notes/>
       <Id>2016</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39848</PointerOffset>
@@ -12448,7 +12455,7 @@ seconds. Extend Effect: Increase duration to 60 seconds.</EnglishText>
       <JapaneseText>味方一人の敏捷を一定時間３０増加させる
 エクステンドスペル効果：持続時間が倍になる</JapaneseText>
       <EnglishText>Increase an ally's Agility for 30 seconds.
-Extend Effect: Increase duration to 60 seconds.</EnglishText>
+Extend: Duration for 60 seconds.</EnglishText>
       <Notes/>
       <Id>2018</Id>
       <Status>Editing</Status>
@@ -12465,8 +12472,8 @@ Extend Effect: Increase duration to 60 seconds.</EnglishText>
       <PointerOffset>39884</PointerOffset>
       <JapaneseText>敵一体の敏捷を一定時間６０減少させる
 エクステンドスペル効果：持続時間が倍になる</JapaneseText>
-      <EnglishText>Decreases enemy's agility for 60 seconds.
-Extend Effect: Increases duration to 120 seconds.</EnglishText>
+      <EnglishText>Decrease an enemy's agility for 60 seconds.
+Extend: Duration for 120 seconds.</EnglishText>
       <Notes/>
       <Id>2020</Id>
       <Status>Editing</Status>
@@ -12483,10 +12490,11 @@ Extend Effect: Increases duration to 120 seconds.</EnglishText>
       <PointerOffset>45196,39916</PointerOffset>
       <JapaneseText>味方一人を戦闘不能からＨＰ５０％で復活させる
 エクステンドスペル効果：復活時のＨＰ量が７５％となる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Revive an ally from KO with 50% HP.
+Extend: Revive from KO with 75% HP.</EnglishText>
       <Notes/>
       <Id>2022</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39980</PointerOffset>
@@ -12715,26 +12723,26 @@ Extend Effect: Increases duration to 120 seconds.</EnglishText>
     <Entry>
       <PointerOffset>39976,40520</PointerOffset>
       <JapaneseText>イフリート</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Efreet</EnglishText>
       <Notes/>
       <Id>2051</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40524</PointerOffset>
       <JapaneseText>クラース流。イフリートを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Klaus Style. Summon Efreet.</EnglishText>
       <Notes/>
       <Id>2052</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40556</PointerOffset>
       <JapaneseText>クラース流。ウンディーネを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Klaus Style. Summon Undine.</EnglishText>
       <Notes/>
       <Id>2053</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40040,40584</PointerOffset>
@@ -12747,10 +12755,10 @@ Extend Effect: Increases duration to 120 seconds.</EnglishText>
     <Entry>
       <PointerOffset>40588</PointerOffset>
       <JapaneseText>クラース流。シルフを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Klaus Style. Summon Slyph.</EnglishText>
       <Notes/>
       <Id>2055</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40072,40616</PointerOffset>
@@ -12763,10 +12771,10 @@ Extend Effect: Increases duration to 120 seconds.</EnglishText>
     <Entry>
       <PointerOffset>40620</PointerOffset>
       <JapaneseText>クラース流。ノームを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Klaus Style. Summon Gnome.</EnglishText>
       <Notes/>
       <Id>2057</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40104,40648</PointerOffset>
@@ -12779,10 +12787,10 @@ Extend Effect: Increases duration to 120 seconds.</EnglishText>
     <Entry>
       <PointerOffset>40652</PointerOffset>
       <JapaneseText>クラース流。マクスウェルを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Klaus Style. Summon Maxwell.</EnglishText>
       <Notes/>
       <Id>2059</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40136,40680</PointerOffset>
@@ -12795,42 +12803,42 @@ Extend Effect: Increases duration to 120 seconds.</EnglishText>
     <Entry>
       <PointerOffset>40684</PointerOffset>
       <JapaneseText>クラース流。ルナを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Klaus Style. Summon Luna.</EnglishText>
       <Notes/>
       <Id>2061</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40716</PointerOffset>
       <JapaneseText>クラース流。アスカを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Klaus Style. Summon Aska.</EnglishText>
       <Notes/>
       <Id>2062</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40200,40744</PointerOffset>
       <JapaneseText>ヴォルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Volt</EnglishText>
       <Notes/>
       <Id>2063</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40748</PointerOffset>
       <JapaneseText>クラース流。ヴォルトを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Klaus Style. Summon Volt.</EnglishText>
       <Notes/>
       <Id>2064</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40780</PointerOffset>
       <JapaneseText>クラース流。オリジンを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Klaus Style. Summon Origin.</EnglishText>
       <Notes/>
       <Id>2065</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40808</PointerOffset>
@@ -12844,10 +12852,12 @@ Extend Effect: Increases duration to 120 seconds.</EnglishText>
       <PointerOffset>40812</PointerOffset>
       <JapaneseText>火系攻撃呪文の一つ。敵を追従する炎の流れを起こす
 エクステンドスペル効果：炎の流れが二本となる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A fire spell that sends a stream of flames
+that follows the enemy. Extend: Summon 2
+streams of fire.</EnglishText>
       <Notes/>
       <Id>2067</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40840</PointerOffset>
@@ -12861,10 +12871,11 @@ Extend Effect: Increases duration to 120 seconds.</EnglishText>
       <PointerOffset>40844</PointerOffset>
       <JapaneseText>水系攻撃呪文の一つ。敵を水圧で吹き飛ばす
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A water spell that blasts the enemy with
+water pressure. Extend: Increase power.</EnglishText>
       <Notes/>
       <Id>2069</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40872</PointerOffset>
@@ -12878,10 +12889,11 @@ Extend Effect: Increases duration to 120 seconds.</EnglishText>
       <PointerOffset>40876</PointerOffset>
       <JapaneseText>風系攻撃呪文の一つ。地を這う風を呼び、敵を十字に切り裂く
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A wind spell that cuts the enemy in a
+crisscross pattern. Extend: Increase power.</EnglishText>
       <Notes/>
       <Id>2071</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40904</PointerOffset>
@@ -12895,8 +12907,8 @@ Extend Effect: Increases duration to 120 seconds.</EnglishText>
       <PointerOffset>40908</PointerOffset>
       <JapaneseText>味方一人のＨＰを３０％回復させる応援行動。戦闘中のみ使用可能
 エクステンドスペル効果：回復量が４５％に増加する</JapaneseText>
-      <EnglishText>Restores 30% of max HP to one ally in battle.
-Extend Effect: Restore 45% of max HP.</EnglishText>
+      <EnglishText>Restores 30% of max HP to one ally.
+Extend: Restore 45% of max HP.</EnglishText>
       <Notes/>
       <Id>2073</Id>
       <Status>Editing</Status>
@@ -12904,10 +12916,10 @@ Extend Effect: Restore 45% of max HP.</EnglishText>
     <Entry>
       <PointerOffset>40940</PointerOffset>
       <JapaneseText>クラース流。シャドウを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Klaus Style. Summon Shadow.</EnglishText>
       <Notes/>
       <Id>2074</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40968</PointerOffset>
@@ -12920,18 +12932,19 @@ Extend Effect: Restore 45% of max HP.</EnglishText>
     <Entry>
       <PointerOffset>40972</PointerOffset>
       <JapaneseText>心の内なる叫びを形に起こし、嫌でも貴方に届けます♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bring into being the inner voice of your
+heart, even if you don't want it.</EnglishText>
       <Notes/>
       <Id>2076</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19656,41000</PointerOffset>
       <JapaneseText>ラストスペル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Last Spell</EnglishText>
       <Notes/>
       <Id>2077</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41004</PointerOffset>
@@ -12953,19 +12966,19 @@ Extend Effect: Restore 45% of max HP.</EnglishText>
     <Entry>
       <PointerOffset>41160,41096</PointerOffset>
       <JapaneseText>剛招来</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Coil</EnglishText>
       <Notes/>
       <Id>2080</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41036,45292,45260,41132</PointerOffset>
       <JapaneseText>（ジュウショウライ）特殊技　効果：クリティカル値増加
 精神を集中し、狙いを高める</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: </EnglishText>
       <Notes/>
       <Id>2081</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41100,41164</PointerOffset>
@@ -12988,7 +13001,7 @@ Extend Effect: Restore 45% of max HP.</EnglishText>
       <PointerOffset>41196</PointerOffset>
       <JapaneseText>（シュウキホウ）特殊技　効果：ＨＰ回復　戦闘中のみ使用可能
 精神を集中し、自分のＨＰを３５％回復する</JapaneseText>
-      <EnglishText>Restore 35% of max HP in combat
+      <EnglishText>Special: Restore 35% of max HP in combat
 by focusing the mind.</EnglishText>
       <Notes/>
       <Id>2084</Id>
