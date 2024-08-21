@@ -239,7 +239,7 @@ long-reaching thrusts.</EnglishText>
       <PointerOffset>972</PointerOffset>
       <JapaneseText>通常技　連携回数２
 敵の脚を払い、隙を突く一撃</JapaneseText>
-      <EnglishText>2 consecutive strikes.
+      <EnglishText>Normal: 2 consecutive strikes.
 敵の脚を払い、隙を突く一撃</EnglishText>
       <Notes/>
       <Id>627</Id>
@@ -249,7 +249,7 @@ long-reaching thrusts.</EnglishText>
       <PointerOffset>1004</PointerOffset>
       <JapaneseText>通常技　連携回数３
 長剣で斬り付ける基本的な攻撃</JapaneseText>
-      <EnglishText>3 consecutive strikes.
+      <EnglishText>Normal: 3 consecutive strikes.
 長剣で斬り付ける基本的な攻撃</EnglishText>
       <Notes/>
       <Id>628</Id>
@@ -259,7 +259,7 @@ long-reaching thrusts.</EnglishText>
       <PointerOffset>1036</PointerOffset>
       <JapaneseText>通常技　連携回数３
 短剣で斬り上げる基本的な攻撃</JapaneseText>
-      <EnglishText>3 consecutive strikes.
+      <EnglishText>Normal: 3 consecutive strikes.
 短剣で斬り上げる基本的な攻撃</EnglishText>
       <Notes/>
       <Id>629</Id>
@@ -269,7 +269,7 @@ long-reaching thrusts.</EnglishText>
       <PointerOffset>1068</PointerOffset>
       <JapaneseText>通常技　連携回数３
 長剣で突きかかる基本的な攻撃</JapaneseText>
-      <EnglishText>3 consecutive strikes.
+      <EnglishText>Normal: 3 consecutive strikes.
 長剣で突きかかる基本的な攻撃</EnglishText>
       <Notes/>
       <Id>630</Id>
@@ -287,7 +287,7 @@ long-reaching thrusts.</EnglishText>
       <PointerOffset>1100</PointerOffset>
       <JapaneseText>通常技　連携回数１
 体を捻り、蹴り上げる基本的な攻撃、敵を浮かせる</JapaneseText>
-      <EnglishText>1 single strike.
+      <EnglishText>Normal: A single strike.
 体を捻り、蹴り上げる基本的な攻撃、敵を浮かせる</EnglishText>
       <Notes/>
       <Id>632</Id>
@@ -305,7 +305,7 @@ long-reaching thrusts.</EnglishText>
       <PointerOffset>1132</PointerOffset>
       <JapaneseText>通常技　連携回数３
 二本の剣で舞うように戦うロディの我流剣術</JapaneseText>
-      <EnglishText>3 consecutive strikes.
+      <EnglishText>Normal: 3 consecutive strikes.
 二本の剣で舞うように戦うロディの我流剣術</EnglishText>
       <Notes/>
       <Id>634</Id>
@@ -323,7 +323,7 @@ long-reaching thrusts.</EnglishText>
       <PointerOffset>1164</PointerOffset>
       <JapaneseText>通常技　連携回数３
 短剣をブーメランのように扱うロディの我流投擲術</JapaneseText>
-      <EnglishText>3 consecutive strikes.
+      <EnglishText>Normal: 3 consecutive strikes.
 短剣をブーメランのように扱うロディの我流投擲術</EnglishText>
       <Notes/>
       <Id>636</Id>
@@ -341,7 +341,7 @@ long-reaching thrusts.</EnglishText>
       <PointerOffset>1196</PointerOffset>
       <JapaneseText>通常技　連携回数３
 体当たりを交え、敵を打ち上げる連続攻撃</JapaneseText>
-      <EnglishText>3 consecutive strikes.
+      <EnglishText>Normal: 3 consecutive strikes.
 体当たりを交え、敵を打ち上げる連続攻撃</EnglishText>
       <Notes/>
       <Id>638</Id>
@@ -1873,8 +1873,8 @@ Attack the enemy with a series of Artes.</EnglishText>
       <PointerOffset>4268</PointerOffset>
       <JapaneseText>（コウハジン）特技
 斬撃とそこから生じる熱波で攻撃する剣技</JapaneseText>
-      <EnglishText>Swing your flame imbued blade and burn your
-foes to ashes.</EnglishText>
+      <EnglishText>Base: Swing your flame imbued blade and
+burn your foes to ashes.</EnglishText>
       <Notes/>
       <Id>807</Id>
       <Status>Editing</Status>
@@ -1918,8 +1918,8 @@ foes to ashes.</EnglishText>
       <PointerOffset>4396</PointerOffset>
       <JapaneseText>（チリシグレ）特技
 しとどに降る雨の如く、素早く連続で斬る剣技</JapaneseText>
-      <EnglishText>(Chirishigure) Swing your sword with rapid
-succession, like rain.</EnglishText>
+      <EnglishText>Base: Swing your sword in rapid succession,
+like a downpour of rain.</EnglishText>
       <Notes/>
       <Id>812</Id>
       <Status>Editing</Status>
@@ -1928,10 +1928,10 @@ succession, like rain.</EnglishText>
       <PointerOffset>4428</PointerOffset>
       <JapaneseText>（コランシュウ）特技ＬＶ１
 上空より敵を打ち下ろす技</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Base LV1: An arte that sends</EnglishText>
+      <Notes>Used for Ravagin Tiger</Notes>
       <Id>813</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4460</PointerOffset>
@@ -1945,7 +1945,7 @@ succession, like rain.</EnglishText>
     <Entry>
       <PointerOffset>4488</PointerOffset>
       <JapaneseText>虎乱襲</JapaneseText>
-      <EnglishText>Tiger Strike</EnglishText>
+      <EnglishText>Ravaging Tiger</EnglishText>
       <Notes/>
       <Id>815</Id>
       <Status>Editing</Status>
@@ -1954,10 +1954,11 @@ succession, like rain.</EnglishText>
       <PointerOffset>4492</PointerOffset>
       <JapaneseText>（コランシュウ）特技
 斬り上げて上空より敵を蹴り落とす剣技</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Base: Slash the enemy up into the sky
+before kicking them back down.</EnglishText>
+      <Notes>Need to watch how the arte plays out</Notes>
       <Id>816</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>4520</PointerOffset>
@@ -1971,8 +1972,8 @@ succession, like rain.</EnglishText>
       <PointerOffset>4524</PointerOffset>
       <JapaneseText>（ランコ・コウハシュウ）特技
 流れるような上下段の連続斬りを繰り出す剣技</JapaneseText>
-      <EnglishText>A flowing sequence of rising up-down slash
-attacks.</EnglishText>
+      <EnglishText>Base: A flowing sequence of rising up-down
+slash attacks.</EnglishText>
       <Notes/>
       <Id>818</Id>
       <Status>Editing</Status>
@@ -1980,10 +1981,10 @@ attacks.</EnglishText>
     <Entry>
       <PointerOffset>5832,18152,4552</PointerOffset>
       <JapaneseText>虎牙破斬</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Tiger Blade</EnglishText>
       <Notes/>
       <Id>819</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4584</PointerOffset>
@@ -1997,7 +1998,7 @@ attacks.</EnglishText>
       <PointerOffset>4588</PointerOffset>
       <JapaneseText>（ジュウハ・ソウガショウ）奥義
 流れるような上下段の多段斬りを繰り出す剣技</JapaneseText>
-      <EnglishText>Repeatedly attack with flowing up-down combos,
+      <EnglishText>Arcane: Repeatedly attack with flowing up-down combos,
 finishing by knocking the enemy into the air.</EnglishText>
       <Notes/>
       <Id>821</Id>
@@ -2033,8 +2034,8 @@ finishing by knocking the enemy into the air.</EnglishText>
       <PointerOffset>4684</PointerOffset>
       <JapaneseText>（ソウガザン）特技
 斬り下ろし、斬り上げと流れるように繋ぐ剣技</JapaneseText>
-      <EnglishText>(Fang Blade) Slash the enemy down,
-then up into the air.</EnglishText>
+      <EnglishText>Base: Slash the enemy down, then up into
+the air.</EnglishText>
       <Notes/>
       <Id>825</Id>
       <Status>Editing</Status>
@@ -2043,19 +2044,21 @@ then up into the air.</EnglishText>
       <PointerOffset>4716</PointerOffset>
       <JapaneseText>（シュンジンケン）特技ＬＶ１
 瞬速で敵に突きを打ち込む剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV1: Thrust your sword at the enemy
+in an instant.</EnglishText>
       <Notes/>
       <Id>826</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4748</PointerOffset>
       <JapaneseText>（シュンジンケン）特技ＬＶ２
 瞬速で敵に突きを打ち込む剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV2: Thrust your sword at the enemy
+in an instant.</EnglishText>
       <Notes/>
       <Id>827</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4776</PointerOffset>
@@ -2069,8 +2072,8 @@ then up into the air.</EnglishText>
       <PointerOffset>4780</PointerOffset>
       <JapaneseText>（シュンジンケン）特技　追加技『瞬迅回帰』
 瞬速で敵に突きを打ち込む剣技</JapaneseText>
-      <EnglishText>（Shunjinken）Extend Effect: A second thrust.
-A strong thrust that blows the enemy back.</EnglishText>
+      <EnglishText>Base: Thrust your sword at the enemy in
+an instant. Extends to Sonic Return.</EnglishText>
       <Notes/>
       <Id>829</Id>
       <Status>Editing</Status>
@@ -2079,10 +2082,10 @@ A strong thrust that blows the enemy back.</EnglishText>
       <PointerOffset>4812</PointerOffset>
       <JapaneseText>（クウショウザン）特技ＬＶ１
 素早く上空より斬り落とす剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV1: Quickly slash down from the sky.</EnglishText>
       <Notes/>
       <Id>830</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4840</PointerOffset>
@@ -2194,7 +2197,7 @@ a flash of lightning from the heavens.</EnglishText>
       <PointerOffset>5100</PointerOffset>
       <JapaneseText>（カイレンジン・シグレ）奥義
 水の斬撃により、敵を引き寄せ、滅多切りにする剣技</JapaneseText>
-      <EnglishText>Marine Edge + Scattering Storm</EnglishText>
+      <EnglishText>Arcane: Marine Edge + Scattering Storm</EnglishText>
       <Notes/>
       <Id>843</Id>
       <Status>Editing</Status>
@@ -2203,10 +2206,11 @@ a flash of lightning from the heavens.</EnglishText>
       <PointerOffset>5132</PointerOffset>
       <JapaneseText>（カイレンジン）特技ＬＶ２
 水の斬撃により、敵を引き寄せる剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV2: Draws the enemy in with a
+slash of water.</EnglishText>
       <Notes/>
       <Id>844</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5160</PointerOffset>
@@ -2220,7 +2224,7 @@ a flash of lightning from the heavens.</EnglishText>
       <PointerOffset>5164</PointerOffset>
       <JapaneseText>（カイレンジン）特技
 水の斬撃により、敵を打ち上げる剣技</JapaneseText>
-      <EnglishText>(Kairenjin) Use your sword to scatter the water,
+      <EnglishText>Base: Use your sword to scatter the water,
 pushing the enemy back.</EnglishText>
       <Notes/>
       <Id>846</Id>
@@ -2246,19 +2250,21 @@ pushing the enemy back.</EnglishText>
       <PointerOffset>6028,5260</PointerOffset>
       <JapaneseText>（シンクウハザン）特技
 腰溜めの一撃から真空波を巻き起こす剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Create a powerful vacuum by drawing
+your sword from the waist.</EnglishText>
       <Notes/>
       <Id>849</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5292</PointerOffset>
       <JapaneseText>（ゲンエイジン）特技ＬＶ１
 相手の攻撃を受け流し、瞬時に斬り抜ける剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV1: Parry your opponent's attack and
+slash through them in an instant.</EnglishText>
       <Notes/>
       <Id>850</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5320</PointerOffset>
@@ -2289,8 +2295,8 @@ pushing the enemy back.</EnglishText>
       <PointerOffset>5356</PointerOffset>
       <JapaneseText>（ゲンエイジン）特技　追加技『幻影回帰』
 斬り上げから身を翻し、瞬時に斬り抜ける剣技</JapaneseText>
-      <EnglishText>Throw a dark orb into the air, and slice through
-it and your enemy. Extend: Adds a third hit.</EnglishText>
+      <EnglishText>Base: Throw a dark orb into the air, and slice through
+it and your enemy. Extends to Phantom Recurrence.</EnglishText>
       <Notes/>
       <Id>854</Id>
       <Status>Editing</Status>
@@ -2307,7 +2313,7 @@ it and your enemy. Extend: Adds a third hit.</EnglishText>
       <PointerOffset>5388</PointerOffset>
       <JapaneseText>（ロウエイ・テッサイガ）奥義
 黒き闇を纏わせた剣で何度も斬り抜ける剣技</JapaneseText>
-      <EnglishText>(Tessaiga Rouei) Flash around the enemy,
+      <EnglishText>Arcane: Flash around the enemy,
 cutting them to pieces with dark slashes.</EnglishText>
       <Notes/>
       <Id>856</Id>
@@ -2316,15 +2322,15 @@ cutting them to pieces with dark slashes.</EnglishText>
     <Entry>
       <PointerOffset>7656,5416</PointerOffset>
       <JapaneseText>狼影牙</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Phantom Fang</EnglishText>
       <Notes/>
       <Id>857</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5448</PointerOffset>
       <JapaneseText>狼影牙・天</JapaneseText>
-      <EnglishText>Divine Wolf Fang</EnglishText>
+      <EnglishText>Divine Phantom Fang</EnglishText>
       <Notes/>
       <Id>858</Id>
       <Status>Editing</Status>
@@ -2333,8 +2339,8 @@ cutting them to pieces with dark slashes.</EnglishText>
       <PointerOffset>5452</PointerOffset>
       <JapaneseText>（ロウエイガ・テン）特技
 黒き闇を纏わせた剣で三度斬り抜ける剣技</JapaneseText>
-      <EnglishText>Cut through the enemy three times, leaving
-behind a trail of darkness.</EnglishText>
+      <EnglishText>Base: Cut through the enemy three times,
+leaving behind a trail of darkness.</EnglishText>
       <Notes/>
       <Id>859</Id>
       <Status>Editing</Status>
@@ -2387,8 +2393,8 @@ behind a trail of darkness.</EnglishText>
       <PointerOffset>5644</PointerOffset>
       <JapaneseText>（カゲツコウオウセン）奥義　追加技『天啓走破』
 円を描く太刀筋により相手を三度斬り上げ、突き落とす剣技</JapaneseText>
-      <EnglishText>Spin with your sword three times, then crash down
-on your enemy with lightning. Extend: Call lightning.</EnglishText>
+      <EnglishText>Arcane: Spin with your sword three times,
+then strike. Extends into Rending Revelation.</EnglishText>
       <Notes/>
       <Id>865</Id>
       <Status>Editing</Status>
@@ -2405,8 +2411,8 @@ on your enemy with lightning. Extend: Call lightning.</EnglishText>
       <PointerOffset>5676</PointerOffset>
       <JapaneseText>（バッサイガ）奥義
 敵をすり抜けると同時に、鋭く斬り裂く剣技</JapaneseText>
-      <EnglishText>(Bassaiga) Slash your sword in a wide arc as you
-move right for the enemy, evading their attacks.</EnglishText>
+      <EnglishText>Arcane: Swing your sword in a wide arc as
+you slip through the enemy.</EnglishText>
       <Notes/>
       <Id>867</Id>
       <Status>Editing</Status>
@@ -2423,10 +2429,11 @@ move right for the enemy, evading their attacks.</EnglishText>
       <PointerOffset>5708</PointerOffset>
       <JapaneseText>（マオウエンゲキハ）奥義
 武器に炎を纏わせ、力いっぱい斬り裂く剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Imbue your sword in flames and
+slash with all your might.</EnglishText>
       <Notes/>
       <Id>869</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5736</PointerOffset>
@@ -2440,10 +2447,11 @@ move right for the enemy, evading their attacks.</EnglishText>
       <PointerOffset>5740</PointerOffset>
       <JapaneseText>（リュウソウセンクウハ）奥義
 剣圧により真空を生み出し、敵を閉じ込め斬り裂く剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Create a vacuum with your sword
+that traps and lacerates your enemies.</EnglishText>
       <Notes/>
       <Id>871</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5768</PointerOffset>
@@ -2457,7 +2465,7 @@ move right for the enemy, evading their attacks.</EnglishText>
       <PointerOffset>5772</PointerOffset>
       <JapaneseText>（ヒョウロウランガ）奥義
 冷気を纏った斬撃により、敵を何度も斬り抜け打ち上げる剣技</JapaneseText>
-      <EnglishText>(Hyourouranga) Repeatedly dash through the
+      <EnglishText>Arcane: Repeatedly dash through the
 enemy to launch them into the air.</EnglishText>
       <Notes/>
       <Id>873</Id>
@@ -2493,16 +2501,17 @@ a double kick and ends with a thrust.</EnglishText>
     <Entry>
       <PointerOffset>4968,5896</PointerOffset>
       <JapaneseText>秋沙雨</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sword Rain: Alpha</EnglishText>
       <Notes/>
       <Id>877</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5900</PointerOffset>
       <JapaneseText>（アキサザメ）特技
 止まない雨の如く、素早く連続突きを繰り出し最後に突き上げる剣技</JapaneseText>
-      <EnglishText>Attack the enemy with a shower of stabbing attacks.</EnglishText>
+      <EnglishText>Base: Attack the enemy with a shower of
+thrusts ending with an upward cut.</EnglishText>
       <Notes/>
       <Id>878</Id>
       <Status>Editing</Status>
@@ -2519,8 +2528,8 @@ a double kick and ends with a thrust.</EnglishText>
       <PointerOffset>5932</PointerOffset>
       <JapaneseText>（ホウオウテンク）特技
 炎を身に纏って上空より突撃する剣技</JapaneseText>
-      <EnglishText>Transforms your body
-into the flaming bird of legend.</EnglishText>
+      <EnglishText>Base: Perform a high-speed charge from
+the air using the power of a phoenix.</EnglishText>
       <Notes/>
       <Id>880</Id>
       <Status>Editing</Status>
@@ -2528,19 +2537,20 @@ into the flaming bird of legend.</EnglishText>
     <Entry>
       <PointerOffset>10024,17800,10504,5960</PointerOffset>
       <JapaneseText>魔神剣</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Demon Fang</EnglishText>
       <Notes/>
       <Id>881</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17804,5964</PointerOffset>
       <JapaneseText>（マジンケン）特技
 剣を一気に振りぬくことで直線上に剣圧を飛ばす剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Unleash a powerful shockwave by
+swinging your sword.</EnglishText>
       <Notes/>
       <Id>882</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5256,6024</PointerOffset>
@@ -2554,8 +2564,8 @@ into the flaming bird of legend.</EnglishText>
       <PointerOffset>6060</PointerOffset>
       <JapaneseText>（シシセンコウ）特技
 闘気を敵に叩きつけて吹き飛ばす剣技</JapaneseText>
-      <EnglishText>Blow enemies away by pounding
-them with attack power.</EnglishText>
+      <EnglishText>Base: Blow enemies away by slashing
+them with your fighting spirit.</EnglishText>
       <Notes/>
       <Id>884</Id>
       <Status>Editing</Status>
@@ -2572,8 +2582,8 @@ them with attack power.</EnglishText>
       <PointerOffset>6092</PointerOffset>
       <JapaneseText>（センクウレツハ）特技
 闘気を上空高く巻き上げ、ジャンプ突きで追撃する剣技</JapaneseText>
-      <EnglishText>Spinning thrust that lifts
-attack power high into the air.</EnglishText>
+      <EnglishText>Base: Lift the enemy into the air before
+finishing with a powerful thrust.</EnglishText>
       <Notes/>
       <Id>886</Id>
       <Status>Editing</Status>
@@ -2581,17 +2591,17 @@ attack power high into the air.</EnglishText>
     <Entry>
       <PointerOffset>6120</PointerOffset>
       <JapaneseText>紅蓮剣</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hell Pyre</EnglishText>
       <Notes/>
       <Id>887</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6124</PointerOffset>
       <JapaneseText>（グレンケン）特技
 武器に纏わせた炎の闘気を投げつけて敵を燃やし尽くす剣技</JapaneseText>
-      <EnglishText>Wrap your sword in flames
-then throw it at an enemy.</EnglishText>
+      <EnglishText>Base: Wrap your sword in flames before
+throwing it at your enemy on the ground.</EnglishText>
       <Notes/>
       <Id>888</Id>
       <Status>Editing</Status>
@@ -2608,8 +2618,8 @@ then throw it at an enemy.</EnglishText>
       <PointerOffset>6156</PointerOffset>
       <JapaneseText>（コクウソウハザン）特技
 時空剣技の一つ。強烈な闘気で敵を斬り刻む剣技</JapaneseText>
-      <EnglishText>Gathers your soul's energy,
-then releases it towards the enemies.</EnglishText>
+      <EnglishText>Base: A space-time ability that cuts the
+enemy to pieces.</EnglishText>
       <Notes/>
       <Id>890</Id>
       <Status>Editing</Status>
@@ -2617,7 +2627,7 @@ then releases it towards the enemies.</EnglishText>
     <Entry>
       <PointerOffset>6184</PointerOffset>
       <JapaneseText>空間翔転移</JapaneseText>
-      <EnglishText>Lunge</EnglishText>
+      <EnglishText>Eternal Slasher</EnglishText>
       <Notes/>
       <Id>891</Id>
       <Status>Editing</Status>
@@ -2626,7 +2636,8 @@ then releases it towards the enemies.</EnglishText>
       <PointerOffset>6188</PointerOffset>
       <JapaneseText>（クウカンショウテンイ）特技
 時空剣技の一つ。敵の頭上へ瞬間移動し連続攻撃する剣技</JapaneseText>
-      <EnglishText>Use teleportation to strike the enemy without warning.</EnglishText>
+      <EnglishText>Base: A space-time ability that teleports you
+above the enemy before unleashing a combo.</EnglishText>
       <Notes/>
       <Id>892</Id>
       <Status>Editing</Status>
@@ -2643,8 +2654,8 @@ then releases it towards the enemies.</EnglishText>
       <PointerOffset>6220</PointerOffset>
       <JapaneseText>（ジゲンザン）特技
 時空剣技の一つ。空間を歪ませて敵を一刀両断する剣技</JapaneseText>
-      <EnglishText>Divide and conquer
-enemies by distorting space-time.</EnglishText>
+      <EnglishText>Base: A space-time ability that rends
+enemies in two by distorting space-time.</EnglishText>
       <Notes/>
       <Id>894</Id>
       <Status>Editing</Status>
@@ -2661,7 +2672,7 @@ enemies by distorting space-time.</EnglishText>
       <PointerOffset>6252</PointerOffset>
       <JapaneseText>（ヒレンセン）特技
 斬り下ろしから突き上げ、その軌跡でＶの字を描く瞬速の剣技</JapaneseText>
-      <EnglishText>Swing sword in a V and
+      <EnglishText>Base: Swing your sword in a V and
 instantaneously cut through the enemy.</EnglishText>
       <Notes/>
       <Id>896</Id>
@@ -2670,19 +2681,20 @@ instantaneously cut through the enemy.</EnglishText>
     <Entry>
       <PointerOffset>5576,6280</PointerOffset>
       <JapaneseText>襲爪雷斬</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lightning Tiger Blade</EnglishText>
       <Notes/>
       <Id>897</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6284</PointerOffset>
       <JapaneseText>（シュウソウライザン）特技
 大きく斬り上げ、落雷とともに斬り下ろす剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Strike the enemy up with your sword,
+then swing it down with a lightning bolt.</EnglishText>
       <Notes/>
       <Id>898</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6312</PointerOffset>
@@ -2696,7 +2708,8 @@ instantaneously cut through the enemy.</EnglishText>
       <PointerOffset>6316</PointerOffset>
       <JapaneseText>（マジンヒエンキャク）奥義
 魔神剣と飛燕連脚を組み合わせた奥義</JapaneseText>
-      <EnglishText>Demon Fang + Swallow Dance</EnglishText>
+      <EnglishText>Arcane: A combination of Demon Fang &amp;
+Swallow Dance.</EnglishText>
       <Notes/>
       <Id>900</Id>
       <Status>Editing</Status>
@@ -2713,7 +2726,8 @@ instantaneously cut through the enemy.</EnglishText>
       <PointerOffset>6348</PointerOffset>
       <JapaneseText>（マジンソウハザン）奥義
 魔神剣と虎牙破斬を組み合わせた奥義</JapaneseText>
-      <EnglishText>Demon Fang + Tiger Blade</EnglishText>
+      <EnglishText>Arcane: A combination of Demon Fang &amp;
+Tiger Blade</EnglishText>
       <Notes/>
       <Id>902</Id>
       <Status>Editing</Status>
@@ -2730,7 +2744,8 @@ instantaneously cut through the enemy.</EnglishText>
       <PointerOffset>6380</PointerOffset>
       <JapaneseText>（マジンセンレツハ）奥義
 魔神剣と秋沙雨を組み合わせた奥義</JapaneseText>
-      <EnglishText>Demon Fang + Sword Rain</EnglishText>
+      <EnglishText>Arcane: A combination of Demon Fang &amp;
+Sword Rain.</EnglishText>
       <Notes/>
       <Id>904</Id>
       <Status>Editing</Status>
@@ -2747,7 +2762,8 @@ instantaneously cut through the enemy.</EnglishText>
       <PointerOffset>6412</PointerOffset>
       <JapaneseText>（マジンセンクウハ）奥義
 魔神剣と閃空裂破を組み合わせた奥義</JapaneseText>
-      <EnglishText>Demon Fang + Light Spear</EnglishText>
+      <EnglishText>Arcane: A combination of Demon Fang &amp;
+Light Spear.</EnglishText>
       <Notes/>
       <Id>906</Id>
       <Status>Editing</Status>
@@ -2764,7 +2780,8 @@ instantaneously cut through the enemy.</EnglishText>
       <PointerOffset>6444</PointerOffset>
       <JapaneseText>（シシヒエンキャク）奥義
 獅子戦吼と飛燕連脚を組み合わせた奥義</JapaneseText>
-      <EnglishText>Beast + Swallow Dance</EnglishText>
+      <EnglishText>Arcane: A combination of Beast &amp;
+Swallow Dance.</EnglishText>
       <Notes/>
       <Id>908</Id>
       <Status>Editing</Status>
@@ -2781,7 +2798,8 @@ instantaneously cut through the enemy.</EnglishText>
       <PointerOffset>6476</PointerOffset>
       <JapaneseText>（シシコウハザン）奥義
 獅子戦吼と虎牙破斬を組み合わせた奥義</JapaneseText>
-      <EnglishText>Beast + Tiger Blade</EnglishText>
+      <EnglishText>Arcane: A combination of Beast &amp;
+Tiger Blade.</EnglishText>
       <Notes/>
       <Id>910</Id>
       <Status>Editing</Status>
@@ -2798,7 +2816,8 @@ instantaneously cut through the enemy.</EnglishText>
       <PointerOffset>6508</PointerOffset>
       <JapaneseText>（シシセンレツハ）奥義
 獅子戦吼と秋沙雨を組み合わせた奥義</JapaneseText>
-      <EnglishText>Beast + Sword Rain</EnglishText>
+      <EnglishText>Arcane: A combination of Beast &amp;
+Sword Rain.</EnglishText>
       <Notes/>
       <Id>912</Id>
       <Status>Editing</Status>
@@ -2815,7 +2834,8 @@ instantaneously cut through the enemy.</EnglishText>
       <PointerOffset>6540</PointerOffset>
       <JapaneseText>（シシセンクウハ）奥義
 獅子戦吼と閃空裂破を組み合わせた奥義</JapaneseText>
-      <EnglishText>Beast + Light Spear</EnglishText>
+      <EnglishText>Arcane: A combination of Beast &amp;
+Light Spear.</EnglishText>
       <Notes/>
       <Id>914</Id>
       <Status>Editing</Status>
@@ -2832,7 +2852,8 @@ instantaneously cut through the enemy.</EnglishText>
       <PointerOffset>6572</PointerOffset>
       <JapaneseText>（シュウソウヒエンキャク）奥義
 襲爪雷斬と飛燕連脚を組み合わせた奥義</JapaneseText>
-      <EnglishText>Lightning Tiger Blade + Swallow Dance</EnglishText>
+      <EnglishText>Arcane: A combination of Lightning Tiger
+Blade &amp; Swallow Dance.</EnglishText>
       <Notes/>
       <Id>916</Id>
       <Status>Editing</Status>
@@ -2849,7 +2870,8 @@ instantaneously cut through the enemy.</EnglishText>
       <PointerOffset>6604</PointerOffset>
       <JapaneseText>（シュウソウライザンハ）奥義
 襲爪雷斬と虎牙破斬を組み合わせた奥義</JapaneseText>
-      <EnglishText>Lightning Tiger Blade + Tiger Blade</EnglishText>
+      <EnglishText>Arcane: A combination of Lightning Tiger
+Blade &amp; Tiger Blade.</EnglishText>
       <Notes/>
       <Id>918</Id>
       <Status>Editing</Status>
@@ -2866,7 +2888,8 @@ instantaneously cut through the enemy.</EnglishText>
       <PointerOffset>6636</PointerOffset>
       <JapaneseText>（シュウソウセンレツハ）奥義
 襲爪雷斬と秋沙雨を組み合わせた奥義</JapaneseText>
-      <EnglishText>Lightning Tiger Blade + Sword Rain</EnglishText>
+      <EnglishText>Arcane: A combination of Lightning Tiger
+Blade &amp; Sword Rain.</EnglishText>
       <Notes/>
       <Id>920</Id>
       <Status>Editing</Status>
@@ -2883,7 +2906,8 @@ instantaneously cut through the enemy.</EnglishText>
       <PointerOffset>6668</PointerOffset>
       <JapaneseText>（シュウソウセンクウハ）奥義
 襲爪雷斬と閃空裂破を組み合わせた奥義</JapaneseText>
-      <EnglishText>Lightning Tiger Blade + Light Spear</EnglishText>
+      <EnglishText>Arcane: A combination of Lightning Tiger
+Blade &amp; Light Spear.</EnglishText>
       <Notes/>
       <Id>922</Id>
       <Status>Editing</Status>
@@ -2900,7 +2924,8 @@ instantaneously cut through the enemy.</EnglishText>
       <PointerOffset>6700</PointerOffset>
       <JapaneseText>（ホウオウテンショウキャク）奥義
 鳳凰天駆と飛燕連脚を組み合わせた奥義</JapaneseText>
-      <EnglishText>Rising Pheonix + Swallow Dance</EnglishText>
+      <EnglishText>Arcane: A combination of Rising Phoenix
+&amp; Swallow Dance.</EnglishText>
       <Notes/>
       <Id>924</Id>
       <Status>Editing</Status>
@@ -2917,7 +2942,8 @@ instantaneously cut through the enemy.</EnglishText>
       <PointerOffset>6732</PointerOffset>
       <JapaneseText>（ホウオウショウハザン）奥義
 鳳凰天駆と虎牙破斬を組み合わせた奥義</JapaneseText>
-      <EnglishText>Rising Pheonix + Tiger Bade</EnglishText>
+      <EnglishText>Arcane: A combination of Rising Phoenix
+&amp; Tiger Blade.</EnglishText>
       <Notes/>
       <Id>926</Id>
       <Status>Editing</Status>
@@ -2934,7 +2960,8 @@ instantaneously cut through the enemy.</EnglishText>
       <PointerOffset>6764</PointerOffset>
       <JapaneseText>（ホウオウセンレツハ）奥義
 鳳凰天駆と秋沙雨を組み合わせた奥義</JapaneseText>
-      <EnglishText>Rising Pheonix + Sword Rain</EnglishText>
+      <EnglishText>Arcane: A combination of Rising Phoenix
+&amp; Sword Rain.</EnglishText>
       <Notes/>
       <Id>928</Id>
       <Status>Editing</Status>
@@ -2951,7 +2978,8 @@ instantaneously cut through the enemy.</EnglishText>
       <PointerOffset>6796</PointerOffset>
       <JapaneseText>（ホウオウテンクウハ）奥義
 鳳凰天駆と閃空裂破を組み合わせた奥義</JapaneseText>
-      <EnglishText>Rising Pheonix + Light Spear</EnglishText>
+      <EnglishText>Arcane: A combination of Rising Phoenix
+&amp; Light Spear.</EnglishText>
       <Notes/>
       <Id>930</Id>
       <Status>Editing</Status>
@@ -2968,7 +2996,8 @@ instantaneously cut through the enemy.</EnglishText>
       <PointerOffset>6828</PointerOffset>
       <JapaneseText>（ジクウソウハザン）奥義
 時空剣技の一つ。次元斬と虚空蒼破斬を組み合わせた奥義</JapaneseText>
-      <EnglishText>Chaos Blade + Distortion Blade</EnglishText>
+      <EnglishText>Arcane: A space-time ability that combines
+Chaos Blade &amp; Distortion Blade.</EnglishText>
       <Notes/>
       <Id>932</Id>
       <Status>Editing</Status>
@@ -2985,7 +3014,8 @@ instantaneously cut through the enemy.</EnglishText>
       <PointerOffset>6860</PointerOffset>
       <JapaneseText>（テンイソウハザン）奥義
 時空剣技の一つ。空間翔転移と虚空蒼破斬を組み合わせた奥義</JapaneseText>
-      <EnglishText>Chaos Blade + Lunge</EnglishText>
+      <EnglishText>Arcane: A space-time ability that combines
+Chaos Blade &amp; Eternal Slasher.</EnglishText>
       <Notes/>
       <Id>934</Id>
       <Status>Editing</Status>
@@ -2994,19 +3024,20 @@ instantaneously cut through the enemy.</EnglishText>
       <PointerOffset>6892</PointerOffset>
       <JapaneseText>（グレン）特技
 炎を纏った矢で射撃を行う弓技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Fire an arrow imbued with fire.</EnglishText>
       <Notes/>
       <Id>935</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6924</PointerOffset>
       <JapaneseText>（トウガ）特技　効果：麻痺
 冷気を纏った矢で射撃を行う弓技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Fire an arrow imbued with the
+power of ice. Effect: Paralysis.</EnglishText>
       <Notes/>
       <Id>936</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6952</PointerOffset>
@@ -3020,8 +3051,8 @@ instantaneously cut through the enemy.</EnglishText>
       <PointerOffset>6956</PointerOffset>
       <JapaneseText>（ゴウテン）特技
 落雷を発生させる矢を空へ向けて撃ち出す弓技</JapaneseText>
-      <EnglishText>Lightning strikes the enemy
-just as the arrow hits.</EnglishText>
+      <EnglishText>Base: Fire an arrow that will strike the
+enemy with lightning upon impact.</EnglishText>
       <Notes/>
       <Id>938</Id>
       <Status>Editing</Status>
@@ -3030,8 +3061,8 @@ just as the arrow hits.</EnglishText>
       <PointerOffset>6988</PointerOffset>
       <JapaneseText>（ショウハ）特技
 地上へ向けて矢を放ち、地を抉る弓技</JapaneseText>
-      <EnglishText>Fire an arrow that
-flies like an eagle hunting prey.</EnglishText>
+      <EnglishText>Base: Fire an arrow that flies like
+an eagle hunting prey.</EnglishText>
       <Notes/>
       <Id>939</Id>
       <Status>Editing</Status>
@@ -3040,10 +3071,11 @@ flies like an eagle hunting prey.</EnglishText>
       <PointerOffset>7020</PointerOffset>
       <JapaneseText>（シンテン）特技　効果：気絶
 複数の矢を空へ向けて放ち、広範囲の敵の頭上に降らせる弓技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Fire multiple arrows into the sky that
+rain down on foes. Effect: Stun.</EnglishText>
       <Notes/>
       <Id>940</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7048</PointerOffset>
@@ -3057,8 +3089,8 @@ flies like an eagle hunting prey.</EnglishText>
       <PointerOffset>7052</PointerOffset>
       <JapaneseText>（シュウウ）特技
 空より地上を薙ぐように弧を描く矢を放つ弓技</JapaneseText>
-      <EnglishText>An arrow strikes the ground
-sending up a shower of stones.</EnglishText>
+      <EnglishText>Base: Fire an arc of arrows from midair
+that sweeps over the ground.</EnglishText>
       <Notes/>
       <Id>942</Id>
       <Status>Editing</Status>
@@ -3075,10 +3107,10 @@ sending up a shower of stones.</EnglishText>
       <PointerOffset>7084</PointerOffset>
       <JapaneseText>（ハヤテ）特技
 矢を素早く連続で射る弓技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Fire arrows in quick succession.</EnglishText>
       <Notes/>
       <Id>944</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7112</PointerOffset>
@@ -3092,7 +3124,8 @@ sending up a shower of stones.</EnglishText>
       <PointerOffset>7116</PointerOffset>
       <JapaneseText>（タイガ）奥義
 力を込めた矢を水平に高速で撃ち出す弓技</JapaneseText>
-      <EnglishText>Fire an arrow with all your might.</EnglishText>
+      <EnglishText>Arcane: Fire an arrow horizontally at a
+high speed and force.</EnglishText>
       <Notes/>
       <Id>946</Id>
       <Status>Editing</Status>
@@ -3100,17 +3133,17 @@ sending up a shower of stones.</EnglishText>
     <Entry>
       <PointerOffset>7144</PointerOffset>
       <JapaneseText>屠竜</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dragon Slayer</EnglishText>
       <Notes/>
       <Id>947</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7148</PointerOffset>
       <JapaneseText>（トリュウ）奥義
 敵に命中するとはじけて分裂する特殊な弾を撃ち出す弓技</JapaneseText>
-      <EnglishText>Simultaneously fire one arrow straight
-at the enemy with four other guided arrows.</EnglishText>
+      <EnglishText>Arcane: Fire a special arrow that splits
+upon impact.</EnglishText>
       <Notes/>
       <Id>948</Id>
       <Status>Editing</Status>
@@ -3127,10 +3160,11 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>7180</PointerOffset>
       <JapaneseText>（エンセンガ）特技
 手元で短剣を回転させ、敵を斬り刻む双剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Slash the enemy with a spinning
+dagger by twirling it in one's hand.</EnglishText>
       <Notes/>
       <Id>950</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7208</PointerOffset>
@@ -3144,8 +3178,8 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>7212</PointerOffset>
       <JapaneseText>特技　追加技『燕閃牙』
 伸びる刃で敵を絡めとり、手元に引き寄せる双剣技</JapaneseText>
-      <EnglishText>Additional Arte: "Shining Fang"
-伸びる刃で敵を絡めとり、手元に引き寄せる双剣技</EnglishText>
+      <EnglishText>Base: Ensare foes with your whip-sword and
+draw them in. Extends to Shining Fang.</EnglishText>
       <Notes/>
       <Id>952</Id>
       <Status>Editing</Status>
@@ -3162,8 +3196,8 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>7244</PointerOffset>
       <JapaneseText>特技　追加技『虹天疾駆』
 投げた短剣で虹の軌跡を生み出す投擲術</JapaneseText>
-      <EnglishText>Additional Arte: "Koutenshikku"
-投げた短剣で虹の軌跡を生み出す投擲術</EnglishText>
+      <EnglishText>Base: Throw a dagger that leaves a
+rainbow trail. Extends to Rainbow Ascension.</EnglishText>
       <Notes/>
       <Id>954</Id>
       <Status>Editing</Status>
@@ -3180,10 +3214,11 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>7276</PointerOffset>
       <JapaneseText>（テンショウヨク）特技
 短剣を素早く抜き放ち、旋風を巻き起こす双剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: A dual-sword arte that creates a
+whirlwind by quickly unsheathing a dagger.</EnglishText>
       <Notes/>
       <Id>956</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7304</PointerOffset>
@@ -3197,8 +3232,8 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>7308</PointerOffset>
       <JapaneseText>特技　追加技『天翔翼』
 伸ばした刃で地面を抉り、衝撃を起こす双剣技</JapaneseText>
-      <EnglishText>Additional Arte:  "Tenshouyoku"
-伸ばした刃で地面を抉り、衝撃を起こす双剣技</EnglishText>
+      <EnglishText>Base: Slash the ground to cause an
+explosion. Extends into Phoenix Strike.</EnglishText>
       <Notes/>
       <Id>958</Id>
       <Status>Editing</Status>
@@ -3215,16 +3250,17 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>7340</PointerOffset>
       <JapaneseText>（ツバメガエシ）特技
 敵を斜めに斬り抜け、背後から斬り返す双剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Slash the enemy diagonally before
+slashing back from behind them.</EnglishText>
       <Notes/>
       <Id>960</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7368</PointerOffset>
       <JapaneseText>連波女返し</JapaneseText>
       <EnglishText>Tsubame Gaeshi</EnglishText>
-      <Notes/>
+      <Notes>May need to retranslate to indicate it's not the real Tsubame Gaeshi, but rather a pun on words. Maybe Subame Gaeshi or Tsuvame Gaeshi since the "Tsubame" part is the pun. Read the aselia wikia for details.</Notes>
       <Id>961</Id>
       <Status>Editing</Status>
     </Entry>
@@ -3232,10 +3268,11 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>7372</PointerOffset>
       <JapaneseText>（ツバメガエシ）特技
 敵の攻撃を避け、間髪入れず蹴り上げる体技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Take a step back to avoid incoming
+attacks before kicking the enemy.</EnglishText>
       <Notes/>
       <Id>962</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7400</PointerOffset>
@@ -3249,15 +3286,16 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>7404</PointerOffset>
       <JapaneseText>（エンテンシン）特技
 残像を残して敵を斬り裂き、返す刃で斬り戻る双剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Slash through the enemy that you
+leave an afterimage, then slash back.</EnglishText>
       <Notes/>
       <Id>964</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7432</PointerOffset>
       <JapaneseText>封翼爪</JapaneseText>
-      <EnglishText>Pinion Seal</EnglishText>
+      <EnglishText>Sealing Hook</EnglishText>
       <Notes/>
       <Id>965</Id>
       <Status>Editing</Status>
@@ -3266,10 +3304,11 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>7436</PointerOffset>
       <JapaneseText>（ホウヨクソウ）特技
 空中より刃を伸ばして突き下ろし、電撃を流す双剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Throw your sword diagonally from
+the air and create an electric shock from it.</EnglishText>
       <Notes/>
       <Id>966</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7464</PointerOffset>
@@ -3283,8 +3322,8 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>7468</PointerOffset>
       <JapaneseText>（レンジンエンショウケン）奥義　追加技『バックスティンガー』
 闇に溶け込み、踊るように幾度も斬り裂く双剣技</JapaneseText>
-      <EnglishText>（レンジンエンショウケン）Additional Arte:  "Back Stinger"
-闇に溶け込み、踊るように幾度も斬り裂く双剣技</EnglishText>
+      <EnglishText>Arcane: Disappear into the dark and slash
+over and over. Extends to Back Stinger.</EnglishText>
       <Notes/>
       <Id>968</Id>
       <Status>Editing</Status>
@@ -3301,27 +3340,29 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>7500</PointerOffset>
       <JapaneseText>（ヒエンザンクウキャク）奥義
 鋭く二段蹴りを放ち、真空の刃を十文字に飛ばす体技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Carve an X-shaped blade of wind
+with a kick and a slash and send it flying.</EnglishText>
       <Notes/>
       <Id>970</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4872,7528</PointerOffset>
       <JapaneseText>空翔斬</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Soaring Strike</EnglishText>
+      <Notes>Also localized as Featherfall</Notes>
       <Id>971</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4876,7532</PointerOffset>
       <JapaneseText>（クウショウザン）特技　追加技『空翔烈風』
 素早く上空より斬り落とす剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Quickly slash down from the sky.
+Extends to Skysoar Slash.</EnglishText>
       <Notes/>
       <Id>972</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5544,7560</PointerOffset>
@@ -3335,16 +3376,17 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>5548,7564</PointerOffset>
       <JapaneseText>（カゲロウ）特技
 瞬時に敵の頭上へ移動し、垂直に斬り落とす剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Instantly move above the enemy and
+slash them down.</EnglishText>
       <Notes/>
       <Id>974</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7592</PointerOffset>
       <JapaneseText>飛連斬</JapaneseText>
-      <EnglishText>Swallow Blade</EnglishText>
-      <Notes/>
+      <EnglishText>Dreadfall</EnglishText>
+      <Notes>Potentially Swallow Blade</Notes>
       <Id>975</Id>
       <Status>Editing</Status>
     </Entry>
@@ -3352,11 +3394,11 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>7596</PointerOffset>
       <JapaneseText>（ヒレンザン）特技　追加技『飛連双閃』
 斬りつけた後、斬り上げる忍術</JapaneseText>
-      <EnglishText>（ヒレンザン）Additional Arte: 『飛連双閃』
-斬りつけた後、斬り上げる忍術</EnglishText>
-      <Notes/>
+      <EnglishText>A ninjutsu arte that slashes down then up.
+Extends into Dreadchain.</EnglishText>
+      <Notes>May need to revise extension arte - based off Judas' arte Dreadfall and Hirensousen</Notes>
       <Id>976</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>5228,7628</PointerOffset>
@@ -3371,10 +3413,11 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>5420,7660</PointerOffset>
       <JapaneseText>（ロウエイガ）特技
 黒き闇を纏わせた剣で二度斬り抜ける剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Slash twice with a sword imbued
+with darkness.</EnglishText>
       <Notes/>
       <Id>978</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7688</PointerOffset>
@@ -3396,7 +3439,7 @@ at the enemy with four other guided arrows.</EnglishText>
     <Entry>
       <PointerOffset>5608,7720</PointerOffset>
       <JapaneseText>絶影</JapaneseText>
-      <EnglishText>Shadow Drop</EnglishText>
+      <EnglishText>Dark Projection</EnglishText>
       <Notes/>
       <Id>981</Id>
       <Status>Editing</Status>
@@ -3404,41 +3447,43 @@ at the enemy with four other guided arrows.</EnglishText>
     <Entry>
       <PointerOffset>15176,14088,7752</PointerOffset>
       <JapaneseText>裂駆槍</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Skewering Spear</EnglishText>
       <Notes/>
       <Id>982</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>15180,7756</PointerOffset>
       <JapaneseText>（レックソウ）特技
 高速で突進しながら武器を最大限に突き出す戦技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Thrust your spear in front as you
+rush forward at high speeds.</EnglishText>
       <Notes/>
       <Id>983</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8904,7784</PointerOffset>
       <JapaneseText>鎌鼬</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Omega Storm</EnglishText>
       <Notes/>
       <Id>984</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8908,7788</PointerOffset>
       <JapaneseText>（カマイタチ）特技
 真空波を起こして敵を切り刻む忍術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Create a vacuum wave to slice up
+your enemies.</EnglishText>
       <Notes/>
       <Id>985</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7848</PointerOffset>
       <JapaneseText>夢幻刃</JapaneseText>
-      <EnglishText>Mugenjin</EnglishText>
+      <EnglishText>Phantom Assault</EnglishText>
       <Notes/>
       <Id>986</Id>
       <Status>Editing</Status>
@@ -3447,8 +3492,8 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>7852</PointerOffset>
       <JapaneseText>（ムゲンジン）特技　追加技『夢幻抱擁』
 様々な角度から何度も敵に斬りかかる忍術</JapaneseText>
-      <EnglishText>（ムゲンジン）Additional Arte: 『夢幻抱擁』
-様々な角度から何度も敵に斬りかかる忍術</EnglishText>
+      <EnglishText>Base: Ninjutsu that slashes the foe from all
+directions. Extends to Phantom Embrace.</EnglishText>
       <Notes/>
       <Id>987</Id>
       <Status>Editing</Status>
@@ -3474,10 +3519,10 @@ at the enemy with four other guided arrows.</EnglishText>
     <Entry>
       <PointerOffset>14984,7944</PointerOffset>
       <JapaneseText>断空槍</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Judgement Spear</EnglishText>
       <Notes/>
       <Id>990</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>14988,7948</PointerOffset>
@@ -3611,27 +3656,29 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>8204</PointerOffset>
       <JapaneseText>（サミダレ）奥義
 目にも留まらぬ連続攻撃で敵を斬り裂く忍術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Cut through the enemy with a
+series of slashes.</EnglishText>
       <Notes/>
       <Id>1006</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8232</PointerOffset>
       <JapaneseText>影閃手裏剣</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Shadow Flash</EnglishText>
       <Notes/>
       <Id>1007</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8236</PointerOffset>
       <JapaneseText>（エイセンシュリケン）奥義
 影から生み出した巨大な手裏剣を投げつける忍術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Utilize your shadow clones to
+assault your enemy.</EnglishText>
       <Notes/>
       <Id>1008</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8264</PointerOffset>
@@ -3689,7 +3736,7 @@ at the enemy with four other guided arrows.</EnglishText>
     <Entry>
       <PointerOffset>8360</PointerOffset>
       <JapaneseText>フォール・ザ・サン</JapaneseText>
-      <EnglishText>The Sun Falls</EnglishText>
+      <EnglishText>Sun Fall</EnglishText>
       <Notes/>
       <Id>1015</Id>
       <Status>Editing</Status>
@@ -3698,27 +3745,29 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>8364</PointerOffset>
       <JapaneseText>特技
 キュートな外見に似合わない超重量で落下する危ない技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Drop a super heavy weight that
+does not match its cute appearance.</EnglishText>
       <Notes/>
       <Id>1016</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8392</PointerOffset>
       <JapaneseText>どりーむホバー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dream Hover</EnglishText>
       <Notes/>
       <Id>1017</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8396</PointerOffset>
       <JapaneseText>特技
 突進にはねられた者は、夢見心地で吹き飛ばされる技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Anyone hit by this charge will be
+knocked out into next week.</EnglishText>
       <Notes/>
       <Id>1018</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8424</PointerOffset>
@@ -3732,10 +3781,11 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>8428</PointerOffset>
       <JapaneseText>（オニゴロシ）特技
 拳撃により、敵を打ち上げる打撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Launch the enemy into the air with
+a punch.</EnglishText>
       <Notes/>
       <Id>1020</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8456</PointerOffset>
@@ -3749,10 +3799,11 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>8460</PointerOffset>
       <JapaneseText>（ハクロユウブ）特技
 拳と脚を織り交ぜた、華麗な四段打撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: A four-step striking arte that
+utilizes both fists and legs.</EnglishText>
       <Notes/>
       <Id>1022</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8488</PointerOffset>
@@ -3766,10 +3817,11 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>8492</PointerOffset>
       <JapaneseText>（オニクビオトシ）特技
 鋭い回転により勢いをつけ、相手の首元を凪ぐ脚技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: A leg arte that uses the spinning
+momentum to break your foes' neck.</EnglishText>
       <Notes/>
       <Id>1024</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8520</PointerOffset>
@@ -3783,10 +3835,11 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>8524</PointerOffset>
       <JapaneseText>（リュウシャゲリ）特技
 後方宙返りと共に、大きく蹴り上げる脚技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: A leg arte where the user kicks up
+and leaps into a backwards somersault.</EnglishText>
       <Notes/>
       <Id>1026</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8552</PointerOffset>
@@ -3800,10 +3853,11 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>8556</PointerOffset>
       <JapaneseText>（ミソギハライ）特技
 体の回転を利用した、力強い打撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Rotate your body to deal powerful
+strikes.</EnglishText>
       <Notes/>
       <Id>1028</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8584</PointerOffset>
@@ -3817,10 +3871,11 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>8588</PointerOffset>
       <JapaneseText>（カリアシシラヌイ）特技
 相手の足を払い、間髪入れず回し蹴りを放つ脚技 </JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: A leg arte that sweeps your foes
+immediately followed by a spinning kick.</EnglishText>
       <Notes/>
       <Id>1030</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8616</PointerOffset>
@@ -3902,10 +3957,11 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>8748</PointerOffset>
       <JapaneseText>（ウツシミ）特技
 分身と共に三方より同時攻撃を行う忍術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Summon shadow clones to assault
+the enemy from three directions.</EnglishText>
       <Notes/>
       <Id>1040</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19880,8776</PointerOffset>
@@ -3919,10 +3975,11 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>19884,8780</PointerOffset>
       <JapaneseText>（シラヌイ）特技　効果：アイテム盗み
 敵をすり抜けると同時にアイテムを掠め取る忍術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Slip through foes and steal items
+they may be holding. Effect: Item Thief.</EnglishText>
       <Notes/>
       <Id>1042</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8008,8808</PointerOffset>
@@ -3936,10 +3993,11 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>8812</PointerOffset>
       <JapaneseText>（イヅナオトシ）特技
 敵の頭上より襲い掛かり、何度も斬り上げる忍術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Strike above your enemy and cut
+them up.</EnglishText>
       <Notes/>
       <Id>1044</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8840</PointerOffset>
@@ -3953,10 +4011,11 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>8844</PointerOffset>
       <JapaneseText>（マンジュシャゲ）特技
 炎を纏ったクナイを３本投げつける忍術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Throw three kunai imbued with flames
+consecutively.</EnglishText>
       <Notes/>
       <Id>1046</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8872</PointerOffset>
@@ -3970,19 +4029,21 @@ at the enemy with four other guided arrows.</EnglishText>
       <PointerOffset>8876</PointerOffset>
       <JapaneseText>（ライデン）特技
 投げつけたクナイに雷を落とす忍術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Throw a kunai onto the ground and
+cast lightning down on it to launch foes.</EnglishText>
       <Notes/>
       <Id>1048</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8940</PointerOffset>
       <JapaneseText>（サミダレ）奥義
 剣術と武術を合わせ敵を舞い上げる忍術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Combine swordplay and martial arts
+to send the enemy flying.</EnglishText>
       <Notes/>
       <Id>1049</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>8968</PointerOffset>
@@ -4087,10 +4148,11 @@ the enemy.</EnglishText>
       <PointerOffset>9228</PointerOffset>
       <JapaneseText>（クウハトッコウダン）特技
 体を張って空中より突撃する技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Launch your body at the enemy from
+the air.</EnglishText>
       <Notes/>
       <Id>1062</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9256</PointerOffset>
@@ -4104,10 +4166,10 @@ the enemy.</EnglishText>
       <PointerOffset>9260</PointerOffset>
       <JapaneseText>奥義
 クルクルクックルル！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Kurururuu!</EnglishText>
       <Notes/>
       <Id>1064</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9288</PointerOffset>
@@ -4121,10 +4183,11 @@ the enemy.</EnglishText>
       <PointerOffset>9292</PointerOffset>
       <JapaneseText>特技
 お尻から特攻し、強烈なヒップアタックを見舞う技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Dive at your enemies with your hips
+to deal a powerful blow.</EnglishText>
       <Notes/>
       <Id>1066</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9320</PointerOffset>
@@ -4138,36 +4201,39 @@ the enemy.</EnglishText>
       <PointerOffset>9324</PointerOffset>
       <JapaneseText>特技　効果：気絶
 術「ピコハン」を模倣し、敵の頭上へ落下して気絶を狙う技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Leap into the air and ground pound
+your foes to stun them. Effect: Stun.</EnglishText>
       <Notes/>
       <Id>1068</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>12172,9356</PointerOffset>
       <JapaneseText>特技　効果：ガルド盗み
 敵の懐を狙ったガルドぶんどり攻撃、良い子は多用しないでね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Steal gald by aiming for your enemies'
+pockets. Try not to use it too often, kids.</EnglishText>
       <Notes/>
       <Id>1069</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10088,10248,9416</PointerOffset>
       <JapaneseText>サンダービーム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thunder Beam</EnglishText>
       <Notes/>
       <Id>1070</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>10092,10252,9420</PointerOffset>
       <JapaneseText>特技　効果：麻痺
 あの幻の技がいまここに…射程の短さはご愛敬</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: This legendary arte is finally useable...
+Its short range is part of the charm. Effect: Paralysis</EnglishText>
       <Notes/>
       <Id>1071</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9448</PointerOffset>
@@ -4181,27 +4247,29 @@ the enemy.</EnglishText>
       <PointerOffset>9452</PointerOffset>
       <JapaneseText>特技
 びっくり箱を召喚し、地面に設置する発明技。触れた敵をふっとばす！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: An arte that summons a surprise box
+that blows any enemy who touches it.</EnglishText>
       <Notes/>
       <Id>1073</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9480</PointerOffset>
       <JapaneseText>鉄球マシーン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Iron Ball Machine</EnglishText>
       <Notes/>
       <Id>1074</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9484</PointerOffset>
       <JapaneseText>特技
 周回運動を行う鉄球を召喚する発明技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: An innovative arte that summons an
+iron ball that moves in a circle.</EnglishText>
       <Notes/>
       <Id>1075</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>9512</PointerOffset>
@@ -4350,10 +4418,10 @@ the enemy.</EnglishText>
     <Entry>
       <PointerOffset>9832</PointerOffset>
       <JapaneseText>リフレクトレイジ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reflect Rage</EnglishText>
       <Notes/>
       <Id>1093</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9836</PointerOffset>
@@ -4367,10 +4435,10 @@ the enemy.</EnglishText>
     <Entry>
       <PointerOffset>11752,9864</PointerOffset>
       <JapaneseText>ディジースリンガー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dizzy Slinger</EnglishText>
       <Notes/>
       <Id>1095</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11756,9868</PointerOffset>
@@ -4384,43 +4452,44 @@ the enemy.</EnglishText>
     <Entry>
       <PointerOffset>12360,9928</PointerOffset>
       <JapaneseText>レモーテスラッシュ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Le Morte Slash</EnglishText>
       <Notes/>
       <Id>1097</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>11720,9960</PointerOffset>
       <JapaneseText>クレイジースリンガー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Crazy Slinger</EnglishText>
       <Notes/>
       <Id>1098</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9932,9900,9964</PointerOffset>
       <JapaneseText>新しく増やしたＩＤ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Newly Added ID</EnglishText>
       <Notes/>
       <Id>1099</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>18440,9992,9384,10056</PointerOffset>
       <JapaneseText>ボムレイン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bomb Rain</EnglishText>
       <Notes/>
       <Id>1100</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>9388,9996,10060</PointerOffset>
       <JapaneseText>特技
 取り出した爆弾をいくつも投げ落とす、とっても危険な魔技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: A dangerous arte where you take out
+numerous bombs and throw them.</EnglishText>
       <Notes/>
       <Id>1101</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18504,10184,10152</PointerOffset>
@@ -4643,7 +4712,7 @@ a shockwave.</EnglishText>
       <PointerOffset>10860</PointerOffset>
       <JapaneseText>（チリヒサメ）特技
 冷気を纏った剣身で素早く何度も突き刺し、凍傷を与える剣技</JapaneseText>
-      <EnglishText>(Chirihisame) Stab the enemy numerous times,
+      <EnglishText>Base: Stab the enemy numerous times,
 finishing with a single ice cold stab.</EnglishText>
       <Notes/>
       <Id>1127</Id>
@@ -4771,8 +4840,8 @@ finishing with a single ice cold stab.</EnglishText>
       <PointerOffset>11180</PointerOffset>
       <JapaneseText>（フウジンケン）特技　追加技『風迅裂昇』
 重心を低くとり、敵を鋭く突き刺す突進剣技</JapaneseText>
-      <EnglishText>(Fuujinken) Stab the enemy, creating a small
-hurricane. Extend: Add's upward slash.</EnglishText>
+      <EnglishText>Base: Stab the enemy, creating a small
+hurricane. Extends to Rising Gale.</EnglishText>
       <Notes/>
       <Id>1142</Id>
       <Status>Editing</Status>
@@ -5616,8 +5685,8 @@ it from a distance at your foes.</EnglishText>
       <PointerOffset>13356</PointerOffset>
       <JapaneseText>（ゼッパレッヒョウゲキ）奥義
 大気の水分を凍らせ固め、対象を凍結させ、更に打ち砕く拳技</JapaneseText>
-      <EnglishText>Creates an orb of frost in front of the user,
-then forces the orb to explode.</EnglishText>
+      <EnglishText>Arcane: Create an orb of frost in front of
+yourself, then force it to explode.</EnglishText>
       <Notes/>
       <Id>1239</Id>
       <Status>Editing</Status>
@@ -5634,8 +5703,8 @@ then forces the orb to explode.</EnglishText>
       <PointerOffset>13388</PointerOffset>
       <JapaneseText>（シャクガンケン）奥義
 岩をも砕く堅い拳で、正面の物を打ち砕く拳技</JapaneseText>
-      <EnglishText>Created a volcanic orb of energy in front of the
-user, causing great fire damage to the enemy.</EnglishText>
+      <EnglishText>Arcane: Crush anything in front of you
+with a fist hard enough to shatter a rock.</EnglishText>
       <Notes/>
       <Id>1241</Id>
       <Status>Editing</Status>
@@ -5970,7 +6039,7 @@ the enemy. Extend Effect: Frost Hammer</EnglishText>
       <PointerOffset>14056</PointerOffset>
       <JapaneseText>真空烈ニャン</JapaneseText>
       <EnglishText>Omega Tempest Meow</EnglishText>
-      <Notes/>
+      <Notes>Meowmega Tempest</Notes>
       <Id>1280</Id>
       <Status>Editing</Status>
     </Entry>
@@ -6185,8 +6254,8 @@ creating a damaging shockwave.</EnglishText>
     <Entry>
       <PointerOffset>15592,14536</PointerOffset>
       <JapaneseText>裂走天翔撃</JapaneseText>
-      <EnglishText>Goring Descent</EnglishText>
-      <Notes/>
+      <EnglishText>Goring Ascent</EnglishText>
+      <Notes>Rretranslated as Goring Ascent considering you hit the enemy up into the air.</Notes>
       <Id>1305</Id>
       <Status>Editing</Status>
     </Entry>
@@ -6194,10 +6263,11 @@ creating a damaging shockwave.</EnglishText>
       <PointerOffset>14540</PointerOffset>
       <JapaneseText>（レッソウテンショウゲキ）奥義
 裂駆槍で敵に攻撃した後、武器を大きく振り上げる戦技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Swing your weapon in a wide arc
+after striking your enemy.</EnglishText>
       <Notes/>
       <Id>1306</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>14600</PointerOffset>
@@ -6237,7 +6307,7 @@ creating a damaging shockwave.</EnglishText>
       <PointerOffset>14668</PointerOffset>
       <JapaneseText>（バク・マジンケン）特技
 武器に力を溜め、地上を抉り連鎖する衝撃波を打ち出す戦技</JapaneseText>
-      <EnglishText>(Majinken Bak) Accumulate power within your
+      <EnglishText>Base: Accumulate power within your
 axe and release it all at once.</EnglishText>
       <Notes/>
       <Id>1311</Id>
@@ -6247,10 +6317,11 @@ axe and release it all at once.</EnglishText>
       <PointerOffset>14700</PointerOffset>
       <JapaneseText>（ヒョウコウガ）特技ＬＶ１
 武器を凍らせ、地面に叩きつけ氷の刃を突き出す戦技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Imbue your axe with ice and slam it
+on the ground to hurl icicles at your foes.</EnglishText>
       <Notes/>
       <Id>1312</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>14728</PointerOffset>
@@ -6264,10 +6335,11 @@ axe and release it all at once.</EnglishText>
       <PointerOffset>14732</PointerOffset>
       <JapaneseText>（ヒョウコウガ）特技
 武器を凍らせ、地面に叩きつけ氷の刃を突き出す戦技</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Base: Imbue your spear with ice and slam it
+on the ground to hurl icicles at your foes.</EnglishText>
+      <Notes>Need to check if it's actually icicles.</Notes>
       <Id>1314</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>14760</PointerOffset>
@@ -6281,10 +6353,11 @@ axe and release it all at once.</EnglishText>
       <PointerOffset>14764</PointerOffset>
       <JapaneseText>（ドリュウショウ・ゴウケン）奥義　効果：物攻↑
 地面に衝撃を与え敵を弾き飛ばし、斬り払う戦技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Slam the ground to send enemies
+flying. Effect: P.ATK ↑</EnglishText>
       <Notes/>
       <Id>1316</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>14792</PointerOffset>
@@ -6298,7 +6371,7 @@ axe and release it all at once.</EnglishText>
       <PointerOffset>14796</PointerOffset>
       <JapaneseText>（ドリュウショウ）特技
 地面に衝撃を与え、少し離れた前方に砂煙を巻き上げる戦技</JapaneseText>
-      <EnglishText>(Doryuushou) Swing your axe upwards, leaving
+      <EnglishText>Base: Swing your axe upwards, leaving
 behind a trail of dust.</EnglishText>
       <Notes/>
       <Id>1318</Id>
@@ -6429,7 +6502,7 @@ behind a trail of dust.</EnglishText>
     <Entry>
       <PointerOffset>15144</PointerOffset>
       <JapaneseText>裂駆閃・堅装</JapaneseText>
-      <EnglishText>Rekkusen Kensou</EnglishText>
+      <EnglishText>Ramming Barrier</EnglishText>
       <Notes/>
       <Id>1333</Id>
       <Status>Editing</Status>
@@ -6438,10 +6511,11 @@ behind a trail of dust.</EnglishText>
       <PointerOffset>15148</PointerOffset>
       <JapaneseText>（レックセン・ケンソウ）奥義　効果：物防↑
 力の防壁を張り巡らせ、高速で突進する戦技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Rush at your foes with a protective
+barrier. Effect: P.DEF↑</EnglishText>
       <Notes/>
       <Id>1334</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>15208</PointerOffset>
@@ -6678,7 +6752,7 @@ behind a trail of dust.</EnglishText>
     <Entry>
       <PointerOffset>15720</PointerOffset>
       <JapaneseText>氷爆旋風牙</JapaneseText>
-      <EnglishText>Hyoubaku Senpuuga</EnglishText>
+      <EnglishText>Glacial Fang Blast</EnglishText>
       <Notes/>
       <Id>1362</Id>
       <Status>Editing</Status>
@@ -6687,10 +6761,11 @@ behind a trail of dust.</EnglishText>
       <PointerOffset>15724</PointerOffset>
       <JapaneseText>（ヒョウバクセンプウガ）奥義
 武器を地面に突き立て、地面から広範囲に衝撃波を打ち出す戦技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Thrust your spear into the ground
+to summon an explosive blast of water.</EnglishText>
       <Notes/>
       <Id>1363</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>15752</PointerOffset>
@@ -7188,45 +7263,47 @@ shoot at them with exploding bullets.</EnglishText>
     <Entry>
       <PointerOffset>6888,16840</PointerOffset>
       <JapaneseText>紅蓮</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hell Fire</EnglishText>
       <Notes/>
       <Id>1421</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16844</PointerOffset>
       <JapaneseText>（グレン）特技
 炎を纏った矢で射撃を行う射撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Shoot an arrow imbued with fire.</EnglishText>
       <Notes/>
       <Id>1422</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16876</PointerOffset>
       <JapaneseText>（トウガ）特技ＬＶ１
 冷気を纏った射撃を行う射撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV1: Shoot an arrow imbued with the
+power of ice.</EnglishText>
       <Notes/>
       <Id>1423</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6920,16904</PointerOffset>
       <JapaneseText>凍牙</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ice Fang</EnglishText>
       <Notes/>
       <Id>1424</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16908</PointerOffset>
       <JapaneseText>（トウガ）特技
 冷気を纏った矢で射撃を行う射撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Shoot an arrow imbued with the
+power of ice.</EnglishText>
       <Notes/>
       <Id>1425</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16936</PointerOffset>
@@ -7259,10 +7336,11 @@ enemy in front of you.</EnglishText>
       <PointerOffset>17004</PointerOffset>
       <JapaneseText>（シンテン）特技ＬＶ１
 複数の矢を空へ向けて放ち、広範囲の敵の頭上に降らせる射撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV1: Fire multiple arrows into the sky
+that rain down on foes.</EnglishText>
       <Notes/>
       <Id>1429</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7016,17032</PointerOffset>
@@ -7276,10 +7354,11 @@ enemy in front of you.</EnglishText>
       <PointerOffset>17036</PointerOffset>
       <JapaneseText>（シンテン）特技　効果：気絶
 複数の矢を空へ向けて放ち、広範囲の敵の頭上に降らせる射撃技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base: Fire multiple arrows into the sky that
+rain down on foes. Effect: Stun.</EnglishText>
       <Notes/>
       <Id>1431</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>17068</PointerOffset>
@@ -7450,8 +7529,8 @@ arrows made of light at the enemy below.</EnglishText>
       <PointerOffset>17420</PointerOffset>
       <JapaneseText>奥義　追加技『セブンウェイ（水平射撃）』
 多量のコインをばら撒き、それを狙うように連続で撃つ射撃技</JapaneseText>
-      <EnglishText>Throw even coins at the enemy, and then shoot
-the enemy twice. Extend: Add a shot.</EnglishText>
+      <EnglishText>Arcane: Throw coins at the enemy, then
+shoot the enemy twice. Extend: Add a shot.</EnglishText>
       <Notes/>
       <Id>1451</Id>
       <Status>Editing</Status>
@@ -7624,7 +7703,7 @@ the enemies in front of you.</EnglishText>
       <PointerOffset>17740</PointerOffset>
       <JapaneseText>（ライザンショウ）特技　追加技『雷斬衝』
 雷を呼び起こして、斬り下ろしと共に打ちつける剣技</JapaneseText>
-      <EnglishText>(Raizanshou) Invokes lightning with a downward
+      <EnglishText>Base: Invokes lightning with a downward
 slash. Extend Effect: Add a second slash.</EnglishText>
       <Notes/>
       <Id>1471</Id>
@@ -7642,7 +7721,7 @@ slash. Extend Effect: Add a second slash.</EnglishText>
       <PointerOffset>17772</PointerOffset>
       <JapaneseText>（サイヒョウジン）特技
 冷気を纏ったＸ字斬りで相手を凍結させる剣技</JapaneseText>
-      <EnglishText>(Saihyoujin) Imbues sword with ice to cut the
+      <EnglishText>Base: Imbues sword with ice to cut the
 enemy in the form of an X.</EnglishText>
       <Notes/>
       <Id>1473</Id>
@@ -7660,7 +7739,7 @@ enemy in the form of an X.</EnglishText>
       <PointerOffset>17836</PointerOffset>
       <JapaneseText>（フウガゼッコウ）特技
 間合いを一瞬で詰めて突きを繰り出す剣技</JapaneseText>
-      <EnglishText>(Fuugazekkou) Rush forward, stabbing the
+      <EnglishText>Base: Rush forward, stabbing the
 enemy along the way.</EnglishText>
       <Notes/>
       <Id>1475</Id>
@@ -11804,7 +11883,8 @@ more cool!</EnglishText>
       <PointerOffset>38604</PointerOffset>
       <JapaneseText>水系攻撃呪文の中で最も簡単なもの。氷刃を発射する
 エクステンドスペル効果：氷刃が増加する</JapaneseText>
-      <EnglishText>Shoots off a stream of ice needles at the enemy.</EnglishText>
+      <EnglishText>The simplest of water spells that shoots
+icicles. Extend: Increase number of icicles.</EnglishText>
       <Notes/>
       <Id>1956</Id>
       <Status>Editing</Status>
@@ -11812,16 +11892,17 @@ more cool!</EnglishText>
     <Entry>
       <PointerOffset>44360,38632</PointerOffset>
       <JapaneseText>ストーンブラスト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Stone Blast</EnglishText>
       <Notes/>
       <Id>1957</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44364,38636</PointerOffset>
       <JapaneseText>地系攻撃呪文の中で最も簡単なもの。岩石を発射する
 エクステンドスペル効果：岩石が増加する</JapaneseText>
-      <EnglishText>Launch stones from below the enemy.</EnglishText>
+      <EnglishText>The simplest of earth spells that launches
+stones. Extend: Launch more rocks.</EnglishText>
       <Notes/>
       <Id>1958</Id>
       <Status>Editing</Status>
@@ -11830,19 +11911,21 @@ more cool!</EnglishText>
       <PointerOffset>38668</PointerOffset>
       <JapaneseText>雷系攻撃呪文の中で最も簡単なもの。小さな雷を落とす
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The simplest of lightning spells that casts a
+small lightning bolt. Extend: Increase damage.</EnglishText>
       <Notes/>
       <Id>1959</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44300,38700</PointerOffset>
       <JapaneseText>風系攻撃呪文の一つ。敵の周囲に突風を巻き起こす
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A wind spell that conjures a gust of wind
+around the enemy. Extend: Increase damage.</EnglishText>
       <Notes/>
       <Id>1960</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38728</PointerOffset>
@@ -11856,7 +11939,8 @@ more cool!</EnglishText>
       <PointerOffset>38732</PointerOffset>
       <JapaneseText>地系攻撃呪文の一つ。地面から岩の槍が突き出す
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText>Spear-shaped rocks are thrust up from below.</EnglishText>
+      <EnglishText>Spear-shaped rocks are thrust up from
+below. Extend: Increase damage.</EnglishText>
       <Notes/>
       <Id>1962</Id>
       <Status>Editing</Status>
@@ -11864,27 +11948,28 @@ more cool!</EnglishText>
     <Entry>
       <PointerOffset>44872,38760</PointerOffset>
       <JapaneseText>シャンパーニュ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Champagne</EnglishText>
       <Notes/>
       <Id>1963</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38764</PointerOffset>
       <JapaneseText>水系攻撃呪文の一つ。敵を沸き立つ水泡で打ち上げる
 エクステンドスペル効果：泡の数が増加する</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>A water spell that strikes the enemy with
+boiling bubbles. Extend: Increase bubbles.</EnglishText>
+      <Notes>Maybe "launch" instead of strikes if that's what it actually does</Notes>
       <Id>1964</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44456,44424,38792</PointerOffset>
       <JapaneseText>アイストーネード</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ice Tornado</EnglishText>
       <Notes/>
       <Id>1965</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38824</PointerOffset>
@@ -11898,8 +11983,9 @@ more cool!</EnglishText>
       <PointerOffset>38828</PointerOffset>
       <JapaneseText>火系攻撃呪文の一つ。敵の周囲に溶岩弾を噴出させる
 エクステンドスペル効果：吹き飛ばす威力と溶岩弾が増加する</JapaneseText>
-      <EnglishText>Causes columns of lava to
-erupt around the enemy.</EnglishText>
+      <EnglishText>A fire spell that causes columns of lava to
+erupt around the enemy. Extend: Increase the
+explosiveness and sends out more fire.</EnglishText>
       <Notes/>
       <Id>1967</Id>
       <Status>Editing</Status>
@@ -11917,7 +12003,8 @@ erupt around the enemy.</EnglishText>
       <JapaneseText>無属性攻撃呪文の一つ。地上の敵を空へ持ち上げる
 エクステンドスペル効果：威力が増加する</JapaneseText>
       <EnglishText>A non-elemental attack spell that lifts enemies
-off the ground and then drops them back down.</EnglishText>
+off the ground and then drops them back down.
+Extend: Increase damage.</EnglishText>
       <Notes/>
       <Id>1969</Id>
       <Status>Editing</Status>
@@ -11934,8 +12021,9 @@ off the ground and then drops them back down.</EnglishText>
       <PointerOffset>38892</PointerOffset>
       <JapaneseText>雷系攻撃呪文の一つ。敵の周囲に落雷を生じさせる
 エクステンドスペル効果：衝撃波が追加される</JapaneseText>
-      <EnglishText>A lightning-based attack spell that
-causes a lightning strike around the enemy.</EnglishText>
+      <EnglishText>A lightning spell that causes a lightning
+strike around the enemy.
+Extend: Adds a shockwave.</EnglishText>
       <Notes/>
       <Id>1971</Id>
       <Status>Editing</Status>
@@ -11952,8 +12040,9 @@ causes a lightning strike around the enemy.</EnglishText>
       <PointerOffset>38924</PointerOffset>
       <JapaneseText>風系攻撃呪文の一つ。敵の周囲に竜巻を生じさせる
 エクステンドスペル効果：威力と攻撃回数が増加する</JapaneseText>
-      <EnglishText>A wind-based attack spell that
-causes a cyclone around enemies.</EnglishText>
+      <EnglishText>A wind spell spell that conjures a cyclone
+around enemies.
+Extend: Increase damage and hit count.</EnglishText>
       <Notes/>
       <Id>1973</Id>
       <Status>Editing</Status>
@@ -11970,8 +12059,9 @@ causes a cyclone around enemies.</EnglishText>
       <PointerOffset>38956</PointerOffset>
       <JapaneseText>光系攻撃呪文の一つ。天より降り注ぐレーザーで敵を射抜く
 エクステンドスペル効果：レーザーの数が増加する</JapaneseText>
-      <EnglishText>The enemy is showered with
-numerous heat rays.</EnglishText>
+      <EnglishText>A light spell that showers enemies with
+numerous lasers from the sky.
+Extend: Increase number of lasers.</EnglishText>
       <Notes/>
       <Id>1975</Id>
       <Status>Editing</Status>
@@ -11979,19 +12069,21 @@ numerous heat rays.</EnglishText>
     <Entry>
       <PointerOffset>44520,44488,38984</PointerOffset>
       <JapaneseText>ファイアストーム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fire Storm</EnglishText>
       <Notes/>
       <Id>1976</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44492,38988</PointerOffset>
       <JapaneseText>火系攻撃呪文の一つ。敵に向かって炎の渦を巻き起こす
 エクステンドスペル効果：範囲が拡大する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A fire spell that conjures a vortex of
+flames in front of you.
+Extend: Increase the range.</EnglishText>
       <Notes/>
       <Id>1977</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39016</PointerOffset>
@@ -12005,8 +12097,8 @@ numerous heat rays.</EnglishText>
       <PointerOffset>39020</PointerOffset>
       <JapaneseText>地系攻撃呪文の一つ。巨石を落下させて敵を押しつぶす
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText>An earth-based attack spell that
-crushes enemies with huge boulders.</EnglishText>
+      <EnglishText>An earth spell that crushes enemies with
+huge boulders. Extend: Increase damage.</EnglishText>
       <Notes/>
       <Id>1979</Id>
       <Status>Editing</Status>
@@ -12014,10 +12106,10 @@ crushes enemies with huge boulders.</EnglishText>
     <Entry>
       <PointerOffset>39048</PointerOffset>
       <JapaneseText>テンペスト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Tempest</EnglishText>
       <Notes/>
       <Id>1980</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39052</PointerOffset>
@@ -12041,8 +12133,8 @@ to strike the enemy.</EnglishText>
       <PointerOffset>39084</PointerOffset>
       <JapaneseText>水系攻撃呪文の一つ。敵の足元に激しい大渦を生み出す
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText>A water-based attack spell that
-creates a vortex beneath enemies.</EnglishText>
+      <EnglishText>A water spell that creates a vortex
+beneath enemies.</EnglishText>
       <Notes/>
       <Id>1983</Id>
       <Status>Editing</Status>
@@ -12058,51 +12150,54 @@ creates a vortex beneath enemies.</EnglishText>
     <Entry>
       <PointerOffset>44680,39144</PointerOffset>
       <JapaneseText>ゴッドブレス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>God's Breath</EnglishText>
       <Notes/>
       <Id>1985</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44684,39148</PointerOffset>
       <JapaneseText>風系攻撃呪文の一つ。風圧で敵を押し潰す
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A wind spell that crushes the enemy under
+its wind pressure. Extend: Increase damage.</EnglishText>
       <Notes/>
       <Id>1986</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45960,44552,44584,39208</PointerOffset>
       <JapaneseText>インデグニション</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Indignation</EnglishText>
       <Notes/>
       <Id>1987</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44588,39212</PointerOffset>
       <JapaneseText>雷系攻撃呪文の一つ。敵の周囲に強力な雷を落とす
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A lightning spell that drops a powerful
+lightning bolt on the enemy.
+Extend: Increase damage. </EnglishText>
       <Notes/>
       <Id>1988</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45736,45768,42344,39304</PointerOffset>
       <JapaneseText>シャイニングブレード</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Shining Blade</EnglishText>
       <Notes/>
       <Id>1989</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39308</PointerOffset>
       <JapaneseText>光系攻撃呪文の一つ。空より大量の光の剣を落下させる
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText>A light-based attack spell that
-drops a sword of light from the sky.</EnglishText>
+      <EnglishText>A light spell that drops numerous swords of
+light from the sky. Extend: Increase power.</EnglishText>
       <Notes/>
       <Id>1990</Id>
       <Status>Editing</Status>
@@ -12111,10 +12206,11 @@ drops a sword of light from the sky.</EnglishText>
       <PointerOffset>44940,39340</PointerOffset>
       <JapaneseText>味方一人のＨＰを３０％回復させる
 エクステンドスペル効果：回復量が４５％に増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Restores 30% of max HP to one ally.
+Extend: Restores 45% of max HP.</EnglishText>
       <Notes/>
       <Id>1991</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39368</PointerOffset>
@@ -12128,8 +12224,8 @@ drops a sword of light from the sky.</EnglishText>
       <PointerOffset>39372</PointerOffset>
       <JapaneseText>敵の頭上にハンマーを落として気絶させる
 エクステンドスペル効果：ハンマー落下速度ＵＰ</JapaneseText>
-      <EnglishText>Stun an enemy by causing a
-hammer to fall on their head.</EnglishText>
+      <EnglishText>Stun an enemy by dropping a hammer on
+their head. Extend: Faster drop speed.</EnglishText>
       <Notes/>
       <Id>1993</Id>
       <Status>Editing</Status>
@@ -12139,7 +12235,7 @@ hammer to fall on their head.</EnglishText>
       <JapaneseText>味方一人の術技の消費ＥＢＧを、一度だけ０％に抑える
 エクステンドスペル効果：二回、術技の消費ＥＢＧを０％に抑える</JapaneseText>
       <EnglishText>Decrease cost of ally's next arte to 0% EBG.
-Extend Effect: Ally's next two artes.</EnglishText>
+Extend: Affect's ally's next two artes.</EnglishText>
       <Notes/>
       <Id>1994</Id>
       <Status>Editing</Status>
@@ -12156,8 +12252,8 @@ Extend Effect: Ally's next two artes.</EnglishText>
       <PointerOffset>39436</PointerOffset>
       <JapaneseText>敵一体の物理攻撃力を３０秒間５０％下げる霧を発生させる
 エクステンドスペル効果：持続時間が６０秒に増加する</JapaneseText>
-      <EnglishText>Decreases enemy's attack by 50% for 30 seconds.
-Extend Effect: 60 seconds</EnglishText>
+      <EnglishText>Decrease enemy's attack by 50% for 30
+seconds. Extend: Duration for 60 seconds.</EnglishText>
       <Notes/>
       <Id>1996</Id>
       <Status>Editing</Status>
@@ -12175,26 +12271,27 @@ Extend Effect: Provides immunity for 60 seconds.</EnglishText>
     <Entry>
       <PointerOffset>44968,39496</PointerOffset>
       <JapaneseText>シャープネス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sharpness</EnglishText>
       <Notes/>
       <Id>1998</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44972,39500</PointerOffset>
       <JapaneseText>味方一人の物理攻撃力を３０秒間１５％上昇させる
 エクステンドスペル効果：持続時間が６０秒に増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Increase an ally's P.ATK by 15% for 30
+seconds. Extend: Duration for 60 seconds.</EnglishText>
       <Notes/>
       <Id>1999</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45068,39532</PointerOffset>
       <JapaneseText>味方一人のＨＰを５０％回復させる
 エクステンドスペル効果：回復量が７５％に増加する</JapaneseText>
       <EnglishText>Restores 50% of max HP to one ally.
-Extend Effect: Restores 75% of max HP.</EnglishText>
+Extend: Restores 75% of max HP.</EnglishText>
       <Notes/>
       <Id>2000</Id>
       <Status>Editing</Status>
@@ -12211,8 +12308,8 @@ Extend Effect: Restores 75% of max HP.</EnglishText>
       <PointerOffset>39564</PointerOffset>
       <JapaneseText>範囲内の敵の物理防御力を３０秒間５０％下げる酸の雨を降らせる
 エクステンドスペル効果：持続時間が６０秒に増加する</JapaneseText>
-      <EnglishText>Decrease enemy's defense by 50% for 30 seconds.
-Extend Effect: 60 seconds</EnglishText>
+      <EnglishText>Decrease enemy's defense by 50% for 30
+seconds. Extend: Duration for 60 seconds.</EnglishText>
       <Notes/>
       <Id>2002</Id>
       <Status>Editing</Status>
@@ -12229,8 +12326,8 @@ Extend Effect: 60 seconds</EnglishText>
       <PointerOffset>39596</PointerOffset>
       <JapaneseText>敵一体を封印状態にし、一定時間術を使えないようにする
 エクステンドスペル効果：ターゲットにダメージを与える</JapaneseText>
-      <EnglishText>Prevents enemy from casting spells.
-Extend Effect: Increase duration.</EnglishText>
+      <EnglishText>Inflict seal on an enemy, sealing their ability
+to cast spells. Extend: Inflict damage.</EnglishText>
       <Notes/>
       <Id>2004</Id>
       <Status>Editing</Status>
@@ -12248,7 +12345,7 @@ Extend Effect: Increase duration.</EnglishText>
       <JapaneseText>味方全員のＨＰを４０％回復させる
 エクステンドスペル効果：回復量が６０％に増加する</JapaneseText>
       <EnglishText>Restore 40% of max HP to the party.
-Extend Effect: Restore 60% of max HP.</EnglishText>
+Extend: Restore 60% of max HP.</EnglishText>
       <Notes/>
       <Id>2006</Id>
       <Status>Editing</Status>
@@ -12273,8 +12370,9 @@ Extend Effect: Restore 60% of max HP.</EnglishText>
       <PointerOffset>39692</PointerOffset>
       <JapaneseText>範囲内の全ての敵、味方の状態変化を解除する（能力上昇も解除）
 エクステンドスペル効果：範囲が拡大する</JapaneseText>
-      <EnglishText>Dispels an allies magical ailments.
-Extend Effect: Area of effect increased.</EnglishText>
+      <EnglishText>Remove status effects of all enemies and
+allies in range (including stat boosts).
+Extend: Area of effect increased.</EnglishText>
       <Notes/>
       <Id>2009</Id>
       <Status>Editing</Status>
@@ -12292,7 +12390,7 @@ Extend Effect: Area of effect increased.</EnglishText>
       <JapaneseText>味方一人のＨＰを７０％回復させる
 エクステンドスペル効果：回復量が１００％に増加する</JapaneseText>
       <EnglishText>Restore 70% of max HP to one ally.
-Extend Effect: Restore 100% of max HP.</EnglishText>
+Extend: Restore 100% of max HP.</EnglishText>
       <Notes/>
       <Id>2011</Id>
       <Status>Editing</Status>
@@ -12309,8 +12407,8 @@ Extend Effect: Restore 100% of max HP.</EnglishText>
       <PointerOffset>39756</PointerOffset>
       <JapaneseText>敵の頭上に巨大なハンマーを落として長時間気絶させる
 エクステンドスペル効果：気絶時間が延びる</JapaneseText>
-      <EnglishText>Throw numerous hammers to stun the enemy.
-Extend Effect: Increase stun duration.</EnglishText>
+      <EnglishText>Drop a huge hammer on the enemy to stun
+them. Extend: Increase stun duration.</EnglishText>
       <Notes/>
       <Id>2013</Id>
       <Status>Editing</Status>
@@ -12318,28 +12416,31 @@ Extend Effect: Increase stun duration.</EnglishText>
     <Entry>
       <PointerOffset>45032,39784</PointerOffset>
       <JapaneseText>バリアー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Barrier</EnglishText>
       <Notes/>
       <Id>2014</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45036,39788</PointerOffset>
       <JapaneseText>味方一人の物理防御力を３０秒間１００％上昇させる
 エクステンドスペル効果：持続時間が６０秒に増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Increase an ally's P. DEF by 100% for 30
+seconds. Extend: Duration for 60 seconds.</EnglishText>
       <Notes/>
       <Id>2015</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45164,39820</PointerOffset>
       <JapaneseText>術者を中心に２秒間、飛び道具を阻止するバリアを張る
 エクステンドスペル効果：持続時間が４秒に増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Summon a barrier around the caster for 2
+seconds to block projectiles.
+Extend: Duration for 4 seconds.</EnglishText>
       <Notes/>
       <Id>2016</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39848</PointerOffset>
@@ -12353,8 +12454,8 @@ Extend Effect: Increase stun duration.</EnglishText>
       <PointerOffset>39852</PointerOffset>
       <JapaneseText>味方一人の敏捷を一定時間３０増加させる
 エクステンドスペル効果：持続時間が倍になる</JapaneseText>
-      <EnglishText>Increase ally's Agility for 30 seconds.
-Extend Effect: Increase duration to 60 seconds.</EnglishText>
+      <EnglishText>Increase an ally's Agility for 30 seconds.
+Extend: Duration for 60 seconds.</EnglishText>
       <Notes/>
       <Id>2018</Id>
       <Status>Editing</Status>
@@ -12371,8 +12472,8 @@ Extend Effect: Increase duration to 60 seconds.</EnglishText>
       <PointerOffset>39884</PointerOffset>
       <JapaneseText>敵一体の敏捷を一定時間６０減少させる
 エクステンドスペル効果：持続時間が倍になる</JapaneseText>
-      <EnglishText>Decreases enemy's agility for 60 seconds.
-Extend Effect: Increases duration to 120 seconds.</EnglishText>
+      <EnglishText>Decrease an enemy's agility for 60 seconds.
+Extend: Duration for 120 seconds.</EnglishText>
       <Notes/>
       <Id>2020</Id>
       <Status>Editing</Status>
@@ -12389,10 +12490,11 @@ Extend Effect: Increases duration to 120 seconds.</EnglishText>
       <PointerOffset>45196,39916</PointerOffset>
       <JapaneseText>味方一人を戦闘不能からＨＰ５０％で復活させる
 エクステンドスペル効果：復活時のＨＰ量が７５％となる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Revive an ally from KO with 50% HP.
+Extend: Revive from KO with 75% HP.</EnglishText>
       <Notes/>
       <Id>2022</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39980</PointerOffset>
@@ -12621,26 +12723,26 @@ Extend Effect: Increases duration to 120 seconds.</EnglishText>
     <Entry>
       <PointerOffset>39976,40520</PointerOffset>
       <JapaneseText>イフリート</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Efreet</EnglishText>
       <Notes/>
       <Id>2051</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40524</PointerOffset>
       <JapaneseText>クラース流。イフリートを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Klaus Style. Summon Efreet.</EnglishText>
       <Notes/>
       <Id>2052</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40556</PointerOffset>
       <JapaneseText>クラース流。ウンディーネを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Klaus Style. Summon Undine.</EnglishText>
       <Notes/>
       <Id>2053</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40040,40584</PointerOffset>
@@ -12653,10 +12755,10 @@ Extend Effect: Increases duration to 120 seconds.</EnglishText>
     <Entry>
       <PointerOffset>40588</PointerOffset>
       <JapaneseText>クラース流。シルフを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Klaus Style. Summon Slyph.</EnglishText>
       <Notes/>
       <Id>2055</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40072,40616</PointerOffset>
@@ -12669,10 +12771,10 @@ Extend Effect: Increases duration to 120 seconds.</EnglishText>
     <Entry>
       <PointerOffset>40620</PointerOffset>
       <JapaneseText>クラース流。ノームを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Klaus Style. Summon Gnome.</EnglishText>
       <Notes/>
       <Id>2057</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40104,40648</PointerOffset>
@@ -12685,10 +12787,10 @@ Extend Effect: Increases duration to 120 seconds.</EnglishText>
     <Entry>
       <PointerOffset>40652</PointerOffset>
       <JapaneseText>クラース流。マクスウェルを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Klaus Style. Summon Maxwell.</EnglishText>
       <Notes/>
       <Id>2059</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40136,40680</PointerOffset>
@@ -12701,42 +12803,42 @@ Extend Effect: Increases duration to 120 seconds.</EnglishText>
     <Entry>
       <PointerOffset>40684</PointerOffset>
       <JapaneseText>クラース流。ルナを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Klaus Style. Summon Luna.</EnglishText>
       <Notes/>
       <Id>2061</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40716</PointerOffset>
       <JapaneseText>クラース流。アスカを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Klaus Style. Summon Aska.</EnglishText>
       <Notes/>
       <Id>2062</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40200,40744</PointerOffset>
       <JapaneseText>ヴォルト</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Volt</EnglishText>
       <Notes/>
       <Id>2063</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40748</PointerOffset>
       <JapaneseText>クラース流。ヴォルトを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Klaus Style. Summon Volt.</EnglishText>
       <Notes/>
       <Id>2064</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40780</PointerOffset>
       <JapaneseText>クラース流。オリジンを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Klaus Style. Summon Origin.</EnglishText>
       <Notes/>
       <Id>2065</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40808</PointerOffset>
@@ -12750,10 +12852,12 @@ Extend Effect: Increases duration to 120 seconds.</EnglishText>
       <PointerOffset>40812</PointerOffset>
       <JapaneseText>火系攻撃呪文の一つ。敵を追従する炎の流れを起こす
 エクステンドスペル効果：炎の流れが二本となる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A fire spell that sends a stream of flames
+that follows the enemy. Extend: Summon 2
+streams of fire.</EnglishText>
       <Notes/>
       <Id>2067</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40840</PointerOffset>
@@ -12767,10 +12871,11 @@ Extend Effect: Increases duration to 120 seconds.</EnglishText>
       <PointerOffset>40844</PointerOffset>
       <JapaneseText>水系攻撃呪文の一つ。敵を水圧で吹き飛ばす
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A water spell that blasts the enemy with
+water pressure. Extend: Increase power.</EnglishText>
       <Notes/>
       <Id>2069</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40872</PointerOffset>
@@ -12784,10 +12889,11 @@ Extend Effect: Increases duration to 120 seconds.</EnglishText>
       <PointerOffset>40876</PointerOffset>
       <JapaneseText>風系攻撃呪文の一つ。地を這う風を呼び、敵を十字に切り裂く
 エクステンドスペル効果：威力が増加する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A wind spell that cuts the enemy in a
+crisscross pattern. Extend: Increase power.</EnglishText>
       <Notes/>
       <Id>2071</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40904</PointerOffset>
@@ -12801,8 +12907,8 @@ Extend Effect: Increases duration to 120 seconds.</EnglishText>
       <PointerOffset>40908</PointerOffset>
       <JapaneseText>味方一人のＨＰを３０％回復させる応援行動。戦闘中のみ使用可能
 エクステンドスペル効果：回復量が４５％に増加する</JapaneseText>
-      <EnglishText>Restores 30% of max HP to one ally in battle.
-Extend Effect: Restore 45% of max HP.</EnglishText>
+      <EnglishText>Restores 30% of max HP to one ally.
+Extend: Restore 45% of max HP.</EnglishText>
       <Notes/>
       <Id>2073</Id>
       <Status>Editing</Status>
@@ -12810,10 +12916,10 @@ Extend Effect: Restore 45% of max HP.</EnglishText>
     <Entry>
       <PointerOffset>40940</PointerOffset>
       <JapaneseText>クラース流。シャドウを召喚する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Klaus Style. Summon Shadow.</EnglishText>
       <Notes/>
       <Id>2074</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40968</PointerOffset>
@@ -12826,18 +12932,19 @@ Extend Effect: Restore 45% of max HP.</EnglishText>
     <Entry>
       <PointerOffset>40972</PointerOffset>
       <JapaneseText>心の内なる叫びを形に起こし、嫌でも貴方に届けます♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bring into being the inner voice of your
+heart, even if you don't want it.</EnglishText>
       <Notes/>
       <Id>2076</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19656,41000</PointerOffset>
       <JapaneseText>ラストスペル</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Last Spell</EnglishText>
       <Notes/>
       <Id>2077</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41004</PointerOffset>
@@ -12859,19 +12966,19 @@ Extend Effect: Restore 45% of max HP.</EnglishText>
     <Entry>
       <PointerOffset>41160,41096</PointerOffset>
       <JapaneseText>剛招来</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Coil</EnglishText>
       <Notes/>
       <Id>2080</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41036,45292,45260,41132</PointerOffset>
       <JapaneseText>（ジュウショウライ）特殊技　効果：クリティカル値増加
 精神を集中し、狙いを高める</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: </EnglishText>
       <Notes/>
       <Id>2081</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41100,41164</PointerOffset>
@@ -12894,7 +13001,7 @@ Extend Effect: Restore 45% of max HP.</EnglishText>
       <PointerOffset>41196</PointerOffset>
       <JapaneseText>（シュウキホウ）特殊技　効果：ＨＰ回復　戦闘中のみ使用可能
 精神を集中し、自分のＨＰを３５％回復する</JapaneseText>
-      <EnglishText>Restore 35% of max HP in combat
+      <EnglishText>Special: Restore 35% of max HP in combat
 by focusing the mind.</EnglishText>
       <Notes/>
       <Id>2084</Id>
@@ -12903,10 +13010,10 @@ by focusing the mind.</EnglishText>
     <Entry>
       <PointerOffset>39400,41224</PointerOffset>
       <JapaneseText>チャージ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Charge</EnglishText>
       <Notes/>
       <Id>2085</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41676,42028,41996,43244,43052,42060,41068,43084,41228</PointerOffset>
@@ -13014,10 +13121,11 @@ strength, magical strength, or casting speed at random.</EnglishText>
       <PointerOffset>41420</PointerOffset>
       <JapaneseText>（ハガクレ）特殊技　効果：逃走
 木の葉の嵐を巻き起こし逃走する忍術</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: A ninjutsu that stirs up a storm of
+leaves to make your escape. Effect: Escape</EnglishText>
       <Notes/>
       <Id>2098</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41448</PointerOffset>
@@ -13441,7 +13549,8 @@ weapon.</EnglishText>
       <PointerOffset>42476</PointerOffset>
       <JapaneseText>（サツゲキブコウケン）秘奥義　EBG1.5割以上必要
 炎を吹き上げる程に激しい、クレスの渾身の連続攻撃</JapaneseText>
-      <EnglishText>A rush of slashes that unleash the flames of hell.</EnglishText>
+      <EnglishText>Mystic: Requires an EBG of 1.5% or more. A
+rush of slashes so fierce flames spew out.</EnglishText>
       <Notes/>
       <Id>2148</Id>
       <Status>Editing</Status>
@@ -13458,7 +13567,9 @@ weapon.</EnglishText>
       <PointerOffset>42508</PointerOffset>
       <JapaneseText>（メイクウザンショウケン）秘奥義　効果：気絶　EBG1.5割以下で発動
 日々のたゆまぬ鍛錬があってこそ扱える、クレス最強の三段斬り</JapaneseText>
-      <EnglishText>The ultimate secret arte of the Albane style.</EnglishText>
+      <EnglishText>Mystic: Requires an EBG of 1.5% or more.
+A three-stage slash perfected through
+diligent daily training. Effect: Stun.</EnglishText>
       <Notes/>
       <Id>2150</Id>
       <Status>Editing</Status>
@@ -13475,7 +13586,8 @@ weapon.</EnglishText>
       <PointerOffset>42540</PointerOffset>
       <JapaneseText>秘奥義
 敵対する者の時間を完全に停止させる、法術の究極形態</JapaneseText>
-      <EnglishText>Stop time and destroy your enemies.</EnglishText>
+      <EnglishText>Mystic: Use the pinnacle of magic to stop
+time for all your enemies.</EnglishText>
       <Notes/>
       <Id>2152</Id>
       <Status>Editing</Status>
@@ -13483,7 +13595,7 @@ weapon.</EnglishText>
     <Entry>
       <PointerOffset>42568</PointerOffset>
       <JapaneseText>天威浄破弓</JapaneseText>
-      <EnglishText>Broken Arc</EnglishText>
+      <EnglishText>Fatal Arc</EnglishText>
       <Notes/>
       <Id>2153</Id>
       <Status>Editing</Status>
@@ -13492,7 +13604,9 @@ weapon.</EnglishText>
       <PointerOffset>42572</PointerOffset>
       <JapaneseText>（テンイジョウハキュウ）秘奥義　効果：麻痺
 日々のたゆまぬ鍛錬があってこそ編み出せる、チェスターの渾身の一撃</JapaneseText>
-      <EnglishText>Destroy the enemy with the epitome of your skill.</EnglishText>
+      <EnglishText>Mystic: Unleash Chester's full power, honed
+through his daily training, on your foes.
+Effect: Paralysis.</EnglishText>
       <Notes/>
       <Id>2154</Id>
       <Status>Editing</Status>
@@ -13509,8 +13623,8 @@ weapon.</EnglishText>
       <PointerOffset>42604</PointerOffset>
       <JapaneseText>秘奥義
 クラースの研究成果が今ここに……。より威力を増した精霊召喚術</JapaneseText>
-      <EnglishText>All of Klaus's research seizes Spirit Conjuration
-to use the ultimate secret attack.</EnglishText>
+      <EnglishText>Mystic: Utilize Klaus' research on Summon
+Spirits to invoke their power into an attack.</EnglishText>
       <Notes/>
       <Id>2156</Id>
       <Status>Editing</Status>
@@ -13527,18 +13641,19 @@ to use the ultimate secret attack.</EnglishText>
       <PointerOffset>42636</PointerOffset>
       <JapaneseText>（ジライヤ）秘奥義
 児雷也を呼び、特殊なブレスで敵を一網打尽にする</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mystic: Call on Jiraiya to engulf your
+enemies with a breath of poison.</EnglishText>
       <Notes/>
       <Id>2158</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45640,45608,42696,43144,42792</PointerOffset>
       <JapaneseText>メテオスォーム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Meteor Storm</EnglishText>
       <Notes/>
       <Id>2159</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42856</PointerOffset>
