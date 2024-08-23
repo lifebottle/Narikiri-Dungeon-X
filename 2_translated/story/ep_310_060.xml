@@ -28,7 +28,9 @@
       <EnglishText>How much damage has Palace Ggdra's Mana Cannon caused? </EnglishText>
       <Notes/>
       <Id>1</Id>
+      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>21</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -41,7 +43,9 @@
 Ggdra has suffered immense collateral damage. </EnglishText>
       <Notes/>
       <Id>2</Id>
+      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>178</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -54,7 +58,9 @@ Ggdra has suffered immense collateral damage. </EnglishText>
 Mana shortage crises. </EnglishText>
       <Notes/>
       <Id>3</Id>
+      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>178</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -67,7 +73,9 @@ Mana shortage crises. </EnglishText>
 and everyone else. How could it come to this...? </EnglishText>
       <Notes/>
       <Id>4</Id>
+      <StructId>3</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>21</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -80,7 +88,9 @@ and everyone else. How could it come to this...? </EnglishText>
 planet will die... </EnglishText>
       <Notes/>
       <Id>5</Id>
+      <StructId>4</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>21</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -90,7 +100,9 @@ planet will die... </EnglishText>
       <EnglishText>Do not worry, Sir Dhaos. </EnglishText>
       <Notes/>
       <Id>6</Id>
+      <StructId>5</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>178</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -103,7 +115,9 @@ planet will die... </EnglishText>
 Guardian of the Tree, our Tear of Hope intact. </EnglishText>
       <Notes/>
       <Id>7</Id>
+      <StructId>5</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>178</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -115,7 +129,9 @@ Guardian of the Tree, our Tear of Hope intact. </EnglishText>
 subordinates... </EnglishText>
       <Notes/>
       <Id>8</Id>
+      <StructId>6</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>21</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -129,7 +145,9 @@ should have been able to help smaller countries with their
 economic problems and conflicts... </EnglishText>
       <Notes/>
       <Id>9</Id>
+      <StructId>6</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>21</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -142,7 +160,9 @@ economic problems and conflicts... </EnglishText>
 and prevent possible civil outbreaks... </EnglishText>
       <Notes/>
       <Id>10</Id>
+      <StructId>6</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>21</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -153,7 +173,9 @@ and prevent possible civil outbreaks... </EnglishText>
       <EnglishText>Yet, I shut my eyes off and let hell break out loose... </EnglishText>
       <Notes/>
       <Id>11</Id>
+      <StructId>6</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>21</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -165,7 +187,9 @@ and prevent possible civil outbreaks... </EnglishText>
       <EnglishText>I...am a despicable King for this country... </EnglishText>
       <Notes/>
       <Id>12</Id>
+      <StructId>6</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>21</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -178,7 +202,9 @@ and prevent possible civil outbreaks... </EnglishText>
 Tree's security. </EnglishText>
       <Notes/>
       <Id>13</Id>
+      <StructId>7</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>21</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -189,7 +215,9 @@ Tree's security. </EnglishText>
       <EnglishText>I need to act quickly...before we are all doomed... </EnglishText>
       <Notes/>
       <Id>14</Id>
+      <StructId>7</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>21</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
   </Strings>
@@ -214,18 +242,18 @@ Tree's security. </EnglishText>
     <Entry>
       <PointerOffset>1480</PointerOffset>
       <JapaneseText>MUS_B001</JapaneseText>
-      <EnglishText/>
+      <EnglishText>MUS_B001</EnglishText>
       <Notes/>
       <Id>17</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>1732</PointerOffset>
       <JapaneseText>MUS_B002</JapaneseText>
-      <EnglishText/>
+      <EnglishText>MUS_B002</EnglishText>
       <Notes/>
       <Id>18</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>18740</PointerOffset>
@@ -1277,10 +1305,10 @@ Tree's security. </EnglishText>
     <Entry>
       <PointerOffset>114900</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>133</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>115260</PointerOffset>
@@ -1294,10 +1322,10 @@ Tree's security. </EnglishText>
     <Entry>
       <PointerOffset>115440</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>135</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>115688</PointerOffset>
@@ -1477,10 +1505,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>132144</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>155</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>132160</PointerOffset>
@@ -1811,10 +1839,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>158244</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>195</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>159936</PointerOffset>
@@ -1971,10 +1999,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>196000</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>213</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>199352</PointerOffset>
@@ -2025,10 +2053,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>211680</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>219</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>215528</PointerOffset>
@@ -2042,10 +2070,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>215760</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>221</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>217352</PointerOffset>
@@ -2059,10 +2087,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>217584</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>223</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>219516</PointerOffset>
@@ -2144,10 +2172,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>227164</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>233</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>227180</PointerOffset>
@@ -2161,10 +2189,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>232956</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>235</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>232972</PointerOffset>
@@ -2178,10 +2206,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>233268</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>237</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>233284</PointerOffset>
@@ -2195,10 +2223,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>233804</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>239</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>233820</PointerOffset>
@@ -2212,10 +2240,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>234272</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>241</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>234288</PointerOffset>
@@ -2229,10 +2257,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>234672</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>243</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>234688</PointerOffset>
@@ -2246,10 +2274,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>235140</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>245</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>235156</PointerOffset>
@@ -2283,10 +2311,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>249516</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>249</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>249532</PointerOffset>
@@ -2300,10 +2328,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>249684</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>251</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>249700</PointerOffset>
@@ -2540,10 +2568,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>257740</PointerOffset>
       <JapaneseText>rDAO</JapaneseText>
-      <EnglishText/>
+      <EnglishText>rDAO</EnglishText>
       <Notes/>
       <Id>272</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>258240</PointerOffset>

@@ -67,7 +67,9 @@
       <EnglishText>WELCOME TO THE MASTER COMPUTER ROOM. </EnglishText>
       <Notes/>
       <Id>1</Id>
+      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>15</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -77,7 +79,9 @@
       <EnglishText>Whoa! Now THAT is an ugly face! </EnglishText>
       <Notes/>
       <Id>2</Id>
+      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -89,7 +93,9 @@
 COMPUTER SYSTEM. I AM OZ. </EnglishText>
       <Notes/>
       <Id>3</Id>
+      <StructId>3</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>15</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -100,7 +106,9 @@ COMPUTER SYSTEM. I AM OZ. </EnglishText>
       <EnglishText>Seems like we can time-travel now! </EnglishText>
       <Notes/>
       <Id>4</Id>
+      <StructId>4</StructId>
       <SpeakerId>3</SpeakerId>
+      <UnknownPointer>22</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -113,7 +121,9 @@ COMPUTER SYSTEM. I AM OZ. </EnglishText>
 taken lightly. I am afraid I cannot let you pass any further. </EnglishText>
       <Notes/>
       <Id>5</Id>
+      <StructId>5</StructId>
       <SpeakerId>4</SpeakerId>
+      <UnknownPointer>37</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -123,7 +133,9 @@ taken lightly. I am afraid I cannot let you pass any further. </EnglishText>
       <EnglishText>Who's there...? </EnglishText>
       <Notes/>
       <Id>6</Id>
+      <StructId>6</StructId>
       <SpeakerId>5</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -133,7 +145,9 @@ taken lightly. I am afraid I cannot let you pass any further. </EnglishText>
       <EnglishText>It's you, Aska...! </EnglishText>
       <Notes/>
       <Id>7</Id>
+      <StructId>7</StructId>
       <SpeakerId>6</SpeakerId>
+      <UnknownPointer>17</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -144,7 +158,9 @@ taken lightly. I am afraid I cannot let you pass any further. </EnglishText>
       <EnglishText>This technology is a legacy of an era long past. </EnglishText>
       <Notes/>
       <Id>8</Id>
+      <StructId>8</StructId>
       <SpeakerId>7</SpeakerId>
+      <UnknownPointer>37</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -155,7 +171,9 @@ taken lightly. I am afraid I cannot let you pass any further. </EnglishText>
       <EnglishText>As to prevent its over usage I stand as a protector. </EnglishText>
       <Notes/>
       <Id>9</Id>
+      <StructId>9</StructId>
       <SpeakerId>7</SpeakerId>
+      <UnknownPointer>37</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -167,7 +185,9 @@ taken lightly. I am afraid I cannot let you pass any further. </EnglishText>
 to time-travel, right? </EnglishText>
       <Notes/>
       <Id>10</Id>
+      <StructId>10</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>12</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -177,7 +197,9 @@ to time-travel, right? </EnglishText>
       <EnglishText>That is the type of resolution I wish to see, yes. </EnglishText>
       <Notes/>
       <Id>11</Id>
+      <StructId>11</StructId>
       <SpeakerId>7</SpeakerId>
+      <UnknownPointer>37</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -189,7 +211,9 @@ to time-travel, right? </EnglishText>
 try to defeat me. </EnglishText>
       <Notes/>
       <Id>12</Id>
+      <StructId>11</StructId>
       <SpeakerId>7</SpeakerId>
+      <UnknownPointer>37</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -201,7 +225,9 @@ try to defeat me. </EnglishText>
       <EnglishText>We'll do it. We have to return to our home era at any cost! </EnglishText>
       <Notes/>
       <Id>13</Id>
+      <StructId>12</StructId>
       <SpeakerId>5</SpeakerId>
+      <UnknownPointer>13</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -211,7 +237,9 @@ try to defeat me. </EnglishText>
       <EnglishText>Fine, then! Come! </EnglishText>
       <Notes/>
       <Id>14</Id>
+      <StructId>13</StructId>
       <SpeakerId>7</SpeakerId>
+      <UnknownPointer>37</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
   </Strings>
@@ -236,18 +264,18 @@ try to defeat me. </EnglishText>
     <Entry>
       <PointerOffset>1480</PointerOffset>
       <JapaneseText>MUS_B001</JapaneseText>
-      <EnglishText/>
+      <EnglishText>MUS_B001</EnglishText>
       <Notes/>
       <Id>17</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>1732</PointerOffset>
       <JapaneseText>MUS_B002</JapaneseText>
-      <EnglishText/>
+      <EnglishText>MUS_B002</EnglishText>
       <Notes/>
       <Id>18</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>18740</PointerOffset>
@@ -1299,10 +1327,10 @@ try to defeat me. </EnglishText>
     <Entry>
       <PointerOffset>114900</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>133</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>115260</PointerOffset>
@@ -1316,10 +1344,10 @@ try to defeat me. </EnglishText>
     <Entry>
       <PointerOffset>115440</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>135</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>115688</PointerOffset>
@@ -1499,10 +1527,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>132144</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>155</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>132160</PointerOffset>
@@ -1833,10 +1861,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>158244</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>195</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>159936</PointerOffset>
@@ -1993,10 +2021,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>196000</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>213</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>199352</PointerOffset>
@@ -2047,10 +2075,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>211680</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>219</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>215528</PointerOffset>
@@ -2064,10 +2092,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>215760</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>221</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>217352</PointerOffset>
@@ -2081,10 +2109,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>217584</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>223</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>219516</PointerOffset>
@@ -2166,10 +2194,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>227164</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>233</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>227180</PointerOffset>
@@ -2183,10 +2211,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>232956</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>235</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>232972</PointerOffset>
@@ -2200,10 +2228,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>233268</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>237</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>233284</PointerOffset>
@@ -2217,10 +2245,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>233804</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>239</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>233820</PointerOffset>
@@ -2234,10 +2262,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>234272</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>241</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>234288</PointerOffset>
@@ -2251,10 +2279,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>234672</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>243</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>234688</PointerOffset>
@@ -2268,10 +2296,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>235140</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>245</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>235156</PointerOffset>
@@ -2305,10 +2333,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>249516</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>249</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>249532</PointerOffset>
@@ -2322,10 +2350,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>249684</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>251</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>249700</PointerOffset>
@@ -2631,26 +2659,26 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>277076</PointerOffset>
       <JapaneseText>rDIO_EV</JapaneseText>
-      <EnglishText/>
+      <EnglishText>rDIO_EV</EnglishText>
       <Notes/>
       <Id>280</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>277220</PointerOffset>
       <JapaneseText>rMEL_EV</JapaneseText>
-      <EnglishText/>
+      <EnglishText>rMEL_EV</EnglishText>
       <Notes/>
       <Id>281</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>277364</PointerOffset>
       <JapaneseText>rETS</JapaneseText>
-      <EnglishText/>
+      <EnglishText>rETS</EnglishText>
       <Notes/>
       <Id>282</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>277508</PointerOffset>
@@ -2727,10 +2755,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>280284</PointerOffset>
       <JapaneseText>rDIO_EV</JapaneseText>
-      <EnglishText/>
+      <EnglishText>rDIO_EV</EnglishText>
       <Notes/>
       <Id>292</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>280584</PointerOffset>

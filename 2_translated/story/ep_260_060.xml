@@ -27,7 +27,9 @@
       <EnglishText>Mooommmy... </EnglishText>
       <Notes/>
       <Id>1</Id>
+      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>48</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -37,7 +39,9 @@
       <EnglishText>Mommy...It's cold... </EnglishText>
       <Notes/>
       <Id>2</Id>
+      <StructId>1</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>48</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -47,7 +51,9 @@
       <EnglishText>Hey little one. You look afraid. </EnglishText>
       <Notes/>
       <Id>3</Id>
+      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>55</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -59,7 +65,9 @@
 beard is just too scary, right? </EnglishText>
       <Notes/>
       <Id>4</Id>
+      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>55</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -71,7 +79,9 @@ beard is just too scary, right? </EnglishText>
 myself to shave my precious beard. </EnglishText>
       <Notes/>
       <Id>5</Id>
+      <StructId>2</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>55</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -81,7 +91,9 @@ myself to shave my precious beard. </EnglishText>
       <EnglishText>... </EnglishText>
       <Notes/>
       <Id>6</Id>
+      <StructId>3</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>48</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -93,7 +105,9 @@ myself to shave my precious beard. </EnglishText>
       <EnglishText>Want to touch it? I don't mind at all. Here. </EnglishText>
       <Notes/>
       <Id>7</Id>
+      <StructId>4</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>55</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -103,7 +117,9 @@ myself to shave my precious beard. </EnglishText>
       <EnglishText>Are you lost? </EnglishText>
       <Notes/>
       <Id>8</Id>
+      <StructId>5</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>55</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -114,7 +130,9 @@ myself to shave my precious beard. </EnglishText>
       <EnglishText>Yup... I got split apart from mommy... </EnglishText>
       <Notes/>
       <Id>9</Id>
+      <StructId>6</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>48</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -125,7 +143,9 @@ myself to shave my precious beard. </EnglishText>
       <EnglishText>I see... Then let's try to find mommy together. </EnglishText>
       <Notes/>
       <Id>10</Id>
+      <StructId>7</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>55</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -135,7 +155,9 @@ myself to shave my precious beard. </EnglishText>
       <EnglishText>And your name is...? </EnglishText>
       <Notes/>
       <Id>11</Id>
+      <StructId>7</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>55</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -145,7 +167,9 @@ myself to shave my precious beard. </EnglishText>
       <EnglishText>&lt;MEL&gt;tia... </EnglishText>
       <Notes/>
       <Id>12</Id>
+      <StructId>8</StructId>
       <SpeakerId>1</SpeakerId>
+      <UnknownPointer>48</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -156,7 +180,9 @@ myself to shave my precious beard. </EnglishText>
       <EnglishText>&lt;MEL&gt;tia... Well, little girl let's go. </EnglishText>
       <Notes/>
       <Id>13</Id>
+      <StructId>9</StructId>
       <SpeakerId>2</SpeakerId>
+      <UnknownPointer>55</UnknownPointer>
       <Status>Editing</Status>
     </Entry>
   </Strings>
@@ -181,18 +207,18 @@ myself to shave my precious beard. </EnglishText>
     <Entry>
       <PointerOffset>1480</PointerOffset>
       <JapaneseText>MUS_B001</JapaneseText>
-      <EnglishText/>
+      <EnglishText>MUS_B001</EnglishText>
       <Notes/>
       <Id>16</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>1732</PointerOffset>
       <JapaneseText>MUS_B002</JapaneseText>
-      <EnglishText/>
+      <EnglishText>MUS_B002</EnglishText>
       <Notes/>
       <Id>17</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>18740</PointerOffset>
@@ -1244,10 +1270,10 @@ myself to shave my precious beard. </EnglishText>
     <Entry>
       <PointerOffset>114900</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>132</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>115260</PointerOffset>
@@ -1261,10 +1287,10 @@ myself to shave my precious beard. </EnglishText>
     <Entry>
       <PointerOffset>115440</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>134</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>115688</PointerOffset>
@@ -1444,10 +1470,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>132144</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>154</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>132160</PointerOffset>
@@ -1778,10 +1804,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>158244</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>194</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>159936</PointerOffset>
@@ -1938,10 +1964,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>196000</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>212</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>199352</PointerOffset>
@@ -1992,10 +2018,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>211680</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>218</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>215528</PointerOffset>
@@ -2009,10 +2035,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>215760</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>220</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>217352</PointerOffset>
@@ -2026,10 +2052,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>217584</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>222</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>219516</PointerOffset>
@@ -2111,10 +2137,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>227164</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>232</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>227180</PointerOffset>
@@ -2128,10 +2154,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>232956</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>234</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>232972</PointerOffset>
@@ -2145,10 +2171,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>233268</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>236</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>233284</PointerOffset>
@@ -2162,10 +2188,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>233804</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>238</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>233820</PointerOffset>
@@ -2179,10 +2205,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>234272</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>240</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>234288</PointerOffset>
@@ -2196,10 +2222,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>234672</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>242</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>234688</PointerOffset>
@@ -2213,10 +2239,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>235140</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>244</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>235156</PointerOffset>
@@ -2250,10 +2276,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>249516</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>248</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>249532</PointerOffset>
@@ -2267,10 +2293,10 @@ JSTへぼますたー
     <Entry>
       <PointerOffset>249684</PointerOffset>
       <JapaneseText>information</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Information</EnglishText>
       <Notes/>
       <Id>250</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>249700</PointerOffset>
