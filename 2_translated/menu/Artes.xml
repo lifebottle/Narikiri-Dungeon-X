@@ -1928,7 +1928,8 @@ like a downpour of rain.</EnglishText>
       <PointerOffset>4428</PointerOffset>
       <JapaneseText>（コランシュウ）特技ＬＶ１
 上空より敵を打ち下ろす技</JapaneseText>
-      <EnglishText>Base LV1: An arte that sends</EnglishText>
+      <EnglishText>Base LV1: Slash the enemy down from the
+sky.</EnglishText>
       <Notes>Used for Ravagin Tiger</Notes>
       <Id>813</Id>
       <Status>Editing</Status>
@@ -1937,10 +1938,11 @@ like a downpour of rain.</EnglishText>
       <PointerOffset>4460</PointerOffset>
       <JapaneseText>（コランシュウ）特技ＬＶ２
 上空より敵を打ち下ろす技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV2: Slash the enemy down from the
+sky.</EnglishText>
       <Notes/>
       <Id>814</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4488</PointerOffset>
@@ -2008,19 +2010,21 @@ finishing by knocking the enemy into the air.</EnglishText>
       <PointerOffset>4620</PointerOffset>
       <JapaneseText>（ソウガザン）特技ＬＶ１
 斬り下ろし、斬り上げと流れるように繋ぐ剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV1: A two-hit slash that slices the
+enemy up then down.</EnglishText>
       <Notes/>
       <Id>822</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4652</PointerOffset>
       <JapaneseText>（ソウガザン）特技ＬＶ２
 斬り下ろし、斬り上げと流れるように繋ぐ剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV2: A two-hit slash that slices the
+enemy up then down.</EnglishText>
       <Notes/>
       <Id>823</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4680</PointerOffset>
@@ -2116,8 +2120,8 @@ an instant. Extends to Sonic Return.</EnglishText>
       <PointerOffset>4908</PointerOffset>
       <JapaneseText>（アキサザメ・ヒトヒラ）奥義
 秋沙雨に始まり、幻影刃でトドメの斬りを繰り出す剣技</JapaneseText>
-      <EnglishText>Arcane Arte:
-Attack with Sword Rain: Alpha, finishing with Phantom Edge.</EnglishText>
+      <EnglishText>Arcane Arte: A combination of
+Sword Rain: Alpha &amp; Phantom Edge.</EnglishText>
       <Notes/>
       <Id>834</Id>
       <Status>Editing</Status>
@@ -2126,16 +2130,17 @@ Attack with Sword Rain: Alpha, finishing with Phantom Edge.</EnglishText>
       <PointerOffset>4940</PointerOffset>
       <JapaneseText>（アキサザメ）特技ＬＶ２
 止まない雨の如く、素早く連続突きを繰り出す剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Base LV2: Attack the enemy with a shower of
+stabbing attacks.</EnglishText>
       <Notes/>
       <Id>835</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4972</PointerOffset>
       <JapaneseText>（アキサザメ）特技
 止まない雨の如く、素早く連続突きを繰り出す剣技</JapaneseText>
-      <EnglishText>(Akisazame) Attack the enemy with a shower of
+      <EnglishText>Base: Attack the enemy with a shower of
 stabbing attacks.</EnglishText>
       <Notes/>
       <Id>836</Id>
@@ -2197,7 +2202,8 @@ a flash of lightning from the heavens.</EnglishText>
       <PointerOffset>5100</PointerOffset>
       <JapaneseText>（カイレンジン・シグレ）奥義
 水の斬撃により、敵を引き寄せ、滅多切りにする剣技</JapaneseText>
-      <EnglishText>Arcane: Marine Edge + Scattering Storm</EnglishText>
+      <EnglishText>Arcane: An arte that combines Marine Edge
+and Scattering Storm.</EnglishText>
       <Notes/>
       <Id>843</Id>
       <Status>Editing</Status>
@@ -2250,8 +2256,8 @@ pushing the enemy back.</EnglishText>
       <PointerOffset>6028,5260</PointerOffset>
       <JapaneseText>（シンクウハザン）特技
 腰溜めの一撃から真空波を巻き起こす剣技</JapaneseText>
-      <EnglishText>Base: Create a powerful vacuum by drawing
-your sword from the waist.</EnglishText>
+      <EnglishText>Base: Create a powerful vacuum that launches
+foes by drawing your sword from the waist.</EnglishText>
       <Notes/>
       <Id>849</Id>
       <Status>Editing</Status>
@@ -2483,16 +2489,17 @@ enemy to launch them into the air.</EnglishText>
       <PointerOffset>5804</PointerOffset>
       <JapaneseText>（レッシンセンショウハ）奥義
 地の力を纏った斬撃により相手の動きを止め、連続突きを繰り出す剣技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arcane: Stop the enemy with the power of
+the earth before unleashing a shower of thrusts.</EnglishText>
       <Notes/>
       <Id>875</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>5868</PointerOffset>
       <JapaneseText>（ヒエンレンキャク）特技
 二段蹴りから突きへと繋ぐ技</JapaneseText>
-      <EnglishText>Combo that starts with
+      <EnglishText>Base: Combo that starts with
 a double kick and ends with a thrust.</EnglishText>
       <Notes/>
       <Id>876</Id>
@@ -2511,7 +2518,7 @@ a double kick and ends with a thrust.</EnglishText>
       <JapaneseText>（アキサザメ）特技
 止まない雨の如く、素早く連続突きを繰り出し最後に突き上げる剣技</JapaneseText>
       <EnglishText>Base: Attack the enemy with a shower of
-thrusts ending with an upward cut.</EnglishText>
+thrusts ending with an powerful lunge.</EnglishText>
       <Notes/>
       <Id>878</Id>
       <Status>Editing</Status>
@@ -2564,8 +2571,8 @@ swinging your sword.</EnglishText>
       <PointerOffset>6060</PointerOffset>
       <JapaneseText>（シシセンコウ）特技
 闘気を敵に叩きつけて吹き飛ばす剣技</JapaneseText>
-      <EnglishText>Base: Blow enemies away by slashing
-them with your fighting spirit.</EnglishText>
+      <EnglishText>Base: Blow enemies away with a slash
+of your fighting spirit.</EnglishText>
       <Notes/>
       <Id>884</Id>
       <Status>Editing</Status>
@@ -7783,8 +7790,8 @@ enemy along the way.</EnglishText>
       <PointerOffset>17932</PointerOffset>
       <JapaneseText>（ゲンマショウレッパ）奥義
 巨大な真空波を伴うＸ斬りを行う剣技</JapaneseText>
-      <EnglishText>(Genmashoureppa) Swings sword twice in
-a wide arc leaving behind a dark void.</EnglishText>
+      <EnglishText>Arcane: Swing your sword twice in a wide
+arc, leaving behind a dark void.</EnglishText>
       <Notes/>
       <Id>1480</Id>
       <Status>Editing</Status>
@@ -12975,7 +12982,8 @@ heart, even if you don't want it.</EnglishText>
       <PointerOffset>41036,45292,45260,41132</PointerOffset>
       <JapaneseText>（ジュウショウライ）特殊技　効果：クリティカル値増加
 精神を集中し、狙いを高める</JapaneseText>
-      <EnglishText>Special: </EnglishText>
+      <EnglishText>Special:  Focus your mind so that your aim
+strikes true. Increases CRT.</EnglishText>
       <Notes/>
       <Id>2081</Id>
       <Status>Editing</Status>
@@ -12984,10 +12992,11 @@ heart, even if you don't want it.</EnglishText>
       <PointerOffset>41100,41164</PointerOffset>
       <JapaneseText>（ゴウショウライ）特殊技　効果：物攻↑
 精神を集中し、物理攻撃力を高める</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special:  Focus your mind to strengthen
+your body. Increases P.ATK.</EnglishText>
       <Notes/>
       <Id>2082</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41192</PointerOffset>
@@ -13018,10 +13027,10 @@ by focusing the mind.</EnglishText>
     <Entry>
       <PointerOffset>41676,42028,41996,43244,43052,42060,41068,43084,41228</PointerOffset>
       <JapaneseText>未使用</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Unused</EnglishText>
+      <Notes>Literally translates as "Unused"</Notes>
       <Id>2086</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>41256</PointerOffset>
@@ -13035,10 +13044,12 @@ by focusing the mind.</EnglishText>
       <PointerOffset>41260</PointerOffset>
       <JapaneseText>特殊技　効果：反撃（敵の攻撃をガード時のみ発動可能）
 攻撃をガード中に、&lt;icon:15761924&gt;連打することで確率で反撃することが出来る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Counterattack (Only when guarding)
+When guarding an attack, press &lt;icon:15761924&gt;
+to have a probability of countering the attack.</EnglishText>
       <Notes/>
       <Id>2088</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41288</PointerOffset>
@@ -13070,10 +13081,12 @@ strength, magical strength, or casting speed at random.</EnglishText>
       <PointerOffset>41324</PointerOffset>
       <JapaneseText>秘奥義　ＥＢＧ５割以上必要
 地の底より魔の槍を呼び出し、敵に投げつける</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mystic: EBG must be greater than 5%.
+Call forth a demonic spear from the depths
+of the earth and throw it at your enemies.</EnglishText>
       <Notes/>
       <Id>2092</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41352</PointerOffset>
@@ -13087,8 +13100,9 @@ strength, magical strength, or casting speed at random.</EnglishText>
       <PointerOffset>41356</PointerOffset>
       <JapaneseText>（レンパジョウテン）秘奥義　ＥＢＧ５割以下で発動
 敵に反応する暇さえ与えない、高速の連続斬り</JapaneseText>
-      <EnglishText>（Renpa Jouten）秘奥義　ＥＢＧ５割以下で発動
-敵に反応する暇さえ与えない、高速の連続斬り</EnglishText>
+      <EnglishText>Mystic: EBG must be less than 5%.
+Unleash a continuous stream of slashes that
+denies the enemy any time to react.</EnglishText>
       <Notes/>
       <Id>2094</Id>
       <Status>Editing</Status>
@@ -13096,18 +13110,18 @@ strength, magical strength, or casting speed at random.</EnglishText>
     <Entry>
       <PointerOffset>41384</PointerOffset>
       <JapaneseText>魔術詠唱</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Magical Chant</EnglishText>
       <Notes/>
       <Id>2095</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43212,41388</PointerOffset>
       <JapaneseText>※メニューに表示されないものです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>※This does not appear in the menu</EnglishText>
       <Notes/>
       <Id>2096</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>41416</PointerOffset>
@@ -13147,19 +13161,20 @@ leaves to make your escape. Effect: Escape</EnglishText>
     <Entry>
       <PointerOffset>41480</PointerOffset>
       <JapaneseText>ぼよよん回避術</JapaneseText>
-      <EnglishText>Boyoyon Kaihijutsu</EnglishText>
-      <Notes/>
+      <EnglishText>Frolic</EnglishText>
+      <Notes>May need a better name to accouont for the ぼよよん</Notes>
       <Id>2101</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>41484</PointerOffset>
       <JapaneseText>特殊技　効果：無敵
 素早く飛び跳ね、敵の攻撃を回避する技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Evade enemy attacks by jumping
+around quickly. Effect: Invincible.</EnglishText>
       <Notes/>
       <Id>2102</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41512</PointerOffset>
@@ -13173,8 +13188,8 @@ leaves to make your escape. Effect: Escape</EnglishText>
       <PointerOffset>41516</PointerOffset>
       <JapaneseText>特殊技　効果：２キャラ同時操作
 一定時間、仲間と共同で一人の敵を狙う技</JapaneseText>
-      <EnglishText>The ultimate form of cooperation. Transforms
-Couleur into the users costume.</EnglishText>
+      <EnglishText>Special: Transforms the user into the player's
+character and mimics them to target an enemy.</EnglishText>
       <Notes/>
       <Id>2104</Id>
       <Status>Editing</Status>
@@ -13191,10 +13206,11 @@ Couleur into the users costume.</EnglishText>
       <PointerOffset>41548</PointerOffset>
       <JapaneseText>特殊技　効果：敵情報を記録する
 敵をまるのみにして、勢いよく吐き出す技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Swallow the enemy whole and spit
+them out with great force. Effect: Inspect.</EnglishText>
       <Notes/>
       <Id>2106</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41576</PointerOffset>
@@ -13208,8 +13224,8 @@ Couleur into the users costume.</EnglishText>
       <PointerOffset>41580</PointerOffset>
       <JapaneseText>特殊技　効果：地属性付与　最大ＨＰ↑　物防↑
 一定時間、物理防御力を高める</JapaneseText>
-      <EnglishText>Temporarily increases Max HP and physical
-defense.</EnglishText>
+      <EnglishText>Special: Increase your defenses temporarily.
+Effect: Imbue Earth, Max HP↑, P.DEF↑.</EnglishText>
       <Notes/>
       <Id>2108</Id>
       <Status>Editing</Status>
@@ -13226,8 +13242,8 @@ defense.</EnglishText>
       <PointerOffset>41612</PointerOffset>
       <JapaneseText>特殊技　効果：光属性付与　石化無効　術防↑
 一定時間、術防御力を高める</JapaneseText>
-      <EnglishText>Adds: Phys. and Mag. Defense, Adds Light element
-to attacks, prevents petrify status ailment.</EnglishText>
+      <EnglishText>Special: Increase M.DEF temporarily.
+Effect: Imbue Light, Null Petrify, M.DEF↑</EnglishText>
       <Notes/>
       <Id>2110</Id>
       <Status>Editing</Status>
@@ -13235,7 +13251,7 @@ to attacks, prevents petrify status ailment.</EnglishText>
     <Entry>
       <PointerOffset>41640</PointerOffset>
       <JapaneseText>フレイムコート</JapaneseText>
-      <EnglishText>Flame Court</EnglishText>
+      <EnglishText>Flame Coat</EnglishText>
       <Notes/>
       <Id>2111</Id>
       <Status>Editing</Status>
@@ -13244,8 +13260,8 @@ to attacks, prevents petrify status ailment.</EnglishText>
       <PointerOffset>41644</PointerOffset>
       <JapaneseText>特殊技　効果：火属性付与　物攻↑
 一定時間、物理攻撃力を高める</JapaneseText>
-      <EnglishText>Makes all attacks fire elemental. Also temporarily
-increases attack power.</EnglishText>
+      <EnglishText>Special: Increase P.ATK temporarily.
+Effect: Imbue Fire, P.ATK↑.</EnglishText>
       <Notes/>
       <Id>2112</Id>
       <Status>Editing</Status>
@@ -13270,10 +13286,11 @@ increases attack power.</EnglishText>
       <PointerOffset>41708</PointerOffset>
       <JapaneseText>特殊技　効果：鋼体
 一定時間、敵の攻撃で仰け反らない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Enemy attacks will not cause you
+to stagger temporarily. Effect: Iron Stance.</EnglishText>
       <Notes/>
       <Id>2115</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41736</PointerOffset>
@@ -13287,10 +13304,12 @@ increases attack power.</EnglishText>
       <PointerOffset>41740</PointerOffset>
       <JapaneseText>特殊技　効果：瞬間移動
 トランプを身代わりにして後方へ退避する手品</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Special: Leave a playing card as a substitute
+and retreat backwards.
+Effect: Instant Movement.</EnglishText>
       <Notes/>
       <Id>2117</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41768</PointerOffset>
@@ -13404,8 +13423,8 @@ increases attack power.</EnglishText>
       <PointerOffset>42092</PointerOffset>
       <JapaneseText>特殊技　効果：攻撃後のスキ減少
 弾丸を装填する速度を加速させる</JapaneseText>
-      <EnglishText>Allows for instantaneous reloading of your
-weapon.</EnglishText>
+      <EnglishText>Special: Speed up your ability to reload
+bullets. Effect: Decrease reload time.</EnglishText>
       <Notes/>
       <Id>2131</Id>
       <Status>Editing</Status>
