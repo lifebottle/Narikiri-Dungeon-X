@@ -1,0 +1,23 @@
+{
+    "paths": {
+        "encoding_table":  "./project/tbl_all.json",
+        "menu_table":      "./project/menu_files.json",
+        "original_files":  "./0_disc/",
+        "extracted_files": "./1_extracted/",
+        "import_dat":      "./2_translated/DAT/",
+		"menu_original":   "./1.5_original_translated/menu/",
+		"skit_original":   "./1.5_original_translated/skits/",
+		"story_original":  "./1.5_original_translated/story/",
+        "menu_xml":        "./2_translated/menu/",
+        "story_xml":       "./2_translated/story/",
+        "skit_xml":        "./2_translated/skits/",
+		"new_font":			   "./2_translated/font/",
+        "final_files":     "./3_patched/",
+        "temp_files":      "./3_patched/patched_temp/",
+        "game_builds":     "./4_builds/",
+		"saved_files":	   "./tools/saved_files/",
+        "tools":           "./tools/"
+    },
+    "asm_file":        "adjust_textbox.asm",
+    "main_exe_name":   "arm9.bin"
+}

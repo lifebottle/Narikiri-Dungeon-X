@@ -6879,35 +6879,35 @@
 		"0x5": "unk1"
 	},
 	"NAME":
-	[
-		"<ARC>",
-		"<BER>",
-		"<CLE>",
-		"<CST>",
-		"<DIO>",
-		"<HIS>",
-		"<INE>",
-		"<KLA>",
-		"<KOH>",
-		"<KUL>",
-		"<KUN>",
-		"<MEL>", 
-		"<MIN>",
-		"<RND>",
-		"<RND_P>",
-		"<SIN>",
-		"<SUZ>"
-	],
+	{
+		"415243":	"Arche", 			//
+		"424552":	"Beryl",			//BER
+		"434C45":	"Cless",			//CLE
+		"435354":	"Chester",			//CST
+		"44494F":	"Dio",				//DIO
+		"484953":	"Hisui",			//HIS
+		"494E45":	"Ines",				//INE	
+		"4B4C41":	"Claus",			//KLA
+		"4B4F48":	"Kohaku",			//KOH
+		"4B554C":	"Couleur",			//KUL
+		"4B554E":	"Kunzite",			//KUN
+		"4D454C":	"Mel", 				//MEL
+		"4D494E":	"Mint",				//MIN
+		"524E44":	"Rondoline",		//RND
+		"524E445F50": "Rody",			//RND_P		
+		"53494E":	"Shing",			//SIN
+		"53555A":	"Suzu"				//SUZ		
+	},
 	"COLOR":
 	{
-		"1": "<Blue>",
-		"2": "<Red>",
-		"3": "<Purple>",
-		"4": "<Green>",
-		"5": "<Cyan>",
-		"6": "<Yellow>",
-		"7": "<White>",
-		"8": "<Grey>",
-		"9": "<Black>"
+		"1": "Blue",
+		"2": "Red",
+		"3": "Purple",
+		"4": "Green",
+		"5": "Cyan",
+		"6": "Yellow",
+		"7": "White",
+		"8": "Grey",
+		"9": "Black"
 	}
 }
