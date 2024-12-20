@@ -13,7 +13,6 @@ import lxml.etree as etree
 from formats.FileIO import FileIO
 from formats.fps4 import Fps4
 from formats.tss import Tss
-from utils.dsv2sav import sav_to_dsv
 from formats.text_toh import text_to_bytes, bytes_to_text
 import re
 from itertools import chain
