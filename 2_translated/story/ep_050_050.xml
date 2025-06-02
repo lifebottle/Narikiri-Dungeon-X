@@ -46,7 +46,7 @@
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>259144</PointerOffset>
@@ -59,7 +59,7 @@
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>259504</PointerOffset>
@@ -70,7 +70,7 @@
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>259812</PointerOffset>
@@ -84,7 +84,7 @@ this to be such a small town—I mean village. </EnglishText>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>259952</PointerOffset>
@@ -96,19 +96,20 @@ this to be such a small town—I mean village. </EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>259952</PointerOffset>
       <VoiceId>VSM_050_050_008</VoiceId>
       <JapaneseText>戦争で街をなくした人が
 急ごしらえで作った村だしな</JapaneseText>
-      <EnglishText>After the war it was natural most of them left the village. </EnglishText>
+      <EnglishText>After a war it's only natural that
+most of them left the village. </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>2</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>260092</PointerOffset>
@@ -119,7 +120,7 @@ this to be such a small town—I mean village. </EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>260232</PointerOffset>
@@ -132,7 +133,7 @@ this to be such a small town—I mean village. </EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>260232</PointerOffset>
@@ -144,7 +145,7 @@ this to be such a small town—I mean village. </EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
       <BubbleId>2</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
 </SceneText>
