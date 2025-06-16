@@ -50,8 +50,8 @@
       <JapaneseText>はぐはぐはぐ……</JapaneseText>
       <EnglishText>Omnomnomnomnom</EnglishText>
       <Notes/>
-      <SpeakerId>1</SpeakerId>
       <Id>1</Id>
+      <SpeakerId>1</SpeakerId>
       <BubbleId>1</BubbleId>
       <Status>Editing</Status>
     </Entry>
@@ -59,82 +59,86 @@
       <PointerOffset>37792</PointerOffset>
       <VoiceId>VCT_005_178_002</VoiceId>
       <JapaneseText>ホント、よく食うよな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whoa, you sure can eat.</EnglishText>
       <Notes/>
-      <SpeakerId>2</SpeakerId>
       <Id>2</Id>
+      <SpeakerId>2</SpeakerId>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38084</PointerOffset>
       <VoiceId>VCT_005_178_003</VoiceId>
       <JapaneseText>だって、おなか空いてるんだもん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, I'm hungry okay?</EnglishText>
       <Notes/>
-      <SpeakerId>1</SpeakerId>
       <Id>3</Id>
+      <SpeakerId>1</SpeakerId>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38472</PointerOffset>
       <VoiceId>VCT_005_178_004</VoiceId>
       <JapaneseText>成長期だし、好き嫌いなく食べないとね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Given that she's a growing child, she cannot
+afford to be picky.</EnglishText>
       <Notes/>
-      <SpeakerId>3</SpeakerId>
       <Id>4</Id>
+      <SpeakerId>3</SpeakerId>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39212</PointerOffset>
       <VoiceId>VCT_005_178_005</VoiceId>
       <JapaneseText>&lt;Dio&gt;みたいにあれも嫌い、
 これも嫌いって言ってたら大きくなれないよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She doesn't want to be like you, &lt;Dio&gt;, you always pick
+at your food. You'll never grow at this rate.</EnglishText>
       <Notes/>
-      <SpeakerId>3</SpeakerId>
       <Id>5</Id>
+      <SpeakerId>3</SpeakerId>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>40040</PointerOffset>
       <VoiceId>VCT_005_178_006</VoiceId>
       <JapaneseText>その割に&lt;Mel&gt;なんて、出るところ出ないで、
 出なくていいとこ、出てんじゃねーか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That might be the case, but even then &lt;Mel&gt; won't grow
+at the places she wants to grow anyway.</EnglishText>
       <Notes/>
-      <SpeakerId>2</SpeakerId>
       <Id>6</Id>
+      <SpeakerId>2</SpeakerId>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41884</PointerOffset>
       <VoiceId>VCT_005_178_007</VoiceId>
       <JapaneseText>……うぉおっ！！
 お、おまえ……！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>U-Uwaagh!! Y-You!</EnglishText>
       <Notes/>
-      <SpeakerId>2</SpeakerId>
       <Id>7</Id>
+      <SpeakerId>2</SpeakerId>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42592</PointerOffset>
       <VoiceId>VCT_005_178_009</VoiceId>
       <JapaneseText>ほんと、お約束だね〜、&lt;Dio&gt;くん。
 今のわざとでしょ？　ね？　わざと？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
-      <SpeakerId>4</SpeakerId>
+      <EnglishText>You're really sticking to your promise, &lt;Dio&gt;~
+You really meant that, didn't you?</EnglishText>
+      <Notes>need context</Notes>
       <Id>8</Id>
+      <SpeakerId>4</SpeakerId>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
   </Strings>
 </SceneText>
