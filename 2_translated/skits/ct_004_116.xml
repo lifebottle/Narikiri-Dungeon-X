@@ -2,144 +2,184 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset/>
-      <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <PointerOffset>37284,38420,40104,41472,42948</PointerOffset>
+      <JapaneseText>&lt;DIO&gt;</JapaneseText>
+      <EnglishText/>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
-      <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText>&lt;Mel&gt;</EnglishText>
+      <PointerOffset>37776,39440,41000</PointerOffset>
+      <JapaneseText>&lt;MEL&gt;</JapaneseText>
+      <EnglishText/>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
-      <JapaneseText>&lt;Arche&gt;</JapaneseText>
-      <EnglishText>&lt;Arche&gt;</EnglishText>
+      <PointerOffset>42068</PointerOffset>
+      <JapaneseText>&lt;ARC&gt;</JapaneseText>
+      <EnglishText/>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset/>
-      <JapaneseText>Variable</JapaneseText>
-      <EnglishText>Variable</EnglishText>
-      <Notes/>
-      <Id>4</Id>
-      <Status>Done</Status>
+      <Status>To Do</Status>
     </Entry>
   </Speakers>
   <Strings>
     <Section>Story</Section>
     <Entry>
       <PointerOffset>37284</PointerOffset>
-      <VoiceId>VCT_004_116_001</VoiceId>
+      <VoiceId>&lt;VCT_004_116_001&gt;</VoiceId>
       <JapaneseText>なぁ、平和なこの時代、
 オレらほど戦ってるヤツいねーよな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Say, does anyone fight like us in that
+peaceful era?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37776</PointerOffset>
-      <VoiceId>VCT_004_116_002</VoiceId>
+      <VoiceId>&lt;VCT_004_116_002&gt;</VoiceId>
       <JapaneseText>平和……確かに魔物はいるけど、
 基本的にわたしたちの時代は平和なんだよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Peaceful, huh? Yeah, there are monsters,
+but that descriptor's definitely apt.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38420</PointerOffset>
-      <VoiceId>VCT_004_116_003</VoiceId>
+      <VoiceId>&lt;VCT_004_116_003&gt;</VoiceId>
       <JapaneseText>だろ？　だったら実戦経験とかゆーヤツも
 オレらがトップだぜ、きっと</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Right? Then in terms of pure skill, we're
+the strongest of our time, aren't we?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39440</PointerOffset>
-      <VoiceId>VCT_004_116_004</VoiceId>
+      <VoiceId>&lt;VCT_004_116_004&gt;</VoiceId>
       <JapaneseText>戦争とかもないわけだから、
 そうかな？　うん、そうだね、たぶん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't remember there being any wars,
+so...maybe? Probably, I think.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40104</PointerOffset>
-      <VoiceId>VCT_004_116_005</VoiceId>
+      <VoiceId>&lt;VCT_004_116_005&gt;</VoiceId>
       <JapaneseText>つまりだ！　自分たちの時代なら
 オレら人類最強だぜ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So what you're saying is...
+We're the greatest warriors in all
+of mankind!!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41000</PointerOffset>
-      <VoiceId>VCT_004_116_006</VoiceId>
+      <VoiceId>&lt;VCT_004_116_006&gt;</VoiceId>
       <JapaneseText>ええっ！？　そ、そうかな、
 もっと強い人もいると思うけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Uuuuuh I guess? There's probably some
+folks who are still stronger than we are,
+though.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41472</PointerOffset>
-      <VoiceId>VCT_004_116_007</VoiceId>
+      <VoiceId>&lt;VCT_004_116_007&gt;</VoiceId>
       <JapaneseText>いねーいねー！
 オレ、さいきょう！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hehehe!! I'm the best! The coolest!
+The str--</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42068</PointerOffset>
-      <VoiceId>VCT_004_116_008</VoiceId>
+      <VoiceId>&lt;VCT_004_116_008&gt;</VoiceId>
       <JapaneseText>んっふっふっふ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>*giggles*</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42948</PointerOffset>
-      <VoiceId>VCT_004_116_009</VoiceId>
+      <VoiceId>&lt;VCT_004_116_009&gt;</VoiceId>
       <JapaneseText>うっ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Urg...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Other Strings</Section>
+    <Entry>
+      <PointerOffset>12684</PointerOffset>
+      <JapaneseText>
+【あなたのwTime設定は失敗致しました】
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33512</PointerOffset>
+      <JapaneseText>ERROR : chatWaitVoice(int vtime) が呼ばれる回数が多杉
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34140</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34324</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35564</PointerOffset>
+      <JapaneseText>sleep多すぎ %d フレーム減らせ！
+ </JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
       <Status>To Do</Status>
     </Entry>
   </Strings>

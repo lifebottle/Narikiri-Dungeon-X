@@ -2,100 +2,141 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset/>
-      <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText>&lt;Mel&gt;</EnglishText>
+      <PointerOffset>37120,38084,39304,39616</PointerOffset>
+      <JapaneseText>&lt;MEL&gt;</JapaneseText>
+      <EnglishText/>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>37640,38644</PointerOffset>
       <JapaneseText>エトス</JapaneseText>
-      <EnglishText>Ethos</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset/>
-      <JapaneseText>Variable</JapaneseText>
-      <EnglishText>Variable</EnglishText>
-      <Notes/>
-      <Id>3</Id>
-      <Status>Done</Status>
+      <Status>To Do</Status>
     </Entry>
   </Speakers>
   <Strings>
     <Section>Story</Section>
     <Entry>
       <PointerOffset>37120</PointerOffset>
-      <VoiceId>VCT_004_119_001</VoiceId>
+      <VoiceId>&lt;VCT_004_119_001&gt;</VoiceId>
       <JapaneseText>で、できた……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I-I did it...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37640</PointerOffset>
-      <VoiceId>VCT_004_119_002</VoiceId>
-      <JapaneseText>すごいよ&lt;Mel&gt;！
+      <VoiceId>&lt;VCT_004_119_002&gt;</VoiceId>
+      <JapaneseText>すごいよ&lt;MEL&gt;！
 あんな技があるなんて！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Amazing, &lt;MEL&gt;!
+To think you were capable of such a
+brilliant technique!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38084</PointerOffset>
-      <VoiceId>VCT_004_119_003</VoiceId>
+      <VoiceId>&lt;VCT_004_119_003&gt;</VoiceId>
       <JapaneseText>秘奥義、だよ。
 でも、まだ完璧に使いこなせるわけじゃないし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's a Mystic Arte. Of course, I'm hardly
+an old hand at this.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38644</PointerOffset>
-      <VoiceId>VCT_004_119_004</VoiceId>
-      <JapaneseText>やっぱ&lt;Mel&gt;らしいよ。
-&lt;Dio&gt;だったら浮かれまくって大変</JapaneseText>
-      <EnglishText/>
+      <VoiceId>&lt;VCT_004_119_004&gt;</VoiceId>
+      <JapaneseText>やっぱ&lt;MEL&gt;らしいよ。
+&lt;DIO&gt;だったら浮かれまくって大変</JapaneseText>
+      <EnglishText>Well, better you have it. Were it &lt;DIO&gt; I've
+no doubt he'd get far too carried
+away with it for his own good.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39304</PointerOffset>
-      <VoiceId>VCT_004_119_005</VoiceId>
+      <VoiceId>&lt;VCT_004_119_005&gt;</VoiceId>
       <JapaneseText>うふふ、そうだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heehee, yes, I can see that.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39616</PointerOffset>
-      <VoiceId>VCT_004_119_006</VoiceId>
+      <VoiceId>&lt;VCT_004_119_006&gt;</VoiceId>
       <JapaneseText>でも、いつでも出せる感じじゃないし、これに
 頼りきらないように他の技もしっかり練習しなきゃ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't feel I can use this all the time, 
+though. Better to train my other artes
+so I don't rely on it as much!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <BubbleId>1</BubbleId>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Other Strings</Section>
+    <Entry>
+      <PointerOffset>12684</PointerOffset>
+      <JapaneseText>
+【あなたのwTime設定は失敗致しました】
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33512</PointerOffset>
+      <JapaneseText>ERROR : chatWaitVoice(int vtime) が呼ばれる回数が多杉
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34140</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34324</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35564</PointerOffset>
+      <JapaneseText>sleep多すぎ %d フレーム減らせ！
+ </JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
       <Status>To Do</Status>
     </Entry>
   </Strings>

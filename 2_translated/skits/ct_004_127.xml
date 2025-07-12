@@ -2,178 +2,215 @@
   <Speakers>
     <Section>Speaker</Section>
     <Entry>
-      <PointerOffset/>
-      <JapaneseText>&lt;Mel&gt;</JapaneseText>
-      <EnglishText>&lt;Mel&gt;</EnglishText>
+      <PointerOffset>37300,39512,45428,45736</PointerOffset>
+      <JapaneseText>&lt;MEL&gt;</JapaneseText>
+      <EnglishText/>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
-      <JapaneseText>&lt;Dio&gt;</JapaneseText>
-      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <PointerOffset>37924,38436,40020,40812,43616</PointerOffset>
+      <JapaneseText>&lt;DIO&gt;</JapaneseText>
+      <EnglishText/>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
-      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
-      <EnglishText>&lt;Rondoline&gt;</EnglishText>
+      <PointerOffset>40132,41860,44648</PointerOffset>
+      <JapaneseText>&lt;RND&gt;</JapaneseText>
+      <EnglishText/>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset/>
-      <JapaneseText>Variable</JapaneseText>
-      <EnglishText>Variable</EnglishText>
-      <Notes/>
-      <Id>4</Id>
-      <Status>Done</Status>
+      <Status>To Do</Status>
     </Entry>
   </Speakers>
   <Strings>
     <Section>Story</Section>
     <Entry>
       <PointerOffset>37300</PointerOffset>
-      <VoiceId>VCT_004_127_001</VoiceId>
-      <JapaneseText>さ、さっきの&lt;Rody&gt;さん、
+      <VoiceId>&lt;VCT_004_127_001&gt;</VoiceId>
+      <JapaneseText>さ、さっきの&lt;RND_P&gt;さん、
 ちょっと怖かったかも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>W-well... &lt;RND_P&gt; back there might've been
+a bit...frightening.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>37924</PointerOffset>
-      <VoiceId>VCT_004_127_002</VoiceId>
+      <VoiceId>&lt;VCT_004_127_002&gt;</VoiceId>
       <JapaneseText>だよな。とっくに倒れてる敵に
 あんだけの追い討ちだろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, I'll say! Wailing on an enemy that's
+already long gone?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38436</PointerOffset>
-      <VoiceId>VCT_004_127_003</VoiceId>
+      <VoiceId>&lt;VCT_004_127_003&gt;</VoiceId>
       <JapaneseText>思わず『もういい、もういいだろう！！』
 ……とか叫びそうになったよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I almost yelled "Stop! Stop! He's already
+deeeeaaaaad!"</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39512</PointerOffset>
-      <VoiceId>VCT_004_127_004</VoiceId>
-      <JapaneseText>ずっと&lt;Rody&gt;のターンって
+      <VoiceId>&lt;VCT_004_127_004&gt;</VoiceId>
+      <JapaneseText>ずっと&lt;RND_P&gt;のターンって
 感じだったもんね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's like it was never not &lt;RND_P&gt;'s
+turn.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40020</PointerOffset>
-      <VoiceId>VCT_004_127_005</VoiceId>
+      <VoiceId>&lt;VCT_004_127_005&gt;</VoiceId>
       <JapaneseText>怒らせたらやべーよな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'd really hate to see them angry.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40132</PointerOffset>
-      <VoiceId>VCT_004_127_006</VoiceId>
+      <VoiceId>&lt;VCT_004_127_006&gt;</VoiceId>
       <JapaneseText>ん？　私を呼んだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mm? Someone mention me?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40812</PointerOffset>
-      <VoiceId>VCT_004_127_007</VoiceId>
+      <VoiceId>&lt;VCT_004_127_007&gt;</VoiceId>
       <JapaneseText>わっ！　い、いえ、なんでもアリマセンッ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>WAH! N-NO! NOT IN THE SLIGHTEST!!!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41860</PointerOffset>
-      <VoiceId>VCT_004_127_008</VoiceId>
+      <VoiceId>&lt;VCT_004_127_008&gt;</VoiceId>
       <JapaneseText>そ？　ん〜。思いっきり戦ったから、いいストレス
 発散になった♪　でも喉が渇いちゃったな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That right? *stretches* I threw down real
+hard to blow off steam, but now I'm
+hella dehydrated.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43616</PointerOffset>
-      <VoiceId>VCT_004_127_009</VoiceId>
+      <VoiceId>&lt;VCT_004_127_009&gt;</VoiceId>
       <JapaneseText>ハ、ハイ！
 じゃあスグニ何か用意シマスッ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>O-OH! I'll uh, go get something for you
+right away!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44648</PointerOffset>
-      <VoiceId>VCT_004_127_010</VoiceId>
+      <VoiceId>&lt;VCT_004_127_010&gt;</VoiceId>
       <JapaneseText>なにアレ？　なんか拾い食いでもした？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What the!? You just picking stuff up off
+the ground?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
-      <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45428</PointerOffset>
-      <VoiceId>VCT_004_127_011</VoiceId>
+      <VoiceId>&lt;VCT_004_127_011&gt;</VoiceId>
       <JapaneseText>あ、あはは……
+
+</JapaneseText>
+      <EnglishText>A-ahaha...</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>11</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45736</PointerOffset>
+      <VoiceId>&lt;VCT_004_127_012&gt;</VoiceId>
+      <JapaneseText>……そこまで怖がらなくても……</JapaneseText>
+      <EnglishText>...You don't need to be THAT grossed out
+by it..</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>12</Id>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Other Strings</Section>
+    <Entry>
+      <PointerOffset>12684</PointerOffset>
+      <JapaneseText>
+【あなたのwTime設定は失敗致しました】
 
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <SpeakerId>1</SpeakerId>
-      <Id>11</Id>
-      <BubbleId>1</BubbleId>
+      <Id>13</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>45736</PointerOffset>
-      <VoiceId>VCT_004_127_012</VoiceId>
-      <JapaneseText>……そこまで怖がらなくても……</JapaneseText>
+      <PointerOffset>33512</PointerOffset>
+      <JapaneseText>ERROR : chatWaitVoice(int vtime) が呼ばれる回数が多杉
+</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <SpeakerId>1</SpeakerId>
-      <Id>12</Id>
-      <BubbleId>1</BubbleId>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34140</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34324</PointerOffset>
+      <JapaneseText></JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35564</PointerOffset>
+      <JapaneseText>sleep多すぎ %d フレーム減らせ！
+ </JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
       <Status>To Do</Status>
     </Entry>
   </Strings>
