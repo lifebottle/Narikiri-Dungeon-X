@@ -41,57 +41,58 @@
       <VoiceId>VSM_280_010_001</VoiceId>
       <JapaneseText>ここは……
 アイツがいた場所……</JapaneseText>
-      <EnglishText>This is the place those two are...</EnglishText>
+      <EnglishText>This is the place... Those two
+must be here...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>259484</PointerOffset>
       <VoiceId>VSM_280_010_002</VoiceId>
       <JapaneseText>ここに……
 何かが待ってるの？</JapaneseText>
-      <EnglishText>Do you think there's anything special here? </EnglishText>
+      <EnglishText>Do you think there's anything special here?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>259680</PointerOffset>
       <VoiceId>VSM_280_010_003</VoiceId>
       <JapaneseText>ああ、たぶん</JapaneseText>
-      <EnglishText>I dunno, but something tells me... </EnglishText>
+      <EnglishText>I dunno, but something tells me...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>259828</PointerOffset>
       <VoiceId>VSM_280_010_004</VoiceId>
       <JapaneseText>ここに……何があるの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What's here?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>260024</PointerOffset>
       <VoiceId>VSM_280_010_005</VoiceId>
       <JapaneseText>わかんねけど、なにか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I have no clue, but something's...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>260388</PointerOffset>
@@ -108,12 +109,12 @@
       <PointerOffset>260528</PointerOffset>
       <VoiceId>VSM_280_010_007</VoiceId>
       <JapaneseText>行こう</JapaneseText>
-      <EnglishText>Let's go. </EnglishText>
+      <EnglishText>Let's go.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
 </SceneText>
