@@ -33,12 +33,13 @@
       <VoiceId>VSM_310_030_001</VoiceId>
       <JapaneseText>パレスセダム軍が、
 パレスグドラ領を侵犯</JapaneseText>
-      <EnglishText>Palace Sedum's army has invaded Palace Ggdra's territory. </EnglishText>
+      <EnglishText>Palace Sedamyu's army has invaded
+Palace Gudora's territory.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>258092</PointerOffset>
@@ -46,62 +47,67 @@
       <JapaneseText>国民の８割が
 戦禍に巻き込まれ死亡。
 都市機能は完全に停止</JapaneseText>
-      <EnglishText>The damage of the country has risen an 8%. The number of 
-casualties is constantly on the rise. At this time all minor towns 
-have ceased their economical functions completely and entered a 
-state of emergency. </EnglishText>
-      <Notes/>
+      <EnglishText>Damage to the country has risen by 8% with casualties
+constantly on the rise. Small towns have shuttered
+operations and have entered a state of emergency. </EnglishText>
+      <Notes>TL check 
+
+used to be 
+The damage of the country has risen by 8%. The number
+of casualties is constantly on the rise. At this time all
+minor towns have ceased their economical functions
+completely and entered a state of emergency.</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>2</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>258092</PointerOffset>
       <VoiceId>VSM_310_030_003</VoiceId>
       <JapaneseText>パレスグドラが降伏するのは
 時間の問題です</JapaneseText>
-      <EnglishText>Palace Ggdra's submission is imminent. </EnglishText>
+      <EnglishText>Palace Gudora's surrender is imminent.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>3</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>258232</PointerOffset>
       <VoiceId>VSM_310_030_004</VoiceId>
       <JapaneseText>……本当にそうか？</JapaneseText>
-      <EnglishText>...Is that so? </EnglishText>
+      <EnglishText>...Is that so?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>258372</PointerOffset>
       <VoiceId>VSM_310_030_005</VoiceId>
       <JapaneseText>はっ……？</JapaneseText>
-      <EnglishText>Hah....? </EnglishText>
+      <EnglishText>Hah....?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>258512</PointerOffset>
       <VoiceId>VSM_310_030_006</VoiceId>
       <JapaneseText>このまま、パレスグドラが
 おとなしく降伏すると思うか？</JapaneseText>
-      <EnglishText>Do you really believe Palace Ggdra will surrender 
-obediently at this point? </EnglishText>
+      <EnglishText>Do you really believe Palace Gudora
+will surrender obediently at this point?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>258652</PointerOffset>
@@ -109,13 +115,14 @@ obediently at this point? </EnglishText>
       <JapaneseText>はっ……もはや、
 パレスグドラには何の力も
 残されておりません</JapaneseText>
-      <EnglishText>B-but even if they didn't want to...they currently possess 
-no military capabilities to make any demands. </EnglishText>
+      <EnglishText>B-But even if they don't want to...
+they currently lack the military
+capabilities to make any demands.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>258848</PointerOffset>
@@ -123,49 +130,50 @@ no military capabilities to make any demands. </EnglishText>
       <JapaneseText>何故、パレスグドラが、
 何かしらの力を
 温存していると考えない？</JapaneseText>
-      <EnglishText>And what if, by chance, they have some sort of weapon they 
-haven't decided to use yet? </EnglishText>
+      <EnglishText>And what if, by chance, they have some sort
+of weapon they haven't decided to use yet?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>258988</PointerOffset>
       <VoiceId>VSM_310_030_009</VoiceId>
       <JapaneseText>そのような力があるなら、
 こうなる前に使っていたでしょう</JapaneseText>
-      <EnglishText>I believe if they had such firepower capability they'd have 
-used it before. </EnglishText>
+      <EnglishText>I believe if they had such firepower,
+they'd have used it already.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>259128</PointerOffset>
       <VoiceId>VSM_310_030_010</VoiceId>
       <JapaneseText>そうはできない理由が
 あるとすれば？</JapaneseText>
-      <EnglishText>But they could have had a reason not to use it, right? </EnglishText>
+      <EnglishText>But they could have had a
+reason not to use it, right?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>259268</PointerOffset>
       <VoiceId>VSM_310_030_011</VoiceId>
       <JapaneseText>…………？</JapaneseText>
-      <EnglishText>...? </EnglishText>
+      <EnglishText>...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>259464</PointerOffset>
@@ -173,37 +181,37 @@ used it before. </EnglishText>
       <JapaneseText>使うことで、
 自らも被害をこうむる、
 そんな力ならば？</JapaneseText>
-      <EnglishText>What if when used, that weapon will cause collateral damage 
-to them too? </EnglishText>
+      <EnglishText>What if when used, that weapon will
+cause collateral damage to them too?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>259604</PointerOffset>
       <VoiceId>VSM_310_030_013</VoiceId>
       <JapaneseText>そんな力を使えば、
 自滅するだけでは</JapaneseText>
-      <EnglishText>If they possessed such a weapon using it would be the same 
-as suicide. </EnglishText>
+      <EnglishText>If they possessed such a weapon,
+using it would be akin to suicide.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>259800</PointerOffset>
       <VoiceId>VSM_310_030_014</VoiceId>
       <JapaneseText>そうだ、自滅だ</JapaneseText>
-      <EnglishText>Yes, they'd destroy themselves. </EnglishText>
+      <EnglishText>Yes, they'd destroy themselves.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>259800</PointerOffset>
@@ -211,36 +219,37 @@ as suicide. </EnglishText>
       <JapaneseText>滅びようとする者が
 なりふり構わなくなると
 講じる手段だ</JapaneseText>
-      <EnglishText>It would mean their situation is so dire they care not for 
-mutual annihilation. </EnglishText>
+      <EnglishText>It would mean their situation is so dire
+they care not about mutual annihilation.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
       <BubbleId>2</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>260060</PointerOffset>
       <VoiceId>VSM_310_030_016</VoiceId>
       <JapaneseText>…………！</JapaneseText>
-      <EnglishText>...! </EnglishText>
+      <EnglishText>...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>260416</PointerOffset>
       <VoiceId>VSM_310_030_017</VoiceId>
       <JapaneseText>なんとかせねばならぬ、
 最悪の事態になる前に……</JapaneseText>
-      <EnglishText>If that is the case and we reach a worst case scenario... </EnglishText>
+      <EnglishText>If that is the case, and we
+reach a worst case scenario...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>260416</PointerOffset>
@@ -248,12 +257,12 @@ mutual annihilation. </EnglishText>
       <JapaneseText>しかし……
 今の私に何が、
 できる……？</JapaneseText>
-      <EnglishText>And yet...what could I possibly do ...? </EnglishText>
+      <EnglishText>And yet...what could I possibly do...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
       <BubbleId>2</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
 </SceneText>
