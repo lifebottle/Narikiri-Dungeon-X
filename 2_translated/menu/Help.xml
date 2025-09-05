@@ -21,15 +21,24 @@
 ２０文字入ります。２０文字入りますよー！
 ２０文字入ります。２０文字入りますよー！
 ２０文字入ります。２０文字入りますよー！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Working Title
+This fits 20 characters. 20 whole characters!
+This fits 20 characters. 20 whole characters!
+This fits 20 characters. 20 whole characters!
+This fits 20 characters. 20 whole characters!
+This fits 20 characters. 20 whole characters!
+This fits 20 characters. 20 whole characters!
+This fits 20 characters. 20 whole characters!
+This fits 20 characters. 20 whole characters!
+This fits 20 characters. 20 whole characters!</EnglishText>
       <Notes/>
       <Id>5050</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>28</PointerOffset>
       <JapaneseText>敵情報を見よう！</JapaneseText>
-      <EnglishText>test</EnglishText>
+      <EnglishText>Examine the Enemy!</EnglishText>
       <Notes/>
       <Id>5051</Id>
       <Status>Editing</Status>
@@ -45,18 +54,24 @@
 
 詳しくはバトルメモの「戦闘の基本1」にある 
 『敵情報を見よう！』 を見てね！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Press &lt;icon:3290408&gt; during battle to see enemy info!
+Use a Magic Lens for more detailed stats
+like HP or Attributes. If you've already used
+a Magic Lens, you can view these stats
+without having to use another one.  For
+more info, check "Enemy Info" in the 
+Battle Book!</EnglishText>
+      <Notes>Check button controls and other menu name</Notes>
       <Id>5052</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44</PointerOffset>
       <JapaneseText>ターゲット切り替え</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Changing Targets</EnglishText>
       <Notes/>
       <Id>5053</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48</PointerOffset>
@@ -68,18 +83,24 @@
 
 詳しくはバトルメモの「戦闘の基本1」にある
 『ターゲットの切り替え』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You can switch targets by holding &lt;icon:3290408&gt;
+and pressing  &lt;icon:3159592&gt; left and right! Try 
+changing target modes by pressing &lt;icon:3683368&gt;
+as well.
+
+For more details, check "Changing Targets"
+under "Battle Basics" in the Battle Book.</EnglishText>
       <Notes/>
       <Id>5054</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>60</PointerOffset>
       <JapaneseText>コンボ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Combo</EnglishText>
       <Notes/>
       <Id>5055</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>64</PointerOffset>
@@ -90,18 +111,22 @@
 
 詳しくはバトルメモの「戦闘の基本2」にある
 『コンボ！』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When you hit an enemy multiple times in quick
+succession before they can recover, that's called
+a Combo! Try keeping combos going as long as
+possible to unlock Titles and other rewards. For
+more info,  see "Combo" in the Battle Book.</EnglishText>
       <Notes/>
       <Id>5056</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>76</PointerOffset>
       <JapaneseText>状態異常について</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Status Effects</EnglishText>
       <Notes/>
       <Id>5057</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>80</PointerOffset>
@@ -115,18 +140,25 @@
 
 詳しくはバトルメモの「戦闘の基本2」にある
 『状態異常について』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Have you seen the words [BAD STATE]
+appear above someone's head? This means
+they have a negative Status Effect. They
+can spell disaster if left untreated, so cure
+them quickly with items!
+
+For more details, check "Status Effects"
+under "Battle Basics 2" in the Battle Book.</EnglishText>
       <Notes/>
       <Id>5058</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>92</PointerOffset>
       <JapaneseText>状態異常「熱毒」</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Status Effect: Poison</EnglishText>
+      <Notes>check if different types of poison</Notes>
       <Id>5059</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>96</PointerOffset>
@@ -138,18 +170,24 @@
 
 詳しくはバトルメモの「戦闘の基本2」にある
 『状態異常「熱毒」』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Poison gradually drains a character's HP.
+While poison cannot bring a character below
+1 HP, it's better to cure the status before
+reaching that point.
+
+For more details look in "Battle Basics 2"
+for the Battle Book Entry on Poison.</EnglishText>
       <Notes/>
       <Id>5060</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>108</PointerOffset>
       <JapaneseText>状態異常「麻痺」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Status Effect: Paralysis</EnglishText>
       <Notes/>
       <Id>5061</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>112</PointerOffset>
@@ -159,18 +197,23 @@
 
 詳しくはバトルメモの「戦闘の基本2」にある
 『状態異常「麻痺」』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you find yourself unable to run or attack
+except by using spells, you've been Paralyzed
+and are a sitting duck!
+
+For more details look in "Battle Basics 2"
+for the Battle Book Entry on Paralysis.</EnglishText>
       <Notes/>
       <Id>5062</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>124</PointerOffset>
       <JapaneseText>状態異常「石化」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Status Effect: Petrification</EnglishText>
       <Notes/>
       <Id>5063</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>128</PointerOffset>
@@ -180,18 +223,25 @@
 
 詳しくはバトルメモの「戦闘の基本2」にある
 『状態異常「石化」』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Petrified characters turn into Stone Statues
+and also take double damage while Petrified!
+Thankfully, there are accessories that can
+prevent Petrification.
+
+
+For more details look in "Battle Basics 2"
+for the Battle Book Entry on Petrification.</EnglishText>
       <Notes/>
       <Id>5064</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>140</PointerOffset>
       <JapaneseText>状態異常「睡眠」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Status Effect: Sleep</EnglishText>
       <Notes/>
       <Id>5065</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>144</PointerOffset>
@@ -202,18 +252,24 @@
 
 詳しくはバトルメモの「戦闘の基本2」にある
 『状態異常「睡眠」』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This status effect makes characters fall
+asleep in the middle of battle! They DO
+recover HP while sleeping, but it's better
+to wake them up as soon as possible.
+
+For more details look in "Battle Basics 2"
+for the Battle Book Entry on Sleep.</EnglishText>
       <Notes/>
       <Id>5066</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>156</PointerOffset>
       <JapaneseText>状態異常「封印」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Status Effect: Silence</EnglishText>
       <Notes/>
       <Id>5067</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>160</PointerOffset>
@@ -223,18 +279,23 @@
 
 詳しくはバトルメモの「戦闘の基本2」にある
 『状態異常「封印」』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Silence prevents the use of Spells. If a Mage
+is afflicted with this, cure them as soon as
+possible!
+
+For more details look in "Battle Basics 2"
+for the Battle Book Entry on Silence.</EnglishText>
       <Notes/>
       <Id>5068</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>172</PointerOffset>
       <JapaneseText>状態異常「暗闇」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Status Effect: Blind</EnglishText>
       <Notes/>
       <Id>5069</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>176</PointerOffset>
@@ -246,18 +307,24 @@
 
 詳しくはバトルメモの「戦闘の基本2」にある
 『状態異常「暗闇」』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When everything except your character goes
+dark, you've been Blinded! You can still try
+to attack if you're lucky, but you won't be
+able to see enemy attacks coming to dodge.
+
+For more details look in "Battle Basics 2"
+for the Battle Book Entry on Blindness.</EnglishText>
       <Notes/>
       <Id>5070</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>188</PointerOffset>
       <JapaneseText>状態異常「停止」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Status Effect: Stop</EnglishText>
       <Notes/>
       <Id>5071</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>192</PointerOffset>
@@ -270,18 +337,25 @@
 
 詳しくはバトルメモの「戦闘の基本2」にある
 『状態異常「停止」』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Stop completely freezese a character as if
+Time itself completely Stopped for them.
+If you Stop an enemy, they cannot be
+knocked down or away, giving you a huge
+advantage in battle!
+
+For more details look in "Battle Basics 2"
+for the Battle Book Entry on Stop.</EnglishText>
       <Notes/>
       <Id>5072</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>204</PointerOffset>
       <JapaneseText>状態異常「気絶」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Status Effect: Dizzy</EnglishText>
       <Notes/>
       <Id>5073</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>208</PointerOffset>
@@ -292,18 +366,23 @@
 
 詳しくはバトルメモの「戦闘の基本2」にある
 『状態異常「気絶」』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dizziness immobilizes you for a short time!
+You're completely open to attacks while
+Dizzy, so mash those buttons to recover!
+
+For more details look in "Battle Basics 2"
+for the Battle Book Entry on Dizziness.</EnglishText>
       <Notes/>
       <Id>5074</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>220</PointerOffset>
       <JapaneseText>スキルって？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>What are Skills?</EnglishText>
+      <Notes>スキル is literally "skill", check if translation is consistent</Notes>
       <Id>5075</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>224</PointerOffset>
@@ -314,18 +393,24 @@
 
 詳しくはバトルメモの「術技・スキル」にある
 『スキルって？』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Skills are useful effects that increase your
+combat prowess and allow for more actions
+during battle. Obtain more skills by levelling
+your costumes!
+
+For more Details, check "What are Skills?"
+under "Artes/Skills" In the Battle Book.</EnglishText>
       <Notes/>
       <Id>5076</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>236</PointerOffset>
       <JapaneseText>スキル・術技の取得</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Learning Skills and Artes</EnglishText>
       <Notes/>
       <Id>5077</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>240</PointerOffset>
@@ -336,18 +421,25 @@
 
 詳しくはバトルメモの「術技・スキル」にある
 『スキル・術技の取得』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You obtain Costume Points (CP) for the
+Costume you're wearing when winning a
+battle. These allow you to acquire more
+Artes and Skills tied to that Costume!
+
+For more Details, check  "Learning Artes
+and Skills" under "Artes/Skills" In the Battle
+Book.</EnglishText>
       <Notes/>
       <Id>5078</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>252</PointerOffset>
       <JapaneseText>術技の種類</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Types of Attacks</EnglishText>
       <Notes/>
       <Id>5079</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>256</PointerOffset>
@@ -358,18 +450,23 @@
 
 詳しくはバトルメモの「術技・スキル」にある
 『術技の種類』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There are multiple types of attacks. Press
+&lt;icon:3683368&gt; to use normal attacks for free, and
+&lt;icon:3748904&gt; to use special Artes and Spells!
+
+For more Details, check "Type of Artes"
+under "Artes/Skills" In the Battle Book.</EnglishText>
       <Notes/>
       <Id>5080</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268</PointerOffset>
       <JapaneseText>秘奥義発動！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Use a Mystic Arte!</EnglishText>
       <Notes/>
       <Id>5081</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272</PointerOffset>
@@ -383,18 +480,24 @@
 
 詳しくはバトルメモの「術技・スキル」にある
 『秘奥義発動！』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mystic Artes are the most powerful kind of
+Arte! You can use them by pressing &lt;icon:3355944&gt;
+during Overbrave. Dio and Mel can learn new
+Mystic Artes from different costumes.
+
+For more Details, check "Mystic Artes"
+under "Artes/Skills" In the Battle Book.</EnglishText>
       <Notes/>
       <Id>5082</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284</PointerOffset>
       <JapaneseText>属性付与について</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Changing Attributes</EnglishText>
       <Notes/>
       <Id>5083</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288</PointerOffset>
@@ -408,18 +511,25 @@
 
 詳しくはバトルメモの「術技・スキル」にある
 『属性の付与について』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sometimes you might see an enemy weak
+to an element you can't use easily. When
+that happens, try an Elemental Stone!
+These are consumables that change your
+Attack Attributes for a limited time.
+
+For more Details, check "Attributes"
+under "Artes/Skills" In the Battle Book.</EnglishText>
       <Notes/>
       <Id>5084</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300</PointerOffset>
       <JapaneseText>オーバーブレイブ２</JapaneseText>
-      <EnglishText/>
+      <EnglishText>OverBrave 2</EnglishText>
       <Notes/>
       <Id>5085</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>304</PointerOffset>
@@ -432,18 +542,26 @@
 この内容はバトルメモの「術技・スキル」にある
 『オーバーブレイブ１』と
 『オーバーブレイブ２』 で確認できるよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>OverBrave increases your attack power in
+proportion to your EBG! While it's normally
+capped at 120%, it can increase even more
+during OverBrave, so try to get it as high
+as you can!
+
+For more Details, check "OverBrave 1"
+and "OverBrave 2" under "Artes/Skills" In 
+the Battle Book.</EnglishText>
       <Notes/>
       <Id>5086</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316</PointerOffset>
       <JapaneseText>オーバーブレイブ３</JapaneseText>
-      <EnglishText/>
+      <EnglishText>OverBrave 3</EnglishText>
       <Notes/>
       <Id>5087</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>320</PointerOffset>
@@ -454,18 +572,23 @@
 
 この内容はバトルメモの「術技・スキル」にある
 『オーバーブレイブ３』 で確認できるよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you activate OverBrave during a combo,
+your combo count will be maintained during
+OverBrave mode!
+
+For more Details, check "OverBrave 3" 
+under "Artes/Skills" In the Battle Book.</EnglishText>
       <Notes/>
       <Id>5088</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>332</PointerOffset>
       <JapaneseText>Ｗオーバーブレイブ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Double OverBrave!</EnglishText>
       <Notes/>
       <Id>5089</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>336</PointerOffset>
@@ -477,18 +600,24 @@
 
 詳しくはバトルメモの「拡張システム」にある
 『Ｗオーバーブレイブ！』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>During Chain Partner, both the the player
+and Couleur can activate OverBrave 
+simultaneously! Both characters must have
+at least 100% EBG for Double OverBrave.
+
+For more Details, check "Double OverBrave" 
+in the Expanded section of the Battle Book.</EnglishText>
       <Notes/>
       <Id>5090</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>348</PointerOffset>
       <JapaneseText>合体秘奥義</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dual Mystic Arte</EnglishText>
       <Notes/>
       <Id>5091</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>352</PointerOffset>
@@ -501,18 +630,25 @@
 
 詳しくはバトルメモの「拡張システム」にある
 『合体秘奥義』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dual Mystic Artes are special Mystic Artes
+that are available during Chain Partner!
+During Double OverBrave, press &lt;icon:3355944&gt;
+to activate a Dual Mystic Artes! You can
+learn them through Dio and Mel's costumes.
+
+For more Details, check "Dual Mystic Arte" 
+in the Expanded section of the Battle Book.</EnglishText>
       <Notes/>
       <Id>5092</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>364</PointerOffset>
       <JapaneseText>チェインパートナー２</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Chain Partner 1/2</EnglishText>
       <Notes/>
       <Id>5093</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>368</PointerOffset>
@@ -525,18 +661,24 @@
 詳しくはバトルメモの「拡張システム」にある
 『チェインパートナー１』と
 『チェインパートナー２』を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When controlling Dio or Mel with Couleur in
+the party, you can activate Chain Partner!
+Chain Partner lasts longer the higher both
+character's levels are.
+
+For more Details, check "Chain Partner 1/2" 
+in the Expanded section of the Battle Book.</EnglishText>
       <Notes/>
       <Id>5094</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>380</PointerOffset>
       <JapaneseText>チェインパートナー３</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Chain Partner 3</EnglishText>
       <Notes/>
       <Id>5095</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>384</PointerOffset>
@@ -551,18 +693,26 @@
 
 詳しくはバトルメモの「拡張システム」にある
 『チェインパートナー３』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Have you noticed Couleur doesn't always
+attack the same way during Chain Partner?
+Where the player, target and Couleur are
+relative to each other determines if Couleur's
+attacks are simultaneous with the player's or
+delayed.
+
+For more Details, check "Chain Partner 3" 
+in the Expanded section of the Battle Book.</EnglishText>
       <Notes/>
       <Id>5096</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>396</PointerOffset>
       <JapaneseText>チェインパートナー４</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Chain Partner 4</EnglishText>
       <Notes/>
       <Id>5097</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>400</PointerOffset>
@@ -575,18 +725,24 @@
 
 詳しくはバトルメモの「拡張システム」にある
 『チェインパートナー４』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Chain Partner ends after a certain amount
+of time has passed, but will also end if the
+player of Couleur is KO'd or if only the 
+player character activates Overbrave.
+
+For more Details, check "Chain Partner 4" 
+in the Expanded section of the Battle Book.</EnglishText>
       <Notes/>
       <Id>5098</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>412</PointerOffset>
       <JapaneseText>素早い連携</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Basic Combos</EnglishText>
       <Notes/>
       <Id>5099</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>416</PointerOffset>
@@ -596,18 +752,24 @@
 
 詳しくはバトルメモの「応用」にある
 『素早い連携』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Rather than throwing out artes in any
+order, try considering which ones to use in
+order to create long combos with little
+to no openings for enemies to counter!
+
+For more Details, check "Basic Combos" in
+the Advanced section of the Battle Book.</EnglishText>
       <Notes/>
       <Id>5100</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>428</PointerOffset>
       <JapaneseText>難易度の高い連携</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Advanced Combos</EnglishText>
       <Notes/>
       <Id>5101</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>432</PointerOffset>
@@ -620,18 +782,27 @@
 
 詳しくはバトルメモの「応用」にある
 『難易度の高い連携』 を見てね！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Once you're used to using artes in order,
+try considering the various effects of each
+arte such as launch distance or stun time
+to create more Advanced Combos! You
+may even be rewarded in the Battle Results
+if your combos are Advanced enough~
+
+Check "Advanced Combos" in the
+Advanced section of the Battle Book for
+more details.</EnglishText>
+      <Notes>tilde was actually a music note, can we include that in the font?</Notes>
       <Id>5102</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>444</PointerOffset>
       <JapaneseText>敵の背後を突く！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Strike from Behind!</EnglishText>
       <Notes/>
       <Id>5103</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>448</PointerOffset>
@@ -643,18 +814,24 @@
 
 詳しくはバトルメモ「応用」にある
 『敵の背後を突く！』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The best position to attack an enemy is
+behind them! Enemies remain in hitstun
+longer when you hit their back, making
+it easier to go for longer combos!
+
+For more Details, check "Back Attacks"
+in the Advanced section of the Battle Book.</EnglishText>
       <Notes/>
       <Id>5104</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>460</PointerOffset>
       <JapaneseText>敵がダウンした！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Knockdown!</EnglishText>
       <Notes/>
       <Id>5105</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>464</PointerOffset>
@@ -666,18 +843,25 @@
 
 詳しくはバトルメモ「応用」にある
 『敵がダウンした！』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When an enemy is lying on the ground,
+they are in a "Knockdown" state. If an
+enemy is Knocked Down during your combo,
+the Combo may end. Keep attacking to
+keep your Combo going!
+
+For more Details, check "Knockdown!" in the
+Advanced section of the Battle Book.</EnglishText>
       <Notes/>
       <Id>5106</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>476</PointerOffset>
       <JapaneseText>テクニカルスマッシュ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Technical Smash</EnglishText>
       <Notes/>
       <Id>5107</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>480</PointerOffset>
@@ -691,18 +875,25 @@
 
 詳しくはバトルメモの「応用」にある
 『テクニカルスマッシュ』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Have you ever looked at the Battle Results 
+screen and wished you earned more EXP or
+Gald? Make your victories more stylish with
+a Technical Smash and earn even more
+rewards! 
+
+For more details,  check "Technical Smash"
+in the Advanced section of the Battle Book.</EnglishText>
       <Notes/>
       <Id>5108</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>492</PointerOffset>
       <JapaneseText>Ｂｕｓｔｅｒ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Buster</EnglishText>
       <Notes/>
       <Id>5109</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>496</PointerOffset>
@@ -711,18 +902,22 @@
 
 詳しくはバトルメモの「応用」にある
 『Ｂｕｓｔｅｒ』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Defeat two or more enemies in the same
+Combo to earn the Buster Technical Smash!
+
+For more details, check "Buster" in the
+Advanced section of the Battle Book.</EnglishText>
       <Notes/>
       <Id>5110</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>508</PointerOffset>
       <JapaneseText>Ｃｈａｉｎ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Chain</EnglishText>
       <Notes/>
       <Id>5111</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>512</PointerOffset>
@@ -732,18 +927,22 @@
 
 詳しくはバトルメモの「応用」にある
 『Ｃｈａｉｎ』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Chain 4 or more Artes in a row to earn
+the Chain Technical Smash!
+
+For more details, check "Chain" in the
+Advanced section of the Battle Book.</EnglishText>
       <Notes/>
       <Id>5112</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>524</PointerOffset>
       <JapaneseText>ＮｏＤａｍａｇｅ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No Damage</EnglishText>
       <Notes/>
       <Id>5113</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>528</PointerOffset>
@@ -753,18 +952,22 @@
 
 詳しくはバトルメモの「応用」にある
 『ＮｏＤａｍａｇｅ』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Defeat enemies without taking damage to
+earn the [No Damage] Technical Smash!
+
+For more details, check "No Damage" in the
+Advanced section of the Battle Book.</EnglishText>
       <Notes/>
       <Id>5114</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>540</PointerOffset>
       <JapaneseText>Ａｅｒｉａｌ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Aerial</EnglishText>
       <Notes/>
       <Id>5115</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>544</PointerOffset>
@@ -774,18 +977,23 @@
 
 詳しくはバトルメモの「応用」にある
 『Ａｅｒｉａｌ』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Defeat an enemy while they're in the air to
+earn the [Aerial] Technical Smash! This one
+may be tricky to go for, but keep trying!
+
+For more details, check "Aerial" in the
+Advanced section of the Battle Book.</EnglishText>
       <Notes/>
       <Id>5116</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>556</PointerOffset>
       <JapaneseText>Ｔｒｉａｎｇｌｅ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Triangle</EnglishText>
       <Notes/>
       <Id>5117</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>560</PointerOffset>
@@ -796,18 +1004,24 @@
 
 詳しくはバトルメモの「応用」にある
 『Ｔｒｉａｎｇｌｅ』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Use 3 or more different kinds of artes in
+a single combo to earn the Triangle
+Technical Smash! This may be the easiest
+Technical Smash to earn.
+
+For more details, check "Triangle" in the
+Advanced section of the Battle Book.</EnglishText>
       <Notes/>
       <Id>5118</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>572</PointerOffset>
       <JapaneseText>Ｓｔ．Ｄａｍａｇｅ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Status Damage</EnglishText>
       <Notes/>
       <Id>5119</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>576</PointerOffset>
@@ -817,18 +1031,24 @@
 
 詳しくはバトルメモの「応用」
 『Ｓｔ．Ｄａｍａｇｅ』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You can even earn a Technical Smash by
+inflicting Status Effects! Try using Artes
+that can apply Status Effects to go for
+this one.
+
+For more details, check "Status Damage"
+in the Advanced section of the Battle Book.</EnglishText>
       <Notes/>
       <Id>5120</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>588</PointerOffset>
       <JapaneseText>Ａｃｔｉｏｎ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Action</EnglishText>
       <Notes/>
       <Id>5121</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>592</PointerOffset>
@@ -838,18 +1058,24 @@
 
 詳しくはバトルメモの「応用」
 『Ａｃｔｉｏｎ』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Some Artes have Arte Extensions for added
+effect! When doing an Arte Extension, you'll
+get the "Action" Technical Smash.
+
+
+For more details, check "Action" in the
+Advanced section of the Battle Book.</EnglishText>
       <Notes/>
       <Id>5122</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>604</PointerOffset>
       <JapaneseText>ＯｖｅｒＢｒａｖｅ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>OverBrave</EnglishText>
       <Notes/>
       <Id>5123</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>608</PointerOffset>
@@ -861,18 +1087,25 @@
 
 詳しくはバトルメモの「応用」にある
 『ＯｖｅｒＢｒａｖｅ』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just by activating OverBrave, you can get
+a Technical Smash!
+
+You can even activate OverBrave then try
+to get another Technical Smash as well!
+
+For more details, check "OverBrave" in the
+"Advanced" section of the Battle Book.</EnglishText>
       <Notes/>
       <Id>5124</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>620</PointerOffset>
       <JapaneseText>コンボの稼ぎ方</JapaneseText>
-      <EnglishText/>
+      <EnglishText>How to Extend Combos</EnglishText>
       <Notes/>
       <Id>5125</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>624</PointerOffset>
@@ -883,18 +1116,26 @@
 
 詳しくはバトルメモの「応用」にある
 『コンボの稼ぎ方』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"I wish there were more options to pull off
+better Combos." If you feel this way, then
+make full use of your Skills! For example,
+some skills enable even more Normal Attacks
+in a row.
+
+For more details check "Extending Combos"
+in the "Advanced" section of the
+Battle Book.</EnglishText>
       <Notes/>
       <Id>5126</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>636</PointerOffset>
       <JapaneseText>戦闘ボーナス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Battle Bonus</EnglishText>
       <Notes/>
       <Id>5127</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>640</PointerOffset>
@@ -905,18 +1146,25 @@
 
 詳しくはバトルメモの「応用」にある
 『テクニカルスマッシュ』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>By performing certain actions in a battle
+such as using multiple different kinds of
+Artes in the same combo, you can earn
+bonuses to your Experience and Grade after
+battle!
+
+For more details,  check "Technical Smash"
+in the Advanced section of the Battle Book.</EnglishText>
       <Notes/>
       <Id>5128</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>652</PointerOffset>
       <JapaneseText>術技スロットの設定方法</JapaneseText>
-      <EnglishText/>
+      <EnglishText>How to Set up Arte Slots</EnglishText>
       <Notes/>
       <Id>5129</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>656</PointerOffset>
@@ -926,18 +1174,23 @@
 
 詳しくはバトルメモの「システム１」にある
 『術技スロット』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When you learn an Arte from a costume,
+you can only use it when setting it to
+a slot such as &lt;icon:3748904&gt;+&lt;icon:3552552&gt;!
+
+For more details,  check "Arte Slots"
+under "System 1" in the Battle Book.</EnglishText>
       <Notes/>
       <Id>5130</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>668</PointerOffset>
       <JapaneseText>保有スキルの閲覧と設定</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Set and Check Skills</EnglishText>
       <Notes/>
       <Id>5131</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>672</PointerOffset>
@@ -948,18 +1201,24 @@
 
 詳しくはバトルメモの「システム１」にある
 『スキルの閲覧と設定』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Skills you get through costumes can be
+viewed in the Skill section of the Battle
+menu. Be sure to equip any new skills
+you want once you learn them!
+
+For more details,  check "Skills" under
+"System 1" in the Battle Book.</EnglishText>
       <Notes/>
       <Id>5132</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>684</PointerOffset>
       <JapaneseText>レコード</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Records</EnglishText>
       <Notes/>
       <Id>5133</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>688</PointerOffset>
@@ -970,34 +1229,40 @@
 
 詳しくはバトルメモの「システム２」にある
 『レコード』 を見てね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In the Menu under "Records", you can check
+the number of battles you've fought, your
+quickest battle time, your highest combo
+count, and more. This can help ypu collect
+titles and medals. For more information, see
+"Records" under "System 2" in the
+Battle Book!</EnglishText>
       <Notes/>
       <Id>5134</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>700</PointerOffset>
       <JapaneseText>スキップ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Skip</EnglishText>
       <Notes/>
       <Id>5135</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>704</PointerOffset>
       <JapaneseText>欠番になりました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>MISSING NO.</EnglishText>
       <Notes/>
       <Id>5136</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>848,828,864,832,764,784,732,844,720,816,780,752,768,716,860,800,796,748,812,736</PointerOffset>
       <JapaneseText>予備</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Reserve</EnglishText>
       <Notes/>
       <Id>5137</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </MenuText>
