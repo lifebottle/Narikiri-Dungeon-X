@@ -257,7 +257,7 @@
       <EnglishText>[Your wTime setting has failed]</EnglishText>
       <Notes/>
       <Id>18</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>33512</PointerOffset>
@@ -266,7 +266,7 @@
       <EnglishText>ERROR: chatWaitVoice(int vtime) is being called too many times</EnglishText>
       <Notes/>
       <Id>19</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>34140</PointerOffset>
@@ -291,7 +291,7 @@
       <EnglishText>Too much sleep! Reduce it by %d frames!</EnglishText>
       <Notes/>
       <Id>22</Id>
-      <Status>To Do</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
 </SceneText>
