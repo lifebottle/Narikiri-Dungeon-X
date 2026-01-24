@@ -201,49 +201,49 @@
       <VoiceId>&lt;VCT_001_006_014&gt;</VoiceId>
       <JapaneseText>なんか腹へったよ、
 エト、食うもんないの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm kinda hungry. Eto, don't you have anything to eat?</EnglishText>
       <Notes/>
       <Id>14</Id>
       <StructId>14</StructId>
       <SpeakerId>1</SpeakerId>
       <UnknownPointer>12</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>42676</PointerOffset>
       <VoiceId>&lt;VCT_001_006_015&gt;</VoiceId>
       <JapaneseText>きみねぇ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You know...</EnglishText>
       <Notes/>
       <Id>15</Id>
       <StructId>15</StructId>
       <SpeakerId>3</SpeakerId>
       <UnknownPointer>24</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>43568</PointerOffset>
       <VoiceId>&lt;VCT_001_006_016&gt;</VoiceId>
       <JapaneseText>………………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <Id>16</Id>
       <StructId>16</StructId>
       <SpeakerId>4</SpeakerId>
       <UnknownPointer>13</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>44132</PointerOffset>
       <VoiceId>&lt;VCT_001_006_017&gt;</VoiceId>
       <JapaneseText>クルール〜？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Krul~?</EnglishText>
       <Notes/>
       <Id>17</Id>
       <StructId>17</StructId>
       <SpeakerId>2</SpeakerId>
       <UnknownPointer>14</UnknownPointer>
-      <Status>To Do</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -254,7 +254,7 @@
 【あなたのwTime設定は失敗致しました】
 
 </JapaneseText>
-      <EnglishText/>
+      <EnglishText>[Your wTime setting has failed]</EnglishText>
       <Notes/>
       <Id>18</Id>
       <Status>To Do</Status>
@@ -263,7 +263,7 @@
       <PointerOffset>33512</PointerOffset>
       <JapaneseText>ERROR : chatWaitVoice(int vtime) が呼ばれる回数が多杉
 </JapaneseText>
-      <EnglishText/>
+      <EnglishText>ERROR: chatWaitVoice(int vtime) is being called too many times</EnglishText>
       <Notes/>
       <Id>19</Id>
       <Status>To Do</Status>
@@ -271,7 +271,7 @@
     <Entry>
       <PointerOffset>34140</PointerOffset>
       <JapaneseText></JapaneseText>
-      <EnglishText/>
+      <EnglishText></EnglishText>
       <Notes/>
       <Id>20</Id>
       <Status>To Do</Status>
@@ -279,7 +279,7 @@
     <Entry>
       <PointerOffset>34324</PointerOffset>
       <JapaneseText></JapaneseText>
-      <EnglishText/>
+      <EnglishText></EnglishText>
       <Notes/>
       <Id>21</Id>
       <Status>To Do</Status>
@@ -288,7 +288,7 @@
       <PointerOffset>35564</PointerOffset>
       <JapaneseText>sleep多すぎ %d フレーム減らせ！
  </JapaneseText>
-      <EnglishText/>
+      <EnglishText>Too much sleep! Reduce it by %d frames!</EnglishText>
       <Notes/>
       <Id>22</Id>
       <Status>To Do</Status>
