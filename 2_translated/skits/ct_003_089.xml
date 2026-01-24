@@ -168,7 +168,10 @@
 【あなたのwTime設定は失敗致しました】
 
 </JapaneseText>
-      <EnglishText/>
+      <EnglishText>
+【Your wTime settings have failed】
+
+</EnglishText>
       <Notes/>
       <Id>12</Id>
       <Status>To Do</Status>
@@ -177,7 +180,8 @@
       <PointerOffset>33512</PointerOffset>
       <JapaneseText>ERROR : chatWaitVoice(int vtime) が呼ばれる回数が多杉
 </JapaneseText>
-      <EnglishText/>
+      <EnglishText>ERROR: chatWaitVoice(int vtime) is called too many times
+</EnglishText>
       <Notes/>
       <Id>13</Id>
       <Status>To Do</Status>
@@ -202,7 +206,8 @@
       <PointerOffset>35564</PointerOffset>
       <JapaneseText>sleep多すぎ %d フレーム減らせ！
  </JapaneseText>
-      <EnglishText/>
+      <EnglishText>Too much sleep %d. Reduce the frames!
+</EnglishText>
       <Notes/>
       <Id>16</Id>
       <Status>To Do</Status>
