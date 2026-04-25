@@ -1789,10 +1789,10 @@ with your blade, sacrificing your combos.</EnglishText>
     <Entry>
       <PointerOffset>57272,57104,6116</PointerOffset>
       <JapaneseText>「メテオスォーム」を覚える</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Learn "Meteor Storm"</EnglishText>
       <Notes/>
       <Id>2487</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>6120</PointerOffset>
@@ -1807,7 +1807,8 @@ the ancient spell, Meteor Storm.</EnglishText>
     <Entry>
       <PointerOffset>6140</PointerOffset>
       <JapaneseText>弾ける魔の禁呪書</JapaneseText>
-      <EnglishText>Burst Magic Spell Book</EnglishText>
+      <EnglishText>Burst Magic Spell Book
+</EnglishText>
       <Notes/>
       <Id>2489</Id>
       <Status>Editing</Status>
@@ -6957,10 +6958,11 @@ it sound more beautiful. It can placed on the ground to use it hands-free.</Engl
       <PointerOffset>23004</PointerOffset>
       <JapaneseText>精神の集中を助けるといわれる小型の杖。
 お守りとして持ち歩く者もいる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A small staff said to aid in concentrating. Some will
+carry it on them as a good luck charm.</EnglishText>
       <Notes/>
       <Id>3070</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>23024</PointerOffset>
@@ -6984,10 +6986,11 @@ Effect: Sleep</EnglishText>
       <PointerOffset>23088</PointerOffset>
       <JapaneseText>夢紡ぎの王錫。
 殴りつけた相手に夢を運ぶ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The royal sceptor of the Dreamweaver. It puts to
+sleep those it strikes.</EnglishText>
       <Notes/>
       <Id>3073</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>23108</PointerOffset>
@@ -7934,10 +7937,11 @@ Grants Couleur Darkness attacks.</EnglishText>
     <Entry>
       <PointerOffset>26280,26112,26028,25860,25944,26196</PointerOffset>
       <JapaneseText>精霊の力が宿った不思議なバッジ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A mysterious badge imbued with the power
+of spirits.</EnglishText>
       <Notes/>
       <Id>3180</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>26216</PointerOffset>
@@ -7992,10 +7996,10 @@ Basic equipment for starting out adventurers.</EnglishText>
     <Entry>
       <PointerOffset>30644,26444</PointerOffset>
       <JapaneseText>物防＋１３</JapaneseText>
-      <EnglishText/>
+      <EnglishText>DEF + 13</EnglishText>
       <Notes/>
       <Id>3187</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>26448</PointerOffset>
@@ -8802,10 +8806,11 @@ bounces with magical powers.</EnglishText>
       <PointerOffset>29052</PointerOffset>
       <JapaneseText>道を究め、精神的に成熟した者のみが
 身に着けられるクローク</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>A cloak worn only by those who have attained
+spiritual maturity and have mastered the Path.</EnglishText>
+      <Notes>Need help with translating this one, is it a reference to Buddhism?</Notes>
       <Id>3281</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>29072</PointerOffset>
@@ -8827,8 +8832,8 @@ bounces with magical powers.</EnglishText>
       <PointerOffset>29136</PointerOffset>
       <JapaneseText>忍者の里の『染め』の技術により、
 鮮やかな朱色に仕上げられた着物</JapaneseText>
-      <EnglishText>忍者の里の "染め" の技術により、
-鮮やかな朱色に仕上げられた着物</EnglishText>
+      <EnglishText>A kimono woven with a vivid vermillion hue using
+the "dyeing" technique in the Ninja Village.</EnglishText>
       <Notes/>
       <Id>3284</Id>
       <Status>Editing</Status>
@@ -8853,10 +8858,11 @@ bounces with magical powers.</EnglishText>
       <PointerOffset>29220</PointerOffset>
       <JapaneseText>幻影を纏い、あらゆる攻撃を回避することで
 装着者を守護するクローク</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A cloak that protects its wearer by cloaking them
+with an illusion that helps them avoid attacks.</EnglishText>
       <Notes/>
       <Id>3287</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>29240</PointerOffset>
@@ -8878,10 +8884,11 @@ bounces with magical powers.</EnglishText>
       <PointerOffset>29304</PointerOffset>
       <JapaneseText>皇族のみが身に纏うことを許されるクローク。
 不思議な力が備わり、尊い者を守る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A cloak only members of the royal family are permitted to wear.
+It protects those of royal birth with its imbued mysterious powers.</EnglishText>
       <Notes/>
       <Id>3290</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>29324</PointerOffset>
@@ -8903,10 +8910,11 @@ bounces with magical powers.</EnglishText>
       <PointerOffset>29388</PointerOffset>
       <JapaneseText>星の力によって身に纏う者を
 災厄から守るというクローク</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A cloak said to protect its wearer from disaster
+with the power of the stars.</EnglishText>
       <Notes/>
       <Id>3293</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>29408</PointerOffset>
@@ -8930,8 +8938,8 @@ AGI + 4</EnglishText>
       <PointerOffset>29472</PointerOffset>
       <JapaneseText>忍者の里の『染め』の技術により、
 玄妙な色合いに染め上げられた着物</JapaneseText>
-      <EnglishText>忍者の里の "染め" の技術により、
-玄妙な色合いに染め上げられた着物</EnglishText>
+      <EnglishText>A kimono woven with a subtle, mysterious hue using
+the dyeing techniques of the Ninja Village.</EnglishText>
       <Notes/>
       <Id>3296</Id>
       <Status>Editing</Status>
@@ -8955,10 +8963,10 @@ AGI + 4</EnglishText>
     <Entry>
       <PointerOffset>29556</PointerOffset>
       <JapaneseText>どこにでもある布を縫製して作られた簡素なローブ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A simple robe made from ordinary fabric.</EnglishText>
       <Notes/>
       <Id>3299</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>29576</PointerOffset>
@@ -8980,10 +8988,11 @@ AGI + 4</EnglishText>
       <PointerOffset>29640</PointerOffset>
       <JapaneseText>絹で縫製された、
 光沢美となめらか肌触りが特徴のローブ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A robe made of silk, distinguished for its lustrous
+sheem and smooth texture.</EnglishText>
       <Notes/>
       <Id>3302</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>29660</PointerOffset>
@@ -9004,10 +9013,11 @@ AGI + 4</EnglishText>
     <Entry>
       <PointerOffset>29724</PointerOffset>
       <JapaneseText>水鳥の羽毛で縫製された、羽のように軽いローブ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A robe sown from the feathers of a waterfowl and
+is as light as a feather.</EnglishText>
       <Notes/>
       <Id>3305</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>29744</PointerOffset>
@@ -9028,10 +9038,11 @@ AGI + 4</EnglishText>
     <Entry>
       <PointerOffset>29808</PointerOffset>
       <JapaneseText>紅石を織り込み、魔術への耐性を高めたローブ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A robe with crimson-colored stones woven into it
+to enhance magic resistance.</EnglishText>
       <Notes/>
       <Id>3308</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>29828</PointerOffset>
@@ -9052,10 +9063,11 @@ AGI + 4</EnglishText>
     <Entry>
       <PointerOffset>29892</PointerOffset>
       <JapaneseText>銀細工で装飾された、白い輝きが美しいローブ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A robe adorned with silverwork that radiates a
+beautiful, white glow.</EnglishText>
       <Notes/>
       <Id>3311</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>29912</PointerOffset>
@@ -9077,10 +9089,11 @@ AGI + 4</EnglishText>
       <PointerOffset>29976</PointerOffset>
       <JapaneseText>鮮やかな蒼い生地を幾重にも重ね
 縫製された厚手のローブ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A thick robe sewn by layering multiple folds of
+vivid blue fabric.</EnglishText>
       <Notes/>
       <Id>3314</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>29996</PointerOffset>
@@ -9101,10 +9114,11 @@ AGI + 4</EnglishText>
     <Entry>
       <PointerOffset>30060</PointerOffset>
       <JapaneseText>魔力を秘めた黒い布で縫製された、貴重なローブ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A valuable robe sown from black fabric that had
+been imbued with magic power.</EnglishText>
       <Notes/>
       <Id>3317</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>30080</PointerOffset>
@@ -9128,10 +9142,11 @@ AGI + 2</EnglishText>
       <PointerOffset>30144</PointerOffset>
       <JapaneseText>光を乱反射する不思議な布で縫製されたローブ。
 布の動きが残像となり敵を惑わす</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A robe woven from a mysterious fabric that scatters light in all
+directions. Its swaying leaves behind afterimages that confuses foes.</EnglishText>
       <Notes/>
       <Id>3320</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>30164</PointerOffset>
@@ -9153,10 +9168,11 @@ AGI + 2</EnglishText>
       <PointerOffset>30228</PointerOffset>
       <JapaneseText>高位の騎士が王宮での特別な儀式の際に
 身に着けるローブ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A robe worn by high-ranking knights during special
+ceremonies at the royal palace.</EnglishText>
       <Notes/>
       <Id>3323</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>30248</PointerOffset>
@@ -9178,10 +9194,11 @@ AGI + 2</EnglishText>
       <PointerOffset>30312</PointerOffset>
       <JapaneseText>偉大なる聖職者のみが身に着ける事を許される
 権威あるローブ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A robe indicating authority that only the most
+distinguished clergy were permitted to wear.</EnglishText>
       <Notes/>
       <Id>3326</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>30332</PointerOffset>
@@ -9205,10 +9222,11 @@ AGI + 3</EnglishText>
       <PointerOffset>30396</PointerOffset>
       <JapaneseText>とても機能的な緑色のローブ。
 幾重にも折り重ねた生地は高い防御効果を誇る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A highly functional green robe. The fabric, layered with
+multiple folds, offers excellent protection.</EnglishText>
       <Notes/>
       <Id>3329</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>30416</PointerOffset>
@@ -9230,10 +9248,10 @@ AGI + 3</EnglishText>
       <PointerOffset>30480</PointerOffset>
       <JapaneseText>革製の兜。
 頭のみを覆うタイプ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A leather helm. It only covers the top of one's head.</EnglishText>
       <Notes/>
       <Id>3332</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>30500</PointerOffset>
@@ -9255,10 +9273,11 @@ AGI + 3</EnglishText>
       <PointerOffset>30564</PointerOffset>
       <JapaneseText>鉄製の兜。
 顔の下半分を露出する形</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An iron helmet. Its design leaves the lower half of
+the face exposed.</EnglishText>
       <Notes/>
       <Id>3335</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>30584</PointerOffset>
@@ -9272,10 +9291,11 @@ AGI + 3</EnglishText>
       <PointerOffset>30648</PointerOffset>
       <JapaneseText>頭部から顔全体を覆う鉄製の兜。
 騎士鎧の置物でよく見かけるタイプ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An iron helmet that covers the entire face and head.
+These are commonly seen on knight armor displays.</EnglishText>
       <Notes/>
       <Id>3337</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>30668</PointerOffset>
@@ -9349,10 +9369,10 @@ in ceremonies.</EnglishText>
       <PointerOffset>30900</PointerOffset>
       <JapaneseText>アーメットヘルムの類型。
 機能的に洗練されている</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>A type of armet. It is polished to be functional.</EnglishText>
+      <Notes>Need help with the second sentence.</Notes>
       <Id>3346</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>30920</PointerOffset>
@@ -9374,10 +9394,11 @@ in ceremonies.</EnglishText>
       <PointerOffset>30984</PointerOffset>
       <JapaneseText>その昔、英雄と謳われた戦士に贈られた兜。
 決闘用として、闘技場などで愛用される</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A helmet that was gifted to a warrior once hailed
+as a hero. It is often used in duels and in arenas.</EnglishText>
       <Notes/>
       <Id>3349</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>31004</PointerOffset>
@@ -9399,10 +9420,11 @@ in ceremonies.</EnglishText>
       <PointerOffset>31068</PointerOffset>
       <JapaneseText>「失われた金属」を用いた古代の兜。
 軽くて丈夫、まさに理想的な品</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An ancient helmet made from "lost metal." Its
+light weight and durability make it an exquisite piece.</EnglishText>
       <Notes/>
       <Id>3352</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>31088</PointerOffset>
@@ -9424,10 +9446,11 @@ in ceremonies.</EnglishText>
       <PointerOffset>31152</PointerOffset>
       <JapaneseText>名工の魂のこもった無二の傑作品。
 希少な存在に見合う防御力を誇る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A one-of-a-kind masterpiece made from a craftsman who
+put his soul into it. Its defensive power befits its rarity.</EnglishText>
       <Notes/>
       <Id>3355</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>31172</PointerOffset>
@@ -9450,10 +9473,11 @@ MATK + 10　MDEF + 20</EnglishText>
       <PointerOffset>31236</PointerOffset>
       <JapaneseText>おとぎ話で英雄が着用したとされる黄金の兜。
 防御力は確かだが、重い</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A golden helmet said to have been worn by a hero of
+a fairy tale. It offers a solid defense, but is also heavy.</EnglishText>
       <Notes/>
       <Id>3358</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>31256</PointerOffset>
@@ -9474,10 +9498,11 @@ MATK + 10　MDEF + 20</EnglishText>
     <Entry>
       <PointerOffset>31320</PointerOffset>
       <JapaneseText>頭を覆うように着用する布。何もしないよりはマシ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A piece of cloth worn to cover the head.
+It's better than nothing.</EnglishText>
       <Notes/>
       <Id>3361</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>31340</PointerOffset>
@@ -9525,10 +9550,11 @@ cold weather.</EnglishText>
       <PointerOffset>31488</PointerOffset>
       <JapaneseText>丸くて軽い帽子。
 風で飛ばされて谷に落としたりしないように注意</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A round, lightweight hat. Be careful not to let the
+wind blow it away and lose it in a ravine.</EnglishText>
       <Notes/>
       <Id>3367</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>31508</PointerOffset>
@@ -9550,10 +9576,11 @@ cold weather.</EnglishText>
       <PointerOffset>31572</PointerOffset>
       <JapaneseText>作りの良い帽子。
 職人の間でもなかなかの仕事と評判だとか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A well-made hat. It's said to be highly regarded
+even among craftsman.</EnglishText>
       <Notes/>
       <Id>3370</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>31592</PointerOffset>
@@ -9575,10 +9602,11 @@ cold weather.</EnglishText>
       <PointerOffset>31656</PointerOffset>
       <JapaneseText>羽根がついた緑色の帽子。
 素早く動けるような気分になるというが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A green hat with feathers. It's said they make you feel
+like you're moving faster, but...</EnglishText>
       <Notes/>
       <Id>3373</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>31676</PointerOffset>
@@ -9600,10 +9628,11 @@ cold weather.</EnglishText>
       <PointerOffset>31740</PointerOffset>
       <JapaneseText>銀の刺繍がほどこされた帽子。
 見た目以上の防御力を誇る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A hat adorned with silver embroidery. It offers
+more protection than its appearance suggests.</EnglishText>
       <Notes/>
       <Id>3376</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>31760</PointerOffset>
@@ -9625,15 +9654,16 @@ cold weather.</EnglishText>
       <PointerOffset>31824</PointerOffset>
       <JapaneseText>独特のシルエットを持つ帽子。
 魔術を探求する者が好んで着用する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A hat with a distinct silhouette that is favored
+among those who study magic.</EnglishText>
       <Notes/>
       <Id>3379</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>31844</PointerOffset>
       <JapaneseText>アイフリードハット</JapaneseText>
-      <EnglishText>Aifread Hat</EnglishText>
+      <EnglishText>Aifread's Hat</EnglishText>
       <Notes/>
       <Id>3380</Id>
       <Status>Editing</Status>
@@ -9652,10 +9682,11 @@ MATK + 5　MDEF + 30　CAST + 3　AGI + 3</EnglishText>
       <PointerOffset>31908</PointerOffset>
       <JapaneseText>近い未来、偉業を成し遂げそうな
 少年が持っていたというカッコイイ帽子</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A cool hat said to have belonged to a boy who
+set out to achieve greatness in the nearby future.</EnglishText>
       <Notes/>
       <Id>3382</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>31928</PointerOffset>
@@ -9677,10 +9708,11 @@ MATK + 5　MDEF + 30　CAST + 3　AGI + 3</EnglishText>
       <PointerOffset>31992</PointerOffset>
       <JapaneseText>青銅製のサークレット。
 安物だがそれなりに集中力を高める効果がある</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A bronze circlet that's cheap, but does a decent
+job of boosting one's concentration.</EnglishText>
       <Notes/>
       <Id>3385</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>32012</PointerOffset>
@@ -9728,10 +9760,11 @@ head from physical and mental onslaughts.</EnglishText>
       <PointerOffset>32160</PointerOffset>
       <JapaneseText>黄金のサークレット。
 身につけると集中力が増し、術への耐性を高める</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A golden circlet that, when worn, will enhance concentration
+and increase resistance to spells.</EnglishText>
       <Notes/>
       <Id>3391</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>32180</PointerOffset>
@@ -9753,10 +9786,11 @@ head from physical and mental onslaughts.</EnglishText>
       <PointerOffset>32244</PointerOffset>
       <JapaneseText>「失われた金属」を用いた古代のサークレット。
 その実力は折り紙つき</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An ancient circlet crafted from a "lost metal".
+Its power has been well-established.</EnglishText>
       <Notes/>
       <Id>3394</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>32264</PointerOffset>
@@ -9777,10 +9811,10 @@ head from physical and mental onslaughts.</EnglishText>
     <Entry>
       <PointerOffset>32328</PointerOffset>
       <JapaneseText>精霊達の加護を受けた紋章</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A circlet that has been blessed by the spirits.</EnglishText>
       <Notes/>
       <Id>3397</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>32348</PointerOffset>
@@ -9828,10 +9862,11 @@ cuteness does itself justice.</EnglishText>
       <PointerOffset>32496</PointerOffset>
       <JapaneseText>遠くからでも目立つ小さな黄色いリボン。
 大切なものにつけて目印にも</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A small yellow ribbon that stands out even from a distance.
+Attach it to your valuables to keep track of them.</EnglishText>
       <Notes/>
       <Id>3403</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>32516</PointerOffset>
@@ -9853,10 +9888,11 @@ cuteness does itself justice.</EnglishText>
       <PointerOffset>32580</PointerOffset>
       <JapaneseText>爽やかな緑色が目に優しいリボン。
 色々なオシャレにマッチ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A pleasant green ribbon that's easy on the eyes.
+It pairs well with a variety of fashions.</EnglishText>
       <Notes/>
       <Id>3406</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>32600</PointerOffset>
@@ -9904,10 +9940,11 @@ Compliments a woman's charm nicely.</EnglishText>
       <PointerOffset>32748</PointerOffset>
       <JapaneseText>とても可愛らしいリボン。
 かわいらしさを極めたい貴女に</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A very cute ribbon for women who want to take
+cuteness to the next level.</EnglishText>
       <Notes/>
       <Id>3412</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>32768</PointerOffset>
@@ -9955,10 +9992,11 @@ yourself never looked so superb!</EnglishText>
       <PointerOffset>32916</PointerOffset>
       <JapaneseText>古より伝わる神秘的な素材で作られたリボン。
 魔術に耐える力を持つ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A ribbon woven from a mysterious fabric passed down
+through the ages. It has the power to withstand magic.</EnglishText>
       <Notes/>
       <Id>3418</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>32936</PointerOffset>
@@ -9980,10 +10018,11 @@ yourself never looked so superb!</EnglishText>
       <PointerOffset>33000</PointerOffset>
       <JapaneseText>強い魔力を込めて作られたリボン。
 ずば抜けた魔術耐性を誇る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A ribbon woven and imbued with powerful magic.
+It boasts exceptional resistance to magic.</EnglishText>
       <Notes/>
       <Id>3421</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>33020</PointerOffset>
@@ -10004,10 +10043,10 @@ yourself never looked so superb!</EnglishText>
     <Entry>
       <PointerOffset>33084</PointerOffset>
       <JapaneseText>精霊の加護を受けたリボン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A ribbon blessed by the spirits.</EnglishText>
       <Notes/>
       <Id>3424</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>33104</PointerOffset>
@@ -10355,10 +10394,10 @@ fashion statement.</EnglishText>
     <Entry>
       <PointerOffset>34344</PointerOffset>
       <JapaneseText>ラピスラズリがはめ込まれている腕輪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A bracelet embedded with lapis lazuli.</EnglishText>
       <Notes/>
       <Id>3466</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>34364</PointerOffset>
@@ -10379,10 +10418,11 @@ fashion statement.</EnglishText>
     <Entry>
       <PointerOffset>34428</PointerOffset>
       <JapaneseText>合金を使い、デザイン性にも配慮したシックな腕輪</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>A bracelet that was designed to use an alloy
+to make it stylish.</EnglishText>
+      <Notes>Need help with this translation</Notes>
       <Id>3469</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>34448</PointerOffset>
@@ -10428,10 +10468,11 @@ fashion statement.</EnglishText>
       <PointerOffset>34596</PointerOffset>
       <JapaneseText>高級感あふれる純金の腕輪。
 セレブなあなたに</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>A luxurious, solid gold bracelet. Made for the
+celebrity in you!</EnglishText>
+      <Notes>Need help with second sentence</Notes>
       <Id>3475</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>34616</PointerOffset>
@@ -10453,10 +10494,11 @@ fashion statement.</EnglishText>
       <PointerOffset>34680</PointerOffset>
       <JapaneseText>プラチナ製の腕輪。
 さりげなくも上品な存在感が光る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A platinum bracelet that exudes a subtle yet
+elegant aura.</EnglishText>
       <Notes/>
       <Id>3478</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>34700</PointerOffset>
@@ -10477,10 +10519,11 @@ fashion statement.</EnglishText>
     <Entry>
       <PointerOffset>34764</PointerOffset>
       <JapaneseText>魔力を秘めた「失われた金属」を使った神秘的な腕輪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A mystical bracelet made using "lost metal" that is
+imbued with magic power.</EnglishText>
       <Notes/>
       <Id>3481</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>34784</PointerOffset>
@@ -10502,10 +10545,11 @@ fashion statement.</EnglishText>
       <PointerOffset>34848</PointerOffset>
       <JapaneseText>名匠がその生涯をかけて作り出した逸品。
 めったにお目にかかれない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A masterpiece crafted by a master artisan throughout
+his lifetime. A rare fine indeed.</EnglishText>
       <Notes/>
       <Id>3484</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>34868</PointerOffset>
@@ -10528,10 +10572,11 @@ Luck + 7</EnglishText>
     <Entry>
       <PointerOffset>34932</PointerOffset>
       <JapaneseText>天使のモチーフが彫り込まれた幸せを呼ぶ腕輪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A bracelet engraved with an angel motif that
+beckons happiness.</EnglishText>
       <Notes/>
       <Id>3487</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>34952</PointerOffset>
@@ -10552,10 +10597,10 @@ Luck + 7</EnglishText>
     <Entry>
       <PointerOffset>35016</PointerOffset>
       <JapaneseText>星の魔力が宿ったブレスレット</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A bracelet imbued with magic power from the stars.</EnglishText>
       <Notes/>
       <Id>3490</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>35036</PointerOffset>
@@ -10578,10 +10623,11 @@ Luck + 5</EnglishText>
     <Entry>
       <PointerOffset>35100</PointerOffset>
       <JapaneseText>帝王の証といわれる腕輪型の神具</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A bracelet-shaped artifact said to be the
+symbol of the emperor.</EnglishText>
       <Notes/>
       <Id>3493</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>35120</PointerOffset>
@@ -10603,10 +10649,11 @@ Luck + 5</EnglishText>
       <PointerOffset>35184</PointerOffset>
       <JapaneseText>糸を編んで作られた手袋。
 生地が薄いので防御力は期待できない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gloves knitted from yarn. Since the fabric is thin, it
+doesn't offer much protection.</EnglishText>
       <Notes/>
       <Id>3496</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>35204</PointerOffset>
