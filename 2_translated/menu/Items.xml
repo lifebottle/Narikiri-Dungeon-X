@@ -1518,10 +1518,10 @@ written down how to use "Roaring Beast Edge".</EnglishText>
     <Entry>
       <PointerOffset>4544,4460,5132</PointerOffset>
       <JapaneseText>奥義書予備枠</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Arcane Artes: Reserve Slot</EnglishText>
+      <Notes>Need context for this item/description</Notes>
       <Id>2455</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>4604,4520,5192</PointerOffset>
@@ -11006,10 +11006,10 @@ Dark Resist + 70%　Element Resist + 20%</EnglishText>
     <Entry>
       <PointerOffset>36360</PointerOffset>
       <JapaneseText>アーチェがとても大切にしている手袋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A pair of gloves that Arche holds dear to her.</EnglishText>
       <Notes/>
       <Id>3538</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>36380</PointerOffset>
@@ -11031,10 +11031,11 @@ Dark Resist + 70%　Element Resist + 20%</EnglishText>
       <PointerOffset>36444</PointerOffset>
       <JapaneseText>体をすっぽり覆える布製マント。
 術防御力と幸運値が少し上昇</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A cloak that completely covers the entire body.
+Marginally increases M.DEF and Luck.</EnglishText>
       <Notes/>
       <Id>3541</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>36464</PointerOffset>
@@ -11057,7 +11058,7 @@ Dark Resist + 70%　Element Resist + 20%</EnglishText>
       <JapaneseText>長旅に最適な厚手の革製マント。
 術防御力と幸運値がそれなりに上昇</JapaneseText>
       <EnglishText>A cloak designs for use in long journeys.
-Offers moderate increase in def. and Luck.</EnglishText>
+Slightly increases M.DEF and Luck.</EnglishText>
       <Notes/>
       <Id>3544</Id>
       <Status>Editing</Status>
@@ -11082,10 +11083,11 @@ Offers moderate increase in def. and Luck.</EnglishText>
       <PointerOffset>36612</PointerOffset>
       <JapaneseText>闇に紛れると見えなくなる程黒いマント。
 術防御力と幸運値がまあまあ上昇</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A cloak so dark it blends into the darkness.
+Increases M.DEF and Luck.</EnglishText>
       <Notes/>
       <Id>3547</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>36632</PointerOffset>
@@ -11107,10 +11109,11 @@ Offers moderate increase in def. and Luck.</EnglishText>
       <PointerOffset>36696</PointerOffset>
       <JapaneseText>体をすっぽり覆える特製マント。
 術防御力と幸運値がかなり上昇</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A specially-made cloak designed to cover the entire body.
+Significantly increases M.DEF and Luck.</EnglishText>
       <Notes/>
       <Id>3550</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>36716</PointerOffset>
@@ -11533,19 +11536,20 @@ they grant a moderate rise in defense.</EnglishText>
     <Entry>
       <PointerOffset>33416,38120</PointerOffset>
       <JapaneseText>物防＋２０</JapaneseText>
-      <EnglishText/>
+      <EnglishText>DEF + 20</EnglishText>
       <Notes/>
       <Id>3600</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38124</PointerOffset>
       <JapaneseText>鉄板で覆われた丈夫な鉄製ブーツ。
 防御力がまあまあ上昇</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sturdy iron boots covered with iron plates.
+Moderately increases defense.</EnglishText>
       <Notes/>
       <Id>3601</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38144</PointerOffset>
@@ -11569,10 +11573,11 @@ Male Only</EnglishText>
       <PointerOffset>38208</PointerOffset>
       <JapaneseText>とても重い男性用の鋼鉄製ブーツ。
 防御力がかなり上昇するが敏捷性が落ちてしまう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heavy steel-toed boots for men.
+They increase defense in exchange for reduced agility.</EnglishText>
       <Notes/>
       <Id>3604</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38228</PointerOffset>
@@ -11594,10 +11599,11 @@ Male Only</EnglishText>
       <PointerOffset>38292</PointerOffset>
       <JapaneseText>戦闘中の動きを阻害しない設計のブーツ。
 攻撃力と防御力が上昇する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Boots designed to not restrict movement during battle.
+Increases attack and defense.</EnglishText>
       <Notes/>
       <Id>3607</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38312</PointerOffset>
@@ -11619,10 +11625,11 @@ Male Only</EnglishText>
       <PointerOffset>38376</PointerOffset>
       <JapaneseText>何枚もの鋼鉄の板で補強した頑強なブーツ。
 防御力と引き換えに敏捷性が落ちてしまう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sturdy boots reinforced with multiple sheets of steel.
+They increase defense in exchange for reduced agility.</EnglishText>
       <Notes/>
       <Id>3610</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38396</PointerOffset>
@@ -11644,10 +11651,11 @@ Male Only</EnglishText>
       <PointerOffset>38460</PointerOffset>
       <JapaneseText>グリーブを改良した重装甲ブーツ。
 敏捷性と引き換えに大きな防御力を誇る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heavily armored boots that were enhanced from the Greaves.
+They significantly increase defense in exchange for reduced agility.</EnglishText>
       <Notes/>
       <Id>3613</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38480</PointerOffset>
@@ -11668,10 +11676,11 @@ Male Only</EnglishText>
     <Entry>
       <PointerOffset>38544</PointerOffset>
       <JapaneseText>見た目以上の防御力を誇る、魔法のブーツ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A pair of magical boots that offer more defense
+than its appearance suggests.</EnglishText>
       <Notes/>
       <Id>3616</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38564</PointerOffset>
@@ -11695,10 +11704,11 @@ Female Only</EnglishText>
       <PointerOffset>38628</PointerOffset>
       <JapaneseText>夢魔の飾りがついた女性用ブーツ。
 敏捷性を高める効果がある</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Women's boots that are adorned with an incubus
+motif. They increase agility.</EnglishText>
       <Notes/>
       <Id>3619</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38648</PointerOffset>
@@ -11720,10 +11730,11 @@ Female Only</EnglishText>
       <PointerOffset>38712</PointerOffset>
       <JapaneseText>激しい動きにもフィットする、革編みのブーツ。
 防御力と敏捷性が少し上昇する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Leather-woven boots that remain snug even with intense
+movements. Slightly increases defense and agility.</EnglishText>
       <Notes/>
       <Id>3622</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38732</PointerOffset>
@@ -11745,10 +11756,11 @@ Female Only</EnglishText>
       <PointerOffset>38796</PointerOffset>
       <JapaneseText>東方伝来の神聖な白い靴下。
 防御力と敏捷性がそれなりに上昇する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sacred white socks that originated from the East.
+They moderatly increase defense and agility.</EnglishText>
       <Notes/>
       <Id>3625</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38816</PointerOffset>
@@ -11770,10 +11782,11 @@ Female Only</EnglishText>
       <PointerOffset>38880</PointerOffset>
       <JapaneseText>エルフ族に伝わるブーツ。
 防御力と敏捷性がまあまあ上昇する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Boots handed down among the elves.
+They moderately increase defense and agility.</EnglishText>
       <Notes/>
       <Id>3628</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38900</PointerOffset>
@@ -11795,10 +11808,11 @@ Female Only</EnglishText>
       <PointerOffset>38964</PointerOffset>
       <JapaneseText>戦いの為に設計された攻防一体型ブーツ。
 攻撃力と防御力が上昇する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Combat boots designed for both offense and defense.
+They increase attack and defense.</EnglishText>
       <Notes/>
       <Id>3631</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>38984</PointerOffset>
@@ -11848,10 +11862,11 @@ They allow you to move as nimbly as a cat.</EnglishText>
       <PointerOffset>39132</PointerOffset>
       <JapaneseText>シノビが水上を移動する時に使う靴。
 普通の人が履くと沈んでしまう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Footwear that ninjas use to move atop water.
+If an ordinary person uses them, they'll end up sinking.</EnglishText>
       <Notes/>
       <Id>3637</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>39152</PointerOffset>
@@ -13021,9 +13036,9 @@ Stabilizes the mind.</EnglishText>
       <PointerOffset>42912</PointerOffset>
       <JapaneseText>契約具の一つ。　
 装備中は水属性に高い耐性を持つ</JapaneseText>
-      <EnglishText>A jewel used in a contract.
-Has a high tolerance to Water.</EnglishText>
-      <Notes/>
+      <EnglishText>A pact ring.
+Reduces water-elemental damage by 50%</EnglishText>
+      <Notes>Originally had "Has a high tolerance to Water", but I wanted to match up the script with Phantasian Productions, which gives a similar description but more specific.</Notes>
       <Id>3772</Id>
       <Status>Editing</Status>
     </Entry>
@@ -13047,8 +13062,8 @@ Has a high tolerance to Water.</EnglishText>
       <PointerOffset>42996</PointerOffset>
       <JapaneseText>契約具の一つ。　
 装備中は闇属性に高い耐性を持つ</JapaneseText>
-      <EnglishText>A jewel used in a contract.
-Has a high tolerance to Darkness.</EnglishText>
+      <EnglishText>A pact ring.
+Reduces dark-elemental damage by 50%.</EnglishText>
       <Notes/>
       <Id>3775</Id>
       <Status>Editing</Status>
@@ -13074,8 +13089,8 @@ Elemental Resist + 20%</EnglishText>
       <PointerOffset>43080</PointerOffset>
       <JapaneseText>契約具の一つ。　
 装備中は光属性以外に対して耐性を持つ</JapaneseText>
-      <EnglishText>A jewel used in a contract.
-Has tolerance to all but Light.</EnglishText>
+      <EnglishText>A pact ring. Reduces all elemental damage but light.
+Reduces dark-elemental damage greatly.</EnglishText>
       <Notes/>
       <Id>3778</Id>
       <Status>Editing</Status>
@@ -13100,8 +13115,8 @@ Has tolerance to all but Light.</EnglishText>
       <PointerOffset>43164</PointerOffset>
       <JapaneseText>契約具の一つ。　
 装備中は風属性に高い耐性を持つ</JapaneseText>
-      <EnglishText>A jewel used in a contract.
-Has a high tolerance to Wind.</EnglishText>
+      <EnglishText>A pact ring.
+Reduces wind-elemental damage by 50%.</EnglishText>
       <Notes/>
       <Id>3781</Id>
       <Status>Editing</Status>
@@ -13126,8 +13141,8 @@ Has a high tolerance to Wind.</EnglishText>
       <PointerOffset>43248</PointerOffset>
       <JapaneseText>契約具の一つ。　
 装備中は火属性に高い耐性を持つ</JapaneseText>
-      <EnglishText>A jewel used in a contract.
-Has a high tolerance to Fire.</EnglishText>
+      <EnglishText>A pact ring.
+Reduces fire-elemental damage by 50%</EnglishText>
       <Notes/>
       <Id>3784</Id>
       <Status>Editing</Status>
@@ -13152,8 +13167,8 @@ Has a high tolerance to Fire.</EnglishText>
       <PointerOffset>43332</PointerOffset>
       <JapaneseText>契約具の一つ。　
 装備中は雷属性に高い耐性を持つ</JapaneseText>
-      <EnglishText>A jewel used in a contract.
-Has a high tolerance to Lightning.</EnglishText>
+      <EnglishText>A pact ring.
+Reduces lighting-elemental damage by 50%</EnglishText>
       <Notes/>
       <Id>3787</Id>
       <Status>Editing</Status>
@@ -13178,8 +13193,8 @@ Has a high tolerance to Lightning.</EnglishText>
       <PointerOffset>43416</PointerOffset>
       <JapaneseText>契約具の一つ。　
 装備中は物理防御力が強化される</JapaneseText>
-      <EnglishText>A jewel used in a contract.
-Strengthens physical defense power.</EnglishText>
+      <EnglishText>A pact ring.
+Increases physical defense.</EnglishText>
       <Notes/>
       <Id>3790</Id>
       <Status>Editing</Status>
@@ -13206,7 +13221,7 @@ When using artes, EBG use drops 10%.</EnglishText>
       <PointerOffset>43500</PointerOffset>
       <JapaneseText>契約具の一つ。　
 装備中はＥＢＧの消費が軽減される</JapaneseText>
-      <EnglishText>A jewel used in a contract.
+      <EnglishText>A pact ring.
 Reduces EBG consumption.</EnglishText>
       <Notes/>
       <Id>3793</Id>
@@ -13234,10 +13249,11 @@ CAST + 5　AGI + 5　Luck + 5</EnglishText>
       <PointerOffset>44256,43584</PointerOffset>
       <JapaneseText>契約具の一つ。　
 装備中は様々な能力が上昇する</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A pact ring.
+Increases many stats.</EnglishText>
       <Notes/>
       <Id>3796</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43604</PointerOffset>
@@ -13259,8 +13275,8 @@ CAST + 5　AGI + 5　Luck + 5</EnglishText>
       <PointerOffset>43668</PointerOffset>
       <JapaneseText>契約具の一つ。　
 装備中は光属性攻撃に高い耐性を持つ</JapaneseText>
-      <EnglishText>A jewel used in a contract.
-Has a high tolerance to Light.</EnglishText>
+      <EnglishText>A pact ring.
+Reduces light-elemental damage by 50%.</EnglishText>
       <Notes/>
       <Id>3799</Id>
       <Status>Editing</Status>
@@ -13277,8 +13293,8 @@ Has a high tolerance to Light.</EnglishText>
       <PointerOffset>43752</PointerOffset>
       <JapaneseText>契約具の一つ。　
 装備中はＨＰの最大値が上昇する</JapaneseText>
-      <EnglishText>A jewel used in a contract.
-Increases maximum HP.</EnglishText>
+      <EnglishText>A pact ring.
+Increases Max HP.</EnglishText>
       <Notes/>
       <Id>3801</Id>
       <Status>Editing</Status>
@@ -13303,8 +13319,8 @@ Increases maximum HP.</EnglishText>
       <PointerOffset>43836</PointerOffset>
       <JapaneseText>契約具の一つ。　
 装備中は地属性に高い耐性を持つ</JapaneseText>
-      <EnglishText>A jewel used in a contract.
-Has a high tolerance to Earth.</EnglishText>
+      <EnglishText>A pact ring.
+Reduces earth-elemental damage by 50%</EnglishText>
       <Notes/>
       <Id>3804</Id>
       <Status>Editing</Status>
@@ -13331,8 +13347,8 @@ Dark Resist + 50%　Fire Resist + 50%</EnglishText>
       <PointerOffset>43920</PointerOffset>
       <JapaneseText>契約具の一つ。　
 装備中は闇・火属性に高い耐性を持つ</JapaneseText>
-      <EnglishText>A jewel used in a contract.
-Has a high tolerance to Dark/Fire.</EnglishText>
+      <EnglishText>A pact ring.
+Reduces dark and fire elemental damage by 50%.</EnglishText>
       <Notes/>
       <Id>3807</Id>
       <Status>Editing</Status>
@@ -13359,8 +13375,8 @@ Dark Resist + 50%　Water Resist + 50%</EnglishText>
       <PointerOffset>44004</PointerOffset>
       <JapaneseText>契約具の一つ。　
 装備中は闇・水属性に高い耐性を持つ</JapaneseText>
-      <EnglishText>A jewel used in a contract.
-Has a high tolerance to Dark/Water.</EnglishText>
+      <EnglishText>A pact ring.
+Reduces dark and water elemental damage by 50%.</EnglishText>
       <Notes/>
       <Id>3810</Id>
       <Status>Editing</Status>
@@ -13387,8 +13403,8 @@ Dark Resist + 50%　Earth Resist + 50%</EnglishText>
       <PointerOffset>44088</PointerOffset>
       <JapaneseText>契約具の一つ。　
 装備中は闇・地属性に高い耐性を持つ</JapaneseText>
-      <EnglishText>A jewel used in a contract.
-Has a high tolerance to Dark/Earth.</EnglishText>
+      <EnglishText>A pact ring.
+Reduces dark and earth elemental damage by 50%.</EnglishText>
       <Notes/>
       <Id>3813</Id>
       <Status>Editing</Status>
@@ -13405,8 +13421,8 @@ Has a high tolerance to Dark/Earth.</EnglishText>
       <PointerOffset>44172</PointerOffset>
       <JapaneseText>契約具の一つ。　
 装備中はあらゆる状態異常持続時間を軽減する</JapaneseText>
-      <EnglishText>A jewel used in a contract.
-Reduces abnormal status duration.</EnglishText>
+      <EnglishText>A pact ring.
+Reduces the duration of status ailments.</EnglishText>
       <Notes/>
       <Id>3815</Id>
       <Status>Editing</Status>
@@ -13450,8 +13466,8 @@ Amazoness Costume Only</EnglishText>
       <PointerOffset>44340</PointerOffset>
       <JapaneseText>狩猟本能を刺激することで、ネコを興奮させられるもの
 性能を飛躍的に高める</JapaneseText>
-      <EnglishText>Stimulates the hunting instinct.
- It also excites cats!</EnglishText>
+      <EnglishText>A tool that excites cats by stimulating their hunting
+instincts. It drastically enhances performance.</EnglishText>
       <Notes/>
       <Id>3820</Id>
       <Status>Editing</Status>
@@ -13872,10 +13888,10 @@ It emits an overwhelming and intimidating vibe.</EnglishText>
       <PointerOffset>45768</PointerOffset>
       <JapaneseText>使用することで、
 直接ワールドマップを開くことができる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Using this item will open up the world map.</EnglishText>
       <Notes/>
       <Id>3870</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45788</PointerOffset>
@@ -13898,10 +13914,10 @@ about the items you've obtained.</EnglishText>
       <PointerOffset>45852</PointerOffset>
       <JapaneseText>使用することで、
 直接コレクター図鑑を開くことができる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Using this item will open the Collector's Encyclopedia.</EnglishText>
       <Notes/>
       <Id>3873</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45872</PointerOffset>
@@ -13924,10 +13940,10 @@ about the monsters you've encountered.</EnglishText>
       <PointerOffset>45936</PointerOffset>
       <JapaneseText>使用することで、
 直接モンスター図鑑を開くことができる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Using this item will open up the Monster Encyclopedia.</EnglishText>
       <Notes/>
       <Id>3876</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45956</PointerOffset>
@@ -13951,10 +13967,10 @@ Read if you should need help.</EnglishText>
       <PointerOffset>46020</PointerOffset>
       <JapaneseText>使用することで、
 直接バトルメモを開くことができる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Using this item will open the Battle Memo.</EnglishText>
       <Notes/>
       <Id>3879</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46040</PointerOffset>
@@ -13976,7 +13992,7 @@ Read if you should need help.</EnglishText>
     <Entry>
       <PointerOffset>46124</PointerOffset>
       <JapaneseText>ロディのネックレス</JapaneseText>
-      <EnglishText>Lodi Necklace</EnglishText>
+      <EnglishText>Rody's Necklace</EnglishText>
       <Notes/>
       <Id>3882</Id>
       <Status>Editing</Status>
@@ -13985,10 +14001,11 @@ Read if you should need help.</EnglishText>
       <PointerOffset>46184</PointerOffset>
       <JapaneseText>トップに指輪を通した、ロディが首にかけている
 ネックレス。悲しげな青色の石が特徴的</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The necklace Rody wears around her neck, with a ring threaded
+through the clasp. It displays a sorrowful-looking blue stone.</EnglishText>
       <Notes/>
       <Id>3883</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46208</PointerOffset>
@@ -14002,10 +14019,11 @@ Read if you should need help.</EnglishText>
       <PointerOffset>46268</PointerOffset>
       <JapaneseText>ロディが首にかけているネックレス。
 愛しの人からもらった素敵な思い出の品</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The necklace Rody wears around her neck.
+It's a lovely keepsake from her beloved.</EnglishText>
       <Notes/>
       <Id>3885</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46292</PointerOffset>
@@ -14019,19 +14037,20 @@ Read if you should need help.</EnglishText>
       <PointerOffset>46352</PointerOffset>
       <JapaneseText>ロディが首にかけているネックレス。
 一度時空の狭間に消えたが、強い絆によって戻ってきた</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The necklace Rody wears around her neck. It once vanished in the
+void between time and space, but has returned thanks to a powerful bond.</EnglishText>
       <Notes/>
       <Id>3887</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46356</PointerOffset>
       <JapaneseText>使用することで、
 ワールドマップへ飛ぶことが出来る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Using this item will teleport you to the world map.</EnglishText>
       <Notes/>
       <Id>3888</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46376</PointerOffset>
@@ -14063,8 +14082,8 @@ Awakens Couleur with a pipipi signal.</EnglishText>
       <PointerOffset>46520</PointerOffset>
       <JapaneseText>自らに試練を課し、乗り越えさせる呪われた指輪。
 戦闘参加メンバーを２〜３人にできる</JapaneseText>
-      <EnglishText>自らに試練を課し、乗り越えさせる呪われた指輪。
-戦闘参加メンバーを2〜3人にできる</EnglishText>
+      <EnglishText>A cursed item that imposes trials upon its wearer for them to
+overcome. Lets you limit the number of combatants to 2-3.</EnglishText>
       <Notes/>
       <Id>3892</Id>
       <Status>Editing</Status>
@@ -14073,10 +14092,11 @@ Awakens Couleur with a pipipi signal.</EnglishText>
       <PointerOffset>46524</PointerOffset>
       <JapaneseText>メニューのトップ画面で各キャラを選択した状態で
 　&lt;icon:4227336&gt;を押すことで参加選択できる</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>On the main menu, select a character and press &lt;icon:4227336&gt;
+to them opt in/out of the party.</EnglishText>
+      <Notes>May need a better way to phrase it.</Notes>
       <Id>3893</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>46544</PointerOffset>
@@ -14090,7 +14110,7 @@ Awakens Couleur with a pipipi signal.</EnglishText>
       <PointerOffset>46604</PointerOffset>
       <JapaneseText>力強く燃えさかる太陽を描いたアーチェの作品。
 クラースの時代へ行くことができる</JapaneseText>
-      <EnglishText>Arche's work that depicts a burning Sun.
+      <EnglishText>Arche's work that depicts a burning sun.
 You can travel to the time of Klarth.</EnglishText>
       <Notes/>
       <Id>3895</Id>
@@ -14126,10 +14146,11 @@ You can travel to the time of Cless. Given by Norn.</EnglishText>
       <PointerOffset>46772</PointerOffset>
       <JapaneseText>優しくにっこり微笑む月を描いたアーチェの作品。
 すずの時代へ行くことができる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arche's work that depicts a gentle, smiling moon.
+You can travel to the time of Suzu.</EnglishText>
       <Notes/>
       <Id>3899</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46796</PointerOffset>
@@ -14143,10 +14164,11 @@ You can travel to the time of Cless. Given by Norn.</EnglishText>
       <PointerOffset>46856</PointerOffset>
       <JapaneseText>不穏な目つきでこちらを見る雲を描いたアーチェの作品。
 不思議な時空へ行くことができる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Arche's work that depicts a cloud with an unsettling gaze.
+You can travel to a mysterious realm of time and space.</EnglishText>
       <Notes/>
       <Id>3901</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46880</PointerOffset>
@@ -14170,10 +14192,11 @@ Dio. You can return to your own time.</EnglishText>
       <PointerOffset>46608,46776,46860,46692,46944</PointerOffset>
       <JapaneseText>エトスハウスの正面奥の部屋に設置される
 &lt;icon:12943873&gt;調べると時空を飛ぶ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Located in the back room in the entrance of Ethos' house.
+&lt;icon:12943873&gt;When examined, you can travel through time and space.</EnglishText>
+      <Notes>Not sure if the location is right. Need to verify. Also need to check that icon</Notes>
       <Id>3904</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>46964</PointerOffset>
@@ -14187,10 +14210,11 @@ Dio. You can return to your own time.</EnglishText>
       <PointerOffset>47024</PointerOffset>
       <JapaneseText>魔法学者バジルが作った、精霊晶核を閉じ込める
 ためのガラスのポット。壊れやすい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A glass pot created by the magician Basil to contain
+an Atomism Core. It is fragile.</EnglishText>
       <Notes/>
       <Id>3906</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47048</PointerOffset>
@@ -14204,10 +14228,11 @@ Dio. You can return to your own time.</EnglishText>
       <PointerOffset>47108</PointerOffset>
       <JapaneseText>魔法学者バジルが、来るべき時を見据えて
 改造をほどこしたエレメンツポット</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Element Pot that has been modified by the
+magician Basil in preparation of the coming era.</EnglishText>
       <Notes/>
       <Id>3908</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47132</PointerOffset>
@@ -14285,18 +14310,19 @@ spirit, Sylph. It gives off a complex sound.</EnglishText>
       <PointerOffset>47468</PointerOffset>
       <JapaneseText>浸食洞の立入許可証</JapaneseText>
       <EnglishText>Erosion Cave Permit</EnglishText>
-      <Notes/>
+      <Notes>Need to check if it's Erosion Caves in the terminology.</Notes>
       <Id>3917</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>47528</PointerOffset>
       <JapaneseText>王国が管理する浸食洞に立ち入るため必要な許可証。
 アルヴァニスタ王が発行してくれた</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>A permit required to enter the Erosion Caves overseen
+by the kingdom. Issued by the King of Alvanista.</EnglishText>
+      <Notes>Need to check if it's Erosion Cave</Notes>
       <Id>3918</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>47552</PointerOffset>
@@ -14364,10 +14390,11 @@ the ultra-tall ancient city of Thor.</EnglishText>
       <PointerOffset>47864</PointerOffset>
       <JapaneseText>オリジンからもらった精霊晶核。偉大なる精霊王の
 力は万能。悪用してはいけない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A spirit crystal given to the party by the summon
+spirit, Origin. It must not be misused.</EnglishText>
       <Notes/>
       <Id>3926</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47888</PointerOffset>
@@ -14381,17 +14408,18 @@ the ultra-tall ancient city of Thor.</EnglishText>
       <PointerOffset>47948</PointerOffset>
       <JapaneseText>料理を行う際、追加食材を
 うまく捌けるようになる素敵な包丁</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A wonderful knife that makes handling the
+additional ingredients easy while cooking.</EnglishText>
       <Notes/>
       <Id>3928</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47952</PointerOffset>
       <JapaneseText>料理の追加効果の影響率＋５％
 （追加食材を設定していない場合は効果なし）</JapaneseText>
-      <EnglishText>料理の追加効果の影響率＋5％
-（追加食材を設定していない場合は効果なし）</EnglishText>
+      <EnglishText>Grants a +5% bonus to the dish's effects.
+(No effect if additional ingredients are not used).</EnglishText>
       <Notes/>
       <Id>3929</Id>
       <Status>Editing</Status>
@@ -14408,17 +14436,18 @@ the ultra-tall ancient city of Thor.</EnglishText>
       <PointerOffset>48032</PointerOffset>
       <JapaneseText>料理を行う際、追加食材を
 とてもうまく捌けるようになるベリーナイスな包丁</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A really great knife that makes handling the
+additional ingredients easy while cooking.</EnglishText>
       <Notes/>
       <Id>3931</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48036</PointerOffset>
       <JapaneseText>料理の追加効果の影響率＋１０％
 （追加食材を設定していない場合は効果なし）</JapaneseText>
-      <EnglishText>料理の追加効果の影響率＋10％
-（追加食材を設定していない場合は効果なし）</EnglishText>
+      <EnglishText>Grants a +10% bonus to the dish's effects.
+(No effect if additional ingredients are not used).</EnglishText>
       <Notes/>
       <Id>3932</Id>
       <Status>Editing</Status>
@@ -14453,11 +14482,12 @@ inside the Temple of Darkness.</EnglishText>
       <PointerOffset>48200</PointerOffset>
       <JapaneseText>五信条の神像の1つ。
 ＢＲＡＶＥの彫像</JapaneseText>
-      <EnglishText>One of the five principles of God.
+      <EnglishText>A statue of the Principled Pentagon of Providence.
 It represents BRAVE.</EnglishText>
-      <Notes/>
+      <Notes>Technically it would be "idol", but it does come with a negative connotation. Need to discuss the context it's used in too.
+Phantasian Productions uses "A member of the Principled Pentagon of Providence."</Notes>
       <Id>3936</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>48224</PointerOffset>
@@ -14471,11 +14501,11 @@ It represents BRAVE.</EnglishText>
       <PointerOffset>48284</PointerOffset>
       <JapaneseText>五信条の神像の1つ。
 ＤＲＥＡＭの彫像</JapaneseText>
-      <EnglishText>One of the five principles of God.
+      <EnglishText>A statue of the Principled Pentagon of Providence.
 It represents DREAM.</EnglishText>
       <Notes/>
       <Id>3938</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>48308</PointerOffset>
@@ -14489,11 +14519,11 @@ It represents DREAM.</EnglishText>
       <PointerOffset>48368</PointerOffset>
       <JapaneseText>五信条の神像の1つ。
 ＦＲＩＥＮＤＳＨＩＰの彫像</JapaneseText>
-      <EnglishText>One of the five principles of God.
+      <EnglishText>A statue of the Principled Pentagon of Providence.
 It represents FRIENDSHIP.</EnglishText>
       <Notes/>
       <Id>3940</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>48392</PointerOffset>
@@ -14507,11 +14537,11 @@ It represents FRIENDSHIP.</EnglishText>
       <PointerOffset>48452</PointerOffset>
       <JapaneseText>五信条の神像の1つ。
 ＪＵＳＴＩＣＥの彫像</JapaneseText>
-      <EnglishText>One of the five principles of God.
+      <EnglishText>A statue of the Principled Pentagon of Providence.
 It represents JUSTICE.</EnglishText>
       <Notes/>
       <Id>3942</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>48476</PointerOffset>
@@ -14525,11 +14555,11 @@ It represents JUSTICE.</EnglishText>
       <PointerOffset>48536</PointerOffset>
       <JapaneseText>五信条の神像の1つ。
 ＬＯＶＥの彫像</JapaneseText>
-      <EnglishText>One of the five principles of God.
+      <EnglishText>A statue of the Principled Pentagon of Providence.
 It represents LOVE.</EnglishText>
       <Notes/>
       <Id>3944</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>48560</PointerOffset>
@@ -14543,8 +14573,7 @@ It represents LOVE.</EnglishText>
       <PointerOffset>48620</PointerOffset>
       <JapaneseText>パーティキャラを1人にして、
 戦闘をする事ができる</JapaneseText>
-      <EnglishText>Allows use of only
-one party member in battle.</EnglishText>
+      <EnglishText>Allows the use of a single party member in battle.</EnglishText>
       <Notes/>
       <Id>3946</Id>
       <Status>Editing</Status>
@@ -14569,11 +14598,11 @@ one party member in battle.</EnglishText>
       <PointerOffset>48704</PointerOffset>
       <JapaneseText>「TOPコレクションカード」の一枚。
 『花鳥風月』の花カード</JapaneseText>
-      <EnglishText>「TOPコレクションカード」の一枚。
- "花鳥風月" の花カード</EnglishText>
-      <Notes/>
+      <EnglishText>A Tales of Phantasia Collectible Card.
+Card series 1, #1 of 4: “Flower.”</EnglishText>
+      <Notes>Used the Phantasian Productions translation, which is mostly the same barring the "Gotta collect 'em all!" part at the end since the Japanese text doesn't have that.</Notes>
       <Id>3949</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>48728</PointerOffset>
@@ -14587,11 +14616,11 @@ one party member in battle.</EnglishText>
       <PointerOffset>48788</PointerOffset>
       <JapaneseText>「TOPコレクションカード」の一枚。
 『花鳥風月』の鳥カード</JapaneseText>
-      <EnglishText>「TOPコレクションカード」の一枚。
- "花鳥風月" の鳥カード</EnglishText>
-      <Notes/>
+      <EnglishText>A Tales of Phantasia Collectible Card.
+Card series 1, #2 of 4: “Bird.”</EnglishText>
+      <Notes>Used the Phantasian Productions translation, which is mostly the same barring the "Gotta collect 'em all!" part at the end since the Japanese text doesn't have that.</Notes>
       <Id>3951</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>48812</PointerOffset>
@@ -14605,11 +14634,11 @@ one party member in battle.</EnglishText>
       <PointerOffset>48872</PointerOffset>
       <JapaneseText>「TOPコレクションカード」の一枚。
 『花鳥風月』の風カード</JapaneseText>
-      <EnglishText>「TOPコレクションカード」の一枚。
- "花鳥風月" の風カード</EnglishText>
-      <Notes/>
+      <EnglishText>A Tales of Phantasia Collectible Card.
+Card series 1, #3 of 4: “Wind.”</EnglishText>
+      <Notes>Used the Phantasian Productions translation, which is mostly the same barring the "Gotta collect 'em all!" part at the end since the Japanese text doesn't have that.</Notes>
       <Id>3953</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>48896</PointerOffset>
@@ -14623,11 +14652,11 @@ one party member in battle.</EnglishText>
       <PointerOffset>48956</PointerOffset>
       <JapaneseText>「TOPコレクションカード」の一枚。
 『花鳥風月』の月カード</JapaneseText>
-      <EnglishText>「TOPコレクションカード」の一枚。
- "花鳥風月" の月カード</EnglishText>
-      <Notes/>
+      <EnglishText>A Tales of Phantasia Collectible Card.
+Card series 1, #4 of 4: “Moon.”</EnglishText>
+      <Notes>Used the Phantasian Productions translation, which is mostly the same barring the "Gotta collect 'em all!" part at the end since the Japanese text doesn't have that.</Notes>
       <Id>3955</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>48980</PointerOffset>
@@ -14641,11 +14670,11 @@ one party member in battle.</EnglishText>
       <PointerOffset>49040</PointerOffset>
       <JapaneseText>「TOPコレクションカード」の一枚。
 『天地人』の天カード</JapaneseText>
-      <EnglishText>「TOPコレクションカード」の一枚。
- "天地人" の天カード</EnglishText>
-      <Notes/>
+      <EnglishText>A Tales of Phantasia Collectible Card.
+Card series 2, #1 of 3: “Heaven.”</EnglishText>
+      <Notes>Used the Phantasian Productions translation, which is mostly the same barring the "Gotta collect 'em all!" part at the end since the Japanese text doesn't have that.</Notes>
       <Id>3957</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>49064</PointerOffset>
@@ -14659,11 +14688,11 @@ one party member in battle.</EnglishText>
       <PointerOffset>49124</PointerOffset>
       <JapaneseText>「TOPコレクションカード」の一枚。
 『天地人』の地カード</JapaneseText>
-      <EnglishText>「TOPコレクションカード」の一枚。
- "天地人" の地カード</EnglishText>
-      <Notes/>
+      <EnglishText>A Tales of Phantasia Collectible Card.
+Card series 2, #2 of 3: “Earth.”</EnglishText>
+      <Notes>Used the Phantasian Productions translation, which is mostly the same barring the "Gotta collect 'em all!" part at the end since the Japanese text doesn't have that.</Notes>
       <Id>3959</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>49148</PointerOffset>
@@ -14677,11 +14706,11 @@ one party member in battle.</EnglishText>
       <PointerOffset>49208</PointerOffset>
       <JapaneseText>「TOPコレクションカード」の一枚。
 『天地人』の人カード</JapaneseText>
-      <EnglishText>「TOPコレクションカード」の一枚。
- "天地人" の人カード</EnglishText>
-      <Notes/>
+      <EnglishText>A Tales of Phantasia Collectible Card.
+Card series 2, #3 of 3: “Life.”</EnglishText>
+      <Notes>Used the Phantasian Productions translation, which is mostly the same barring the "Gotta collect 'em all!" part at the end since the Japanese text doesn't have that.</Notes>
       <Id>3961</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>49232</PointerOffset>
@@ -14694,8 +14723,8 @@ one party member in battle.</EnglishText>
     <Entry>
       <PointerOffset>49292</PointerOffset>
       <JapaneseText>熱砂の洞窟の最深部の扉を開けるのに必要なカギ</JapaneseText>
-      <EnglishText>The key needed to open the door of the deepest
-caves of the burning sand.</EnglishText>
+      <EnglishText>The key needed to open the door in the depths of
+the Cave of Searing Sand.</EnglishText>
       <Notes/>
       <Id>3963</Id>
       <Status>Editing</Status>
@@ -14712,10 +14741,11 @@ caves of the burning sand.</EnglishText>
       <PointerOffset>49376</PointerOffset>
       <JapaneseText>超古代都市トールの
 マザーコンピュータールームを開けるのに必要なカギ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The key needed to open the Mother Computer Room
+in the ancient city of Thor.</EnglishText>
       <Notes/>
       <Id>3965</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49400</PointerOffset>
@@ -14729,10 +14759,11 @@ caves of the burning sand.</EnglishText>
       <PointerOffset>49460</PointerOffset>
       <JapaneseText>とある母娘の思い出の花。
 キレイな花には毒がある</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Flowers that hold precious memories between mother
+and daughter. Beautiful flowers that are often poisonous.</EnglishText>
       <Notes/>
       <Id>3967</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>49484</PointerOffset>
@@ -14746,10 +14777,11 @@ caves of the burning sand.</EnglishText>
       <PointerOffset>49544</PointerOffset>
       <JapaneseText>欲張りで性格の悪い男の忘れ物。
 お金などの大切なものが入っているらしい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Belongings left behind by a greedy, nasty man.
+It seems to contain valuables like money.</EnglishText>
       <Notes/>
       <Id>3969</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49568</PointerOffset>
@@ -14763,10 +14795,11 @@ caves of the burning sand.</EnglishText>
       <PointerOffset>49628</PointerOffset>
       <JapaneseText>クラースの父親が息子に宛てた手紙。
 家族への秘められた愛情が綴られている</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A letter from Klarth's father to his son. It expresses
+his deep, unspoken love for his family.</EnglishText>
       <Notes/>
       <Id>3971</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49652</PointerOffset>
@@ -14780,10 +14813,11 @@ caves of the burning sand.</EnglishText>
       <PointerOffset>49712</PointerOffset>
       <JapaneseText>精霊召喚用の契約具が入った宝箱が
 開けられるようになる豪華な鍵</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A grand key that unlocks treasure chests containing
+contract gems for summoning spirits.</EnglishText>
       <Notes/>
       <Id>3973</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49736</PointerOffset>
@@ -14797,10 +14831,11 @@ caves of the burning sand.</EnglishText>
       <PointerOffset>49796</PointerOffset>
       <JapaneseText>とてもいい土。こねあげるほどに金色に輝き、
 どんなものでも作れる美しい粘土になる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An exquisite clay. The more you knead it, the more it
+glows gold, which can eventually be shaped into anything.</EnglishText>
       <Notes/>
       <Id>3975</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>49820</PointerOffset>
@@ -14814,10 +14849,11 @@ caves of the burning sand.</EnglishText>
       <PointerOffset>49880</PointerOffset>
       <JapaneseText>海辺に落ちている普通の貝殻。種類は不明だが、
 昔はお金代わりに使われていた村もあったらしい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>An ordinary seashell lying on the beach. Its species is unknown,
+but villages apparantly used this as currency in the past.</EnglishText>
       <Notes/>
       <Id>3977</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49548,46272,47364,47784,5196,49128,47196,47448,49968,48288,48960,4608,47532,47028,49716,49296,48456,45684,48876,46440,47700,49380,48792,49212,4524,48204,47280,47112,47616,48120,48708,48540,49632,46188,48372,47868,46104,49464,49800,49044,49884</PointerOffset>
@@ -14847,10 +14883,11 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>53580,50052</PointerOffset>
       <JapaneseText>あらゆる姿に「なりきる」ことで、人々を助ける職業</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A profession that helps others by "roleplaying"
+any form that's needed.</EnglishText>
       <Notes/>
       <Id>3981</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50072</PointerOffset>
@@ -15415,10 +15452,10 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>52844</PointerOffset>
       <JapaneseText>ランサー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lancer</EnglishText>
       <Notes/>
       <Id>4052</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>52908</PointerOffset>
@@ -15487,10 +15524,10 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>53160</PointerOffset>
       <JapaneseText>「塊魂」ヨリ参戦！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Joining the battle from "Katamari Damacy"!</EnglishText>
       <Notes/>
       <Id>4061</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53180</PointerOffset>
@@ -15503,10 +15540,10 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>53244</PointerOffset>
       <JapaneseText>「.hack//Link」より参戦！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Joining the battle from ".hack//Link"!</EnglishText>
       <Notes/>
       <Id>4063</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53264</PointerOffset>
@@ -15527,18 +15564,18 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>53412</PointerOffset>
       <JapaneseText>おいしそうな赤色のかに型きぐるみ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A delicious-looking red crab costume.</EnglishText>
       <Notes/>
       <Id>4066</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53496</PointerOffset>
       <JapaneseText>「ゼビウス」より参戦！　グリーンバージョン！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Joining the battle from "Xevious"! The green version!</EnglishText>
       <Notes/>
       <Id>4067</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49988,53516</PointerOffset>
@@ -15695,10 +15732,10 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>54272</PointerOffset>
       <JapaneseText>魔女っ娘</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Magical Girl</EnglishText>
       <Notes/>
       <Id>4087</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54336</PointerOffset>
@@ -15799,10 +15836,10 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>54776</PointerOffset>
       <JapaneseText>セイジ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sage</EnglishText>
       <Notes/>
       <Id>4100</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>54840</PointerOffset>
@@ -16103,10 +16140,10 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>56372</PointerOffset>
       <JapaneseText>ランシア</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ranseur</EnglishText>
       <Notes/>
       <Id>4138</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56436</PointerOffset>
@@ -16175,10 +16212,10 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>56772</PointerOffset>
       <JapaneseText>「鉄拳」より参戦！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Joining the battle from "Tekken"!</EnglishText>
       <Notes/>
       <Id>4147</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>56792</PointerOffset>
@@ -16191,10 +16228,10 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>56856</PointerOffset>
       <JapaneseText>「THE IDOLM@STER」より参戦！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Joining the battle from "The IDOLM@STER"!</EnglishText>
       <Notes/>
       <Id>4149</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53348,56876</PointerOffset>
@@ -16207,41 +16244,41 @@ caves of the burning sand.</EnglishText>
     <Entry>
       <PointerOffset>56940</PointerOffset>
       <JapaneseText>レアなピンク色のカニ型きぐるみ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A rare pink crab-shaped costume.</EnglishText>
       <Notes/>
       <Id>4151</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53432,56960</PointerOffset>
       <JapaneseText>バキュラ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bacura</EnglishText>
       <Notes/>
       <Id>4152</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57024</PointerOffset>
       <JapaneseText>「ゼビウス」より参戦！　ピンクバージョン！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Joining the battle from "Xevious"! The pink version!</EnglishText>
+      <Notes>May need to revise the text for all the cameo descriptions since they're similar.</Notes>
       <Id>4153</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>57044</PointerOffset>
       <JapaneseText>堕ちる研究資料</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Research Materials: Crash</EnglishText>
       <Notes/>
       <Id>4154</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>57108</PointerOffset>
       <JapaneseText>アルケミストメルの禁呪文
 「メテオスォーム」の使い方が載っている本</JapaneseText>
-      <EnglishText>A spell so powerful its usage was prohibited.
-Teaches Meteor Storm.</EnglishText>
+      <EnglishText>A tome containing instructions on how to use the forbidden
+spell, "Meteor Storm" for Mel as an Alchemist.</EnglishText>
       <Notes/>
       <Id>4155</Id>
       <Status>Editing</Status>
@@ -16249,34 +16286,35 @@ Teaches Meteor Storm.</EnglishText>
     <Entry>
       <PointerOffset>57128</PointerOffset>
       <JapaneseText>弾ける研究資料</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Research Materials: Burst</EnglishText>
       <Notes/>
       <Id>4156</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>57192</PointerOffset>
       <JapaneseText>アルケミストメルの禁呪文
 「ビッグバン」の使い方が載っている本</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A tome containing instructions on how to use the forbidden
+spell, "Big Bang" for Mel as an Alchemist.</EnglishText>
       <Notes/>
       <Id>4157</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57212</PointerOffset>
       <JapaneseText>堕ちる古の禁呪書</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ancient Spellbook: Crash</EnglishText>
       <Notes/>
       <Id>4158</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>57276</PointerOffset>
       <JapaneseText>誰かの禁呪文
 「メテオスォーム」の使い方が載っている本</JapaneseText>
-      <EnglishText>A spell so powerful its usage was banned.
-Teaches Meteor Storm.</EnglishText>
+      <EnglishText>A tome containing instruction on how to use the forbidden
+spell, "Meteor Storm" for a certain someone.</EnglishText>
       <Notes/>
       <Id>4159</Id>
       <Status>Editing</Status>
@@ -16284,27 +16322,28 @@ Teaches Meteor Storm.</EnglishText>
     <Entry>
       <PointerOffset>57296</PointerOffset>
       <JapaneseText>弾ける古の禁呪書</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ancient Spellbook: Burst</EnglishText>
       <Notes/>
       <Id>4160</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>57188,6200,57356</PointerOffset>
       <JapaneseText>「ビッグバン」を覚える</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Learned Big Bang</EnglishText>
       <Notes/>
       <Id>4161</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>57360</PointerOffset>
       <JapaneseText>誰かの禁呪文
 「ビッグバン」の使い方が載っている本</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A tome containing instruction on how to use the forbidden
+spell, "Big Bang" for a certain someone.</EnglishText>
       <Notes/>
       <Id>4162</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </MenuText>
