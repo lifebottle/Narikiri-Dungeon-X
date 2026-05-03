@@ -11126,7 +11126,7 @@ Significantly increases M.DEF and Luck.</EnglishText>
     <Entry>
       <PointerOffset>36776</PointerOffset>
       <JapaneseText>水属性攻撃のダメージを３０％の確率で無効化する</JapaneseText>
-      <EnglishText>30% chance to nullify Water damage.</EnglishText>
+      <EnglishText>Invalidates water-elemental damage 30% of the time.</EnglishText>
       <Notes/>
       <Id>3552</Id>
       <Status>Editing</Status>
@@ -11151,7 +11151,7 @@ Significantly increases M.DEF and Luck.</EnglishText>
       <PointerOffset>36860</PointerOffset>
       <JapaneseText>水属性攻撃のダメージを３０％の確率で無効化する
 最大ＨＰ＋５００</JapaneseText>
-      <EnglishText>30% chance to nullify Water damage.
+      <EnglishText>Invalidates water-elemental damage 30% of the time.
 Max HP + 500</EnglishText>
       <Notes/>
       <Id>3555</Id>
@@ -11160,8 +11160,7 @@ Max HP + 500</EnglishText>
     <Entry>
       <PointerOffset>36864</PointerOffset>
       <JapaneseText>水属性に高い抵抗を持つ上位マント</JapaneseText>
-      <EnglishText>A mantle that has higher resistance to
-water.</EnglishText>
+      <EnglishText>A mantle that has high resistance to water.</EnglishText>
       <Notes/>
       <Id>3556</Id>
       <Status>Editing</Status>
@@ -11177,7 +11176,7 @@ water.</EnglishText>
     <Entry>
       <PointerOffset>36944</PointerOffset>
       <JapaneseText>雷属性攻撃のダメージを３０％の確率で無効化する</JapaneseText>
-      <EnglishText>30% chance to nullify Lightning damage.</EnglishText>
+      <EnglishText>Invalidates lightning-elemental damage 30% of the time.</EnglishText>
       <Notes/>
       <Id>3558</Id>
       <Status>Editing</Status>
@@ -11185,8 +11184,7 @@ water.</EnglishText>
     <Entry>
       <PointerOffset>36948</PointerOffset>
       <JapaneseText>雷属性に高い抵抗を持つ下位マント</JapaneseText>
-      <EnglishText>A cape imbued with resistance to
-lightning.</EnglishText>
+      <EnglishText>A cape imbued with resistance to lightning.</EnglishText>
       <Notes/>
       <Id>3559</Id>
       <Status>Editing</Status>
@@ -11203,7 +11201,7 @@ lightning.</EnglishText>
       <PointerOffset>37028</PointerOffset>
       <JapaneseText>雷属性攻撃のダメージを３０％の確率で無効化する
 最大ＨＰ＋５００</JapaneseText>
-      <EnglishText>30% chance to nullify Lightning damage.
+      <EnglishText>Invalidates lightning-elemental damage 30% of the time.
 Max HP + 500</EnglishText>
       <Notes/>
       <Id>3561</Id>
@@ -11212,8 +11210,7 @@ Max HP + 500</EnglishText>
     <Entry>
       <PointerOffset>37032</PointerOffset>
       <JapaneseText>雷属性に高い抵抗を持つ上位マント</JapaneseText>
-      <EnglishText>A mantle that has higher resistance to
-lightning.</EnglishText>
+      <EnglishText>A mantle that has high resistance to lightning.</EnglishText>
       <Notes/>
       <Id>3562</Id>
       <Status>Editing</Status>
@@ -11229,7 +11226,7 @@ lightning.</EnglishText>
     <Entry>
       <PointerOffset>37112</PointerOffset>
       <JapaneseText>風属性攻撃のダメージを３０％の確率で無効化する</JapaneseText>
-      <EnglishText>30% chance to nullify Wind damage.</EnglishText>
+      <EnglishText>Invalidates wind-elemental damage 30% of the time.</EnglishText>
       <Notes/>
       <Id>3564</Id>
       <Status>Editing</Status>
@@ -11254,7 +11251,7 @@ lightning.</EnglishText>
       <PointerOffset>37196</PointerOffset>
       <JapaneseText>風属性攻撃のダメージを３０％の確率で無効化する
 最大ＨＰ＋５００</JapaneseText>
-      <EnglishText>30% chance to nullify Wind damage.
+      <EnglishText>Invalidates wind-elemental damage 30% of the time.
 Max HP + 500</EnglishText>
       <Notes/>
       <Id>3567</Id>
@@ -11263,8 +11260,7 @@ Max HP + 500</EnglishText>
     <Entry>
       <PointerOffset>37200</PointerOffset>
       <JapaneseText>風属性に高い抵抗を持つ上位マント</JapaneseText>
-      <EnglishText>A mantle that has higher resistance to
-wind.</EnglishText>
+      <EnglishText>A mantle that has high resistance to wind.</EnglishText>
       <Notes/>
       <Id>3568</Id>
       <Status>Editing</Status>
@@ -11280,7 +11276,7 @@ wind.</EnglishText>
     <Entry>
       <PointerOffset>37280</PointerOffset>
       <JapaneseText>地属性攻撃のダメージを３０％の確率で無効化する</JapaneseText>
-      <EnglishText>30% chance to nullify Earth damage.</EnglishText>
+      <EnglishText>Invalidates earth-elemental damage 30% of the time.</EnglishText>
       <Notes/>
       <Id>3570</Id>
       <Status>Editing</Status>
@@ -11305,7 +11301,7 @@ wind.</EnglishText>
       <PointerOffset>37364</PointerOffset>
       <JapaneseText>地属性攻撃のダメージを３０％の確率で無効化する
 最大ＨＰ＋５００</JapaneseText>
-      <EnglishText>30% chance to nullify Earth damage.
+      <EnglishText>Invalidates earth-elemental damage 30% of the time.
 Max HP + 500</EnglishText>
       <Notes/>
       <Id>3573</Id>
@@ -11314,8 +11310,7 @@ Max HP + 500</EnglishText>
     <Entry>
       <PointerOffset>37368</PointerOffset>
       <JapaneseText>地属性に高い抵抗を持つ上位マント</JapaneseText>
-      <EnglishText>A mantle that has higher resistance to
-earth.</EnglishText>
+      <EnglishText>A mantle that has high resistance to earth.</EnglishText>
       <Notes/>
       <Id>3574</Id>
       <Status>Editing</Status>
@@ -11331,7 +11326,7 @@ earth.</EnglishText>
     <Entry>
       <PointerOffset>37448</PointerOffset>
       <JapaneseText>火属性攻撃のダメージを３０％の確率で無効化する</JapaneseText>
-      <EnglishText>30% chance to nullify Fire damage.</EnglishText>
+      <EnglishText>Invalidates fire-elemental damage 30% of the time.</EnglishText>
       <Notes/>
       <Id>3576</Id>
       <Status>Editing</Status>
@@ -11356,7 +11351,7 @@ earth.</EnglishText>
       <PointerOffset>37532</PointerOffset>
       <JapaneseText>火属性攻撃のダメージを３０％の確率で無効化する
 最大ＨＰ＋５００</JapaneseText>
-      <EnglishText>30% chance to nullify Fire damage.
+      <EnglishText>Invalidates fire-elemental damage 30% of the time.
 Max HP + 500</EnglishText>
       <Notes/>
       <Id>3579</Id>
@@ -11365,8 +11360,7 @@ Max HP + 500</EnglishText>
     <Entry>
       <PointerOffset>37536</PointerOffset>
       <JapaneseText>火属性に高い抵抗を持つ上位マント</JapaneseText>
-      <EnglishText>A mantle that has higher resistance to
-fire.</EnglishText>
+      <EnglishText>A mantle that has high resistance to fire.</EnglishText>
       <Notes/>
       <Id>3580</Id>
       <Status>Editing</Status>
@@ -11382,7 +11376,7 @@ fire.</EnglishText>
     <Entry>
       <PointerOffset>37616</PointerOffset>
       <JapaneseText>闇属性攻撃のダメージを３０％の確率で無効化する</JapaneseText>
-      <EnglishText>30% chance to nullify Dark damage.</EnglishText>
+      <EnglishText>Invalidates dark-elemental damage 30% of the time.</EnglishText>
       <Notes/>
       <Id>3582</Id>
       <Status>Editing</Status>
@@ -11407,7 +11401,7 @@ fire.</EnglishText>
       <PointerOffset>37700</PointerOffset>
       <JapaneseText>闇属性攻撃のダメージを３０％の確率で無効化する
 最大ＨＰ＋５００</JapaneseText>
-      <EnglishText>30% chance to nullify Dark damage.
+      <EnglishText>Invalidates dark-elemental damage 30% of the time.
 Max HP + 500</EnglishText>
       <Notes/>
       <Id>3585</Id>
@@ -11416,8 +11410,7 @@ Max HP + 500</EnglishText>
     <Entry>
       <PointerOffset>37704</PointerOffset>
       <JapaneseText>闇属性に高い抵抗を持つ上位マント</JapaneseText>
-      <EnglishText>A mantle that has higher resistance to
-dark.</EnglishText>
+      <EnglishText>A mantle that has high resistance to dark.</EnglishText>
       <Notes/>
       <Id>3586</Id>
       <Status>Editing</Status>
@@ -11433,7 +11426,7 @@ dark.</EnglishText>
     <Entry>
       <PointerOffset>37784</PointerOffset>
       <JapaneseText>光属性攻撃のダメージを３０％の確率で無効化する</JapaneseText>
-      <EnglishText>30% chance to nullify Light damage.</EnglishText>
+      <EnglishText>Invalidates light-elemental damage 30% of the time.</EnglishText>
       <Notes/>
       <Id>3588</Id>
       <Status>Editing</Status>
@@ -11458,7 +11451,7 @@ dark.</EnglishText>
       <PointerOffset>37868</PointerOffset>
       <JapaneseText>光属性攻撃のダメージを３０％の確率で無効化する
 最大ＨＰ＋５００</JapaneseText>
-      <EnglishText>30% chance to nullify Light damage.
+      <EnglishText>Invalidates light-elemental damage 30% of the time.
 Max HP + 500</EnglishText>
       <Notes/>
       <Id>3591</Id>
@@ -11467,8 +11460,7 @@ Max HP + 500</EnglishText>
     <Entry>
       <PointerOffset>37872</PointerOffset>
       <JapaneseText>光属性に高い抵抗を持つ上位マント</JapaneseText>
-      <EnglishText>A mantle that has higher resistance to
-light.</EnglishText>
+      <EnglishText>A mantle that has high resistance to light.</EnglishText>
       <Notes/>
       <Id>3592</Id>
       <Status>Editing</Status>
@@ -11493,8 +11485,8 @@ light.</EnglishText>
       <PointerOffset>37956</PointerOffset>
       <JapaneseText>丈夫な革製ブーツ。
 防御力が少し上昇</JapaneseText>
-      <EnglishText>Sturdy leather boots. Offers a slight rise in
-defense.</EnglishText>
+      <EnglishText>Sturdy leather boots.
+Marginally increases defense.</EnglishText>
       <Notes/>
       <Id>3595</Id>
       <Status>Editing</Status>
@@ -11519,8 +11511,8 @@ defense.</EnglishText>
       <PointerOffset>38040</PointerOffset>
       <JapaneseText>鉄のリングを編んだ強固なブーツ。
 防御力がそれなりに上昇</JapaneseText>
-      <EnglishText>Strong iron rings woven into boots.
-they grant a moderate rise in defense.</EnglishText>
+      <EnglishText>Sturdy boots with iron rings woven into it.
+Moderately increases defense.</EnglishText>
       <Notes/>
       <Id>3598</Id>
       <Status>Editing</Status>
@@ -11600,7 +11592,7 @@ They increase defense in exchange for reduced agility.</EnglishText>
       <JapaneseText>戦闘中の動きを阻害しない設計のブーツ。
 攻撃力と防御力が上昇する</JapaneseText>
       <EnglishText>Boots designed to not restrict movement during battle.
-Increases attack and defense.</EnglishText>
+Slightly increases attack and defense.</EnglishText>
       <Notes/>
       <Id>3607</Id>
       <Status>Editing</Status>
@@ -11676,8 +11668,8 @@ They significantly increase defense in exchange for reduced agility.</EnglishTex
     <Entry>
       <PointerOffset>38544</PointerOffset>
       <JapaneseText>見た目以上の防御力を誇る、魔法のブーツ</JapaneseText>
-      <EnglishText>A pair of magical boots that offer more defense
-than its appearance suggests.</EnglishText>
+      <EnglishText>A pair of magical boots that offer more
+defense than its appearance suggests.</EnglishText>
       <Notes/>
       <Id>3616</Id>
       <Status>Editing</Status>
@@ -14861,7 +14853,7 @@ but villages apparantly used this as currency in the past.</EnglishText>
       <EnglishText/>
       <Notes/>
       <Id>3978</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49904</PointerOffset>
