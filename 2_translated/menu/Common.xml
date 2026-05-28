@@ -240,51 +240,57 @@ to the battle party.</EnglishText>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>%sが加わりました。
 隊列をセットしてください</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s joined the party!
+Set up your formation.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>%sが抜けました。
 隊列をセットしてください</JapaneseText>
-      <EnglishText/>
+      <EnglishText>%s left the party.
+Set up your formation.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>%sの精霊晶核を
 配置しました</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Placed %s’s Atomism Core.</EnglishText>
+      <Notes>need to see in game</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>%sを戦闘メンバーに加えてください</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Please add %s to the battle party.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>『…………………』
 石碑の文字がかすれていて読めない
 気にする必要はないようだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"..............." 
+The writing on the stone is too
+worn to read. Doesn’t seem like
+it’s anything worth worrying about.
+</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -1219,11 +1225,12 @@ of energy...</EnglishText>
       <JapaneseText>エレメンツポットと
 今まで集めた精霊晶核を
 失っただ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Aw man... you lost the Elements' Pot and
+all the Atomism Cores you’d collected..</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>98</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -1255,33 +1262,41 @@ inside, doesn’t it?</EnglishText>
       <JapaneseText>システム
 『オーバーブレイブ』と
 『オーバーキル』が開放されただ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>System
+Overbrave and Overkill
+have been unlocked!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>101</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>ハゲぼうずたちだけで戦ったから
 ショートカットの設定が外れちまっただ……
 戦う前には注意するべや～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Because you all went and fought with just the baldy
+crew...your shortcut settings got reset... Make sure
+you check things before heading into another battle.
+</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>102</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>ハゲぼうず一人で戦ったせいで
 ショートカットの設定が外れちまっただ……
 戦う前には注意するべや～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You went and fought solo, baldy... now your
+shortcut settings are all messed up... Next
+time, check before you jump into a fight.
+</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>103</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -1395,11 +1410,12 @@ had to head over to the rest area!</EnglishText>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>パーティがいっぱいだったので
 %sは休憩所へ向かっただ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The party was full, so %s
+headed to the rest area!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>110</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -1408,22 +1424,31 @@ had to head over to the rest area!</EnglishText>
 決めることができるでな。
 詳しくはバトルメモに書いてあっから
 よっく確認するだよ～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Free Party System has been unlocked!
+From now on, you can freely choose between
+2 to 4 members for battle. The details are
+in the Battle Book, so make sure to check
+it carefully.
+</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>111</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>二人だけで戦ったから
 ショートカットの設定が外れちまっただ……
 戦う前には注意するべや～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Because you only fought with two 
+people... your shortcut settings got 
+reset... You’d better be careful before 
+heading into a battle.
+</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>112</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -1436,11 +1461,19 @@ had to head over to the rest area!</EnglishText>
 ミックスグミ　　x 6
 ミラクルグミ　　x 6
 クジグミ　　　　x 6</JapaneseText>
-      <EnglishText/>
+      <EnglishText>These are your victory prizes.
+
+Apple Gel x6
+Orange Gel x6
+Lemon Gel x6
+Pineapple Gel x6
+Melange Gel x6
+Miracle Gel x6
+Lottery Gel x6</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>113</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -1454,11 +1487,20 @@ had to head over to the rest area!</EnglishText>
 スピードボトル　　x 6
 スペルボトル　　　x 6
 スペシフィック　　x 6</JapaneseText>
-      <EnglishText/>
+      <EnglishText>These are your victory prizes.
+
+All-Divide x6
+Flare Bottle x6
+Hard Bottle x6
+Magic Bottle x6
+Resist Bottle x6
+Speed Bottle x6
+Spell Bottle x6
+Specific x6</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>114</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
@@ -1472,21 +1514,32 @@ had to head over to the rest area!</EnglishText>
 パナシーアボトル　x 6
 キュアボトル　　　x 6
 ディネイボトル　　x 6</JapaneseText>
-      <EnglishText/>
+      <EnglishText>These are your victory prizes.
+
+Dark Bottle x6
+Holy Bottle x6
+Life Bottle x6
+Syrup Bottle x6
+Nectar Bottle x6
+Panacea Bottle x6
+Cure Bottle x6
+Dinei Bottle x6</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>115</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
       <JapaneseText>別れた時に
 装備品をもらっただ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You received equipment
+when you parted ways!
+</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>116</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>-1</PointerOffset>
