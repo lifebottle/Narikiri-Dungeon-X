@@ -98,10 +98,20 @@
 各種データの確認、機能のカスタマイズ、
 戦闘を行なう為の準備ができる画面を開く
 ことができます。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>[Basic Controls]
+&lt;icon:1&gt;: Confirm Button
+Use this button to confirm options, 
+talk to people, advance dialogue and examine objects.
+&lt;icon:2&gt;: Cancel Button
+This button lets you back out of menus 
+or fast forward dialogue.
+&lt;icon:3&gt;: Menu Button
+This button opens the Menu, 
+where you can check settings and data
+and prepare your characters for battle.</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>108</PointerOffset>
