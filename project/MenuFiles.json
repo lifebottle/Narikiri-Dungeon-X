@@ -1,6 +1,6 @@
 [
 	{	
-		"file_path": "Eboot/EBOOT.BIN",
+		"file_path": "../1_extracted/Eboot/EBOOT.BIN",
 		"friendly_name": "Eboot",
 		"split_sections": true,
 		"base_offset":	-160,
@@ -476,112 +476,112 @@
         }]
 	},
 	{
-		"file_path":"all/battle/data/BT_DATA/BT_TECHNIQUE_NAME_DATA/bt_technique_name_data.bin",
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_TECHNIQUE_NAME_DATA/bt_technique_name_data.dat",
 		"friendly_name": "Artes",
 		"split_sections": false,
 		"base_offset":	0,
 		"sections":
 		[
 		{
-			"section":					"Artes [0xB3A4 - 0x50456]",
+			"section":					"Artes",
 			"pointers_start":			8,
 			"pointers_end":				45967,
 			"style":					"PP24"
 		}]
 	},
 		{
-		"file_path":"all/battle/data/BT_DATA/BT_ITEM_DATA/bt_item_data.bin",
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_ITEM_DATA/bt_item_data.dat",
 		"friendly_name": "Items",
 		"split_sections": false,
 		"base_offset":	0,
 		"sections":
 		[
 		{
-			"section":					"Items [0xE020 - 0x1DFE4]",
+			"section":					"Items",
 			"pointers_start":			8,
 			"pointers_end":				57363,
 			"style":					"P56PP16"
 		}]
 	},
 		{
-		"file_path":"all/battle/data/BT_DATA/BT_STRATEGY_DATA/bt_strategy_data.bin",
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_STRATEGY_DATA/bt_strategy_data.dat",
 		"friendly_name": "Strategy",
 		"split_sections": false,
 		"base_offset":	0,
 		"sections":
 		[
 		{
-			"section":					"Strategy [0x9f84 - 0x109D2]",
+			"section":					"Strategy",
 			"pointers_start":			8,
 			"pointers_end":				40139,
 			"style":					"PP56"
 		}]
 	},
 		{
-		"file_path":"all/battle/data/BT_DATA/BT_SKILL_DATA/bt_skill_data.bin",
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_SKILL_DATA/bt_skill_data.dat",
 		"friendly_name": "Skills",
 		"split_sections": false,
 		"base_offset":	0,
 		"sections":
 		[
 		{
-			"section":					"Skills [0x7E1C - 0x1907F]",
+			"section":					"Skills",
 			"pointers_start":			8,
 			"pointers_end":				32251,
 			"style":					"PP32"
 		}]
 	},
 		{
-		"file_path":"all/battle/data/BT_DATA/BT_SHOP_DATA/bt_shop_data.bin",
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_SHOP_DATA/bt_shop_data.dat",
 		"friendly_name": "Shop",
 		"split_sections": false,
 		"base_offset":	0,
 		"sections":
 		[
 		{
-			"section":					"Shop [0x1364 - 0x1648]",
+			"section":					"Shop",
 			"pointers_start":			8,
 			"pointers_end":				4723,
 			"style":					"P120"
 		}]
 	},
 		{
-		"file_path":"all/battle/data/BT_DATA/BT_HELP_DATA/bt_help_data.bin",
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_HELP_DATA/bt_help_data.dat",
 		"friendly_name": "Help",
 		"split_sections": false,
 		"base_offset":	0,
 		"sections":
 		[
 		{
-			"section":					"Help [0x0364 - 0x9BE6]",
+			"section":					"Help",
 			"pointers_start":			12,
 			"pointers_end":				867,
 			"style":					"PP8"
 		}]
 	},
 		{
-		"file_path":"all/battle/data/BT_DATA/BT_MAP_DATA/bt_map_data.bin",
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_MAP_DATA/bt_map_data.dat",
 		"friendly_name": "Map",
 		"split_sections": false,
 		"base_offset":	0,
 		"sections":
 		[
 		{
-			"section":					"Map [0x0A00 - 0x0EDD]",
+			"section":					"Map",
 			"pointers_start":			8,
 			"pointers_end":				2531,
 			"style":					"P32"
 		}]
 	},
 		{
-		"file_path":"all/battle/data/BT_DATA/BT_MEMO_DATA/bt_memo_data.bin",
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_MEMO_DATA/bt_memo_data.dat",
 		"friendly_name": "Memo",
 		"split_sections": false,
 		"base_offset":	0,
 		"sections":
 		[
 		{
-			"section":					"Memo1 [0x10A4 - 0x6279]",
+			"section":					"Memo1",
 			"pointers_start":			4,
 			"pointers_end":				4259,
 			"style":					"4P8P8P8P8P8P8"
@@ -589,7 +589,7 @@
 		]
 	},
 		{
-		"file_path":"all/map/data/btlmemocate.dat",
+		"file_path":"../1_extracted/All/map/data/btlmemocate.dat",
 		"friendly_name": "SectionName",
 		"split_sections": false,
 		"base_offset":	0,
@@ -604,7 +604,7 @@
 		]
 	},
 		{
-		"file_path":"all/map/data/btlmemo/BtlMemo.dat",
+		"file_path":"../1_extracted/All/map/data/btlmemo/BtlMemo.dat",
 		"friendly_name": "BattleBook",
 		"split_sections": false,
 		"base_offset":	0,
@@ -619,20 +619,20 @@
 		]
 	},
 		{
-		"file_path":"all/battle/data/BT_DATA/BT_COSTUME_DATA/bt_costume_data.bin",
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_COSTUME_DATA/bt_costume_data.dat",
 		"friendly_name": "Costume",
 		"split_sections": false,
 		"base_offset":	0,
 		"sections":
 		[
 		{
-			"section":					"Costume1 [0x877C - 0xA81A]",
+			"section":					"Costume1",
 			"pointers_start":			8,
 			"pointers_end":				34287,
 			"style":					"PP400"
 		},
 		{
-			"section":					"Costume2 [0xA81C - 0xC28F]",
+			"section":					"Costume2",
 			"pointers_start":			50240,
 			"pointers_end":				55215,
 			"style":					"PP544"

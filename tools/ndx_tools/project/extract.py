@@ -12,7 +12,6 @@ from tqdm.rich import tqdm
 from ndx_tools.formats import cab
 from ndx_tools.formats.pak import Pak
 from ndx_tools.formats.tss import Tss
-from ndx_tools.formats.fps4 import Fps4
 from ndx_tools.formats.menu import Menu
 from ndx_tools.formats.xml import TlXml
 from ndx_tools.utils.fileio import FileIO
@@ -36,8 +35,6 @@ def main(iso_path: Path, iso_only: bool):
     extract_maps()
     extract_events()
     extract_skits()
-    extract_menus_cab()
-    extract_fps4_archives()
 
     print("Creating XML files...")
     extract_menus_xmls()
@@ -145,58 +142,13 @@ def extract_files() -> None:
                 o.write(f.read(file.size))
 
 def extract_menus_xmls() -> None:
-    xml_folder = ndx_paths.original_translated_files / "menu"
-    xml_folder.mkdir(parents=True, exist_ok=True)
-
-    extract_eboot_xmls(xml_folder)
-
-    extract_fps4_xmls(xml_folder)
-
-
-def extract_eboot_xmls(xml_folder:Path):
     menu_json = ndx_paths.read_menu_json()
-
+    xml_folder = ndx_paths.original_files / "menu"
+    xml_folder.mkdir(parents=True, exist_ok=True)
 
     eboot = Menu(ndx_paths.decrypted_eboot, menu_json['Eboot'])
     eboot.extract_data()
     eboot.make_xml(xml_folder)
-
-def extract_fps4_xmls(xml_folder:Path):
-    menu_json = ndx_paths.read_menu_json()
-    ef = ndx_paths.extracted_files
-
-    for menu_name, entry in {key:ele for key, ele in menu_json.items() if key != 'Eboot'}.items():
-        menu = Menu(ef / entry['file_path'], entry)
-        menu.extract_data()
-        menu.make_xml(xml_folder)
-
-def extract_menus_cab():
-    ef = ndx_paths.extracted_files
-    paths = [
-        ef / "all" / "map" / "data" / 'btlmemo.cab'
-    ]
-
-    for file in paths:
-        cab.extract_cab(file, file.parent / file.stem)
-def extract_fps4_archives():
-
-    ef = ndx_paths.extracted_files
-    paths = [
-        (ef / "all" / "battle" / "data" / "bt_data.b", ef / "all" / "battle" / "data" / "bt_data_battle.dat"),
-        (ef / "all" / "battle" / "character" / "book_character.b", ef / "all" / "battle" / "character" / "book_character.dat"),
-        (ef / "all" / "battle" / "character" / "character.b", ef / "all" / "battle" / "character" / "character.dat"),
-        (ef / "all" / "battle" / "event" / "event.b", ef / "all" / "battle" / "event" / "event.dat"),
-        (ef / "all" / "battle" / "tutorial" / "tutorial.b", ef / "all" / "battle" / "tutorial" / "tutorial.dat")
-    ]
-
-    for header, detail in paths:
-        fps4 = Fps4(header_path=header, detail_path=detail)
-        fps4.extract_files(destination_path=header.parent / header.stem,
-                           copy_path=Path(''),
-                           cab_extract=True,
-                           to_decompress=False)
-
-
 
 def extract_maps() -> None:
     print("Extracting Map files...")
@@ -263,7 +215,7 @@ def extract_tss_xmls() -> None:
 
 
     ef = ndx_paths.extracted_files
-    of = ndx_paths.original_translated_files
+    of = ndx_paths.original_files
     paths = [
         (ef / "maps", of / "maps"),
         (ef / "events", of / "story"),

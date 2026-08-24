@@ -201,16 +201,6 @@ class TlXml:
 
     def _make_strings(self) -> list[ET._Element]:
         out = []
-
-        def is_xml_safe(text: str) -> bool:
-            return all(
-                c in "\t\n\r" or
-                0x20 <= ord(c) <= 0xD7FF or
-                0xE000 <= ord(c) <= 0xFFFD or
-                0x10000 <= ord(c) <= 0x10FFFF
-                for c in text
-            )
-
         for name, lines in self._text.items():
             strings = ET.Element("Strings")
             ET.SubElement(strings, "Section").text = name
@@ -225,7 +215,6 @@ class TlXml:
                 ET.SubElement(entry, "PointerOffset").text = offsets
                 if line.voice:
                     ET.SubElement(entry, "VoiceId").text = line.voice
-
                 ET.SubElement(entry, "JapaneseText").text = line.text
                 ET.SubElement(entry, "EnglishText").text = line.eng_text
                 ET.SubElement(entry, "Notes").text = line.note
