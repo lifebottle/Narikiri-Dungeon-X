@@ -1,0 +1,601 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Strings>
+    <Section>NewGamePlus</Section>
+    <Entry>
+      <PointerOffset>1653292</PointerOffset>
+      <JapaneseText>アイテム所持最大数99個</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653296</PointerOffset>
+      <JapaneseText>所持できるアイテムの上限数が99個になります</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653308</PointerOffset>
+      <JapaneseText>アイテム引継ぎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653312</PointerOffset>
+      <JapaneseText>所持しているアイテムを、コスチュームと貴重品を除いて引き継ぎ
+ます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653324</PointerOffset>
+      <JapaneseText>ガルド引継ぎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653328</PointerOffset>
+      <JapaneseText>所持しているガルドを引き継ぎます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653340</PointerOffset>
+      <JapaneseText>コレクター図鑑引継ぎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653344</PointerOffset>
+      <JapaneseText>コレクター図鑑の情報を引き継ぎます。コレクター図鑑全開放との
+併用不可</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653356</PointerOffset>
+      <JapaneseText>モンスター図鑑引継ぎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653360</PointerOffset>
+      <JapaneseText>モンスター図鑑の情報を引き継ぎます。モンスター図鑑全開放との
+併用不可</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653372</PointerOffset>
+      <JapaneseText>称号引継ぎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653376</PointerOffset>
+      <JapaneseText>入手した称号を引き継ぎます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653388</PointerOffset>
+      <JapaneseText>料理引継ぎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653392</PointerOffset>
+      <JapaneseText>習得した料理レシピと熟練度を引き継ぎます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653404</PointerOffset>
+      <JapaneseText>レコード引継ぎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653408</PointerOffset>
+      <JapaneseText>メニュー画面「レコード」に記載された各種記録を引き継ぎます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653420</PointerOffset>
+      <JapaneseText>LV引継ぎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653424</PointerOffset>
+      <JapaneseText>ディオ・メルのLVを引き継ぎます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653436</PointerOffset>
+      <JapaneseText>コスチューム引継ぎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653440</PointerOffset>
+      <JapaneseText>獲得したコスチュームとなりきりランク（取得した術技・スキル）
+を、ディオ・メル共に引き継ぎます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653452</PointerOffset>
+      <JapaneseText>パーティキャラ引継ぎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653456</PointerOffset>
+      <JapaneseText>時空戦士・ロディ・クルールの、LVと術・技・スキルを引き継ぎま
+す</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653468</PointerOffset>
+      <JapaneseText>捕獲モンスター引継ぎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653472</PointerOffset>
+      <JapaneseText>捕獲したモンスターとLVを引き継ぎます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653484</PointerOffset>
+      <JapaneseText>最大HP増加</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653488</PointerOffset>
+      <JapaneseText>最大HPが通常の120％になります。最大HP減少とは併用不可</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653500</PointerOffset>
+      <JapaneseText>最大HP減少</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653504</PointerOffset>
+      <JapaneseText>最大HPが通常の80％になります。最大HP増加とは併用不可</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653516</PointerOffset>
+      <JapaneseText>EBG上昇率0.5倍</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653520</PointerOffset>
+      <JapaneseText>戦闘時、EBGの上昇率が0.5倍になります。他のEBG上昇率との併用不
+可</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653532</PointerOffset>
+      <JapaneseText>EBG上昇率1.2倍</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653536</PointerOffset>
+      <JapaneseText>戦闘時、EBGの上昇率が1.2倍になります。他のEBG上昇率との併用不
+可</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653548</PointerOffset>
+      <JapaneseText>EBG上昇率2倍</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653552</PointerOffset>
+      <JapaneseText>戦闘時、EBGの上昇率が2倍になります。他のEBG上昇率との併用不可</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653564</PointerOffset>
+      <JapaneseText>獲得経験値0.5倍</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653568</PointerOffset>
+      <JapaneseText>獲得できる経験値が0.5倍になります。他の経験値系との併用不可</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653580</PointerOffset>
+      <JapaneseText>獲得経験値2倍</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653584</PointerOffset>
+      <JapaneseText>獲得できる経験値が2倍になります。他の経験値系との併用不可</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653596</PointerOffset>
+      <JapaneseText>獲得経験値10倍</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653600</PointerOffset>
+      <JapaneseText>獲得できる経験値が10倍になります。他の経験値系との併用不可</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653612</PointerOffset>
+      <JapaneseText>テクニカルバトル</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653616</PointerOffset>
+      <JapaneseText>基本経験値が1になりますが、ボーナス経験値が5倍になります</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653628</PointerOffset>
+      <JapaneseText>獲得ガルド2倍</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653632</PointerOffset>
+      <JapaneseText>戦闘後に獲得できるガルドの量が、2倍に増加します</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653644</PointerOffset>
+      <JapaneseText>獲得GRADE2倍</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653648</PointerOffset>
+      <JapaneseText>戦闘後に獲得できるGRADEの量が2倍になります</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653660</PointerOffset>
+      <JapaneseText>獲得CP2倍</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653664</PointerOffset>
+      <JapaneseText>戦闘後に獲得できるCP量が2倍になります</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653676</PointerOffset>
+      <JapaneseText>アイテムドロップ率2倍</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653680</PointerOffset>
+      <JapaneseText>戦闘後に獲得できるアイテムのドロップ率が2倍になります</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653692</PointerOffset>
+      <JapaneseText>スペシャルフラッグ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653696</PointerOffset>
+      <JapaneseText>パーティキャラを1人（ソロモード）にして、戦闘をする事ができま
+す</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653708</PointerOffset>
+      <JapaneseText>パートナーフリー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653712</PointerOffset>
+      <JapaneseText>チェインパートナーの組み合わせが自由にできますが、時空戦士と
+ロディはパーティ引継ぎを購入しないと初回加入時には使えません</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653724</PointerOffset>
+      <JapaneseText>フリーチェインパートナー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653728</PointerOffset>
+      <JapaneseText>チェインパートナーの回数制限と、時間制限が無限になります</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653740</PointerOffset>
+      <JapaneseText>8スロットシステム開放</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653744</PointerOffset>
+      <JapaneseText>8スロットシステムが最初から使えるようになります</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653756</PointerOffset>
+      <JapaneseText>オーバーブレイブ開放</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653760</PointerOffset>
+      <JapaneseText>ゲーム開始時から最大EBGが120％になり、OBが使用できます。OB禁
+止とは併用不可</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653772</PointerOffset>
+      <JapaneseText>オーバーブレイブ禁止</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653776</PointerOffset>
+      <JapaneseText>ゲーム開始時の最大EBGが80％になり、OBができなくなります。OB開
+放とは併用不可</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653788</PointerOffset>
+      <JapaneseText>フェイスチャット全開放</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653792</PointerOffset>
+      <JapaneseText>全てのフェイスチャットを、ナム孤島のチャットプレイヤーで見る
+事ができます</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653804</PointerOffset>
+      <JapaneseText>コレクター図鑑全開放</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653808</PointerOffset>
+      <JapaneseText>コレクター図鑑を、コンプリートしている状態になります。コレク
+ター図鑑引継ぎとの併用不可</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653820</PointerOffset>
+      <JapaneseText>モンスター図鑑全開放</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653824</PointerOffset>
+      <JapaneseText>モンスター図鑑を、コンプリートしている状態になります。モンス
+ター図鑑引継ぎとの併用不可</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>68</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653836</PointerOffset>
+      <JapaneseText>オールイン</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>69</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653840</PointerOffset>
+      <JapaneseText>称号、料理、コレクター図鑑、モンスター図鑑がコンプリートして
+いる状態になります</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>70</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653852</PointerOffset>
+      <JapaneseText>即死フラグ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>71</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1653856</PointerOffset>
+      <JapaneseText>全キャラHPが1で固定になりますが、EBG上昇率、獲得経験値が20倍
+になります</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>72</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>
