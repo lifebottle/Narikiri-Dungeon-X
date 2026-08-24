@@ -12,8 +12,10 @@ from tqdm.rich import tqdm
 from ndx_tools.formats import cab
 from ndx_tools.formats.pak import Pak
 from ndx_tools.formats.tss import Tss
+from ndx_tools.formats.menu import Menu
 from ndx_tools.formats.xml import TlXml
 from ndx_tools.utils.fileio import FileIO
+
 
 from . import ndx_paths
 
@@ -33,7 +35,10 @@ def main(iso_path: Path, iso_only: bool):
     extract_maps()
     extract_events()
     extract_skits()
-    extract_xmls()
+
+    print("Creating XML files...")
+    extract_menus_xmls()
+    extract_tss_xmls()
 
 
 def extract_iso(iso_path: Path) -> None:
@@ -136,6 +141,14 @@ def extract_files() -> None:
             with out_p.open("wb") as o:
                 o.write(f.read(file.size))
 
+def extract_menus_xmls() -> None:
+    menu_json = ndx_paths.read_menu_json()
+    xml_folder = ndx_paths.original_files / "menu"
+    xml_folder.mkdir(parents=True, exist_ok=True)
+
+    eboot = Menu(ndx_paths.decrypted_eboot, menu_json['Eboot'])
+    eboot.extract_data()
+    eboot.make_xml(xml_folder)
 
 def extract_maps() -> None:
     print("Extracting Map files...")
@@ -198,11 +211,11 @@ def extract_skits() -> None:
             g.write(pak.files[1])
 
 
-def extract_xmls() -> None:
-    print("Creating XML files...")
+def extract_tss_xmls() -> None:
+
 
     ef = ndx_paths.extracted_files
-    of = ndx_paths.translation_files
+    of = ndx_paths.original_files
     paths = [
         (ef / "maps", of / "maps"),
         (ef / "events", of / "story"),
@@ -210,9 +223,11 @@ def extract_xmls() -> None:
     ]
 
     # Fill the common replacements dict
-    TlXml.load_common(of / "menu" / "Common.xml")
+    TlXml.load_common(ndx_paths.translation_files / "menu" / "Common.xml")
 
     for folder, out_folder in paths:
+        folder.mkdir(parents=True, exist_ok=True)
+
         for path in (pbar := tqdm(list(folder.rglob("*.so")))):
             n = out_folder / (path.parent.name + ".xml")
             pbar.set_description(f"{out_folder.name}/{path.parent.name}")
