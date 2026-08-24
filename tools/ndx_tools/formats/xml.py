@@ -226,8 +226,6 @@ class TlXml:
                 if line.voice:
                     ET.SubElement(entry, "VoiceId").text = line.voice
 
-                if not is_xml_safe(line.text):
-                    t = 2
                 ET.SubElement(entry, "JapaneseText").text = line.text
                 ET.SubElement(entry, "EnglishText").text = line.eng_text
                 ET.SubElement(entry, "Notes").text = line.note

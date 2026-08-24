@@ -31,17 +31,17 @@ def main(iso_path: Path, iso_only: bool):
     if iso_only:
         return
 
-    #decrypt_eboot()
-    #extract_files()
-    #extract_maps()
-    #extract_events()
-    #extract_skits()
-    #extract_menus_cab()
-    #extract_fps4_archives()
+    decrypt_eboot()
+    extract_files()
+    extract_maps()
+    extract_events()
+    extract_skits()
+    extract_menus_cab()
+    extract_fps4_archives()
 
     print("Creating XML files...")
     extract_menus_xmls()
-    #extract_tss_xmls()
+    extract_tss_xmls()
 
 
 def extract_iso(iso_path: Path) -> None:
