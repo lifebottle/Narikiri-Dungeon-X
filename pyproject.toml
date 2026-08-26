@@ -7,6 +7,7 @@ requires-python = ">=3.12"
 dependencies = [
     "loguru>=0.7.3",
     "lxml>=6.0.2",
+    "pandas>=3.0.5",
     "pycdlib>=1.14.0",
     "pyeboot>=0.2.3",
     "pyjson5>=2.0.0",

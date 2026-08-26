@@ -1,10 +1,12 @@
-from ndx_tools.formats.xml import TlXml
+from ndx_tools.formats.xml import TlXml, TlNode
 from ndx_tools.utils.fileio import FileIO
 from ndx_tools.formats.xml import TlText
-from ndx_tools.utils.string import bytes_to_text
+from ndx_tools.utils.string import bytes_to_text, text_to_bytes
 from dataclasses import dataclass, field
 from typing import Any, List, Tuple
-
+import struct
+import shutil
+import pandas as pd
 from pathlib import Path
 from typing import Self, cast
 import re
@@ -115,8 +117,6 @@ class Menu:
         #list_informations = [(k, str(v['ptr'])[1:-1], v.setdefault('emb', None)) for k, v in temp.items()]
         self.entry_sections.append((section.name, entries))
 
-        t = 2
-
     def make_xml(self, folder: Path) -> None:
 
         xml = TlXml()
@@ -184,51 +184,59 @@ class Menu:
 
         return pointers_offset, pointers_value, mlen
 
-    def pack_file(self, destination_path:Path, xml_path:Path, list_status_insertion):
+    def get_xmls_list(self):
+        if self.split_sections:
+            return [f'{self.friendly_name} - {sect.name}.xml' for sect in self.menu_sections]
+
+        else:
+            return f'{self.friendly_name}.xml'
+
+    def get_sections_entries(self, tl_folder:Path):
+
+        xmls = self.get_xmls_list()
+        entries_list = []
+        for xml in xmls:
+            #if xml != 'Eboot - Synopsis.xml':
+            entries = TlXml.load_entries(tl_folder / xml)
+            entries_list.extend(entries)
+
+        return entries_list
+
+    def reinsert_file(self, destination_path:Path, tl_folder:Path, list_status_insertion):
 
         destination_path.parent.mkdir(parents=True, exist_ok=True)
         shutil.copy(self.file_path, destination_path)
-        pools = self.get_pools()
+        pools = self.get_pools2()
 
-        with FileIO(destination_path, "r+b") as f:
-            self.pack_menu_file(xml_path, pools, f, list_status_insertion)
+        with open(destination_path, "r+b") as f:
 
-    def pack_menu_file(self, xml_path:Path, pools: list[list[int]], f: FileIO, list_status_insertion, pad=False) -> None:
+            entries = self.get_sections_entries(tl_folder)
 
+            self.reinsert_file_with_pools(entries, pools, f, list_status_insertion)
 
-        entries = XML.load_xml_entries(xml_path, list_status_insertion)
-        ptrs = [str(p) for p in range(0x1CB4EC, 0x1CB560, 4)]
-        filters = [
-            entry
-            for entry in entries
-            if not any(ptr in entry.pointer_offset for ptr in ptrs)
-        ]
-        for entry in filters:
+    def reinsert_file_with_pools(self, entries:list[TlText], pools: list[list[int]], f, list_status_insertion, pad=False) -> None:
 
-            if entry.final_text == 'Lv':
-                t = 2
-
+        inserted = 0
+        for entry in entries:
 
             hi = []
             lo = []
-            flat_ptrs = []
 
-            if entry.pointer_offset != '':
-                flat_ptrs = [int(x) for x in entry.pointer_offset.split(",")]
 
-            if entry.mlen > 0:
-                f.seek(flat_ptrs[0])
-                text_bytes = text_to_bytes(entry)
+            if entry.max_len > 0:
+                off = next(iter(entry.offsets))
+                f.seek(off)
+                text_bytes = text_to_bytes(entry.text)
 
-                if len(text_bytes) > entry.mlen:
+                if len(text_bytes) > entry.max_len:
                     tqdm.write(
                         f"Line ({entry.eng_text}) too long, truncating...")
-                    f.write(text_bytes[:entry.mlen - 1] + b"\x00")
+                    f.write(text_bytes[:entry.max_len - 1] + b"\x00")
                 else:
-                    f.write(text_bytes + (b"\x00" * (entry.mlen - len(text_bytes))))
+                    f.write(text_bytes + (b"\x00" * (entry.max_len - len(text_bytes))))
                 continue
 
-            text_bytes = text_to_bytes(entry, 2)
+            text_bytes = text_to_bytes(entry.eng_text) + b'\x00'
             l = len(text_bytes)
             for pool in pools:
 
@@ -239,18 +247,55 @@ class Menu:
                     break
             else:
                 print("Ran out of space")
-                raise ValueError(f"Ran out of space {entry.final_text}")
+                raise ValueError(f"Ran out of space {entry.eng_text}")
 
             f.seek(str_pos)
             f.write(text_bytes)
             virt_pos = str_pos + self.base_offset
+            inserted += 1
+            if entry.eng_text == 'Items':
+                t = 2
 
-            for off in flat_ptrs:
-                f.write_uint32_at(off, virt_pos)
+            for off in entry.offsets:
+                f.seek(off)
+                f.write(struct.pack('<I', virt_pos))
+
 
     def get_pools(self):
-        pools: list[list[int]] = [
-            [reg.text_start - self.base_offset, reg.text_end - reg.text_start]
-            for x in self.menu_sections for reg in x.regions]
+        pools: list[list[int]] = []
+        for sect in self.menu_sections:
+            name = sect.name
+            size = sect.text_areas[1] - sect.text_areas[0]
+
+            if name in "Title Dio":
+                p = [sect.text_areas[0], size]
+                pools.append(p)
+
+        pools.sort(key=lambda x: x[1])
+        return pools
+
+    def get_pools2(self):
+        sheet_id = "15iwB_zRS86ovL7z25QYzVpM1cTO0b1a7IRzKaYOAxhM"
+        gid = "418814154"
+
+        url = (
+            f"https://docs.google.com/spreadsheets/d/{sheet_id}/export"
+            f"?format=csv&gid={gid}"
+        )
+
+        df = pd.read_csv(
+            url,
+            dtype=str,
+            keep_default_na=False,
+        )
+        df = df[df['safe_section_start'] != '']
+
+        pools = []
+        for index, row in df.iterrows():
+            start = int(row['safe_section_start'], 16)
+            end = int(row['safe_section_end'], 16)
+            size = end - start
+            pools.append([start, size])
+
         pools.sort(key=lambda x: x[1])
         return pools

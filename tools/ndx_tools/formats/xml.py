@@ -91,6 +91,31 @@ class TlXml:
         return result
 
     @classmethod
+    def serialize_menu_entries(cls, nodes: list[ET._Element]):
+        entries = []
+        for entry in nodes:
+            id_ = int(entry.findtext("Id"))
+            jp = entry.findtext("JapaneseText") or ""
+            en = entry.findtext("EnglishText") or ""
+            status = entry.findtext("Status")
+            max_len = entry.findtext("mlen")
+            pointer_offset =set([int(ele) for ele in entry.findtext("PointerOffset").split(',')])
+
+            final = en or jp
+            entries.append(
+                TlText(
+                    id=id_,
+                    eng_text=final,
+                    status=status,
+                    text=jp,
+                    offsets=pointer_offset,
+                    max_len=int(max_len) if max_len is not None else 0
+                )
+            )
+
+        return entries
+
+    @classmethod
     def _new_pool(cls, section: str, nodes: list[ET._Element]) -> TlRefPool:
         pool = TlRefPool()
         for node in cls.serialize_entries(nodes):
@@ -284,3 +309,15 @@ class TlXml:
                 else:
                     print(node.findtext("JapaneseText"))
         # return x
+
+    @classmethod
+    def load_entries(cls, path:Path):
+
+        xml = ET.parse(path)
+        root = xml.getroot()
+        entries_list = []
+        for foo in root.xpath("Strings|Speakers"):
+            entries = TlXml.serialize_menu_entries(foo.findall("Entry"))
+            entries_list.extend(entries)
+
+        return entries_list

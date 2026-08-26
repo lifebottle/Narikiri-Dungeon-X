@@ -15,7 +15,7 @@ def tools_main():
 
     proj_group = subparsers.add_parser_group("Project tools:")  # type: ignore
     tools.project.extract.add_subparser(proj_group)
-
+    tools.project.repack.add_subparser(proj_group)
     file_group = subparsers.add_parser_group("Single File tools:")  # type: ignore
     tools.scripts.text.add_subparser(file_group)
     tools.scripts.cab.add_subparser(file_group)
