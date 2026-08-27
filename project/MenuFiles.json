@@ -7,13 +7,19 @@
 		"sections":
 		[
         {
-            "section": "Title Dio [0x1836B0 - 0x18381f]",
+            "section": "Title Dio",
             "pointers_start": 1586864,
-            "pointers_end": 1587232,
+            "pointers_end": 1587055,
+            "style": "P"
+        },
+		{
+            "section": "Title Mel",
+            "pointers_start": 1587056,
+            "pointers_end": 1587231,
             "style": "P"
         },
         {
-            "section": "Title Mel [0x183830 - 0x183897]",
+            "section": "Title Couleur",
             "pointers_start": 1587248,
             "pointers_end": 1587352,
             "style": "P"
