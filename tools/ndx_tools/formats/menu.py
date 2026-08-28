@@ -206,7 +206,7 @@ class Menu:
 
         destination_path.parent.mkdir(parents=True, exist_ok=True)
         shutil.copy(self.file_path, destination_path)
-        pools = self.get_pools2()
+        pools = self.get_pools()
 
         with open(destination_path, "r+b") as f:
 
@@ -260,21 +260,7 @@ class Menu:
                 f.seek(off)
                 f.write(struct.pack('<I', virt_pos))
 
-
     def get_pools(self):
-        pools: list[list[int]] = []
-        for sect in self.menu_sections:
-            name = sect.name
-            size = sect.text_areas[1] - sect.text_areas[0]
-
-            if name in "Title Dio":
-                p = [sect.text_areas[0], size]
-                pools.append(p)
-
-        pools.sort(key=lambda x: x[1])
-        return pools
-
-    def get_pools2(self):
         sheet_id = "15iwB_zRS86ovL7z25QYzVpM1cTO0b1a7IRzKaYOAxhM"
         gid = "418814154"
 
