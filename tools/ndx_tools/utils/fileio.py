@@ -1,8 +1,6 @@
-import io
 import struct
-from io import BytesIO
 from pathlib import Path
-from typing import Any
+from typing import Any, cast
 
 
 class FileIO:
@@ -17,16 +15,23 @@ class FileIO:
     _f64 = struct.Struct("<d")
     _f32 = struct.Struct("<f")
 
-    def __init__(self, path: Path | bytes, mode="r+b"):
+    __slots__ = ("data", "mode", "offset", "path", "written")
+
+    def __init__(self, path: Path | str | bytes, mode="r+b"):
         self.mode: str = mode
         self.offset: int = 0
-        self.path: Path = path
+        self.path: Path | bytes | None = None
         self.written = False
+
         if type(path) is bytes:
             self.path = None
             self.data = bytearray(path)
-        elif path.exists():
-            self.data = bytearray(path.read_bytes())
+        elif isinstance(path, (str, Path)):
+            self.path = Path(path)
+            if self.path.exists():
+                self.data = bytearray(self.path.read_bytes())
+            else:
+                raise ValueError("File does not exist")
         else:
             self.data = bytearray()
 
@@ -37,7 +42,7 @@ class FileIO:
         self.close()
 
     def close(self):
-        if self.path and self.written:
+        if isinstance(self.path, Path) and self.written:
             self.path.write_bytes(self.data)
 
     def get_buffer(self):
@@ -71,7 +76,7 @@ class FileIO:
             data = self.data[self.offset:self.offset+n]
             self.offset += n
 
-        return data
+        return bytes(data)
 
     def read_at(self, pos, n=-1):
         current = self.tell()
@@ -103,6 +108,20 @@ class FileIO:
         self.write(data.encode(encoding))
         self.write(b"\n")
 
+    def read_string(self, encoding: str = "utf8", pos: int = -1) -> str:
+        _pos = self.offset if pos < 0 else pos
+
+        end = self.data.find(0, _pos)
+        if end == -1:
+            raise ValueError("Unterminated string")
+
+        raw = self.data[_pos:end]
+
+        if pos < 0:
+            self.offset = end + 1  # skip NUL
+
+        return raw.decode(encoding)
+
     def _read_generic(self, _s: struct.Struct, pos: int = -1) -> tuple[Any, ...]:
         _pos = self.offset if pos < 0 else pos
         val = _s.unpack_from(self.data, _pos)
@@ -111,7 +130,7 @@ class FileIO:
         return val
 
     def read_struct(self, fmt: str, pos: int = -1) -> tuple[Any, ...]:
-        st = struct.Struct(fmt)
+        st = struct.Struct(fmt) if type(fmt) is str else cast(struct.Struct, fmt)
         return self._read_generic(st, pos)
 
     def read_int8(self, pos: int = -1):
@@ -182,9 +201,11 @@ class FileIO:
         st = struct.Struct(fmt)
         self.write(st.pack(*values), pos)
 
-    def write_padding(self, alignment, pad_byte=b"\x00"):
+    def write_padding(self, alignment, pad_byte=b"\x00") -> int:
         pos = self.tell()
         pad = (-pos) % alignment
 
         if pad:
             self.write(pad_byte * pad)
+
+        return pad
