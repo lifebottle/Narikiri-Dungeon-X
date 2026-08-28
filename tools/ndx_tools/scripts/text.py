@@ -25,13 +25,14 @@ def process_arguments(args: argparse.Namespace):
         try:
             bt = bytes.fromhex(args.decode) + b"\x00"
         except ValueError:
+            print("Couldn't interpret the input as a hex string!")
             sys.exit(-1)
 
-        with FileIO(bt) as f:
-            v = string.bytes_to_text(f)
+        v = string.bytes_to_text(bt)
         print(v)
-    # elif args.encode is not None:
-    #     print(string.text_to_bytes(f))
+    elif args.encode is not None:
+        bt = string.text_to_bytes(args.encode)
+        print(" ".join([f"{x:02X}" for x in bt]))
 
 def add_subparser(subparser: argparse._SubParsersAction):
     parser = subparser.add_parser(
