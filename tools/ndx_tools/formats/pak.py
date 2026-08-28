@@ -1,3 +1,4 @@
+import itertools
 import struct
 from typing import Self
 
@@ -46,7 +47,7 @@ class Pak:
                     offsets.append(f.read_uint32())
                 f.seek(0, 2)
                 offsets.append(f.tell())
-                for i, j in zip(offsets[::1], offsets[1::1]):
+                for i, j in itertools.pairwise(offsets):
                     sizes.append(j - i)
                 for offset, size in zip(offsets, sizes):
                     f.seek(offset)
@@ -122,9 +123,7 @@ class Pak:
             raise ValueError("Trying to compose an invalid PAK type")
 
         # Collect blobs
-        blobs = []
-        for blob in self.files:
-            blobs.append(blob)
+        blobs = self.files.copy()
 
         # Compose
         out = struct.pack("<I", len(self.files))
@@ -140,7 +139,7 @@ class Pak:
             if self.align:
                 offset = (offset + 0xF) & ~0xF
 
-            for i, j in zip(sizes[::1], sizes[1::1]):
+            for i, j in itertools.pairwise(sizes):
                 if self.align:
                     i = (i + 0xF) & ~0xF
                 out += struct.pack("<I", offset + i)

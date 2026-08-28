@@ -1,11 +1,9 @@
 import argparse
 import sys
-from pathlib import Path
 
-import ndx_tools.utils.string as string
-from ndx_tools.utils.fileio import FileIO
+from ndx_tools.utils import string
 
-__SCRIPT_CMD = "Text"
+__SCRIPT_CMD = "string"
 __SCRIPT_DESC = "String tools"
 
 
@@ -36,7 +34,7 @@ def process_arguments(args: argparse.Namespace):
 
 def add_subparser(subparser: argparse._SubParsersAction):
     parser = subparser.add_parser(
-        "string", help=__SCRIPT_DESC, description=__SCRIPT_DESC
+        __SCRIPT_CMD, help=__SCRIPT_DESC, description=__SCRIPT_DESC
     )
     add_arguments_to_parser(parser)
     parser.set_defaults(func=process_arguments)
