@@ -1,12 +1,52 @@
-<MenuText>
+<SceneText>
   <Strings>
     <Section>Shop</Section>
     <Entry>
-      <PointerOffset>504,628</PointerOffset>
+      <PointerOffset>8</PointerOffset>
+      <JapaneseText>道具屋 天地無用</JapaneseText>
+      <EnglishText>Tool Shop Tenchi Muyo</EnglishText>
+      <Notes>Needs TL check</Notes>
+      <Id>1</Id>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>132</PointerOffset>
+      <JapaneseText>食材屋 サーロイン</JapaneseText>
+      <EnglishText>Food Shop Sirloins</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>256</PointerOffset>
+      <JapaneseText>武器屋 ガーリック</JapaneseText>
+      <EnglishText>Arms Shop Garlic</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>380</PointerOffset>
+      <JapaneseText>道具屋 スパイシー</JapaneseText>
+      <EnglishText>Tool Shop Spicy</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>504</PointerOffset>
       <JapaneseText>武器屋 ビショップ</JapaneseText>
       <EnglishText>Weapons Shop Bishop</EnglishText>
       <Notes/>
-      <Id>5029</Id>
+      <Id>5</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>628</PointerOffset>
+      <JapaneseText>武器屋 ビショップ</JapaneseText>
+      <EnglishText>Weapons Shop Bishop</EnglishText>
+      <Notes/>
+      <Id>6</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -14,7 +54,7 @@
       <JapaneseText>道具屋 猫目</JapaneseText>
       <EnglishText>Tool Shop Cat's Eye</EnglishText>
       <Notes/>
-      <Id>5030</Id>
+      <Id>7</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -22,15 +62,23 @@
       <JapaneseText>食材屋 ベジット</JapaneseText>
       <EnglishText>Food Shop Veggito's</EnglishText>
       <Notes/>
-      <Id>5031</Id>
+      <Id>8</Id>
       <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1000</PointerOffset>
+      <JapaneseText>道具屋 天地無用</JapaneseText>
+      <EnglishText>Tool Shop Tenchi Muyo</EnglishText>
+      <Notes>Needs TL check</Notes>
+      <Id>9</Id>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>1124</PointerOffset>
       <JapaneseText>武器屋 ティーゼル</JapaneseText>
       <EnglishText>Arms Shop Teasel</EnglishText>
       <Notes>idk if Teasel is correct</Notes>
-      <Id>5032</Id>
+      <Id>10</Id>
       <Status>Problematic</Status>
     </Entry>
     <Entry>
@@ -38,7 +86,7 @@
       <JapaneseText>雑貨屋 ゴーリ１号店</JapaneseText>
       <EnglishText>General Store Gori No. 1</EnglishText>
       <Notes/>
-      <Id>5033</Id>
+      <Id>11</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -46,7 +94,7 @@
       <JapaneseText>雑貨屋 ゴーリ２号店</JapaneseText>
       <EnglishText>General Store Gori No. 2</EnglishText>
       <Notes/>
-      <Id>5034</Id>
+      <Id>12</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -54,15 +102,23 @@
       <JapaneseText>食材屋 マリオン</JapaneseText>
       <EnglishText>Food Shop Marion</EnglishText>
       <Notes/>
-      <Id>5035</Id>
+      <Id>13</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>3976,3108,1620</PointerOffset>
+      <PointerOffset>1620</PointerOffset>
       <JapaneseText>武器屋 ホーリーナイトⅠ</JapaneseText>
       <EnglishText>Weapons Shop Holy Night I</EnglishText>
       <Notes/>
-      <Id>5036</Id>
+      <Id>14</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1744</PointerOffset>
+      <JapaneseText>武器屋 ホーリーナイトⅡ</JapaneseText>
+      <EnglishText>Weapons Shop Holy Knight II</EnglishText>
+      <Notes/>
+      <Id>15</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -70,15 +126,47 @@
       <JapaneseText>道具屋 ベイビー</JapaneseText>
       <EnglishText>Tool Shop Baby</EnglishText>
       <Notes/>
-      <Id>5037</Id>
+      <Id>16</Id>
       <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1992</PointerOffset>
+      <JapaneseText>食材屋 サーロイン</JapaneseText>
+      <EnglishText>Food Shop Sirloins</EnglishText>
+      <Notes/>
+      <Id>17</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2116</PointerOffset>
+      <JapaneseText>武器屋 ガーリック</JapaneseText>
+      <EnglishText>Arms Shop Garlic</EnglishText>
+      <Notes/>
+      <Id>18</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2240</PointerOffset>
+      <JapaneseText>道具屋 スパイシー</JapaneseText>
+      <EnglishText>Tool Shop Spicy</EnglishText>
+      <Notes/>
+      <Id>19</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2364</PointerOffset>
+      <JapaneseText>道具屋 天地無用</JapaneseText>
+      <EnglishText>Tool Shop Tenchi Muyo</EnglishText>
+      <Notes>Needs TL check</Notes>
+      <Id>20</Id>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>2488</PointerOffset>
       <JapaneseText>よろず屋 くりきんとん壱</JapaneseText>
       <EnglishText>General Store Chestnut Balls 1</EnglishText>
       <Notes/>
-      <Id>5038</Id>
+      <Id>21</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -86,7 +174,7 @@
       <JapaneseText>よろず屋 くりきんとん弐</JapaneseText>
       <EnglishText>General Store Chestnut Balls 2</EnglishText>
       <Notes/>
-      <Id>5039</Id>
+      <Id>22</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -94,47 +182,103 @@
       <JapaneseText>よろず屋 くりきんとん参</JapaneseText>
       <EnglishText>General Store Chestnut Balls 3</EnglishText>
       <Notes/>
-      <Id>5040</Id>
+      <Id>23</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>4224,3356</PointerOffset>
-      <JapaneseText>道具屋 ほっかむり</JapaneseText>
-      <EnglishText>Tool Shop Dusty</EnglishText>
-      <Notes/>
-      <Id>5041</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>132,4596,1992,3480</PointerOffset>
-      <JapaneseText>食材屋 サーロイン</JapaneseText>
-      <EnglishText>Food Shop Sirloins</EnglishText>
-      <Notes/>
-      <Id>5042</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>380,4844,2240,3728</PointerOffset>
-      <JapaneseText>道具屋 スパイシー</JapaneseText>
-      <EnglishText>Tool Shop Spicy</EnglishText>
-      <Notes/>
-      <Id>5043</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>2984,3852</PointerOffset>
-      <JapaneseText>食材屋 あじおう</JapaneseText>
-      <EnglishText>Food Shop Ajiro</EnglishText>
+      <PointerOffset>2860</PointerOffset>
+      <JapaneseText>道具屋 天地無用</JapaneseText>
+      <EnglishText>Tool Shop Tenchi Muyo</EnglishText>
       <Notes>Needs TL check</Notes>
-      <Id>5044</Id>
+      <Id>24</Id>
       <Status>Problematic</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1744,3232,4100</PointerOffset>
+      <PointerOffset>2984</PointerOffset>
+      <JapaneseText>食材屋 あじおう</JapaneseText>
+      <EnglishText>Food Shop Ajiro</EnglishText>
+      <Notes>Needs TL check</Notes>
+      <Id>25</Id>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3108</PointerOffset>
+      <JapaneseText>武器屋 ホーリーナイトⅠ</JapaneseText>
+      <EnglishText>Weapons Shop Holy Night I</EnglishText>
+      <Notes/>
+      <Id>26</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3232</PointerOffset>
       <JapaneseText>武器屋 ホーリーナイトⅡ</JapaneseText>
       <EnglishText>Weapons Shop Holy Knight II</EnglishText>
       <Notes/>
-      <Id>5045</Id>
+      <Id>27</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3356</PointerOffset>
+      <JapaneseText>道具屋 ほっかむり</JapaneseText>
+      <EnglishText>Tool Shop Dusty</EnglishText>
+      <Notes/>
+      <Id>28</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3480</PointerOffset>
+      <JapaneseText>食材屋 サーロイン</JapaneseText>
+      <EnglishText>Food Shop Sirloins</EnglishText>
+      <Notes/>
+      <Id>29</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3604</PointerOffset>
+      <JapaneseText>武器屋 ガーリック</JapaneseText>
+      <EnglishText>Arms Shop Garlic</EnglishText>
+      <Notes/>
+      <Id>30</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3728</PointerOffset>
+      <JapaneseText>道具屋 スパイシー</JapaneseText>
+      <EnglishText>Tool Shop Spicy</EnglishText>
+      <Notes/>
+      <Id>31</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3852</PointerOffset>
+      <JapaneseText>食材屋 あじおう</JapaneseText>
+      <EnglishText>Food Shop Ajiro</EnglishText>
+      <Notes>Needs TL check</Notes>
+      <Id>32</Id>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3976</PointerOffset>
+      <JapaneseText>武器屋 ホーリーナイトⅠ</JapaneseText>
+      <EnglishText>Weapons Shop Holy Night I</EnglishText>
+      <Notes/>
+      <Id>33</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4100</PointerOffset>
+      <JapaneseText>武器屋 ホーリーナイトⅡ</JapaneseText>
+      <EnglishText>Weapons Shop Holy Knight II</EnglishText>
+      <Notes/>
+      <Id>34</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4224</PointerOffset>
+      <JapaneseText>道具屋 ほっかむり</JapaneseText>
+      <EnglishText>Tool Shop Dusty</EnglishText>
+      <Notes/>
+      <Id>35</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -142,24 +286,35 @@
       <JapaneseText>行商人</JapaneseText>
       <EnglishText>Peddler</EnglishText>
       <Notes/>
-      <Id>5046</Id>
+      <Id>36</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2860,2364,1000,8,4472</PointerOffset>
+      <PointerOffset>4472</PointerOffset>
       <JapaneseText>道具屋 天地無用</JapaneseText>
       <EnglishText>Tool Shop Tenchi Muyo</EnglishText>
       <Notes>Needs TL check</Notes>
-      <Id>5047</Id>
+      <Id>37</Id>
       <Status>Problematic</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2116,3604,256,4720</PointerOffset>
+      <PointerOffset>4596</PointerOffset>
+      <JapaneseText>食材屋 サーロイン</JapaneseText>
+      <EnglishText>Food Shop Sirloins</EnglishText>
+      <Notes/>
+      <Id>38</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4720</PointerOffset>
       <JapaneseText>武器屋 ガーリック</JapaneseText>
       <EnglishText>Arms Shop Garlic</EnglishText>
       <Notes/>
-      <Id>5048</Id>
+      <Id>39</Id>
       <Status>Editing</Status>
     </Entry>
   </Strings>
-</MenuText>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

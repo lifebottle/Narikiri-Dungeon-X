@@ -3,12 +3,12 @@
   <Strings>
     <Section>Costume Menu UI</Section>
     <Entry>
-      <PointerOffset>1796624</PointerOffset>
+      <PointerOffset>1796624,1796720</PointerOffset>
       <JapaneseText>なりきり士</JapaneseText>
       <EnglishText>Roleplayer</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
       <PointerOffset>1796628</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>Sword</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
       <PointerOffset>1796632</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>Blade</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
       <PointerOffset>1796636</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>Axe</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
       <PointerOffset>1796640</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>Spear</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
       <PointerOffset>1796644</PointerOffset>
@@ -48,7 +48,7 @@
       <EnglishText>Thief</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
       <PointerOffset>1796648</PointerOffset>
@@ -56,7 +56,7 @@
       <EnglishText>Ninja</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
       <PointerOffset>1796652</PointerOffset>
@@ -64,7 +64,7 @@
       <EnglishText>Bow</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
       <PointerOffset>1796656</PointerOffset>
@@ -72,7 +72,7 @@
       <EnglishText>Gun</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
       <PointerOffset>1796660</PointerOffset>
@@ -80,7 +80,7 @@
       <EnglishText>Beast</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
       <PointerOffset>1796664</PointerOffset>
@@ -88,310 +88,102 @@
       <EnglishText>Spirit</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1796668</PointerOffset>
+      <PointerOffset>1796668,1796672,1796676,1796680,1796684,1796688,1796692,1796696,1796700,1796704,1796708,1796712,1796716,1796764,1796768,1796772,1796776,1796780,1796784,1796788,1796792,1796796,1796800,1796804,1796808,1796812</PointerOffset>
       <JapaneseText>特殊</JapaneseText>
       <EnglishText>Special</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>1796672</PointerOffset>
-      <JapaneseText>特殊</JapaneseText>
-      <EnglishText>Special</EnglishText>
-      <Notes/>
-      <Id>13</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>1796676</PointerOffset>
-      <JapaneseText>特殊</JapaneseText>
-      <EnglishText>Special</EnglishText>
-      <Notes/>
-      <Id>14</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>1796680</PointerOffset>
-      <JapaneseText>特殊</JapaneseText>
-      <EnglishText>Special</EnglishText>
-      <Notes/>
-      <Id>15</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>1796684</PointerOffset>
-      <JapaneseText>特殊</JapaneseText>
-      <EnglishText>Special</EnglishText>
-      <Notes/>
-      <Id>16</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>1796688</PointerOffset>
-      <JapaneseText>特殊</JapaneseText>
-      <EnglishText>Special</EnglishText>
-      <Notes/>
-      <Id>17</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>1796692</PointerOffset>
-      <JapaneseText>特殊</JapaneseText>
-      <EnglishText>Special</EnglishText>
-      <Notes/>
-      <Id>18</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>1796696</PointerOffset>
-      <JapaneseText>特殊</JapaneseText>
-      <EnglishText>Special</EnglishText>
-      <Notes/>
-      <Id>19</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>1796700</PointerOffset>
-      <JapaneseText>特殊</JapaneseText>
-      <EnglishText>Special</EnglishText>
-      <Notes/>
-      <Id>20</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>1796704</PointerOffset>
-      <JapaneseText>特殊</JapaneseText>
-      <EnglishText>Special</EnglishText>
-      <Notes/>
-      <Id>21</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>1796708</PointerOffset>
-      <JapaneseText>特殊</JapaneseText>
-      <EnglishText>Special</EnglishText>
-      <Notes/>
-      <Id>22</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>1796712</PointerOffset>
-      <JapaneseText>特殊</JapaneseText>
-      <EnglishText>Special</EnglishText>
-      <Notes/>
-      <Id>23</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>1796716</PointerOffset>
-      <JapaneseText>特殊</JapaneseText>
-      <EnglishText>Special</EnglishText>
-      <Notes/>
-      <Id>24</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>1796720</PointerOffset>
-      <JapaneseText>なりきり士</JapaneseText>
-      <EnglishText>Roleplayer</EnglishText>
-      <Notes/>
-      <Id>25</Id>
-      <Status>Editing</Status>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
       <PointerOffset>1796724</PointerOffset>
       <JapaneseText>妖剣系</JapaneseText>
       <EnglishText>Spirit Sword</EnglishText>
       <Notes/>
-      <Id>26</Id>
-      <Status>Editing</Status>
+      <Id>13</Id>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
       <PointerOffset>1796728</PointerOffset>
       <JapaneseText>騎士系</JapaneseText>
       <EnglishText>Knight</EnglishText>
       <Notes/>
-      <Id>27</Id>
-      <Status>Editing</Status>
+      <Id>14</Id>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
       <PointerOffset>1796732</PointerOffset>
       <JapaneseText>魔術系</JapaneseText>
       <EnglishText>Magician</EnglishText>
       <Notes/>
-      <Id>28</Id>
-      <Status>Editing</Status>
+      <Id>15</Id>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
       <PointerOffset>1796736</PointerOffset>
       <JapaneseText>賢術系</JapaneseText>
       <EnglishText>Sage</EnglishText>
       <Notes/>
-      <Id>29</Id>
-      <Status>Editing</Status>
+      <Id>16</Id>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
       <PointerOffset>1796740</PointerOffset>
       <JapaneseText>拳闘系</JapaneseText>
       <EnglishText>Punch</EnglishText>
       <Notes/>
-      <Id>30</Id>
-      <Status>Editing</Status>
+      <Id>17</Id>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
       <PointerOffset>1796744</PointerOffset>
       <JapaneseText>蹴撃系</JapaneseText>
       <EnglishText>Kick</EnglishText>
       <Notes/>
-      <Id>31</Id>
-      <Status>Editing</Status>
+      <Id>18</Id>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
       <PointerOffset>1796748</PointerOffset>
       <JapaneseText>詩人系</JapaneseText>
       <EnglishText>Bard</EnglishText>
       <Notes/>
-      <Id>32</Id>
-      <Status>Editing</Status>
+      <Id>19</Id>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
       <PointerOffset>1796752</PointerOffset>
       <JapaneseText>法術系</JapaneseText>
       <EnglishText>Mage</EnglishText>
       <Notes/>
-      <Id>33</Id>
-      <Status>Editing</Status>
+      <Id>20</Id>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
       <PointerOffset>1796756</PointerOffset>
       <JapaneseText>獣斧系</JapaneseText>
       <EnglishText>Axe</EnglishText>
       <Notes/>
-      <Id>34</Id>
-      <Status>Editing</Status>
+      <Id>21</Id>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
       <PointerOffset>1796760</PointerOffset>
       <JapaneseText>旋槍系</JapaneseText>
       <EnglishText>Spinning Lance</EnglishText>
       <Notes/>
-      <Id>35</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>1796764</PointerOffset>
-      <JapaneseText>特殊</JapaneseText>
-      <EnglishText>Special</EnglishText>
-      <Notes/>
-      <Id>36</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>1796768</PointerOffset>
-      <JapaneseText>特殊</JapaneseText>
-      <EnglishText>Special</EnglishText>
-      <Notes/>
-      <Id>37</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>1796772</PointerOffset>
-      <JapaneseText>特殊</JapaneseText>
-      <EnglishText>Special</EnglishText>
-      <Notes/>
-      <Id>38</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>1796776</PointerOffset>
-      <JapaneseText>特殊</JapaneseText>
-      <EnglishText>Special</EnglishText>
-      <Notes/>
-      <Id>39</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>1796780</PointerOffset>
-      <JapaneseText>特殊</JapaneseText>
-      <EnglishText>Special</EnglishText>
-      <Notes/>
-      <Id>40</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>1796784</PointerOffset>
-      <JapaneseText>特殊</JapaneseText>
-      <EnglishText>Special</EnglishText>
-      <Notes/>
-      <Id>41</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>1796788</PointerOffset>
-      <JapaneseText>特殊</JapaneseText>
-      <EnglishText>Special</EnglishText>
-      <Notes/>
-      <Id>42</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>1796792</PointerOffset>
-      <JapaneseText>特殊</JapaneseText>
-      <EnglishText>Special</EnglishText>
-      <Notes/>
-      <Id>43</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>1796796</PointerOffset>
-      <JapaneseText>特殊</JapaneseText>
-      <EnglishText>Special</EnglishText>
-      <Notes/>
-      <Id>44</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>1796800</PointerOffset>
-      <JapaneseText>特殊</JapaneseText>
-      <EnglishText>Special</EnglishText>
-      <Notes/>
-      <Id>45</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>1796804</PointerOffset>
-      <JapaneseText>特殊</JapaneseText>
-      <EnglishText>Special</EnglishText>
-      <Notes/>
-      <Id>46</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>1796808</PointerOffset>
-      <JapaneseText>特殊</JapaneseText>
-      <EnglishText>Special</EnglishText>
-      <Notes/>
-      <Id>47</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>1796812</PointerOffset>
-      <JapaneseText>特殊</JapaneseText>
-      <EnglishText>Special</EnglishText>
-      <Notes/>
-      <Id>48</Id>
-      <Status>Editing</Status>
+      <Id>22</Id>
+      <Status>Edited</Status>
     </Entry>
     <Entry>
       <PointerOffset>1796816</PointerOffset>
       <JapaneseText>クルール</JapaneseText>
       <EnglishText>Couleur</EnglishText>
       <Notes/>
-      <Id>49</Id>
+      <Id>23</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -399,7 +191,7 @@
       <JapaneseText>クレス</JapaneseText>
       <EnglishText>Cless</EnglishText>
       <Notes/>
-      <Id>50</Id>
+      <Id>24</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -407,7 +199,7 @@
       <JapaneseText>ミント</JapaneseText>
       <EnglishText>Mint</EnglishText>
       <Notes/>
-      <Id>51</Id>
+      <Id>25</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -415,7 +207,7 @@
       <JapaneseText>チェスター</JapaneseText>
       <EnglishText>Chester</EnglishText>
       <Notes/>
-      <Id>52</Id>
+      <Id>26</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -423,7 +215,7 @@
       <JapaneseText>アーチェ</JapaneseText>
       <EnglishText>Arche</EnglishText>
       <Notes/>
-      <Id>53</Id>
+      <Id>27</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -431,7 +223,7 @@
       <JapaneseText>クラース</JapaneseText>
       <EnglishText>Klarth</EnglishText>
       <Notes/>
-      <Id>54</Id>
+      <Id>28</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -439,7 +231,7 @@
       <JapaneseText>すず</JapaneseText>
       <EnglishText>Suzu</EnglishText>
       <Notes/>
-      <Id>55</Id>
+      <Id>29</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -447,7 +239,7 @@
       <JapaneseText>フリーダ</JapaneseText>
       <EnglishText>Freida</EnglishText>
       <Notes>Original rondoline name before it was changed</Notes>
-      <Id>56</Id>
+      <Id>30</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -455,7 +247,7 @@
       <JapaneseText>モンスター</JapaneseText>
       <EnglishText>Monster</EnglishText>
       <Notes/>
-      <Id>57</Id>
+      <Id>31</Id>
       <Status>Done</Status>
     </Entry>
   </Strings>

@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <SceneText>
   <Strings>
-    <Section>Password Button</Section>
+    <Section>Skill Menu Button</Section>
     <Entry>
-      <PointerOffset>2091040</PointerOffset>
+      <PointerOffset>2092696</PointerOffset>
       <JapaneseText>戻る</JapaneseText>
       <EnglishText>Back</EnglishText>
       <Notes/>
@@ -11,15 +11,15 @@
       <Status>Done</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2091052</PointerOffset>
-      <JapaneseText>決定</JapaneseText>
-      <EnglishText>Confirm</EnglishText>
+      <PointerOffset>2092708</PointerOffset>
+      <JapaneseText>スキル設定ON/OFF</JapaneseText>
+      <EnglishText>Turn Skills On/Off</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2091064</PointerOffset>
+      <PointerOffset>2092720</PointerOffset>
       <JapaneseText>選択</JapaneseText>
       <EnglishText>Select</EnglishText>
       <Notes/>
@@ -27,12 +27,12 @@
       <Status>Done</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2091076</PointerOffset>
-      <JapaneseText>一個消す</JapaneseText>
-      <EnglishText>Erase One</EnglishText>
+      <PointerOffset>2092732</PointerOffset>
+      <JapaneseText>キャラ変更</JapaneseText>
+      <EnglishText>Change Character</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Edited</Status>
+      <Status>Done</Status>
     </Entry>
   </Strings>
   <Strings>
