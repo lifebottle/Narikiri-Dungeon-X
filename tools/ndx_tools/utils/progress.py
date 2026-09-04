@@ -1,11 +1,8 @@
+import warnings
+
 from loguru import logger
 from rich.console import Console
 from rich.text import Text
-from tqdm.rich import tqdm
-
-import time
-
-import warnings
 from tqdm import TqdmExperimentalWarning
 
 warnings.filterwarnings("ignore", category=TqdmExperimentalWarning)

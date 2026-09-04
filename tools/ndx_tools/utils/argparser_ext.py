@@ -22,7 +22,7 @@ class _SubParsersAction(argparse._SubParsersAction):
     class _PseudoGroup(argparse.Action):
 
         def __init__(self, container, title):
-            sup = super(_SubParsersAction._PseudoGroup, self)
+            sup = super()
             sup.__init__(option_strings=[], dest=title)
             self.container = container
             self._choices_actions = []
