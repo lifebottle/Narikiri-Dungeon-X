@@ -1,7 +1,6 @@
-import io
 import struct
-from io import BytesIO
 from pathlib import Path
+from typing import Any, cast
 
 
 class FileIO:
@@ -15,24 +14,36 @@ class FileIO:
     _uint8 = struct.Struct("<B")
     _f64 = struct.Struct("<d")
     _f32 = struct.Struct("<f")
-    def __init__(self, path: Path | bytes, mode="r+b"):
+
+    __slots__ = ("data", "mode", "offset", "path", "written")
+
+    def __init__(self, path: Path | str | bytes, mode="r+b"):
         self.mode: str = mode
         self.offset: int = 0
-        self._isBitesIO = False
+        self.path: Path | bytes | None = None
+        self.written = False
+
         if type(path) is bytes:
             self.path = None
             self.data = bytearray(path)
+        elif isinstance(path, (str, Path)):
+            self.path = Path(path)
+            if self.path.exists():
+                self.data = bytearray(self.path.read_bytes())
+            else:
+                raise ValueError("File does not exist")
         else:
-            self.data = bytearray(path.read_bytes())
+            self.data = bytearray()
 
     def __enter__(self):
         return self
 
     def __exit__(self, exc_type, exc_value, traceback):
-        pass
+        self.close()
 
     def close(self):
-        pass
+        if isinstance(self.path, Path) and self.written:
+            self.path.write_bytes(self.data)
 
     def get_buffer(self):
         return self.data
@@ -65,7 +76,7 @@ class FileIO:
             data = self.data[self.offset:self.offset+n]
             self.offset += n
 
-        return data
+        return bytes(data)
 
     def read_at(self, pos, n=-1):
         current = self.tell()
@@ -74,14 +85,18 @@ class FileIO:
         self.seek(current)
         return ret
 
-    def write(self, data):
-        self.f.write(data)
+    def write(self, data: bytes, pos: int = -1):
+        _pos = self.offset if pos < 0 else pos
+        end = _pos + len(data)
 
-    def write_at(self, pos, data):
-        current = self.tell()
-        self.seek(pos)
-        self.write(data)
-        self.seek(current)
+        if end > len(self.data):
+            self.data.extend(b"\x00" * (end - len(self.data)))
+
+        self.data[_pos:end] = data
+        self.written = True
+
+        if pos < 0:
+            self.offset = end
 
     def peek(self, n):
         pos = self.tell()
@@ -89,184 +104,108 @@ class FileIO:
         self.seek(pos)
         return ret
 
-    def write_line(self, data):
-        self.f.write(data + "\n")
+    def write_line(self, data: str, encoding: str = "utf8"):
+        self.write(data.encode(encoding))
+        self.write(b"\n")
 
-    def read_int8(self):
-        val = self._sint8.unpack_from(self.data, self.offset)[0]
-        self.offset += 1
+    def read_string(self, encoding: str = "utf8", pos: int = -1) -> str:
+        _pos = self.offset if pos < 0 else pos
+
+        end = self.data.find(0, _pos)
+        if end == -1:
+            raise ValueError("Unterminated string")
+
+        raw = self.data[_pos:end]
+
+        if pos < 0:
+            self.offset = end + 1  # skip NUL
+
+        return raw.decode(encoding)
+
+    def _read_generic(self, _s: struct.Struct, pos: int = -1) -> tuple[Any, ...]:
+        _pos = self.offset if pos < 0 else pos
+        val = _s.unpack_from(self.data, _pos)
+        if pos < 0:
+            self.offset += _s.size
         return val
 
-    def read_int8_at(self, pos):
-        return self._sint8.unpack_from(self.data, pos)[0]
+    def read_struct(self, fmt: str, pos: int = -1) -> tuple[Any, ...]:
+        st = struct.Struct(fmt) if type(fmt) is str else cast(struct.Struct, fmt)
+        return self._read_generic(st, pos)
 
-    def read_uint8(self):
-        val = self._uint8.unpack_from(self.data, self.offset)[0]
-        self.offset += 1
-        return val
+    def read_int8(self, pos: int = -1):
+        return self._read_generic(self._sint8, pos)[0]
 
-    def read_uint8_at(self, pos):
-        return self._uint8.unpack_from(self.data, pos)[0]
+    def read_uint8(self, pos: int = -1):
+        return self._read_generic(self._uint8, pos)[0]
 
-    def read_int16(self):
-        val = self._sint16.unpack_from(self.data, self.offset)[0]
-        self.offset += 2
-        return val
+    def read_int16(self, pos: int = -1):
+        return self._read_generic(self._sint16, pos)[0]
 
-    def read_int16_at(self, pos):
-        return self._sint16.unpack_from(self.data, pos)[0]
+    def read_uint16(self, pos: int = -1):
+        return self._read_generic(self._uint16, pos)[0]
 
-    def read_uint16(self):
-        val = self._uint16.unpack_from(self.data, self.offset)[0]
-        self.offset += 2
-        return val
+    def read_int32(self, pos: int = -1):
+        return self._read_generic(self._sint32, pos)[0]
 
-    def read_uint16_at(self, pos):
-        return self._uint16.unpack_from(self.data, pos)[0]
+    def read_uint32(self, pos: int = -1):
+        return self._read_generic(self._uint32, pos)[0]
 
-    def read_int32(self):
-        val = self._sint32.unpack_from(self.data, self.offset)[0]
-        self.offset += 4
-        return val
+    def read_int64(self, pos: int = -1):
+        return self._read_generic(self._sint64, pos)[0]
 
-    def read_int32_at(self, pos):
-        return self._sint32.unpack_from(self.data, pos)[0]
+    def read_uint64(self, pos: int = -1):
+        return self._read_generic(self._uint64, pos)[0]
 
-    def read_uint32(self):
-        val = self._uint32.unpack_from(self.data, self.offset)[0]
-        self.offset += 4
-        return val
+    def read_float(self, pos: int = -1):
+        return self._read_generic(self._f32, pos)[0]
 
-    def read_uint32_at(self, pos):
-        return self._uint32.unpack_from(self.data, pos)[0]
-
-    def read_int64(self):
-        val = self._sint64.unpack_from(self.data, self.offset)[0]
-        self.offset += 8
-        return val
-
-    def read_int64_at(self, pos):
-        return self._sint64.unpack_from(self.data, pos)[0]
-
-    def read_uint64(self):
-        val = self._uint64.unpack_from(self.data, self.offset)[0]
-        self.offset += 8
-        return val
-
-    def read_uint64_at(self, pos):
-        return self._uint64.unpack_from(self.data, pos)[0]
-
-    def read_single(self):
-        val = self._f32.unpack_from(self.data, self.offset)[0]
-        self.offset += 4
-        return val
-
-    def read_single_at(self, pos):
-        return self._sint8.unpack_from(self.data, pos)[0]
-
-    def read_double(self):
-        val = self._f64.unpack_from(self.data, self.offset)[0]
-        self.offset += 8
-        return val
-
-    def read_double_at(self, pos):
-        return self._f64.unpack_from(self.data, pos)[0]
+    def read_double(self, pos: int = -1):
+        return self._read_generic(self._f64, pos)[0]
 
     def skip_padding(self, alignment):
         while self.tell() % alignment != 0:
             self.read_uint8()
 
-    # Writing is disabled atm
-    # def write_int8(self, num):
-    #     self.f.write(struct.pack("b", num))
+    def write_int8(self, num: int, pos: int = -1):
+        self.write(self._sint8.pack(num), pos)
 
-    # def write_int8_at(self, pos, num):
-    #     current = self.tell()
-    #     self.seek(pos)
-    #     self.write_int8(num)
-    #     self.seek(current)
+    def write_uint8(self, num: int, pos: int = -1):
+        self.write(self._uint8.pack(num), pos)
 
-    # def write_uint8(self, num):
-    #     self.f.write(struct.pack("B", num))
+    def write_int16(self, num: int, pos: int = -1):
+        self.write(self._sint16.pack(num), pos)
 
-    # def write_uint8_at(self, pos, num):
-    #     current = self.tell()
-    #     self.seek(pos)
-    #     self.write_uint8(num)
-    #     self.seek(current)
+    def write_uint16(self, num: int, pos: int = -1):
+        self.write(self._uint16.pack(num), pos)
 
-    # def write_int16(self, num):
-    #     self.f.write(struct.pack("<h", num))
+    def write_int32(self, num: int, pos: int = -1):
+        self.write(self._sint32.pack(num), pos)
 
-    # def write_int16_at(self, pos, num):
-    #     current = self.tell()
-    #     self.seek(pos)
-    #     self.write_int16(num)
-    #     self.seek(current)
+    def write_uint32(self, num: int, pos: int = -1):
+        self.write(self._uint32.pack(num), pos)
 
-    # def write_uint16(self, num):
-    #     self.f.write(struct.pack("<H", num))
+    def write_int64(self, num: int, pos: int = -1):
+        self.write(self._sint64.pack(num), pos)
 
-    # def write_uint16_at(self, pos, num):
-    #     current = self.tell()
-    #     self.seek(pos)
-    #     self.write_uint16(num)
-    #     self.seek(current)
+    def write_uint64(self, num: int, pos: int = -1):
+        self.write(self._uint64.pack(num), pos)
 
-    # def write_int32(self, num):
-    #     self.f.write(struct.pack("<i", num))
+    def write_float(self, num: int, pos: int = -1):
+        self.write(self._f32.pack(num), pos)
 
-    # def write_int32_at(self, pos, num):
-    #     current = self.tell()
-    #     self.seek(pos)
-    #     self.write_int32(num)
-    #     self.seek(current)
+    def write_double(self, num: int, pos: int = -1):
+        self.write(self._f64.pack(num), pos)
 
-    # def write_uint32(self, num):
-    #     self.f.write(struct.pack("<I", num))
+    def write_struct(self, fmt: str, *values, pos: int = -1):
+        st = struct.Struct(fmt)
+        self.write(st.pack(*values), pos)
 
-    # def write_uint32_at(self, pos, num):
-    #     current = self.tell()
-    #     self.seek(pos)
-    #     self.write_uint32(num)
-    #     self.seek(current)
+    def write_padding(self, alignment, pad_byte=b"\x00") -> int:
+        pos = self.tell()
+        pad = (-pos) % alignment
 
-    # def write_int64(self, num):
-    #     self.f.write(struct.pack("<q", num))
+        if pad:
+            self.write(pad_byte * pad)
 
-    # def write_int64_at(self, pos, num):
-    #     current = self.tell()
-    #     self.seek(pos)
-    #     self.write_int64(num)
-    #     self.seek(current)
-
-    # def write_uint64(self, num):
-    #     self.f.write(struct.pack("<Q", num))
-
-    # def write_uint64_at(self, pos, num):
-    #     current = self.tell()
-    #     self.seek(pos)
-    #     self.write_uint64(num)
-    #     self.seek(current)
-
-    # def write_single(self, num):
-    #     self.f.write(struct.pack("<f", num))
-
-    # def write_single_at(self, pos, num):
-    #     current = self.tell()
-    #     self.seek(pos)
-    #     self.write_single(num)
-    #     self.seek(current)
-
-    # def write_double(self, num):
-    #     self.f.write(struct.pack("<d", num))
-
-    # def write_double_at(self, pos, num):
-    #     current = self.tell()
-    #     self.seek(pos)
-    #     self.write_double(num)
-    #     self.seek(current)
-
-    # def write_padding(self, alignment, pad_byte=0x00):
-    #     while self.tell() % alignment != 0:
-    #         self.write_uint8(pad_byte)
+        return pad
