@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Strings>
+    <Section>Equip Menu UI 2</Section>
+    <Entry>
+      <PointerOffset>2083800</PointerOffset>
+      <JapaneseText>HP</JapaneseText>
+      <EnglishText>HP</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2083804</PointerOffset>
+      <JapaneseText>EBG</JapaneseText>
+      <EnglishText>EBG</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2083808</PointerOffset>
+      <JapaneseText>物理攻撃</JapaneseText>
+      <EnglishText>P. Atk</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2083812</PointerOffset>
+      <JapaneseText>物理防御</JapaneseText>
+      <EnglishText>P. Def</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2083816</PointerOffset>
+      <JapaneseText>術攻撃</JapaneseText>
+      <EnglishText>M. Atk</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2083820</PointerOffset>
+      <JapaneseText>術防御</JapaneseText>
+      <EnglishText>M. Def</EnglishText>
+      <Notes/>
+      <Id>6</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2083824</PointerOffset>
+      <JapaneseText>詠唱速度</JapaneseText>
+      <EnglishText>Casting Speed</EnglishText>
+      <Notes/>
+      <Id>7</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2083828</PointerOffset>
+      <JapaneseText>敏捷性</JapaneseText>
+      <EnglishText>Agility</EnglishText>
+      <Notes/>
+      <Id>8</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2083832</PointerOffset>
+      <JapaneseText>幸運</JapaneseText>
+      <EnglishText>Luck</EnglishText>
+      <Notes/>
+      <Id>9</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Strings>
+    <Section>In Battle Promp</Section>
+    <Entry>
+      <PointerOffset>1785264</PointerOffset>
+      <JapaneseText>を盗んだ</JapaneseText>
+      <EnglishText>was stolen</EnglishText>
+      <Notes>might need to add a space before? X was stolen</Notes>
+      <Id>1</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1785268</PointerOffset>
+      <JapaneseText>盗めるアイテムは無い</JapaneseText>
+      <EnglishText>No item to steal</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1785272</PointerOffset>
+      <JapaneseText>GALD 盗んだ</JapaneseText>
+      <EnglishText>Gald was stolen</EnglishText>
+      <Notes>might need to add a space before? X Gald was stolen</Notes>
+      <Id>3</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1785276</PointerOffset>
+      <JapaneseText>盗めるGALDは無い</JapaneseText>
+      <EnglishText>No Gald to steal</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1785280</PointerOffset>
+      <JapaneseText>チェインパートナー解除</JapaneseText>
+      <EnglishText>Combo Partner Cancelled</EnglishText>
+      <Notes>Would need some input in game to see how it behave</Notes>
+      <Id>5</Id>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1785284</PointerOffset>
+      <JapaneseText>チェインパートナー不可能</JapaneseText>
+      <EnglishText>Combo Partner Not Possible</EnglishText>
+      <Notes>Would need some input in game to see how it behave</Notes>
+      <Id>6</Id>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1785288</PointerOffset>
+      <JapaneseText>疲れているようだ</JapaneseText>
+      <EnglishText>seems tired</EnglishText>
+      <Notes/>
+      <Id>7</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1785292</PointerOffset>
+      <JapaneseText>解析完了</JapaneseText>
+      <EnglishText>Analysis complete</EnglishText>
+      <Notes/>
+      <Id>8</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1785296</PointerOffset>
+      <JapaneseText>意思の疎通に失敗したようだ</JapaneseText>
+      <EnglishText>Failed to communicate</EnglishText>
+      <Notes/>
+      <Id>9</Id>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Strings>
+    <Section>Monster Book Button</Section>
+    <Entry>
+      <PointerOffset>2088460</PointerOffset>
+      <JapaneseText>戻る</JapaneseText>
+      <EnglishText>Back</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2088472</PointerOffset>
+      <JapaneseText>選択</JapaneseText>
+      <EnglishText>Select</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2088484</PointerOffset>
+      <JapaneseText>ページ切替</JapaneseText>
+      <EnglishText>Change Page</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2088496</PointerOffset>
+      <JapaneseText>種別変更</JapaneseText>
+      <EnglishText>Change Sorting Tab</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

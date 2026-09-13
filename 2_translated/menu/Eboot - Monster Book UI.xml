@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Strings>
+    <Section>Monster Book UI</Section>
+    <Entry>
+      <PointerOffset>2088344</PointerOffset>
+      <JapaneseText>名前</JapaneseText>
+      <EnglishText>Name</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2088348</PointerOffset>
+      <JapaneseText>種族</JapaneseText>
+      <EnglishText>Type</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2088352</PointerOffset>
+      <JapaneseText>出現場所</JapaneseText>
+      <EnglishText>Location</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

@@ -1,0 +1,1262 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Strings>
+    <Section>Medal</Section>
+    <Entry>
+      <PointerOffset>2091272</PointerOffset>
+      <JapaneseText>初めての着替え</JapaneseText>
+      <EnglishText>First Costume</EnglishText>
+      <Notes>Change into a costume other than that of Roleplayer</Notes>
+      <Id>1</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091276</PointerOffset>
+      <JapaneseText>なりきり士以外のコスチュームに着替えた証だ。
+今までと違う服装は、ちょっとドキドキで、ちょっとワクワクだなや</JapaneseText>
+      <EnglishText>Proof you changed into a costume other than your roleplayer outfit.
+Trying something new is a little exciting and a little nerve wracking.</EnglishText>
+      <Notes>Changed "thrilling" to "nerve-wracking" since exciting and thrilling are pretty synonymous, feels like it was going for both exciting/nervous sentiment.</Notes>
+      <Id>2</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091288</PointerOffset>
+      <JapaneseText>初めてのオーバーブレイブ</JapaneseText>
+      <EnglishText>First Over Brave</EnglishText>
+      <Notes>Activate Over Brave for the first time</Notes>
+      <Id>3</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091292</PointerOffset>
+      <JapaneseText>戦闘でオーバーブレイブモードを発動した証だ。
+今まで秘めていた、内なる力を解放させる事に成功しただーよ</JapaneseText>
+      <EnglishText>Proof you activated Overbrave mode in battle. 
+You succeeded in unleashing the hidden power within yourselves.</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091304</PointerOffset>
+      <JapaneseText>初めてのスキルゲット</JapaneseText>
+      <EnglishText>First Skill</EnglishText>
+      <Notes>Get your first skill</Notes>
+      <Id>5</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091308</PointerOffset>
+      <JapaneseText>熟練度を上げて初めてスキルをゲットした証だ。
+この調子で、スキルを入手していけば、戦闘を有利に進められるだ</JapaneseText>
+      <EnglishText>Proof you raised your proficiency enough to acquire a skill for the first time. 
+Keep it up and you’ll gain more skills to turn the tide in battle.</EnglishText>
+      <Notes/>
+      <Id>6</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091320</PointerOffset>
+      <JapaneseText>初めての秘奥義</JapaneseText>
+      <EnglishText>First Mystic Arte</EnglishText>
+      <Notes>Use a mystic arte for the first time</Notes>
+      <Id>7</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091324</PointerOffset>
+      <JapaneseText>隠しているからこその秘奥義を、遂に発動しちまった証だ。
+チャンスがあれば、ガスガス狙って行くと、いーだーよ</JapaneseText>
+      <EnglishText>Proof you finally unleashed a Mystic Arte. When you get the chance,
+go right ahead and use them.</EnglishText>
+      <Notes/>
+      <Id>8</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091336</PointerOffset>
+      <JapaneseText>初めての合体秘奥義</JapaneseText>
+      <EnglishText>First Dual Mystic Arte</EnglishText>
+      <Notes>Use Soukyuu Renshouha for the first time</Notes>
+      <Id>9</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091340</PointerOffset>
+      <JapaneseText>おーおー、遂に合体秘奥義を出した証を入手しただ。
+メルメルとチビ助の、最強の秘奥義だーよ。クロースだべ！</JapaneseText>
+      <EnglishText>Well now, you finally pulled off a Dual Mystic Arte. &lt;Mel&gt;&lt;Mel&gt; and
+the Pipsqueak strongest move. Cross Edition!</EnglishText>
+      <Notes/>
+      <Id>10</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091352</PointerOffset>
+      <JapaneseText>初めてのチェインパートナー</JapaneseText>
+      <EnglishText>First Combo Partner</EnglishText>
+      <Notes>Use Combo Partner for the first time</Notes>
+      <Id>11</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091356</PointerOffset>
+      <JapaneseText>シンクロして動く、チェインパートナーを発動した証だ。
+ふくろだぬきが、調子に乗りおってからに……</JapaneseText>
+      <EnglishText>Proof you activated a synchronized Combo Partner. 
+That Raccoon sure gets carried away when things go his way.</EnglishText>
+      <Notes>The raccoon part is a nickname that Albert has for Couleur ふくろだぬき seems to be based on an old folk tale</Notes>
+      <Id>12</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091368</PointerOffset>
+      <JapaneseText>初めてのオーバーキル</JapaneseText>
+      <EnglishText>First Overkill</EnglishText>
+      <Notes>Get your first Overkill</Notes>
+      <Id>13</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091372</PointerOffset>
+      <JapaneseText>倒した敵を、さらにボコボコにした証を入手しただ。
+止めをさされてるっちゅーのに、それでも尚やられる敵に同情するだ</JapaneseText>
+      <EnglishText>Proof you kept pounding an enemy even after they were done for. 
+Hard not to feel a little sorry for them.</EnglishText>
+      <Notes/>
+      <Id>14</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091384</PointerOffset>
+      <JapaneseText>８スロットシステム連携</JapaneseText>
+      <EnglishText>8 Slot System Combo</EnglishText>
+      <Notes>Register different moves (including normal moves) to all eight buttons and perform combos in one go.</Notes>
+      <Id>15</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091388</PointerOffset>
+      <JapaneseText>８つのボタンに全て違う技を登録し（通常技含む）、一繋ぎで綺麗に
+連携を決めた証だ。間違える事無く、連続で決める事ができただなや</JapaneseText>
+      <EnglishText>Proof you assigned eight different artes, including normal attacks, and executed
+a flawless combo in one go. Not a single mistake the whole way through.</EnglishText>
+      <Notes/>
+      <Id>16</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091400</PointerOffset>
+      <JapaneseText>チェインパートナー連携</JapaneseText>
+      <EnglishText>Combo Partner COMBO</EnglishText>
+      <Notes>Land a 10 or more-hit combo with a chain partner</Notes>
+      <Id>17</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091404</PointerOffset>
+      <JapaneseText>チェインパートナーと一緒になって、10コンボ以上を決めた証だ。
+1人より、2人の方が強いのは、当たり前だーよ。天狗になるでねぇ</JapaneseText>
+      <EnglishText>Proof you landed a 10-hit combo together with your Combo Partner.
+Two are stronger than one, but do not let it go to your head.</EnglishText>
+      <Notes/>
+      <Id>18</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091416</PointerOffset>
+      <JapaneseText>半分コスチューム</JapaneseText>
+      <EnglishText>Half the Costumes</EnglishText>
+      <Notes>Acquire more than half of all costumes</Notes>
+      <Id>19</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091420</PointerOffset>
+      <JapaneseText>全種類のうち、半分のコスチュームを入手した証だーよ。
+早い話が、半人前っちゅーことだなや。目指すはコンプリートだべ</JapaneseText>
+      <EnglishText>Proof you collected half of all available costumes. That makes you half a pro. 
+Better aim for the full set.</EnglishText>
+      <Notes/>
+      <Id>20</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091432</PointerOffset>
+      <JapaneseText>コスチュームコンプリート</JapaneseText>
+      <EnglishText>All Costumes</EnglishText>
+      <Notes>Acquire all costumes</Notes>
+      <Id>21</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091436</PointerOffset>
+      <JapaneseText>とうとう、全種類のコスチュームを入手しただな。その証だべ。
+あとは、好きなだけ着替えて遊ぶといいーだーよ。ご苦労さん</JapaneseText>
+      <EnglishText>Proof of finally acquiring all costumes. Now feel free to 
+change clothes and play to your hearts' content. Nice job!</EnglishText>
+      <Notes/>
+      <Id>22</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091448</PointerOffset>
+      <JapaneseText>初めての捕獲</JapaneseText>
+      <EnglishText>First Catch</EnglishText>
+      <Notes>Capture a monster for the first time</Notes>
+      <Id>23</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091452</PointerOffset>
+      <JapaneseText>初めて魔物を仲間にした証だ。
+仲間になってりゃ、魔物なんか、怖くねーど</JapaneseText>
+      <EnglishText>Proof you recruited your very first monster.
+Once they’re on your side, monsters ain’t so scary, ya know!</EnglishText>
+      <Notes/>
+      <Id>24</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091464</PointerOffset>
+      <JapaneseText>たくさん捕獲</JapaneseText>
+      <EnglishText>Seasoned Catcher</EnglishText>
+      <Notes>Tame at least 50% of the possible monsters.</Notes>
+      <Id>25</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091468</PointerOffset>
+      <JapaneseText>捕まえられる魔物のだいたい半分を捕獲した証だ。
+まーだまだ、先は長いだーよ。ほれ、頑張れ頑張れ</JapaneseText>
+      <EnglishText>Proof you’ve captured about half of the monsters you can catch.
+Still a long road ahead! C’mon now, keep at it!</EnglishText>
+      <Notes/>
+      <Id>26</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091480</PointerOffset>
+      <JapaneseText>捕獲マニア</JapaneseText>
+      <EnglishText>Catching Maniac</EnglishText>
+      <Notes>Tame at least 90% of the possible monsters.</Notes>
+      <Id>27</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091484</PointerOffset>
+      <JapaneseText>あわわわー、捕獲できる魔物の90％以上を、捕まえた証だ……。
+これは、なかなかすげぇだーよ。いや、こりゃ、ビックリしただ</JapaneseText>
+      <EnglishText>Wahhh! Proof you’ve captured over 90% of the monsters out there…
+That’s mighty impressive… Heck, I’m downright amazed!</EnglishText>
+      <Notes/>
+      <Id>28</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091496</PointerOffset>
+      <JapaneseText>スキルコンプリート</JapaneseText>
+      <EnglishText>Completed Skills</EnglishText>
+      <Notes>Master all skills</Notes>
+      <Id>29</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091500</PointerOffset>
+      <JapaneseText>コスチュームにひっついとるスキルを、全部入手した証だ。
+あとは、自分で好きなように、付け替えて遊ぶといいだーよ</JapaneseText>
+      <EnglishText>Proof you collected all the skills attached to your costumes. 
+Now you can mix and match them however you like and have fun.</EnglishText>
+      <Notes/>
+      <Id>30</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091512</PointerOffset>
+      <JapaneseText>術・技コンプリート</JapaneseText>
+      <EnglishText>Completed Artes</EnglishText>
+      <Notes>Learn all artes</Notes>
+      <Id>31</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091516</PointerOffset>
+      <JapaneseText>コスチュームにひっついとる術や技を、全部入手した証だ。
+好きなだけ魔物相手に、技を繰り出してやるがいいだーよ</JapaneseText>
+      <EnglishText>Proof you collected all the artes attached to your costumes. 
+Go ahead and use them against monsters as much as you like.</EnglishText>
+      <Notes/>
+      <Id>32</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091528</PointerOffset>
+      <JapaneseText>ベルセルク・ソロ</JapaneseText>
+      <EnglishText>Solo Berserker</EnglishText>
+      <Notes>Fight 256 battles alone</Notes>
+      <Id>33</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091532</PointerOffset>
+      <JapaneseText>たーったひとりで、戦闘を256回した証だーよ。
+ひとりぼっちは寂しくないだか？</JapaneseText>
+      <EnglishText>Proof you fought 256 battles all by yourself.
+Aren’t you feeling a little lonely out there?</EnglishText>
+      <Notes/>
+      <Id>34</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091544</PointerOffset>
+      <JapaneseText>快刀乱麻</JapaneseText>
+      <EnglishText>Gordian Cutter</EnglishText>
+      <Notes>Get a 100 combo while in a party of one on UNKNOWN difficulty</Notes>
+      <Id>35</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091548</PointerOffset>
+      <JapaneseText>よもや、ひとりっきりで、100コンボを決めるとは思わなかっただーよ。
+しかも、アンノウンでやるなんて、ちょっと異常だべ</JapaneseText>
+      <EnglishText>Well I’ll be… I never thought you’d pull off a 100-hit combo all by your lonesome.
+And on Unknown, no less… that’s just plain crazy.</EnglishText>
+      <Notes/>
+      <Id>36</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091560</PointerOffset>
+      <JapaneseText>魔物で戦闘</JapaneseText>
+      <EnglishText>Monster battle</EnglishText>
+      <Notes>Control a captured monster</Notes>
+      <Id>37</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091564</PointerOffset>
+      <JapaneseText>捕まえた魔物を操作した証だ。
+たまには違う気分で遊ぶのも、いいもんだーよ</JapaneseText>
+      <EnglishText>Proof you controlled a captured monster in battle.
+Playing from a different perspective once in a while can be fun.</EnglishText>
+      <Notes/>
+      <Id>38</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091576</PointerOffset>
+      <JapaneseText>50コンボ達成</JapaneseText>
+      <EnglishText>50-hit combo</EnglishText>
+      <Notes>Land a 50-hit combo</Notes>
+      <Id>39</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091580</PointerOffset>
+      <JapaneseText>戦闘で50コンボを達成した証だ。
+まだまだ、上を目指して行くだ</JapaneseText>
+      <EnglishText>Proof you achieved a 50-hit combo in battle.
+Keep going and aim even higher.</EnglishText>
+      <Notes/>
+      <Id>40</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091592</PointerOffset>
+      <JapaneseText>100コンボ達成</JapaneseText>
+      <EnglishText>100-hit combo</EnglishText>
+      <Notes>Land a 100-hit combo</Notes>
+      <Id>41</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091596</PointerOffset>
+      <JapaneseText>戦闘で100コンボを達成した証だ。
+なかなかやるだが、ここまできたら、さらなる高みを目指すだーよ</JapaneseText>
+      <EnglishText>Proof you achieved a 100-hit combo in battle. 
+Well done. Now reach for even greater heights</EnglishText>
+      <Notes/>
+      <Id>42</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091608</PointerOffset>
+      <JapaneseText>200コンボ達成</JapaneseText>
+      <EnglishText>200-hit combo</EnglishText>
+      <Notes>Land a 200-hit combo</Notes>
+      <Id>43</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091612</PointerOffset>
+      <JapaneseText>戦闘で200コンボを達成した証だーよ。
+ここまでできるとは、さすがのおらも驚いただ。アッパレアッパレ</JapaneseText>
+      <EnglishText>Proof you achieved a 200-hit combo in battle.
+I am truly impressed! Bravo! Bravo!</EnglishText>
+      <Notes/>
+      <Id>44</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091624</PointerOffset>
+      <JapaneseText>レベル200達成</JapaneseText>
+      <EnglishText>Reach level 200</EnglishText>
+      <Notes>Reach level 200 as Dio or Mel</Notes>
+      <Id>45</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091628</PointerOffset>
+      <JapaneseText>メルメルかちび助が最高のレベル、200に到達した証だーよ。
+もう、これ以上、レベルがあがることはないだ。お疲れだど</JapaneseText>
+      <EnglishText>Proof that &lt;Mel&gt;&lt;Mel&gt; or Pipsqueak reached the maximum level of 200. 
+They cannot level up any higher. Amazing work!</EnglishText>
+      <Notes/>
+      <Id>46</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091640</PointerOffset>
+      <JapaneseText>低レベル突破</JapaneseText>
+      <EnglishText>Low-Level Breakthrough</EnglishText>
+      <Notes>Defeat Maxwell with Dio or Mel below level 15</Notes>
+      <Id>47</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091644</PointerOffset>
+      <JapaneseText>マクスウェルを、メルメルとちび助がレベル15以下で倒した証だ。
+いんやいんや、よくもこんなレベルで倒せたもんだーよ</JapaneseText>
+      <EnglishText>Proof &lt;Mel&gt;&lt;Mel&gt; and Pipsqueak defeated Maxwell while under level 15.
+Well now, that’s impressive.</EnglishText>
+      <Notes/>
+      <Id>48</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091656</PointerOffset>
+      <JapaneseText>スピードクリア</JapaneseText>
+      <EnglishText>Speed Runner</EnglishText>
+      <Notes>Reach the ending in less than 5 hours</Notes>
+      <Id>49</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091660</PointerOffset>
+      <JapaneseText>エンディングまでの所要時間が、5時間を切った証だーよ。
+そっだら急いでクリアしたら、内容なんかわからんだろうに</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091672</PointerOffset>
+      <JapaneseText>魔物ハンター</JapaneseText>
+      <EnglishText>Monster hunter</EnglishText>
+      <Notes>Defeat 1,111 monsters</Notes>
+      <Id>51</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091676</PointerOffset>
+      <JapaneseText>魔物を1111体も倒した証だーよ。
+ゾロ目ってのは、気持ちのいいもんだー</JapaneseText>
+      <EnglishText>Proof you defeated 1111 monsters.
+There’s something satisfying about a repeating number.</EnglishText>
+      <Notes/>
+      <Id>52</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091688</PointerOffset>
+      <JapaneseText>七転八倒</JapaneseText>
+      <EnglishText>Writhing in agony</EnglishText>
+      <Notes>Become incapacitated 7 or more times in a single battle</Notes>
+      <Id>53</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091692</PointerOffset>
+      <JapaneseText>まーったく、バタバタ倒れまくるとは何事だーよ。
+そんなに証が欲しいだか？</JapaneseText>
+      <EnglishText>Good grief, you kept getting KO'ed all over the place. 
+Are you after this medal that badly?</EnglishText>
+      <Notes/>
+      <Id>54</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091704</PointerOffset>
+      <JapaneseText>ミラクルＤ・Ｘ撃破！</JapaneseText>
+      <EnglishText>Miracle DX defeated!</EnglishText>
+      <Notes>Defeat Miracle Dream X</Notes>
+      <Id>55</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091708</PointerOffset>
+      <JapaneseText>きらめきの塔で、ミラクルＤ・Ｘを倒した証だーよ。
+ピンク色なくせして、なかなか強かったど</JapaneseText>
+      <EnglishText>Proof you defeated Miracle DX in the Glimmer Spire. 
+Pink as it was, it packed a punch.</EnglishText>
+      <Notes/>
+      <Id>56</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091720</PointerOffset>
+      <JapaneseText>イフリート撃破！</JapaneseText>
+      <EnglishText>Efreet defeated!</EnglishText>
+      <Notes>Defeat Efreet</Notes>
+      <Id>57</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091724</PointerOffset>
+      <JapaneseText>熱砂の洞窟で、イフリートを倒した証だーよ。
+あんなに炎だらけで、おらが燃えたらどうするつもりだ？</JapaneseText>
+      <EnglishText>Proof you defeated Efreet in the Cavern of Burning Sands. 
+With all that fire, what would I have done if I caught on fire!?</EnglishText>
+      <Notes/>
+      <Id>58</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091736</PointerOffset>
+      <JapaneseText>シルフ撃破！</JapaneseText>
+      <EnglishText>Sylph defeated!</EnglishText>
+      <Notes>Defeat Sylph</Notes>
+      <Id>59</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091740</PointerOffset>
+      <JapaneseText>ローンヴァレイで、シルフを倒した証だーよ。
+ひらひら、ふわふわ、かわいいおなごだなや</JapaneseText>
+      <EnglishText>Proof you defeated Sylph in Lone Valley. 
+So fluttery and light, she's a cute little lady.</EnglishText>
+      <Notes/>
+      <Id>60</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091752</PointerOffset>
+      <JapaneseText>ノーム撃破！</JapaneseText>
+      <EnglishText>Gnome defeated!</EnglishText>
+      <Notes>Defeat Gnome</Notes>
+      <Id>61</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091756</PointerOffset>
+      <JapaneseText>精霊の洞窟で、ノームを倒した証だーよ。
+エト助が、ぽよんぽよん遊ばれとったな</JapaneseText>
+      <EnglishText>Proof you defeated Gnome in the Cavern of Spirits. 
+Baby Ethos got bounced around plenty.</EnglishText>
+      <Notes/>
+      <Id>62</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091768</PointerOffset>
+      <JapaneseText>ウンディーネ撃破！</JapaneseText>
+      <EnglishText>Undine defeated!</EnglishText>
+      <Notes>Defeat Undine</Notes>
+      <Id>63</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091772</PointerOffset>
+      <JapaneseText>浸食洞で、ウンディーネを倒した証だーよ。
+気の強い娘っ子は、おらのゾーンからは外れてるだ</JapaneseText>
+      <EnglishText>Proof you defeated Undine in the Limestone Cave. 
+Strong-willed girls aren’t really my type!</EnglishText>
+      <Notes/>
+      <Id>64</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091784</PointerOffset>
+      <JapaneseText>マクスウェル撃破！</JapaneseText>
+      <EnglishText>Maxwell defeated!</EnglishText>
+      <Notes>Defeat Maxwell</Notes>
+      <Id>65</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091788</PointerOffset>
+      <JapaneseText>モーリア坑道で、マクスウェルを倒した証だーよ。
+あーんな暗くて、深い場所に、ひとりで佇むじじいは、怖いだ……</JapaneseText>
+      <EnglishText>Proof you defeated Maxwell in the Moria Mine. That old man just standing there
+in this the deepest darkest place was so scary!</EnglishText>
+      <Notes/>
+      <Id>66</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091800</PointerOffset>
+      <JapaneseText>（ニセ）ルナ撃破！</JapaneseText>
+      <EnglishText>(Fake) Luna defeated!</EnglishText>
+      <Notes>Defeat the fake Luna</Notes>
+      <Id>67</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091804</PointerOffset>
+      <JapaneseText>12星座の塔で、ルナ様に化けた、アルテなんちゃらを倒した証だ。
+まったく、ルナ様に化けて襲ってくるなんて、バカにし過ぎだど</JapaneseText>
+      <EnglishText>Proof you defeated Artemis who was disguised as Luna in the Tower of the Zodiac. 
+Good grief, pretending to be Luna to attack us was way too cheeky.</EnglishText>
+      <Notes/>
+      <Id>68</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091816</PointerOffset>
+      <JapaneseText>グレムリンレアー撃破！</JapaneseText>
+      <EnglishText>Gremlin Lair defeated!</EnglishText>
+      <Notes>Defeat Gremlin Lair</Notes>
+      <Id>69</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091820</PointerOffset>
+      <JapaneseText>スルト深林で、グレムリンレアーを倒した証だーよ。
+ちっこいくせに、すばしっこくて、いやらしいヤツだ</JapaneseText>
+      <EnglishText>Proof you defeated the Gremlin Lair in the Deep Forest Surt. 
+It may be small, but it's swift and deadly.</EnglishText>
+      <Notes>Term: Deep Forest Surt 
+(technically "nasty")</Notes>
+      <Id>70</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091832</PointerOffset>
+      <JapaneseText>アスカ撃破！</JapaneseText>
+      <EnglishText>Aska defeated!</EnglishText>
+      <Notes>Defeat Aska</Notes>
+      <Id>71</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091836</PointerOffset>
+      <JapaneseText>超古代都市トールで、アスカを倒した証だーよ。
+羽があるもんで、あっちへ行ったりこっちへ行ったり、鬱陶しいヤツだ</JapaneseText>
+      <EnglishText>Proof you defeated Aska in the Ancient City of Thor. 
+Wings and all…flitting around everywhere, such a pesky foe.</EnglishText>
+      <Notes/>
+      <Id>72</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091848</PointerOffset>
+      <JapaneseText>ヴォルト撃破！</JapaneseText>
+      <EnglishText>Volt defeated!</EnglishText>
+      <Notes>Defeat Volt</Notes>
+      <Id>73</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091852</PointerOffset>
+      <JapaneseText>ムジョルニア洞窟で、ヴォルトを倒した証だーよ。
+おらにはサッパリ言葉が通じんが、正直、どうでもええだ</JapaneseText>
+      <EnglishText>Proof you defeated Volt in Mjolnir Cave. I can’t understand a word
+they say… honestly, I don’t really care.</EnglishText>
+      <Notes/>
+      <Id>74</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091864</PointerOffset>
+      <JapaneseText>シャドウ撃破！</JapaneseText>
+      <EnglishText>Shadow defeated!</EnglishText>
+      <Notes>Defeat Shadow</Notes>
+      <Id>75</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091868</PointerOffset>
+      <JapaneseText>闇の神殿で、シャドウを倒した証だーよ。
+あんなぶつ切りで喋られたら、意味がわかんねーだ</JapaneseText>
+      <EnglishText>Proof you defeated Shadow in the Temple of Darkness. 
+Speaking in those choppy fragments… I can’t make sense of it.</EnglishText>
+      <Notes>Term: Temple of Darkness</Notes>
+      <Id>76</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091880</PointerOffset>
+      <JapaneseText>オリジン撃破！</JapaneseText>
+      <EnglishText>Origin defeated!</EnglishText>
+      <Notes>Defeat Origin</Notes>
+      <Id>77</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091884</PointerOffset>
+      <JapaneseText>トレントの森で、オリジンを倒した証だーよ。
+腕が4本もあるなんて、反則以外の何者でもないだ</JapaneseText>
+      <EnglishText>Proof you defeated Origin in Treantwood. 
+Four arms…that’s nothing but cheating!</EnglishText>
+      <Notes/>
+      <Id>78</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091896</PointerOffset>
+      <JapaneseText>プルート撃破！</JapaneseText>
+      <EnglishText>Pluto defeated!</EnglishText>
+      <Notes>Defeat Pluto</Notes>
+      <Id>79</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091900</PointerOffset>
+      <JapaneseText>ネルヴィの洞窟で、プルートを倒した証だーよ。
+魔界の王だかなんだか知らんが、んなもんメルメルが許すわけねーだ</JapaneseText>
+      <EnglishText>Proof you defeated Pluto in Norfi’s Cave. King of the Demon Realm or not 
+Melmel sure wouldn’t stand for it.</EnglishText>
+      <Notes>Term: Norfi's Cave</Notes>
+      <Id>80</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091912</PointerOffset>
+      <JapaneseText>フラムベルク撃破！</JapaneseText>
+      <EnglishText>Flamberge defeated!</EnglishText>
+      <Notes>Defeat Flambelk</Notes>
+      <Id>81</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091916</PointerOffset>
+      <JapaneseText>焔王の楔で、フラムベルクを倒した証だーよ。
+好戦的な娘っ子は、好みじゃねーだ</JapaneseText>
+      <EnglishText>Proof you defeated Flamberge in the Linchpin of the Lord of Fire.
+That blazing and feisty girl isn’t really my type.</EnglishText>
+      <Notes>Term: Linchpin of the Lord of Fire</Notes>
+      <Id>82</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091928</PointerOffset>
+      <JapaneseText>フェンビースト撃破！</JapaneseText>
+      <EnglishText>Fenrir Beast defeated!</EnglishText>
+      <Notes>Defeat Fenrir Beast</Notes>
+      <Id>83</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091932</PointerOffset>
+      <JapaneseText>氷狼王の礎で、フェンビーストを倒した証だーよ。
+ただの獣でねーか</JapaneseText>
+      <EnglishText>Proof you defeated Fenrir Beast in the Cornerstone of the Ice Wolf. 
+Honestly, just a beast, really.</EnglishText>
+      <Notes>Cornerstone of the Ice Wolf</Notes>
+      <Id>84</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091944</PointerOffset>
+      <JapaneseText>イシュラント撃破！</JapaneseText>
+      <EnglishText>Ishrantu defeated!</EnglishText>
+      <Notes>Defeat Ishrantu</Notes>
+      <Id>85</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091948</PointerOffset>
+      <JapaneseText>ウェーランド平原で、イシュラントを倒した証だーよ。
+飛んでるヤツってのは、頭の中も飛んでるもんだべな</JapaneseText>
+      <EnglishText>Proof you defeated Ishrantu in Wayland Plains. 
+Flying foes…their heads are clearly in the clouds.</EnglishText>
+      <Notes/>
+      <Id>86</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091960</PointerOffset>
+      <JapaneseText>ジェストーナ撃破！</JapaneseText>
+      <EnglishText>Jestorna defeated!</EnglishText>
+      <Notes>Defeat Jestorna</Notes>
+      <Id>87</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091964</PointerOffset>
+      <JapaneseText>ロキ魔科学研究窟で、ジェストーナを倒した証だーよ。
+まさに、化け物という感じだったなや</JapaneseText>
+      <EnglishText>Proof you defeated Jestorna in Loki Research Center Cavern.
+Truly a monstrous foe.</EnglishText>
+      <Notes/>
+      <Id>88</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091976</PointerOffset>
+      <JapaneseText>ビッグアイ撃破！</JapaneseText>
+      <EnglishText>Big Eye defeated!</EnglishText>
+      <Notes>Defeat Big Eye</Notes>
+      <Id>89</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091980</PointerOffset>
+      <JapaneseText>グリトニル山岳で、ビッグアイを倒した証だーよ。
+目……、THE・目という感じで、気色悪すぎだ</JapaneseText>
+      <EnglishText>Proof you defeated Big Eye in Glitnir Mountain. That EYE is seriously creepy,
+I feel he can see right throught me.</EnglishText>
+      <Notes/>
+      <Id>90</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091992</PointerOffset>
+      <JapaneseText>ダオス撃破！</JapaneseText>
+      <EnglishText>Dhaos defeated!</EnglishText>
+      <Notes>Defeat Dhaos</Notes>
+      <Id>91</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2091996</PointerOffset>
+      <JapaneseText>ダオス城で、ダオスを倒した証だーよ。
+ダオスを倒す……、か……。ば～かこくでねぇ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>92</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092008</PointerOffset>
+      <JapaneseText>ディオス、メルティア撃破！</JapaneseText>
+      <EnglishText>Dios and Meltia defeated!</EnglishText>
+      <Notes>Defeat Dios and Meltia</Notes>
+      <Id>93</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092012</PointerOffset>
+      <JapaneseText>審理の晶谷で、ディオスとメルティアを倒した証だーよ。
+あれがメルメルの本当の姿……。大人っぽくて、たまらんだ～∀</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>94</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092024</PointerOffset>
+      <JapaneseText>ノルン撃破！</JapaneseText>
+      <EnglishText>Norn defeated!</EnglishText>
+      <Notes>Defeat Norn</Notes>
+      <Id>95</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092028</PointerOffset>
+      <JapaneseText>審理の晶谷で、ノルン様を倒した証だーよ。
+あぁ、おらの産みの親であるノルン様が……。ま、たまにはいい薬だど</JapaneseText>
+      <EnglishText>Proof you defeated Lady Norn in the Crystal Valley of Judgment.
+Ah, my own creator…well, even she can use a lesson now and then.</EnglishText>
+      <Notes>Crystal Valley of Judgment</Notes>
+      <Id>96</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092040</PointerOffset>
+      <JapaneseText>クルールニグルム撃破！</JapaneseText>
+      <EnglishText>Couleur Nigrum defeated!</EnglishText>
+      <Notes>Defeat Couleur Nigrum</Notes>
+      <Id>97</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092044</PointerOffset>
+      <JapaneseText>追憶の歪みで、クルールニグルムを倒した証だーよ。
+ふくろだぬきの偽者も、ほんとにぶっさいくで腹の立つヤツだ～</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>98</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092056</PointerOffset>
+      <JapaneseText>ボスボスボス</JapaneseText>
+      <EnglishText>Boss Boss Boss</EnglishText>
+      <Notes>Defeat all bosses in the dungeon, as well as over 100 enemies.</Notes>
+      <Id>99</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092060</PointerOffset>
+      <JapaneseText>ダンジョンにいるボスを全て倒し、撃破数が100を超えた証だーよ。
+まー、よく飽きもせず、100体も倒したべ</JapaneseText>
+      <EnglishText>Proof you defeated every dungeon boss and surpassed 100 kills. 
+Man, you really didn’t get bored taking down 100 of them!?</EnglishText>
+      <Notes/>
+      <Id>100</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092072</PointerOffset>
+      <JapaneseText>100時間プレイ</JapaneseText>
+      <EnglishText>100 Hours Played</EnglishText>
+      <Notes>Play for over 100 hours</Notes>
+      <Id>101</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092076</PointerOffset>
+      <JapaneseText>トータルプレイ時間が、100時間を越えた証だーよ。
+ここまで遊んでくれるとは、頭の垂れる思いだど</JapaneseText>
+      <EnglishText>Proof your total playtime exceeded 100 hours.
+I’m impressed you’ve played this much.</EnglishText>
+      <Notes/>
+      <Id>102</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092088</PointerOffset>
+      <JapaneseText>1000万ガルド獲得</JapaneseText>
+      <EnglishText>10 Million Gald</EnglishText>
+      <Notes>Save 10 million Gald</Notes>
+      <Id>103</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092092</PointerOffset>
+      <JapaneseText>通算獲得ガルドが、1000万を超えた証だーよ。
+守銭奴のように、ガルドを集めて集めて集めたって事だな</JapaneseText>
+      <EnglishText>Proof you earned over 10 million Gald. 
+You hoarded it like a true cheapskate.</EnglishText>
+      <Notes/>
+      <Id>104</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092104</PointerOffset>
+      <JapaneseText>チャットコンプリート</JapaneseText>
+      <EnglishText>Skit Complete</EnglishText>
+      <Notes>View all Skits</Notes>
+      <Id>105</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092108</PointerOffset>
+      <JapaneseText>全てのチャットを見た証だーよ。
+おらがいーっぱい活躍していただど？</JapaneseText>
+      <EnglishText>Proof you saw every skit. I got plenty of spotlight, didn’t I?</EnglishText>
+      <Notes/>
+      <Id>106</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092120</PointerOffset>
+      <JapaneseText>アルルンマニア</JapaneseText>
+      <EnglishText>Albert Maniac</EnglishText>
+      <Notes>View all chats featuring Albert</Notes>
+      <Id>107</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092124</PointerOffset>
+      <JapaneseText>おらが出るチャットを、全てみた証だーよ。
+わかるわかるだー。やーっぱり、おらの事が好きなんだべ？</JapaneseText>
+      <EnglishText>Proof you saw every skit I appeared in. I get it. You really like me, don’t you?</EnglishText>
+      <Notes/>
+      <Id>108</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092136</PointerOffset>
+      <JapaneseText>聖地巡礼</JapaneseText>
+      <EnglishText>Sacred Pilgrimage</EnglishText>
+      <Notes>Touching all the save points</Notes>
+      <Id>109</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092140</PointerOffset>
+      <JapaneseText>全ての記憶陣に、触れた証だ。
+回復できたり、着替えができたり、ほんとに便利な物だべ</JapaneseText>
+      <EnglishText>Proof you visited all save points.
+You can heal and change costumes, it’s all quite handy.</EnglishText>
+      <Notes/>
+      <Id>110</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092152</PointerOffset>
+      <JapaneseText>称号コンプリート</JapaneseText>
+      <EnglishText>All Titles</EnglishText>
+      <Notes>Obtain all titles</Notes>
+      <Id>111</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092156</PointerOffset>
+      <JapaneseText>全ての称号を、入手した証だ。
+いやいや、さすがに全員分集めるのは、苦労したべ？</JapaneseText>
+      <EnglishText>Proof you obtained every title. That must have taken some effort to collect them all for everyone.</EnglishText>
+      <Notes/>
+      <Id>112</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092168</PointerOffset>
+      <JapaneseText>モンスター図鑑マニア</JapaneseText>
+      <EnglishText>Monster Book Maniac</EnglishText>
+      <Notes>Complete the monster book by 90% or more.</Notes>
+      <Id>113</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092172</PointerOffset>
+      <JapaneseText>モンスター図鑑を、90％以上埋めた証だ。
+よくぞ、ここまで見つけただな</JapaneseText>
+      <EnglishText>Proof you filled over 90% of the Monster Book. 
+Impressive work finding that many.</EnglishText>
+      <Notes/>
+      <Id>114</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092184</PointerOffset>
+      <JapaneseText>コレクター図鑑マニア</JapaneseText>
+      <EnglishText>Collector Book Maniac</EnglishText>
+      <Notes>Complete the Collector's Book to 90% or more</Notes>
+      <Id>115</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092188</PointerOffset>
+      <JapaneseText>コレクター図鑑を、90％以上埋めた証だ。
+まさに、コレクター魂爆発だで</JapaneseText>
+      <EnglishText>Proof you filled over 90% of the Collector Book. 
+That’s your collector’s spirit shining through.</EnglishText>
+      <Notes/>
+      <Id>116</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092200</PointerOffset>
+      <JapaneseText>トレジャーハンター</JapaneseText>
+      <EnglishText>Treasure Hunter</EnglishText>
+      <Notes>Obtain most of the treasures in the world</Notes>
+      <Id>117</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092204</PointerOffset>
+      <JapaneseText>全世界の宝の、ほとんどを入手した証だ。
+おめぇが通ったあとは、ペンペン草の1本も生えてないだーよ</JapaneseText>
+      <EnglishText>Proof you acquired most of the treasures in the world. After you 
+passed through, not a single thing was left behind.</EnglishText>
+      <Notes>Need to have 95% of the treasures</Notes>
+      <Id>118</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092216</PointerOffset>
+      <JapaneseText>なりきり士は素晴らしい</JapaneseText>
+      <EnglishText>Being a Roleplayer Is Great</EnglishText>
+      <Notes>Clear all sub-events that use the power of the Roleplayer.</Notes>
+      <Id>119</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092220</PointerOffset>
+      <JapaneseText>なりきり士で頼まれたお仕事を、全部終わらせた証だ。
+ようやく、人の役に立つ事ができただな</JapaneseText>
+      <EnglishText>Proof you completed every job requested of you as a Roleplayer. 
+Looks like you finally managed to be useful to people.</EnglishText>
+      <Notes/>
+      <Id>120</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092232</PointerOffset>
+      <JapaneseText>トイレは清潔に！！</JapaneseText>
+      <EnglishText>Toilet Gel! Yoink!</EnglishText>
+      <Notes>Get the Apple Gummy from the toilet in Cless's house</Notes>
+      <Id>121</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092236</PointerOffset>
+      <JapaneseText>ひらひらマント野郎の家のトイレから、アップルグミを拾った証だ。
+…………、いや、人様の趣味にまで、口出しはしねーだ。安心せい</JapaneseText>
+      <EnglishText>Proof you picked up an Apple Gel from Flapping Cape Weirdo’s toilet. 
+…Well, I’m not gonna judge other people’s hobbies. Don’t worry.</EnglishText>
+      <Notes/>
+      <Id>122</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092248</PointerOffset>
+      <JapaneseText>ロディたんサイコー！！</JapaneseText>
+      <EnglishText>Rody Fanatic!</EnglishText>
+      <Notes>See all Rody-related events and chats</Notes>
+      <Id>123</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092252</PointerOffset>
+      <JapaneseText>ロディたん魅力満載の、全てのイベントとチャットを見た証だーよ。
+ロディたんのぼよんぼよんは、おらのものだ。おめぇには渡さね</JapaneseText>
+      <EnglishText>Proof you saw all of Rody’s events and skits full of charm. 
+Rody’s bounciness is mine. You’re not getting any of it.</EnglishText>
+      <Notes/>
+      <Id>124</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092264</PointerOffset>
+      <JapaneseText>精霊コンプリート</JapaneseText>
+      <EnglishText>Master Summoner</EnglishText>
+      <Notes>Form a pact with all spirits and demons</Notes>
+      <Id>125</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092268</PointerOffset>
+      <JapaneseText>全ての精霊と魔族たちと契約を結んだ証だ。
+幾らでも呼び放題だでな</JapaneseText>
+      <EnglishText>Proof you formed pacts with all spirits and demons. 
+Now you can summon them as much as you like.</EnglishText>
+      <Notes/>
+      <Id>126</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092280</PointerOffset>
+      <JapaneseText>時空戦士勢揃い</JapaneseText>
+      <EnglishText>Heroes of Time Reunited</EnglishText>
+      <Notes>Put all the Heroes of Space-Time in your party. Note "Jikuu Senshi Seizoroi" (時空戦士勢揃い) appears to be a phrase associated with Jikuu Senshi Spielban (Dimensional Warrior Spielban), a 1986 Japanese Tokusatsu television</Notes>
+      <Id>127</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092284</PointerOffset>
+      <JapaneseText>暗黒時空に行けるようになってから、時空戦士を再集結させた証だ。
+とは言え、主役はメルメルとちび助だでな</JapaneseText>
+      <EnglishText>Proof you reassembled the Heroes of Time after gaining access to Darkened
+Time-Space. That said, the real stars are Melmel and Pipsqueak.</EnglishText>
+      <Notes/>
+      <Id>128</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092296</PointerOffset>
+      <JapaneseText>常勝軍団</JapaneseText>
+      <EnglishText>Invincible Party</EnglishText>
+      <Notes>Win the Coliseum Expert with everyone except Mint Klarth</Notes>
+      <Id>129</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092300</PointerOffset>
+      <JapaneseText>闘技場で、ミーたまと酔いどれおやじ以外の８人で優勝した証だーよ。
+ガルフビーストは、見るのもうんざりしてくるだか？</JapaneseText>
+      <EnglishText>Proof you won in the Coliseum with eight members, leaving out 
+Miss &lt;Mint&gt;y and the Drunken Old Man. Getting tired of that Galf Beast yet?</EnglishText>
+      <Notes>Term: Coliseum</Notes>
+      <Id>130</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092312</PointerOffset>
+      <JapaneseText>根性軍団</JapaneseText>
+      <EnglishText>Scruffy Party</EnglishText>
+      <Notes>Defeat the Unknown Norn with an all-male party</Notes>
+      <Id>131</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092316</PointerOffset>
+      <JapaneseText>男だけのパーティで、アンノウンのノルン様を倒した、証だーよ。
+まったく……、強いかも知らんが、むさくるし過ぎるだ</JapaneseText>
+      <EnglishText>Proof you defeated Norn on Unknown with an all-male party.
+Strong or not, that is one scruffy crew.</EnglishText>
+      <Notes/>
+      <Id>132</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092328</PointerOffset>
+      <JapaneseText>お色気軍団</JapaneseText>
+      <EnglishText>Charming Party</EnglishText>
+      <Notes>Defeat Norn with an all-female party</Notes>
+      <Id>133</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092332</PointerOffset>
+      <JapaneseText>娘っ子だけのパーティで、ノルン様を倒した証だーよ。
+美しさに、強さを兼ね備えた、すんばらしいパーティだ</JapaneseText>
+      <EnglishText>Proof you defeated Norn with an all-female party. 
+A wonderful party with both beauty and strength.</EnglishText>
+      <Notes/>
+      <Id>134</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092344</PointerOffset>
+      <JapaneseText>魔物軍団</JapaneseText>
+      <EnglishText>Monster Party</EnglishText>
+      <Notes>Defeat Dhaos with a party of only monsters</Notes>
+      <Id>135</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092348</PointerOffset>
+      <JapaneseText>魔物だけのパーティで、ダオスを倒した証だーよ。
+魔物たちの大逆襲ってなもんだか？</JapaneseText>
+      <EnglishText>Proof you defeated Dhaos with an all-monster party. 
+A full-scale monster counterattack.</EnglishText>
+      <Notes/>
+      <Id>136</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092360</PointerOffset>
+      <JapaneseText>パスワード入力</JapaneseText>
+      <EnglishText>Password Used</EnglishText>
+      <Notes>Enter a password</Notes>
+      <Id>137</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092364</PointerOffset>
+      <JapaneseText>パスワードを使った証だーよ。
+いわゆる連動だべ</JapaneseText>
+      <EnglishText>Proof you used a password. This is the so-called linked feature.</EnglishText>
+      <Notes/>
+      <Id>138</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092376</PointerOffset>
+      <JapaneseText>クロスマスター</JapaneseText>
+      <EnglishText>Cross Master</EnglishText>
+      <Notes>Obtain and view all medals.</Notes>
+      <Id>139</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2092380</PointerOffset>
+      <JapaneseText>あらゆる全ての勲章を手に入れた証、まさにマスター オブ マスターだ。
+まったくまったく、よくもここまで遊んでくれたもんだーよ。</JapaneseText>
+      <EnglishText>Proof you collected every medal. Truly a Master of Masters. 
+Good grief, you really played this far!?</EnglishText>
+      <Notes/>
+      <Id>140</Id>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

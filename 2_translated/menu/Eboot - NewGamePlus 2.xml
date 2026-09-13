@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Strings>
+    <Section>NewGamePlus 2</Section>
+    <Entry>
+      <PointerOffset>1654364</PointerOffset>
+      <JapaneseText>ゲームクリアおめでとうございます！
+
+ゲームクリア時の「ＧＲＡＤＥ」を使って
+様々な条件でゲームを開始することができます。
+余ったＧＲＡＤＥは持ち越されます
+
+また今回使用したＧＲＡＤＥは、次回クリア後に
+買ったものが売却されて自動的に戻ってきます</JapaneseText>
+      <EnglishText>Congratulations on completing the game!
+
+You can now use the Grade you earned during the game to begin
+a new game with various effects. Any unused Grade will carry over
+to future playthroughs.
+
+Any options selected and Grade spent will be automatically refunded
+after your next clear.</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1654368</PointerOffset>
+      <JapaneseText>選択された項目を購入してゲームを始めます。
+よろしいですか？</JapaneseText>
+      <EnglishText>Purchase the selected items and begin the game?</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1654372</PointerOffset>
+      <JapaneseText>タイトル画面に戻りますか？</JapaneseText>
+      <EnglishText>Return to Title Screen?</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1654376</PointerOffset>
+      <JapaneseText>戦闘ランク&lt;DarkBlue&gt;&lt;WhiteOutline&gt; UNKNOWN &lt;White&gt;&lt;NoOutline&gt;が開放されました！</JapaneseText>
+      <EnglishText>Battle Difficulty &lt;DarkBlue&gt;&lt;WhiteOutline&gt;UNKNOWN&lt;White&gt;&lt;NoOutline&gt; has been unlocked!</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1654380</PointerOffset>
+      <JapaneseText>勲章のデータを引き継ぎました！</JapaneseText>
+      <EnglishText>Medal Data has been carried over!</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1654384</PointerOffset>
+      <JapaneseText>バトルメモのデータを引き継ぎました！</JapaneseText>
+      <EnglishText>Battle Memos have been carried over!</EnglishText>
+      <Notes/>
+      <Id>6</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1654388</PointerOffset>
+      <JapaneseText>パスワードの取得物を引き継ぎました！</JapaneseText>
+      <EnglishText>Items obtained from passwords have been carried over!</EnglishText>
+      <Notes/>
+      <Id>7</Id>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

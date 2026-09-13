@@ -68,6 +68,8 @@ artifacts/
 StyleCopReport.xml
 
 # Files built by Visual Studio
+*.idea
+*1.5_original
 *_i.c
 *_p.c
 *_h.h
@@ -358,3 +360,5 @@ MigrationBackup/
 2_translated/speakers.csv
 2_translated/translations.csv
 Extract.bat
+*.xcf
+*.gis

@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Strings>
+    <Section>Item Menu Button</Section>
+    <Entry>
+      <PointerOffset>2084148</PointerOffset>
+      <JapaneseText>戻る</JapaneseText>
+      <EnglishText>Back</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2084160</PointerOffset>
+      <JapaneseText>決定</JapaneseText>
+      <EnglishText>Confirm</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2084172</PointerOffset>
+      <JapaneseText>選択</JapaneseText>
+      <EnglishText>Select</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2084184</PointerOffset>
+      <JapaneseText>捨てる</JapaneseText>
+      <EnglishText>Discard</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2084196</PointerOffset>
+      <JapaneseText>説明切替</JapaneseText>
+      <EnglishText>Info</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2084208</PointerOffset>
+      <JapaneseText>種別変更</JapaneseText>
+      <EnglishText>Change Type</EnglishText>
+      <Notes/>
+      <Id>6</Id>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

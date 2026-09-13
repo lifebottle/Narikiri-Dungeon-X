@@ -1,0 +1,175 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Strings>
+    <Section>Customize Menu UI</Section>
+    <Entry>
+      <PointerOffset>1797736</PointerOffset>
+      <JapaneseText>メッセージスピード</JapaneseText>
+      <EnglishText>Text Speed</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1797740</PointerOffset>
+      <JapaneseText>メッセージの表示されるスピードを変更できます。
+数字が小さいほど表示スピードが速くなります</JapaneseText>
+      <EnglishText>Change the speed of the text display.
+Text displays immediately when set to 1.</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1797752</PointerOffset>
+      <JapaneseText>自動メッセージ送り</JapaneseText>
+      <EnglishText>Automatic Text</EnglishText>
+      <Notes>from rebirth</Notes>
+      <Id>3</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1797756</PointerOffset>
+      <JapaneseText>イベントのときに自動でメッセージを送るかどうか選択できます</JapaneseText>
+      <EnglishText>Change whether the text automatically advances during an event.</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1797768</PointerOffset>
+      <JapaneseText>ボリューム</JapaneseText>
+      <EnglishText>Volume</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1797772</PointerOffset>
+      <JapaneseText>色々なサウンドの音量を変更できます。</JapaneseText>
+      <EnglishText>Change the volume of music and sound effects.</EnglishText>
+      <Notes/>
+      <Id>6</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1797784</PointerOffset>
+      <JapaneseText>戦闘ランク</JapaneseText>
+      <EnglishText>Battle Difficulty</EnglishText>
+      <Notes/>
+      <Id>7</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1797788</PointerOffset>
+      <JapaneseText>戦闘の難易度を変更できます。</JapaneseText>
+      <EnglishText>Adjust the difficulty of battles.</EnglishText>
+      <Notes/>
+      <Id>8</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1797800</PointerOffset>
+      <JapaneseText>戦闘ショートカットボタン</JapaneseText>
+      <EnglishText>Customize Shortcut Buttons</EnglishText>
+      <Notes>?</Notes>
+      <Id>9</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1797804</PointerOffset>
+      <JapaneseText>戦闘中のショートカットボタンの割り当てを変更できます。</JapaneseText>
+      <EnglishText>Change the shortcut buttons while in battle</EnglishText>
+      <Notes>?</Notes>
+      <Id>10</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1797816</PointerOffset>
+      <JapaneseText>戦闘操作ボタン</JapaneseText>
+      <EnglishText>Battle Controls</EnglishText>
+      <Notes/>
+      <Id>11</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1797820</PointerOffset>
+      <JapaneseText>戦闘中の操作ボタンを変更できます。</JapaneseText>
+      <EnglishText>You can change the button mapping during battle.</EnglishText>
+      <Notes/>
+      <Id>12</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1797832</PointerOffset>
+      <JapaneseText>戦闘カメラ</JapaneseText>
+      <EnglishText>Battle Camera</EnglishText>
+      <Notes/>
+      <Id>13</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1797836</PointerOffset>
+      <JapaneseText>戦闘中のカメラスタイルを選択できます。</JapaneseText>
+      <EnglishText>You can select the camera style during battle.</EnglishText>
+      <Notes/>
+      <Id>14</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1797848</PointerOffset>
+      <JapaneseText>ウィンドウカラー</JapaneseText>
+      <EnglishText>Window Color</EnglishText>
+      <Notes/>
+      <Id>15</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1797852</PointerOffset>
+      <JapaneseText>ウィンドウの色を変更できます</JapaneseText>
+      <EnglishText>Change the color of menu windows.</EnglishText>
+      <Notes/>
+      <Id>16</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1797864</PointerOffset>
+      <JapaneseText>チャットテキスト</JapaneseText>
+      <EnglishText>Skits Subtitle</EnglishText>
+      <Notes/>
+      <Id>17</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1797868</PointerOffset>
+      <JapaneseText>チャットのテキストを表示するかどうかを選択できます</JapaneseText>
+      <EnglishText>Choose whether to display Skit Subtitle.</EnglishText>
+      <Notes/>
+      <Id>18</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1797880</PointerOffset>
+      <JapaneseText>カーソル位置</JapaneseText>
+      <EnglishText>Cursor Memory</EnglishText>
+      <Notes/>
+      <Id>19</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1797884</PointerOffset>
+      <JapaneseText>カーソルの場所を保持するかどうかを選択できます。
+保持する場所はメインメニューのカーソル位置・アイテムのカテゴリ・
+コスチュームのみです</JapaneseText>
+      <EnglishText>You can choose whether to keep the cursor position.
+The positions that can be kept are the cursor position in
+the main menu, item categories, and costumes only.</EnglishText>
+      <Notes/>
+      <Id>20</Id>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>

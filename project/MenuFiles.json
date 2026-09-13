@@ -1,210 +1,730 @@
 [
 	{	
-		"File_Original":"../Data/Narikiri-Dungeon-X/Misc/EBOOT.BIN",
-		"File_Extract": "../Data/Narikiri-Dungeon-X/Disc/New/PSP_GAME/SYSDIR/EBOOT.BIN",
-		"Hashes_Name":	"",
-		"File_XML":		"../Narikiri-Dungeon-X/Data/NDX/Menu/XML/EBOOT.xml",
-		"Text_Start":	1645672,
-		"Text_End":		1671091,
-		"Base_Offset":	160,
-		"Sections":
+		"file_path": "../1_extracted/Eboot/EBOOT.BIN",
+		"friendly_name": "Eboot",
+		"split_sections": true,
+		"base_offset":	-160,
+		"safe_areas": [
+			[0x17FA00,0x1836AE],
+			[0x184E78,0x184F2E],
+			[0x190F94,0x190FF6],
+			[0x191008,0x191022],
+			[0x191320,0x19133E],
+			[0x191380,0x1913DE],
+			[0x191478,0x19149E],
+			[0x1914C8,0x19155A],
+			[0x191800,0x191832],
+			[0x191C68,0x191DB2],
+			[0x191DF8,0x191E0E],
+			[0x191E44,0x191E76],
+			[0x191F38,0x19280F],
+			[0x192844,0x192876],
+			[0x192908,0x192936],
+			[0x1929CC,0x192A87],
+			[0x192A8C,0x192AB2],
+			[0x192AB8,0x192AEE],
+			[0x192AFC,0x192B16],
+			[0x192B48,0x192B6A],
+			[0x192B84,0x192C1E],
+			[0x192C48,0x192C5A],
+			[0x192EB8,0x193A22],
+			[0x193C64,0x193E5A],
+			[0x193EB4,0x193EF6],
+			[0x193F18,0x193F96],
+			[0x194050,0x194086],
+			[0x1940C4,0x1940FA],
+			[0x194480,0x1945DE],
+			[0x197D30,0x197D5A],
+			[0x197EBC,0x197F06],
+			[0x197F6C,0x197FA2],
+			[0x198058,0x19809A],
+			[0x1980D8,0x19811E],
+			[0x1983F8,0x198412],
+			[0x198454,0x198596],
+			[0x198608,0x19862E],
+			[0x1987D8,0x19880A],
+			[0x198868,0x19889E],
+			[0x198A64,0x198A86],
+			[0x198AC4,0x198ADA],
+			[0x198AE8,0x198B1E],
+			[0x198BB8,0x198BEE],
+			[0x198C68,0x1A3232],
+			[0x1A3250,0x1A331E],
+			[0x1A332C,0x1A334E],
+			[0x1A3500,0x1A36A2],
+			[0x1A3748,0x1A56DE],
+			[0x1A570C,0x1A571A],
+			[0x1A5738,0x1A575A],
+			[0x1A5788,0x1A579E],
+			[0x1A57B4,0x1A5832],
+			[0x1A5990,0x1A59BE],
+			[0x1A5A08,0x1A5A2A],
+			[0x1A5A44,0x1A5D36],
+			[0x1A5DD0,0x1A5E5A],
+			[0x1A5E80,0x1A5EBA],
+			[0x1A5ED8,0x1A5EF6],
+			[0x1A7710,0x1A7902],
+			[0x1A79A4,0x1A79D2],
+			[0x1A7CC8,0x1A94FA],
+			[0x1ABFA4,0x1AC08A],
+			[0x1B1D30,0x1B3AFE],
+		],
+		"sections":
 		[
+        {
+            "section": "Title Dio",
+            "pointers_start": 1586864,
+            "pointers_end": 1587055,
+            "style": "P"
+        },
 		{
-			"Section":					"Main Menu 1",
-			"Pointer_Offset_Start":		1796624,
-			"Style":					"P",
-			"Text_Start":				1645672,   
-			"Text_End":					1645955,
-			"To_Translate":				1
-		},
+            "section": "Title Mel",
+            "pointers_start": 1587056,
+            "pointers_end": 1587231,
+            "style": "P"
+        },
+        {
+            "section": "Title Couleur",
+            "pointers_start": 1587248,
+            "pointers_end": 1587352,
+            "style": "P"
+        },
+        {
+            "section": "Title Cless [0x1838F0 - 0x18396F]",
+            "pointers_start": 1587440,
+            "pointers_end": 1587568,
+            "style": "P"
+        },
+        {
+            "section": "Title Mint [0x1839B0 - 0x183A0F]",
+            "pointers_start": 1587632,
+            "pointers_end": 1587728,
+            "style": "P"
+        },
+        {
+            "section": "Title Chester [0x183A70 - 0x183ACF]",
+            "pointers_start": 1587824,
+            "pointers_end": 1587920,
+            "style": "P"
+        },
+        {
+            "section": "Title Arche [0x183B30 - 0x183B8F]",
+            "pointers_start": 1588016,
+            "pointers_end": 1588112,
+            "style": "P"
+        },
+        {
+            "section": "Title Klarth [0x183BF0 - 0x183C4F]",
+            "pointers_start": 1588208,
+            "pointers_end": 1588304,
+            "style": "P"
+        },
+        {
+            "section": "Title Suzu [0x183CB0 - 0x183D0F]",
+            "pointers_start": 1588400,
+            "pointers_end": 1588496,
+            "style": "P"
+        },
+        {
+            "section": "Title Rondoline [0x183D70 - 0x183DDF]",
+            "pointers_start": 1588592,
+            "pointers_end": 1588704,
+            "style": "P"
+        },
+        {
+            "section": "In Battle Promp [0x1B3DB0 - 0x1B3DD3]",
+            "pointers_start": 1785264,
+            "pointers_end": 1785300,
+            "style": "P"
+        },
+        {
+            "section": "Arte Menu Button [0x1B6718 - 0x1B6783]",
+            "pointers_start": 1795864,
+            "pointers_end": 1795972,
+            "style": "8P"
+        },
+        {
+            "section": "Arte Menu UI 3 [0x1B6784 - 0x1B678F]",
+            "pointers_start": 1795972,
+            "pointers_end": 1795984,
+            "style": "P"
+        },
+        {
+            "section": "BattleBook Button [0x1B67c8 - 0x1B67EB]",
+            "pointers_start": 1796040,
+            "pointers_end": 1796076,
+            "style": "8P"
+        },
+        {
+            "section": "Collector's book UI 2  [0x1913E0 - 0x191403]",
+            "pointers_start": 1643488,
+            "pointers_end": 1643524,
+            "style": "P"
+        },
+        {
+            "section": "Collector's book Button [0x1B682c - 0x1B685B]",
+            "pointers_start": 1796140,
+            "pointers_end": 1796188,
+            "style": "8P"
+        },
+        {
+            "section": "Strategy Menu Buttons [0x1B6878 - 0x1B68BF]",
+            "pointers_start": 1796216,
+            "pointers_end": 1796288,
+            "style": "8P"
+        },
+        {
+            "section": "Strategy Menu UI [0x1B68c0 - 0x1B68DF]",
+            "pointers_start": 1796288,
+            "pointers_end": 1796320,
+            "style": "P"
+        },
+        {
+            "section": "Cooking Menu Button [0x1B696c - 0x1B69A7]",
+            "pointers_start": 1796460,
+            "pointers_end": 1796520,
+            "style": "8P"
+        },
+        {
+            "section": "Costume Menu UI [0x1B6A10 - 0x1B6AF3]",
+            "pointers_start": 1796624,
+            "pointers_end": 1796852,
+            "style": "P"
+        },
+        {
+            "section": "Costume Menu UI 2 [0x1B6D94 - 0x1B6DAF]",
+            "pointers_start": 1797524,
+            "pointers_end": 1797552,
+            "style": "P"
+        },
+        {
+            "section": "Costume Menu UI 4 [0x1B6DC0 - 0x1B6DCB]",
+            "pointers_start": 1797568,
+            "pointers_end": 1797580,
+            "style": "P"
+        },
+        {
+            "section": "Costume Menu Button [0x1B6Dcc - 0x1B6E2B]",
+            "pointers_start": 1797580,
+            "pointers_end": 1797676,
+            "style": "8P"
+        },
+        {
+            "section": "Customize Menu UI [0x1B6E60 - 0x1B6EFF]",
+            "pointers_start": 1797728,
+            "pointers_end": 1797888,
+            "style": "8PP"
+        },
+        {
+            "section": "Customize Menu UI 2 [0x1B6F00 - 0x1B6FF7]",
+            "pointers_start": 1797888,
+            "pointers_end": 1798136,
+            "style": "P"
+        },
+        {
+            "section": "Customize Menu UI 4 [0x1B6FF8 - 0x1B704B]",
+            "pointers_start": 1798136,
+            "pointers_end": 1798220,
+            "style": "8P"
+        },
+        {
+            "section": "Customize Menu UI 5 [0x1B704C - 0x1B7053]",
+            "pointers_start": 1798220,
+            "pointers_end": 1798228,
+            "style": "P"
+        },
+        {
+            "section": "Save Menu UI [0x1B7070 - 0x1B7073]",
+            "pointers_start": 1798256,
+            "pointers_end": 1798260,
+            "style": "P"
+        },
+        {
+            "section": "Save Menu UI 3 [0x192A88 - 0x192A8B]",
+            "pointers_start": 1649288,
+            "pointers_end": 1649292,
+            "style": "P"
+        },
+        {
+            "section": "Save Menu UI 4 [0x192AB4 - 0x192AB7]",
+            "pointers_start": 1649332,
+            "pointers_end": 1649336,
+            "style": "P"
+        },
+        {
+            "section": "Save Menu UI 5 [0x192AF0 - 0x192AFB]",
+            "pointers_start": 1649392,
+            "pointers_end": 1649404,
+            "style": "P"
+        },
+        {
+            "section": "Save Menu Button [0x1FCB84 - 0x1FCBA7]",
+            "pointers_start": 2083716,
+            "pointers_end": 2083752,
+            "style": "8P"
+        },
+        {
+            "section": "Equip Menu UI [0x192B6C - 0x192B83]",
+            "pointers_start": 1649516,
+            "pointers_end": 1649540,
+            "style": "P"
+        },
+        {
+            "section": "Equip Menu UI 2 [0x1FCBD8 - 0x1FCBFB]",
+            "pointers_start": 2083800,
+            "pointers_end": 2083836,
+            "style": "P"
+        },
+        {
+            "section": "Equip Menu Button [0x1FCBFC - 0x1FCC5B]",
+            "pointers_start": 2083836,
+            "pointers_end": 2083932,
+            "style": "8P"
+        },
+        {
+            "section": "Equip Menu UI 4 [0x1FCC5C - 0x1FCC63]",
+            "pointers_start": 2083932,
+            "pointers_end": 2083940,
+            "style": "P"
+        },
 		{
-			"Section":					"Main Menu 2",
-			"Pointer_Offset_Start":		1797524,
-			"Style":					"P",
-			"Text_Start":				1645948,   
-			"Text_End":					1645999,
-			"To_Translate":				1
-		},
+            "section": "NewGamePlus [0x193A24 - 0x193C63]",
+            "pointers_start": 1653284,
+            "pointers_end": 1653860,
+            "style": "8PP"
+        },
+        {
+            "section": "NewGamePlus 2 [0x193E5C - 0x193E77]",
+            "pointers_start": 1654364,
+            "pointers_end": 1654392,
+            "style": "P"
+        },
+        {
+            "section": "NewGamePlus Button [0x1FCCB4 - 0x1FCCFB]",
+            "pointers_start": 2084020,
+            "pointers_end": 2084092,
+            "style": "8P"
+        },
+        {
+            "section": "Item Menu UI [0x193F98 - 0x193FC3]",
+            "pointers_start": 1654680,
+            "pointers_end": 1654724,
+            "style": "P"
+        },
+        {
+            "section": "Item Menu Button [0x1FCD2C - 0x1FCD73]",
+            "pointers_start": 2084140,
+            "pointers_end": 2084212,
+            "style": "8P"
+        },
+        {
+            "section": "Item Menu UI 3 [0x1FCDA0 - 0x1FCDBB]",
+            "pointers_start": 2084256,
+            "pointers_end": 2084284,
+            "style": "P"
+        },
+        {
+            "section": "Main Menu Category [0x1FCDD8 - 0x1FCE43]",
+            "pointers_start": 2084312,
+            "pointers_end": 2084420,
+            "style": "P"
+        },
+        {
+            "section": "Name 2 [0x1FD910 - 0x1FD93B]",
+            "pointers_start": 2087184,
+            "pointers_end": 2087228,
+            "style": "P"
+        },
+        {
+            "section": "Numbers [0x1FD974 - 0x1FD9A7]",
+            "pointers_start": 2087284,
+            "pointers_end": 2087336,
+            "style": "P"
+        },
+        {
+            "section": "Main Menu select button [0x1FD9A8 - 0x1FD9CB]",
+            "pointers_start": 2087336,
+            "pointers_end": 2087372,
+            "style": "8P"
+        },
+        {
+            "section": "Main Menu Button 1 [0x1FDA0C - 0x1FDAD7]",
+            "pointers_start": 2087436,
+            "pointers_end": 2087640,
+            "style": "8P"
+        },
+        {
+            "section": "Status [0x19809C - 0x1980C3]",
+            "pointers_start": 1671324,
+            "pointers_end": 1671364,
+            "style": "P"
+        },
+        {
+            "section": "Costume Class [0x1FDCE0 - 0x1FDD7F]",
+            "pointers_start": 2088160,
+            "pointers_end": 2088320,
+            "style": "4P"
+        },
+        {
+            "section": "Monster Book UI [0x1FDD98 - 0x1FDDA3]",
+            "pointers_start": 2088344,
+            "pointers_end": 2088356,
+            "style": "P"
+        },
+        {
+            "section": "Monster Book Location [0x1FDDA4 - 0x1FDDFF]",
+            "pointers_start": 2088356,
+            "pointers_end": 2088448,
+            "style": "P"
+        },
+        {
+            "section": "Monster Book Button [0x1FDE04 - 0x1FDE33]",
+            "pointers_start": 2088452,
+            "pointers_end": 2088500,
+            "style": "8P"
+        },
+        {
+            "section": "Rest Area Button [0x1FDE50 - 0x1FDE8B]",
+            "pointers_start": 2088528,
+            "pointers_end": 2088588,
+            "style": "8P"
+        },
+        {
+            "section": "Rest Area UI 3 [0x1FDE8C - 0x1FDEA7]",
+            "pointers_start": 2088588,
+            "pointers_end": 2088616,
+            "style": "P"
+        },
+        {
+            "section": "Monster Sell Button [0x1FDEC0 - 0x1FDEEF]",
+            "pointers_start": 2088640,
+            "pointers_end": 2088688,
+            "style": "8P"
+        },
+        {
+            "section": "Monster Sell UI 3 [0x1FDEF0 - 0x1FDEF3]",
+            "pointers_start": 2088688,
+            "pointers_end": 2088692,
+            "style": "P"
+        },
+        {
+            "section": "Monster Sell UI 5 [0x1FDEF4 - 0x1FDF0F]",
+            "pointers_start": 2088692,
+            "pointers_end": 2088720,
+            "style": "P"
+        },
+        {
+            "section": "Formation Button [0x1FDF28 - 0x1FDF87]",
+            "pointers_start": 2088744,
+            "pointers_end": 2088840,
+            "style": "8P"
+        },
+        {
+            "section": "Synopsis [0x1FDFA0 - 0x1FE693]",
+            "pointers_start": 2088864,
+            "pointers_end": 2090644,
+            "style": "4PPPPPP"
+        },
+        {
+            "section": "Synopsis Button [0x1FE6A0 - 0x1FE6C3]",
+            "pointers_start": 2090656,
+            "pointers_end": 2090692,
+            "style": "8P"
+        },
+        {
+            "section": "Password [0x1FE6E0 - 0x1FE6E3]",
+            "pointers_start": 2090720,
+            "pointers_end": 2091032,
+            "style": "P8"
+        },
+        {
+            "section": "Password Button [0x1FE818 - 0x1FE847]",
+            "pointers_start": 2091032,
+            "pointers_end": 2091080,
+            "style": "8P"
+        },
+        {
+            "section": "Record UI [0x1FE860 - 0x1FE8BF]",
+            "pointers_start": 2091104,
+            "pointers_end": 2091200,
+            "style": "P"
+        },
+        {
+            "section": "Record Button [0x1FE8C0 - 0x1FE8E3]",
+            "pointers_start": 2091200,
+            "pointers_end": 2091236,
+            "style": "8P"
+        },
+        {
+            "section": "Medal [0x1FE900 - 0x1FED5F]",
+            "pointers_start": 2091264,
+            "pointers_end": 2092384,
+            "style": "8PP"
+        },
+        {
+            "section": "Medal UI [0x1A56E0 - 0x1A56E3]",
+            "pointers_start": 1726176,
+            "pointers_end": 1726180,
+            "style": "P"
+        },
+        {
+            "section": "Medal Button [0x1FED60 - 0x1FED77]",
+            "pointers_start": 2092384,
+            "pointers_end": 2092408,
+            "style": "8P"
+        },
+        {
+            "section": "Shop Menu UI [0x1FED90 - 0x1FED9F]",
+            "pointers_start": 2092432,
+            "pointers_end": 2092448,
+            "style": "P"
+        },
+        {
+            "section": "Shop Menu UI 3 [0x1FEDBC - 0x1FEDBF]",
+            "pointers_start": 2092476,
+            "pointers_end": 2092480,
+            "style": "P"
+        },
 		{
-			"Section":					"Main Menu 3",
-			"Pointer_Offset_Start":		2084312,
-			"Style":					"P",
-			"Text_Start":				1655936,
-			"Text_End":					1656286,
-			"To_Translate":				1
-		},
-		
-
+            "section": "Shop Menu Button",
+            "pointers_start": 2092480,
+            "pointers_end": 2092659,
+            "style": "P8"
+        },
 		{
-			"Section":					"Actions 1",
-			"Pointer_Offset_Start":		2087284,
-			"Style":					"P",
-			"Text_Start":				1670844,
-			"Text_End":					1670919,
-			"To_Translate":				1
-		}]
+            "section": "Skill Menu Button",
+            "pointers_start": 2092688,
+            "pointers_end": 2092735,
+            "style": "8P"
+        },
+        {
+            "section": "Status Menu UI [0x1A5A2C - 0x1A5A43]",
+            "pointers_start": 1727020,
+            "pointers_end": 1727044,
+            "style": "P"
+        },
+        {
+            "section": "Status Menu UI 2 [0x1FEED8 - 0x1FEF37]",
+            "pointers_start": 2092760,
+            "pointers_end": 2092856,
+            "style": "P"
+        },
+        {
+            "section": "Status Menu Button [0x1FEF38 - 0x1FEFAF]",
+            "pointers_start": 2092856,
+            "pointers_end": 2092976,
+            "style": "8P"
+        },
+        {
+            "section": "World Map UI [0x1A5E5C - 0x1A5E6B]",
+            "pointers_start": 1728092,
+            "pointers_end": 1728108,
+            "style": "P"
+        },
+        {
+            "section": "World Map Button [0x1FF0D8 - 0x1FF11F]",
+            "pointers_start": 2093272,
+            "pointers_end": 2093344,
+            "style": "8P"
+        },
+        {
+            "section": "World Map UI 3 [0x1FF120 - 0x1FF12B]",
+            "pointers_start": 2093344,
+            "pointers_end": 2093356,
+            "style": "P"
+        },
+        {
+            "section": "Field Map Location [0x20DC98 - 0x20E247]",
+            "pointers_start": 2153624,
+            "pointers_end": 2155080,
+            "style": "P40"
+        },
+        {
+            "section": "Field Map Button [0x20E338 - 0x20E38F]",
+            "pointers_start": 2155320,
+            "pointers_end": 2155408,
+            "style": "8P"
+        },
+        {
+            "section": "Skit Titles [0x1A94FC - 0x1AA833]",
+            "pointers_start": 1742076,
+            "pointers_end": 1746996,
+            "style": "P16P"
+        },
+        {
+            "section": "Map Button [0x2284C4 - 0x22852B]",
+            "pointers_start": 2262212,
+            "pointers_end": 2262316,
+            "style": "P"
+        },
+		{
+            "section": "Credit",
+            "pointers_start": 1784652,
+            "pointers_end": 1784655,
+            "style": "P"
+        }]
 	},
 	{
-		"File_Original":"../Data/Narikiri-Dungeon-X/All/battle/data/bt_data.b",
-		"File_Extract": "../Data/Narikiri-Dungeon-X/Menu/New/battle/data/BT_DATA/BT_TECHNIQUE_NAME_DATA/bt_technique_name_data.dat",
-		"File_XML":		"../Narikiri-Dungeon-X/Data/NDX/Menu/XML/Artes.xml",
-		"Hashes_Name":	"battle/data",
-		"Text_Start":	46004,
-		"Text_End":		328790,
-		"Base_Offset":	0,
-		"Sections":
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_TECHNIQUE_NAME_DATA/bt_technique_name_data.dat",
+		"friendly_name": "Artes",
+		"split_sections": false,
+		"base_offset":	0,
+		"sections":
 		[
 		{
-			"Section":					"Artes",
-			"Pointer_Offset_Start":		8,
-			"Style":					"PP24",
-			"Text_Start":				45988,
-			"Text_End":					328790,
-			"To_Translate":				1
+			"section":					"Artes",
+			"pointers_start":			8,
+			"pointers_end":				45967,
+			"style":					"PP24"
 		}]
 	},
-	{
-		"File_Original":"../Data/Narikiri-Dungeon-X/All/battle/data/bt_data.b",
-		"File_Extract": "../Data/Narikiri-Dungeon-X/Menu/New/battle/data/BT_DATA/bt_item_data/bt_item_data.dat",
-		"File_XML":		"../Narikiri-Dungeon-X/Data/NDX/Menu/XML/Items.xml",
-		"Hashes_Name":	"battle/data",
-		"Text_Start":	57376,
-		"Text_End":		126849,
-		"Base_Offset":	0,
-		"Sections":
+		{
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_ITEM_DATA/bt_item_data.dat",
+		"friendly_name": "Items",
+		"split_sections": false,
+		"base_offset":	0,
+		"sections":
 		[
 		{
-			"Section":					"Items",
-			"Pointer_Offset_Start":		8,
-			"Style":					"P56PP16",
-			"Text_Start":				57376,
-			"Text_End":					126849,
-			"To_Translate":				1
+			"section":					"Items",
+			"pointers_start":			8,
+			"pointers_end":				57363,
+			"style":					"P56PP16"
 		}]
 	},
-	{
-		"File_Original":"../Data/Narikiri-Dungeon-X/All/battle/data/bt_data.b",
-		"File_Extract": "../Data/Narikiri-Dungeon-X/Menu/New/battle/data/BT_DATA/BT_STRATEGY_DATA/bt_strategy_data.dat",
-		"File_XML":		"../Narikiri-Dungeon-X/Data/NDX/Menu/XML/Strategy.xml",
-		"Hashes_Name":	"battle/data",
-		"Text_Start":	40836,
-		"Text_End":		68050,
-		"Base_Offset":	0,
-		"Sections":
+		{
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_STRATEGY_DATA/bt_strategy_data.dat",
+		"friendly_name": "Strategy",
+		"split_sections": false,
+		"base_offset":	0,
+		"sections":
 		[
 		{
-			"Section":					"Strategy",
-			"Pointer_Offset_Start":		8,
-			"Style":					"PP56",
-			"Text_Start":				40836,
-			"Text_End":					68050,
-			"To_Translate":				1
+			"section":					"Strategy",
+			"pointers_start":			8,
+			"pointers_end":				40139,
+			"style":					"PP56"
 		}]
 	},
-	{
-		"File_Original":"../Data/Narikiri-Dungeon-X/All/battle/data/bt_data.b",
-		"File_Extract": "../Data/Narikiri-Dungeon-X/Menu/New/battle/data/BT_DATA/BT_SKILL_DATA/bt_skill_data.dat",
-		"File_XML":		"../Narikiri-Dungeon-X/Data/NDX/Menu/XML/Skills.xml",
-		"Hashes_Name":	"battle/data",
-		"Text_Start":	57376,
-		"Text_End":		122845,
-		"Base_Offset":	0,
-		"Sections":
+		{
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_SKILL_DATA/bt_skill_data.dat",
+		"friendly_name": "Skills",
+		"split_sections": false,
+		"base_offset":	0,
+		"sections":
 		[
 		{
-			"Section":					"Skills",
-			"Pointer_Offset_Start":		8,
-			"Style":					"PP32",
-			"Text_Start":				32284,
-			"Text_End":					102528,
-			"To_Translate":				1
+			"section":					"Skills",
+			"pointers_start":			8,
+			"pointers_end":				32251,
+			"style":					"PP32"
 		}]
 	},
-	{
-		"File_Original":"../Data/Narikiri-Dungeon-X/All/battle/data/bt_data.b",
-		"File_Extract": "../Data/Narikiri-Dungeon-X/Menu/New/battle/data/BT_DATA/BT_SHOP_DATA/bt_shop_data.dat",
-		"File_XML":		"../Narikiri-Dungeon-X/Data/NDX/Menu/XML/Shop.xml",
-		"Hashes_Name":	"battle/data",
-		"Text_Start":	4964,
-		"Text_End":		5704,
-		"Base_Offset":	0,
-		"Sections":
+		{
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_SHOP_DATA/bt_shop_data.dat",
+		"friendly_name": "Shop",
+		"split_sections": false,
+		"base_offset":	0,
+		"sections":
 		[
 		{
-			"Section":					"Shop",
-			"Pointer_Offset_Start":		8,
-			"Style":					"P120",
-			"Text_Start":				4964,
-			"Text_End":					5704,
-			"To_Translate":				1
+			"section":					"Shop",
+			"pointers_start":			8,
+			"pointers_end":				4723,
+			"style":					"P120"
+		}]
+	},
+		{
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_HELP_DATA/bt_help_data.dat",
+		"friendly_name": "Help",
+		"split_sections": false,
+		"base_offset":	0,
+		"sections":
+		[
+		{
+			"section":					"Help",
+			"pointers_start":			12,
+			"pointers_end":				867,
+			"style":					"PP8"
+		}]
+	},
+		{
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_MAP_DATA/bt_map_data.dat",
+		"friendly_name": "Map",
+		"split_sections": false,
+		"base_offset":	0,
+		"sections":
+		[
+		{
+			"section":					"Map",
+			"pointers_start":			8,
+			"pointers_end":				2531,
+			"style":					"P32"
+		}]
+	},
+		{
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_MEMO_DATA/bt_memo_data.dat",
+		"friendly_name": "Memo",
+		"split_sections": false,
+		"base_offset":	0,
+		"sections":
+		[
+		{
+			"section":					"Memo1",
+			"pointers_start":			4,
+			"pointers_end":				4259,
+			"style":					"4P8P8P8P8P8P8"
 		}
 		]
 	},
-	{
-		"File_Original":"../Data/Narikiri-Dungeon-X/All/battle/data/bt_data.b",
-		"File_Extract": "../Data/Narikiri-Dungeon-X/Menu/New/battle/data/BT_DATA/BT_HELP_DATA/bt_help_data.dat",
-		"File_XML":		"../Narikiri-Dungeon-X/Data/NDX/Menu/XML/Help.xml",
-		"Hashes_Name":	"battle/data",
-		"Text_Start":	868,
-		"Text_End":		39910,
-		"Base_Offset":	0,
-		"Sections":
+		{
+		"file_path":"../1_extracted/All/map/data/btlmemocate.dat",
+		"friendly_name": "SectionName",
+		"split_sections": false,
+		"base_offset":	0,
+		"sections":
 		[
 		{
-			"Section":					"Help",
-			"Pointer_Offset_Start":		12,
-			"Style":					"PP8",
-			"Text_Start":				868,
-			"Text_End":					39910,
-			"To_Translate":				1
+			"section":					"SectionName",
+			"pointers_start":			0,
+			"pointers_end":				111,
+			"style":					"T16"
 		}
 		]
 	},
-	{
-		"File_Original":"../Data/Narikiri-Dungeon-X/All/battle/data/bt_data.b",
-		"File_Extract": "../Data/Narikiri-Dungeon-X/Menu/New/battle/data/BT_DATA/BT_MAP_DATA/bt_map_data.dat",
-		"File_XML":		"../Narikiri-Dungeon-X/Data/NDX/Menu/XML/Map.xml",
-		"Hashes_Name":	"battle/data",
-		"Text_Start":	2560,
-		"Text_End":		3805,
-		"Base_Offset":	0,
-		"Sections":
+		{
+		"file_path":"../1_extracted/All/map/data/btlmemo/BtlMemo.dat",
+		"friendly_name": "BattleBook",
+		"split_sections": false,
+		"base_offset":	0,
+		"sections":
 		[
 		{
-			"Section":					"Map",
-			"Pointer_Offset_Start":		8,
-			"Style":					"P32",
-			"Text_Start":				2560,
-			"Text_End":					3805,
-			"To_Translate":				1
+			"section":					"BattleBook",
+			"pointers_start":			4,
+			"pointers_end":				74801,
+			"style":					"T22T658"
 		}
 		]
 	},
-	{
-		"File_Original":"../Data/Narikiri-Dungeon-X/All/battle/data/bt_data.b",
-		"File_Extract": "../Data/Narikiri-Dungeon-X/Menu/New/battle/data/BT_DATA/BT_MEMO_DATA/bt_memo_data.dat",
-		"File_XML":		"../Narikiri-Dungeon-X/Data/NDX/Menu/XML/Memo.xml",
-		"Hashes_Name":	"battle/data",
-		"Text_Start":	4260,
-		"Text_End":		25209,
-		"Base_Offset":	0,
-		"Sections":
+		{
+		"file_path":"../1_extracted/All/battle/data/BT_DATA/BT_COSTUME_DATA/bt_costume_data.dat",
+		"friendly_name": "Costume",
+		"split_sections": false,
+		"base_offset":	0,
+		"sections":
 		[
 		{
-			"Section":					"Config1",
-			"Pointer_Offset_Start":		8,
-			"Style":					"P8",
-			"Text_Start":				4260,
-			"Text_End":					5504,
-			"To_Translate":				1
+			"section":					"Costume1",
+			"pointers_start":			8,
+			"pointers_end":				34287,
+			"style":					"PP400"
 		},
 		{
-			"Section":					"Config2",
-			"Pointer_Offset_Start":		96,
-			"Style":					"P8",
-			"Text_Start":				5505,
-			"Text_End":					25209,
-			"To_Translate":				1
+			"section":					"Costume2",
+			"pointers_start":			50240,
+			"pointers_end":				55215,
+			"style":					"PP544"
 		}
 		]
 	}

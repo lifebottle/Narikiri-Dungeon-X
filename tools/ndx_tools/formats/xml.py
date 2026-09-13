@@ -4,8 +4,8 @@ from enum import StrEnum
 from pathlib import Path
 from typing import ClassVar, Self
 
-from loguru import logger
 import lxml.etree as ET
+from loguru import logger
 
 
 class TlStatus(StrEnum):
@@ -91,7 +91,7 @@ class TlXml:
         return result
 
     @classmethod
-    def _new_pool(cls, section: str, nodes: list[ET._Element]) -> TlRefPool:
+    def _new_pool(cls, section: str, nodes: list[ET._Element]) -> None:
         pool = TlRefPool()
         for node in cls.serialize_entries(nodes):
             jp = node.jp_text

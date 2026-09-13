@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Strings>
+    <Section>Save Menu UI 3</Section>
+    <Entry>
+      <PointerOffset>1649288</PointerOffset>
+      <JapaneseText>ゲームクリアデータをセーブします
+ここでセーブしたデータは、ゲームを最初から
+始めるデータになります。
+
+また、これまでの戦闘で得たＧＲＡＤＥの合計
+を消費して、様々な特典を得ることができます</JapaneseText>
+      <EnglishText>Saving Clear Data
+The data saved at this will allow you to replay the 
+game from the beginning.
+
+You will be able to enjoy multiple benefits by spending
+the GRADE you've accumulated from your run.</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>
