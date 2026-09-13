@@ -81,10 +81,10 @@
     <Entry>
       <PointerOffset>84</PointerOffset>
       <JapaneseText>基本操作</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Basic Controls</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>96</PointerOffset>
@@ -121,10 +121,15 @@ and prepare your characters for battle.</EnglishText>
 正面に一発の炎を飛ばせます。
 仕掛けを動かす、敵シンボルと戦闘する等、
 様々な用途があります。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>[Special Action 1]
+&lt;icon:4&gt;: Sorcerer's Ring
+Once you have the Key Item Sorcerer's Ring
+you can shoot fireballs in a straight line
+outside of battle. Try using it to activate
+switches or engage enemies from far away!</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>120</PointerOffset>
@@ -135,10 +140,13 @@ and prepare your characters for battle.</EnglishText>
 
 戦闘内でのチュートリアルも押し続けると
 その間、高速でメッセージが流れます。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>[Special Action 2]
+&lt;icon:3&gt;: Scene Skip
+Press this button during dialogue to skip
+the scene.  </EnglishText>
       <Notes/>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>132,144,196,208,220,284,296,372,424,436,448,500,512,524,588,600,664,676,728,740,752,804,816,828,880,892,904,956,968,980,1032,1044,1056,1108,1120,1132,1184,1196,1208,1260,1272,1284,1336,1348,1360,1412,1424,1436,1488,1500,1512,1588,1652,1664,1704,1716,1728,1740,1792,1804,1816,1868,1880,1892,1944,1956,1968,2020,2032,2044,2120,2172,2184,2196,2236,2248,2260,2272,2324,2336,2348,2400,2412,2424,2476,2488,2500,2540,2552,2564,2576,2640,2652,2692,2704,2716,2728,2768,2780,2792,2804,2844,2856,2868,2880,2920,2932,2944,2956,3032,3084,3096,3108,3148,3160,3172,3184,3224,3236,3248,3260,3312,3324,3336,3376,3388,3400,3412,3476,3488,3528,3540,3552,3564,3616,3628,3640,3680,3692,3704,3716,3756,3768,3780,3792,3832,3844,3856,3868,3908,3920,3932,3944,4060,4072,4084,4096,4136,4148,4160,4172,4200,4212,4224,4236,4248</PointerOffset>
@@ -151,10 +159,10 @@ and prepare your characters for battle.</EnglishText>
     <Entry>
       <PointerOffset>160</PointerOffset>
       <JapaneseText>戦闘操作１</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Combat Controls 1</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>172</PointerOffset>
@@ -167,10 +175,19 @@ and prepare your characters for battle.</EnglishText>
 押している間、敵の攻撃を防御します。
 &lt;icon:16&gt;：移動ボタン
 &lt;icon:21&gt;で走り、&lt;icon:17&gt;でジャンプします。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>[Combat Controls]
+&lt;icon:1&gt;: Attack
+Press this button to perform
+Normal Attacks.
+&lt;icon:2&gt;: Arte
+Press this button to perform Artes.
+&lt;icon:4&gt;: Guard
+Hold this button to block enemy attacks.
+&lt;icon:16&gt;: Movement
+Press &lt;icon:21&gt; to move and &lt;icon:17&gt; to jump.</EnglishText>
       <Notes/>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>184</PointerOffset>
@@ -180,18 +197,23 @@ and prepare your characters for battle.</EnglishText>
 作戦や隊列を変更する、戦闘から逃げる、
 術技を準備する等の機能を使えるツールを
 呼び出します。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;icon:3&gt;: Menu
+This button opens the menu where you can
+use items, change equipment and artes,
+adjust strategy and formation, flee battles,
+change the playable party member and
+adjust the camera.</EnglishText>
       <Notes/>
       <Id>14</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>236</PointerOffset>
       <JapaneseText>戦闘操作２</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Combat Controls 2</EnglishText>
       <Notes/>
       <Id>15</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>248</PointerOffset>
@@ -240,10 +262,10 @@ and prepare your characters for battle.</EnglishText>
     <Entry>
       <PointerOffset>312,388</PointerOffset>
       <JapaneseText>戦闘操作&gt;応用</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Advanced Combat Controls</EnglishText>
       <Notes/>
       <Id>19</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>324</PointerOffset>
@@ -253,10 +275,13 @@ and prepare your characters for battle.</EnglishText>
 します。
 
 </JapaneseText>
-      <EnglishText/>
+      <EnglishText>[Overview]
+This section covers advanced button
+combinations that allow for more effective
+controls.</EnglishText>
       <Notes/>
       <Id>20</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>336</PointerOffset>
@@ -265,10 +290,15 @@ and prepare your characters for battle.</EnglishText>
 攻撃は行えますが、
 特定のルールで攻撃を行うとより素早く
 連続攻撃ができる「技の連携」が発生します。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>[Chaining Attacks]
+&lt;icon:1&gt; and &lt;icon:2&gt; each perform individual
+attacks, but you can chain multiple attacks
+in a row to create Combos!
+Attacks can be Chained in order according
+to the chain rules.</EnglishText>
       <Notes/>
       <Id>21</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>348</PointerOffset>
@@ -279,10 +309,17 @@ and prepare your characters for battle.</EnglishText>
 ：「奥義」
 これが技の連携を行うのにとても重要な意味を持ちます。
 &lt;R&gt;【アイコンの絵】&lt;/R&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>[Attack Chain Rules 1]
+Attacks broadly fall under one of 3
+categories:
+-Normal Attacks
+-Base Artes
+-Arcane Artes
+Recognizing types of attacks is important
+to Chaining them together.</EnglishText>
       <Notes/>
       <Id>22</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>360</PointerOffset>
@@ -290,10 +327,16 @@ and prepare your characters for battle.</EnglishText>
 「通常技」→「特技」→「奥義」の順番であれば、
 攻撃後の隙を無くし、連続的に攻撃が続きます。
 これを使い、敵を一方的に攻撃することも可能です。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>[Attack Chain Rules 2]
+The basic order you can chain attacks in is
+Normal Attack &gt; Base Arte &gt; Arcane Arte.
+If you chain attacks properly this way,
+you'll eliminate any openings you'll normally
+have, creating a Combo that prevents your
+foes from fighting back.</EnglishText>
       <Notes/>
       <Id>23</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>400</PointerOffset>
@@ -303,10 +346,12 @@ and prepare your characters for battle.</EnglishText>
 
 
 </JapaneseText>
-      <EnglishText/>
+      <EnglishText>[Overview]
+This section explains the controls for
+characters who can fly, such as Witches.</EnglishText>
       <Notes/>
       <Id>24</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>412</PointerOffset>
@@ -315,18 +360,23 @@ and prepare your characters for battle.</EnglishText>
 押した方向へふわふわと飛ぶことが出来ます。
 但し、一定の高さ以上になると飛ぶことができず、
 通常通り重力を受けることになります。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>[Flight]
+Flying characters ignore gravity and float
+gracefully in the direction you press &lt;icon:16&gt;.
+If they fly too close to the sun, then
+gravity will begin affecting them until they
+return to their normal flying height.</EnglishText>
       <Notes/>
       <Id>25</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>464</PointerOffset>
       <JapaneseText>表示物&gt;基本</JapaneseText>
-      <EnglishText/>
+      <EnglishText>HUD Elements - Basics</EnglishText>
       <Notes/>
       <Id>26</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>476</PointerOffset>
@@ -336,28 +386,30 @@ and prepare your characters for battle.</EnglishText>
 
 
 </JapaneseText>
-      <EnglishText/>
+      <EnglishText>[Overview]
+This section explains HUD elements relevant
+to controlling a character in battle.</EnglishText>
       <Notes/>
       <Id>27</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>488</PointerOffset>
       <JapaneseText>【各表示物の意味】
 
 &lt;R&gt;【キャラステータスＧＵＩの絵】&lt;/R&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>[Explanation of HUD element]</EnglishText>
       <Notes/>
       <Id>28</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>540</PointerOffset>
       <JapaneseText>表示物&gt;ＥＢＧ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>HUD - EBG</EnglishText>
       <Notes/>
       <Id>29</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>552</PointerOffset>
@@ -402,10 +454,10 @@ and prepare your characters for battle.</EnglishText>
     <Entry>
       <PointerOffset>616</PointerOffset>
       <JapaneseText>表示物&gt;攻撃</JapaneseText>
-      <EnglishText/>
+      <EnglishText>HUD - Attacks</EnglishText>
       <Notes/>
       <Id>33</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>628</PointerOffset>
@@ -450,10 +502,10 @@ and prepare your characters for battle.</EnglishText>
     <Entry>
       <PointerOffset>692</PointerOffset>
       <JapaneseText>表示物&gt;状態</JapaneseText>
-      <EnglishText/>
+      <EnglishText>HUD - Status</EnglishText>
       <Notes/>
       <Id>37</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>704</PointerOffset>
@@ -482,10 +534,10 @@ and prepare your characters for battle.</EnglishText>
     <Entry>
       <PointerOffset>768</PointerOffset>
       <JapaneseText>表示物&gt;補足</JapaneseText>
-      <EnglishText/>
+      <EnglishText>HUD - Extras</EnglishText>
       <Notes/>
       <Id>40</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>780</PointerOffset>
@@ -513,10 +565,10 @@ and prepare your characters for battle.</EnglishText>
     <Entry>
       <PointerOffset>844</PointerOffset>
       <JapaneseText>戦闘終了操作</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Results Screen Controls</EnglishText>
       <Notes/>
       <Id>43</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>856</PointerOffset>
@@ -526,10 +578,12 @@ and prepare your characters for battle.</EnglishText>
 
 
 </JapaneseText>
-      <EnglishText/>
+      <EnglishText>[Overview]
+This section explains the Results screen that
+appears at the end of a battle.</EnglishText>
       <Notes/>
       <Id>44</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>868</PointerOffset>
@@ -550,10 +604,10 @@ and prepare your characters for battle.</EnglishText>
     <Entry>
       <PointerOffset>920</PointerOffset>
       <JapaneseText>オーバーブレイブ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Overbrave</EnglishText>
       <Notes/>
       <Id>46</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>932</PointerOffset>
@@ -582,10 +636,10 @@ and prepare your characters for battle.</EnglishText>
     <Entry>
       <PointerOffset>996</PointerOffset>
       <JapaneseText>秘奥義</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mystic Artes</EnglishText>
       <Notes/>
       <Id>49</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1008</PointerOffset>
@@ -616,10 +670,10 @@ and prepare your characters for battle.</EnglishText>
     <Entry>
       <PointerOffset>1072</PointerOffset>
       <JapaneseText>クルールの特技①</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Couleur's Special Ability 1</EnglishText>
       <Notes/>
       <Id>52</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1084</PointerOffset>
@@ -637,18 +691,18 @@ and prepare your characters for battle.</EnglishText>
     <Entry>
       <PointerOffset>1096</PointerOffset>
       <JapaneseText>【捕獲について】</JapaneseText>
-      <EnglishText/>
+      <EnglishText>[About Capturing]</EnglishText>
       <Notes/>
       <Id>54</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1148</PointerOffset>
       <JapaneseText>クルールの特技②</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Couleur's Special Ability 2</EnglishText>
       <Notes/>
       <Id>55</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1160</PointerOffset>
@@ -666,18 +720,18 @@ and prepare your characters for battle.</EnglishText>
     <Entry>
       <PointerOffset>1172</PointerOffset>
       <JapaneseText>【チェインパートナー】</JapaneseText>
-      <EnglishText/>
+      <EnglishText>[Chain Partner]</EnglishText>
       <Notes/>
       <Id>57</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1224</PointerOffset>
       <JapaneseText>料理システム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Cooking</EnglishText>
       <Notes/>
       <Id>58</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1236</PointerOffset>
@@ -707,10 +761,10 @@ and prepare your characters for battle.</EnglishText>
     <Entry>
       <PointerOffset>1300</PointerOffset>
       <JapaneseText>属性&gt;基本</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attributes - Basics</EnglishText>
       <Notes/>
       <Id>61</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1312</PointerOffset>
@@ -738,10 +792,10 @@ and prepare your characters for battle.</EnglishText>
     <Entry>
       <PointerOffset>1376</PointerOffset>
       <JapaneseText>属性&gt;コンボ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Attributes - Combo</EnglishText>
       <Notes/>
       <Id>64</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1388</PointerOffset>
@@ -1017,10 +1071,10 @@ and prepare your characters for battle.</EnglishText>
     <Entry>
       <PointerOffset>1984</PointerOffset>
       <JapaneseText>上級操作</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Advanced Controls</EnglishText>
       <Notes/>
       <Id>90</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>1996</PointerOffset>
@@ -1046,10 +1100,10 @@ and prepare your characters for battle.</EnglishText>
     <Entry>
       <PointerOffset>2060</PointerOffset>
       <JapaneseText>状態異常</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Status Effects</EnglishText>
       <Notes/>
       <Id>93</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2072</PointerOffset>
@@ -1067,26 +1121,26 @@ and prepare your characters for battle.</EnglishText>
     <Entry>
       <PointerOffset>2084</PointerOffset>
       <JapaneseText>【戦闘内での状態異常効果】</JapaneseText>
-      <EnglishText/>
+      <EnglishText>[Status Effects during Battle]</EnglishText>
       <Notes/>
       <Id>95</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2096</PointerOffset>
       <JapaneseText>【マップ上での状態異常効果】</JapaneseText>
-      <EnglishText/>
+      <EnglishText>[Status Effects outside of Battle]</EnglishText>
       <Notes/>
       <Id>96</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2108</PointerOffset>
       <JapaneseText>【状態異常回復・予防について】</JapaneseText>
-      <EnglishText/>
+      <EnglishText>[Status Effect Recovery and Prevention]</EnglishText>
       <Notes/>
       <Id>97</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2136</PointerOffset>
