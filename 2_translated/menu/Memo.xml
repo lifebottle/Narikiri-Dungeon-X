@@ -1,8 +1,8 @@
-<MenuText>
+<SceneText>
   <Strings>
     <Section>Memo1</Section>
     <Entry>
-      <PointerOffset>8,2516</PointerOffset>
+      <PointerOffset>8</PointerOffset>
       <JapaneseText>項目名だみー</JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -36,14 +36,14 @@
     </Entry>
     <Entry>
       <PointerOffset>44</PointerOffset>
-      <JapaneseText>#define STR_BTN_CIRCLE "&lt;icon:1&gt;" //!&lt; ○
-#define STR_BTN_CROSS "&lt;icon:2&gt;" //!&lt; ×
-#define STR_BTN_TRI "&lt;icon:3&gt;" //!&lt; △
-#define STR_BTN_SQUARE "&lt;icon:4&gt;" //!&lt; □
-#define STR_BTN_L "&lt;icon:5&gt;" //!&lt; L
-#define STR_BTN_R "&lt;icon:6&gt;" //!&lt; R
-#define STR_BTN_SELECT "&lt;icon:7&gt;" //!&lt; SELECT
-#define STR_BTN_START "&lt;icon:8&gt;" //!&lt; START
+      <JapaneseText>#define STR_BTN_CIRCLE "&lt;CIRCLE&gt;" //!&lt; ○
+#define STR_BTN_CROSS "&lt;CROSS&gt;" //!&lt; ×
+#define STR_BTN_TRI "&lt;TRIANGLE&gt;" //!&lt; △
+#define STR_BTN_SQUARE "&lt;SQUARE&gt;" //!&lt; □
+#define STR_BTN_L "&lt;L&gt;" //!&lt; L
+#define STR_BTN_R "&lt;R&gt;" //!&lt; R
+#define STR_BTN_SELECT "&lt;SELECT&gt;" //!&lt; SELECT
+#define STR_BTN_START "&lt;START&gt;" //!&lt; START
 </JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -53,12 +53,12 @@
     <Entry>
       <PointerOffset>56</PointerOffset>
       <JapaneseText>//
-#define STR_BTN_PAD "&lt;icon:16&gt;" //!&lt; 十字キー
-#define STR_BTN_PAD_U "&lt;icon:17&gt;" //!&lt; 十字キー↑
-#define STR_BTN_PAD_D "&lt;icon:18&gt;" //!&lt; 十字キー↓
-#define STR_BTN_PAD_L "&lt;icon:19&gt;" //!&lt; 十字キー←
-#define STR_BTN_PAD_R "&lt;icon:20&gt;" //!&lt; 十字キー→
-#define STR_BTN_PAD_LR "&lt;icon:21&gt;" //!&lt; 十字キー⇔
+#define STR_BTN_PAD "&lt;DPAD&gt;" //!&lt; 十字キー
+#define STR_BTN_PAD_U "&lt;DPAD_U&gt;" //!&lt; 十字キー↑
+#define STR_BTN_PAD_D "&lt;DPAD_D&gt;" //!&lt; 十字キー↓
+#define STR_BTN_PAD_L "&lt;DPAD_L&gt;" //!&lt; 十字キー←
+#define STR_BTN_PAD_R "&lt;DPAD_R&gt;" //!&lt; 十字キー→
+#define STR_BTN_PAD_LR "&lt;DPAD_LR&gt;" //!&lt; 十字キー⇔
 </JapaneseText>
       <EnglishText/>
       <Notes/>
@@ -68,11 +68,11 @@
     <Entry>
       <PointerOffset>68</PointerOffset>
       <JapaneseText>//
-#define STR_BTN_STICK "&lt;icon:32&gt;" //!&lt; スティック
-#define STR_BTN_STICK_U "&lt;icon:33&gt;" //!&lt; スティック↑
-#define STR_BTN_STICK_D "&lt;icon:34&gt;" //!&lt; スティック↓
-#define STR_BTN_STICK_R "&lt;icon:35&gt;" //!&lt; スティック→
-#define STR_BTN_STICK_L "&lt;icon:36&gt;" //!&lt; スティック←</JapaneseText>
+#define STR_BTN_STICK "&lt;STICK&gt;" //!&lt; スティック
+#define STR_BTN_STICK_U "&lt;STICK_U&gt;" //!&lt; スティック↑
+#define STR_BTN_STICK_D "&lt;STICK_D&gt;" //!&lt; スティック↓
+#define STR_BTN_STICK_R "&lt;STICK_R&gt;" //!&lt; スティック→
+#define STR_BTN_STICK_L "&lt;STICK_L&gt;" //!&lt; スティック←</JapaneseText>
       <EnglishText/>
       <Notes/>
       <Id>6</Id>
@@ -89,23 +89,23 @@
     <Entry>
       <PointerOffset>96</PointerOffset>
       <JapaneseText>【基本操作】
-&lt;icon:1&gt;：決定ボタン
+&lt;CIRCLE&gt;：決定ボタン
 物を調べる、人と話す、選択肢の決定、
 会話を進める等、次へ進む為のボタンです。
-&lt;icon:2&gt;：キャンセルボタン
+&lt;CROSS&gt;：キャンセルボタン
 前の画面に戻る、会話の早送り、
-&lt;icon:3&gt;：メニューボタン
+&lt;TRIANGLE&gt;：メニューボタン
 各種データの確認、機能のカスタマイズ、
 戦闘を行なう為の準備ができる画面を開く
 ことができます。</JapaneseText>
       <EnglishText>[Basic Controls]
-&lt;icon:1&gt;: Confirm Button
+&lt;CIRCLE&gt;: Confirm Button
 Use this button to confirm options, 
 talk to people, advance dialogue and examine objects.
-&lt;icon:2&gt;: Cancel Button
+&lt;CROSS&gt;: Cancel Button
 This button lets you back out of menus 
 or fast forward dialogue.
-&lt;icon:3&gt;: Menu Button
+&lt;TRIANGLE&gt;: Menu Button
 This button opens the Menu, 
 where you can check settings and data
 and prepare your characters for battle.</EnglishText>
@@ -116,7 +116,7 @@ and prepare your characters for battle.</EnglishText>
     <Entry>
       <PointerOffset>108</PointerOffset>
       <JapaneseText>【特殊操作１】
-&lt;icon:4&gt;：ソーサラーリング
+&lt;SQUARE&gt;：ソーサラーリング
 貴重品「ソーサラーリング」を入手すると
 正面に一発の炎を飛ばせます。
 仕掛けを動かす、敵シンボルと戦闘する等、
@@ -129,7 +129,7 @@ and prepare your characters for battle.</EnglishText>
     <Entry>
       <PointerOffset>120</PointerOffset>
       <JapaneseText>【特殊操作２】
-&lt;icon:3&gt;：メッセージのスキップ
+&lt;TRIANGLE&gt;：メッセージのスキップ
 イベント会話中に押すことで、実行の確認
 をした後、そのイベントをスキップします。
 
@@ -141,11 +141,19 @@ and prepare your characters for battle.</EnglishText>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>132,144,196,208,220,284,296,372,424,436,448,500,512,524,588,600,664,676,728,740,752,804,816,828,880,892,904,956,968,980,1032,1044,1056,1108,1120,1132,1184,1196,1208,1260,1272,1284,1336,1348,1360,1412,1424,1436,1488,1500,1512,1588,1652,1664,1704,1716,1728,1740,1792,1804,1816,1868,1880,1892,1944,1956,1968,2020,2032,2044,2120,2172,2184,2196,2236,2248,2260,2272,2324,2336,2348,2400,2412,2424,2476,2488,2500,2540,2552,2564,2576,2640,2652,2692,2704,2716,2728,2768,2780,2792,2804,2844,2856,2868,2880,2920,2932,2944,2956,3032,3084,3096,3108,3148,3160,3172,3184,3224,3236,3248,3260,3312,3324,3336,3376,3388,3400,3412,3476,3488,3528,3540,3552,3564,3616,3628,3640,3680,3692,3704,3716,3756,3768,3780,3792,3832,3844,3856,3868,3908,3920,3932,3944,4060,4072,4084,4096,4136,4148,4160,4172,4200,4212,4224,4236,4248</PointerOffset>
-      <JapaneseText></JapaneseText>
+      <PointerOffset>132</PointerOffset>
+      <JapaneseText/>
       <EnglishText/>
       <Notes/>
       <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>144</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -153,36 +161,60 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>戦闘操作１</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>12</Id>
+      <Id>13</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>172</PointerOffset>
       <JapaneseText>【戦闘操作】
-&lt;icon:1&gt;：攻撃ボタン１
+&lt;CIRCLE&gt;：攻撃ボタン１
 弱い攻撃を行います。
-&lt;icon:2&gt;：攻撃ボタン２
+&lt;CROSS&gt;：攻撃ボタン２
 術技画面でセットした強い攻撃を行います。
-&lt;icon:4&gt;：防御ボタン
+&lt;SQUARE&gt;：防御ボタン
 押している間、敵の攻撃を防御します。
-&lt;icon:16&gt;：移動ボタン
-&lt;icon:21&gt;で走り、&lt;icon:17&gt;でジャンプします。</JapaneseText>
+&lt;DPAD&gt;：移動ボタン
+&lt;DPAD_LR&gt;で走り、&lt;DPAD_U&gt;でジャンプします。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>13</Id>
+      <Id>14</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>184</PointerOffset>
       <JapaneseText>
-&lt;icon:3&gt;：メニューボタン
+&lt;TRIANGLE&gt;：メニューボタン
 アイテムを使う、装備を変更する、
 作戦や隊列を変更する、戦闘から逃げる、
 術技を準備する等の機能を使えるツールを
 呼び出します。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>14</Id>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>196</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>208</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>220</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -190,59 +222,75 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>戦闘操作２</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>15</Id>
+      <Id>19</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>248</PointerOffset>
       <JapaneseText>【ボタンの組み合わせ】
-&lt;icon:16&gt;ボタンと同時に押すことで、
-同じ&lt;icon:1&gt;ボタンであっても別の攻撃動作
+&lt;DPAD&gt;ボタンと同時に押すことで、
+同じ&lt;CIRCLE&gt;ボタンであっても別の攻撃動作
 を出すことが出来るキャラもいます。
 
-&lt;icon:1&gt;　　：通常技（振る攻撃）
-&lt;icon:1&gt;＋&lt;icon:17&gt;：通常技（振り上げる攻撃）
-&lt;icon:1&gt;＋&lt;icon:18&gt;：通常技（振り下ろす攻撃）
-&lt;icon:1&gt;＋&lt;icon:21&gt;：通常技（突く攻撃）</JapaneseText>
+&lt;CIRCLE&gt;　　：通常技（振る攻撃）
+&lt;CIRCLE&gt;＋&lt;DPAD_U&gt;：通常技（振り上げる攻撃）
+&lt;CIRCLE&gt;＋&lt;DPAD_D&gt;：通常技（振り下ろす攻撃）
+&lt;CIRCLE&gt;＋&lt;DPAD_LR&gt;：通常技（突く攻撃）</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>16</Id>
+      <Id>20</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>260</PointerOffset>
       <JapaneseText>【攻撃ボタンの組み合わせ①】
-&lt;icon:2&gt;ボタンでも同様に、
-&lt;icon:16&gt;キーとの組み合わせがあります。
+&lt;CROSS&gt;ボタンでも同様に、
+&lt;DPAD&gt;キーとの組み合わせがあります。
 
-&lt;icon:2&gt;　　：術技（設定した攻撃Ａ）
-&lt;icon:2&gt;＋&lt;icon:17&gt;：術技（設定した攻撃Ａ）
-&lt;icon:2&gt;＋&lt;icon:18&gt;：術技（設定した攻撃Ａ）
-&lt;icon:2&gt;＋&lt;icon:21&gt;：術技（設定した攻撃Ａ）</JapaneseText>
+&lt;CROSS&gt;　　：術技（設定した攻撃Ａ）
+&lt;CROSS&gt;＋&lt;DPAD_U&gt;：術技（設定した攻撃Ａ）
+&lt;CROSS&gt;＋&lt;DPAD_D&gt;：術技（設定した攻撃Ａ）
+&lt;CROSS&gt;＋&lt;DPAD_LR&gt;：術技（設定した攻撃Ａ）</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>17</Id>
+      <Id>21</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>272</PointerOffset>
       <JapaneseText>【移動ボタンの組み合わせ】
-&lt;icon:4&gt;ボタンを押しながら、&lt;icon:21&gt;で移動を行うと
+&lt;SQUARE&gt;ボタンを押しながら、&lt;DPAD_LR&gt;で移動を行うと
 歩いている間に敵が攻撃してきた場合、
 自動的に防御してくれます。
 
-&lt;icon:4&gt;＋&lt;icon:21&gt;：警戒歩行</JapaneseText>
+&lt;SQUARE&gt;＋&lt;DPAD_LR&gt;：警戒歩行</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>18</Id>
+      <Id>22</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
-      <PointerOffset>312,388</PointerOffset>
+      <PointerOffset>284</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>296</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>312</PointerOffset>
       <JapaneseText>戦闘操作&gt;応用</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>19</Id>
+      <Id>25</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -255,19 +303,19 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>20</Id>
+      <Id>26</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>336</PointerOffset>
       <JapaneseText>【攻撃同士を素早く繋ぐ方法】
-&lt;icon:1&gt;ボタンや&lt;icon:2&gt;ボタンを押すことで
+&lt;CIRCLE&gt;ボタンや&lt;CROSS&gt;ボタンを押すことで
 攻撃は行えますが、
 特定のルールで攻撃を行うとより素早く
 連続攻撃ができる「技の連携」が発生します。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>21</Id>
+      <Id>27</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -281,7 +329,7 @@ and prepare your characters for battle.</EnglishText>
 &lt;R&gt;【アイコンの絵】&lt;/R&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>22</Id>
+      <Id>28</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -292,7 +340,23 @@ and prepare your characters for battle.</EnglishText>
 これを使い、敵を一方的に攻撃することも可能です。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>23</Id>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>372</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>388</PointerOffset>
+      <JapaneseText>戦闘操作&gt;応用</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>31</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -305,19 +369,43 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>24</Id>
+      <Id>32</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>412</PointerOffset>
       <JapaneseText>【空を飛ぶ】
-空を飛べるキャラは、重力を無視して&lt;icon:16&gt;キーを
+空を飛べるキャラは、重力を無視して&lt;DPAD&gt;キーを
 押した方向へふわふわと飛ぶことが出来ます。
 但し、一定の高さ以上になると飛ぶことができず、
 通常通り重力を受けることになります。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>25</Id>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>424</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>436</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>448</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>36</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -325,7 +413,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>表示物&gt;基本</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>26</Id>
+      <Id>37</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -338,7 +426,7 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>27</Id>
+      <Id>38</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -348,7 +436,31 @@ and prepare your characters for battle.</EnglishText>
 &lt;R&gt;【キャラステータスＧＵＩの絵】&lt;/R&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>28</Id>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>500</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>512</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>524</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>42</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -356,7 +468,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>表示物&gt;ＥＢＧ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>29</Id>
+      <Id>43</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -369,7 +481,7 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>30</Id>
+      <Id>44</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -383,7 +495,7 @@ and prepare your characters for battle.</EnglishText>
 敵にダメージを与える等でどんどん増やすことが出来ます。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>31</Id>
+      <Id>45</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -396,7 +508,23 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>32</Id>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>588</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>600</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>48</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -404,7 +532,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>表示物&gt;攻撃</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>33</Id>
+      <Id>49</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -417,7 +545,7 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>34</Id>
+      <Id>50</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -431,7 +559,7 @@ and prepare your characters for battle.</EnglishText>
 同時に、前述「ＥＢＧ」が増えていきます。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>35</Id>
+      <Id>51</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -444,7 +572,23 @@ and prepare your characters for battle.</EnglishText>
 ダメージを受けると、ＥＢＧも減ってしまいます。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>36</Id>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>664</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>676</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>54</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -452,7 +596,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>表示物&gt;状態</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>37</Id>
+      <Id>55</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -465,7 +609,7 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>38</Id>
+      <Id>56</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -476,7 +620,31 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>39</Id>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>728</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>740</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>752</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>60</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -484,7 +652,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>表示物&gt;補足</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>40</Id>
+      <Id>61</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -497,7 +665,7 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>41</Id>
+      <Id>62</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -507,7 +675,31 @@ and prepare your characters for battle.</EnglishText>
 &lt;R&gt;【各種ＧＵＩ絵】&lt;/R&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>42</Id>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>804</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>816</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>828</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>66</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -515,7 +707,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>戦闘終了操作</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>43</Id>
+      <Id>67</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -528,7 +720,7 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>44</Id>
+      <Id>68</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -544,7 +736,31 @@ and prepare your characters for battle.</EnglishText>
 ＣＰ：　手に入れたコスチュームを入手する為に使うポイント</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>45</Id>
+      <Id>69</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>880</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>70</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>892</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>71</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>904</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>72</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -552,7 +768,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>オーバーブレイブ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>46</Id>
+      <Id>73</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -565,7 +781,7 @@ and prepare your characters for battle.</EnglishText>
 その方法について解説します。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>47</Id>
+      <Id>74</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -576,7 +792,31 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>48</Id>
+      <Id>75</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>956</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>76</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>968</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>77</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>980</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>78</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -584,7 +824,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>秘奥義</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>49</Id>
+      <Id>79</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -597,7 +837,7 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>50</Id>
+      <Id>80</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -610,7 +850,31 @@ and prepare your characters for battle.</EnglishText>
 秘奥義終了後、オーバーブレイブ状態が解除されます。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>51</Id>
+      <Id>81</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1032</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>82</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1044</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>83</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1056</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>84</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -618,7 +882,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>クルールの特技①</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>52</Id>
+      <Id>85</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -631,7 +895,7 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>53</Id>
+      <Id>86</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -639,7 +903,31 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>【捕獲について】</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>54</Id>
+      <Id>87</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1108</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>88</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1120</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>89</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1132</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>90</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -647,7 +935,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>クルールの特技②</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>55</Id>
+      <Id>91</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -660,7 +948,7 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>56</Id>
+      <Id>92</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -668,7 +956,31 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>【チェインパートナー】</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>57</Id>
+      <Id>93</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1184</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>94</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1196</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>95</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1208</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>96</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -676,7 +988,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>料理システム</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>58</Id>
+      <Id>97</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -689,7 +1001,7 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>59</Id>
+      <Id>98</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -701,7 +1013,31 @@ and prepare your characters for battle.</EnglishText>
 そして、料理を作るには食材というアイテムが必要になります。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>60</Id>
+      <Id>99</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1260</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>100</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1272</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>101</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1284</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>102</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -709,7 +1045,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>属性&gt;基本</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>61</Id>
+      <Id>103</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -722,7 +1058,7 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>62</Id>
+      <Id>104</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -732,7 +1068,31 @@ and prepare your characters for battle.</EnglishText>
 &lt;R&gt;【属性相関図】&lt;/R&gt;</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>63</Id>
+      <Id>105</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1336</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>106</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1348</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>107</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1360</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>108</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -740,7 +1100,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>属性&gt;コンボ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>64</Id>
+      <Id>109</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -753,7 +1113,7 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>65</Id>
+      <Id>110</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -765,7 +1125,31 @@ and prepare your characters for battle.</EnglishText>
 その属性の種類が多ければ多いほど、成功率は高くなります。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>66</Id>
+      <Id>111</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1412</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>112</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1424</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>113</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1436</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>114</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -773,7 +1157,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>連携攻撃&gt;基本</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>67</Id>
+      <Id>115</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -786,7 +1170,7 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>68</Id>
+      <Id>116</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -797,7 +1181,31 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>69</Id>
+      <Id>117</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1488</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>118</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1500</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>119</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1512</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>120</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -805,7 +1213,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>連携攻撃&gt;応用①</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>70</Id>
+      <Id>121</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -818,7 +1226,7 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>71</Id>
+      <Id>122</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -828,7 +1236,7 @@ and prepare your characters for battle.</EnglishText>
 コレを利用すると、普段繋がらない技同士のコンボを狙えます。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>72</Id>
+      <Id>123</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -841,7 +1249,7 @@ and prepare your characters for battle.</EnglishText>
 立たせた後は、更に連続で攻撃を打ち込めます。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>73</Id>
+      <Id>124</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -853,7 +1261,15 @@ and prepare your characters for battle.</EnglishText>
 様々な連携攻撃を組み立てることが出来ます。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>74</Id>
+      <Id>125</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1588</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>126</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -861,7 +1277,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>連携攻撃&gt;応用②</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>75</Id>
+      <Id>127</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -874,7 +1290,7 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>76</Id>
+      <Id>128</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -887,7 +1303,7 @@ and prepare your characters for battle.</EnglishText>
 これは、ＳＴＡＲＴボタンを押すことで意図的に下げることが可能です。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>77</Id>
+      <Id>129</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -898,7 +1314,23 @@ and prepare your characters for battle.</EnglishText>
 特技同士を素早く連携することが可能です！</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>78</Id>
+      <Id>130</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1652</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>131</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1664</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>132</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -906,7 +1338,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>連携攻撃&gt;応用③</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>79</Id>
+      <Id>133</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -919,7 +1351,39 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>80</Id>
+      <Id>134</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1704</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>135</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1716</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>136</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1728</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>137</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1740</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>138</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -927,7 +1391,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>連携攻撃&gt;応用④</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>81</Id>
+      <Id>139</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -940,7 +1404,7 @@ and prepare your characters for battle.</EnglishText>
 得られる機能について触れます。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>82</Id>
+      <Id>140</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -951,7 +1415,31 @@ and prepare your characters for battle.</EnglishText>
 オクトスラッシュ…</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>83</Id>
+      <Id>141</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1792</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>142</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1804</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>143</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1816</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>144</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -959,7 +1447,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>連携攻撃&gt;応用⑤</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>84</Id>
+      <Id>145</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -972,7 +1460,7 @@ and prepare your characters for battle.</EnglishText>
 ついて触れます。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>85</Id>
+      <Id>146</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -984,7 +1472,31 @@ and prepare your characters for battle.</EnglishText>
 敵が倒れてしまうと終了となります。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>86</Id>
+      <Id>147</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1868</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>148</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1880</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>149</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1892</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>150</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -992,7 +1504,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>連携攻撃&gt;応用⑥</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>87</Id>
+      <Id>151</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1003,7 +1515,7 @@ and prepare your characters for battle.</EnglishText>
 ここでは、空中戦闘について</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>88</Id>
+      <Id>152</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1011,7 +1523,31 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>【エアリアル】</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>89</Id>
+      <Id>153</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1944</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>154</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1956</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>155</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1968</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>156</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1019,7 +1555,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>上級操作</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>90</Id>
+      <Id>157</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1032,7 +1568,7 @@ and prepare your characters for battle.</EnglishText>
 します。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>91</Id>
+      <Id>158</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1040,7 +1576,31 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>【その他の挙動について】</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>92</Id>
+      <Id>159</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2020</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>160</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2032</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>161</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2044</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>162</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1048,7 +1608,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>状態異常</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>93</Id>
+      <Id>163</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1061,7 +1621,7 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>94</Id>
+      <Id>164</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1069,7 +1629,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>【戦闘内での状態異常効果】</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>95</Id>
+      <Id>165</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1077,7 +1637,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>【マップ上での状態異常効果】</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>96</Id>
+      <Id>166</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1085,7 +1645,15 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>【状態異常回復・予防について】</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>97</Id>
+      <Id>167</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2120</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>168</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1093,7 +1661,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>状態異常対策</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>98</Id>
+      <Id>169</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1106,7 +1674,7 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>99</Id>
+      <Id>170</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1114,7 +1682,31 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>【ボタンガチャガチャ】</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>100</Id>
+      <Id>171</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2172</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>172</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2184</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>173</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2196</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>174</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1122,7 +1714,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>アイテム入手方法</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>101</Id>
+      <Id>175</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1135,7 +1727,39 @@ and prepare your characters for battle.</EnglishText>
 詳しく触れます。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>102</Id>
+      <Id>176</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2236</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>177</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2248</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>178</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2260</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>179</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2272</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>180</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1143,7 +1767,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>メニュー操作①</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>103</Id>
+      <Id>181</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1156,7 +1780,7 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>104</Id>
+      <Id>182</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1164,7 +1788,31 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>【コスチューム取得方法】</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>105</Id>
+      <Id>183</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2324</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>184</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2336</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>185</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2348</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>186</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1172,7 +1820,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>マップ操作①</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>106</Id>
+      <Id>187</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1185,7 +1833,7 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>107</Id>
+      <Id>188</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1193,7 +1841,31 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>【敵シンボルの色と違い】</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>108</Id>
+      <Id>189</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2400</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>190</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2412</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>191</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2424</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>192</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1201,7 +1873,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>メニュー&gt;コスチューム</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>109</Id>
+      <Id>193</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1215,7 +1887,7 @@ and prepare your characters for battle.</EnglishText>
 説明します。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>110</Id>
+      <Id>194</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1227,7 +1899,39 @@ and prepare your characters for battle.</EnglishText>
 ダンジョン内に存在するセーブポイントに乗る必要があります。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>111</Id>
+      <Id>195</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2476</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>196</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2488</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>197</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2500</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>198</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2516</PointerOffset>
+      <JapaneseText>項目名だみー</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>199</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1235,7 +1939,39 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>【概略】</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>112</Id>
+      <Id>200</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2540</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>201</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2552</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>202</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2564</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>203</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2576</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>204</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1243,7 +1979,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>移動</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>113</Id>
+      <Id>205</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1258,7 +1994,7 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>114</Id>
+      <Id>206</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1273,7 +2009,7 @@ and prepare your characters for battle.</EnglishText>
 ある。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>115</Id>
+      <Id>207</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1287,7 +2023,23 @@ and prepare your characters for battle.</EnglishText>
 る。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>116</Id>
+      <Id>208</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2640</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>209</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2652</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>210</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1295,7 +2047,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>メインメニュー</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>117</Id>
+      <Id>211</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1309,7 +2061,39 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>118</Id>
+      <Id>212</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2692</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>213</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2704</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>214</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2716</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>215</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2728</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>216</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1317,7 +2101,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>アイテム</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>119</Id>
+      <Id>217</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1334,7 +2118,39 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>120</Id>
+      <Id>218</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2768</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>219</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2780</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>220</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2792</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>221</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2804</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>222</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1342,7 +2158,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>コスチューム</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>121</Id>
+      <Id>223</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1361,7 +2177,39 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>122</Id>
+      <Id>224</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2844</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>225</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2856</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>226</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2868</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>227</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2880</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>228</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1369,7 +2217,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>料理</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>123</Id>
+      <Id>229</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1383,7 +2231,39 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>124</Id>
+      <Id>230</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2920</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>231</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2932</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>232</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2944</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>233</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2956</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>234</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1391,7 +2271,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>パーティ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>125</Id>
+      <Id>235</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1404,7 +2284,7 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>126</Id>
+      <Id>236</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1413,7 +2293,7 @@ and prepare your characters for battle.</EnglishText>
 画像</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>127</Id>
+      <Id>237</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1422,7 +2302,7 @@ and prepare your characters for battle.</EnglishText>
 画像</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>128</Id>
+      <Id>238</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1431,7 +2311,15 @@ and prepare your characters for battle.</EnglishText>
 画像</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>129</Id>
+      <Id>239</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3032</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>240</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1439,7 +2327,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>戦闘①</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>130</Id>
+      <Id>241</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1456,7 +2344,7 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>131</Id>
+      <Id>242</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1470,7 +2358,31 @@ and prepare your characters for battle.</EnglishText>
 ンボ」を使っていこう。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>132</Id>
+      <Id>243</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3084</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>244</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3096</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>245</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3108</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>246</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1478,7 +2390,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>戦闘②</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>133</Id>
+      <Id>247</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1497,7 +2409,39 @@ and prepare your characters for battle.</EnglishText>
 ないと防御力が高まる。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>134</Id>
+      <Id>248</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3148</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>249</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3160</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>250</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3172</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>251</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3184</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>252</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1505,7 +2449,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>戦闘③</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>135</Id>
+      <Id>253</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1522,7 +2466,39 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>136</Id>
+      <Id>254</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3224</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>255</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3236</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>256</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3248</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>257</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3260</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>258</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1530,7 +2506,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>戦闘④</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>137</Id>
+      <Id>259</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1546,7 +2522,7 @@ and prepare your characters for battle.</EnglishText>
 がら倍速で動けるようになる。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>138</Id>
+      <Id>260</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1560,7 +2536,31 @@ and prepare your characters for battle.</EnglishText>
 で注意が必要だ。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>139</Id>
+      <Id>261</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3312</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>262</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3324</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>263</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3336</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>264</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1568,7 +2568,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>戦闘⑤</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>140</Id>
+      <Id>265</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1583,7 +2583,39 @@ and prepare your characters for battle.</EnglishText>
 もらえる特典がつく。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>141</Id>
+      <Id>266</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3376</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>267</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3388</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>268</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3400</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>269</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3412</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>270</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1591,7 +2623,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>戦闘詳細１</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>142</Id>
+      <Id>271</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1607,7 +2639,7 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>143</Id>
+      <Id>272</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1624,7 +2656,7 @@ and prepare your characters for battle.</EnglishText>
 これを「行動の連携」という。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>144</Id>
+      <Id>273</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1632,7 +2664,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>【決まったルール】
 「術技」はＥＢＧの消費量に応じて、「特技
 」と「奥義」に分類される。
-「特技」は消費ＥＢＧ量が０〜１０％未満の
+「特技」は消費ＥＢＧ量が０～１０％未満の
 ものを指し、比較的気軽に使える技となって
 いる。
 「奥義」とは、消費ＥＢＧ量が１０％以上の
@@ -1646,7 +2678,23 @@ and prepare your characters for battle.</EnglishText>
 で繋ぐことができる。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>145</Id>
+      <Id>274</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3476</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>275</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3488</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>276</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1654,7 +2702,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>戦闘詳細２</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>146</Id>
+      <Id>277</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1670,7 +2718,39 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>147</Id>
+      <Id>278</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3528</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>279</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3540</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>280</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3552</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>281</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3564</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>282</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1678,7 +2758,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>戦闘詳細３</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>148</Id>
+      <Id>283</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1695,7 +2775,7 @@ and prepare your characters for battle.</EnglishText>
 の攻撃属性が優先される。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>149</Id>
+      <Id>284</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1710,7 +2790,31 @@ and prepare your characters for battle.</EnglishText>
 ならば</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>150</Id>
+      <Id>285</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3616</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>286</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3628</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>287</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3640</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>288</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1718,7 +2822,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>戦闘詳細４</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>151</Id>
+      <Id>289</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1733,7 +2837,39 @@ and prepare your characters for battle.</EnglishText>
 スメする。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>152</Id>
+      <Id>290</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3680</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>291</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3692</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>292</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3704</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>293</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3716</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>294</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1741,7 +2877,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>戦闘詳細５</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>153</Id>
+      <Id>295</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1760,7 +2896,39 @@ and prepare your characters for battle.</EnglishText>
 こともできる。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>154</Id>
+      <Id>296</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3756</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>297</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3768</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>298</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3780</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>299</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3792</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>300</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1768,7 +2936,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>戦闘詳細６</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>155</Id>
+      <Id>301</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1786,7 +2954,39 @@ and prepare your characters for battle.</EnglishText>
 押すとカメラモードを変更できる。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>156</Id>
+      <Id>302</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3832</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>303</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3844</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>304</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3856</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>305</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3868</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>306</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1794,7 +2994,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>戦闘詳細７</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>157</Id>
+      <Id>307</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1808,7 +3008,39 @@ and prepare your characters for battle.</EnglishText>
 撃が届くところまで自動で走ってくれたりする。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>158</Id>
+      <Id>308</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3908</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>309</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3920</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>310</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3932</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>311</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3944</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>312</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1816,7 +3048,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>戦闘詳細８</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>159</Id>
+      <Id>313</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1830,7 +3062,7 @@ and prepare your characters for battle.</EnglishText>
 ３０秒の間モノマネを始めます。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>160</Id>
+      <Id>314</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1847,7 +3079,7 @@ and prepare your characters for battle.</EnglishText>
 　せる</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>161</Id>
+      <Id>315</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1865,7 +3097,7 @@ and prepare your characters for battle.</EnglishText>
 なります。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>162</Id>
+      <Id>316</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1886,7 +3118,7 @@ and prepare your characters for battle.</EnglishText>
 出来ます。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>163</Id>
+      <Id>317</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1900,7 +3132,7 @@ and prepare your characters for battle.</EnglishText>
 チェインパートナーも解除されます。</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>164</Id>
+      <Id>318</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1908,7 +3140,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>ＥＢＧって何？</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>165</Id>
+      <Id>319</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1925,7 +3157,39 @@ and prepare your characters for battle.</EnglishText>
 </JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>166</Id>
+      <Id>320</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4060</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>321</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4072</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>322</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4084</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>323</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4096</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>324</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1933,7 +3197,7 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>ミニマップ</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>167</Id>
+      <Id>325</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1948,7 +3212,39 @@ and prepare your characters for battle.</EnglishText>
 　　：ターゲット以外の敵</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>168</Id>
+      <Id>326</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4136</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>327</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4148</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>328</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4160</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>329</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4172</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>330</Id>
       <Status>To Do</Status>
     </Entry>
     <Entry>
@@ -1956,8 +3252,51 @@ and prepare your characters for battle.</EnglishText>
       <JapaneseText>戦闘詳細１１</JapaneseText>
       <EnglishText/>
       <Notes/>
-      <Id>169</Id>
+      <Id>331</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4200</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>332</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4212</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>333</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4224</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>334</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4236</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>335</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4248</PointerOffset>
+      <JapaneseText/>
+      <EnglishText/>
+      <Notes/>
+      <Id>336</Id>
       <Status>To Do</Status>
     </Entry>
   </Strings>
-</MenuText>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>
