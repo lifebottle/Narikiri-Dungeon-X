@@ -1,0 +1,112 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>シャドウ</JapaneseText>
+      <EnglishText>Shadow</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Suzu&gt;</JapaneseText>
+      <EnglishText>&lt;Suzu&gt;</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
+      <Notes/>
+      <Id>5</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Text</Section>
+    <Entry>
+      <PointerOffset>4</PointerOffset>
+      <VoiceId>VBE01_24_01</VoiceId>
+      <JapaneseText>なんだよ、コイツ！
+変な喋り方して！</JapaneseText>
+      <EnglishText>What's this guy's problem!? Can't he speak
+properly!?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20</PointerOffset>
+      <VoiceId>VBE01_24_02</VoiceId>
+      <JapaneseText>&lt;Dio&gt;、そんなこと言ったら
+失礼でしょ？</JapaneseText>
+      <EnglishText>&lt;Dio&gt;! You should be more careful about what
+you say!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36</PointerOffset>
+      <VoiceId>VBE01_24_03</VoiceId>
+      <JapaneseText>おまえ・失礼・変・違う</JapaneseText>
+      <EnglishText>You...impolite...I...strange...not...</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>52</PointerOffset>
+      <VoiceId>VBE01_24_04</VoiceId>
+      <JapaneseText>ほら！　怒っちゃったよ！</JapaneseText>
+      <EnglishText>Oh no, now you've got him all mad!</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>4</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>68</PointerOffset>
+      <VoiceId>VBE01_24_05</VoiceId>
+      <JapaneseText>とにかく、今は戦いましょう！</JapaneseText>
+      <EnglishText>Now is the time to fight! Prepare!</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>5</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>84</PointerOffset>
+      <VoiceId>VBE01_24_06</VoiceId>
+      <JapaneseText>いいから、行くよ？</JapaneseText>
+      <EnglishText>That's fine, let's rumble!</EnglishText>
+      <Notes/>
+      <SpeakerId>5</SpeakerId>
+      <Id>6</Id>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>
