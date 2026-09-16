@@ -13,10 +13,10 @@
     <Entry>
       <PointerOffset>294772,295136</PointerOffset>
       <JapaneseText>変な格好をした女性</JapaneseText>
-      <EnglishText>Oddly Dressed Woman</EnglishText>
+      <EnglishText>Oddly-Dressed Woman</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294840,295700,296408,296560</PointerOffset>
@@ -89,7 +89,7 @@
       <PointerOffset>294564</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_010_001&gt;</VoiceId>
       <JapaneseText>クルール！</JapaneseText>
-      <EnglishText>Kururu!</EnglishText>
+      <EnglishText>Couleuru!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -100,7 +100,8 @@
       <VoiceId>&lt;audio:VSS_039_010_002&gt;</VoiceId>
       <JapaneseText>見つけてくれて
 サンキュー！</JapaneseText>
-      <EnglishText>Thank you for finding me!</EnglishText>
+      <EnglishText>Oh, you found me!
+Thank you~!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -124,9 +125,9 @@
       <JapaneseText>……うふふふふふふふふ……、
 これはいい面構え！
 ひさしぶりにピーンと来た！</JapaneseText>
-      <EnglishText>....Mwahaha! You have awesome faces and crazy
-styles! It's so long since I seen anything like this!
-It just makes the deepest parts of my heart itch!</EnglishText>
+      <EnglishText>....Muahahaha... The cut of your
+jibs! I love it! Even just looking
+at you, I know you're the ones!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -137,7 +138,7 @@ It just makes the deepest parts of my heart itch!</EnglishText>
       <PointerOffset>294844</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_010_005&gt;</VoiceId>
       <JapaneseText>だ、だれ……？</JapaneseText>
-      <EnglishText>W-who're you...?</EnglishText>
+      <EnglishText>Wh-Who are you...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
@@ -149,9 +150,9 @@ It just makes the deepest parts of my heart itch!</EnglishText>
       <JapaneseText>聞かれて名乗らぬは女の恥！
 いいかしら、聞いて驚け、
 私の名は……</JapaneseText>
-      <EnglishText>Just listen to the one that has "embarrassment of a woman's
-pride" written all over her face! It's fine, though, as you'll
-be astonished to find out who the hell you are dealing with...</EnglishText>
+      <EnglishText>Yes, of course, a lady must offer her
+name when asked! Are you ready?
+Try not to be shocked! My name is...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -164,8 +165,9 @@ be astonished to find out who the hell you are dealing with...</EnglishText>
       <JapaneseText>味の結社
 『すばらしき味の世界』の
 主任料理長、ワンダーシェフ！</JapaneseText>
-      <EnglishText>The association of flavor "The wonderful world
-of flavors" responsible official, the Wonder Chef!</EnglishText>
+      <EnglishText>The head culinarian for the flavor
+society, "The Wonderful World of
+Flavor!" That is...the Wonder Chef!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -178,9 +180,9 @@ of flavors" responsible official, the Wonder Chef!</EnglishText>
       <JapaneseText>人は、ドラムを叩くような
 包丁さばきから私を
 稲妻のリリアンと呼ぶわ！</JapaneseText>
-      <EnglishText>I strike my drum with my kitchen knife
-for everlasting justice, known as
-"Lilian, the flash"!</EnglishText>
+      <EnglishText>Or, from the speed and skill of my kitchen
+knife—like the strikes of a drummer!—some
+also call me..."Lightning Flash Lilian!"</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -191,7 +193,7 @@ for everlasting justice, known as
       <PointerOffset>295212</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_010_009&gt;</VoiceId>
       <JapaneseText>似合わねー名前……</JapaneseText>
-      <EnglishText>What a lousy name...</EnglishText>
+      <EnglishText>Doesn't suit you...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
@@ -202,7 +204,8 @@ for everlasting justice, known as
       <VoiceId>&lt;audio:VSS_039_010_010&gt;</VoiceId>
       <JapaneseText>人は親しみ込めて
 リッちゃん∀って呼ぶわよ！</JapaneseText>
-      <EnglishText>Or you can call me Lily, for short~!</EnglishText>
+      <EnglishText>And those who wish to be my
+friends simply call me Lily!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
@@ -215,9 +218,9 @@ for everlasting justice, known as
       <JapaneseText>私を見つけられたご褒美に、
 『すばらしき味の世界』直伝、
 料理レシピを教えてあげる！</JapaneseText>
-      <EnglishText>Since you found me, I'll give you this special
-recipe taught directly from "The wonderful
-world of flavors."</EnglishText>
+      <EnglishText>As your reward for finding me, I will
+impart to you one of the Wonderful
+World of Flavor's secret recipes!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
@@ -228,7 +231,7 @@ world of flavors."</EnglishText>
       <PointerOffset>295480</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_010_012&gt;</VoiceId>
       <JapaneseText>マジで！？</JapaneseText>
-      <EnglishText>For REAL!?</EnglishText>
+      <EnglishText>Wait, really!?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
@@ -239,9 +242,8 @@ world of flavors."</EnglishText>
       <VoiceId>&lt;audio:VSS_039_010_013&gt;</VoiceId>
       <JapaneseText>信じる者は救われる！
 し・ん・じ・な・さいっ！！</JapaneseText>
-      <EnglishText>And by my word, you lesser beings shall
-become believers! B.E.L.I.E.V.E!!
-</EnglishText>
+      <EnglishText>Those who believe will be
+saved! You...! Must...! BELIEVE!!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>13</Id>
@@ -253,7 +255,8 @@ become believers! B.E.L.I.E.V.E!!
       <JapaneseText>&lt;Dio&gt;……
 知らない人から変なもの、
 もらっちゃいけないって……</JapaneseText>
-      <EnglishText>I don't think we should talk to weirdoes, &lt;Dio&gt;...</EnglishText>
+      <EnglishText>Um, &lt;Dio&gt;... We're not supposed
+to take weird things from strangers...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
@@ -263,8 +266,7 @@ become believers! B.E.L.I.E.V.E!!
       <PointerOffset>296000</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_010_015&gt;</VoiceId>
       <JapaneseText>変なものとか、言うなぁあっ！</JapaneseText>
-      <EnglishText>Who the hell do you think you are
-calling ME a weirdo!!</EnglishText>
+      <EnglishText>"Weird things"!? How dare you!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>15</Id>
@@ -277,9 +279,9 @@ calling ME a weirdo!!</EnglishText>
       <JapaneseText>んんっ……食事は命の洗濯、
 食卓は清らかな水湧く泉、
 食器は洗濯板！</JapaneseText>
-      <EnglishText>Ahem... food is like life's laundry! Food table is
-like the hot water fountain to clean your wares!
-Tableware is like your dearest washboard!</EnglishText>
+      <EnglishText>Ahem... Food is the water that washes away
+the stresses of life! The dining table is its
+wellspring, and the plate its washboard!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>15</Id>
@@ -291,8 +293,8 @@ Tableware is like your dearest washboard!</EnglishText>
       <VoiceId>&lt;audio:VSS_039_010_017&gt;</VoiceId>
       <JapaneseText>戦いに疲れた時、
 いや人生に疲れた時、</JapaneseText>
-      <EnglishText>When you are tired after battle--No, when
-your DAMNED LIFE is tired...</EnglishText>
+      <EnglishText>When you are weary from battle...
+Indeed, when you are weary from life...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>15</Id>
@@ -304,8 +306,8 @@ your DAMNED LIFE is tired...</EnglishText>
       <VoiceId>&lt;audio:VSS_039_010_018&gt;</VoiceId>
       <JapaneseText>このレシピはあなたを洗う
 泡立つしゃぼんとなる！</JapaneseText>
-      <EnglishText>This recipe will wash out all your wounds! Wash you
-squeaky clean! With bubbles and all that crap!</EnglishText>
+      <EnglishText>This recipe will cleanse
+you! Like a bubble bath!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>15</Id>
@@ -317,7 +319,8 @@ squeaky clean! With bubbles and all that crap!</EnglishText>
       <VoiceId>&lt;audio:VSS_039_010_019&gt;</VoiceId>
       <JapaneseText>そして、食材は
 洗剤のようなもの！！</JapaneseText>
-      <EnglishText>Food is the most powerful detergent!</EnglishText>
+      <EnglishText>For, in that way, food is the
+most powerful detergent!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>19</Id>
@@ -330,9 +333,9 @@ squeaky clean! With bubbles and all that crap!</EnglishText>
       <JapaneseText>これをあげるから、
 たくさん練習を積み上げるのよ！
 あの山の頂のケルンのように！</JapaneseText>
-      <EnglishText>You'll need to cook a lot before really understanding
-it, though. Keep practicing and you'll be able to create
-amazing cologne!</EnglishText>
+      <EnglishText>I'll give this to you, so practice it!
+Accumulate experience! A mountain of it!
+A mountain as high as the great city of Köln!!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>19</Id>
@@ -343,7 +346,7 @@ amazing cologne!</EnglishText>
       <PointerOffset>296276</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_010_021&gt;</VoiceId>
       <JapaneseText>……では、サラバっ！！</JapaneseText>
-      <EnglishText>...Guess that's about it. See ya!</EnglishText>
+      <EnglishText>...And with that... Farewell!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>21</Id>
@@ -354,7 +357,8 @@ amazing cologne!</EnglishText>
       <VoiceId>&lt;audio:VSS_039_010_022&gt;</VoiceId>
       <JapaneseText>……このレシピ、
 ちゃんとしてる……</JapaneseText>
-      <EnglishText>...Th-This recipe is actually pretty nice...</EnglishText>
+      <EnglishText>...This is an
+actual recipe...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>22</Id>
@@ -366,7 +370,8 @@ amazing cologne!</EnglishText>
       <VoiceId>&lt;audio:VSS_039_010_023&gt;</VoiceId>
       <JapaneseText>もらった食材も
 新鮮だし……</JapaneseText>
-      <EnglishText>We'll need to get some fresh ingredients first, though...</EnglishText>
+      <EnglishText>And the ingredients
+are fresh, too...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>22</Id>
@@ -378,7 +383,7 @@ amazing cologne!</EnglishText>
       <VoiceId>&lt;audio:VSS_039_010_024&gt;</VoiceId>
       <JapaneseText>んじゃ、
 もらっとこーぜ</JapaneseText>
-      <EnglishText>Right, let's see if we can get some.</EnglishText>
+      <EnglishText>A'ight, let's keep it!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>24</Id>
@@ -388,9 +393,7 @@ amazing cologne!</EnglishText>
       <PointerOffset>296564</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_010_025&gt;</VoiceId>
       <JapaneseText>うーん、いいのかな……</JapaneseText>
-      <EnglishText>Yeah... but I still wonder if this recipe is
-actually for something edible...
-</EnglishText>
+      <EnglishText>Umm, but... Is this really okay...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
@@ -400,7 +403,7 @@ actually for something edible...
       <PointerOffset>296632</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_010_026&gt;</VoiceId>
       <JapaneseText>気にすんなって</JapaneseText>
-      <EnglishText>There's nothing to worry about!</EnglishText>
+      <EnglishText>Yeah, don't worry so much!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>26</Id>
