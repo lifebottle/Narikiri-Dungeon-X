@@ -1,0 +1,81 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ディオス</JapaneseText>
+      <EnglishText>Dios</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>メルティア</JapaneseText>
+      <EnglishText>Meltia</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Text</Section>
+    <Entry>
+      <PointerOffset>4</PointerOffset>
+      <VoiceId>VBE01_44_01</VoiceId>
+      <JapaneseText>本気で勝つつもりでいるのか？</JapaneseText>
+      <EnglishText>Do you really think you can win?</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20</PointerOffset>
+      <VoiceId>VBE01_44_02</VoiceId>
+      <JapaneseText>最高のジョークね</JapaneseText>
+      <EnglishText>That's the ultimate joke.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36</PointerOffset>
+      <VoiceId>VBE01_44_03</VoiceId>
+      <JapaneseText>ジョークかどうかは
+やってみないとわからないよ</JapaneseText>
+      <EnglishText>If you think that why aren't you laughing?</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <Status>Problematic</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>52</PointerOffset>
+      <VoiceId>VBE01_44_04</VoiceId>
+      <JapaneseText>きっと笑ってられなくなるぞ？</JapaneseText>
+      <EnglishText>Let's see who the joke here is!</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>4</Id>
+      <Status>Problematic</Status>
+    </Entry>
+  </Strings>
+</SceneText>
