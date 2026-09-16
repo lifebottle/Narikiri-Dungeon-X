@@ -3,7 +3,7 @@
   <Strings>
     <Section>Main Menu Button 1</Section>
     <Entry>
-      <PointerOffset>2087444</PointerOffset>
+      <PointerOffset>2087444,2087480,2087516,2087600</PointerOffset>
       <JapaneseText>戻る</JapaneseText>
       <EnglishText>Back</EnglishText>
       <Notes/>
@@ -11,7 +11,7 @@
       <Status>Done</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2087456</PointerOffset>
+      <PointerOffset>2087456,2087492,2087612,2087636</PointerOffset>
       <JapaneseText>決定</JapaneseText>
       <EnglishText>Confirm</EnglishText>
       <Notes/>
@@ -27,35 +27,11 @@
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2087480</PointerOffset>
-      <JapaneseText>戻る</JapaneseText>
-      <EnglishText>Back</EnglishText>
-      <Notes/>
-      <Id>4</Id>
-      <Status>Done</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>2087492</PointerOffset>
-      <JapaneseText>決定</JapaneseText>
-      <EnglishText>Confirm</EnglishText>
-      <Notes/>
-      <Id>5</Id>
-      <Status>Done</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>2087504</PointerOffset>
+      <PointerOffset>2087504,2087564,2087624</PointerOffset>
       <JapaneseText>選択</JapaneseText>
       <EnglishText>Select</EnglishText>
       <Notes/>
-      <Id>6</Id>
-      <Status>Done</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>2087516</PointerOffset>
-      <JapaneseText>戻る</JapaneseText>
-      <EnglishText>Back</EnglishText>
-      <Notes/>
-      <Id>7</Id>
+      <Id>4</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -63,7 +39,7 @@
       <JapaneseText>ステータス確認</JapaneseText>
       <EnglishText>Status</EnglishText>
       <Notes/>
-      <Id>8</Id>
+      <Id>5</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -71,7 +47,7 @@
       <JapaneseText>入替</JapaneseText>
       <EnglishText>Change</EnglishText>
       <Notes/>
-      <Id>9</Id>
+      <Id>6</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -79,15 +55,7 @@
       <JapaneseText>パーティトップ変更</JapaneseText>
       <EnglishText>Change Party Leader</EnglishText>
       <Notes/>
-      <Id>10</Id>
-      <Status>Done</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>2087564</PointerOffset>
-      <JapaneseText>選択</JapaneseText>
-      <EnglishText>Select</EnglishText>
-      <Notes/>
-      <Id>11</Id>
+      <Id>7</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -95,7 +63,7 @@
       <JapaneseText>戦闘IN</JapaneseText>
       <EnglishText>Active</EnglishText>
       <Notes/>
-      <Id>12</Id>
+      <Id>8</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -103,39 +71,7 @@
       <JapaneseText>戦闘OUT</JapaneseText>
       <EnglishText>Inactive</EnglishText>
       <Notes/>
-      <Id>13</Id>
-      <Status>Done</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>2087600</PointerOffset>
-      <JapaneseText>戻る</JapaneseText>
-      <EnglishText>Back</EnglishText>
-      <Notes/>
-      <Id>14</Id>
-      <Status>Done</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>2087612</PointerOffset>
-      <JapaneseText>決定</JapaneseText>
-      <EnglishText>Confirm</EnglishText>
-      <Notes/>
-      <Id>15</Id>
-      <Status>Done</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>2087624</PointerOffset>
-      <JapaneseText>選択</JapaneseText>
-      <EnglishText>Select</EnglishText>
-      <Notes/>
-      <Id>16</Id>
-      <Status>Done</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>2087636</PointerOffset>
-      <JapaneseText>決定</JapaneseText>
-      <EnglishText>Confirm</EnglishText>
-      <Notes/>
-      <Id>17</Id>
+      <Id>9</Id>
       <Status>Done</Status>
     </Entry>
   </Strings>

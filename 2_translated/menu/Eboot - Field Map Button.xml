@@ -3,7 +3,7 @@
   <Strings>
     <Section>Field Map Button</Section>
     <Entry>
-      <PointerOffset>2155328</PointerOffset>
+      <PointerOffset>2155328,2155388</PointerOffset>
       <JapaneseText>決定</JapaneseText>
       <EnglishText>Confirm</EnglishText>
       <Notes/>
@@ -27,7 +27,7 @@
       <Status>Done</Status>
     </Entry>
     <Entry>
-      <PointerOffset>2155364</PointerOffset>
+      <PointerOffset>2155364,2155400</PointerOffset>
       <JapaneseText>選択</JapaneseText>
       <EnglishText>Select</EnglishText>
       <Notes/>
@@ -40,22 +40,6 @@
       <EnglishText>Back</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>2155388</PointerOffset>
-      <JapaneseText>決定</JapaneseText>
-      <EnglishText>Confirm</EnglishText>
-      <Notes/>
-      <Id>6</Id>
-      <Status>Done</Status>
-    </Entry>
-    <Entry>
-      <PointerOffset>2155400</PointerOffset>
-      <JapaneseText>選択</JapaneseText>
-      <EnglishText>Select</EnglishText>
-      <Notes/>
-      <Id>7</Id>
       <Status>Done</Status>
     </Entry>
   </Strings>
