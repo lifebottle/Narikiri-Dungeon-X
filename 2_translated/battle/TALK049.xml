@@ -1,0 +1,92 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ダオス</JapaneseText>
+      <EnglishText>Dhaos</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText>&lt;Rondoline&gt;</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Text</Section>
+    <Entry>
+      <PointerOffset>4</PointerOffset>
+      <VoiceId>VBE01_42_01</VoiceId>
+      <JapaneseText>やはり邪魔をするか、
+&lt;Rondoline&gt;</JapaneseText>
+      <EnglishText>As expected, you stand against me, &lt;Rondoline&gt;.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20</PointerOffset>
+      <VoiceId>VBE01_42_02</VoiceId>
+      <JapaneseText>もういいよ、ダオス</JapaneseText>
+      <EnglishText>It's fine, Dhaos.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36</PointerOffset>
+      <VoiceId>VBE01_42_03</VoiceId>
+      <JapaneseText>死んだ後まで、
+そんな業を背負う必要なんてない</JapaneseText>
+      <EnglishText>You have already died, so there's no need to resent
+yourself any longer.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>3</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>52</PointerOffset>
+      <VoiceId>VBE01_42_04</VoiceId>
+      <JapaneseText>私に情けをかける暇があるなら、
+自らの身を案じよ</JapaneseText>
+      <EnglishText>If you have the time to pity your enemy,
+you better be ready to protect your life.</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>4</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>68</PointerOffset>
+      <VoiceId>VBE01_42_05</VoiceId>
+      <JapaneseText>……わかった。
+あくまでもやるってんなら</JapaneseText>
+      <EnglishText>...I see, so you'll be persistent to the end.</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>5</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>84</PointerOffset>
+      <VoiceId>VBE01_42_06</VoiceId>
+      <JapaneseText>私がおねんね、
+させてあげるよ……</JapaneseText>
+      <EnglishText>It's well past your bedtime. I'll send you back to
+sleep...</EnglishText>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>6</Id>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>
