@@ -64,63 +64,70 @@
     <Entry>
       <PointerOffset>267968</PointerOffset>
       <JapaneseText>これは……スキル書か</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is...a skill book, huh.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268012</PointerOffset>
       <JapaneseText>スキル書？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Skill book?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268160</PointerOffset>
       <JapaneseText>ああ。
 戦い方のコツを書いた書物だ。
 先人のまとめた貴重なものだぞ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah. Various tricks for battle are written
+in books like these. A lot of things the older
+experts have learned, gathered into one book.
+</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268160</PointerOffset>
       <JapaneseText>これを熟読すれば、
 戦いを有利に進められるだろう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you read them thoroughly, you'll
+have an advantage in battle.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268240</PointerOffset>
       <JapaneseText>それってすげーな！
 オレでも覚えられっかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whoa, that's pretty awesome!
+D'you think I could learn that stuff?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268360</PointerOffset>
       <JapaneseText>誰にでも分かるように丁寧に書かれている。
 焦らずゆっくり読めば、必ず習得できるはずだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They're written carefully, so anyone can
+understand them. If you take your time
+when reading, you should learn it easily.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -642,11 +649,19 @@
 スキルを覚えさせた直後は、
 使う状態（on）になってるだよ。
 このon／offはメニューのスキルで設定できるだ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>##placeholder until someone translates this lol
+
+Use it on whoever you want to learn it, and they'll
+gain a skill. It's a consumable item, though, so be
+sure and think long and hard before you go using it.
+
+As soon as you've learned it, the skill'll be set to
+"on," so you can use it lickety-split. You can turn it
+off or back on whenever you like, in the Skill Menu.</EnglishText>
+      <Notes>skill description needs translating</Notes>
       <SpeakerId>5</SpeakerId>
       <Id>64</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>
