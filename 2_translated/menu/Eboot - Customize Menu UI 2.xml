@@ -83,7 +83,7 @@
       <Status>Done</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1797928</PointerOffset>
+      <PointerOffset>1797928,1797940</PointerOffset>
       <JapaneseText>デフォルト</JapaneseText>
       <EnglishText>Default</EnglishText>
       <Notes/>
@@ -107,19 +107,11 @@
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1797940</PointerOffset>
-      <JapaneseText>デフォルト</JapaneseText>
-      <EnglishText>Default</EnglishText>
-      <Notes/>
-      <Id>14</Id>
-      <Status>Done</Status>
-    </Entry>
-    <Entry>
       <PointerOffset>1797944</PointerOffset>
       <JapaneseText>EASY</JapaneseText>
       <EnglishText>EASY</EnglishText>
       <Notes/>
-      <Id>15</Id>
+      <Id>14</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -127,7 +119,7 @@
       <JapaneseText>NORMAL</JapaneseText>
       <EnglishText>NORMAL</EnglishText>
       <Notes/>
-      <Id>16</Id>
+      <Id>15</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -135,7 +127,7 @@
       <JapaneseText>HARD</JapaneseText>
       <EnglishText>HARD</EnglishText>
       <Notes/>
-      <Id>17</Id>
+      <Id>16</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -143,7 +135,7 @@
       <JapaneseText>UNKNOWN</JapaneseText>
       <EnglishText>UNKNOWN</EnglishText>
       <Notes/>
-      <Id>18</Id>
+      <Id>17</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -151,7 +143,7 @@
       <JapaneseText>アクションに慣れていない人のための、やさしめな難易度です</JapaneseText>
       <EnglishText>An easy difficulty for those not used to the combat.</EnglishText>
       <Notes/>
-      <Id>19</Id>
+      <Id>18</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -159,7 +151,7 @@
       <JapaneseText>通常の難易度です</JapaneseText>
       <EnglishText>Normal difficulty. Neither too hard nor too easy.</EnglishText>
       <Notes/>
-      <Id>20</Id>
+      <Id>19</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -167,7 +159,7 @@
       <JapaneseText>操作に慣れ、普通の戦闘では物足りなくなった人向けの難易度です</JapaneseText>
       <EnglishText>A difficulty meant for those not satisfied with the normal difficulty.</EnglishText>
       <Notes/>
-      <Id>21</Id>
+      <Id>20</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -175,7 +167,7 @@
       <JapaneseText>バランスよく遊ぶことを保障できない、かなり難しめの難易度です</JapaneseText>
       <EnglishText>We can't guarantee this would be balanced. It's quite hard.</EnglishText>
       <Notes/>
-      <Id>22</Id>
+      <Id>21</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -183,7 +175,7 @@
       <JapaneseText>TARGET-A</JapaneseText>
       <EnglishText>TARGET-A</EnglishText>
       <Notes/>
-      <Id>23</Id>
+      <Id>22</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -191,7 +183,7 @@
       <JapaneseText>TARGET-B</JapaneseText>
       <EnglishText>TARGET-B</EnglishText>
       <Notes/>
-      <Id>24</Id>
+      <Id>23</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -199,7 +191,7 @@
       <JapaneseText>PARTY</JapaneseText>
       <EnglishText>PARTY</EnglishText>
       <Notes/>
-      <Id>25</Id>
+      <Id>24</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -207,7 +199,7 @@
       <JapaneseText>ENEMY</JapaneseText>
       <EnglishText>ENEMY</EnglishText>
       <Notes/>
-      <Id>26</Id>
+      <Id>25</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -215,7 +207,7 @@
       <JapaneseText>ALL</JapaneseText>
       <EnglishText>ALL</EnglishText>
       <Notes/>
-      <Id>27</Id>
+      <Id>26</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -225,7 +217,7 @@
       <EnglishText>A camera that centers on the targeted enemy and player
 character, zooming in during aerial combat.</EnglishText>
       <Notes/>
-      <Id>28</Id>
+      <Id>27</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -235,7 +227,7 @@ character, zooming in during aerial combat.</EnglishText>
       <EnglishText>A camera that centers on the targeted enemy and player 
 character, but does not zoom in during aerial combat.</EnglishText>
       <Notes/>
-      <Id>29</Id>
+      <Id>28</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -243,7 +235,7 @@ character, but does not zoom in during aerial combat.</EnglishText>
       <JapaneseText>味方キャラ全体を中心に動いていくカメラです</JapaneseText>
       <EnglishText>A camera that centers on all allied characters.</EnglishText>
       <Notes/>
-      <Id>30</Id>
+      <Id>29</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -252,7 +244,7 @@ character, but does not zoom in during aerial combat.</EnglishText>
       <EnglishText>A camera that centers on all enemy characters and 
 the player character.</EnglishText>
       <Notes/>
-      <Id>31</Id>
+      <Id>30</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -261,7 +253,7 @@ the player character.</EnglishText>
       <EnglishText>A camera that shows all characters present
 on the battlefield.</EnglishText>
       <Notes/>
-      <Id>32</Id>
+      <Id>31</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -269,7 +261,7 @@ on the battlefield.</EnglishText>
       <JapaneseText>アナログパッド</JapaneseText>
       <EnglishText>Analog Stick</EnglishText>
       <Notes/>
-      <Id>33</Id>
+      <Id>32</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -277,7 +269,7 @@ on the battlefield.</EnglishText>
       <JapaneseText>方向キー</JapaneseText>
       <EnglishText>Cursor</EnglishText>
       <Notes>?</Notes>
-      <Id>34</Id>
+      <Id>33</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -287,7 +279,7 @@ on the battlefield.</EnglishText>
       <EnglishText>Control your character with the directional buttons,
 and assign shortcut buttons to the analog stick.</EnglishText>
       <Notes/>
-      <Id>35</Id>
+      <Id>34</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -297,7 +289,7 @@ and assign shortcut buttons to the analog stick.</EnglishText>
       <EnglishText>Control the character with the analog stick,
 and assign shortcut buttons to the directional buttons.</EnglishText>
       <Notes/>
-      <Id>36</Id>
+      <Id>35</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -305,7 +297,7 @@ and assign shortcut buttons to the directional buttons.</EnglishText>
       <JapaneseText>BGM</JapaneseText>
       <EnglishText>BGM</EnglishText>
       <Notes/>
-      <Id>37</Id>
+      <Id>36</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -313,7 +305,7 @@ and assign shortcut buttons to the directional buttons.</EnglishText>
       <JapaneseText>SE</JapaneseText>
       <EnglishText>SFX</EnglishText>
       <Notes/>
-      <Id>38</Id>
+      <Id>37</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -321,7 +313,7 @@ and assign shortcut buttons to the directional buttons.</EnglishText>
       <JapaneseText>戦闘SE</JapaneseText>
       <EnglishText>Battle SFX</EnglishText>
       <Notes/>
-      <Id>39</Id>
+      <Id>38</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -329,7 +321,7 @@ and assign shortcut buttons to the directional buttons.</EnglishText>
       <JapaneseText>イベントボイス</JapaneseText>
       <EnglishText>Event Voice</EnglishText>
       <Notes/>
-      <Id>40</Id>
+      <Id>39</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -337,7 +329,7 @@ and assign shortcut buttons to the directional buttons.</EnglishText>
       <JapaneseText>戦闘ボイス</JapaneseText>
       <EnglishText>Battle Voice</EnglishText>
       <Notes/>
-      <Id>41</Id>
+      <Id>40</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -345,7 +337,7 @@ and assign shortcut buttons to the directional buttons.</EnglishText>
       <JapaneseText>BGMの音量を変更します</JapaneseText>
       <EnglishText>Adjusts BGM volume</EnglishText>
       <Notes/>
-      <Id>42</Id>
+      <Id>41</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -353,7 +345,7 @@ and assign shortcut buttons to the directional buttons.</EnglishText>
       <JapaneseText>戦闘以外のときのSEの音量を変更します</JapaneseText>
       <EnglishText>Adjusts sound effect volume outside of battle</EnglishText>
       <Notes/>
-      <Id>43</Id>
+      <Id>42</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -361,7 +353,7 @@ and assign shortcut buttons to the directional buttons.</EnglishText>
       <JapaneseText>戦闘のときのSEの音量を変更します</JapaneseText>
       <EnglishText>Adjusts sound effect volume during battle</EnglishText>
       <Notes/>
-      <Id>44</Id>
+      <Id>43</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -369,7 +361,7 @@ and assign shortcut buttons to the directional buttons.</EnglishText>
       <JapaneseText>イベントのときのボイスの音量を変更します</JapaneseText>
       <EnglishText>Adjusts voice volume during events</EnglishText>
       <Notes/>
-      <Id>45</Id>
+      <Id>44</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -377,7 +369,7 @@ and assign shortcut buttons to the directional buttons.</EnglishText>
       <JapaneseText>戦闘のときのボイスの音量を変更します</JapaneseText>
       <EnglishText>Adjusts voice volume during battle</EnglishText>
       <Notes/>
-      <Id>46</Id>
+      <Id>45</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -385,7 +377,7 @@ and assign shortcut buttons to the directional buttons.</EnglishText>
       <JapaneseText>通常攻撃</JapaneseText>
       <EnglishText>Attack</EnglishText>
       <Notes/>
-      <Id>47</Id>
+      <Id>46</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -393,7 +385,7 @@ and assign shortcut buttons to the directional buttons.</EnglishText>
       <JapaneseText>術技</JapaneseText>
       <EnglishText>Artes</EnglishText>
       <Notes/>
-      <Id>48</Id>
+      <Id>47</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -401,7 +393,7 @@ and assign shortcut buttons to the directional buttons.</EnglishText>
       <JapaneseText>ガード</JapaneseText>
       <EnglishText>Guard</EnglishText>
       <Notes/>
-      <Id>49</Id>
+      <Id>48</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -409,7 +401,7 @@ and assign shortcut buttons to the directional buttons.</EnglishText>
       <JapaneseText>メニュー</JapaneseText>
       <EnglishText>Menu</EnglishText>
       <Notes/>
-      <Id>50</Id>
+      <Id>49</Id>
       <Status>Done</Status>
     </Entry>
     <Entry>
@@ -417,7 +409,7 @@ and assign shortcut buttons to the directional buttons.</EnglishText>
       <JapaneseText>ターゲット選択</JapaneseText>
       <EnglishText>Select Target</EnglishText>
       <Notes/>
-      <Id>51</Id>
+      <Id>50</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -425,7 +417,7 @@ and assign shortcut buttons to the directional buttons.</EnglishText>
       <JapaneseText>オーバーブレイブ</JapaneseText>
       <EnglishText>Overdrive</EnglishText>
       <Notes/>
-      <Id>52</Id>
+      <Id>51</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -433,7 +425,7 @@ and assign shortcut buttons to the directional buttons.</EnglishText>
       <JapaneseText>PAUSE</JapaneseText>
       <EnglishText>Pause</EnglishText>
       <Notes/>
-      <Id>53</Id>
+      <Id>52</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -441,7 +433,7 @@ and assign shortcut buttons to the directional buttons.</EnglishText>
       <JapaneseText>モード切替</JapaneseText>
       <EnglishText>Mode Switch</EnglishText>
       <Notes/>
-      <Id>54</Id>
+      <Id>53</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -449,7 +441,7 @@ and assign shortcut buttons to the directional buttons.</EnglishText>
       <JapaneseText>通常攻撃をするボタンを変更します</JapaneseText>
       <EnglishText>Change the button for normal attacks</EnglishText>
       <Notes/>
-      <Id>55</Id>
+      <Id>54</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -457,7 +449,7 @@ and assign shortcut buttons to the directional buttons.</EnglishText>
       <JapaneseText>術技を出すボタンを変更します</JapaneseText>
       <EnglishText>Change the button for artes</EnglishText>
       <Notes/>
-      <Id>56</Id>
+      <Id>55</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -465,7 +457,7 @@ and assign shortcut buttons to the directional buttons.</EnglishText>
       <JapaneseText>ガードをするボタンを変更します</JapaneseText>
       <EnglishText>Change the button for guarding.</EnglishText>
       <Notes/>
-      <Id>57</Id>
+      <Id>56</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -473,7 +465,7 @@ and assign shortcut buttons to the directional buttons.</EnglishText>
       <JapaneseText>メニューを開くボタンを変更します</JapaneseText>
       <EnglishText>Change the button for opening the menu.</EnglishText>
       <Notes/>
-      <Id>58</Id>
+      <Id>57</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -481,7 +473,7 @@ and assign shortcut buttons to the directional buttons.</EnglishText>
       <JapaneseText>ターゲット選択のボタンを変更します</JapaneseText>
       <EnglishText>Change the button for target selection.</EnglishText>
       <Notes/>
-      <Id>59</Id>
+      <Id>58</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -489,7 +481,7 @@ and assign shortcut buttons to the directional buttons.</EnglishText>
       <JapaneseText>オーバーブレイブのボタンを変更します</JapaneseText>
       <EnglishText>Change the button for Over Brave.</EnglishText>
       <Notes/>
-      <Id>60</Id>
+      <Id>59</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -497,7 +489,7 @@ and assign shortcut buttons to the directional buttons.</EnglishText>
       <JapaneseText>PAUSE（一時停止）のボタンを変更します</JapaneseText>
       <EnglishText>Change the button for Pause.</EnglishText>
       <Notes/>
-      <Id>61</Id>
+      <Id>60</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
@@ -505,7 +497,7 @@ and assign shortcut buttons to the directional buttons.</EnglishText>
       <JapaneseText>戦闘操作モードの切り替えをするボタンを変更します</JapaneseText>
       <EnglishText>Change the button for switching control type.</EnglishText>
       <Notes/>
-      <Id>62</Id>
+      <Id>61</Id>
       <Status>Editing</Status>
     </Entry>
   </Strings>

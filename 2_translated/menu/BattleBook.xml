@@ -1,0 +1,2628 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SceneText>
+  <Strings>
+    <Section>BattleBook</Section>
+    <Entry>
+      <PointerOffset>4</PointerOffset>
+      <JapaneseText>戦闘の流れ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26</PointerOffset>
+      <JapaneseText>ダンジョン探索中や、イベント進行中に、
+敵との戦闘が発生することがあるよ。
+戦闘で負けてしまうと
+&lt;Red&gt;ゲームオーバー&lt;DarkBlue&gt;になってしまうけど、
+勝つと&lt;DarkGreen&gt;経験値&lt;DarkBlue&gt;を入手して
+キャラが強くなるよ。
+また、倒した敵から
+&lt;DarkCyan&gt;アイテム&lt;DarkBlue&gt;を入手できることもあるよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>684</PointerOffset>
+      <JapaneseText>エンカウント方法</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>706</PointerOffset>
+      <JapaneseText>ダンジョンの中をグルグル歩き回っていると
+&lt;Red&gt;ランダム&lt;DarkBlue&gt;で敵と遭遇して戦闘が始まるよ。
+
+「敵と会いたくない……」
+というときは&lt;DarkCyan&gt;ホーリィボトル&lt;DarkBlue&gt;を、
+「たくさん戦いたい！」
+というときは&lt;DarkCyan&gt;ダークボトル&lt;DarkBlue&gt;を、
+フリー移動中に使おう！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>4</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1364</PointerOffset>
+      <JapaneseText>エンカウント方法２</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>5</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>1386</PointerOffset>
+      <JapaneseText>ランダムエンカウントとは別に、
+ダンジョン内に&lt;Red&gt;敵シンボル&lt;DarkBlue&gt;が
+配置されていることがあるよ。
+
+　　：&lt;Red&gt;強い敵だから注意してね。&lt;DarkBlue&gt;
+　　：&lt;Purple&gt;倒すと道が開く敵だよ。&lt;DarkBlue&gt;
+　　：&lt;color:20&gt;一般の敵と戦えるよ。&lt;DarkBlue&gt;
+
+敵に&lt;DarkCyan&gt;とある貴重品&lt;DarkBlue&gt;で炎を当てると
+戦闘を有利に始められるかも……ね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>6</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2044</PointerOffset>
+      <JapaneseText>戦闘操作</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>7</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2066</PointerOffset>
+      <JapaneseText> &lt;ATTACK_BTN&gt; ：攻撃ボタン１　&lt;DarkCyan&gt;通常攻撃&lt;DarkBlue&gt;
+持っている武器で行う基本的な攻撃だよ。
+ &lt;ARTES_BTN&gt; ：攻撃ボタン２　&lt;DarkCyan&gt;術技攻撃&lt;DarkBlue&gt;
+術技攻撃をするよ。
+術技の入手については
+「&lt;Blue&gt;スキル・術技の取得&lt;DarkBlue&gt;」を見てね。
+ &lt;GUARD_BTN&gt; ：防御ボタン
+押している間は敵の攻撃を防御するよ。
+ &lt;MOVE&gt; ：移動ボタン
+ &lt;MOVE_LR&gt; で&lt;Red&gt;走って&lt;DarkBlue&gt;、 &lt;MOVE_U&gt; で&lt;Red&gt;ジャンプ&lt;DarkBlue&gt;するよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>8</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2724</PointerOffset>
+      <JapaneseText>通常技の出し方</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>9</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>2746</PointerOffset>
+      <JapaneseText>基本的に通常技は &lt;ATTACK_BTN&gt; で出せるよ。
+更に、 &lt;ATTACK_BTN&gt; と &lt;MOVE&gt; を同時に押すと、
+同じ通常攻撃でも違った攻撃の仕方を
+してくれる場合があるからやってみてね
+一例・剣士の場合
+ &lt;ATTACK_BTN&gt; 　　  ：通・斬り下ろし
+ &lt;ATTACK_BTN&gt; ＋ &lt;MOVE_U&gt; ：通・斬り上げ
+ &lt;ATTACK_BTN&gt; ＋ &lt;MOVE_D&gt; ：通・前進突き
+ &lt;ATTACK_BTN&gt; ＋ &lt;MOVE_LR&gt; ：通・前進突き</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>10</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3404</PointerOffset>
+      <JapaneseText>術技の出し方１</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>11</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>3426</PointerOffset>
+      <JapaneseText>＊&lt;DarkGreen&gt;セミオート&lt;DarkBlue&gt;・&lt;Red&gt;マニュアル&lt;DarkBlue&gt;操作の場合＊
+戦闘中に &lt;MENU_BTN&gt; で開ける戦闘メニューから、
+&lt;DarkGreen&gt;術技&lt;DarkBlue&gt;を開こう。
+取得した術技を戦闘中に使えるように
+設定できるよ。
+術技をセット出来るのは、
+ &lt;ARTES_BTN&gt; ボタン　 　　　&lt;ARTES_BTN&gt; ボタン＋ &lt;MOVE_U&gt;
+ &lt;ARTES_BTN&gt; ボタン＋ &lt;MOVE_LR&gt;　　&lt;ARTES_BTN&gt; ボタン＋ &lt;MOVE_D&gt;
+の&lt;Red&gt;４つ&lt;DarkBlue&gt;だよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>12</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4084</PointerOffset>
+      <JapaneseText>術技の出し方２</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>13</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4106</PointerOffset>
+      <JapaneseText>＊&lt;DarkCyan&gt;オート&lt;DarkBlue&gt;の場合＊
+戦闘中に &lt;MENU_BTN&gt; で開ける戦闘メニューの中の
+&lt;DarkGreen&gt;術技&lt;DarkBlue&gt;で、使える術技一覧が表示されるよ。
+
+
+
+ &lt;SQUARE&gt; で術技別にＯＮ・ＯＦＦを選べるよ。
+　 は「ＯＮ」、　 は「ＯＦＦ」だよ。
+（操作キャラ以外は&lt;DarkCyan&gt;オート&lt;DarkBlue&gt;設定だからね）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>14</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4764</PointerOffset>
+      <JapaneseText>防御方法</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>15</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>4786</PointerOffset>
+      <JapaneseText>防御方法には２種類あるよ。
+ガード： &lt;GUARD_BTN&gt; を押している間は
+物理攻撃のダメージを減らせるよ。
+マジックガード： &lt;GUARD_BTN&gt; ＋ &lt;MOVE_D&gt; を押している
+間は術攻撃のダメージを減らせるよ。
+攻撃前に詠唱が必要なものが術攻撃だよ。
+
+他にも、&lt;DarkCyan&gt;パッシングステップ&lt;DarkBlue&gt;という
+敵の攻撃を避けられる動作があるよ。
+ &lt;GUARD_BTN&gt; と &lt;MOVE_LR&gt; で敵をすり抜けるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>16</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5444</PointerOffset>
+      <JapaneseText>飛行キャラの操作</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>17</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>5466</PointerOffset>
+      <JapaneseText>飛行キャラの操作方法を説明するよ。
+ &lt;MOVE_LR&gt; ：左右への移動
+ &lt;MOVE_D&gt; ：下降
+ &lt;MOVE_U&gt; ：キャラが一定の高さより
+　　低いところにいればゆっくり上昇、
+　　高いところにいればジャンプするように
+　　飛び上がる
+ &lt;GUARD_BTN&gt; ＋ &lt;MOVE_LR&gt; ：空中ステップ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>18</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6124</PointerOffset>
+      <JapaneseText>戦闘メニューについて</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>19</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6146</PointerOffset>
+      <JapaneseText>戦闘中に &lt;MENU_BTN&gt; を押すと、&lt;DarkGreen&gt;戦闘メニュー&lt;DarkBlue&gt;を
+開けるよ。使用できる&lt;DarkGreen&gt;戦闘メニュー&lt;DarkBlue&gt;は
+
+
+
+　　　　　　　　　　　　か
+だよ。逃走と解除以外は
+メインメニューにもあるよ。
+&lt;Red&gt;コスチュームは戦闘中に変更できないよ！&lt;DarkBlue&gt;
+戦闘前に準備しておこう！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>20</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6804</PointerOffset>
+      <JapaneseText>戦闘中のアイテム使用</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>21</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>6826</PointerOffset>
+      <JapaneseText>戦闘中に &lt;MENU_BTN&gt; で戦闘メニューを開いて
+&lt;DarkGreen&gt;アイテム&lt;DarkBlue&gt;を選択すると、
+&lt;DarkCyan&gt;消費系アイテム&lt;DarkBlue&gt;を使えるよ。
+
+&lt;DarkCyan&gt;消費系アイテム&lt;DarkBlue&gt;の中でも
+戦闘中に使えない物もあるから注意してね
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>22</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7484</PointerOffset>
+      <JapaneseText>隊列を設定しよう！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>23</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>7506</PointerOffset>
+      <JapaneseText>戦闘中に &lt;MENU_BTN&gt; で戦闘メニューを開いて
+&lt;DarkGreen&gt;作戦&lt;DarkBlue&gt;を選択して &lt;SELECT&gt; を押そう。
+戦闘中のキャラの並び方を設定できるよ。
+
+基本的に、&lt;Red&gt;攻撃メイン&lt;DarkBlue&gt;のキャラは&lt;Red&gt;前衛&lt;DarkBlue&gt;に、
+&lt;DarkCyan&gt;回復・術メイン&lt;DarkBlue&gt;のキャラは&lt;DarkCyan&gt;後衛&lt;DarkBlue&gt;にすると
+いいかもね。
+メインメニューだと&lt;DarkGreen&gt;バトルカスタム&lt;DarkBlue&gt;の
+中にあるよ。コスチュームを変更したら
+隊列も変えてみよう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>24</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8164</PointerOffset>
+      <JapaneseText>作戦の設定</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>25</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8186</PointerOffset>
+      <JapaneseText>オート設定のキャラの行動（&lt;DarkGreen&gt;作戦&lt;DarkBlue&gt;）を
+設定することができるよ。
+全部で３つ作戦を作っておけるんだ。
+戦う相手に合わせて
+ &lt;L&gt;  &lt;R&gt; で切り替えてから、
+ &lt;SQUARE&gt; で使う作戦に設定しよう。
+それと、&lt;DarkCyan&gt;アップルグミ&lt;DarkBlue&gt;、&lt;DarkCyan&gt;ライフボトル&lt;DarkBlue&gt;、
+&lt;DarkCyan&gt;キュアボトル&lt;DarkBlue&gt;の
+使用ＯＮ／ＯＦＦも、
+設定できるからやってみてね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>26</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8844</PointerOffset>
+      <JapaneseText>号令って？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>27</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>8866</PointerOffset>
+      <JapaneseText>戦闘中に戦闘パーティに対して
+「&lt;DarkGreen&gt;集合&lt;DarkBlue&gt;」と「&lt;DarkGreen&gt;待機&lt;DarkBlue&gt;」の指示を
+出すことができるよ。
+
+&lt;DarkGreen&gt;集合&lt;DarkBlue&gt;： &lt;TARGET_BTN&gt; 押し中に &lt;DPAD_U&gt;
+　味方キャラが自分の元へ集まるよ。
+
+&lt;DarkGreen&gt;待機&lt;DarkBlue&gt;： &lt;TARGET_BTN&gt; 押し中に &lt;DPAD_D&gt;
+　味方キャラ全員がその場で待機するよ。
+　もう一度押すと解除されるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>28</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9524</PointerOffset>
+      <JapaneseText>逃走ゲージ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>29</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>9546</PointerOffset>
+      <JapaneseText>戦闘中に &lt;MENU_BTN&gt; で戦闘メニューを開いて
+&lt;DarkGreen&gt;逃走&lt;DarkBlue&gt;を選択すると、ゲージが表示されるよ。
+
+
+カウントが&lt;DarkCyan&gt;0"00&lt;DarkBlue&gt;になって
+ゲージが空っぽになると逃走成功！
+それと、戦闘メニューで&lt;DarkGreen&gt;解除&lt;DarkBlue&gt;を選択すると
+逃走を解除できるよ。
+逃げられない戦闘もあるから注意してね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>30</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10204</PointerOffset>
+      <JapaneseText>操作モード変更</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>31</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10226</PointerOffset>
+      <JapaneseText>戦闘中に &lt;MODE_BTN&gt; を押すと、操作キャラの
+&lt;DarkGreen&gt;戦闘操作モード&lt;DarkBlue&gt;を切り替えられるよ。
+
+　　　　　：&lt;Red&gt;全て自動で&lt;DarkBlue&gt;設定した&lt;DarkGreen&gt;作戦&lt;DarkBlue&gt;に
+　　　　　　従って行動するよ。
+　　　　　：攻撃が当たるように自動で移動
+　　　　　　してくれるよ。
+　　　　　　もちろん空中の敵も追いかけて
+　　　　　　くれるよ。
+　　　　　：&lt;Red&gt;自由に&lt;DarkBlue&gt;操作できるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>32</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10884</PointerOffset>
+      <JapaneseText>操作キャラ切り替え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>33</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>10906</PointerOffset>
+      <JapaneseText>戦闘中に&lt;DarkGreen&gt;操作キャラを変更する&lt;DarkBlue&gt;ことが
+できるよ。
+戦闘中に &lt;MENU_BTN&gt; で戦闘メニューを開いた状態で
+ &lt;L&gt; を押すと、
+&lt;Red&gt;戦闘パーティの中で&lt;DarkBlue&gt;操作キャラが
+切り替わるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>34</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11564</PointerOffset>
+      <JapaneseText>戦闘カメラ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>35</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>11586</PointerOffset>
+      <JapaneseText>戦闘中に &lt;MENU_BTN&gt; で戦闘メニューを開いて &lt;R&gt; を
+押すと&lt;DarkGreen&gt;カメラモードの切り替え&lt;DarkBlue&gt;ができるよ。
+　　　　　：操作キャラとターゲットを
+　　　　　　映すよ。空中戦になると
+　　　　　　アップで映してくれるよ。
+　　　　　：操作キャラとターゲットを映し
+　　　　　　画面はズームアップしないよ。
+　　　　　：味方全員を映すよ。
+　　　　　：敵全員を映すよ。
+　　　　　：全味方・敵を映すよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>36</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12244</PointerOffset>
+      <JapaneseText>敵情報を見よう！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>37</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12266</PointerOffset>
+      <JapaneseText>戦闘中に &lt;TARGET_BTN&gt; を押すと、
+敵の情報が見られるよ。さらに
+ &lt;MENU_BTN&gt; を押すと&lt;DarkGreen&gt;モンスター図鑑&lt;DarkBlue&gt;も見られる！
+情報を詳しく知りたい敵には、
+&lt;DarkCyan&gt;スペクタクルズ&lt;DarkBlue&gt;というアイテムを使おう。
+&lt;DarkGreen&gt;モンスター図鑑&lt;DarkBlue&gt;に詳細情報が書かれるよ。
+ＨＰなどの戦闘関連の情報はもちろん、
+入手できる経験値やアイテムなどの情報まで
+いろいろ確認出来るから、ぜひ活用してね。
+一度調べた敵は二度調べる必要はないよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>38</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12924</PointerOffset>
+      <JapaneseText>ターゲット切り替え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>39</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>12946</PointerOffset>
+      <JapaneseText> &lt;TARGET_BTN&gt; を押したまま &lt;ATTACK_BTN&gt; を押すと、
+&lt;DarkGreen&gt;ターゲットモード&lt;DarkBlue&gt;を切り替えられるよ。
+　　　　　：自動的に一番近くにいる敵に
+            切り替わるよ。
+
+　　　　　： &lt;MOVE_LR&gt; で自由に
+            ターゲットを選択できるよ。
+
+戦闘中に &lt;TARGET_BTN&gt; を押すと一番近くにいる敵に
+ターゲットが切り替わるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>40</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13604</PointerOffset>
+      <JapaneseText>戦闘パーティ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>41</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>13626</PointerOffset>
+      <JapaneseText>一緒に戦う仲間（&lt;DarkGreen&gt;戦闘パーティ&lt;DarkBlue&gt;）は、
+画面下に表示されるよ。
+操作するキャラが一番左側に表示されるよ。
+
+
+
+メインメニューで&lt;Red&gt;一番上にいるキャラ&lt;DarkBlue&gt;が
+操作キャラになるよ。
+仲間が５人以上の時は、ディオとメル以外の
+メンバーを入れ替えられるよ！
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>42</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14284</PointerOffset>
+      <JapaneseText>ミニマップについて</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>43</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14306</PointerOffset>
+      <JapaneseText>ミニマップで、
+戦闘中の全味方と敵の位置を確認できるよ。
+
+
+　　：操作キャラ
+　　：味方キャラ
+　　：ターゲットしている敵
+　　：ターゲット以外の敵
+
+それと、詠唱中のキャラは点滅するよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>44</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14964</PointerOffset>
+      <JapaneseText>バトルメモについて</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>45</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>14986</PointerOffset>
+      <JapaneseText>この「&lt;Red&gt;バトルメモ&lt;DarkBlue&gt;」の注意事項だよ！
+
+＊操作ボタンについて＊
+　メインメニューの&lt;DarkGreen&gt;システム&lt;DarkBlue&gt;にある
+　&lt;DarkGreen&gt;カスタム&lt;DarkBlue&gt;で操作ボタンを変更すると、
+　&lt;Red&gt;バトルメモにも反映される&lt;DarkBlue&gt;から
+　安心してね。
+
+※&lt;Red&gt;バトルメモ&lt;DarkBlue&gt;は、キョンチがお届けします∀</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>46</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15644</PointerOffset>
+      <JapaneseText>技名表示について</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>47</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>15666</PointerOffset>
+      <JapaneseText>発動している術技名や、
+味方が敵から盗んだアイテム名は、
+画面中央に表示されるよ！
+
+
+
+味方は&lt;DarkCyan&gt;青い枠&lt;DarkBlue&gt;の中に、
+敵は&lt;Red&gt;赤い枠&lt;DarkBlue&gt;の中に、
+それぞれ表示されるからチェックしてね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>48</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16324</PointerOffset>
+      <JapaneseText>ダメージ値</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>49</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>16346</PointerOffset>
+      <JapaneseText>ダメージを受けるときの数字の色は、
+重要な意味を持つんだ。
+　薄い黄色 ：属性的に有利
+　白色     ：属性的にちょっと苦手
+　灰色     ：属性的にとても苦手
+
+属性は、
+「&lt;Blue&gt;属性について&lt;DarkBlue&gt;」を見てね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>50</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17004</PointerOffset>
+      <JapaneseText>コンボ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>51</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17026</PointerOffset>
+      <JapaneseText>敵に連続で攻撃を当てることを&lt;Red&gt;コンボ&lt;DarkBlue&gt;という
+んだ。&lt;Red&gt;コンボ数&lt;DarkBlue&gt;（当てた回数）は画面右上に
+表示されるよ。敵２体に同時に攻撃を当てた
+場合は２回でカウントされるよ。
+
+カウントされるのは操作キャラの回数だけだ
+けど、仲間と交互に攻撃するようにすると、
+たくさんコンボ数が稼げるよ！
+あと、一度攻撃が途切れるとカウントし直し
+だから注意してね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>52</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17684</PointerOffset>
+      <JapaneseText>戦闘リザルト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>53</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>17706</PointerOffset>
+      <JapaneseText>戦闘終了後には、&lt;DarkGreen&gt;戦闘時間&lt;DarkBlue&gt;、&lt;DarkCyan&gt;入手アイテム&lt;DarkBlue&gt;、
+&lt;DarkCyan&gt;入手したガルド&lt;DarkBlue&gt;などが表示されるよ！
+&lt;DarkCyan&gt;ＭＡＸ　ＤＡＭＡＧＥ&lt;DarkBlue&gt;：
+  コンボ中の合計ダメージの最大値
+&lt;DarkCyan&gt;ＭＡＸ　ＨＩＴ&lt;DarkBlue&gt;：最大コンボ数
+&lt;DarkCyan&gt;ＥＸＰ.　 &lt;DarkBlue&gt;：入手した経験値
+&lt;DarkCyan&gt;ＧＡＬＤ　&lt;DarkBlue&gt;：入手したガルド
+&lt;DarkCyan&gt;ＧＲＡＤＥ&lt;DarkBlue&gt;：戦闘の評価値　貯めると……
+&lt;DarkCyan&gt;ＣＰ　　　&lt;DarkBlue&gt;：入手したＣＰ　ＣＰについては
+　　　　「&lt;Blue&gt;コスチュームって？&lt;DarkBlue&gt;」を見てね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>54</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18364</PointerOffset>
+      <JapaneseText>能力値</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>55</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>18386</PointerOffset>
+      <JapaneseText>能力値とは、攻撃や防御に関わる数値だよ。
+メインメニューの&lt;DarkGreen&gt;ライブラリ&lt;DarkBlue&gt;の中の&lt;DarkGreen&gt;
+ステータス&lt;DarkBlue&gt;で、各キャラの能力値を見よう。
+&lt;DarkCyan&gt;物攻・防&lt;DarkBlue&gt;：物理攻撃の攻撃力と防御力
+&lt;Blue&gt;術攻・防&lt;DarkBlue&gt;：術攻撃の攻撃力と防御力
+&lt;Purple&gt;詠唱&lt;DarkBlue&gt;：術攻撃の詠唱スピード
+&lt;Red&gt;敏捷&lt;DarkBlue&gt;：戦闘での移動速度
+&lt;DarkYellow&gt;幸運&lt;DarkBlue&gt;：戦闘中術攻撃などの確率に関わる数値
+&lt;DarkYellow&gt;幸運&lt;DarkBlue&gt;は、ワールドマップへ移動したり、
+ロードしたりすると、ランダムに変化するよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>56</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19044</PointerOffset>
+      <JapaneseText>他キャラ術技をセット</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>57</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19066</PointerOffset>
+      <JapaneseText>戦闘中に &lt;MENU_BTN&gt; で戦闘メニューを開いて&lt;DarkGreen&gt;術技&lt;DarkBlue&gt;
+を選択して、 &lt;START&gt; を押してね。
+そうすると、&lt;SHORTCUT&gt; のショートカットに
+戦闘パーティにいる&lt;Red&gt;仲間の術技&lt;DarkBlue&gt;を
+セットできるんだ！
+（自分の術技もできるよ！）
+でも、&lt;Red&gt;仲間が戦闘不能&lt;DarkBlue&gt;だったり、&lt;Red&gt;仲間の
+ＥＢＧが足りない&lt;DarkBlue&gt;と使えないからね。
+あと、別れたキャラは、
+&lt;Red&gt;設定した術技がリセット&lt;DarkBlue&gt;されてしまうよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>58</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19724</PointerOffset>
+      <JapaneseText>回復術技の操作</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>59</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>19746</PointerOffset>
+      <JapaneseText>術技の中には、仲間の状態を
+回復してくれるものがあるよ。
+
+
+
+
+詠唱を開始すると、敵をターゲットしていた
+&lt;Red&gt;矢印&lt;DarkBlue&gt;が味方の上に表示されるよ。
+術が発動する前に、回復したいキャラの所に
+ &lt;MOVE_LR&gt; で&lt;Red&gt;矢印&lt;DarkBlue&gt;を移動させてね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>60</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20404</PointerOffset>
+      <JapaneseText>状態異常について</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>61</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20426</PointerOffset>
+      <JapaneseText>敵の攻撃などによって、戦闘が不利になる
+&lt;Red&gt;状態異常&lt;DarkBlue&gt;になってしまうことがあるよ。
+時間がたてば回復するけど、放置せずに、
+&lt;DarkCyan&gt;キュアボトル&lt;DarkBlue&gt;などのアイテムで
+早めに回復しよう！
+戦闘前に装備で予防するのもおススメ！
+状態異常になると、
+　　　　　　と表示されるよ。
+戦闘終了時に状態異常だと、
+マップに戻っても効果を受けてしまうよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>62</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21084</PointerOffset>
+      <JapaneseText>状態異常「熱毒」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>63</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21106</PointerOffset>
+      <JapaneseText>　　　　　 HPが１になるまで
+　　　　徐々に減っていくよ。
+　　　　熱毒で戦闘不能に
+　　　　なることはないけど、
+　　　　他の攻撃は通常通り
+　　　　受けるから注意してね。
+
+アイテム「キュアボトル」や
+術技「アンチドート」などで治療できるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>64</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21764</PointerOffset>
+      <JapaneseText>状態異常「麻痺」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>65</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>21786</PointerOffset>
+      <JapaneseText>　　　　 　 移動手段が歩きだけに
+　　　　　なるだけじゃなくて、
+　　　　　術以外の攻撃が
+　　　　　できなくなってしまうんだ！
+　　　　　物理攻撃がメインのキャラは、
+　　　　　早く回復してあげてね。
+
+防御をし続けると、回復が早くなるよ！
+アイテム「キュアボトル」や
+術技「リカバー」などでも治療できるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>66</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22444</PointerOffset>
+      <JapaneseText>状態異常「石化」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>67</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>22466</PointerOffset>
+      <JapaneseText> 　　　　  まさに石。
+　　　　動けなくなる上に、
+　　　　受けるダメージが
+　　　　&lt;Red&gt;２倍&lt;DarkBlue&gt;になってしまうよ！
+　　　　アクセサリで予防がおススメ！
+
+ &lt;ATTACK_BTN&gt; ・ &lt;ARTES_BTN&gt; ・ &lt;GUARD_BTN&gt; や &lt;MOVE&gt; をガチャガチャ
+すると回復が早くなるよ！
+アイテム「キュアボトル」や
+術技「リカバー」などでも治療できるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>68</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23124</PointerOffset>
+      <JapaneseText>状態異常「睡眠」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>69</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23146</PointerOffset>
+      <JapaneseText>　　　　　　　 時間の経過で目を覚ますか
+　　　　　　ダメージを受けるまで
+　　　　　　動けなくなるけど、
+　　　　　　HPが少しだけ回復するよ。
+　　　　　
+攻撃を受けると一発で目が覚めるよ！
+アイテム「キュアボトル」や
+術技「リカバー」などでも治療できるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>70</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23804</PointerOffset>
+      <JapaneseText>状態異常「封印」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>71</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>23826</PointerOffset>
+      <JapaneseText>　　　　　 お口にチャックだね。
+　　　　術などの詠唱技が使えなくなるよ。
+　　　　
+　　　　
+
+
+あっちこっち走り回ると回復が早くなるよ！
+アイテム「キュアボトル」や
+術技「リカバー」などでも治療できるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>72</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24484</PointerOffset>
+      <JapaneseText>状態異常「暗闇」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>73</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>24506</PointerOffset>
+      <JapaneseText>　　　　　 目隠し状態の中で
+　　　　戦うことになるよ。
+　　　　敵の動きが見えないから
+　　　　とても危険……。
+　　　　
+敵に攻撃をたくさん当てると
+早く回復するから、
+とりあえず攻撃してみよう。
+アイテム「キュアボトル」や
+術技「リカバー」などでも治療できるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>74</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25164</PointerOffset>
+      <JapaneseText>状態異常「停止」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>75</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25186</PointerOffset>
+      <JapaneseText>　　　　　 一時停止状態になるよ。
+　　　　回復方法は無いから、
+　　　　もしもかかってしまったら
+　　　　仲間に守ってもらってね。
+&lt;DarkCyan&gt;アワーグラス&lt;DarkBlue&gt;というアイテムで、
+敵を一時停止状態にできるんだ。
+これを手強い敵に使えば、
+普段は繋がりにくいコンボを狙えるかも！
+でも、時間が止まっているわけだから、
+吹き飛ばしたり打ち上げたりは出来ないよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>76</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25844</PointerOffset>
+      <JapaneseText>状態異常「気絶」</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>77</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>25866</PointerOffset>
+      <JapaneseText>　　　　気絶してしまうと、少しの間
+　　　　動けなくなってしまうんだ。
+　　　　頭の上でグルグル回ってる星が
+　　　　消えると復活できるよ。
+
+ &lt;ATTACK_BTN&gt; ・ &lt;ARTES_BTN&gt; ・ &lt;GUARD_BTN&gt; や &lt;MOVE&gt; をガチャガチャ
+すると回復が早くなるよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>78</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26524</PointerOffset>
+      <JapaneseText>ソロモード</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>79</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>26546</PointerOffset>
+      <JapaneseText>&lt;Red&gt;キャラ一人で戦闘&lt;DarkBlue&gt;ができるようになる
+アイテムがあるんだ！
+&lt;Red&gt;グレードショップ&lt;DarkBlue&gt;で
+&lt;DarkCyan&gt;スペシャルフラッグ&lt;DarkBlue&gt;を購入すると
+できるようになるよ。
+一匹狼になりたい人におススメ！
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>80</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27204</PointerOffset>
+      <JapaneseText>フリーパーティ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>81</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27226</PointerOffset>
+      <JapaneseText>貴重品「&lt;DarkCyan&gt;孤高のリング&lt;DarkBlue&gt;」を入手すると、
+戦闘パーティの人数を&lt;DarkGreen&gt;２～４人&lt;DarkBlue&gt;で
+自由に設定できるようになるよ！
+でも、ディオとメルは外せないよ。
+
+色々な組み合わせで戦闘してみてね。
+
+（このアイテムでは１人だけには
+なれないよ！）</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>82</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27884</PointerOffset>
+      <JapaneseText>スキルって？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>83</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>27906</PointerOffset>
+      <JapaneseText>&lt;Red&gt;スキル&lt;DarkBlue&gt;は、キャラの戦闘能力を上げたりする
+とても便利なものなんだけど、
+２種類に分けられているから注意してね。
+　&lt;DarkCyan&gt;ベーススキル&lt;DarkBlue&gt;（マスタースキル）：
+　　　　どのコスチュームでも使えるよ。
+　&lt;Red&gt;コスチュームスキル&lt;DarkBlue&gt;：
+　　　　特定コスチュームでのみ使えるよ。
+入手法は「&lt;Blue&gt;スキル・術技の取得&lt;DarkBlue&gt;」を見てね。
+&lt;Red&gt;スキル&lt;DarkBlue&gt;はメインメニューの
+&lt;DarkGreen&gt;バトルカスタム&lt;DarkBlue&gt;でセット出来るよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>84</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28564</PointerOffset>
+      <JapaneseText>コスチュームって？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>85</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>28586</PointerOffset>
+      <JapaneseText>&lt;Purple&gt;ディオ&lt;DarkBlue&gt;と&lt;Purple&gt;メル&lt;DarkBlue&gt;は&lt;Red&gt;コスチューム&lt;DarkBlue&gt;を着替えると、
+その職業に&lt;Red&gt;なりきる&lt;DarkBlue&gt;ことができるんだ。
+倒した敵や宝箱から入手することができて、
+着て戦うとＣＰ（コスチュームポイント）が
+溜まって、コスチュームが育っていくよ。
+ただし、&lt;Red&gt;ダンジョンでは着替えられない&lt;DarkBlue&gt;から
+注意！　でも&lt;Red&gt;記憶陣でなら着替えられる&lt;DarkBlue&gt;よ。
+あるいは&lt;DarkCyan&gt;あるアイテム&lt;DarkBlue&gt;を使うと……。
+そうそう、&lt;Red&gt;戦闘中も着替えられない&lt;DarkBlue&gt;よ！
+戦闘前に準備しておこう！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>86</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>29244</PointerOffset>
+      <JapaneseText>何が装備できるの？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>87</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>29266</PointerOffset>
+      <JapaneseText>&lt;Purple&gt;ディオ&lt;DarkBlue&gt;と&lt;Purple&gt;メル&lt;DarkBlue&gt;は、
+&lt;Red&gt;着ているコスチューム&lt;DarkBlue&gt;によって
+装備できるものが決まるよ。
+例えば、
+&lt;Purple&gt;ディオ&lt;DarkBlue&gt;が「&lt;DarkCyan&gt;剣士&lt;DarkBlue&gt;」のときは、
+剣は装備できるけど、
+斧や弓は装備できないよ。
+
+手に入れた武器に合わせて
+コスチュームも変更してみてね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>88</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>29924</PointerOffset>
+      <JapaneseText>スキル・術技の取得</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>89</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>29946</PointerOffset>
+      <JapaneseText>１つのコスチュームを着て
+何度も戦闘をすると、
+&lt;Red&gt;コスチュームポイント&lt;DarkBlue&gt;（&lt;Red&gt;ＣＰ&lt;DarkBlue&gt;）が溜まって
+&lt;Purple&gt;なりきりランク&lt;DarkBlue&gt;が上がるよ。
+&lt;Purple&gt;なりきりランク&lt;DarkBlue&gt;を上げると、
+スキルや術技が取得できるんだ！
+なりきりランクを最大まで上げると
+マスタースキルを覚えたり、
+コスチュームで上がる能力値も増えるよ。
+たくさん戦って&lt;Red&gt;ＣＰ&lt;DarkBlue&gt;を溜めてね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>90</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>30604</PointerOffset>
+      <JapaneseText>術技の種類</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>91</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>30626</PointerOffset>
+      <JapaneseText>&lt;DarkCyan&gt;術技&lt;DarkBlue&gt;には下記のものがあるよ。
+
+通常技　：ＥＢＧを消費しない基本攻撃。
+　&lt;DarkCyan&gt;特技&lt;DarkBlue&gt;　：通常技より強い攻撃。
+　&lt;Blue&gt;奥義&lt;DarkBlue&gt;　：特技を更に強化した技。
+　&lt;Purple&gt;術&lt;DarkBlue&gt;　　：発動するのに&lt;Purple&gt;詠唱&lt;DarkBlue&gt;が必要な技。
+　　　　　通常の防御では防げないよ。
+&lt;Blue&gt;特殊技&lt;DarkBlue&gt;　：連携ができない特殊な技。
+　　　　　回復や強化・特殊な攻撃
+　　　　　などがあるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>92</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31284</PointerOffset>
+      <JapaneseText>術技の連携</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>93</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31306</PointerOffset>
+      <JapaneseText>基本的に&lt;Red&gt;通常技は３回まで連続で出せる&lt;DarkBlue&gt;よ。
+だから連携をしたいときは、
+ＥＢＧをある程度溜めた状態で、
+通常→通常→通常→&lt;DarkCyan&gt;特技&lt;DarkBlue&gt;→&lt;Blue&gt;奥義&lt;DarkBlue&gt;→通常…
+がおススメ。
+
+で、ＥＢＧが減ってきたら
+通常→通常→通常→&lt;DarkCyan&gt;特技&lt;DarkBlue&gt;→通常→通常
+というように、&lt;DarkCyan&gt;特技&lt;DarkBlue&gt;と&lt;Blue&gt;奥義&lt;DarkBlue&gt;を減らして、
+通常技で攻めてＥＢＧを溜めよう！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>94</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31964</PointerOffset>
+      <JapaneseText>術技の特性</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>95</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>31986</PointerOffset>
+      <JapaneseText>術技の説明枠に表示されるアイコン
+について説明するよ。
+属性：術技の攻撃属性が表示されるよ。
+　　　「&lt;Blue&gt;属性について&lt;DarkBlue&gt;」を見てね。
+効果：　　空中でも使える術技だよ。
+　　　　　術技ボタンを
+　　　　　押しっぱなしにすると、
+　　　　　更に追加技が出せるよ。
+　　　　　ＥＢＧを消費しないから
+　　　　　どんどん使おう！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>96</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32644</PointerOffset>
+      <JapaneseText>属性について</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>97</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>32666</PointerOffset>
+      <JapaneseText>術技に　 が付いているものや
+武器に「&lt;DarkCyan&gt;～属性&lt;DarkBlue&gt;」と書かれたものには、
+&lt;Red&gt;属性&lt;DarkBlue&gt;が付いているよ。
+魔法属性５種類と、光・闇・物理で、
+合計８種類の属性があるよ。
+各属性には、『&lt;Red&gt;攻撃が有利になる属性&lt;DarkBlue&gt;』と
+『&lt;Red&gt;防御が不利になる属性&lt;DarkBlue&gt;』があるから
+注意してね。
+&lt;DarkCyan&gt;スペクタクルズ&lt;DarkBlue&gt;や&lt;DarkGreen&gt;モンスター図鑑&lt;DarkBlue&gt;で
+敵の属性を確認しておこう！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>98</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33324</PointerOffset>
+      <JapaneseText>属性付与について</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>99</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>33346</PointerOffset>
+      <JapaneseText>戦闘中にアイテムを使って一定時間の間、
+通常技に属性を付ける事ができるんだ。
+
+付ける事が出来る属性は
+　　：火　　：水　　：風　　：地
+　　　　：雷　　：光　　：闇
+の７種類だよ。
+そのアイテムには「&lt;DarkCyan&gt;～～石&lt;DarkBlue&gt;」と、名前に
+「&lt;DarkCyan&gt;石&lt;DarkBlue&gt;」が付いているから探してみてね。
+効果中は顔アイコンに属性アイコンが付くよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>100</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34004</PointerOffset>
+      <JapaneseText>属性の種類１</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>101</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34026</PointerOffset>
+      <JapaneseText>ここでは&lt;Red&gt;物理&lt;DarkBlue&gt;・&lt;DarkYellow&gt;光&lt;DarkBlue&gt;・&lt;Purple&gt;闇&lt;DarkBlue&gt;の
+３つの属性について説明するよ！
+　　　：物理　　：光　　　：闇
+　　　　　　　&lt;Red&gt;物理&lt;DarkBlue&gt;は、&lt;DarkYellow&gt;光&lt;DarkBlue&gt;の敵には
+　　　　　　　有利に戦えるけど、
+　　　　　　　&lt;Purple&gt;闇&lt;DarkBlue&gt;の敵には不利だよ。
+有利だと、ダメージや
+動けない時間が減るけど、
+不利だと、ダメージや動けない時間が
+増えちゃうから気をつけてね！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>102</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34684</PointerOffset>
+      <JapaneseText>属性の種類２</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>103</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>34706</PointerOffset>
+      <JapaneseText>ここでは&lt;Red&gt;魔法属性&lt;DarkBlue&gt;について説明するよ！
+&lt;Red&gt;魔法属性&lt;DarkBlue&gt;は全５種類あるよ。
+ 　：火　　：水　　：風　　：地　　：雷
+
+　　　　　　　　&lt;DarkCyan&gt;水&lt;DarkBlue&gt;は、&lt;Red&gt;火&lt;DarkBlue&gt;の敵には
+　　　　　　　　有利に戦えるけど、
+　　　　　　　　&lt;DarkYellow&gt;雷&lt;DarkBlue&gt;の敵には不利だよ。
+
+アクセサリのファイアマント等を使えば
+一定確率でダメージを無効化出来るよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>104</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35364</PointerOffset>
+      <JapaneseText>ＥＢＧって何？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>105</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>35386</PointerOffset>
+      <JapaneseText>&lt;Red&gt;エモーショナルブレイブゲージ&lt;DarkBlue&gt;（&lt;Red&gt;ＥＢＧ&lt;DarkBlue&gt;）は
+戦闘中に行動するために必要なゲージだよ。
+このゲージが&lt;Red&gt;10％未満&lt;DarkBlue&gt;だと
+術技の連携ができなくなって、
+攻撃が素早く行えなくなるよ。
+
+
+敵にダメージを与えてどんどんゲージを
+増やそう！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>106</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36044</PointerOffset>
+      <JapaneseText>ＥＢＧの増減</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>107</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36066</PointerOffset>
+      <JapaneseText>＊&lt;DarkGreen&gt;ＥＢＧを増やすには？&lt;DarkBlue&gt;＊
+基本的に、ダメージを与える、ダメージを
+受ける、術の詠唱や発動で増えるよ。
+＊&lt;DarkGreen&gt;ＥＢＧはどうしたら減るの？&lt;DarkBlue&gt;＊
+『&lt;Red&gt;通常攻撃以外の術技攻撃をする&lt;DarkBlue&gt;』
+『&lt;Red&gt;敵の攻撃を防御する&lt;DarkBlue&gt;』
+といった行動を行うと減るけど、
+10％までは徐々に回復してくれるよ。
+あと、なにも行動をしないでいると
+10％まで減り続けるから注意してね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>108</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36724</PointerOffset>
+      <JapaneseText>ＥＢＧのルール</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>109</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36746</PointerOffset>
+      <JapaneseText>ＥＢＧが&lt;Red&gt;多い&lt;DarkBlue&gt;と&lt;DarkGreen&gt;攻撃力&lt;DarkBlue&gt;が強化されるよ。
+反対に&lt;DarkCyan&gt;少ない&lt;DarkBlue&gt;と&lt;DarkGreen&gt;防御力&lt;DarkBlue&gt;が強化されるよ。
+
+ＥＢＧの量を調整することで、
+攻撃力と防御力のバランスを
+とることができて便利だけど、
+強力な術技を使うと
+ＥＢＧが一気に消費されるから、注意してね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>110</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37404</PointerOffset>
+      <JapaneseText>オーバーブレイブ１</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>111</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>37426</PointerOffset>
+      <JapaneseText>&lt;DarkCyan&gt;オーバーブレイブ&lt;DarkBlue&gt;は、ＥＢＧを
+&lt;Red&gt;120％の限界を超えて増やせる&lt;DarkBlue&gt;モードだよ。
+ＥＢＧが&lt;Red&gt;100％&lt;DarkBlue&gt;以上の状態で &lt;OVERDRIVE_BTN&gt; を押すと
+ＥＢＧの見た目が変化するよ。
+
+
+ＥＢＧが&lt;DarkYellow&gt;ＬＩＭＩＴ&lt;DarkBlue&gt;まで減ると、
+体が持たなくなって
+オーバーブレイブが解除されちゃうから、
+減らないように攻撃しよう！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>112</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38084</PointerOffset>
+      <JapaneseText>オーバーブレイブ２</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>113</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38106</PointerOffset>
+      <JapaneseText>&lt;DarkCyan&gt;オーバーブレイブ&lt;DarkBlue&gt;中は、
+ＥＢＧの量に比例して攻撃力が上昇するよ。
+
+それに、
+普段ならＥＢＧを消費する行動を、
+消費せずに行うことができるから、
+どんどん術技を使ってＥＢＧを稼ごう！！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>114</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38764</PointerOffset>
+      <JapaneseText>オーバーブレイブ３</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>115</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>38786</PointerOffset>
+      <JapaneseText>コンボ中に
+&lt;DarkCyan&gt;オーバーブレイブ&lt;DarkBlue&gt;を発動させると、
+そのコンボ数を引き継いだ状態で
+&lt;DarkCyan&gt;オーバーブレイブモード&lt;DarkBlue&gt;に入るよ！
+
+安心してコンボを稼いでね
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>116</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39444</PointerOffset>
+      <JapaneseText>秘奥義発動！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>117</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>39466</PointerOffset>
+      <JapaneseText>&lt;DarkCyan&gt;オーバーブレイブ&lt;DarkBlue&gt;中に &lt;OVERDRIVE_BTN&gt; を押すと、
+&lt;Red&gt;秘奥義&lt;DarkBlue&gt;が発動できるよ！
+とても強力で便利な技だから、
+たくさん使ってね。
+
+複数の秘奥義を持っている時は、
+ＥＢＧの割合で自動的に選ばれるよ。
+
+&lt;Purple&gt;ディオ&lt;DarkBlue&gt;と&lt;Purple&gt;メル&lt;DarkBlue&gt;の&lt;Red&gt;秘奥義&lt;DarkBlue&gt;は、
+特定のコスチュームを育てると取得できるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>118</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40124</PointerOffset>
+      <JapaneseText>精霊を召喚だ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>119</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40146</PointerOffset>
+      <JapaneseText>&lt;Red&gt;精霊&lt;DarkBlue&gt;と契約すると、
+戦闘中にその&lt;Red&gt;精霊&lt;DarkBlue&gt;を召喚できるよ！
+
+召喚するには、
+&lt;DarkCyan&gt;精霊使い&lt;DarkBlue&gt;などのコスチュームに着換えて
+&lt;DarkCyan&gt;召喚術&lt;DarkBlue&gt;を術技スロットに設定しよう！
+それと、召喚するときは&lt;Red&gt;ＥＢＧを大量に消費&lt;DarkBlue&gt;
+するから注意してね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>120</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40804</PointerOffset>
+      <JapaneseText>魔物の捕獲・育成</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>121</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>40826</PointerOffset>
+      <JapaneseText>輝きがでている敵と戦闘になったとき
+&lt;DarkCyan&gt;獣操系&lt;DarkBlue&gt;コスチュームを着ていると、
+魔物を&lt;Red&gt;捕獲&lt;DarkBlue&gt;することがあるよ。
+（モンスター図鑑にマークが付いているよ）
+捕獲した魔物は、パーティがいっぱいだと
+自分で&lt;Purple&gt;エトスハウスの休憩所&lt;DarkBlue&gt;に
+行ってくれるよ。&lt;Purple&gt;休憩所の看板&lt;DarkBlue&gt;を調べて
+パーティに入れてあげてね。
+他のキャラと同じように経験値を入手すると
+レベルアップをして成長するよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>122</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41484</PointerOffset>
+      <JapaneseText>チェインパートナー１</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>123</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>41506</PointerOffset>
+      <JapaneseText>&lt;Red&gt;仲間と共同で一人の敵を狙える&lt;DarkBlue&gt;モードだよ。
+
+戦闘パーティに&lt;Purple&gt;ディオ&lt;DarkBlue&gt;か&lt;Purple&gt;メル&lt;DarkBlue&gt;のどちらかと
+&lt;Purple&gt;クルール&lt;DarkBlue&gt;がいるときに、&lt;Purple&gt;クルール&lt;DarkBlue&gt;の特殊技
+&lt;Red&gt;チェインパートナー&lt;DarkBlue&gt;を使うと発動できるよ。
+
+ディオかメルが操作キャラの時に、
+&lt;Purple&gt;クルール&lt;DarkBlue&gt;が操作キャラに変身して
+同じ行動をしてくれるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>124</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42164</PointerOffset>
+      <JapaneseText>チェインパートナー２</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>125</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42186</PointerOffset>
+      <JapaneseText>①操作キャラが&lt;Purple&gt;ディオ&lt;DarkBlue&gt;か&lt;Purple&gt;メル&lt;DarkBlue&gt;で、
+　戦闘パーティに&lt;Purple&gt;クルール&lt;DarkBlue&gt;がいる。
+②&lt;DarkGreen&gt;術技&lt;DarkBlue&gt;で &lt;START&gt; を押して、
+　ショートカットに&lt;Purple&gt;クルール&lt;DarkBlue&gt;の特殊技
+　&lt;Red&gt;チェインパートナー&lt;DarkBlue&gt;をセット。
+③&lt;Purple&gt;クルール&lt;DarkBlue&gt;のＥＢＧが&lt;Red&gt;30％以上
+　&lt;DarkBlue&gt;あるときに、設定したショートカットで
+　&lt;Red&gt;チェインパートナー&lt;DarkBlue&gt;を発動！
+操作キャラと&lt;Purple&gt;クルール&lt;DarkBlue&gt;のレベルが高いほど
+持続時間が長くなるよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>126</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42844</PointerOffset>
+      <JapaneseText>チェインパートナー３</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>127</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>42866</PointerOffset>
+      <JapaneseText>変身した&lt;Purple&gt;クルール&lt;DarkBlue&gt;が操作キャラの行動を
+マネしてくれる時、操作キャラと&lt;Purple&gt;クルール&lt;DarkBlue&gt;の
+位置によって、動き方が少し変わるんだ。
+　　操：操作キャラ　ク：クルール
+　&lt;DarkCyan&gt;①&lt;DarkBlue&gt;　操　ク　&lt;Red&gt;敵&lt;DarkBlue&gt;　または　ク　操　&lt;Red&gt;敵&lt;DarkBlue&gt;　
+　&lt;DarkYellow&gt;②&lt;DarkBlue&gt;　操　&lt;Red&gt;敵&lt;DarkBlue&gt;　ク　または　ク　&lt;Red&gt;敵&lt;DarkBlue&gt;　操　
+&lt;DarkCyan&gt;①&lt;DarkBlue&gt;の時は&lt;Red&gt;時間差で攻撃&lt;DarkBlue&gt;するよ。
+&lt;DarkYellow&gt;②&lt;DarkBlue&gt;の時は左右対称で&lt;Red&gt;同時に攻撃&lt;DarkBlue&gt;するよ。
+操作キャラの出す技に&lt;Purple&gt;クルール&lt;DarkBlue&gt;のＥＢＧが
+足りないときは、通常攻撃が出るよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>128</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43524</PointerOffset>
+      <JapaneseText>チェインパートナー４</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>129</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>43546</PointerOffset>
+      <JapaneseText>&lt;Red&gt;チェインパートナー&lt;DarkBlue&gt;の&lt;DarkGreen&gt;終了条件&lt;DarkBlue&gt;は
+複数あるよ。
+　①一定時間経過
+　②&lt;Purple&gt;クルール&lt;DarkBlue&gt;の術技
+　　&lt;DarkCyan&gt;チェインパートナー&lt;DarkBlue&gt;を発動
+　③どちらかが&lt;Red&gt;戦闘不能&lt;DarkBlue&gt;
+　④操作キャラがオーバーブレイブを開始
+&lt;Red&gt;チェインパートナー&lt;DarkBlue&gt;終了後の
+二人のＥＢＧは&lt;Red&gt;0％&lt;DarkBlue&gt;になってしまうよ
+あと、&lt;Red&gt;1戦闘に1回&lt;DarkBlue&gt;しか使えないよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>130</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44204</PointerOffset>
+      <JapaneseText>Ｗオーバーブレイブ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>131</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44226</PointerOffset>
+      <JapaneseText>チェインパートナーを行っている状態で、
+操作キャラと&lt;Purple&gt;クルール&lt;DarkBlue&gt;のＥＢＧが
+&lt;Red&gt;100％&lt;DarkBlue&gt;以上のときに &lt;OVERDRIVE_BTN&gt; を押すと、
+二人とも
+&lt;DarkCyan&gt;オーバーブレイブ&lt;DarkBlue&gt;状態になるんだ！
+
+でも、どちらかが&lt;Red&gt;状態異常&lt;DarkBlue&gt;か&lt;Red&gt;戦闘不能&lt;DarkBlue&gt;だと
+発動できないから注意してね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>132</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44884</PointerOffset>
+      <JapaneseText>合体秘奥義</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>133</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>44906</PointerOffset>
+      <JapaneseText>&lt;Red&gt;合体秘奥義&lt;DarkBlue&gt;は、&lt;Red&gt;Ｗオーバーブレイブ中&lt;DarkBlue&gt;に
+&lt;Purple&gt;ディオ&lt;DarkBlue&gt;と&lt;Purple&gt;メル&lt;DarkBlue&gt;で決める
+強力なフィニッシュ技だよ！
+&lt;Red&gt;Ｗオーバーブレイブ中&lt;DarkBlue&gt;に &lt;OVERDRIVE_BTN&gt; で発動するよ。
+
+&lt;Red&gt;合体秘奥義&lt;DarkBlue&gt;は、
+二人が着ているコスチュームの組み合わせが
+正しいと使えるよ。
+あと、&lt;Red&gt;合体秘奥義&lt;DarkBlue&gt;を発動してしまうと、
+チェインパートナーは終了してしまうよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>134</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45564</PointerOffset>
+      <JapaneseText>素早い連携</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>135</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>45586</PointerOffset>
+      <JapaneseText>術技の中には、それだけで使うと
+出が遅くて使いづらいものがあるよね。
+でも、通常技等の攻撃後に連携して使うと
+&lt;Red&gt;攻撃前の準備動作がカットされて
+素早く出せる&lt;DarkBlue&gt;んだ。
+
+他にも、術の詠唱時間を短くする
+「&lt;Red&gt;ミスティマーク&lt;DarkBlue&gt;」「&lt;Red&gt;ミスティシンボル&lt;DarkBlue&gt;」
+等の装備もあるから色々試してみてね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>136</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46244</PointerOffset>
+      <JapaneseText>難易度の高い連携</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>137</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46266</PointerOffset>
+      <JapaneseText>&lt;DarkYellow&gt;１&lt;DarkBlue&gt;「敵がダウンして、攻撃ができない」
+&lt;DarkYellow&gt;２&lt;DarkBlue&gt;「一発目で敵が仰け反らない！」
+&lt;DarkYellow&gt;３&lt;DarkBlue&gt;「上手くコンボが続かないよ……」
+ということはないかな？
+&lt;DarkYellow&gt;１&lt;DarkBlue&gt;は、ダウンした敵を起こすことが出来る
+術技「&lt;DarkCyan&gt;鷹爪襲撃&lt;DarkBlue&gt;」などを使うといいよ。
+&lt;DarkYellow&gt;２&lt;DarkBlue&gt;、&lt;DarkYellow&gt;３&lt;DarkBlue&gt;は、ジャンプして敵に向かって
+飛び込んでから、通常攻撃をするといいよ。
+いつもより&lt;Red&gt;通常攻撃回数が１回分多く稼げる&lt;DarkBlue&gt;
+からお得だよ♪</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>138</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46924</PointerOffset>
+      <JapaneseText>特殊なダメージ軽減</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>139</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>46946</PointerOffset>
+      <JapaneseText>特殊な防御方法について、少し説明するね。
+&lt;Blue&gt;攻撃の相殺&lt;DarkBlue&gt;：
+敵と味方の攻撃がぶつかると、攻撃が相殺
+されて、ダメージを受けなくて済むよ。
+&lt;DarkCyan&gt;飛道具攻撃&lt;DarkBlue&gt;：
+飛道具系の攻撃には、叩き落としたり、
+弾同士がぶつかると消滅するものがあるよ。
+&lt;DarkYellow&gt;特殊な術技&lt;DarkBlue&gt;：
+「ホーリィウォール」等の術でも、
+敵の攻撃を打ち消すことが出来るよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>140</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47604</PointerOffset>
+      <JapaneseText>スロットの増加</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>141</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>47626</PointerOffset>
+      <JapaneseText>８スロットシステムが開放されて、
+ &lt;ARTES_BTN&gt; と同じように &lt;ATTACK_BTN&gt; にも通常技以外の
+術技を設定できるようになったよ！
+
+設定出来るスロットは
+ &lt;ATTACK_BTN&gt; ボタン　　　 　&lt;ATTACK_BTN&gt; ボタン＋ &lt;MOVE_U&gt;
+ &lt;ATTACK_BTN&gt; ボタン＋ &lt;MOVE_LR&gt;　　&lt;ATTACK_BTN&gt; ボタン＋ &lt;MOVE_D&gt;
+の&lt;Red&gt;４つ&lt;DarkBlue&gt;だよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>142</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48284</PointerOffset>
+      <JapaneseText>敵の背後を突く！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>143</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48306</PointerOffset>
+      <JapaneseText>&lt;DarkCyan&gt;敵の背後から攻撃&lt;DarkBlue&gt;したり
+&lt;DarkCyan&gt;敵を空中に浮かす&lt;DarkBlue&gt;と、
+コンボの受付時間が長くなるよ！
+
+味方が攻撃している間に、
+敵の背後に回り込むのがおススメ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>144</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48964</PointerOffset>
+      <JapaneseText>敵がダウンした！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>145</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>48986</PointerOffset>
+      <JapaneseText>基本的に、
+&lt;Red&gt;ダウンした敵に攻撃は当たらない&lt;DarkBlue&gt;よ。
+「コンボを続けたい！」
+「早く戦闘を終了させたい！」
+そんなときは、
+強制的に敵を起こす術技を使おう。
+ &lt;SHORTCUT&gt; ショートカットに仲間の術技を
+登録しておくといいよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>146</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>49644</PointerOffset>
+      <JapaneseText>コンボの稼ぎ方</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>147</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>49666</PointerOffset>
+      <JapaneseText>「コンボ数を稼ぎたいんだ！」
+そんなときにおススメなスキルがあるよ。
+&lt;DarkCyan&gt;アタックプラス&lt;DarkBlue&gt;
+　通常攻撃が一回多く出せるんだ。
+　でも、攻撃威力も上がるから注意してね。
+&lt;Blue&gt;キャンセラー&lt;DarkBlue&gt;
+　特技同士を１回繋げるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>148</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>50324</PointerOffset>
+      <JapaneseText>テクニカルスマッシュ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>149</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>50346</PointerOffset>
+      <JapaneseText>戦闘中に特定の条件を満たすと
+&lt;Red&gt;テクニカルスマッシュ&lt;DarkBlue&gt;となって、
+戦闘後に入手する経験値などに
+ボーナスが付くんだ。
+テクニカルスマッシュは全部で
+８種類あるから、挑戦してみてね。
+さらに、一回の連携中に８種類全ての
+テクニカルスマッシュを行うと、
+　　　　　が表示されて
+ボーナスもいっぱい付くよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>150</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>51004</PointerOffset>
+      <JapaneseText>Ｂｕｓｔｅｒ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>151</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>51026</PointerOffset>
+      <JapaneseText>・テクニカルスマッシュ！　その１
+　　　　　&lt;DarkCyan&gt;バスター&lt;DarkBlue&gt;
+連携中に、
+&lt;Red&gt;２体以上の敵を倒す&lt;DarkBlue&gt;と発生するよ。
+攻撃範囲の広い術攻撃が狙いやすいよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>152</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>51684</PointerOffset>
+      <JapaneseText>Ｃｈａｉｎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>153</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>51706</PointerOffset>
+      <JapaneseText>・テクニカルスマッシュ！　その２
+　　　　 &lt;DarkCyan&gt;チェイン&lt;DarkBlue&gt;
+連携中に、
+通常技を含まない
+&lt;Red&gt;４つ以上の術技を繋げる&lt;DarkBlue&gt;と発生するよ。
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>154</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>52364</PointerOffset>
+      <JapaneseText>ＮｏＤａｍａｇｅ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>155</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>52386</PointerOffset>
+      <JapaneseText>・テクニカルスマッシュ！　その３
+　　　　　　  &lt;DarkCyan&gt;ノーダメージ&lt;DarkBlue&gt;
+そのままの意味だけど、一応説明。
+戦闘中に、
+&lt;Red&gt;一度もダメージを受けずに敵を倒す&lt;DarkBlue&gt;と
+発動するよ。
+バックステップで華麗に避けよう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>156</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>53044</PointerOffset>
+      <JapaneseText>Ａｅｒｉａｌ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>157</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>53066</PointerOffset>
+      <JapaneseText>・テクニカルスマッシュ！　その４
+　　　　　&lt;DarkCyan&gt;エアリアル&lt;DarkBlue&gt;
+敵を&lt;Red&gt;空中でＨＰ０にする&lt;DarkBlue&gt;と発生するよ。
+切り上げ系の技を使おう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>158</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>53724</PointerOffset>
+      <JapaneseText>Ｔｒｉａｎｇｌｅ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>159</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>53746</PointerOffset>
+      <JapaneseText>・テクニカルスマッシュ！　その５
+　　　　　 &lt;DarkCyan&gt;トライアングル&lt;DarkBlue&gt;
+連携中に、
+通常技を含む&lt;Red&gt;３種類以上の術技を使う&lt;DarkBlue&gt;と
+発動するよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>160</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>54404</PointerOffset>
+      <JapaneseText>Ｓｔ．Ｄａｍａｇｅ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>161</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>54426</PointerOffset>
+      <JapaneseText>・テクニカルスマッシュ！　その６
+　　　　　　  &lt;DarkCyan&gt;ステータスダメージ&lt;DarkBlue&gt;
+敵を&lt;Red&gt;状態異常にする&lt;DarkBlue&gt;と発動するよ。
+術技で敵を状態異常にしよう！
+術技で状態異常にするのもいいけど、
+熱毒の追加効果付き武器を使うのもいいかも</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>162</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>55084</PointerOffset>
+      <JapaneseText>Ａｃｔｉｏｎ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>163</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>55106</PointerOffset>
+      <JapaneseText>・テクニカルスマッシュ！　その７
+　　　　　&lt;DarkCyan&gt;アクション&lt;DarkBlue&gt;
+&lt;Red&gt;追加技&lt;DarkBlue&gt;を使うと発生するよ。
+
+＊&lt;DarkGreen&gt;追加技って？&lt;DarkBlue&gt;＊
+特技を出した後に
+そのボタンを押したままでいると、
+違う技が発動することがあるんだ。
+これを&lt;DarkCyan&gt;追加技&lt;DarkBlue&gt;というよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>164</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>55764</PointerOffset>
+      <JapaneseText>ＯｖｅｒＢｒａｖｅ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>165</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>55786</PointerOffset>
+      <JapaneseText>・テクニカルスマッシュ！　その８
+　　　　　　 &lt;DarkCyan&gt;オーバーブレイブ&lt;DarkBlue&gt;
+&lt;Red&gt;オーバーブレイブを発動させる&lt;DarkBlue&gt;と
+発動するよ。
+&lt;DarkCyan&gt;オーバーブレイブ&lt;DarkBlue&gt;を発動させてから
+他のテクニカルスマッシュを
+狙うといいかもね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>166</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>56444</PointerOffset>
+      <JapaneseText>オーバーキル１</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>167</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>56466</PointerOffset>
+      <JapaneseText>&lt;DarkCyan&gt;オーバーブレイブ&lt;DarkBlue&gt;中は、
+コンボ中に敵のＨＰが&lt;Red&gt;０&lt;DarkBlue&gt;になっても
+更にその敵にコンボを続けられるんだ。
+これを&lt;Red&gt;オーバーキル&lt;DarkBlue&gt;と呼ぶよ。
+
+敵のＨＰが&lt;Red&gt;０&lt;DarkBlue&gt;になってコンボが途切れると、
+敵は戦闘不能になってしまうよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>168</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>57124</PointerOffset>
+      <JapaneseText>オーバーキル２</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>169</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>57146</PointerOffset>
+      <JapaneseText>&lt;Red&gt;オーバーキル&lt;DarkBlue&gt;発動中は、
+&lt;DarkGreen&gt;敵に与えているダメージ値の色&lt;DarkBlue&gt;と
+&lt;DarkGreen&gt;敵がダメージを受けるときの見た目&lt;DarkBlue&gt;が
+変化するよ。
+
+&lt;Red&gt;オーバーキル&lt;DarkBlue&gt;を発動させると、
+戦闘終了後に入手するものに
+ボーナスがつくよ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>170</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>57804</PointerOffset>
+      <JapaneseText>宝箱･･････？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>171</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>57826</PointerOffset>
+      <JapaneseText>「&lt;DarkYellow&gt;お？　宝箱を発見♪&lt;DarkBlue&gt;」と思ったら、
+「&lt;Blue&gt;ギャー！　敵だったー！！&lt;DarkBlue&gt;」
+ということはなかったかな？
+あれは宝箱の格好をしている&lt;Red&gt;魔物&lt;DarkBlue&gt;なんだ。
+
+もちろん逃走はできるから、
+危ないときは逃げてね。
+逃走するとマップ上の宝箱は閉じた状態に、
+倒すと開いた状態になるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>172</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>58484</PointerOffset>
+      <JapaneseText>精霊以外を召喚！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>173</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>58506</PointerOffset>
+      <JapaneseText>精霊と同じように、
+戦闘中に&lt;Red&gt;魔族&lt;DarkBlue&gt;を召喚することができるよ！
+&lt;Red&gt;魔族&lt;DarkBlue&gt;を召喚するときは、
+&lt;DarkCyan&gt;降魔術士&lt;DarkBlue&gt;のコスチュームに着替えてね。
+
+それと、精霊と同じで、魔族の召喚は
+&lt;Red&gt;ＥＢＧを大量に消費する&lt;DarkBlue&gt;から注意してね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>174</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>59164</PointerOffset>
+      <JapaneseText>基本操作</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>175</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>59186</PointerOffset>
+      <JapaneseText>フリー移動中の基本操作を説明するよ。
+&lt;DPAD&gt;・&lt;STICK&gt;：キャラの移動
+　　&lt;STICK&gt;を少しだけ動かすとゆっくり歩くよ。
+ &lt;CIRCLE&gt; 　：選択の決定・会話・調べる
+ &lt;CROSS&gt; 　：選択のキャンセル
+ &lt;TRIANGLE&gt; 　：メニュー画面
+ &lt;R&gt; 　：キャラの方向転換</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>176</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>59844</PointerOffset>
+      <JapaneseText>ソーサラーリング</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>177</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>59866</PointerOffset>
+      <JapaneseText>&lt;DarkCyan&gt;ソーサラーリング&lt;DarkBlue&gt;を手に入れたら、
+フリー移動中に&lt;SQUARE&gt;を押すと
+&lt;Red&gt;炎&lt;DarkBlue&gt;を撃つことができるよ。
+この&lt;Red&gt;炎&lt;DarkBlue&gt;は、
+ダンジョンの仕掛けを解くときに役立つ
+とても便利なものなんだ！
+仕掛けや、敵にしか反応しないから、
+火事になることはないよ。
+あと、&lt;DarkCyan&gt;貴重品&lt;DarkBlue&gt;だから
+捨てられないよ。安心してね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>178</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>60524</PointerOffset>
+      <JapaneseText>スキップ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>179</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>60546</PointerOffset>
+      <JapaneseText>イベント後の戦闘で負けて、
+「もう一度イベントから～……」
+となってウンザリしたことはないかな？
+そんなときは、
+スタートボタンを押してみよう！
+&lt;Red&gt;イベントのスキップ&lt;DarkBlue&gt;ができるよ！
+
+飛ばし過ぎに注意してね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>180</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>61204</PointerOffset>
+      <JapaneseText>メニュー項目</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>181</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>61226</PointerOffset>
+      <JapaneseText>移動中のメニューの簡単な説明だよ。
+&lt;DarkGreen&gt;術技&lt;DarkBlue&gt;・&lt;DarkGreen&gt;アイテム&lt;DarkBlue&gt;はアイテムの使える種類が
+増えるくらいで、後は戦闘と同じだね。
+&lt;DarkCyan&gt;装備&lt;DarkBlue&gt;：装備品の変更
+&lt;Blue&gt;バトルカスタム&lt;DarkBlue&gt;：スキル・作戦・隊列設定
+&lt;Purple&gt;コスチューム&lt;DarkBlue&gt;：「&lt;Blue&gt;コスチューム&lt;DarkBlue&gt;」を見てね。
+&lt;Red&gt;料理&lt;DarkBlue&gt;：「&lt;Blue&gt;料理って何？&lt;DarkBlue&gt;」を見てね。
+&lt;DarkYellow&gt;ライブラリ&lt;DarkBlue&gt;：キャラのステータス、図鑑、
+　　　　　　あらすじなどが見られるよ。
+&lt;DarkGrey&gt;システム&lt;DarkBlue&gt;：設定やセーブ･ロードが出来るよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>182</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>61884</PointerOffset>
+      <JapaneseText>セーブ・ロード</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>183</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>61906</PointerOffset>
+      <JapaneseText>&lt;Red&gt;セーブ&lt;DarkBlue&gt;と&lt;DarkCyan&gt;ロード&lt;DarkBlue&gt;について説明するよ。
+&lt;Red&gt;セーブ&lt;DarkBlue&gt;：今までの旅を記録するよ。
+　セーブは基本的に、マップに配置してある
+　&lt;Red&gt;記憶陣&lt;DarkBlue&gt;の上に立つとできるよ。
+　ワールドマップにいるときは、
+　いつでもセーブできるよ。
+&lt;DarkCyan&gt;ロード&lt;DarkBlue&gt;：記録した旅から開始するよ。
+　基本的にロードはいつでもできるよ。
+　ロードをすると、セーブしていない記録は
+　消えてしまうから注意してね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>184</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>62564</PointerOffset>
+      <JapaneseText>アイテムの種別</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>185</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>62586</PointerOffset>
+      <JapaneseText>メインメニューの&lt;DarkGreen&gt;アイテム&lt;DarkBlue&gt;では、
+持ち物を以下の種別に分けて表示するよ。
+&lt;DarkCyan&gt;ＮＥＷ&lt;DarkBlue&gt;：最近入手したアイテムだよ。
+　&lt;Blue&gt;道具&lt;DarkBlue&gt;：消費アイテムだよ。使うと減るよ。
+&lt;Purple&gt;武器・防具・アクセサリ&lt;DarkBlue&gt;：「&lt;Purple&gt;装備&lt;DarkBlue&gt;」を見てね。
+　&lt;Red&gt;食材&lt;DarkBlue&gt;：料理をするために必要な食材だよ。
+&lt;DarkYellow&gt;貴重品&lt;DarkBlue&gt;：重要アイテム。捨てられないよ。
+&lt;DarkGrey&gt;コスチューム&lt;DarkBlue&gt;：ディオとメルが
+　　　　　　　「なりきる」為の服だよ。
+　　&lt;DarkCyan&gt;Ｅ&lt;DarkBlue&gt;：キャラが装備中のアイテムだよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>186</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>63244</PointerOffset>
+      <JapaneseText>料理って何？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>187</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>63266</PointerOffset>
+      <JapaneseText>料理の説明だよ。
+メインメニューの&lt;DarkGreen&gt;料理&lt;DarkBlue&gt;を開くとできるよ。
+料理をすると、パーティメンバー全員の
+ＨＰ、ＥＢＧ、状態異常などが回復するよ。
+さらに、&lt;DarkYellow&gt;追加食材&lt;DarkBlue&gt;を設定して
+料理すると、回復効果アップ！
+&lt;DarkYellow&gt;レシピ&lt;DarkBlue&gt;は、&lt;Purple&gt;ワンダーシェフ&lt;DarkBlue&gt;からもらうか
+料理の熟練度を上げて入手してね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>188</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>63924</PointerOffset>
+      <JapaneseText>料理をするには？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>189</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>63946</PointerOffset>
+      <JapaneseText>料理の手順を説明するね。
+①&lt;DarkGreen&gt;料理&lt;DarkBlue&gt;の&lt;DarkYellow&gt;レシピ&lt;DarkBlue&gt;で料理を選択
+②&lt;DarkYellow&gt;追加食材&lt;DarkBlue&gt;を選択
+③&lt;DarkYellow&gt;料理作成&lt;DarkBlue&gt;を選択
+これで料理ができるよ。
+でも、必要な食材がそろってない料理は
+作ることができないから注意してね。
+追加食材はなくても大丈夫だよ。
+一度料理をすると、戦闘を行わないと、
+次の料理ができないよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>190</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>64604</PointerOffset>
+      <JapaneseText>マップって？</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>191</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>64626</PointerOffset>
+      <JapaneseText>マップには３種類あるよ。
+&lt;DarkCyan&gt;タウン&lt;DarkBlue&gt;：
+　お店や民家がある敵がいないマップだよ。
+&lt;Blue&gt;ダンジョン&lt;DarkBlue&gt;：
+　敵がうろついているマップだよ。
+　仕掛けがあったりするから注意してね。
+&lt;Purple&gt;ワールドマップ&lt;DarkBlue&gt;：
+　今いる時代で行けるタウン・ダンジョンが
+　表示されるよ。旅が進むにつれて
+　行ける場所が増えていくよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>192</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>65284</PointerOffset>
+      <JapaneseText>ダンジョンの仕掛け</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>193</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>65306</PointerOffset>
+      <JapaneseText>ダンジョンの中を進んで行くと、
+&lt;Red&gt;行き止まり&lt;DarkBlue&gt;だったり
+&lt;Red&gt;あやしいもの&lt;DarkBlue&gt;があったりしなかったかな？
+そういう時は、
+ &lt;CIRCLE&gt; で周りをよく調べてみよう。
+何か変化が起こるかもしれないよ。
+
+うまく調べられない時は、
+ &lt;R&gt; でキャラの向きも調節してみてね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>194</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>65964</PointerOffset>
+      <JapaneseText>装備</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>195</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>65986</PointerOffset>
+      <JapaneseText>キャラの能力値を補正してくれるアイテム
+（&lt;DarkCyan&gt;武器&lt;DarkBlue&gt;・&lt;DarkCyan&gt;防具&lt;DarkBlue&gt;・&lt;DarkCyan&gt;アクセサリ&lt;DarkBlue&gt;）を装備出来るよ。
+&lt;Purple&gt;ディオ&lt;DarkBlue&gt;と&lt;Purple&gt;メル&lt;DarkBlue&gt;の場合は、
+そのときに着ているコスチュームによって
+装備できる種類が決まるよ。
+ショップで買い物するときには
+誰が装備できるのか表示されるから、
+安心して買い物してね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>196</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>66644</PointerOffset>
+      <JapaneseText>パーティ編成</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>197</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>66666</PointerOffset>
+      <JapaneseText>仲間が増えると、戦闘パーティを入れ替える
+事が出来るよ。&lt;TRIANGLE&gt;で入れ替えてね。
+メインメニューで、
+キャラの左側に書かれている数字を見ると、
+そのキャラが戦闘に参加するかわかるよ。
+&lt;DarkCyan&gt;①　　&lt;DarkBlue&gt;：戦闘で操作するキャラ
+&lt;DarkCyan&gt;②～④&lt;DarkBlue&gt;：一緒に戦ってくれる仲間キャラ
+&lt;DarkGrey&gt;⑤～　&lt;DarkBlue&gt;：戦闘には参加しない待機キャラ
+パーティトップのキャラと、戦闘で操作する
+キャラの設定は別だよ！　注意してね！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>198</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>67324</PointerOffset>
+      <JapaneseText>パーティアウト</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>199</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>67346</PointerOffset>
+      <JapaneseText>仲間がパーティーから外れる
+（メインメニューに表示されなくなる）時、
+そのキャラが装備していたアイテムを
+もらえるよ。
+
+もらったアイテムは、
+メニューの&lt;DarkGreen&gt;アイテム&lt;DarkBlue&gt;に入っているよ。
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>200</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>68004</PointerOffset>
+      <JapaneseText>術技スロット</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>201</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>68026</PointerOffset>
+      <JapaneseText>戦闘メニューの術技と同じだよ。
+戦闘に入ってからでもいいけど、
+事前に &lt;ARTES_BTN&gt; や &lt;SHORTCUT&gt; に術技をセットしよう。
+操作キャラはスロットに術技を
+セットしておかないと、
+通常技以外の術技が使えないからね！
+
+ここで仲間の術技を確認して、
+パーティのバランス調整をしておこう</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>202</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>68684</PointerOffset>
+      <JapaneseText>スキルの閲覧と設定</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>203</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>68706</PointerOffset>
+      <JapaneseText>コスチュームで取得した&lt;Red&gt;スキル&lt;DarkBlue&gt;は、
+&lt;DarkGreen&gt;バトルカスタム&lt;DarkBlue&gt;の中の
+&lt;DarkGreen&gt;スキル&lt;DarkBlue&gt;で確認出来るよ。
+術技のように、スキル名の横に　 か 　が
+表示されるから、
+&lt;CIRCLE&gt;で使用するかしないか
+切り替えてあげてね。
+
+&lt;Red&gt;術技と違って、
+スキルは戦闘中に変更できないよ&lt;DarkBlue&gt;</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>204</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>69364</PointerOffset>
+      <JapaneseText>作戦編集</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>205</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>69386</PointerOffset>
+      <JapaneseText>戦闘メニューの作戦と同じように、
+メインメニューで作戦の編集をできるよ。
+
+&lt;DarkGreen&gt;バトルカスタム&lt;DarkBlue&gt;の中の&lt;DarkGreen&gt;作戦&lt;DarkBlue&gt;を
+選択して編集してね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>206</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>70044</PointerOffset>
+      <JapaneseText>称号</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>207</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>70066</PointerOffset>
+      <JapaneseText>&lt;Red&gt;称号&lt;DarkBlue&gt;は、戦闘中に条件を満たしたり、
+旅を進めたりする中でもらえるよ。
+
+今までに入手した&lt;Red&gt;称号&lt;DarkBlue&gt;は、
+ライブラリの中にある
+ステータスで確認できるよ
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>208</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>70724</PointerOffset>
+      <JapaneseText>称号の付け替え</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>209</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>70746</PointerOffset>
+      <JapaneseText>入手した&lt;Red&gt;称号&lt;DarkBlue&gt;は付け替えることができるよ。
+&lt;DarkGreen&gt;ライブラリ&lt;DarkBlue&gt;の中の&lt;DarkGreen&gt;ステータス&lt;DarkBlue&gt;で
+付け替えてね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>210</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>71404</PointerOffset>
+      <JapaneseText>コスチューム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>211</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>71426</PointerOffset>
+      <JapaneseText>&lt;DarkGreen&gt;コスチューム&lt;DarkBlue&gt;で&lt;Purple&gt;ディオ&lt;DarkBlue&gt;と&lt;Purple&gt;メル&lt;DarkBlue&gt;の
+コスチュームを着替えることが出来るよ。
+
+基本的に「&lt;DarkCyan&gt;～系&lt;DarkBlue&gt;」で囲まれている服は同じ
+装備が使えるよ。コスチュームを着替えると
+装備の「&lt;DarkCyan&gt;外装&lt;DarkBlue&gt;」と「&lt;DarkCyan&gt;その他&lt;DarkBlue&gt;」はそのままで、
+他の装備はそのコスチュームに合ったものに
+自動でセットされるよ。
+以前にそのコスチュームを着ていた場合は、
+そのとき装備していたものがセットされるよ</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>212</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>72084</PointerOffset>
+      <JapaneseText>ステータス画面</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>213</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>72106</PointerOffset>
+      <JapaneseText>&lt;DarkGreen&gt;ライブラリ&lt;DarkBlue&gt;の中の&lt;DarkGreen&gt;ステータス&lt;DarkBlue&gt;で、
+パーティにいる仲間の色々な情報が
+見られるよ。
+次のレベルまで必要な経験値や、戦闘能力、
+装備、称号などが見れるんだ。
+
+あと、ここでパーティにいる仲間の名前を
+変更することもできるよ。でも、
+&lt;Red&gt;名前を変更しても音声には反映されない&lt;DarkBlue&gt;よ。
+注意してね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>214</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>72764</PointerOffset>
+      <JapaneseText>勲章</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>215</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>72786</PointerOffset>
+      <JapaneseText>&lt;DarkGreen&gt;ライブラリ&lt;DarkBlue&gt;の中の&lt;Red&gt;勲章&lt;DarkBlue&gt;は、
+称号と同じように、
+設定されている条件を満たすと
+入手するよ。
+
+入手条件のヒントは、
+何かをコンプリートしたり、
+旅を進めたりすることかな。
+
+いろいろなものをコンプリートしてみてね！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>216</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>73444</PointerOffset>
+      <JapaneseText>レコード</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>217</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>73466</PointerOffset>
+      <JapaneseText>&lt;DarkGreen&gt;ライブラリ&lt;DarkBlue&gt;の中の&lt;DarkGreen&gt;レコード&lt;DarkBlue&gt;で、
+今までに行った様々な記録を
+見ることができるよ。
+
+コスチューム取得数や、チャット発生率、
+グレードなどが見られるから、
+称号や勲章を入手するのに活用してね</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>218</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>74124</PointerOffset>
+      <JapaneseText>カスタム</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>219</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>74146</PointerOffset>
+      <JapaneseText>&lt;DarkGreen&gt;システム&lt;DarkBlue&gt;の中の&lt;DarkGreen&gt;カスタム&lt;DarkBlue&gt;で、
+自分好みにウィンドウの色や、戦闘難易度、
+メッセージ速度の調整ができるよ
+
+</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <Id>220</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+  <Strings>
+    <Section>Notice</Section>
+  </Strings>
+</SceneText>
