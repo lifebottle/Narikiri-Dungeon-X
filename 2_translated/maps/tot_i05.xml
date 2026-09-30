@@ -32,10 +32,10 @@
       <PointerOffset>307916,307980,308044,308108,308172,308236,308300,308364,308428,308492,308556,308620</PointerOffset>
       <MaxLength>48</MaxLength>
       <JapaneseText>ステキな師範代</JapaneseText>
-      <EnglishText>Assistant Instructor</EnglishText>
+      <EnglishText>Charismatic Instructor</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308684,308748,308812,308876,308940,309004</PointerOffset>
@@ -153,8 +153,8 @@
       <VoiceId>&lt;audio:VSS_039_020_001&gt;</VoiceId>
       <JapaneseText>見つけてくれて
 サンキュー！</JapaneseText>
-      <EnglishText>Woah! Nice job finding me.
-</EnglishText>
+      <EnglishText>Oh, you found me!
+Thank you~!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -165,7 +165,7 @@
       <PointerOffset>322500</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_020_002&gt;</VoiceId>
       <JapaneseText>ご褒美よ！</JapaneseText>
-      <EnglishText>Your keen eye deserves a reward!</EnglishText>
+      <EnglishText>Here, a reward!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -176,7 +176,7 @@
       <PointerOffset>322584</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_020_003&gt;</VoiceId>
       <JapaneseText>……では、サラバっ！！</JapaneseText>
-      <EnglishText>...Guess that's about it. See ya!</EnglishText>
+      <EnglishText>...And with that... Farewell!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
@@ -206,11 +206,11 @@
     <Entry>
       <PointerOffset>326032</PointerOffset>
       <JapaneseText>腹へった～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm huuungry~</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>325988</PointerOffset>
@@ -261,13 +261,13 @@
       <JapaneseText>トーティス遊撃隊の隊長にして
 ユークリッド独立騎士団の
 顧問だからね</JapaneseText>
-      <EnglishText>He is the captain of the Totus Strike Force and an
+      <EnglishText>He is the captain of the Totus Mobile Task Force and an
 advisor the Euclid Liberation Knights after all.</EnglishText>
       <Notes>Check on the terminology and make sure it's consistent.</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314112</PointerOffset>
@@ -384,7 +384,7 @@ back to drilling our students.</EnglishText>
       <PointerOffset>314128</PointerOffset>
       <JapaneseText>トーティス遊撃隊が活躍すれば
 また入門志願者が増えるだろう</JapaneseText>
-      <EnglishText>If the Totus Strike Force does well, the number of
+      <EnglishText>If the Totus Mobile Task Force does well, the number of
 applicants will likely increase again.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -510,7 +510,7 @@ someone shows up to challenge the dojo!</EnglishText>
 外敵からこの村を守るため
 トーティス遊撃隊は作られた</JapaneseText>
       <EnglishText>To protect our village from any enemies that might
-attack us, the Totus Strike Force was formed.</EnglishText>
+attack us, the Totus Mobile Task Force was formed.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>22</Id>
@@ -524,7 +524,7 @@ attack us, the Totus Strike Force was formed.</EnglishText>
 想いが込められているのだ</JapaneseText>
       <EnglishText>We must ensure that such a tragedy must never
 happen again. That's what drives &lt;Cless&gt;'s resolve
-in forming the Totus Strike Force.</EnglishText>
+in forming the Totus Mobile Task Force.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>22</Id>
@@ -537,12 +537,12 @@ in forming the Totus Strike Force.</EnglishText>
 トーティス遊撃隊で
 その腕を振るえるように</JapaneseText>
       <EnglishText>So that &lt;Cless&gt; can employ his skills to the fullest
-with the Totus Strike Force,</EnglishText>
+with the Totus Mobile Task Force,</EnglishText>
       <Notes>Wondering if we should rearrange the words for this and the following line so it flows better. The way it's structured doesn't sound very good in English.</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>24</Id>
       <BubbleId>0</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314152</PointerOffset>
@@ -679,7 +679,7 @@ pain in the butt...</EnglishText>
       <PointerOffset>314172</PointerOffset>
       <JapaneseText>一応ボクはトーティス遊撃隊の
 補欠隊員なんだ</JapaneseText>
-      <EnglishText>I'm a backup member of the Totus Strike Force.</EnglishText>
+      <EnglishText>I'm a backup member of the Totus Mobile Task Force.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>36</Id>
@@ -1085,112 +1085,117 @@ that comes by~</EnglishText>
     <Entry>
       <PointerOffset>314244</PointerOffset>
       <JapaneseText>腹へった～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm huuungry~</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>72</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314248</PointerOffset>
       <JapaneseText>腹へったよ～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm soooo huuungry~</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>73</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314252</PointerOffset>
       <JapaneseText>腹へった～
 （ぐ～～～～～）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm huuungry~
+*growl*</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>74</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314252</PointerOffset>
       <JapaneseText>腹へったよ～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm soooo huuungry~</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>74</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314256</PointerOffset>
       <JapaneseText>腹へった～へった～
 肉食いたい……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm so, soooo, huuungry~
+I want some meat...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>76</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314260</PointerOffset>
       <JapaneseText>腹へった～
 カレー食いたい……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm soooo huuungry~
+I want curry~</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>77</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314264</PointerOffset>
       <JapaneseText>腹へった～
 やせる～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm huuungry~
+I'm wasting away~</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>78</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314268</PointerOffset>
       <JapaneseText>腹へった～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm huuungry~</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>79</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314268</PointerOffset>
       <JapaneseText>さっき食った～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I juuust ate~</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>79</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314268</PointerOffset>
       <JapaneseText>でも腹へった～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But I'm still huuungry~</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>79</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314272</PointerOffset>
       <JapaneseText>腹へった～
 なんでもいいから
 食いたい～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm huuungry~
+I don't care what it is, just give me something to eat~</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>82</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -1878,11 +1883,11 @@ that comes by~</EnglishText>
     <Entry>
       <PointerOffset>326378</PointerOffset>
       <JapaneseText>………………………………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>............</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>86</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326424</PointerOffset>

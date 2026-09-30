@@ -1,16 +1,17 @@
 import re
-import string
 import struct
 from itertools import chain
 
 from ndx_tools.utils.fileio import FileIO
 
-VALID_VOICEID = [r'(VSM_\w+)', r'(VCT_\w+)', r'(S\d+)', r'(C\d+)']
 COMMON_TAG = r"(<[\w/]+:?\w+>)"
 HEX_TAG = r"(\{[0-9A-F]{2}\})"
-PRINTABLE_CHARS = "".join(
-            (string.digits, string.ascii_letters, string.punctuation, " ")
-        )
+ASCII_REPL = {
+    0x3C: [0x3C, 0x6C, 0x74, 0x3E], # <lt>
+    0x3E: [0x3C, 0x67, 0x74, 0x3E], # <gt>
+    0x7B: [0x3C, 0x6C, 0x62, 0x3E], # <lb>
+    0x7D: [0x3C, 0x72, 0x62, 0x3E], # <rb>
+}
 
 EXTRAS = {
     0xFAB1: "﨑"
@@ -118,7 +119,19 @@ COLORS = {
     0xFF: "NoOutline"
 }
 
-def consume_param_buf(buf: bytes, pos: int) -> tuple[str, int]:
+IEXTRAS = { v: k.to_bytes(length=2) for k, v in EXTRAS.items() }
+
+ITAGS = { v: b"\x04(" + k.encode() + b")" for k, v in NAMES.items() }
+ITAGS |= { v: b"\x0B" + k.to_bytes() for k, v in ICONS.items() }
+ITAGS |= { v: b"\x01" + k.to_bytes() for k, v in COLORS.items() }
+ITAGS |= {
+    "lt": b"\x3C",
+    "gt": b"\x3E",
+    "lb": b"\x7B",
+    "rb": b"\x7D",
+}
+
+def consume_param_buf(buf: bytes | bytearray, pos: int) -> tuple[str, int]:
     if buf[pos] != 0x28:  # '('
         raise ValueError("Tried to read tag param without parentheses")
 
@@ -133,22 +146,30 @@ def consume_param_buf(buf: bytes, pos: int) -> tuple[str, int]:
 
     return val, end + 1
 
-def bytes_to_text(src: FileIO, offset: int = -1) -> str:
+def bytes_to_text_len(src: FileIO | bytes, offset: int = -1) -> tuple[int, str]:
+    if type(src) is bytes:
+        buf = src
+        pos = 0
+    elif type(src) is FileIO:
+        buf = src.get_buffer()
+        pos = src.tell()
+    else:
+        raise ValueError("???")
+
     finalText = []
     byte_run = bytearray()
 
-    buf = src.get_buffer()
-    pos = src.tell()
-
-    if (offset > 0):
+    if (offset > -1):
         pos = offset
+
+    start = pos
 
     def flush_run():
         if byte_run:
             finalText.append(byte_run.decode("cp932"))
             byte_run.clear()
 
-    while True:
+    while pos < len(buf):
         b = buf[pos]
         pos += 1
 
@@ -175,12 +196,12 @@ def bytes_to_text(src: FileIO, offset: int = -1) -> str:
                 # as it seems unintended we don't dump it in that case
                 if buf[pos] == 0x28: # '('
                     val, pos = consume_param_buf(buf, pos)
-                    finalText.append("<" + NAMES.get(val) + ">")
+                    finalText.append("<" + NAMES.get(val, val) + ">")
             # Audio
             case 0x09:
                 val, pos = consume_param_buf(buf, pos)
                 finalText.append(f"<audio:{val}>")
-            # # Linebreak
+            # Linebreak
             case 0x0A:
                 finalText.append("\n")
             # Icons
@@ -200,6 +221,9 @@ def bytes_to_text(src: FileIO, offset: int = -1) -> str:
             case 0x0D:
                 val, pos = consume_param_buf(buf, pos)
                 finalText.append(f"<furigana:{val}>")
+            # Reserved chars
+            case _  if b in ASCII_REPL:
+                byte_run.extend(ASCII_REPL[b])
             # ASCII
             case _  if b < 0x80:
                 byte_run.append(b)
@@ -219,63 +243,52 @@ def bytes_to_text(src: FileIO, offset: int = -1) -> str:
                 finalText.append(EXTRAS.get(b2, "{" + f"{b2:04X}" + "}"))
 
     flush_run()
-    return "".join(finalText)
+
+    if (offset < 0) and type(src) is FileIO:
+        src.seek(pos)
+
+    return pos-start, "".join(finalText)
 
 
-# def text_to_bytes(text: str):
-#     multi_regex = (HEX_TAG + "|" + COMMON_TAG + r"|(\n)")
-#     tokens = [sh for sh in re.split(multi_regex, text) if sh]
-#     output = b''
-#     for t in tokens:
-#         # Hex literals
-#         if re.match(HEX_TAG, t):
-#             output += struct.pack("B", int(t[1:3], 16))
-
-#         # Tags
-
-#         elif re.match(COMMON_TAG, t):
-#             tag, param, *_ = t[1:-1].split(":") + [None]
-
-#             if tag == "icon":
-#                 output += struct.pack("B", ijsonTblTags["TAGS"].get(tag))
-#                 output += b'\x28' + struct.pack('B', int(param)) + b'\x29'
-
-#             elif any(re.match(possible_value, tag)  for possible_value in VALID_VOICEID):
-#                 output += b'\x09\x28' + tag.encode("cp932") + b'\x29'
-
-#             elif tag == "Bubble":
-#                 output += b'\x0C'
-
-#             else:
-#                 if tag in ijsonTblTags["TAGS"]:
-#                     output += struct.pack("B", ijsonTblTags["TAGS"][tag])
-#                     continue
-
-#                 for k, v in ijsonTblTags.items():
-#                     if tag in v:
-#                         if k in ['NAME', 'COLOR']:
-#                             output += struct.pack('B',iTags[k]) + b'\x28' + bytes.fromhex(v[tag]) + b'\x29'
-#                             break
-#                         else:
-#                             output += b'\x81' + bytes.fromhex(v[tag])
-
-#         # Actual text
-#         elif t == "\n":
-#             output += b"\x0A"
-#         else:
-#             for c in t:
-#                 if c in PRINTABLE_CHARS or c == "\u3000":
-#                     output += c.encode("cp932")
-#                 else:
-
-#                     if c in ijsonTblTags["TBL"].keys():
-#                         b = ijsonTblTags["TBL"][c].to_bytes(2, 'big')
-#                         output += b
-#                     else:
-#                         output += c.encode("cp932")
+def bytes_to_text(src: FileIO | bytes, offset: int = -1) -> str:
+    return bytes_to_text_len(src, offset)[1]
 
 
-#     return output
+def text_to_bytes(text: str):
+    multi_regex = (HEX_TAG + "|" + COMMON_TAG + r"|(\n)")
+    tokens = [sh for sh in re.split(multi_regex, text) if sh]
+    output = []
+
+    for t in tokens:
+        # Hex literals
+        if re.match(HEX_TAG, t):
+            output.append(struct.pack("B", int(t[1:3], 16)))
+
+        # Tags
+        elif re.match(COMMON_TAG, t):
+            tag, param, *_ = t[1:-1].split(":") + [None]
+
+            if tag == "icon":
+                output.append(b'\x0B(' + struct.pack('B', int(param)) + b')')
+
+            elif tag == "audio":
+                output.append(b'\x09(' + param.encode() + b')')
+
+            elif tag == "Bubble":
+                output.append(b'\x0C')
+
+            else:
+                if tag in ITAGS:
+                    output.append(ITAGS[tag])
+                else:
+                    raise ValueError
+
+        # Actual text
+        else:
+            for c in t:
+                output.append(IEXTRAS.get(c, c.encode("cp932")))
+
+    return b''.join(output)
 
 # def calculate_word_sum(word, letter_space):
 #     word_sum = 0

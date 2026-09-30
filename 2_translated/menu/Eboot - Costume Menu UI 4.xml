@@ -3,7 +3,7 @@
   <Strings>
     <Section>Costume Menu UI 4</Section>
     <Entry>
-      <PointerOffset>1797568</PointerOffset>
+      <PointerOffset>1797568,1797572</PointerOffset>
       <JapaneseText>習得スキル</JapaneseText>
       <EnglishText>Learn Skill</EnglishText>
       <Notes/>
@@ -11,19 +11,11 @@
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>1797572</PointerOffset>
-      <JapaneseText>習得スキル</JapaneseText>
-      <EnglishText>Learn Skill</EnglishText>
-      <Notes/>
-      <Id>2</Id>
-      <Status>Editing</Status>
-    </Entry>
-    <Entry>
       <PointerOffset>1797576</PointerOffset>
       <JapaneseText>習得術技</JapaneseText>
       <EnglishText>Learn Arte</EnglishText>
       <Notes/>
-      <Id>3</Id>
+      <Id>2</Id>
       <Status>Editing</Status>
     </Entry>
   </Strings>

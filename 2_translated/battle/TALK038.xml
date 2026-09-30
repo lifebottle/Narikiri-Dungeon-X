@@ -1,0 +1,63 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ジェストーナ</JapaneseText>
+      <EnglishText>Jestona</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mel&gt;</JapaneseText>
+      <EnglishText>&lt;Mel&gt;</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Text</Section>
+    <Entry>
+      <PointerOffset>4</PointerOffset>
+      <VoiceId>VBE01_39_01</VoiceId>
+      <JapaneseText>お前はここで虚無に飲み込まれるのだ、
+飲まれて消え去れ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20</PointerOffset>
+      <VoiceId>VBE01_39_02</VoiceId>
+      <JapaneseText>どうして……そんな……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36</PointerOffset>
+      <VoiceId>VBE01_39_03</VoiceId>
+      <JapaneseText>メル、悩む前に戦え！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

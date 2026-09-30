@@ -1,7 +1,6 @@
 import shutil
 from pathlib import Path
 
-from pygments.lexers import json5
 import pyjson5 as json
 from loguru import logger
 
@@ -39,12 +38,12 @@ def clean_builds(path: Path) -> None:
 
     logger.info("Cleaning builds folder...")
     for file in target_files:
-        logger.info(f"deleting {str(file.name)}...")
+        logger.info(f"deleting {file.name!s}...")
         file.unlink()
 
 
 def read_menu_json():
     with menu_json.open("r", encoding="utf-8") as f:
-        data = json.load(f)
+        data = json.load(f) # type: ignore
 
         return { ele['friendly_name']:ele for ele in data }

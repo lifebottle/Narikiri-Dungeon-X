@@ -1,0 +1,54 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>ルナ</JapaneseText>
+      <EnglishText>Luna</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Text</Section>
+    <Entry>
+      <PointerOffset>4</PointerOffset>
+      <VoiceId>VBE01_17_01</VoiceId>
+      <JapaneseText>懲りずにまたのこのこと……</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20</PointerOffset>
+      <VoiceId>VBE01_17_02</VoiceId>
+      <JapaneseText>何度だって来てやるぜ！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>To Do</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36</PointerOffset>
+      <VoiceId>VBE01_17_03</VoiceId>
+      <JapaneseText>何度やっても結果は同じです！</JapaneseText>
+      <EnglishText/>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <Status>To Do</Status>
+    </Entry>
+  </Strings>
+</SceneText>

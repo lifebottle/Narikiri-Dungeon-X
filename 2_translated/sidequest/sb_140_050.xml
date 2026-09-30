@@ -5,10 +5,10 @@
     <Entry>
       <PointerOffset>274680,274788,275120,275268,275524,275824,276032,276236</PointerOffset>
       <JapaneseText>鼻つまみの商人</JapaneseText>
-      <EnglishText>Unpopular Merchant</EnglishText>
+      <EnglishText>Uncouth Merchant</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274728,274976,275172,275388,275940,276116</PointerOffset>
@@ -69,10 +69,10 @@
     <Entry>
       <PointerOffset>276494</PointerOffset>
       <JapaneseText>仕事を請けますか？</JapaneseText>
-      <EnglishText>Will You Take the Job?</EnglishText>
+      <EnglishText>Will you take the job?</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -81,227 +81,246 @@
       <PointerOffset>274684</PointerOffset>
       <JapaneseText>おや、あーたたち……
 まんまとやってくれたザマスわね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, I say, it's you again.
+You did do some fine work.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274732</PointerOffset>
       <JapaneseText>何のことだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What do you mean?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274792</PointerOffset>
       <JapaneseText>何のことって……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What do I mean...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274980</PointerOffset>
       <JapaneseText>ふん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmph.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275124</PointerOffset>
       <JapaneseText>なんでも、あーたたち、
 不思議な力を持ってて、
 それで仕事してるとか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, anyway, you seem
+to have some strange powers,
+and use them for work, yes?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275124</PointerOffset>
       <JapaneseText>ひとつ、あたしも
 頼めないザマスかね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I say, I'd like you to do
+something for me, as well.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275176</PointerOffset>
       <JapaneseText>ふん、ゴメンだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nah, miss me with that.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275272</PointerOffset>
       <JapaneseText>おや、あたしの言うことは
 聞けないということザマスか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, I say, you're refusing
+to even hear me out?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275336</PointerOffset>
       <JapaneseText>話だけでも
 聞かせてもらいます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, if you could
+just tell us a little.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275392</PointerOffset>
       <JapaneseText>&lt;Mel&gt;！　なんでだよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What the hell, &lt;Mel&gt;!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275456</PointerOffset>
       <JapaneseText>それはそれ、
 これはこれだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That was that,
+and this is this.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275528</PointerOffset>
       <JapaneseText>切り替えの早い子は
 好きザマス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I say, I do prefer children who
+can understand the difference.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275628</PointerOffset>
       <JapaneseText>その代わり、借金を
 取ってこいとか、そういう
 のだったらお断りします</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But in return, there are some
+rules. We won't collect on
+any loans, for example.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275828</PointerOffset>
       <JapaneseText>あーたたちみたいな子どもに
 そんなこと頼まないザマス！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I say, I'd never ask children like
+you to do something like that!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275828</PointerOffset>
       <JapaneseText>&lt;Red&gt;ヴァルハラ&lt;White&gt;に忘れたバッグを
 取ってくるザマスよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I say, I forgot my bag in
+&lt;Valhalla&gt;. Get it for me.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275828</PointerOffset>
       <JapaneseText>あれがないと、
 商売ができなくて、
 すこぶる困るザマス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I say, without that, I can't
+do any business. It's
+extraordinarily troublesome.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275944</PointerOffset>
       <JapaneseText>……わかった。
 行ってくる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Got it. We'll
+be back soon.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276036</PointerOffset>
       <JapaneseText>いい子ザマスね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Such good kids, I say.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276036</PointerOffset>
       <JapaneseText>バッグは道具屋に
 忘れたと思うザマス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I say, I left my bag
+in the item shop.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276120</PointerOffset>
       <JapaneseText>やっぱり、こんなヤツの
 言うことなんて聞きたくね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nah, y'know what? No way in hell
+am I "hearing out" a guy like him!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>20</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276240</PointerOffset>
       <JapaneseText>そうザマスか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I see, I say.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>21</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276240</PointerOffset>
       <JapaneseText>別にあーたたちが
 やってくれないなら他に
 頼むからいいザマスけど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I say, if you won't do it,
+I'll have someone else
+take care of it, instead.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -814,11 +833,12 @@
       <PointerOffset>276513</PointerOffset>
       <JapaneseText>はい　　　　　　　
 いいえ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes
+No</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>64</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

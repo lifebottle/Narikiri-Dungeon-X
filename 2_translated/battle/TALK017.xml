@@ -1,0 +1,94 @@
+<SceneText>
+  <Speakers>
+    <Section>Speaker</Section>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Dio&gt;</JapaneseText>
+      <EnglishText>&lt;Dio&gt;</EnglishText>
+      <Notes/>
+      <Id>1</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>グレムリンレアー</JapaneseText>
+      <EnglishText>Gremlin's Lair</EnglishText>
+      <Notes/>
+      <Id>2</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Cless&gt;</JapaneseText>
+      <EnglishText>&lt;Cless&gt;</EnglishText>
+      <Notes/>
+      <Id>3</Id>
+      <Status>Done</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset/>
+      <JapaneseText>&lt;Mint&gt;</JapaneseText>
+      <EnglishText>&lt;Mint&gt;</EnglishText>
+      <Notes/>
+      <Id>4</Id>
+      <Status>Done</Status>
+    </Entry>
+  </Speakers>
+  <Strings>
+    <Section>Text</Section>
+    <Entry>
+      <PointerOffset>4</PointerOffset>
+      <VoiceId>VBE01_18_01</VoiceId>
+      <JapaneseText>バジルさんを傷つけて……
+許せない！</JapaneseText>
+      <EnglishText>I won't forgive you...for what you've done to
+Mister Basil!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>1</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>20</PointerOffset>
+      <VoiceId>VBE01_18_02</VoiceId>
+      <JapaneseText>なんだ？　こいつぁおまえたちの
+敵じゃねぇのかい？</JapaneseText>
+      <EnglishText>Oh, how strange. Aren't you supposed to be
+enemies?</EnglishText>
+      <Notes>Kevassa translated as "Oh, that's weird."</Notes>
+      <SpeakerId>2</SpeakerId>
+      <Id>2</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>36</PointerOffset>
+      <VoiceId>VBE01_18_03</VoiceId>
+      <JapaneseText>うるせーっ！！</JapaneseText>
+      <EnglishText>SHUT UP!</EnglishText>
+      <Notes/>
+      <SpeakerId>1</SpeakerId>
+      <Id>3</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>52</PointerOffset>
+      <VoiceId>VBE01_18_04</VoiceId>
+      <JapaneseText>落ち着くんだ、&lt;Dio&gt;</JapaneseText>
+      <EnglishText>&lt;Dio&gt;, you have to calm down!</EnglishText>
+      <Notes/>
+      <SpeakerId>3</SpeakerId>
+      <Id>4</Id>
+      <Status>Editing</Status>
+    </Entry>
+    <Entry>
+      <PointerOffset>68</PointerOffset>
+      <VoiceId>VBE01_18_05</VoiceId>
+      <JapaneseText>落ち着いてください……！</JapaneseText>
+      <EnglishText>Please, calm down!</EnglishText>
+      <Notes/>
+      <SpeakerId>4</SpeakerId>
+      <Id>5</Id>
+      <Status>Editing</Status>
+    </Entry>
+  </Strings>
+</SceneText>

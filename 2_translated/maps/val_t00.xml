@@ -285,10 +285,10 @@
     <Entry>
       <PointerOffset>370116</PointerOffset>
       <JapaneseText>水精石を１０個、渡しますか？</JapaneseText>
-      <EnglishText>Hand Over 10 Stone of Undine?</EnglishText>
+      <EnglishText>Hand over 10 Aqua Spirit Gems?</EnglishText>
       <Notes/>
       <Id>34</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -317,7 +317,8 @@
       <VoiceId>&lt;audio:VSS_039_020_001&gt;</VoiceId>
       <JapaneseText>見つけてくれて
 サンキュー！</JapaneseText>
-      <EnglishText>Woah! Nice job finding me.</EnglishText>
+      <EnglishText>Oh, you found me!
+Thank you~!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -328,7 +329,7 @@
       <PointerOffset>357384</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_020_002&gt;</VoiceId>
       <JapaneseText>ご褒美よ！</JapaneseText>
-      <EnglishText>Your keen eye deserves a reward!</EnglishText>
+      <EnglishText>Here, a reward!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -339,7 +340,7 @@
       <PointerOffset>357468</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_020_003&gt;</VoiceId>
       <JapaneseText>……では、サラバっ！！</JapaneseText>
-      <EnglishText>...Guess that's about it. See ya!</EnglishText>
+      <EnglishText>...And with that... Farewell!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>

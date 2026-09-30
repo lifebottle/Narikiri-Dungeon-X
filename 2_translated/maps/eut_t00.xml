@@ -429,7 +429,8 @@
       <VoiceId>&lt;audio:VSS_039_020_001&gt;</VoiceId>
       <JapaneseText>見つけてくれて
 サンキュー！</JapaneseText>
-      <EnglishText>Woah! Nice job finding me.</EnglishText>
+      <EnglishText>Oh, you found me!
+Thank you~!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -440,7 +441,7 @@
       <PointerOffset>356584</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_020_002&gt;</VoiceId>
       <JapaneseText>ご褒美よ！</JapaneseText>
-      <EnglishText>Your keen eye deserves a reward!</EnglishText>
+      <EnglishText>Here, a reward!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -451,7 +452,7 @@
       <PointerOffset>356668</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_020_003&gt;</VoiceId>
       <JapaneseText>……では、サラバっ！！</JapaneseText>
-      <EnglishText>...Guess that's about it. See ya!</EnglishText>
+      <EnglishText>...And with that... Farewell!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
@@ -540,12 +541,14 @@
       <JapaneseText>アイツなら、町の食材屋に
 いるはずだ。『ザマス』って
 変な言葉使うからすぐわかるよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you want to find him, he should
+be in the grocery store. He says
+"I say" a lot, so you'll know it's him.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>352624</PointerOffset>
@@ -645,11 +648,13 @@
       <JapaneseText>アイツなら、町の食材屋に
 いるはずだ。『ザマス』って
 変な言葉使うからすぐわかるよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you want to find him, he should
+be in the grocery store. He says
+"I say" a lot, so you'll know it's him.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>20</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

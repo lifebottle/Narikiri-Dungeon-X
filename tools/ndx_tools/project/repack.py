@@ -3,12 +3,12 @@ import json
 import shutil
 from dataclasses import dataclass
 from pathlib import Path
-from struct import unpack, pack
+from struct import pack, unpack
 
 from loguru import logger
 from tqdm.rich import tqdm
 
-from . import ndx_paths
+import ndx_tools.project.paths as ndx_paths
 
 __SCRIPT_CMD = "repack"
 __SCRIPT_DESC = (
