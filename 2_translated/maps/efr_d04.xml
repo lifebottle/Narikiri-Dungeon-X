@@ -48,10 +48,10 @@
     <Entry>
       <PointerOffset>284786</PointerOffset>
       <JapaneseText>熱砂の洞窟　？？？</JapaneseText>
-      <EnglishText>Cavern of Burning Sands - ???</EnglishText>
+      <EnglishText>Cavern of Burning Sands - ?</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -563,20 +563,20 @@
     <Entry>
       <PointerOffset>284839</PointerOffset>
       <JapaneseText>溶岩のカギを使って扉を開けた</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You used the Lava Key to open the door.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>64</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284880</PointerOffset>
       <JapaneseText>鍵が必要なようだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It seems you need a key.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>65</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284908</PointerOffset>
@@ -589,11 +589,12 @@
     <Entry>
       <PointerOffset>284976</PointerOffset>
       <JapaneseText>強い衝撃を与えれば倒れそうだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It seems like you could break
+it with a strong enough force...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>67</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

@@ -5,10 +5,10 @@
     <Entry>
       <PointerOffset>278932</PointerOffset>
       <JapaneseText>魔女の声</JapaneseText>
-      <EnglishText>Magician's Voice</EnglishText>
+      <EnglishText>Witch's Voice</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -68,7 +68,7 @@
       <PointerOffset>278936</PointerOffset>
       <VoiceId>&lt;audio:VSM_030_020_001&gt;</VoiceId>
       <JapaneseText>帰るのじゃあ……</JapaneseText>
-      <EnglishText>Turn back! I'm warning you...</EnglishText>
+      <EnglishText>You must go back...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -80,8 +80,9 @@
       <VoiceId>&lt;audio:VSM_030_020_002&gt;</VoiceId>
       <JapaneseText>帰らないと知らんぞぉ～
 怖いぞぉ～</JapaneseText>
-      <EnglishText>The smart ones already left~ If you
-keep going...prepare to meet your doom~</EnglishText>
+      <EnglishText>If you don't go back, there's
+no telling what will become
+of you~ It could be scaaary~</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -600,11 +601,13 @@ keep going...prepare to meet your doom~</EnglishText>
       <JapaneseText>『あほ』
 
 と書かれている</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"Moron."
+
+That's what it says.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>64</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279028</PointerOffset>
@@ -615,11 +618,17 @@ keep going...prepare to meet your doom~</EnglishText>
 赤い奴は強ぇえから気をつけるだ。
 ええな、おらは説明したど！
 調子こいて赤い奴にボコられんようにな！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There're monsters who will attack ya
+just 'cause you're walkin' about,
+but some, like this, ya can see.
+This one's black, so no real problem, but
+the red ones're real tough customers.
+Alright, that's my explanation! So don't go
+gettin' whalloped by them red ones!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>65</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>
