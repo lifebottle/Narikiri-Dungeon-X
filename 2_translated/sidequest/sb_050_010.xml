@@ -5,10 +5,10 @@
     <Entry>
       <PointerOffset>275460,275644,275808,276156,276288,276888,277056,277280,277408,277740,280320,280440</PointerOffset>
       <JapaneseText>困っている忍び</JapaneseText>
-      <EnglishText>Troubled Ninja</EnglishText>
+      <EnglishText>Troubled Shinobi</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275512,275852,277488</PointerOffset>
@@ -85,10 +85,10 @@
     <Entry>
       <PointerOffset>280544</PointerOffset>
       <JapaneseText>手伝いますか？</JapaneseText>
-      <EnglishText>Will You Help?</EnglishText>
+      <EnglishText>Will you help?</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -96,387 +96,420 @@
     <Entry>
       <PointerOffset>275464</PointerOffset>
       <JapaneseText>困ったなぁ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is a problem...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275516</PointerOffset>
       <JapaneseText>どうしたんですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What's wrong?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275588</PointerOffset>
       <JapaneseText>何か困ってることが
 あんなら、助けるぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you're struggling with anything,
+we've got you covered.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275648</PointerOffset>
       <JapaneseText>いや……ですが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No... Well...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275696</PointerOffset>
       <JapaneseText>話してください</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Please, speak.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275812</PointerOffset>
       <JapaneseText>これは！　頭領……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh! Clan head!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275812</PointerOffset>
       <JapaneseText>実は、私の相棒が、
 仕事の途中にケガを
 しまして……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The truth is, my partner
+was injured in the
+course of his work...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275856</PointerOffset>
       <JapaneseText>ケガを……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Injured...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275912</PointerOffset>
       <JapaneseText>その仕事というのは？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And what was his work?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276160</PointerOffset>
       <JapaneseText>とある連中の悪事の現場を、
 屋敷に忍び込み、
 抑えてくることなのですが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He was to infiltrate a mansion, the site
+of operations of a certain group of
+villains, and seize a certain something...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276160</PointerOffset>
       <JapaneseText>私は私でそれにかかわる、
 別の仕事をしなければ
 なりません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I had different, but closely
+related work, which I also
+needed to pursue.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276160</PointerOffset>
       <JapaneseText>こちらも急ぎ、
 ですが、そちらも急ぎ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Both of our jobs
+were time-sensitive.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276160</PointerOffset>
       <JapaneseText>ですからふたりで
 動いていたのですが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Therefore, we took
+action together, but...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
       <BubbleId>3</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276240</PointerOffset>
       <JapaneseText>その相棒がケガをされた、
 ということなのですね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>As you said, your
+partner was injured.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276292</PointerOffset>
       <JapaneseText>はい……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276360</PointerOffset>
       <JapaneseText>これは、
 オレたちの出番かもな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sounds like this might
+be a job for us...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>16</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277744</PointerOffset>
       <JapaneseText>ああ、困った困った……
 相棒が任務でケガして
 しまった……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ahh, this is really bad...
+My partner was injured
+in the line of duty...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>17</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277744</PointerOffset>
       <JapaneseText>……このままでは、私も
 動けない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Under these circmustances,
+I can't take action, either.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>17</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280324</PointerOffset>
       <JapaneseText>やはり、この仕事は忍びの
 能力を持つものでないと、
 勤まりませぬな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Unfortunately, this is work
+suited only for those trained
+in the arts of the shinobi...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>19</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280444</PointerOffset>
       <JapaneseText>うーむ……
 このままでは仕事が進められない……
 誰かの手を借りられないものか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmm... I can't finish my work
+like this... I might need to
+ask for someone's help...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276532</PointerOffset>
       <JapaneseText>よし、オレが
 手伝ってやるよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Alright, I'll
+take care of it.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>21</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276532</PointerOffset>
       <JapaneseText>そいつらの
 悪事の証拠ってのを
 押さえてくればいいんだろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm guessing I just need
+to seize some evidence
+of what they're up to?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276576</PointerOffset>
       <JapaneseText>しかし……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>However...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>23</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276668</PointerOffset>
       <JapaneseText>オレだって、
 なりきり士なんだから、
 忍者にくらいなれるぜ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>C'mon, I'm a Roleplayer.
+I can do ninja work,
+no problem at all.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>24</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276736</PointerOffset>
       <JapaneseText>&lt;Suzu&gt;ちゃん、
 手伝わせてくれよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let me cover
+for him, &lt;Suzu&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276804</PointerOffset>
       <JapaneseText>……わかりました。
 お願いします</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Okay, I understand.
+Then, please do.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>26</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276892</PointerOffset>
       <JapaneseText>しかし、こんな……
 よろしいのでしょうか……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But well, that's...
+Are you certain...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>27</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276984</PointerOffset>
       <JapaneseText>ええ。&lt;Dio&gt;さんなら、
 ちゃんと仕事をしてくれると
 思います</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Indeed. &lt;Dio&gt; should
+be able to complete
+the work admirably.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>28</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277060</PointerOffset>
       <JapaneseText>そう、ですか。
 では……説明を……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I see... Well, then I'll
+explain the details...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>29</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277124</PointerOffset>
       <JapaneseText>よし、オレが
 手伝ってやるよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Alright, I'll
+take care of it.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>30</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277168</PointerOffset>
       <JapaneseText>しかし……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>However...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>31</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277220</PointerOffset>
       <JapaneseText>まぁ、任せとけって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, just leave it to me.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>32</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277284</PointerOffset>
       <JapaneseText>いいのでしょうか……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Are you sure...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>33</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277336</PointerOffset>
       <JapaneseText>……はぁ、まぁ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Uhm, probably...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>34</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277412</PointerOffset>
       <JapaneseText>そうですか……
 では、説明を……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I see... Well, then I'll
+explain the details...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>35</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277492</PointerOffset>
       <JapaneseText>さすがにこの仕事は、
 わたしたちにはムリだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm pretty sure we're
+not up to work like this...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>36</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277536</PointerOffset>
       <JapaneseText>そう、か？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Really?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>37</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277612</PointerOffset>
       <JapaneseText>きみたちも忍者になれれば、
 いいんだけどね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you could become ninja,
+you should be able to do it.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>38</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -989,11 +1022,12 @@
       <PointerOffset>280559</PointerOffset>
       <JapaneseText>手伝う　　　　
 やめる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Help
+Nevermind</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>64</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

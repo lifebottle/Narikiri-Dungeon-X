@@ -13,10 +13,10 @@
     <Entry>
       <PointerOffset>317440</PointerOffset>
       <JapaneseText>鼻つまみの商人</JapaneseText>
-      <EnglishText>Unpopular Merchant</EnglishText>
+      <EnglishText>Uncouth Merchant</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>301860,301924,301988</PointerOffset>
@@ -141,7 +141,8 @@
       <VoiceId>&lt;audio:VSS_039_020_001&gt;</VoiceId>
       <JapaneseText>見つけてくれて
 サンキュー！</JapaneseText>
-      <EnglishText>Woah! Nice job finding me.</EnglishText>
+      <EnglishText>Oh, you found me!
+Thank you~!</EnglishText>
       <Notes>Don't know how ridiculous you want this to be - update as appropriate.</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -152,7 +153,7 @@
       <PointerOffset>313844</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_020_002&gt;</VoiceId>
       <JapaneseText>ご褒美よ！</JapaneseText>
-      <EnglishText>Your keen eye deserves a reward!</EnglishText>
+      <EnglishText>Here, a reward!</EnglishText>
       <Notes>Don't know how ridiculous you want this to be - update as appropriate.</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -163,7 +164,7 @@
       <PointerOffset>313928</PointerOffset>
       <VoiceId>&lt;audio:VSS_039_020_003&gt;</VoiceId>
       <JapaneseText>……では、サラバっ！！</JapaneseText>
-      <EnglishText>...Guess that's about it. See ya!</EnglishText>
+      <EnglishText>...And with that... Farewell!</EnglishText>
       <Notes>Replicated what was present in another translation</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>

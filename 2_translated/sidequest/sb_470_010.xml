@@ -37,10 +37,10 @@
     <Entry>
       <PointerOffset>285856,286000</PointerOffset>
       <JapaneseText>腰が痛いおばさん</JapaneseText>
-      <EnglishText>Woman with a Sore Back</EnglishText>
+      <EnglishText>Woman with Back Pain</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285932</PointerOffset>
@@ -53,10 +53,10 @@
     <Entry>
       <PointerOffset>286068,286248</PointerOffset>
       <JapaneseText>ステキな師範代</JapaneseText>
-      <EnglishText>Assistant Instructor</EnglishText>
+      <EnglishText>Charismatic Instructor</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286116,286312</PointerOffset>
@@ -168,653 +168,713 @@
     <Entry>
       <PointerOffset>285504</PointerOffset>
       <JapaneseText>兄ちゃん、おかえり！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Welcome back, bro!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285560</PointerOffset>
       <JapaneseText>おう、元気にしてたか！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey! You been well!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285604</PointerOffset>
       <JapaneseText>ちてたか！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Veen well!?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285680</PointerOffset>
       <JapaneseText>いや、オレが聞いてんだが……
 ま、いっか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wait, I'm already asking
+you... Ah, well, whatever.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285724</PointerOffset>
       <JapaneseText>腹へった～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm hungry~</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285780</PointerOffset>
       <JapaneseText>おまえは相変わらずだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're the same as ever, huh.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285860</PointerOffset>
       <JapaneseText>おやおや、&lt;Mint&gt;様、
 お戻りですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh my, Lady &lt;Mint&gt;,
+you've returned?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285936</PointerOffset>
       <JapaneseText>はい。その後、腰の具合は
 いかがですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes. How has your
+back been since then?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286004</PointerOffset>
       <JapaneseText>ええ、おかげさまで……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wonderful, all
+thanks to you...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286072</PointerOffset>
       <JapaneseText>&lt;Cless&gt;様、
 おかえりなさい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Welcome back,
+&lt;Cless&gt;, sir.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286120</PointerOffset>
       <JapaneseText>お疲れ様です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thank you for your hard work.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286252</PointerOffset>
       <JapaneseText>ちょうどいいところへ。
 いま食事の準備を
 していたところです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You've come at a good
+time. We were just
+preparing for a meal.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>12</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286252</PointerOffset>
       <JapaneseText>皆さん、ご一緒にどうですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Would you all like to join us?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286316</PointerOffset>
       <JapaneseText>はい、ではお言葉に甘えて……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes, we'd love to.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>14</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286388</PointerOffset>
       <JapaneseText>……なんだか、
 家が恋しくなるな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Somehow, this kind
+of makes me homesick...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>15</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286456</PointerOffset>
       <JapaneseText>ミラルドさんと
 ケンカしてたよな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You fought with
+Mirald, right?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>16</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286516</PointerOffset>
       <JapaneseText>ケンカなんかしてないぞ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We fought? I mean, not really?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>17</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286612</PointerOffset>
       <JapaneseText>あんなのケンカのうちに
 入らないぞ、っていう
 のろけだから、あれ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So he's saying, between the
+two of them, that wouldn't
+even count as a fight.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>18</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286688</PointerOffset>
       <JapaneseText>&lt;Rody&gt;、&lt;Dio&gt;に
 変なことを吹き込むな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Rody&gt;, don't start
+giving &lt;Dio&gt; any
+weird ideas.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>19</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286756</PointerOffset>
       <JapaneseText>……里のみんなは
 元気でしょうか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I wonder if everyone in
+our village is alright.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>20</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286828</PointerOffset>
       <JapaneseText>&lt;Suzu&gt;ちゃんの里にも
 そのうち、行こ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's go visit them
+soon, too, &lt;Suzu&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>21</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286880</PointerOffset>
       <JapaneseText>いえ、いいのです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No, it's okay.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>22</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286948</PointerOffset>
       <JapaneseText>わたしが行きたいの。
 いいでしょ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But I want to go.
+Is that not okay?</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>23</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287012</PointerOffset>
       <JapaneseText>はい……
 ありがとうございます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It is... Thank you.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>24</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287068</PointerOffset>
       <JapaneseText>……&lt;Arche&gt;さん……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...&lt;Arche&gt;...?</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>25</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287112</PointerOffset>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>26</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287180</PointerOffset>
       <JapaneseText>&lt;Arche&gt;さん……
 どうしたんですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Arche&gt;...
+What's wrong?</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>27</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287240</PointerOffset>
       <JapaneseText>なんで……
 泣いてるんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey...why are
+you crying?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>28</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287344</PointerOffset>
       <JapaneseText>泣いてなんて……
 ないよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm not...
+crying...</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>29</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287344</PointerOffset>
       <JapaneseText>でも……
 みんな幸せそうで……
 よかった……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's just...it's really
+nice to see
+them all so happy...</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287452</PointerOffset>
       <JapaneseText>あのね、あたしのずっと
 生きてきた世界では、みんな、
 もういないはずなんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Y'know, in the world I've been
+living in all this time, they've
+all been gone for ages.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>31</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287544</PointerOffset>
       <JapaneseText>そりゃみんな、
 &lt;Arche&gt;さんみたいに
 長生きできるはずないだろ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, yeah. It's not like
+everyone can live super
+long like you, &lt;Arche&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>32</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287684</PointerOffset>
       <JapaneseText>そういうことじゃなくてさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's not what I mean.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>33</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287684</PointerOffset>
       <JapaneseText>もうこの時点で、&lt;Cless&gt;も
 &lt;Mint&gt;も、&lt;Suzu&gt;ちゃんも
 &lt;Klarth&gt;もいなかったはずなんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>At this point in time, &lt;Cless&gt; and
+&lt;Mint&gt; and &lt;Suzu&gt; and &lt;Klarth&gt;
+should all be gone.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>33</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287740</PointerOffset>
       <JapaneseText>どういうこと、ですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What do you mean?</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>35</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287952</PointerOffset>
       <JapaneseText>&lt;Cless&gt;は“シグルド”との
 戦いで命を落としたし、
 &lt;Mint&gt;はそれで絶望して……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Cless&gt; lost his life during
+the battle with "Sigurd." &lt;Mint&gt;
+lost all hope after that...</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>36</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287952</PointerOffset>
       <JapaneseText>&lt;Klarth&gt;はお酒で体を壊して
 病気になったし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Klarth&gt; ruined his health with
+alcohol, then became very ill...</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>36</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287952</PointerOffset>
       <JapaneseText>&lt;Suzu&gt;ちゃんはプルートを
 魔界に返すため、刺し違える
 はずだった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt; sacrificed herself
+to help send Pluto back
+to the Otherworld.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>36</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288060</PointerOffset>
       <JapaneseText>それって、&lt;Dio&gt;と&lt;Mel&gt;が
 いたせいで、歴史が変わった
 ってことだよ、きっと</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then, that must mean
+history changed because
+of &lt;Dio&gt; and &lt;Mel&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>39</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288120</PointerOffset>
       <JapaneseText>うん……そうかもしれない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah... That's probably why.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>40</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288204</PointerOffset>
       <JapaneseText>わたしたちのせいで
 歴史が変わった
 ってことだよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So history really
+changed because
+of us, then.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>41</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288268</PointerOffset>
       <JapaneseText>い、いいのか、
 それって……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>W-Wait, is that
+really okay?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>42</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288348</PointerOffset>
       <JapaneseText>悪いわけないよ！
 だってみんな
 生きてたんだよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, it can't be a bad thing!
+Look, everyone here gets
+to live now, don't they?</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>43</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288492</PointerOffset>
       <JapaneseText>あたしにはそれがいいことか、
 悪いことかわかんないよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't know if it's a
+good thing or a bad thing.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>44</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288492</PointerOffset>
       <JapaneseText>そのせいで死んでる人が
 もしかしたら
 いるかもしんないもん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I mean, there might be
+people who should be
+dead but are still alive.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>44</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288544</PointerOffset>
       <JapaneseText>そうですよね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's true...</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>46</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288824</PointerOffset>
       <JapaneseText>でも！　あたしは
 ふたりにだーんぜん、
 感謝しちゃうよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But! I'm super,
+super grateful
+for you two!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>47</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288824</PointerOffset>
       <JapaneseText>だってさ、ここからは
 あたしの知らないみんなが
 いるんだもん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Because, now I get to see
+a version of everyone that
+I've never seen before.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>47</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288824</PointerOffset>
       <JapaneseText>死なずに生きてる
 みんながいる……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They never died, and
+they're all still alive.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>47</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288824</PointerOffset>
       <JapaneseText>そりゃ、
 いつか死んじゃうかも
 しれないけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And, sure, they'll
+probably still die
+sooner or later, but...</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>47</Id>
       <BubbleId>3</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288824</PointerOffset>
       <JapaneseText>それがいつだか、
 わかんないなんて、
 サイコーじゃん？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't know when that
+will be, and isn't that
+really, really awesome?</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>47</Id>
       <BubbleId>4</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288872</PointerOffset>
       <JapaneseText>そうなのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh, is it?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>52</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288944</PointerOffset>
       <JapaneseText>うん、そうだよ……
 それがうれしくてさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, it is... It makes
+me really happy.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>53</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>289000</PointerOffset>
       <JapaneseText>それで泣いてたんだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So that's why you were crying.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>54</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>289072</PointerOffset>
       <JapaneseText>……だから、
 泣いてなんてない
 ってば！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Hey, didn't I
+already tell you
+I wasn't crying!</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>55</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>289124</PointerOffset>
       <JapaneseText>あっ、おいっ……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whoa, hey...!</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>56</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>289176</PointerOffset>
       <JapaneseText>照れちゃって……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She's so embarrassed...</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>57</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>289268</PointerOffset>
       <JapaneseText>ね……今の話で、
 &lt;Chester&gt;さんだけ
 名前が出なかったけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey... I noticed &lt;Chester&gt;
+is the only one
+she didn't mention...</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>58</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>289344</PointerOffset>
       <JapaneseText>&lt;Chester&gt;だけは、
 変わってないってことか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe &lt;Chester&gt;'s the only
+one who hasn't changed?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>59</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>289392</PointerOffset>
       <JapaneseText>そうかも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe...</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>60</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>289480</PointerOffset>
       <JapaneseText>&lt;Arche&gt;にとって、
 &lt;Chester&gt;のことは
 なにか特別、なのかもね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I think it's just
+that &lt;Chester&gt;
+is special to &lt;Arche&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>61</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>289528</PointerOffset>
       <JapaneseText>どういうこと？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What do you mean?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>62</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>289600</PointerOffset>
       <JapaneseText>推して知るべし。
 私もわかんないしね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just a guess. I don't
+really know, either.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>63</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>289644</PointerOffset>
       <JapaneseText>ふーん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmm...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>64</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
