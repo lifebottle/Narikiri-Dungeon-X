@@ -13,10 +13,10 @@
     <Entry>
       <PointerOffset>269624,269688</PointerOffset>
       <JapaneseText>曖昧な言葉の女性</JapaneseText>
-      <EnglishText>Vague-Speaking Woman</EnglishText>
+      <EnglishText>Vaguely-Worded Woman</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>269752,269816,269880</PointerOffset>
@@ -37,10 +37,10 @@
     <Entry>
       <PointerOffset>270328,270392,270456</PointerOffset>
       <JapaneseText>「ほっかむり」な主</JapaneseText>
-      <EnglishText>"Bonnet" Owner</EnglishText>
+      <EnglishText>"Bonnet"-y Owner</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270520,270584,270648,270712,270776,270840</PointerOffset>
@@ -96,7 +96,7 @@
     <Entry>
       <PointerOffset>280640</PointerOffset>
       <JapaneseText>道具屋　ほっかむり</JapaneseText>
-      <EnglishText>Item Shop Bonnet</EnglishText>
+      <EnglishText>Item Shop - Bonnet</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Editing</Status>
@@ -104,7 +104,7 @@
     <Entry>
       <PointerOffset>280659</PointerOffset>
       <JapaneseText>道具屋　ベイビー</JapaneseText>
-      <EnglishText>Item Shop Baby</EnglishText>
+      <EnglishText>Item Shop - Baby</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Editing</Status>
@@ -116,7 +116,8 @@
       <PointerOffset>272692</PointerOffset>
       <JapaneseText>ちーす
 雑貨屋「ほっかむり」っす</JapaneseText>
-      <EnglishText>Hey there, welcome to Bonnet.</EnglishText>
+      <EnglishText>Hey there. This is the
+item shop, Bonnet.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -156,7 +157,7 @@
       <PointerOffset>272700</PointerOffset>
       <JapaneseText>あ、「ありがとうございます」
 ってことっす</JapaneseText>
-      <EnglishText>I mean...thanks and come again.</EnglishText>
+      <EnglishText>I mean... "Thank you very much."</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -169,7 +170,7 @@
 昔エライなんとかっていう
 学者さんがいたのよ</JapaneseText>
       <EnglishText>A long time ago a really, uh...important
-what's-their-name scholar visited this town.</EnglishText>
+what's-their-name scholar lived in this town.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -181,7 +182,7 @@ what's-their-name scholar visited this town.</EnglishText>
       <JapaneseText>で、なんとかって理論を
 提唱して、なんとかってのを
 なくしたとかって……</JapaneseText>
-      <EnglishText>They proposed some kind of amazing thing
+      <EnglishText>He proposed some kind of amazing thing
 that was supposed to get rid of...something.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -193,9 +194,9 @@ that was supposed to get rid of...something.</EnglishText>
       <PointerOffset>272708</PointerOffset>
       <JapaneseText>この町出身のなんとかって学者さんの
 エライ一言が世界を変えたの</JapaneseText>
-      <EnglishText>In this very town, this what's-their-name scholar
-shared a profound message that fundementally
-changed the world as we know it.</EnglishText>
+      <EnglishText>This what's-his-name scholar was from this very town,
+and he shared a profound message that
+fundamentally changed the world as we know it.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
@@ -217,9 +218,9 @@ changed the world as we know it.</EnglishText>
       <JapaneseText>そして、そんな
 スゴイこと覚えてないわたし、
 もっとすごくない？</JapaneseText>
-      <EnglishText>And the fact that I cannot remember a single
-detail... doesn't that make this whole thing
-even more incredible!?</EnglishText>
+      <EnglishText>And I don't remember anything
+about this incredible thing. Doesn't that
+make me even more incredible?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
@@ -230,7 +231,8 @@ even more incredible!?</EnglishText>
       <PointerOffset>272712</PointerOffset>
       <JapaneseText>いらっしゃい
 雑貨屋「ベイビー」だ</JapaneseText>
-      <EnglishText>Welcome to the item shop Baby.</EnglishText>
+      <EnglishText>Hi and welcome to
+the item shop, Baby.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
@@ -260,7 +262,7 @@ even more incredible!?</EnglishText>
       <PointerOffset>272720</PointerOffset>
       <JapaneseText>へい、まいど。
 またおいで</JapaneseText>
-      <EnglishText>Thanks. Please come again.</EnglishText>
+      <EnglishText>Hey, thanks. Please come again.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
@@ -271,7 +273,7 @@ even more incredible!?</EnglishText>
       <JapaneseText>世界を救った&lt;Cless&gt;は
 この町の誉れだよ</JapaneseText>
       <EnglishText>&lt;Cless&gt; brings this town great pride
-for he deeds in saving the world.</EnglishText>
+for his deeds in saving the world.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
@@ -283,8 +285,8 @@ for he deeds in saving the world.</EnglishText>
       <JapaneseText>知っておるかの？
 ユークリッド独立騎士団先代の
 騎士団長ミゲールは&lt;Cless&gt;の父だ</JapaneseText>
-      <EnglishText>Did you know that &lt;Cless&gt;'s father,
-Miguel, was the former captain of 
+      <EnglishText>Did you know that &lt;Cless&gt;'s father
+was Miguel, the previous captain of 
 Euclid's Independent Order of Knights?</EnglishText>
       <Notes>Use the Aselia Wiki Translation for 独立騎士団 </Notes>
       <SpeakerId>4</SpeakerId>
@@ -297,8 +299,8 @@ Euclid's Independent Order of Knights?</EnglishText>
       <JapaneseText>&lt;Cless&gt;はわしらが町が
 育てたといっても
 過言ではない</JapaneseText>
-      <EnglishText>The people of this place raised
-&lt;Cless&gt; and that is no exaggeration.</EnglishText>
+      <EnglishText>The people of this town raised
+&lt;Cless&gt;, and that is no exaggeration.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>17</Id>
@@ -321,8 +323,9 @@ None whatsoever!</EnglishText>
       <PointerOffset>272732</PointerOffset>
       <JapaneseText>法術はもともとこの町を発祥とし
 世界に広まった技術なのじゃ</JapaneseText>
-      <EnglishText>Magic, as the world knows it,
-started here in this town.</EnglishText>
+      <EnglishText>This town was where the clerical
+artes, techniques which have now
+spread throughout the world, began.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>19</Id>
@@ -334,9 +337,9 @@ started here in this town.</EnglishText>
       <JapaneseText>つまりこの町は
 すべての法術師誕生の地とも
 言えるじゃろう</JapaneseText>
-      <EnglishText>In other words, you could see that
-this town is the birthplace of all
-mages, right?</EnglishText>
+      <EnglishText>So, in other words, couldn't you
+just as well say that this town is
+the birthplace of all clerics?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>19</Id>
@@ -354,7 +357,7 @@ this place birthed &lt;Mint&gt;, you know.</EnglishText>
       <SpeakerId>4</SpeakerId>
       <Id>21</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272736</PointerOffset>
@@ -366,7 +369,7 @@ None whatsoever!</EnglishText>
       <SpeakerId>4</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272740</PointerOffset>
@@ -379,7 +382,7 @@ research began here in Euclid?</EnglishText>
       <SpeakerId>4</SpeakerId>
       <Id>23</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272740</PointerOffset>
@@ -393,7 +396,7 @@ all of it was conceived here.</EnglishText>
       <SpeakerId>4</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272744</PointerOffset>
@@ -407,7 +410,7 @@ Professor &lt;Klarth&gt;'s research.</EnglishText>
       <SpeakerId>4</SpeakerId>
       <Id>25</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272744</PointerOffset>
@@ -419,7 +422,7 @@ None whatsoever!</EnglishText>
       <SpeakerId>4</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272748</PointerOffset>
@@ -430,7 +433,7 @@ None whatsoever!</EnglishText>
       <SpeakerId>5</SpeakerId>
       <Id>27</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272748</PointerOffset>
@@ -441,7 +444,7 @@ None whatsoever!</EnglishText>
       <SpeakerId>5</SpeakerId>
       <Id>27</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272752</PointerOffset>
@@ -450,7 +453,7 @@ None whatsoever!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>29</Id>
-      <Status>Done</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272756</PointerOffset>
@@ -461,7 +464,7 @@ know you still have to pay, yeah?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>30</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272760</PointerOffset>
@@ -474,7 +477,7 @@ All that is left is the weapon shop...</EnglishText>
       <SpeakerId>6</SpeakerId>
       <Id>31</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272760</PointerOffset>
@@ -488,7 +491,7 @@ time I can get my shopping done.</EnglishText>
       <SpeakerId>6</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272764</PointerOffset>
@@ -501,7 +504,7 @@ of the Order of the Black Knights.</EnglishText>
       <SpeakerId>6</SpeakerId>
       <Id>33</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272764</PointerOffset>
@@ -515,7 +518,7 @@ to the nation each and every day!</EnglishText>
       <SpeakerId>6</SpeakerId>
       <Id>33</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272764</PointerOffset>
@@ -526,7 +529,7 @@ it's my day off...</EnglishText>
       <SpeakerId>6</SpeakerId>
       <Id>33</Id>
       <BubbleId>2</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272768</PointerOffset>
@@ -538,7 +541,7 @@ I don't have enough...</EnglishText>
       <SpeakerId>6</SpeakerId>
       <Id>36</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272768</PointerOffset>
@@ -552,7 +555,7 @@ afford to buy an Apple Gel.</EnglishText>
       <SpeakerId>6</SpeakerId>
       <Id>36</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272772</PointerOffset>
@@ -564,7 +567,7 @@ what is there that I can even buy?</EnglishText>
       <SpeakerId>6</SpeakerId>
       <Id>38</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272772</PointerOffset>
@@ -576,7 +579,7 @@ rely on the provisions provided by the order...</EnglishText>
       <SpeakerId>6</SpeakerId>
       <Id>38</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272776</PointerOffset>
@@ -587,7 +590,7 @@ rely on the provisions provided by the order...</EnglishText>
       <SpeakerId>6</SpeakerId>
       <Id>40</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272776</PointerOffset>
@@ -598,7 +601,7 @@ rely on the provisions provided by the order...</EnglishText>
       <SpeakerId>6</SpeakerId>
       <Id>40</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272776</PointerOffset>
@@ -608,7 +611,7 @@ rely on the provisions provided by the order...</EnglishText>
       <SpeakerId>6</SpeakerId>
       <Id>40</Id>
       <BubbleId>2</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272780</PointerOffset>
@@ -619,7 +622,7 @@ rely on the provisions provided by the order...</EnglishText>
       <SpeakerId>6</SpeakerId>
       <Id>43</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272780</PointerOffset>
@@ -631,7 +634,7 @@ the world is protected by wisdom, not knights.</EnglishText>
       <SpeakerId>6</SpeakerId>
       <Id>43</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
   </Strings>
   <Strings>
