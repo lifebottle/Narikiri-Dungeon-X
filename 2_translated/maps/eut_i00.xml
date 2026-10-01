@@ -37,7 +37,7 @@
     <Entry>
       <PointerOffset>270328,270392,270456</PointerOffset>
       <JapaneseText>「ほっかむり」な主</JapaneseText>
-      <EnglishText>"Bonnet"-y Owner</EnglishText>
+      <EnglishText>"Bonnet"-ed Owner</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>Editing</Status>
@@ -351,13 +351,13 @@ the birthplace of all clerics?</EnglishText>
       <JapaneseText>&lt;Mint&gt;はわしらが町が
 育てたといっても
 過言ではない</JapaneseText>
-      <EnglishText>It would be no exaggeration to say that
-this place birthed &lt;Mint&gt;, you know.</EnglishText>
+      <EnglishText>The people of this town raised
+&lt;Mint&gt;, and that is no exaggeration.</EnglishText>
       <Notes>The phraseology is the same for each character, but I wrote it in a way that was unique to the preceeding sentences.</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>21</Id>
       <BubbleId>0</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272736</PointerOffset>
@@ -369,20 +369,20 @@ None whatsoever!</EnglishText>
       <SpeakerId>4</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272740</PointerOffset>
       <JapaneseText>&lt;Klarth&gt;博士の研究は
 このユークリッドから
 始まったのじゃ</JapaneseText>
-      <EnglishText>Did you know that Professor &lt;Klarth&gt;'s 
-research began here in Euclid?</EnglishText>
+      <EnglishText>Did you know Professor Lester
+started his research here in Euclid?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>23</Id>
       <BubbleId>0</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272740</PointerOffset>
@@ -391,26 +391,25 @@ research began here in Euclid?</EnglishText>
 すべてこの町で考えられたのじゃ</JapaneseText>
       <EnglishText>From summoning research to the
 "Magitech Abolition Theory"...
-all of it was conceived here.</EnglishText>
+He thought up all of it here.</EnglishText>
       <Notes>魔科学 translated to magitech as that is what it was called in Phantasia.</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272744</PointerOffset>
       <JapaneseText>&lt;Klarth&gt;はわしらが町が
 育てたといっても
 過言ではない</JapaneseText>
-      <EnglishText>It is no exaggeration to say that
-this place was instrumental to
-Professor &lt;Klarth&gt;'s research.</EnglishText>
+      <EnglishText>The people of this town raised
+&lt;Klarth&gt;, and that is no exaggeration.</EnglishText>
       <Notes>The phraseology is the same for each character, but I wrote it in a way that was unique to the preceeding sentences.</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>25</Id>
       <BubbleId>0</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272744</PointerOffset>
@@ -422,18 +421,19 @@ None whatsoever!</EnglishText>
       <SpeakerId>4</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272748</PointerOffset>
       <JapaneseText>はいはい、
 雑貨屋「ほっかむり」よん</JapaneseText>
-      <EnglishText>This is the item store Bonnet.</EnglishText>
+      <EnglishText>Yes, yes, this is the
+item store, "Bonnet."</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>27</Id>
       <BubbleId>0</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272748</PointerOffset>
@@ -444,197 +444,200 @@ None whatsoever!</EnglishText>
       <SpeakerId>5</SpeakerId>
       <Id>27</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272752</PointerOffset>
       <JapaneseText>_shop_</JapaneseText>
-      <EnglishText/>
+      <EnglishText>_shop_</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>29</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272756</PointerOffset>
       <JapaneseText>持ってってもいいけど
 お金は置いてってね</JapaneseText>
-      <EnglishText>When I said grab anything, you do
+      <EnglishText>I said to grab anything, but you
 know you still have to pay, yeah?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>30</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272760</PointerOffset>
       <JapaneseText>グミは買った……
 ライフボトルも……
 後は武器屋行って……</JapaneseText>
-      <EnglishText>Gel, check. Life bottle, check.
-All that is left is the weapon shop...</EnglishText>
+      <EnglishText>Gels, check... Life Bottles, check...
+Now for the weapon shop...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>31</Id>
       <BubbleId>0</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272760</PointerOffset>
       <JapaneseText>あ、僕、騎士なんだ。
 今日は非番なんだけど。
 休みの日はショッピングだよ</JapaneseText>
-      <EnglishText>This knight is off duty today.
-It's my day off and is the only
-time I can get my shopping done.</EnglishText>
+      <EnglishText>Ah, I'm a knight, actually.
+I'm off-duty today. And time
+off is when I do my shopping.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272764</PointerOffset>
       <JapaneseText>僕は
 ユークリッド黒鎧騎士団の
 騎士だ</JapaneseText>
-      <EnglishText>I have the honor to serve as a member
-of the Order of the Black Knights.</EnglishText>
+      <EnglishText>I'm a knight with the
+Order of the Black Knights.</EnglishText>
       <Notes>黒鎧騎士団 = Order of the Black Knights per Aselia Wiki</Notes>
       <SpeakerId>6</SpeakerId>
       <Id>33</Id>
       <BubbleId>0</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272764</PointerOffset>
       <JapaneseText>誉れ高き黒鎧に誓い
 今日もこの国の平和を
 双肩に担う！</JapaneseText>
-      <EnglishText>By wearing this black armor, 
-we are duty bound to bring peace
-to the nation each and every day!</EnglishText>
+      <EnglishText>I swear on the honor of my black armor,
+I will shoulder the burden of preserving
+this country's peace, even today!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>33</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272764</PointerOffset>
       <JapaneseText>でも、今日は非番……</JapaneseText>
-      <EnglishText>Just not today, because
-it's my day off...</EnglishText>
+      <EnglishText>But, I'm still off-duty...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>33</Id>
       <BubbleId>2</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272768</PointerOffset>
       <JapaneseText>グミは……うーん、
 足りない……</JapaneseText>
-      <EnglishText>Gel... Hmm,
-I don't have enough...</EnglishText>
+      <EnglishText>Gels... Hmm, I
+could use more...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>36</Id>
       <BubbleId>0</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272768</PointerOffset>
       <JapaneseText>僕は騎士団の騎士なんだが
 安月給でね、アップルグミも
 買えないありさまさ</JapaneseText>
-      <EnglishText>I'm a knight of the order, but the
+      <EnglishText>I'm a knight of the Order, but the
 wages are so low... I can't even
-afford to buy an Apple Gel.</EnglishText>
+afford to buy Apple Gels.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>36</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272772</PointerOffset>
       <JapaneseText>アップルグミが買えないと
 他の何も買えない</JapaneseText>
-      <EnglishText>If I cannot even afford an Apple Gel,
-what is there that I can even buy?</EnglishText>
+      <EnglishText>And if I can't afford Apple
+Gels, I can't afford anything.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>38</Id>
       <BubbleId>0</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272772</PointerOffset>
       <JapaneseText>後は騎士団の支給品で
 しのぐしかないか……</JapaneseText>
-      <EnglishText>I guess I have no other option than to
-rely on the provisions provided by the order...</EnglishText>
+      <EnglishText>I might have to make do
+with the Order's provisions...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>38</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272776</PointerOffset>
       <JapaneseText>騎士ってもっと評価されても
 いい仕事だと思うんだけど……</JapaneseText>
-      <EnglishText>Us knights deserve to be valued more...</EnglishText>
+      <EnglishText>It'd be a great job if we were
+valued a little more highly, but...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>40</Id>
       <BubbleId>0</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272776</PointerOffset>
       <JapaneseText>今のこの国じゃ
 評判はいまひとつ</JapaneseText>
-      <EnglishText>We do not have the best reputation currently.</EnglishText>
+      <EnglishText>Our reputation is rather
+lacking, at the moment.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>40</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272776</PointerOffset>
       <JapaneseText>もう騎士団、辞めようかな……</JapaneseText>
-      <EnglishText>Maybe I should just leave...</EnglishText>
+      <EnglishText>Maybe it's time I quit...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>40</Id>
       <BubbleId>2</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272780</PointerOffset>
       <JapaneseText>もう騎士とか
 今は流行りじゃないんだよな</JapaneseText>
-      <EnglishText>Knights are no longer really needed.</EnglishText>
+      <EnglishText>The knights are no
+longer popular, either.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>43</Id>
       <BubbleId>0</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272780</PointerOffset>
       <JapaneseText>これからは知恵でもって
 世界を守る時代なのかもね</JapaneseText>
-      <EnglishText>Perhaps we've entered into an age where
-the world is protected by wisdom, not knights.</EnglishText>
+      <EnglishText>Perhaps this is the start of an
+age where wisdom is responsible
+for the world's protection.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>43</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
