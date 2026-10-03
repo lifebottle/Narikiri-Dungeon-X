@@ -5,10 +5,10 @@
     <Entry>
       <PointerOffset>281076,281240,281520,281696,281872,282084,282284,282460,282600,282744,285188,285448,285592</PointerOffset>
       <JapaneseText>さすらいの鍛冶屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wandering Blacksmith</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281156,281764,281960,282660,282800,285804</PointerOffset>
@@ -89,794 +89,862 @@
       <PointerOffset>281080</PointerOffset>
       <JapaneseText>あ、君たち、ちょうどよかった、
 ここはどこなんだい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ah, you there, good timing.
+Where is this place?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281160</PointerOffset>
       <JapaneseText>え？　どこって……
 &lt;Red&gt;エトスハウス&lt;White&gt;だけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eh? What do you mean,
+"where"? It's &lt;Red&gt;Ethos's House&lt;White&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281244</PointerOffset>
       <JapaneseText>&lt;Red&gt;エトスハウス&lt;White&gt;？
 聞いたことないなぁ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Red&gt;Ethos's House&lt;White&gt;? I've
+never heard of it...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281296</PointerOffset>
       <JapaneseText>……おかしいな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...That's strange...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281352</PointerOffset>
       <JapaneseText>どうしたの、エトちゃん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What's up, Ethos?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281456</PointerOffset>
       <JapaneseText>ここ、結界が張られてて、
 ぼくの許可した人しか
 人は近づけないはずなんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There's a barrier around here
+that should keep out anyone
+I haven't invited myself...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281524</PointerOffset>
       <JapaneseText>それ！　ドラグノフだろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, hey, that's...!
+Dragunov, isn't it?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281588</PointerOffset>
       <JapaneseText>え……あ、これね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eh... Oh, this.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281588</PointerOffset>
       <JapaneseText>知ってるの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You know it?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281700</PointerOffset>
       <JapaneseText>もちろん！
 僕たち“さすらい鍛冶同盟”の
 中では知らない人間はいないよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Of course! There's not a soul
+in the Wandering Blacksmiths'
+Union who wouldn't!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281768</PointerOffset>
       <JapaneseText>なんだ、
 “さすらい鍛冶同盟”って</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"Wandering Blacksmiths'
+Union"? What's that?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281876</PointerOffset>
       <JapaneseText>伝統的なドワーフの鍛冶技術を
 後世に伝えようって連中の
 集まりさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We're a group of people trying
+to keep traditional dwarven smithing
+techniques alive in the world.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281964</PointerOffset>
       <JapaneseText>ドワーフって……
 ずっと昔にいなくなった
 ヤツらだろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dwarven... So, those guys who
+disappeared a long time ago?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282088</PointerOffset>
       <JapaneseText>ああ、最後のドワーフ
 って言われたギースの親父から
 後、ドワーフは見なくなったな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, old man Aegis was said
+to be the last dwarf, and no
+one's seen one since him.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282188</PointerOffset>
       <JapaneseText>ギース……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Aegis...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282188</PointerOffset>
       <JapaneseText>このドラグノフは、
 そのギースが作ったって
 聞いたけど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I heard Aegis made
+this Dragunov, but...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282288</PointerOffset>
       <JapaneseText>ああ、そうさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ooh, is that right?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>17</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282288</PointerOffset>
       <JapaneseText>……でも、なんか
 ずいぶん錆びついてないか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...But, isn't it
+pretty rusty?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>17</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282364</PointerOffset>
       <JapaneseText>あ、うん、だね。
 使いものになんなくって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ah, yeah, it is. I haven't
+been able to use it like this.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>19</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282464</PointerOffset>
       <JapaneseText>よし、んじゃあ、
 ちょっと貸してくれないか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Alright, then how about
+you lend it me for a bit?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282464</PointerOffset>
       <JapaneseText>僕が打ち直そう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll fix it up for you.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282508</PointerOffset>
       <JapaneseText>できるの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You can do that?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>22</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282604</PointerOffset>
       <JapaneseText>ああ……そこの
 家の部屋を貸して
 もらえないだろうか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah... Mind if I just
+borrow a room in
+that house back there?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282664</PointerOffset>
       <JapaneseText>え？　あ、ああ、
 いいぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eh? Oh, uh, sure.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>24</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282748</PointerOffset>
       <JapaneseText>よし、んじゃあ、
 ちょっと待っててくれ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Alright, then, just
+give me a minute!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>25</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282804</PointerOffset>
       <JapaneseText>……オレ、見てくる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I'm gonna go watch!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>26</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282852</PointerOffset>
       <JapaneseText>あ、ぼくも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, me too...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>27</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282924</PointerOffset>
       <JapaneseText>……あの剣、
 とても大切なものなんだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Those swords are pretty
+important to you, aren't they?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>28</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282988</PointerOffset>
       <JapaneseText>え？　あ、うん。
 どうして？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eh? Oh, yeah.
+Why do you ask?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>29</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283092</PointerOffset>
       <JapaneseText>だって、あんなボロボロで、
 普通、ずっと持ってたり
 しないかなって思って</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, they're so worn out, and so I
+thought, normally, you wouldn't carry
+something like that around with you.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>30</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283164</PointerOffset>
       <JapaneseText>そうかもね。
 ……あれは父さんの形見</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, that's true. ...It's
+a memento of my father.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>31</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283212</PointerOffset>
       <JapaneseText>お父さんの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Your father?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>32</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283352</PointerOffset>
       <JapaneseText>そう、
 一族に伝わるとても
 大切なものなんだって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah. They're really precious,
+and they've been passed down
+in a certain clan for a long time.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>33</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283352</PointerOffset>
       <JapaneseText>そんなものを父さんは
 私に残してくれた</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And my father
+left them to me.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>33</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283352</PointerOffset>
       <JapaneseText>その技とともに……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Along with those artes...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>33</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283440</PointerOffset>
       <JapaneseText>&lt;Rody&gt;の技はお父さんに
 教えてもらったものなんだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So you were taught your
+artes by your father, &lt;Rody&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>36</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283600</PointerOffset>
       <JapaneseText>うん……護身のためにって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah... To protect myself.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>37</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283600</PointerOffset>
       <JapaneseText>どうして、あそこまで
 厳しく教え込まされたのかな
 って思ってたけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I wondered why he went
+so far out of his way to make
+sure I learned them, but...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>37</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283600</PointerOffset>
       <JapaneseText>あんなことがあったから
 なんだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, it must've been
+because that happened.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>37</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283712</PointerOffset>
       <JapaneseText>怖がらないでね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't get spooked by this.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>40</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283712</PointerOffset>
       <JapaneseText>前に&lt;Red&gt;ユークリッド&lt;White&gt;で
 たくさん人が殺された話、
 聞いたでしょ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You heard about all of
+the people who got killed
+in &lt;Red&gt;Euclid&lt;White&gt; before, right?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>40</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283808</PointerOffset>
       <JapaneseText>あ、うん、えっと、
 確か誘拐犯だった人と
 仲間だったっていう……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Um, yeah... That was... Oh, you
+said they were friends of the
+people who kidnapped you, right?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>42</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283956</PointerOffset>
       <JapaneseText>たぶん、あれやったの、
 うちの父さんだと思う</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah. It was probably
+my father who killed them.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>43</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283956</PointerOffset>
       <JapaneseText>２０人もの人間を一太刀で
 片付けるなんてうちの
 父くらいにしかできないよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My dad's one of the only people
+who could've taken down twenty
+men with a single stroke of a sword.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>43</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284040</PointerOffset>
       <JapaneseText>それって、&lt;Rody&gt;を
 誘拐したその仕返しってこと？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So, you're saying it was punishment
+for them kidnapping you, &lt;Rody&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>45</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284236</PointerOffset>
       <JapaneseText>そうかな。
 ……ううん、それ以上の
 意味もあったのかもね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe. ...Or no,
+there was probably
+more to it than that.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>46</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284236</PointerOffset>
       <JapaneseText>ま、それはいいとして</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, anyway, moving on.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>46</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284236</PointerOffset>
       <JapaneseText>たぶん、そんなことがあったから
 私に自分の技を教えてくれた</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's probably because something
+like that had happened that he
+taught me all of his artes.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>46</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284236</PointerOffset>
       <JapaneseText>自分で身を守れるようにって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So I'd be able to defend
+myself if I needed to.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>46</Id>
       <BubbleId>3</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284304</PointerOffset>
       <JapaneseText>２度と
 誘拐されないようにって？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And so you wouldn't be
+kidnapped ever again?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>50</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284384</PointerOffset>
       <JapaneseText>そ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Right.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>51</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284384</PointerOffset>
       <JapaneseText>父さん、
 すごく役にたってるよ、
 この技……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And you know, these
+artes have come in
+really handy, Father...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>51</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284444</PointerOffset>
       <JapaneseText>&lt;Rody&gt;って……お姫様？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Um, so, &lt;Rody&gt;... Are you a princess?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>53</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284532</PointerOffset>
       <JapaneseText>え？　私が？
 面白いこと言う娘だね、
 &lt;Mel&gt;ちゃんって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eh? Me? Haha, you say
+some pretty funny
+things sometimes, &lt;Mel&gt;</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>54</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284600</PointerOffset>
       <JapaneseText>だって
 そんなに誘拐されるって……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, I mean, you
+were kidnapped, so...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>55</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284776</PointerOffset>
       <JapaneseText>お姫様、か……
 ある意味、そうかもね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A princess, huh... Well,
+in a certain sense, maybe.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>56</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284776</PointerOffset>
       <JapaneseText>うちの父さんにとっての、
 “お姫様”ってね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>From my father's point of view,
+I was definitely his "princess."</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>56</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284776</PointerOffset>
       <JapaneseText>親にとっては、みんな娘は
 “お姫様”なのかもね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But that's probably true for
+every parent. Their little girl
+is always their princess.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>56</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284776</PointerOffset>
       <JapaneseText>&lt;Mel&gt;ちゃんも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Meaning you, too, &lt;Mel&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>56</Id>
       <BubbleId>3</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284828</PointerOffset>
       <JapaneseText>エトの“お姫様”？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then, I'm Ethos's princess?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>60</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284872</PointerOffset>
       <JapaneseText>あはは……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ahaha...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>61</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284916</PointerOffset>
       <JapaneseText>うふふ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hehehe...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>62</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285004</PointerOffset>
       <JapaneseText>……そう言えば、
 この時代にもあれ、
 残ってるのかな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Speaking of, I
+wonder if that's
+still around, in this era...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>63</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285048</PointerOffset>
       <JapaneseText>あれ……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"That"...?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>64</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285132</PointerOffset>
       <JapaneseText>精霊の森の石に、
 父さんの残した言葉が
 あってね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, my father carved
+some words into a stone
+in the Forest of Spirits...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>65</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285192</PointerOffset>
       <JapaneseText>はい、できたよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Okay, all done.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>66</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285328</PointerOffset>
       <JapaneseText>うひゃあ……すごく綺麗に
 打ち直してくれたんだね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whoa... You did a really good
+job of restoring it, didn't you...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>67</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285328</PointerOffset>
       <JapaneseText>あのさ……私、あんま
 持ち合わせないんだけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Um, just to let you know...
+I don't have much on me...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>67</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285452</PointerOffset>
       <JapaneseText>金のことなら、心配ない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, if you're talking about
+money, don't worry.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>69</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285452</PointerOffset>
       <JapaneseText>こんな名剣
 触らせてもらったんだ。
 それだけで元は取れてる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I got to work on such
+a famous sword. That's
+more than enough return.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>69</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285524</PointerOffset>
       <JapaneseText>本当に！？　サンキュー！
 ありがとー！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Really!? Thanks!
+Thank you so, so much!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>71</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285596</PointerOffset>
       <JapaneseText>いやいや、
 それじゃ僕行くよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, don't mention it.
+Anyway, I'll be going now.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>72</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285676</PointerOffset>
       <JapaneseText>それじゃあ、わたしたちも
 行きましょ、お姫様</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then, shall we get going
+as well, Your Highness?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>73</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285756</PointerOffset>
       <JapaneseText>え？　あ、そうだね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eh? Ah, right...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>74</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285756</PointerOffset>
       <JapaneseText>……行こっか、お姫様</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Let's be off, Your Highness.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>74</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285808</PointerOffset>
       <JapaneseText>……なんだ、あれ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...What's that all about?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>76</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285864</PointerOffset>
       <JapaneseText>ぼくたち、カヤの外だね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We're out of the loop.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>77</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
