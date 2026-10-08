@@ -8,15 +8,15 @@
       <EnglishText>Motoyama</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>272556,272620</PointerOffset>
       <JapaneseText>戦闘大工</JapaneseText>
-      <EnglishText>Battle Designer</EnglishText>
+      <EnglishText>Battle Carpenter</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272684,272748</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>Matsui</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>272812,272876</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>Salmon</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>272940,273004</PointerOffset>
@@ -40,15 +40,15 @@
       <EnglishText>Matsui Keita</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>273068,273132</PointerOffset>
       <JapaneseText>O井IくAわ</JapaneseText>
-      <EnglishText>O1|˂aш4</EnglishText>
+      <EnglishText>O1|Cavv4</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273196,273260</PointerOffset>
@@ -56,7 +56,7 @@
       <EnglishText>Hatano</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>273324,273388</PointerOffset>
@@ -64,7 +64,7 @@
       <EnglishText>Babatsune</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>273452,273516</PointerOffset>
@@ -72,7 +72,7 @@
       <EnglishText>Mayubuchi</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>273580,273644</PointerOffset>
@@ -80,7 +80,7 @@
       <EnglishText>Ikegami</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>273708,273772</PointerOffset>
@@ -88,7 +88,7 @@
       <EnglishText>Yabe</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>273836,273900</PointerOffset>
@@ -96,7 +96,7 @@
       <EnglishText>Saitou</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>273964,274028</PointerOffset>
@@ -104,7 +104,7 @@
       <EnglishText>Arurun Yamauchi</EnglishText>
       <Notes/>
       <Id>13</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>274092,274156</PointerOffset>
@@ -120,7 +120,7 @@
       <EnglishText>Uematsu</EnglishText>
       <Notes/>
       <Id>15</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>274348,274412</PointerOffset>
@@ -189,186 +189,216 @@
       <JapaneseText>ゲームクリアお疲れ様です。
 楽しんで頂けたなら幸いです。
 ２周目も頑張ってくださいね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You beat the game? Nicely done.
+I hope you had a good time with it,
+and good luck on your second run.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279796</PointerOffset>
       <JapaneseText>ゲームクリアお疲れ様です。
 楽しんで頂けたなら幸いです。
 ２周目も頑張ってくださいね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You beat the game? Nicely done.
+I hope you had a good time with it,
+and good luck on your second run.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279800</PointerOffset>
       <JapaneseText>俺達第３開発部、
 荒くれ者の集まりさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We in Development Division 3
+are a pretty rowdy bunch.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279804</PointerOffset>
       <JapaneseText>俺達第３開発部、
 荒くれ者の集まりさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We in Development Division 3
+are a pretty rowdy bunch.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279808</PointerOffset>
       <JapaneseText>ロディ、エトスのデザインと
 メニューデザインを担当しました
 松井マイカです。元気です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm Matsui Maika. I headed up
+design of Rody and Ethos, as
+well as the menu. I'm doing well.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279808</PointerOffset>
       <JapaneseText>ロディのコンセプトは暗殺者＆燕
 ＆女子高生（？）でした。エトス
 は音楽です。髪型も音符だったり</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Rody's concept was a swallow-assassin-
+high-school-student (?). Ethos's was music.
+Her hair's designed after musical notes.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279808</PointerOffset>
       <JapaneseText>ディオ達と同じように、ロディと
 エトスもあなたの思い出のひとつ
 になりますように。いつかまた！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I hope Rody and Ethos will be as
+memorable to you as Dio and the
+others. Hope to see you again!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279812</PointerOffset>
       <JapaneseText>ロディ、エトスのデザインと
 メニューデザインを担当しました
 松井マイカです。元気です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm Matsui Maika. I headed up
+design of Rody and Ethos, as
+well as the menu. I'm doing well.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279812</PointerOffset>
       <JapaneseText>ロディのコンセプトは暗殺者＆燕
 ＆女子高生（？）でした。エトス
 は音楽です。髪型も音符だったり</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Rody's concept was a swallow-assassin-
+high-school-student (?). Ethos's was music.
+Her hair's designed after musical notes.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279812</PointerOffset>
       <JapaneseText>ディオ達と同じように、ロディと
 エトスもあなたの思い出のひとつ
 になりますように。いつかまた！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I hope Rody and Ethos will be as
+memorable to you as Dio and the
+others. Hope to see you again!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279816</PointerOffset>
       <JapaneseText>クルッポー、ようこそ
 テイルズオブの世界へ！
 戦闘企画担当スタッフです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kuruppo! Welcome to the
+world of "Tales of"! I was
+the lead battle designer.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279816</PointerOffset>
       <JapaneseText>バトルの要素は、
 趣味と体力と妄想と時間の
 許す限り盛り込みました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I stuffed as much stuff into the battle
+system as my preferences, stamina,
+imagination, and time would allow.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279816</PointerOffset>
       <JapaneseText>生まれ変わったなりきりテイルズ
 隅から隅までしゃぶり尽くして
 もらえると嬉しいです、クルック</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Now that Narikiri Tales has been
+reborn, I'd be delighted if you'd explore
+its every nook and cranny. Kurukku!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279820</PointerOffset>
       <JapaneseText>クルッポー、ようこそ
 テイルズオブの世界へ！
 戦闘企画担当スタッフです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Kuruppo! Welcome to the
+world of "Tales of"! I was
+the lead battle designer.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279820</PointerOffset>
       <JapaneseText>バトルの要素は、
 趣味と体力と妄想と時間の
 許す限り盛り込みました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I stuffed as much stuff into the battle
+system as my preferences, stamina,
+imagination, and time would allow.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279820</PointerOffset>
       <JapaneseText>生まれ変わったなりきりテイルズ
 隅から隅までしゃぶり尽くして
 もらえると嬉しいです、クルック</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Now that Narikiri Tales has been
+reborn, I'd be delighted if you'd explore
+its every nook and cranny. Kurukku!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279824</PointerOffset>
