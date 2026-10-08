@@ -29,10 +29,10 @@
     <Entry>
       <PointerOffset>347172,347236</PointerOffset>
       <JapaneseText>てぃーありじごくにん</JapaneseText>
-      <EnglishText>The Antlionz</EnglishText>
+      <EnglishText>T. Antlionz</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>347300,347364</PointerOffset>
@@ -45,10 +45,10 @@
     <Entry>
       <PointerOffset>347428,347492</PointerOffset>
       <JapaneseText>遊び好きなシスター</JapaneseText>
-      <EnglishText>Playful Nun</EnglishText>
+      <EnglishText>Fun-Loving Nun</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>347556,347620</PointerOffset>
@@ -85,10 +85,10 @@
     <Entry>
       <PointerOffset>348068,348132</PointerOffset>
       <JapaneseText>かぶりついたおっさん</JapaneseText>
-      <EnglishText>Lock-In Middle-Aged Man</EnglishText>
+      <EnglishText>Man Who's Locked In</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>348196,348260</PointerOffset>
@@ -101,10 +101,10 @@
     <Entry>
       <PointerOffset>348324,348388</PointerOffset>
       <JapaneseText>はっちゃけてるお兄さん</JapaneseText>
-      <EnglishText>Hyper Young Man</EnglishText>
+      <EnglishText>Merrymaking Lad</EnglishText>
       <Notes/>
       <Id>13</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>348452,348516,348580</PointerOffset>
@@ -173,10 +173,10 @@
     <Entry>
       <PointerOffset>379980,380064</PointerOffset>
       <JapaneseText>むーびーうしにん</JapaneseText>
-      <EnglishText>Moovie Kowz</EnglishText>
+      <EnglishText>Moo-vie Kowz</EnglishText>
       <Notes/>
       <Id>22</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>380164,380367</PointerOffset>
@@ -341,46 +341,52 @@ Thank you~!</EnglishText>
     <Entry>
       <PointerOffset>361772</PointerOffset>
       <JapaneseText>会話、見に来た？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wanna watch some skits?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>360164</PointerOffset>
       <JapaneseText>あやややや、あんたは先生が
 言ってた今日歌ってくれる
 歌い手さんさん？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ohohoho! Are you the singing
+singer that magnifique artist
+sent to sing for us today?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>360324</PointerOffset>
       <JapaneseText>やっぱやっぱ、そっかっか。
 先生にあんたが歌う歌詞を
 預かってんよぅ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Of course-course you are, you are.
+That magnifique artist left the
+lyrics you'll be singing with me.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>360324</PointerOffset>
       <JapaneseText>ほらほらほらほら、
 今日、ステージで
 歌ってくれんでしょ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Here, here, here, here.
+You'll be singing on
+our stage today, right?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -389,281 +395,325 @@ Thank you~!</EnglishText>
       <PointerOffset>350440</PointerOffset>
       <JapaneseText>ただいま、試運転中だすよ。
 だから、空っぽで回してるだす</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Right now, this is on a test
+run. So, that's why it's empty.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350444</PointerOffset>
       <JapaneseText>そりゃ、直らなきゃ
 乗せられないだすよ。
 直るまで、永遠に待っているだす</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Until it's repaired, no one
+can ride it. I've been
+waiting a long time.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350448</PointerOffset>
       <JapaneseText>この先は、ただいま準備中の
 新設エリアだにょー。
 だから通れないよーん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There'll be a niiiice new facility past
+here, but we're still setting it up, nyoo~
+Sooo you can't pass through here yet.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350452</PointerOffset>
       <JapaneseText>新しいエリアはねぇ
 上に行ったり下に行ったり
 そりゃもう大騒ぎの場所だよ～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The new area'll be, y'know... You'll
+goooo up! And goooo down! And
+everyone will be screaming~</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350456</PointerOffset>
       <JapaneseText>聖職者たるもの
 このように俗物に溢れる場所は
 汚らわしくていけません！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Holy men and women
+have no use for such a
+filthy, worldly place!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350460</PointerOffset>
       <JapaneseText>なーんちゃって。
 あたしってば、テーマパークとか
 大っ好きなんだよねぇ∀</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Haha, just kidding.
+Actually, I love
+theme parks. ∀</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350464</PointerOffset>
       <JapaneseText>お嬢様のお姿を見失って
 どれぐらいの時間が
 経ってしまったのか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've lost sight of my lady.
+How long has it been
+since I last saw her...?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>7</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350464</PointerOffset>
       <JapaneseText>どこで遊ばれているのやら……。
 どうしたもんですかなぁ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She must be enjoying herself
+somewhere... What should I do?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350468</PointerOffset>
       <JapaneseText>お嬢様も好きに遊ばれてるはず。
 なので、私も羽を伸ばして
 満喫させて頂きましょう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My lady must be enjoying herself, so
+I will spread my wings and partake
+of these many delights, as well.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350472</PointerOffset>
       <JapaneseText>わーい！
 回る回る
 ぐるぐるーぐるーーー！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yay! Spin, spin, spin!
+Around and aroooound!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350476</PointerOffset>
       <JapaneseText>次はどのアトラクションに
 乗ろうかな？　かな？
 えへへへへへーー！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What attraction should
+I ride next? Ehehehe~!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350480</PointerOffset>
       <JapaneseText>ここのレストランって
 絶対に入れないのよねぇ。
 気になってしょうがないわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There's no way I'm ever
+getting into this restaurant.
+I shouldn't have even tried.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350484</PointerOffset>
       <JapaneseText>でも、開門直後に来たのに
 すでに満席で、予約も無理って
 おかしくない？？？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But, I came right after they opened, and
+they were already full up. They even
+told me they're booked out. What???</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>13</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350484</PointerOffset>
       <JapaneseText>一部の人間たちの
 特権なのかと疑いたくなるわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm starting to suspect it's
+some sort of private club.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350488</PointerOffset>
       <JapaneseText>くぅん……
 くん…………
 くぅ～～～ん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>*sniff*...
+*snif*...
+*sniffsniff*...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>15</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350492</PointerOffset>
       <JapaneseText>なんちゃって。
 実は着ぐるみでしたー。
 ビックリした？　した？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just kidding. I'm actually
+a man in a costume.
+Surprised, aren't you?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>16</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350496</PointerOffset>
       <JapaneseText>今日のパティちゃんライブ
 絶対に最前列で見るんだ！
 こっからここまで俺の席ー！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm gonna watch Patty's show
+from a front row seat, no doubt
+about it! This whole row's mine!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>17</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350500</PointerOffset>
       <JapaneseText>最前列でカメラ構えないと
 いろいろ意味がないんだ。
 素人は知らなくていいから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sitting in front without a camera
+is pointless, in a whole lot of ways.
+Amateurs like you wouldn't get it.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>18</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350504</PointerOffset>
       <JapaneseText>あら、あたし、
 このパークの
 人間じゃないわよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh my, no, I
+don't work here.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>19</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350504</PointerOffset>
       <JapaneseText>それとも、一緒に
 写真でも撮りたいの？
 うふ∀</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But would you like
+to take a picture
+with me? Ehe. ∀</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350508</PointerOffset>
       <JapaneseText>わかる、わかるわー。
 わたしの魅力に
 参っちゃったのよね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I get it, I get it.
+You're really taken
+with me already, right?</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>21</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350508</PointerOffset>
       <JapaneseText>仕方ないわねぇ。
 一枚だけなら
 撮ってもいいわよ∀</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's always how it
+is. I'll let you take a
+photo, so come here~ ∀</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350512</PointerOffset>
       <JapaneseText>うひょーーー！
 すげぇ、すげぇ！！
 あは、あは、あは</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whoaaa!
+Crazy! Amazing!
+Aha, aha, aha.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>23</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350516</PointerOffset>
       <JapaneseText>たまんねぇ！
 もう、たまんねぇ！！
 我慢できねぇずぇー！！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is incredible! Just
+incredible! I can't hold
+myself back!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>24</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350520</PointerOffset>
       <JapaneseText>おーれは、ながーれの
 ぎょうしょうーにん。
 なんかー、買っていーくといい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'mmm just, a wandering,
+meee-rrr-chant. Won't ya,
+ya, buu-uu-uy, soo-me-thing?</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>25</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350524</PointerOffset>
@@ -677,33 +727,37 @@ Thank you~!</EnglishText>
     <Entry>
       <PointerOffset>350528</PointerOffset>
       <JapaneseText>まいーど、あーり</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thaaank you, thaaank you.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>27</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350532</PointerOffset>
       <JapaneseText>ご存知かしら？
 チーズINハンバーグは
 美味しくてオススメなのよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Have you heard? You
+should try cheeseburg
+steak. It's delicious.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>28</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>350536</PointerOffset>
       <JapaneseText>ご存知かしら？
 チーズINハンバーグは
 美味しくてオススメなのよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Have you heard? You
+should try cheeseburg
+steak. It's delicious.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>29</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -1393,22 +1447,26 @@ Thank you~!</EnglishText>
       <JapaneseText>動画っていいよね、動画って。
 画が動くから、動画なんだよ。
 ぷぷぷ…</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Movies are great, right? Y'know,
+movies. The picture moves,
+so they're movies. Ahaha...</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>86</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>380081</PointerOffset>
       <JapaneseText>もっともっと動画見たいよね。
 ケチケチすんじゃねぇって
 言ってやってくれよ、まったく</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You always wanna see more, right?
+So just tell me to stop bein' stingy
+and show 'em you, dammit.</EnglishText>
       <Notes/>
       <SpeakerId>22</SpeakerId>
       <Id>87</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>380191</PointerOffset>
@@ -1423,11 +1481,21 @@ Thank you~!</EnglishText>
 砕け散る嵐２
 旅が終わって、それから
 rebirth（エンディング）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Glass Flower (Opening)
+Prism Ring's Outbreak
+Chaos Yet Unresolved
+Failure
+Tempest of Destruction
+It's Not Over Yet
+Ethos's Decision
+World Engulfed by Miasma
+Tempest of Destruction 2
+Journey's End, and Then?
+rebirth (Ending)</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>88</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>380394</PointerOffset>
@@ -1442,11 +1510,21 @@ rebirth（エンディング）</JapaneseText>
 砕け散る嵐２
 旅が終わって、それから
 ？？？？？？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Glass Flower (Opening)
+Prism Ring's Outbreak
+Chaos Yet Unresolved
+Failure
+Tempest of Destruction
+It's Not Over Yet
+Ethos's Decision
+World Engulfed by Miasma
+Tempest of Destruction 2
+Journey's End, and Then?
+?</EnglishText>
       <Notes/>
       <SpeakerId>23</SpeakerId>
       <Id>89</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>381932</PointerOffset>
@@ -1456,21 +1534,27 @@ rebirth（エンディング）</JapaneseText>
 戦闘系
 料理系
 その他系</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Main Story 1
+Main Story 2
+Main Story 2
+Battle
+Cooking
+Other</EnglishText>
       <Notes/>
       <SpeakerId>24</SpeakerId>
       <Id>90</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>382717</PointerOffset>
       <JapaneseText>ひーーーー！
 怖い、怖いだす……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eeeeek!
+S-Scary...</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>91</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>384437</PointerOffset>
@@ -1480,11 +1564,16 @@ rebirth（エンディング）</JapaneseText>
 戦闘
 イベント
 その他</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Town
+Dungeon
+World map
+Battle
+Event
+Other</EnglishText>
       <Notes/>
       <SpeakerId>27</SpeakerId>
       <Id>92</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>384498</PointerOffset>
@@ -1497,11 +1586,19 @@ HARMONIOUS MOMENT Xver.
 MYSTERIOUS JAPON Xver.
 EUCLID Xver.
 NAM COBANDA ISLE</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ethos's House
+Valhalla Town
+Olive Village (X Vers.)
+Valhalla Village
+As Time Goes On (X Vers.)
+Harmonious Moment (X Vers.)
+Mysterious Japon (X Vers.)
+Euclid (X Vers.)
+Nam Cobanda Isle</EnglishText>
       <Notes/>
       <SpeakerId>28</SpeakerId>
       <Id>93</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>384688</PointerOffset>
@@ -1510,114 +1607,131 @@ RAISING A CURTAIN Xver.
 THE SECOND ACT Xver.
 FINAL ACT Xver.
 CHAOS FIELD</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Decision (X Vers)
+Raising a Curtain (X Vers.)
+The Second Act (X Vers.)
+Final Act (X Vers.)
+Chaos Field</EnglishText>
       <Notes/>
       <SpeakerId>29</SpeakerId>
       <Id>94</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>384818</PointerOffset>
       <JapaneseText>すまん、すまっこったで……
 これから気をつけるだす……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sorry... I'm sorry, really...
+I'll be careful from now on...</EnglishText>
       <Notes/>
       <SpeakerId>26</SpeakerId>
       <Id>95</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>384944</PointerOffset>
       <JapaneseText>あーあー、たるいなぁ。
 誰か代わってくれねぇもんかな？
 いつまでこいつと一緒なんだか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ahhh, what a freakin' pain. Anyone
+wanna take my place? I don't
+want anything to do with this guy.</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>96</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>385044</PointerOffset>
       <JapaneseText>ほんとに、バカな発言には
 イライラさせられるぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He spouts so much stupid shit.
+I'm real freakin' sick of it.</EnglishText>
       <Notes/>
       <SpeakerId>30</SpeakerId>
       <Id>97</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>385168</PointerOffset>
       <JapaneseText>まったくやってられないだすよ。
 こんな、人なのか家畜なのか
 判別つかんようなやつと一緒とは</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I just can't do this any longer. Ye 
+can't even tell if he's human or a
+farm animal. Just get me away from 'im.</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>98</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>385280</PointerOffset>
       <JapaneseText>言ってる事も、頓狂過ぎだすよ。
 早く配置換えしてほしいだす。
 異動願いを出すだすか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Everything he says's plumb bizarre. I
+want to move over somewhere else.
+Should I try askin' for a transfer?</EnglishText>
       <Notes/>
       <SpeakerId>31</SpeakerId>
       <Id>99</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>385448</PointerOffset>
       <JapaneseText>お前さんたちのおかげで
 いいアピールになったわい。
 ありがとうよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thank to all of you,
+my guild's been
+doing a lot better.</EnglishText>
       <Notes/>
       <SpeakerId>32</SpeakerId>
       <Id>100</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>385530</PointerOffset>
       <JapaneseText>おお、お前さんたちか。
 頼んだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ooh, it's you? I'm
+counting on you.</EnglishText>
       <Notes/>
       <SpeakerId>32</SpeakerId>
       <Id>101</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>385581</PointerOffset>
       <JapaneseText>ふん！
 おぬしのようなヒヨッコには
 用はないわい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmph! I don't have
+time for greenhorns
+like you lot.</EnglishText>
       <Notes/>
       <SpeakerId>33</SpeakerId>
       <Id>102</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>385671</PointerOffset>
       <JapaneseText>ききき、きっそー！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>O-o-oh... Oh no...!</EnglishText>
       <Notes/>
       <SpeakerId>34</SpeakerId>
       <Id>103</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>385725</PointerOffset>
       <JapaneseText>アン、ドゥ、トロワー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Un, deux, trois~</EnglishText>
       <Notes/>
       <SpeakerId>35</SpeakerId>
       <Id>104</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>385771</PointerOffset>
@@ -1631,11 +1745,12 @@ CHAOS FIELD</JapaneseText>
       <PointerOffset>385808</PointerOffset>
       <JapaneseText>ちがうのかー
 まだかなまだかな歌い手さんさん～ン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, was it not you? I'm still, still waiting
+for my siinnng-soonnng singer?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>106</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>
