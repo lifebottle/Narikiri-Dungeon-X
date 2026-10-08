@@ -53,7 +53,7 @@
     <Entry>
       <PointerOffset>272674</PointerOffset>
       <JapaneseText>準備はＯＫ？</JapaneseText>
-      <EnglishText>Are you ready?</EnglishText>
+      <EnglishText>All set?</EnglishText>
       <Notes/>
       <Id>7</Id>
       <Status>Editing</Status>
@@ -61,7 +61,7 @@
     <Entry>
       <PointerOffset>272771,272830</PointerOffset>
       <JapaneseText>物販兵</JapaneseText>
-      <EnglishText>Salesperson</EnglishText>
+      <EnglishText>Quartermaster</EnglishText>
       <Notes/>
       <Id>8</Id>
       <Status>Editing</Status>
@@ -576,7 +576,7 @@
     <Entry>
       <PointerOffset>272655</PointerOffset>
       <JapaneseText>準備はいいのかい？</JapaneseText>
-      <EnglishText>Are you ready?</EnglishText>
+      <EnglishText>Are we all set?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>64</Id>
@@ -597,30 +597,32 @@ No</EnglishText>
       <PointerOffset>272727</PointerOffset>
       <JapaneseText>焦らなくてもいいから
 しっかり準備しておいで</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No need to rush. Let's get
+everything in order first.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>66</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272778</PointerOffset>
       <JapaneseText>しっかり準備してってください。
 お金は取りますけどね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Please take whatever you need.
+You'll still have to pay for it, though.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>67</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272837</PointerOffset>
       <JapaneseText>準備はいいですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Got everything you need?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>68</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

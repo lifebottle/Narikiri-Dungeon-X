@@ -13,10 +13,10 @@
     <Entry>
       <PointerOffset>269896,269960</PointerOffset>
       <JapaneseText>心配してる客</JapaneseText>
-      <EnglishText>Anxious Patron</EnglishText>
+      <EnglishText>Anxious Customer</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270216,270280,270344,270408,270472,270536</PointerOffset>
@@ -96,7 +96,7 @@
     <Entry>
       <PointerOffset>282092</PointerOffset>
       <JapaneseText>武器屋　ホーリーナイト</JapaneseText>
-      <EnglishText> Weapon Shop Holy Knight</EnglishText>
+      <EnglishText>Weapon Shop - Holy Knight</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Editing</Status>
@@ -109,8 +109,9 @@
       <JapaneseText>こ、こんちは
 「ホーリーナイト」って
 しがない武具屋だよ</JapaneseText>
-      <EnglishText>H-hello. Welcome to my humble
-weapon shop, "Holy Knight." </EnglishText>
+      <EnglishText>H-Hi there. This is
+"Holy Knight." Just a
+humble weapon shop.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -121,8 +122,8 @@ weapon shop, "Holy Knight." </EnglishText>
       <PointerOffset>274100</PointerOffset>
       <JapaneseText>見てってくれるの？
 あ、ありがたい</JapaneseText>
-      <EnglishText>You are going to take a look?
-Oh, I appreciate it!</EnglishText>
+      <EnglishText>You'll take a look?
+I-I'm very grateful.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -132,7 +133,7 @@ Oh, I appreciate it!</EnglishText>
     <Entry>
       <PointerOffset>274104</PointerOffset>
       <JapaneseText>_shop_</JapaneseText>
-      <EnglishText/>
+      <EnglishText>_shop_</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
@@ -142,7 +143,7 @@ Oh, I appreciate it!</EnglishText>
       <PointerOffset>274108</PointerOffset>
       <JapaneseText>ごめんな
 大したもんなくてさ</JapaneseText>
-      <EnglishText>Sorry... our stock isn't anything special.</EnglishText>
+      <EnglishText>Sorry... Our stock isn't anything special.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -164,7 +165,8 @@ Oh, I appreciate it!</EnglishText>
       <PointerOffset>274112</PointerOffset>
       <JapaneseText>なんでこの店の主人
 あんなオドオドしてんだ？</JapaneseText>
-      <EnglishText>I wonder why the owner is always so nervous.</EnglishText>
+      <EnglishText>Why's the owner always
+acting so timid?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -175,7 +177,8 @@ Oh, I appreciate it!</EnglishText>
       <PointerOffset>274112</PointerOffset>
       <JapaneseText>売れるもんも
 売れんだろ</JapaneseText>
-      <EnglishText>It really makes it hard to sell stuff.</EnglishText>
+      <EnglishText>Even good quality stuff
+won't sell like that.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -186,8 +189,8 @@ Oh, I appreciate it!</EnglishText>
       <PointerOffset>274112</PointerOffset>
       <JapaneseText>卑屈なのは悪いこっちゃ
 ないけど……</JapaneseText>
-      <EnglishText>There isn't necessarily anything wrong
-with downplaying your goods, but...</EnglishText>
+      <EnglishText>I mean, it's not necessarily wrong
+to be a bit obsequious, but...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -199,9 +202,9 @@ with downplaying your goods, but...</EnglishText>
       <JapaneseText>この店の主人みたいに
 あそこまでだと
 逆に買いたくなくなるな</JapaneseText>
-      <EnglishText>This guy takes it a bit too far.
-It actually makes me anxious to
-buy anything from their store.</EnglishText>
+      <EnglishText>If you take it as far as this guy
+does, it actually makes me
+not want to shop with you.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -213,8 +216,9 @@ buy anything from their store.</EnglishText>
       <JapaneseText>うーん、あの主人
 あんなんで武器が
 売れるのかと思ったけど……</JapaneseText>
-      <EnglishText>I thought there was no way a shop owner
-like that could sell any weapons...</EnglishText>
+      <EnglishText>Hmm... I kind of doubted
+if he'd be able to sell any
+weapons that way. but...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
@@ -224,7 +228,8 @@ like that could sell any weapons...</EnglishText>
     <Entry>
       <PointerOffset>274116</PointerOffset>
       <JapaneseText>意外と売れてるんだよな</JapaneseText>
-      <EnglishText>But they are actually doing pretty well.</EnglishText>
+      <EnglishText>He's selling way more
+than I expected.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
@@ -234,7 +239,7 @@ like that could sell any weapons...</EnglishText>
     <Entry>
       <PointerOffset>274116</PointerOffset>
       <JapaneseText>……男前は得だな……</JapaneseText>
-      <EnglishText>...Guess being good-looking has its perks.</EnglishText>
+      <EnglishText>...Guess being handsome has its perks...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
@@ -245,7 +250,8 @@ like that could sell any weapons...</EnglishText>
       <PointerOffset>274120</PointerOffset>
       <JapaneseText>らぁっしゃーい
 武具屋「ホーリーナイト」だ！</JapaneseText>
-      <EnglishText>Welcome to the "Holy Knight" weapon shop!</EnglishText>
+      <EnglishText>Hey-o, welcome to the
+weapon shop, "Holy Knight"!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
@@ -267,7 +273,7 @@ You name it, we've got it!</EnglishText>
     <Entry>
       <PointerOffset>274124</PointerOffset>
       <JapaneseText>_shop_</JapaneseText>
-      <EnglishText/>
+      <EnglishText>_shop_</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
@@ -278,8 +284,8 @@ You name it, we've got it!</EnglishText>
       <JapaneseText>大したもんがねぇとは
 言わせんぞ？
 あん？</JapaneseText>
-      <EnglishText>Now spread the word of our great mechandise.
-I better not hear you badmouthing our goods.</EnglishText>
+      <EnglishText>I hear ya badmouthing our goods, and
+we're gonna have a problem. Ya get me?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>16</Id>
@@ -290,9 +296,9 @@ I better not hear you badmouthing our goods.</EnglishText>
       <JapaneseText>ユークリッド騎士団の膝元
 もう少しマシなもんが
 あるかと思ったけど……</JapaneseText>
-      <EnglishText>I figured a place supplying the
-Euclid Knights would have
-better stock than this...</EnglishText>
+      <EnglishText>I thought there'd be better
+gear than this in the land
+of the Euclid Knights, but...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>17</Id>
@@ -304,8 +310,9 @@ better stock than this...</EnglishText>
       <JapaneseText>ダメだなぁ……
 騎士団も落ち目って
 本当なのかな</JapaneseText>
-      <EnglishText>But I guess not...Makes you wonder
-if the knights are truly on the decline.</EnglishText>
+      <EnglishText>I guess not... Maybe
+the Knights really
+are on the decline...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>17</Id>
@@ -317,142 +324,163 @@ if the knights are truly on the decline.</EnglishText>
       <JapaneseText>騎士団長ウルドールが
 もう長いこと行方不明って
 聞いたけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Head Knight Uldole's
+been missing for a
+long time, or so I hear...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>19</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274136</PointerOffset>
       <JapaneseText>トーティス村襲撃で
 死んだ人たちの呪いでも
 受けたな、こりゃ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's probably a curse from
+all those who died in the
+Totus Village massacre.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274140</PointerOffset>
       <JapaneseText>ユークリッド騎士団が
 ヴァルハラをシグルドから
 解放したらしいね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Seems the Euclid
+Knights liberated
+Valhalla from Sigurd.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>21</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274140</PointerOffset>
       <JapaneseText>でも、その働きの大半は
 &lt;Cless&gt;の率いるトーティス遊撃隊に
 あるって話だよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But they say most of the forces
+on that mission were with &lt;Cless&gt;'s
+Totus Mobile Task Force.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274144</PointerOffset>
       <JapaneseText>トーティス遊撃隊に
 目覚しい働きをした
 ふたりの子どもがいたんだって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And there were even a pair of
+children with the Task Force
+who did especially brilliant work.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274144</PointerOffset>
       <JapaneseText>そうそう、君たちとちょうど
 同じくらいのさ。
 スゴイよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Pretty much the same
+age as you guys, actually.
+Amazing, isn't it?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274148</PointerOffset>
       <JapaneseText>この国の発展に尽くしてきた
 ユークリッド騎士団だけど
 もうその役目も終わりなのかもね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Euclid Knights did a great deal
+to help develop this country, but
+that may have come to an end, now.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274148</PointerOffset>
       <JapaneseText>ひとつの時代が去った感じで、
 なんとなく寂しいよな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's a bit depressing, actually.
+Feels like the end of an era.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274152</PointerOffset>
       <JapaneseText>武力の時代は去れ、ようこそ英知、
 ここからは文官の時代、
 ってな具合かね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"The end of the era of warriors, and a
+ringing in of the era of learned men. This
+is the age of civil society," or something.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>27</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274152</PointerOffset>
       <JapaneseText>そう思うと
 この店の主の元気が
 空回りしてる感じもするね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thinking of it like that, it kinda
+feels like the owner of this shop
+might be wasting his energy.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>27</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274156</PointerOffset>
       <JapaneseText>ちはっす
 武具屋「ホーリーナイト」だっせ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yo, sup. You're at the
+weapon shop, "Holy Knight."</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>29</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274156</PointerOffset>
       <JapaneseText>ま、そこそこ
 いいもんあるから
 見てってくれりょ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The stuff here's not half bad,
+y'know, so check it out.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274160</PointerOffset>
@@ -467,161 +495,180 @@ if the knights are truly on the decline.</EnglishText>
       <PointerOffset>274164</PointerOffset>
       <JapaneseText>気に入ったもんは
 あったかね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Anything catch
+your eye?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>32</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274168</PointerOffset>
       <JapaneseText>うーん……いい武器ないわね……
 何探してるかって？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmm... None of these weapons are all
+that great... Oh, what am I looking for?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>33</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274168</PointerOffset>
       <JapaneseText>もちろん！　闘技場で
 魔物たちを血祭りにあげる
 パーペキな武器よ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A totes amazeballs weapon that'll let
+me turn the Arena into a bloodbath
+of monster guts and entrails, of course!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>33</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274172</PointerOffset>
       <JapaneseText>切れ味よく、軽く振り回せて
 形がかっこよくて
 で、安いヤツ、ないかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Super sharp, ultralight, with an
+appealing form-factor... Is there
+nothing like that that's cheap, too?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>35</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274172</PointerOffset>
       <JapaneseText>闘技場で使うのに
 最適な武器がほしいのよ～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm after the perfect weapon
+to use in the Arena~</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>35</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274176</PointerOffset>
       <JapaneseText>いい武器入荷したかしらね……
 うーん……ないわぁ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I wonder if they got anything
+good in... Hmm... Not really...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>37</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274176</PointerOffset>
       <JapaneseText>いい武器さえあれば
 今度こそ闘技場の
 第８戦を突破できるんだけどね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If I could just get a good weapon,
+I'd definitely blast all the way
+through Round Eight next time.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>37</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274180</PointerOffset>
       <JapaneseText>今度こそ、すごい武器を
 手に入れて闘技場を
 鮮血の薔薇色に染めたいのに</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I just want to soak the entire
+building in the bold, rosy red
+of freshly spilt blood, y'know?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>39</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274180</PointerOffset>
       <JapaneseText>……うーん、いい武器、ないわね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Hmm. No good weapons...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>39</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274184</PointerOffset>
       <JapaneseText>念願の優勝まで後一歩。
 後一歩、何かが足りない、そう、
 それが手になじむ武器なのよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm just one step away from my long-
+sought victory. And what do I need to
+take that last step? The right weapon!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>41</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274184</PointerOffset>
       <JapaneseText>でも、それがないのよね～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But, they don't have
+the one for me~</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>41</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274188</PointerOffset>
       <JapaneseText>闘技場で優勝して、
 誰かに見初めてもらって
 ステキな恋人を見つけるの！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When I win, someone will fall in love
+with my victorious figure! And then
+I'll have found the perfect lover, too!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>43</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274188</PointerOffset>
       <JapaneseText>そして、そのままゴールイン。
 私の野望は実現間近だわ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And then we'll call a shotgun
+wedding, just like that. The
+hour of my dreams is at hand!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>43</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274192</PointerOffset>
       <JapaneseText>はいはい、いらっしゃい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes, yes, hi 'n' welc.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>45</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274196</PointerOffset>
       <JapaneseText>_shop_</JapaneseText>
-      <EnglishText/>
+      <EnglishText>_shop_</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>46</Id>
@@ -630,26 +677,27 @@ if the knights are truly on the decline.</EnglishText>
     <Entry>
       <PointerOffset>274200</PointerOffset>
       <JapaneseText>まいどありー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thanks much.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>47</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274204</PointerOffset>
       <JapaneseText>あ、あのっ！
 ど、どうぞ見ていってください……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>U-Um! P-Please
+take a look...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>48</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274208</PointerOffset>
       <JapaneseText>_shop_</JapaneseText>
-      <EnglishText/>
+      <EnglishText>_shop_</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>49</Id>
@@ -659,27 +707,30 @@ if the knights are truly on the decline.</EnglishText>
       <PointerOffset>274212</PointerOffset>
       <JapaneseText>あ、あ、ありがとう、
 ……ございましたっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Th-Th-Thank you!
+V-Very much!!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>50</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274216</PointerOffset>
       <JapaneseText>いらっしゃいませ！
 自慢の武器の数々、
 どうぞごらんになってください</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hello and welcome! Please
+peruse my proud collection
+of only the finest weapons!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>51</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274220</PointerOffset>
       <JapaneseText>_shop_</JapaneseText>
-      <EnglishText/>
+      <EnglishText>_shop_</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>52</Id>
@@ -690,11 +741,13 @@ if the knights are truly on the decline.</EnglishText>
       <JapaneseText>ありがとうございます。
 またのお越しを
 お待ちしております</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thank you very much.
+I sincerely hope you'll
+shop with us in the future!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>53</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
