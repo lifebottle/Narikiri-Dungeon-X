@@ -128,20 +128,20 @@ Thank you~!</EnglishText>
     <Entry>
       <PointerOffset>315144</PointerOffset>
       <JapaneseText>話しかけられません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You can't talk to me.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>315148</PointerOffset>
       <JapaneseText>話しかけられません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You can't talk to me.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -847,11 +847,12 @@ Thank you~!</EnglishText>
       <JapaneseText>俺のペットたち、
 勝手に触るな！
 　　　　　　　&lt;Dio&gt;</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't touch my pets!
+　　　　　　　　　　&lt;Dio&gt;</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>88</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326042</PointerOffset>
@@ -865,11 +866,12 @@ Thank you~!</EnglishText>
       <PointerOffset>326066</PointerOffset>
       <JapaneseText>おおーい　どこ行くだ
 はよこっち来んかいなー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oi, where ya headin' off
+to? Come on, this way.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>90</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>
