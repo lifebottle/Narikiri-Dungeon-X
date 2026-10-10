@@ -53,7 +53,7 @@
     <Entry>
       <PointerOffset>306988,307052,307116,307180,307244,307308</PointerOffset>
       <JapaneseText>背の高いおしん</JapaneseText>
-      <EnglishText>Big, Tall Shin-chan</EnglishText>
+      <EnglishText>Long, Tall Shin-chan</EnglishText>
       <Notes/>
       <Id>7</Id>
       <Status>Editing</Status>
@@ -61,34 +61,34 @@
     <Entry>
       <PointerOffset>307372,307436,307500,307564,307628,307692</PointerOffset>
       <JapaneseText>茶摘のおみよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Tea-Harvesting Miyo-chan</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>307756,307820,307884,307948,308012,308076</PointerOffset>
       <JapaneseText>早いが命の真蔵</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fleet-Footed Shinzou</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308140,308204,308268,308332,308396,308460</PointerOffset>
       <JapaneseText>強い男好きのおかよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hunk-Seeking Kayo-chan</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308524,308588,308652,308716,308780,308844</PointerOffset>
       <JapaneseText>お国訛りのおきょう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dialectical Kyou-chan</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308908,308972</PointerOffset>
@@ -149,10 +149,10 @@
     <Entry>
       <PointerOffset>327146</PointerOffset>
       <JapaneseText>困っている忍び</JapaneseText>
-      <EnglishText>Troubled Ninja</EnglishText>
+      <EnglishText>Troubled Shinobi</EnglishText>
       <Notes/>
       <Id>19</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -500,7 +500,7 @@ Those clothes are a pretty tight fit, actually.</EnglishText>
       <JapaneseText>&lt;Suzu&gt;ちゃんは……おっと、
 頭領は本当あんな小さいなりで
 しっかりやってるよ</JapaneseText>
-      <EnglishText>Suzu is... Oops, I mean, the clan
+      <EnglishText>&lt;Suzu&gt; is... Oops, I mean, the clan
 head is so small, and yet she
 carries out her role so well.</EnglishText>
       <Notes/>
@@ -1071,559 +1071,642 @@ village somewhere people already live.</EnglishText>
       <JapaneseText>&lt;Suzu&gt;ちゃん、カワイソウ……
 お父さんとお母さんを
 いっぺんに亡くすなんて……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I feel so bad for &lt;Suzu&gt;...
+She lost both her parents
+at the same time...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>65</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316564</PointerOffset>
       <JapaneseText>それなのに、気丈に振る舞って、
 頭領してるなんて……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But despite that, she acts so strong,
+and she's even leading the clan...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>65</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316568</PointerOffset>
       <JapaneseText>私なら、あんなことあったら、
 &lt;Suzu&gt;ちゃんみたいには
 できないな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If something like that happened
+to me, I wouldn't be able to
+handle it like &lt;Suzu&gt; has...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>67</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316568</PointerOffset>
       <JapaneseText>当たり前か……
 忍者としての年季が違うもの。
 私、まだ見習いだし……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I guess it's only natural... She's
+a much more experienced ninja
+than I am. I'm just an apprentice...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>67</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316572</PointerOffset>
       <JapaneseText>昔はよく&lt;Suzu&gt;ちゃんと影踏みとか
 はないちもんめで遊んだよ、
 修行の合間によくね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In the past, &lt;Suzu&gt; and I would play
+shadow-tag and Hana Ichi Monme.
+Inbetween training sessions, you know?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>69</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316572</PointerOffset>
       <JapaneseText>今じゃそんなふうに
 仲良くしてもらえないかな。
 頭領だもんね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She probably can't be that
+friendly with me anymore, since
+she's the clan head now.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>69</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316576</PointerOffset>
       <JapaneseText>&lt;Suzu&gt;ちゃんと同い年なのに、
 どんどん私、置いてかれるなぁ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt; and I are the same age, but I
+just fall further and further behind.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>71</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316576</PointerOffset>
       <JapaneseText>背ばっかりでっかくなって、
 全然、忍者の技とか
 身につかないんだもの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My height keeps going up
+and up, but my skills as a
+ninja aren't growing at all.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>71</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316580</PointerOffset>
       <JapaneseText>&lt;Suzu&gt;ちゃんとはよく遊んだけど
 なんか友達って感じじゃ
 ないのよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I played a lot with &lt;Suzu&gt;,
+but I don't feel like we're
+really friends or anything.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>73</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316580</PointerOffset>
       <JapaneseText>なんか遊んでもらってる
 って感じで……友達っていうより
 先生って感じかな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It was more like she was doing me
+a favor by playing with me... She
+felt kind of like my teacher, I guess...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>73</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316584</PointerOffset>
       <JapaneseText>&lt;Suzu&gt;ちゃん、私より
 ずっと大人なんだよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Suzu&gt;'s much, much
+more mature than I am.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>75</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316584</PointerOffset>
       <JapaneseText>いつも冷静沈着で……
 あんなふうになりたいっていう
 みんなの憧れなんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She's always so calm and
+collected... Everyone wants
+to be more like her, actually.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>75</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316588</PointerOffset>
       <JapaneseText>お茶はこの里の名物なの。
 毎年美味しいお茶が取れるのよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our village is famous for its tea. Our
+leaves are delicious every year.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>77</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316588</PointerOffset>
       <JapaneseText>外の瘴気が、今年の一番茶に
 悪影響を与えなきゃいいんだけど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm hoping the miasma outside
+doesn't have a negative impact
+on this year's first flush, though.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>77</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316592</PointerOffset>
       <JapaneseText>お茶が採れたら行商人に化けて、
 外の街で売り歩くの。うちのお茶、
 とても評判がいいのよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Once I've harvested the tea, I take
+up work as a traveling merchant. Our
+tea is well-reviewed in many towns.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>79</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316592</PointerOffset>
       <JapaneseText>でも、世界がこんな状態じゃ、
 それも難しいわよね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But with the world like this, that
+might be difficult to do this year, too...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>79</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316596</PointerOffset>
       <JapaneseText>お茶栽培は忍者稼業の片手間で
 やれるような生半可なものじゃ
 本当はないのよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Cultivating tea isn't just a hobby one can
+pursue during time off from ninja work. I
+mean it. It's nothing so shallow as that.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>81</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316596</PointerOffset>
       <JapaneseText>でも、仕事をしながら、
 いかに美味しいお茶を作るかも
 忍者修行の一環なの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But, seeing how delicious a tea
+you can create while still working
+is a part of one's ninja training, too.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>81</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316600</PointerOffset>
       <JapaneseText>苦労に苦労を重ねて
 手塩にかけて栽培したお茶は
 本当にカワイイのよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The tea I have cultivated
+personally, through great toil and
+trouble, is very precious to me.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>83</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316600</PointerOffset>
       <JapaneseText>売りたくないくらいに、
 でも、売るけどね。
 ドナドナ歌いながら</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So much so that I don't really
+want to sell it. But, I will sell it.
+While singing "Donna Donna."</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>83</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316604</PointerOffset>
       <JapaneseText>まる忍印のお茶が
 今年も世界各地で
 流通を始めたわよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Tea bearing our clan's "Shinobi"
+character (忍) has begun spreading
+throughout the land this year, too.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>85</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316604</PointerOffset>
       <JapaneseText>たぶん、あなたたちも
 知らず知らずの間に飲んでるわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You've probably drunk some
+yourselves, without knowing.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>85</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316608</PointerOffset>
       <JapaneseText>まるに「忍」
 コレが目印よ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The "Shinobi" symbol (忍), in a circle!
+That's how you'll know it's ours!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>87</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316612</PointerOffset>
       <JapaneseText>……オレは韋駄天真蔵、
 各地で活動をする仲間の
 元へ密書を運ぶのが使命……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I am Idaten Shinzou. My mission is
+to deliver secret messages intact
+to our allies throughout the lands...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>88</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316612</PointerOffset>
       <JapaneseText>しかし、瘴気のせいで、
 里も出られないし、
 大切な密書も届けられない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>However, due to the miasma, I
+can't leave the village—and can't
+deliver those messages, either.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>88</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316616</PointerOffset>
       <JapaneseText>プルートを倒すことも
 大切な使命だが、それ以外にも
 我々には仕事がある</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Defeating Pluto is an important
+mission, but there are other also
+jobs we need to carry out.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>90</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316616</PointerOffset>
       <JapaneseText>……各地に飛んでいる
 仲間たちは無事だろうか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I wonder if our allies throughout
+the lands are all safe right now.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>90</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316620</PointerOffset>
       <JapaneseText>疾風のように大地を駆け、
 迅雷のように鋭く行く
 韋駄天真蔵、ここにあり！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Like the wind, racing across the land!
+Like a lightningbolt, cutting through to
+his destination! Idaten Shinzou...is here!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>92</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316620</PointerOffset>
       <JapaneseText>やはり、忍者は足が命！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's true! A ninja
+lives by his feet!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>92</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316624</PointerOffset>
       <JapaneseText>毎日２時間の走りこみは
 欠かさない！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Two hours of training runs, every
+day! That's the bare minimum!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>94</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316624</PointerOffset>
       <JapaneseText>さ、君たちもオレと一緒に
 レッツランニング！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Okay, everyone. Come with
+me, and... "Let's Running!"</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>94</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316628</PointerOffset>
       <JapaneseText>オレはこの里一番の
 健脚の持ち主、韋駄天真蔵！
 頭領にすら、負けない！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm the bearer of the greatest pair
+of legs in the village, Idaten Shinzou!
+Even the clan head can't outrun me!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>96</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316628</PointerOffset>
       <JapaneseText>忍者でなかったならば、
 かけっこ大会に出て
 その名を歴史に刻んだはずだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If I weren't a ninja, I'd enter
+track meets and carve my
+name into the history books.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>96</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316632</PointerOffset>
       <JapaneseText>オレは韋駄天真蔵！
 ちなみに韋駄天とは
 オレの仇名だ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I am Idaten Shinzou!
+Though, Idaten is
+just a nickname!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>98</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316632</PointerOffset>
       <JapaneseText>足の早い神様にちなんで
 前の頭領からいただいた
 名前なのだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's the name of a god known
+for his fleetness of foot. Our
+previous head chose it for me.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>98</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316636</PointerOffset>
       <JapaneseText>世界が瘴気に満ちて
 魔族やプルートが襲ってくる……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The world is full of miasma and Pluto
+and his daemons are attacking...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>100</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316636</PointerOffset>
       <JapaneseText>ああ……誰か
 私を守ってくれる
 王子様はいないかしら……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ahh... Is there not a prince
+who will protect me,
+somewhere out there...?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>100</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316640</PointerOffset>
       <JapaneseText>魔族やプルートを
 打ち払ってくれる頼りにできる
 素敵な彼氏はいずこに……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Where is my wonderful,
+reliable, Pluto-and-Daemon
+exterminating boyfriend...?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>102</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316640</PointerOffset>
       <JapaneseText>そんなものいないのよね。
 結局、頼れるのは自分の力だけ
 だったり……情けない……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There isn't anyone like that, is
+there? In the end, I can only rely
+on my own strength. It's so sad...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>102</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316644</PointerOffset>
       <JapaneseText>わたしの好きな男性のタイプは
 強い男の人</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My type of man?
+I like a strong
+man. That's it.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>104</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316644</PointerOffset>
       <JapaneseText>世界のどこかに“ちゃんぴおん”
 っていう強い人がいるそうね。
 その人がいいわ、私</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Apparently, there's someone
+out there so strong they call
+him a "champion." I want him.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>104</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316648</PointerOffset>
       <JapaneseText>この里の男たちは、戦い馴れは
 してるけど、いまいち頼りない
 のが多いのよね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The men of this town are
+accustomed to battle, but
+they're mostly unreliable.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>106</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316648</PointerOffset>
       <JapaneseText>頭領は&lt;Suzu&gt;ちゃんでしょ。
 女の方が強いのよ、実際。
 私に戦って勝てる人がいいわ、私</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I mean, the clan head is &lt;Suzu&gt;. The
+women of this town are just stronger. I
+need a man who can beat me in a fight.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>106</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316652</PointerOffset>
       <JapaneseText>私は私よりも強い人に
 会いにいくの……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I should go out and try to
+find a man stronger than me...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>108</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316652</PointerOffset>
       <JapaneseText>その人に戦いを挑んで負けたら、
 求婚して、一族に引き入れるの。
 いいアイデアでしょ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If I challenge him to a fight and lose,
+I'll propose to him, and force him
+to join the clan. Good idea, right?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>108</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316656</PointerOffset>
       <JapaneseText>私の理想のタイプは、
 私をいろんな危険から
 守ってくれる強い人なの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My ideal type of man is a
+strong one who will protect
+me from all kinds of danger.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>110</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316656</PointerOffset>
       <JapaneseText>あ、自分の身くらい自分で
 守れるでしょ、ってのはなしね
 そういう問題じゃないから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, you think I'm strong enough
+to protect myself? Of course I
+am, but that's not the point.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>110</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316660</PointerOffset>
       <JapaneseText>あら、こんな時に
 来てもーても
 ぶぶ漬けも出せへんよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh my, if you come here
+at such a time, we can't
+even offer you tea and rice.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>112</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>316660</PointerOffset>
