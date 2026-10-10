@@ -16,7 +16,7 @@
       <EnglishText>Battle Carpenter</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272684,272748</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>Salmon</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>272940,273004</PointerOffset>
@@ -61,18 +61,18 @@
     <Entry>
       <PointerOffset>273324,273388</PointerOffset>
       <JapaneseText>ばばつね</JapaneseText>
-      <EnglishText>Babatsune</EnglishText>
+      <EnglishText>Baba-Tsune</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273452,273516</PointerOffset>
       <JapaneseText>ますぶち</JapaneseText>
-      <EnglishText>Mayubuchi</EnglishText>
+      <EnglishText>Masubuchi</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273580,273644</PointerOffset>
@@ -112,7 +112,7 @@
       <EnglishText>Robo-Itou</EnglishText>
       <Notes/>
       <Id>14</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274220,274284</PointerOffset>
@@ -125,10 +125,10 @@
     <Entry>
       <PointerOffset>274348,274412</PointerOffset>
       <JapaneseText>コマメウダ</JapaneseText>
-      <EnglishText>Komame Uda</EnglishText>
+      <EnglishText>Earnest Uda</EnglishText>
       <Notes/>
       <Id>16</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -336,7 +336,7 @@ the lead battle designer.</EnglishText>
 趣味と体力と妄想と時間の
 許す限り盛り込みました</JapaneseText>
       <EnglishText>I stuffed as much stuff into the battle
-system as my preferences, stamina,
+system as my tastes, stamina,
 imagination, and time would allow.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -378,7 +378,7 @@ the lead battle designer.</EnglishText>
 趣味と体力と妄想と時間の
 許す限り盛り込みました</JapaneseText>
       <EnglishText>I stuffed as much stuff into the battle
-system as my preferences, stamina,
+system as my tastes, stamina,
 imagination, and time would allow.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
@@ -405,660 +405,752 @@ its every nook and cranny. Kurukku!</EnglishText>
       <JapaneseText>「シュワン！　シュワン！！」
 「ガサガサッ！　ガキンッ！！」
 「ズォォーーン！！！」…（汗）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"Whoosh! Whoosh!!"
+"Rustlerustle! Ka-chink!!"
+"Whoooooooom!!!" (*sweatdrop*)</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>17</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279824</PointerOffset>
       <JapaneseText>雑魚敵のボイスを収録する際に
 スタッフに「こんな感じです！」って
 セリフを言いながら説明したら</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When we were recording enemy voices,
+I kept trying to explain to the staff, with
+a, y'know, "...something like that!"</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>17</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279824</PointerOffset>
       <JapaneseText>「効果音でいいじゃん」って
 言われました（笑）。
 本人は結構本気で提案したのにね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And they just said, "So, sound
+effects'll do." Ahaha. And they
+were serious suggestions, too...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>17</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279828</PointerOffset>
       <JapaneseText>「シュワン！　シュワン！！」
 「ガサガサッ！　ガキンッ！！」
 「ズォォーーン！！！」…（汗）</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"Whoosh! Whoosh!!"
+"Rustlerustle! Ka-chink!!"
+"Whoooooooom!!!" (*sweatdrop*)</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>20</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279828</PointerOffset>
       <JapaneseText>雑魚敵のボイスを収録する際に
 スタッフに「こんな感じです！」って
 セリフを言いながら説明したら</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When we were recording enemy voices,
+I kept trying to explain to the staff, with
+a, y'know, "...something like that!"</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279828</PointerOffset>
       <JapaneseText>「効果音でいいじゃん」って
 言われました（笑）。
 本人は結構本気で提案したのにね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And they just said, "So, sound
+effects'll do." Ahaha. And they
+were serious suggestions, too...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>20</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279832</PointerOffset>
       <JapaneseText>□メ★△●☆×★＄○？ル☆％▲
 テ※▼＄◇■ィ◎＃★※×▲○☆
 ＄□☆▲ア＃☆★＄様◎★※は！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>□M★△●☆×★＄○？E☆％▲
+L※▼＄◇■T◎＃★※×▲○☆
+＄□☆▲I＃☆★＄A◎★※IS！</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>23</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279832</PointerOffset>
       <JapaneseText>俺の嫁だーーー！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>MY WAIFU~!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279836</PointerOffset>
       <JapaneseText>□メ★△●☆×★＄○？ル☆％▲
 テ※▼＄◇■ィ◎＃★※×▲○☆
 ＄□☆▲ア＃☆★＄様◎★※は！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>□M★△●☆×★＄○？E☆％▲
+L※▼＄◇■T◎＃★※×▲○☆
+＄□☆▲I＃☆★＄A◎★※IS！</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>25</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279836</PointerOffset>
       <JapaneseText>俺の嫁だーーー！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>MY WAIFU~!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279840</PointerOffset>
       <JapaneseText>私に斬れないものはない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There is nothing I cannot cut!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>27</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279844</PointerOffset>
       <JapaneseText>私に斬れないものはない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There is nothing I cannot cut!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>28</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279848</PointerOffset>
       <JapaneseText>シナリオ担当のばばつねです。
 この物語の主人公は
 ディオとメルです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm Baba. I was in charge of scenario
+writing. The main characters
+of this story are Dio and Mel.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>29</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279848</PointerOffset>
       <JapaneseText>でも、ふたりの決意の裏には
 テイルズオブファンタジアの
 登場人物たちの姿があります</JapaneseText>
-      <EnglishText/>
+      <EnglishText>However, behind the story of
+their determination stand the
+cast of Tales of Phantasia.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279848</PointerOffset>
       <JapaneseText>ダオスの知られざる苦悩、
 クレスたちそれぞれの想い</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dhaos's anguish, unknown
+to all. Cless and his party's
+thoughts and feelings.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>29</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279848</PointerOffset>
       <JapaneseText>それに加えファンタジア後の
 世界を充分に堪能しつくして
 ほしいと思います</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And on top of that, I wanted the player
+to be able to fully enjoy their time with
+the world as it is after Phantasia.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>29</Id>
       <BubbleId>3</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279852</PointerOffset>
       <JapaneseText>シナリオ担当のばばつねです。
 この物語の主人公は
 ディオとメルです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm Baba. I was in charge of scenario
+writing. The main characters
+of this story are Dio and Mel.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>33</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279852</PointerOffset>
       <JapaneseText>でも、ふたりの決意の裏には
 テイルズオブファンタジアの
 登場人物たちの姿があります</JapaneseText>
-      <EnglishText/>
+      <EnglishText>However, behind the story
+of their decisions stand the
+cast of Tales of Phantasia.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>33</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279852</PointerOffset>
       <JapaneseText>ダオスの知られざる苦悩、
 クレスたちそれぞれの想い</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dhaos's anguish, unknown
+to all. Cless and his party's
+thoughts and feelings.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>33</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279852</PointerOffset>
       <JapaneseText>それに加えファンタジア後の
 世界を充分に堪能しつくして
 ほしいと思います</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And on top of that, I wanted the player
+to be able to fully enjoy their time with
+the world as it is after Phantasia.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>33</Id>
       <BubbleId>3</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279856</PointerOffset>
       <JapaneseText>メニューのキャラボイスどうですか？？
 キャラとの一体感満載！！　萌え～∀
 ウザイと思っている方ご了承ください！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So, the Menu voices. It's like you're really
+with the characters! And so moé! ∀ Don't
+say they're annoying! Try to understand!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>37</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279860</PointerOffset>
       <JapaneseText>メニューのキャラボイスどうですか？？
 キャラとの一体感満載！！　萌え～∀
 ウザイと思っている方ご了承ください！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So, the Menu voices. It's like you're really
+with the characters! And so moé! ∀ Don't
+say they're annoying! Try to understand!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>38</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279864</PointerOffset>
       <JapaneseText>「テイルズ　オブ」が好きで開発に携わり
 何作目になるのでしょう？
 初はＴＯＤ２でした</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I loved "Tales of," so I joined the
+studio, but...how many games have I
+worked on now? My first was Destiny 2.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>39</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279864</PointerOffset>
       <JapaneseText>時が経つのは早いですね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Time flies, huh...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>39</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279868</PointerOffset>
       <JapaneseText>「テイルズ　オブ」が好きで開発に携わり
 何作目になるのでしょう？
 初はＴＯＤ２でした</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I loved "Tales of," so I joined the
+studio, but...how many games does
+this make? My first was Destiny 2.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>41</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279868</PointerOffset>
       <JapaneseText>時が経つのは早いですね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Time flies, huh...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>41</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279872</PointerOffset>
       <JapaneseText>「ドゴォォン！」
 「シャキンシャキン！」
 「ピュキィィィィィィィン！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"Kabooom!"
+"Clatterclatter!"
+"Sheeeeenk!"</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>43</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279872</PointerOffset>
       <JapaneseText>マツイさん！　それボイスやない！
 ただの効果音や…！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Matsui! That's not a voiceover!
+That's just a sound effect!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>43</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279872</PointerOffset>
       <JapaneseText>結構凹んでました(笑)。
 もちろん効果音にしましたが！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He was so depressed, ahaha. But we
+did make them into sound effects, after all!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>43</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279876</PointerOffset>
       <JapaneseText>「ドゴォォン！」
 「シャキンシャキン！」
 「ピュキィィィィィィィン！」</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"Kabooom!"
+"Clatterclatter!"
+"Sheeeeenk!"</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>46</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279876</PointerOffset>
       <JapaneseText>マツイさん！　それボイスやない！
 ただの効果音や…！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Matsui! That's not a voiceover!
+That's just a sound effect!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>46</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279876</PointerOffset>
       <JapaneseText>結構凹んでました(笑)。
 もちろん効果音にしましたが！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He was so depressed, ahaha. But we
+did make them into sound effects, after all!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>46</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279880</PointerOffset>
       <JapaneseText>久しぶりの２D戦闘ということで
 楽しんで貰えてますでしょうか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is our first 2D battle system
+in a while. Did you enjoy it?</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>49</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279880</PointerOffset>
       <JapaneseText>コンボ数だけにこだわらず
 格好いい連携なんかも探して
 色々試して貰えると嬉しいです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I hope you won't focus on just
+the hit numbers, and find lots of
+combos that are fun for you.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>49</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279880</PointerOffset>
       <JapaneseText>それではまた～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then, see you later~</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>49</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279884</PointerOffset>
       <JapaneseText>久しぶりの２D戦闘ということで
 楽しんで貰えてますでしょうか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is our first 2D battle system
+in a while. Did you enjoy it?</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>52</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279884</PointerOffset>
       <JapaneseText>コンボ数だけにこだわらず
 格好いい連携なんかも探して
 色々試して貰えると嬉しいです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I hope you won't focus on just
+the hit numbers, and find lots of
+combos that are fun for you.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>52</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279884</PointerOffset>
       <JapaneseText>それではまた～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Then, see you later~</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>52</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279888</PointerOffset>
       <JapaneseText>おめぇ、おらを誰か知ってるだか？
 シリーズ初の、無機物キャラという、
 超々ハイソサエティのこのおらを！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? Do ya even know who the hell I am?
+I'm the first character in the series to be an
+inanimate object! I'm basically an aristocrat!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>55</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279888</PointerOffset>
       <JapaneseText>……ということで、毒舌キャラの
 アルベルトは、いかがでしたか？
 気に入って頂けましたか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...So, what did you think of Albert?
+He has a bit of a razor tongue,
+but did you take a liking to him?</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>55</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279888</PointerOffset>
       <JapaneseText>ヤツの真骨頂はフェイスチャット！
 龍田さんのアドリブ満載のチャットを、
 聞き漏らす事無く堪能してくださいね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He's at his best during Skits!
+Tatsuta ad libbed a lot. Don't
+miss'em! They're all great.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>55</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279888</PointerOffset>
       <JapaneseText>おめぇ、おらの言った事理解したか？
 そっだら、アンケートの好きなキャラ、
 誰を書けばいいか、わかるな？　ん？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So, did ya understand what I'm sayin'? Then,
+ya know who you'll be writin' in when they
+ask your favorite character, don't ya? Huh?</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>55</Id>
       <BubbleId>3</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279892</PointerOffset>
       <JapaneseText>おめぇ、おらを誰か知ってるだか？
 シリーズ初の、無機物キャラという、
 超々ハイソサエティのこのおらを！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Huh? Do ya even know who the hell I am?
+I'm the first character in the series to be an
+inanimate object! I'm basically an aristocrat!</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>59</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279892</PointerOffset>
       <JapaneseText>……ということで、毒舌キャラの
 アルベルトは、いかがでしたか？
 気に入って頂けましたか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...So, what did you think of Albert?
+He has a bit of a razor tongue,
+but did you take a liking to him?</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>59</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279892</PointerOffset>
       <JapaneseText>ヤツの真骨頂はフェイスチャット！
 龍田さんのアドリブ満載のチャットを、
 聞き漏らす事無く堪能してくださいね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He's at his best during Skits!
+Tatsuta ad libbed a lot. Don't
+miss'em! They're all great.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>59</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279892</PointerOffset>
       <JapaneseText>おめぇ、おらの言った事理解したか？
 そっだら、アンケートの好きなキャラ、
 誰を書けばいいか、わかるな？　ん？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So, did ya understand what I'm sayin'? Then,
+ya know who you'll be writin' in when they
+ask your favorite character, don't ya? Huh?</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>59</Id>
       <BubbleId>3</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279896</PointerOffset>
       <JapaneseText>ギーゴゴゴゴ
 ゴギン！　ゴギン！　ウホッ！
 ギョギョギョーギョニャニャーン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Keeekokokokokoko
+Gackeen! Gackeen! Ooho!
+Kyokyokyokyonyanyaan.</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>63</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279896</PointerOffset>
       <JapaneseText>ナリキリメイクオモシロカッタカ？
 オレハイベントマシーンノイトウ
 ロボダ。テイルズオブロボンヌダ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>DID-YOU-ENJOY-NARIKIRI-REMAKE-I
+AM-ROBO-ITOU-I-AM-THE-EVENT
+SCENE-MACHINE-.-TALES-OF-ROBON</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>63</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279896</PointerOffset>
       <JapaneseText>コンカイハツウディーイベントツ
 クルノクロウシタヨイツモスリイ
 ディーダタカラナ。ウィィィィィン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>THIS-TIME-I-MADE-2-D-EVENTS
+AND-IT-WAS-HARD-BECAUSE
+I-ALWAYS-MAKE-3-D-EVENTS-EEEEE</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>63</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279896</PointerOffset>
       <JapaneseText>エヘクトモモーソンモヤリクリス
 ルノガタイヘンダタ……ゴピピー
 ピーギョギョ－ギョギョニャーン</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>EFFECTS-AND-MOTION-WERE
+VERY-HARD-TO-DO-KOPIPIPIIIIII
+Kyokyoooookyokyonyaaaaaan.</EnglishText>
+      <Notes>ehekuto?</Notes>
       <SpeakerId>14</SpeakerId>
       <Id>63</Id>
       <BubbleId>3</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279900</PointerOffset>
       <JapaneseText>チナミニコノスタッフルームノ
 コメントヲミンナニカケ！
 ……トイッタトコロ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>YOU-KNOW-I-WAS-JUST-TELLING
+EVERYONE-TO-"-WRITE-COMMENTS
+FOR-THE-STAFF-ROOM-!-"</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>67</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279900</PointerOffset>
       <JapaneseText>ミンナヘイキデ
 シメキリヤブリマクリヤガッタ!
 モウツカレタヨ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>WE-ALL-MANAGED-TO
+FINISH-BEFORE-THE
+DEADLINE-I-AM-SO-TIRED</EnglishText>
       <Notes/>
       <SpeakerId>14</SpeakerId>
       <Id>67</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279904</PointerOffset>
       <JapaneseText>プレイ中、戦闘の次に目にする
 機会が多いメニューですが</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So, about the Menu you'll see
+a lot while playing, after battles...</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>69</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279904</PointerOffset>
       <JapaneseText>今回はいろいろな進化を経て
 ようやく今の形になりました。道のりは長かった…です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This current rendition has evolved
+a lot, to finally arrive at this form.
+The road has been very long...</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>69</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279908</PointerOffset>
       <JapaneseText>プレイ中、戦闘の次に目にする
 機会が多いメニューですが</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>So, about the Menu you'll see
+a lot while playing, after battles...</EnglishText>
+      <Notes>not 100% sure what he means here</Notes>
       <SpeakerId>15</SpeakerId>
       <Id>71</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279908</PointerOffset>
       <JapaneseText>今回はいろいろな進化を経て
 ようやく今の形になりました。道のりは長かった…です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This current rendition has evolved
+a lot, to finally arrive at this form.
+The road has been very long...</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>71</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279912</PointerOffset>
       <JapaneseText>イトウロボファンクラブ会員１号ッス！
 製作中は癒されたっす！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm Robo-Itou's first fan club
+member! I wouldn't have made
+it through production, if not for him!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>73</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279916</PointerOffset>
       <JapaneseText>イトウロボファンクラブ会員１号ッス！
 製作中は癒されたっす！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm Robo-Itou's first fan club
+member! I wouldn't have made
+it through production, if not for him!</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>74</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

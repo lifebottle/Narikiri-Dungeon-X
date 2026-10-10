@@ -13,26 +13,26 @@
     <Entry>
       <PointerOffset>304288,304352,304416,304480,304544,304608,304672,304736</PointerOffset>
       <JapaneseText>側近の仁蔵</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Trusted Aide Jinzou</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>304800,304864,304928,304992,305056,305120,305184,305248</PointerOffset>
       <JapaneseText>下働きの彗蔵</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Assistant Keizou</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305312,305376,305440,305504,305568,305632</PointerOffset>
       <JapaneseText>風呂好きの大蔵</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bath-Loving Oozou</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -85,10 +85,10 @@
     <Entry>
       <PointerOffset>318576</PointerOffset>
       <JapaneseText>すず</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Suzu</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -96,7 +96,7 @@
     <Entry>
       <PointerOffset>318489</PointerOffset>
       <JapaneseText>忍者の里　頭領の屋敷</JapaneseText>
-      <EnglishText>Ninja Village - Chief's Mansion</EnglishText>
+      <EnglishText>Ninja Village - Clan Head's Estate</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Editing</Status>
@@ -145,558 +145,638 @@ Thank you~!</EnglishText>
       <PointerOffset>308592</PointerOffset>
       <JapaneseText>私は頭領の右腕を
 務めさせてもらっている</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I pursue the duties of the
+clan head's right hand man.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308592</PointerOffset>
       <JapaneseText>このたびは大変失礼した。
 本来は我らの失態、頭領のお手を
 煩わせるのは不本意だが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We have been particularly rude to you.
+Normally, we would not allow our faults
+to trouble the head herself, but...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308596</PointerOffset>
       <JapaneseText>プルートの居場所をつきとめ、
 討伐が目的、参謀である私が
 ここを動くわけにはいかぬ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I am an officer tasked with ascertaining
+Pluto's whereabouts and subjugating
+him, and cannot abandon my duties.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308596</PointerOffset>
       <JapaneseText>かと言って、頭領に
 動かれるのもマズイが、
 この際仕方がない……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Though, it's also awful for the clan
+head to be distracted from hers,
+but this time, there's no helping it.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308600</PointerOffset>
       <JapaneseText>このたびは、我が采配の
 不徳の致すところ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This has been a failure on
+my part, as a commander...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308600</PointerOffset>
       <JapaneseText>皆様のお手をお借りすることに
 なろうとは……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Being in need of a helping
+hand from all of you...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308600</PointerOffset>
       <JapaneseText>よろしくお願いする……
 この世界のため、なにとぞ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Please do all you can to assist us.
+For the sake of our world, I beg you.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308604</PointerOffset>
       <JapaneseText>我らはこの里を守るため、
 ここにとどまっておる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We will remain here
+to protect our village.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308604</PointerOffset>
       <JapaneseText>すべてお任せすることになり、
 大変無念で、大変申し訳ないが、
 後はお願いした……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Imposing our tasks upon you is both a
+great chagrin and a great impropriety,
+but... Please handle the rest.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308608</PointerOffset>
       <JapaneseText>頭領はわずか１２歳にして
 この里をとりまとめる
 頭領をしっかり務めてらっしゃる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our clan head has worked in that
+capacity and functioned as the
+core of our village since she was 12.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308608</PointerOffset>
       <JapaneseText>しかし、時折１２歳の
 子どもらしい顔も見せられるのが
 魅力でもあるのだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>However, her expressions are
+sometimes still befitting of her
+age. There is a charm in that.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308612</PointerOffset>
       <JapaneseText>私のような大人でも時々、
 舌を巻くような力を頭領が
 発揮されることがある</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The head is sometimes able to
+display such power as to astonish
+even grown adults like myself.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308612</PointerOffset>
       <JapaneseText>そんなすごい頭領のそばに
 お仕えできてまったく光栄である</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I am extremely proud to pursue my
+duties by her accomplished side.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308616</PointerOffset>
       <JapaneseText>&lt;Suzu&gt;様、銅蔵様と二代に渡り、
 おそばに仕えしている。
 銅蔵様のことは残念だったが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I have pursued duties beside two
+heads—Lady Suzu and Lord Kanzou.
+Lord Kanzou's end was regrettable.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308616</PointerOffset>
       <JapaneseText>そのことについて、あまり
 ご本人の口から話されることは
 ないが、おそらく……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I have heard sparingly
+little of the matter pass
+her lips, but, I fear...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308616</PointerOffset>
       <JapaneseText>いや、忘れてくれ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No, forget I mentioned it.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308620</PointerOffset>
       <JapaneseText>頭領のご両親のことは……
 知らぬのか……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Do you not know...about
+the clan head's parents...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308620</PointerOffset>
       <JapaneseText>そうだな、頭領が自ら話すことも
 ないだろう、いや、忘れてくれ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, it's true the head herself does
+not speak of it. Forget I mentioned it.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308624</PointerOffset>
       <JapaneseText>最近ようやく、頭領直下の
 戦闘部隊に配属になった
 彗蔵でござる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I am merely Keizou, who has recently
+acceded to a position which reports
+directly to our clan head.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>19</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308624</PointerOffset>
       <JapaneseText>でござるが、こたびの戦いでは、
 この村を守る後衛に
 配されたでござるよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Though, due to my limited power,
+in our current battle, the most I can
+manage is to defend the village.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308628</PointerOffset>
       <JapaneseText>それでも拙者は拙者に与えれた
 任務を忠実にこなすだけに
 ござるよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Be that as it may, I will do
+all within that limited power
+to faithfully carry out my duties.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>21</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308628</PointerOffset>
       <JapaneseText>不満を申すなどとんでもない。
 若輩たる我も里のために戦える
 なら本望にござる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There is no dissatisfaction for me to
+express. As inexperienced as I am,
+defending the village is an honour.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308632</PointerOffset>
       <JapaneseText>我らの仲間がプルートの本拠で
 命を落としたでござるよ。
 残念無念、恐縮至極にござる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our allies have fallen in battle at Pluto's
+stronghold. It is deeply regrettable,
+but we are grateful for their sacrifice.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308632</PointerOffset>
       <JapaneseText>もし、あの場に拙者がいたなら
 あのようなことになっていない
 ……こともないでござるかな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I wonder, had I been there to assist
+them, would this disaster have been
+averted...? Realistically, I guess not...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308636</PointerOffset>
       <JapaneseText>もはや、我が里にプルートの
 魔物の軍勢に立ち向かえるだけの
 力があるかどうか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>At this stage, there are doubts as
+to whether we have enough power
+to fend off Pluto's army of monsters...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308636</PointerOffset>
       <JapaneseText>残された者たちも決して
 弱くはないでござるが、
 頭領がどう判断されるか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Those who remain are
+certainly not weak, but... I
+wonder what the head thinks...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308640</PointerOffset>
       <JapaneseText>ようやく世界にも
 平和が訪れたでござる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>At last, peace has
+returned to our world.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>27</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308640</PointerOffset>
       <JapaneseText>だが、いつの世もどこにでも
 謀議を持つ者がいるもの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yet, there are those who would
+plot and scheme in every age.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>27</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308640</PointerOffset>
       <JapaneseText>我らは常に
 気が抜けぬでござる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We must never
+relax our guard.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>27</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308644</PointerOffset>
       <JapaneseText>我らが願いはこの世界の
 安寧でござる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our sincerest wish is
+for true peace to
+persist in this world.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>30</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308644</PointerOffset>
       <JapaneseText>そのため、我らは未知なる敵と
 戦うのでござる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>For that reason, we do
+all within our power to fight
+against unseen foes.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>30</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308648</PointerOffset>
       <JapaneseText>戦闘要員が、対プルート戦で
 ずいぶん減ってしまったでござる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our combatants have declined
+markedly in number through the
+course of our war against Pluto.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>32</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308648</PointerOffset>
       <JapaneseText>来る次なる戦いには
 おそらく拙者も前線に投入される
 でござろうな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I suspect my humble self may be
+deployed to the front lines whenever
+our next battle should arrive.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>32</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308652</PointerOffset>
       <JapaneseText>次なる戦いのために
 鍛錬の日々は死ぬその日まで
 続くのでござる</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I must train tirelessly until the end
+of my days, so that I may carry out
+my duties in each battle and the next.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>34</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308652</PointerOffset>
       <JapaneseText>明日、どこで果てるとも
 悔いはござらん。
 任務の果てに命尽きるのならば</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I harbour no fear, whatever end tomorrow
+may lead me toward...so long as that life
+is consumed at the conclusion of my duties.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>34</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308652</PointerOffset>
       <JapaneseText>プルートを倒せず、
 志半ばにして果てた仲間たちは
 無念であったでござろうな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I can only imagine the regrets
+harboured by those who met
+their ends before Pluto's defeat.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>34</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308656</PointerOffset>
       <JapaneseText>ここは風呂です。
 戦いに傷を負ったならば
 ぜひ、癒していってください</JapaneseText>
-      <EnglishText/>
+      <EnglishText>These are the baths. If you've
+been wounded in battle, by all
+means, heal yourselves here.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>37</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308656</PointerOffset>
       <JapaneseText>……いえ、覗こうなど、
 そんな滅相もない……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...No, I will not take a
+peek! Absolutely not...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>37</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308660</PointerOffset>
       <JapaneseText>ここの風呂は、地下から
 湧いて出ている温泉です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This bath is sourced from a
+subterranean hotspring.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>39</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308660</PointerOffset>
       <JapaneseText>血行不良・関節痛・火傷
 慢性頭痛・悪性腫瘍などの
 治療によく効きます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's very effective for treating poor
+circulation, arthritis, burns, chronic
+headaches, cancer, etc.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>39</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308664</PointerOffset>
       <JapaneseText>ここは風呂です。
 手前が女風呂、
 奥が男風呂です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>These are the baths.
+In front are the women's,
+and in back are the men's.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>41</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308664</PointerOffset>
       <JapaneseText>女性の方は手前へ、
 男性の方は奥へ、
 お間違えなきよう……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Women should proceed to the front,
+and men should proceed to the back.
+Please do avoid any mistakes...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>41</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308668</PointerOffset>
       <JapaneseText>私は男風呂と女風呂を
 間違える人がいないか、
 ここで見張っております</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I stand watch here to ensure
+no one confuses the doors to
+the men's and to the women's.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>43</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308668</PointerOffset>
       <JapaneseText>いえ、私が覗くなど、
 そんなことは……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No, I don't peek or anything.
+Of course I don't...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>43</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308672</PointerOffset>
       <JapaneseText>ここは風呂です。
 温かいお湯は体だけでなく
 心も癒してくれます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>These are the baths. The warmth
+of the water heals not only the
+body, but also the mind.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>45</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308672</PointerOffset>
       <JapaneseText>ご要望あらば、
 お背中も流しますよ。
 ご遠慮なく申しつけください</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Upon request, I can also help
+wash your backs for you.
+Please don't hesitate to ask.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>45</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308676</PointerOffset>
       <JapaneseText>風呂の中ではみな裸、
 つまりみな同等の立場です。
 まさに裸のつきあい、無礼講です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In the baths, everyone is nude,
+which means everyone stands equal.
+Socialising in the nude is very freeing.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>47</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308676</PointerOffset>
       <JapaneseText>時々、森の動物たちが
 入っていることもあるかも
 しれませんが仲良くお願いします</JapaneseText>
-      <EnglishText/>
+      <EnglishText>From time to time, the animals of
+the forest may also come to take a
+dip. Please treat them well, if so.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>47</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
