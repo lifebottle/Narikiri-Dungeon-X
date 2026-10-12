@@ -21,18 +21,18 @@
     <Entry>
       <PointerOffset>270388,270452,270516,270580,270644,270708</PointerOffset>
       <JapaneseText>うつろな吟遊詩人</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wandering Minstrel</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270772,270836,270900,270964,271028,271092</PointerOffset>
       <JapaneseText>話が長い女性</JapaneseText>
-      <EnglishText>Talkative Woman</EnglishText>
+      <EnglishText>Overly Chatty Woman</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271348,271476,272308,272436</PointerOffset>
@@ -53,26 +53,26 @@
     <Entry>
       <PointerOffset>271924,271988,272052,272116,272180,272244</PointerOffset>
       <JapaneseText>早耳の女性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grapevine Woman</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272500,272564,272628,272692,272756,272820</PointerOffset>
       <JapaneseText>バジリスクを想う少年</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Basilisk-Sympathetic Boy</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272884,272948,273012,273076,273140,273204</PointerOffset>
       <JapaneseText>語り伝える男性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Legend-Telling Man</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -120,7 +120,7 @@
     <Entry>
       <PointerOffset>285884</PointerOffset>
       <JapaneseText>武器屋　ガーリック</JapaneseText>
-      <EnglishText>Weapon Shop Garlic</EnglishText>
+      <EnglishText>Weapon Shop - Garlic</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Editing</Status>
@@ -132,11 +132,12 @@
       <PointerOffset>277820</PointerOffset>
       <JapaneseText>やっほ、こちら「ガーリック」です
 ほしいものはあるかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heya, this is "Garlic." Is
+there something you're after?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277824</PointerOffset>
@@ -150,300 +151,343 @@
     <Entry>
       <PointerOffset>277828</PointerOffset>
       <JapaneseText>どうも、どうもです～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thanks, thanks much~</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277832</PointerOffset>
       <JapaneseText>ミッドガルズが滅びて久しい……
 ヴァルハラの栄えも
 いつまでのことか……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's been a long, long time since
+Midgard was destroyed... How long
+will Valhalla's prosperity last...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277832</PointerOffset>
       <JapaneseText>この世の移ろいは
 実に急く滝川のように
 早い……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The caprice of this world
+not unlike the swift currents
+of a great mountain river...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277836</PointerOffset>
       <JapaneseText>すべてがすべて砂に飲まれて、
 無に帰していく、
 この砂原こそ、すべての終着点……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>These plains of sand are the ultimate
+conclusion of all... All things will be
+devoured by the sands of time...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277840</PointerOffset>
       <JapaneseText>世は諸行無常なり。
 永久とも思われるマナも
 根っこからすべて枯れる時が来る</JapaneseText>
-      <EnglishText/>
+      <EnglishText>From ashes to ashes, from dust to dust.
+That is the way of this world. Even mana,
+now thought eternal, will one day dry up.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277840</PointerOffset>
       <JapaneseText>魔法なるものは
 このひとときの人を支える
 ただひとときの力にすぎぬ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What we call magic is but a momentary
+power, which grants momentary support to
+people who themselves last but a moment.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277844</PointerOffset>
       <JapaneseText>長い悠久の時間にくらぶれば
 人の世など
 夢まぼろしの如くなり</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The human world is as
+a fleeting dream in the
+face of true eternity.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277844</PointerOffset>
       <JapaneseText>ましてや我が生涯など
 風の前の塵に同じ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And a single life is nothing
+more than dust in the wind.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277848</PointerOffset>
       <JapaneseText>人の生涯は
 何も終えないためにあるもの。
 だからこそ人は子をなす</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The purpose of human life is
+to defy endings. And that is
+why humans create children.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277848</PointerOffset>
       <JapaneseText>親から子へ意思は受け継がれ
 少しずつ世界は形を変えていく</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A parent's will passes to their child, and in
+that way, the world changes, bit by bit.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277852</PointerOffset>
       <JapaneseText>最大の不幸は子が親よりも
 早く死ぬこと、
 それは世界的な大罪だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The greatest misfortune is for a child
+to die while their parents yet live. It's
+an affront to the very world itself.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277852</PointerOffset>
       <JapaneseText>意思は引き継がれず
 世界のうつろいの糸を
 ひとつ切ることに他ならない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A will uninherited. A single thread
+which guides the world, severed. One
+must mistake it for nothing less.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277856</PointerOffset>
       <JapaneseText>知ってるかい？
 魔女ってやつがしてる
 悪事の噂</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Have you heard? There's a rumor
+going around about that witch.
+She did something nasty again!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277856</PointerOffset>
       <JapaneseText>オアシスの水
 全部飲んじまったらしいよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She drank an entire oasis
+dry of water, or so I heard!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277856</PointerOffset>
       <JapaneseText>ひどい話だよね～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Terrible, isn't it~</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277860</PointerOffset>
       <JapaneseText>魔女の悪事、他にも
 いろいろ聞いてるよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've heard a lot about
+that witch's nasty tricks.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>18</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277860</PointerOffset>
       <JapaneseText>キャラバンを
 砂漠の落とし穴に落としたりさ、
 いろいろ派手な悪事をね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A lot of her tricks are really flashy. Like
+one time, she dug a huge pitfall and
+dropped an entire desert caravan into it!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277864</PointerOffset>
       <JapaneseText>魔女のやつ、今度は
 北の山にたくさん杉の木を
 植えたそうだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This time, that witch planted
+a bunch of cedar trees in
+the mountains to the north.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>20</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277864</PointerOffset>
       <JapaneseText>季節になるとスギ花粉が飛んで
 みんなヒドイことになるんだって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So now as the seasons change,
+there's tons of cedar pollen, and
+everyone's suffering with hay fever!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277868</PointerOffset>
       <JapaneseText>確かにハンパないこと
 やってのけてるけど、
 悪いことには違いないからね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, yes, the stuff she does is
+pretty incredible, but it's also just so
+nasty and dreadful, don't you think?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>22</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277868</PointerOffset>
       <JapaneseText>このあいだなんて、私が
 食べるはずだったアジのひらきが
 空を飛んでたんだからね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I mean, listen to this. I was trying to
+eat some dried mackerel recently, and
+then it just flew right up into the sky!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>22</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277872</PointerOffset>
       <JapaneseText>魔女が悪事をしてたって
 ウソらしいよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So it turns out all of those
+stories about the witch's nasty
+tricks might have been lies.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>24</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277872</PointerOffset>
       <JapaneseText>いや、ウソじゃないけど
 なんかみんな
 尾ひれ背ひれがついてたみたいね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Okay, well, not really lies, but
+everyone was stretching the
+truth a bit. Or so it seems!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277876</PointerOffset>
       <JapaneseText>子どもさらったってのは
 子どもが勝手に
 ついてっただけみたいだし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It turns out the children she kidnapped
+weren't really kidnapped per se, but
+followed her home without asking...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>26</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277876</PointerOffset>
       <JapaneseText>納屋に火をつけたってのも
 あれは放火したヤツが
 魔女のせいにしたっぽいね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And the barn she set fire to? Looks
+like someone else set the fire, then
+told everyone the witch did it!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>26</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277880</PointerOffset>
       <JapaneseText>やっほ、こちら「ガーリック」です
 ほしいものはあるかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Heya, this is "Garlic." Is
+there something you're after?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>28</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277884</PointerOffset>
@@ -457,33 +501,35 @@
     <Entry>
       <PointerOffset>277888</PointerOffset>
       <JapaneseText>どうも、どうもです～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thanks, thanks much~</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>30</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277892</PointerOffset>
       <JapaneseText>はい、どーも～
 「ガーリック」です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, good to see
+ya~ This is "Garlic."</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>31</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277892</PointerOffset>
       <JapaneseText>名前だけでも
 覚えてってください～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just try and remember
+our name, at least~</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277896</PointerOffset>
@@ -498,22 +544,23 @@
       <PointerOffset>277900</PointerOffset>
       <JapaneseText>お買い物は
 お済みですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is that all your
+shopping done?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>34</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277900</PointerOffset>
       <JapaneseText>どーも、おおきに！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Much obliged!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>34</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277904</PointerOffset>
