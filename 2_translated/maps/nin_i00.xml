@@ -5,18 +5,18 @@
     <Entry>
       <PointerOffset>269256,269320,269384,269832,269896,269960,270024,270088,270152</PointerOffset>
       <JapaneseText>「萬屋」主人</JapaneseText>
-      <EnglishText>"Yorozuya" Owner</EnglishText>
+      <EnglishText>"Yorozu-ya" Owner</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>269448,269512,269576,269640,269704,269768</PointerOffset>
       <JapaneseText>掟を守ったおちか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Code-Keeping Chika-chan</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -64,7 +64,7 @@
     <Entry>
       <PointerOffset>279208</PointerOffset>
       <JapaneseText>よろず屋　くりきんとん</JapaneseText>
-      <EnglishText>General Store Kurikinton</EnglishText>
+      <EnglishText>Yorozu-ya ・Kurikinton</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Editing</Status>
@@ -72,7 +72,7 @@
     <Entry>
       <PointerOffset>279231</PointerOffset>
       <JapaneseText>よろず屋　くりきんとん</JapaneseText>
-      <EnglishText>General Store Kurikinton</EnglishText>
+      <EnglishText>Yorozu-ya ・Kurikinton</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Editing</Status>
@@ -80,7 +80,7 @@
     <Entry>
       <PointerOffset>279254</PointerOffset>
       <JapaneseText>よろず屋　くりきんとん</JapaneseText>
-      <EnglishText>General Store Kurikinton</EnglishText>
+      <EnglishText>Yorozu-ya ・Kurikinton</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Editing</Status>
@@ -92,22 +92,24 @@
       <PointerOffset>271304</PointerOffset>
       <JapaneseText>いらはい、
 ここは萬屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Welkies. This
+is the Yorozu-ya.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271304</PointerOffset>
       <JapaneseText>「よろず」があるから萬屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We can make whatever you
+need yours, at the your-ozu-ya.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271308</PointerOffset>
@@ -122,183 +124,207 @@
       <PointerOffset>271312</PointerOffset>
       <JapaneseText>見てってね～
 よかったら買ってって～♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Take a good look~ And if there's
+anything you like, please buy it~</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271316</PointerOffset>
       <JapaneseText>私の娘がヴァルハラにいます。
 仲間の報告では、ヴァルハラは
 瘴気から助かっているようです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My daughter lives in Valhalla.
+Our comrades have reported
+it's safe from the miasma.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271316</PointerOffset>
       <JapaneseText>しかし、それもいつまで無事か、
 わかりません。この里のように
 結界もありませんから……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>However, there's no telling
+for how long. They don't have
+a barrier, like our village does.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271320</PointerOffset>
       <JapaneseText>ヴァルハラにいる娘のことが
 心配です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm worried for
+my daughter.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271320</PointerOffset>
       <JapaneseText>いつか、あの子には
 私の跡を継いで……
 いえ……なんでも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I want her to follow in
+my footsteps someday,
+and... No... It's nothing...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271324</PointerOffset>
       <JapaneseText>私は掟を破り、里を抜けて
 外の人間と恋に落ちました。
 彼との間に女の子がひとりいます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I broke the code, left the village,
+and fell in love with an outsider.
+We had a single girl together.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271324</PointerOffset>
       <JapaneseText>掟と感情の板ばさみになり、
 苦悩し続けた末、夫と子を捨て
 里へ戻ってきました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Trapped between my feelings and the
+code, I fretted endlessly, then cast off
+my husband and child and returned.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271328</PointerOffset>
       <JapaneseText>忍者は非情……
 しかし親子の情だけは
 別ものだと思っています</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ninja are unfeeling. However,
+I believe feelings for one's
+family are the one exception.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271328</PointerOffset>
       <JapaneseText>いつか娘だけでもこの里に……
 そう思うのです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>One day, if even just my daughter
+could come here... I think of it often.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271332</PointerOffset>
       <JapaneseText>ヴァルハラにいる娘のことが
 気がかりです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm concerned about
+my daughter in Valhalla.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271332</PointerOffset>
       <JapaneseText>３年前に家を出て以来、
 一度も会っていません。
 大きくなったに違いありません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I have not seen her since I
+left my home, three years ago.
+She must have grown since.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271336</PointerOffset>
       <JapaneseText>娘も夫も私が忍者であることは
 知りません。自分の素性を
 隠し通すのが掟ですから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Neither my daughter nor my husband
+know I am a ninja. Because hiding
+one's identity is part of the code.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271336</PointerOffset>
       <JapaneseText>夫はどうして私がいなくなったか、
 わからないでいるでしょう……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My husband most likely still
+wonders why I left them...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271336</PointerOffset>
       <JapaneseText>仕方ありません、
 一族の掟に従ったまでのこと</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But that's life. I simply
+obeyed the code.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271340</PointerOffset>
       <JapaneseText>いらはい、
 ここは萬屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Welkies. This
+is the Yorozu-ya.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271340</PointerOffset>
       <JapaneseText>「よろず」があるから萬屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We can make whatever you
+need yours, at the your-ozu-ya.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271344</PointerOffset>
@@ -313,32 +339,35 @@
       <PointerOffset>271348</PointerOffset>
       <JapaneseText>見てってね～
 よかったら買ってって～♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Take a good look~ And if there's
+anything you like, please buy it~</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>21</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271352</PointerOffset>
       <JapaneseText>いらはい、
 ここは萬屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Welkies. This
+is the Yorozu-ya.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>22</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271352</PointerOffset>
       <JapaneseText>「よろず」があるから萬屋</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We can make whatever you
+need yours, at the your-ozu-ya.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>22</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271356</PointerOffset>
@@ -353,11 +382,12 @@
       <PointerOffset>271360</PointerOffset>
       <JapaneseText>見てってね～
 よかったら買ってって～♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Take a good look~ And if there's
+anything you like, please buy it~</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>25</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
