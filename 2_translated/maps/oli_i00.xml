@@ -13,58 +13,58 @@
     <Entry>
       <PointerOffset>270164,270228,270292,270356,270420,270484</PointerOffset>
       <JapaneseText>凉しむ女性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Cooling-Off Woman</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270548,270612,270676,270740,270804,270868</PointerOffset>
       <JapaneseText>悩み多き少女</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Very Worried Girl</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271124,271188,271252</PointerOffset>
       <JapaneseText>「スパイシー」店長代理</JapaneseText>
-      <EnglishText>"Spicy" Acting Manager</EnglishText>
+      <EnglishText>"Spicy" Deputy Manager</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271316,271380,271444,271508,271572,271636</PointerOffset>
       <JapaneseText>流れ者の少女</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Drifter Girl</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271700,271764,271828,271892,271956,272020</PointerOffset>
       <JapaneseText>熱心な地勢学者</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Passionate Geologist</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272276,272340,272404,272468,272532,272596</PointerOffset>
       <JapaneseText>うんちく好きの青年</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Knowledge-Loving Young Man</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272660,272724,272788,272852,272916,272980</PointerOffset>
       <JapaneseText>ひと休みの男性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Resting Man</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -112,7 +112,7 @@
     <Entry>
       <PointerOffset>285064</PointerOffset>
       <JapaneseText>道具屋　スパイシー</JapaneseText>
-      <EnglishText>Item Shop Spicy</EnglishText>
+      <EnglishText>Item Shop - Spicy</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Editing</Status>
@@ -124,8 +124,8 @@
       <PointerOffset>277000</PointerOffset>
       <JapaneseText>いらっしゃいませ、
 道具屋「スパイシー」へようこそ</JapaneseText>
-      <EnglishText>Come on in!
-Welcome to the "Spicy" Item Shop!</EnglishText>
+      <EnglishText>Come on in. Welcome to
+the item shop, "Spicy".</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -144,8 +144,8 @@ Welcome to the "Spicy" Item Shop!</EnglishText>
       <PointerOffset>277008</PointerOffset>
       <JapaneseText>ありがとうございました。
 またのご来店、お待ちしております</JapaneseText>
-      <EnglishText>Thank you very much!
-I'll be waiting for you to come again!</EnglishText>
+      <EnglishText>Thank you very much. I sincerely
+hope you'll shop with us again.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
@@ -155,8 +155,8 @@ I'll be waiting for you to come again!</EnglishText>
       <PointerOffset>277012</PointerOffset>
       <JapaneseText>外は暑いけど
 屋内は涼しいの</JapaneseText>
-      <EnglishText>It's incredibly hot outside,
-but nice and cool in here.</EnglishText>
+      <EnglishText>It's hot outside, but
+nice and cool in here.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -166,7 +166,8 @@ but nice and cool in here.</EnglishText>
     <Entry>
       <PointerOffset>277012</PointerOffset>
       <JapaneseText>だから、ずっと中にいるのよ</JapaneseText>
-      <EnglishText>That's why I spend so much time here!</EnglishText>
+      <EnglishText>Hence why I've stayed
+here for so long.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -178,9 +179,9 @@ but nice and cool in here.</EnglishText>
       <JapaneseText>あ～すずしー。
 買うものは何もないけど
 お邪魔してるの</JapaneseText>
-      <EnglishText>Aaah, how refreshing...
-There's nothing here I wanna buy,
-but I still just had to come in here!</EnglishText>
+      <EnglishText>Aaah, how refreshing~. I'm
+not even here to shop, but I
+spend all my time here anyway.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -190,7 +191,9 @@ but I still just had to come in here!</EnglishText>
     <Entry>
       <PointerOffset>277016</PointerOffset>
       <JapaneseText>外は暑いからね</JapaneseText>
-      <EnglishText>It's just so hot outside!</EnglishText>
+      <EnglishText>It's just so
+hot outside,
+you know?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -201,8 +204,9 @@ but I still just had to come in here!</EnglishText>
       <PointerOffset>277020</PointerOffset>
       <JapaneseText>ちょっとこの街は
 暑すぎよね</JapaneseText>
-      <EnglishText>This town's just
-too hot!</EnglishText>
+      <EnglishText>This town's a
+little bit too
+hot, isn't it?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
@@ -213,7 +217,9 @@ too hot!</EnglishText>
       <PointerOffset>277020</PointerOffset>
       <JapaneseText>おかげで
 街の木々も枯れてぐったりよ？</JapaneseText>
-      <EnglishText>Is that why all the trees here are wilting?</EnglishText>
+      <EnglishText>Maybe that's why
+all the trees look
+so dry and listless?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
@@ -225,8 +231,9 @@ too hot!</EnglishText>
       <JapaneseText>暑いと木や花も
 ぐったりなっちゃうのね。
 驚きだわ</JapaneseText>
-      <EnglishText>I'm surprised at how much even the flowers
-and trees feel this heat.</EnglishText>
+      <EnglishText>Even the trees and flowers
+feel listless in the heat, huh?
+I'm a little shocked, really!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
@@ -237,8 +244,9 @@ and trees feel this heat.</EnglishText>
       <JapaneseText>外が暑すぎて
 一歩たりともここから
 出られないの</JapaneseText>
-      <EnglishText>It's so hot outside, I don't wanna take
-even a single step out of this store.</EnglishText>
+      <EnglishText>It way too hot outside.
+I don't want to take even
+single step out there.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
@@ -249,8 +257,8 @@ even a single step out of this store.</EnglishText>
       <PointerOffset>277028</PointerOffset>
       <JapaneseText>ふぁ～
 すずしー……</JapaneseText>
-      <EnglishText>Aaah...
-How refreshing...</EnglishText>
+      <EnglishText>Aaah... How
+refreshing~...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
@@ -261,8 +269,8 @@ How refreshing...</EnglishText>
       <PointerOffset>277032</PointerOffset>
       <JapaneseText>外が暑くて外に出られない、
 すなわちお家に帰れない……</JapaneseText>
-      <EnglishText>I dare not go out in this heat...
-That means I can't go home though...</EnglishText>
+      <EnglishText>It's too hot to go outside, but...
+In that case, I can't go home...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
@@ -273,8 +281,8 @@ That means I can't go home though...</EnglishText>
       <PointerOffset>277032</PointerOffset>
       <JapaneseText>そろそろ家に帰らないと
 お家の人に怒られるかも</JapaneseText>
-      <EnglishText>I wonder if my family back home will
-get mad at me if I stay here...</EnglishText>
+      <EnglishText>My family will probably get
+mad if I don't hurry back soon.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
@@ -285,8 +293,9 @@ get mad at me if I stay here...</EnglishText>
       <PointerOffset>277036</PointerOffset>
       <JapaneseText>オリーブとれないのに
 なぜかオリーブヴィレッジ</JapaneseText>
-      <EnglishText>We can't grow olives,
-but we're still called Olive Village.</EnglishText>
+      <EnglishText>You won't find any olives around
+here, but for some reason,
+it's still called Olive Village.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
@@ -297,8 +306,8 @@ but we're still called Olive Village.</EnglishText>
       <PointerOffset>277036</PointerOffset>
       <JapaneseText>なんでだろーな
 ナゾだ～、まったくナゾだ～</JapaneseText>
-      <EnglishText>Why, why, why is that?
-It's a mystery! A mega mystery~!</EnglishText>
+      <EnglishText>Why, why, why is that? It's a
+mystery! A big, big mystery~!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
@@ -309,8 +318,8 @@ It's a mystery! A mega mystery~!</EnglishText>
       <PointerOffset>277040</PointerOffset>
       <JapaneseText>砂漠なのに
 水が湧き続けてるんだよ</JapaneseText>
-      <EnglishText>We're in the desert, but there's
-plenty of water here!</EnglishText>
+      <EnglishText>We're in the desert, but the
+water just keeps gushing up.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>17</Id>
@@ -321,8 +330,8 @@ plenty of water here!</EnglishText>
       <PointerOffset>277040</PointerOffset>
       <JapaneseText>なんでだろーな
 ナゾだ～、大変なナゾだ～</JapaneseText>
-      <EnglishText>Why, why, why is that?
-It's a mystery! A super mystery~!</EnglishText>
+      <EnglishText>Why, why, why is that? It's a
+mystery! A big, big mystery~!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>17</Id>
@@ -334,8 +343,8 @@ It's a mystery! A super mystery~!</EnglishText>
       <JapaneseText>街の木々が枯れかかってる～。
 なんでだろ～
 なんでかな～</JapaneseText>
-      <EnglishText>The trees in town are all whithering down!
-Why, why, oh why is that~?
+      <EnglishText>The trees in town are all drying up~.
+But why~? Why, why, why is that~?
 </EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -347,7 +356,8 @@ Why, why, oh why is that~?
       <PointerOffset>277044</PointerOffset>
       <JapaneseText>水をやっても
 戻らないよ～</JapaneseText>
-      <EnglishText>The water I take ain't coming back either!</EnglishText>
+      <EnglishText>Even if you water them,
+they get drier and drier~</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>19</Id>
@@ -358,8 +368,8 @@ Why, why, oh why is that~?
       <PointerOffset>277048</PointerOffset>
       <JapaneseText>石になってるのは
 なんで人間だけなの～？</JapaneseText>
-      <EnglishText>Only people got turned into stone.
-Why, why, why is that~?</EnglishText>
+      <EnglishText>But why, why is it only the
+humans who turn to stone~?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>21</Id>
@@ -370,8 +380,8 @@ Why, why, why is that~?</EnglishText>
       <PointerOffset>277048</PointerOffset>
       <JapaneseText>魔物は石にならないの
 なんでだろ～</JapaneseText>
-      <EnglishText>Monsters didn't get turned to rocks!
-Why oh why, why is that~?</EnglishText>
+      <EnglishText>The monsters never turn to
+stone! Why, why, why is that~?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>21</Id>
@@ -383,9 +393,9 @@ Why oh why, why is that~?</EnglishText>
       <JapaneseText>なんでなんで？
 どうしてこの街は
 砂だらけなの？</JapaneseText>
-      <EnglishText>Why, oh why? 
-There's so much sand everywhere!
-Everywhere in town, there's so much sand!</EnglishText>
+      <EnglishText>Why, why, why? Why
+is this town covered in
+so, sooo much sand?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
@@ -396,8 +406,8 @@ Everywhere in town, there's so much sand!</EnglishText>
       <PointerOffset>277052</PointerOffset>
       <JapaneseText>掘っても掘っても
 どこまでも砂なの？</JapaneseText>
-      <EnglishText>You can dig and dig all you want
-but you know what you find? More sand!</EnglishText>
+      <EnglishText>If I dig and dig and dig, will
+I still find nothing but sand?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
@@ -408,8 +418,8 @@ but you know what you find? More sand!</EnglishText>
       <PointerOffset>277056</PointerOffset>
       <JapaneseText>なんで世界はこんなに
 ふしぎなことばっかなの？</JapaneseText>
-      <EnglishText>Why, oh why is that? Why is the world
-full of nothing but mysteries?</EnglishText>
+      <EnglishText>But why, why is everything in
+this world so, soo mysterious?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
@@ -421,8 +431,9 @@ full of nothing but mysteries?</EnglishText>
       <JapaneseText>なんでみんな
 疑問に思わないで
 生きてられるの？</JapaneseText>
-      <EnglishText>I really don't get it, why is that?
-Why doesn't this just drive everyone mad?</EnglishText>
+      <EnglishText>How and *why* does everyone
+just accept it all and go on
+living? With no doubts at all!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
@@ -432,7 +443,7 @@ Why doesn't this just drive everyone mad?</EnglishText>
     <Entry>
       <PointerOffset>277056</PointerOffset>
       <JapaneseText>なんでなんで～</JapaneseText>
-      <EnglishText>Why, oh why? Why is that~?</EnglishText>
+      <EnglishText>Why, why? Why is that~?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
@@ -443,8 +454,8 @@ Why doesn't this just drive everyone mad?</EnglishText>
       <PointerOffset>277060</PointerOffset>
       <JapaneseText>いらっしゃいませ、
 道具屋「スパイシー」へようこそ</JapaneseText>
-      <EnglishText>Come on in!
-Welcome to the "Spicy" Item Shop!</EnglishText>
+      <EnglishText>Come on in. Welcome to
+the item shop, "Spicy".</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>28</Id>
@@ -463,8 +474,8 @@ Welcome to the "Spicy" Item Shop!</EnglishText>
       <PointerOffset>277068</PointerOffset>
       <JapaneseText>ありがとうございました。
 またのご来店、お待ちしております</JapaneseText>
-      <EnglishText>Thank you very much!
-I'll be waiting for you to come again!</EnglishText>
+      <EnglishText>Thank you very much. I sincerely
+hope you'll shop with us again.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>30</Id>
@@ -474,8 +485,8 @@ I'll be waiting for you to come again!</EnglishText>
       <PointerOffset>277072</PointerOffset>
       <JapaneseText>いらっしゃいませぇ
 道具屋「スパイシー」でぇす</JapaneseText>
-      <EnglishText>Weeelllcome.
-This is the item shop. It's "Spicyyyy"...</EnglishText>
+      <EnglishText>Weeelllcome. Thiis iis the
+item shop, "Spiicyyy".</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>31</Id>
@@ -493,7 +504,8 @@ This is the item shop. It's "Spicyyyy"...</EnglishText>
     <Entry>
       <PointerOffset>277080</PointerOffset>
       <JapaneseText>またのお越しをお待ちしておりまぁす</JapaneseText>
-      <EnglishText>I'll be waIting for you to come baaack...</EnglishText>
+      <EnglishText>I sincerely hoope you'll
+come by agaaain.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>33</Id>
@@ -504,9 +516,9 @@ This is the item shop. It's "Spicyyyy"...</EnglishText>
       <JapaneseText>野を越え、山越え三千里、
 旅を続け、流れ流れて
 次は砂漠</JapaneseText>
-      <EnglishText>We've gone through the fields, thousands of miles
-across the mountains, traveling on and on and on
-and now we're in the desert.</EnglishText>
+      <EnglishText>We've gone over fields, over mountains,
+thousands of miles, traveling on, drifting
+and drifting, and now we're in the desert.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>34</Id>
@@ -517,8 +529,8 @@ and now we're in the desert.</EnglishText>
       <PointerOffset>277084</PointerOffset>
       <JapaneseText>そろそろどこかの街に
 ちゃんと住みたい……</JapaneseText>
-      <EnglishText>I hope we find somewhere nice
-to settle down soon...</EnglishText>
+      <EnglishText>I want to settle down and
+start living in a town already...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>34</Id>
@@ -528,7 +540,7 @@ to settle down soon...</EnglishText>
     <Entry>
       <PointerOffset>277084</PointerOffset>
       <JapaneseText>お友達がほしい！</JapaneseText>
-      <EnglishText>I wish I could have friends!</EnglishText>
+      <EnglishText>I want to make friends!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>34</Id>
@@ -539,7 +551,8 @@ to settle down soon...</EnglishText>
       <PointerOffset>277088</PointerOffset>
       <JapaneseText>私はお父さんとともに
 ずっと旅を続けているの</JapaneseText>
-      <EnglishText>Dad and I are always on the move.</EnglishText>
+      <EnglishText>I've been traveling around
+with my dad for a long time.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>37</Id>
@@ -551,9 +564,9 @@ to settle down soon...</EnglishText>
       <JapaneseText>お父さんは地勢学者で
 いろんなところの
 石や土を調べるのが仕事なんだよ</JapaneseText>
-      <EnglishText>Dad's a topography scholar, so it's his job
-to look for and study different kinds of rocks
-and dirt and such.</EnglishText>
+      <EnglishText>My dad's a geologist, so it's his
+job to study the rocks and soil
+from all kinds of different places.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>37</Id>
@@ -564,8 +577,8 @@ and dirt and such.</EnglishText>
       <PointerOffset>277092</PointerOffset>
       <JapaneseText>私、お父さんと一緒に
 ずっと旅を続けているんだ</JapaneseText>
-      <EnglishText>Because of that, we're always
-traveling all over the world.</EnglishText>
+      <EnglishText>I've traveled around with
+my dad for a long time.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>39</Id>
@@ -577,7 +590,9 @@ traveling all over the world.</EnglishText>
       <JapaneseText>でも、私もそろそろ
 お父さんから独立して、
 一人で暮らしたいよ～</JapaneseText>
-      <EnglishText>Someday, I want to live on my own though...</EnglishText>
+      <EnglishText>But, I want to strike
+off and live on my
+own sometime soon.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>39</Id>
@@ -589,8 +604,9 @@ traveling all over the world.</EnglishText>
       <JapaneseText>私のお父さんは
 “転勤族”って言って
 色んなところで働いてるの</JapaneseText>
-      <EnglishText>My dad's job means he gets
-to travel all over the world for work!</EnglishText>
+      <EnglishText>My dad's job involves a lot
+of traveling. He does work
+in lots of different places.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>41</Id>
@@ -601,8 +617,8 @@ to travel all over the world for work!</EnglishText>
       <PointerOffset>277096</PointerOffset>
       <JapaneseText>でも、せっかくできたお友達と
 別れたくないよ～</JapaneseText>
-      <EnglishText>It's really hard to make friends
-like this, though...</EnglishText>
+      <EnglishText>But, I worked so hard to make
+friends. I don't wanna leave them~</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>41</Id>
@@ -614,9 +630,9 @@ like this, though...</EnglishText>
       <JapaneseText>私、このお店で働いて
 お金を貯めて
 お父さんから独立するの</JapaneseText>
-      <EnglishText>So I'm gonna work at this shop,
-save a lotta money, and then
-I'll be able to live on my own!</EnglishText>
+      <EnglishText>So I'm going to work at this
+shop, save up some money, and
+then I'll strike off on my own.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>43</Id>
@@ -627,8 +643,8 @@ I'll be able to live on my own!</EnglishText>
       <PointerOffset>277100</PointerOffset>
       <JapaneseText>お父さんと一緒に仕事を転々と
 しなくても済むように！</JapaneseText>
-      <EnglishText>That way, I won't have to constantly
-be on the move with my dad anymore!</EnglishText>
+      <EnglishText>That way, I won't have to move
+around for my dad's work anymore!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>43</Id>
@@ -639,8 +655,8 @@ be on the move with my dad anymore!</EnglishText>
       <PointerOffset>277104</PointerOffset>
       <JapaneseText>いらっしゃいませ～
 何かご注文は～……</JapaneseText>
-      <EnglishText>Welcooome!
-What can I get for youuu?</EnglishText>
+      <EnglishText>Welcooome~! What
+can I do for you~...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>45</Id>
@@ -650,7 +666,8 @@ What can I get for youuu?</EnglishText>
     <Entry>
       <PointerOffset>277104</PointerOffset>
       <JapaneseText>どう？　様になってる？</JapaneseText>
-      <EnglishText>Well? How did that sound?</EnglishText>
+      <EnglishText>How was that? Did
+I sound the part?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>45</Id>
@@ -661,7 +678,8 @@ What can I get for youuu?</EnglishText>
       <PointerOffset>277108</PointerOffset>
       <JapaneseText>私は世界の地理を
 調べて回っているものです</JapaneseText>
-      <EnglishText>I'm traveling the world researching geography.</EnglishText>
+      <EnglishText>I'm a traveler who studies
+the world's geography.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>47</Id>
@@ -673,8 +691,9 @@ What can I get for youuu?</EnglishText>
       <JapaneseText>この前行った、
 スルト深林というところは、
 奇妙なところでした</JapaneseText>
-      <EnglishText>I went to the Surt Deepwoods, earlier.
-It's such a strange place, indeed.</EnglishText>
+      <EnglishText>The Surt Deepwoods,
+where I went before, are
+a very strange place.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>47</Id>
@@ -686,9 +705,9 @@ It's such a strange place, indeed.</EnglishText>
       <JapaneseText>スルト深林はそれほど
 凶暴な魔物もいませんが、
 何か奇妙な感じなのです</JapaneseText>
-      <EnglishText>There aren't any particularly
-strong monsters there, but 
-it has such a strange atmosphere.</EnglishText>
+      <EnglishText>There aren't any terribly strong
+monsters there, yet something
+about it still feels quite strange.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>49</Id>
@@ -700,8 +719,9 @@ it has such a strange atmosphere.</EnglishText>
       <JapaneseText>ところどころ土の錆の含有量が
 高かったり、どことなく空気に
 刺激臭があったり……</JapaneseText>
-      <EnglishText>The earth around there is full of rust,
-and the air has this foul smell...</EnglishText>
+      <EnglishText>The soil in certain spots contains an
+unusually high concentration of rust,
+and there's this faint, sharp odor...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>49</Id>
@@ -713,8 +733,9 @@ and the air has this foul smell...</EnglishText>
       <JapaneseText>あれは以前にも、
 どこかで嗅いだ覚えのある
 匂いです</JapaneseText>
-      <EnglishText>I know I recognize that scent
-from somewhere.</EnglishText>
+      <EnglishText>I know I've smelled
+the exact same scent
+before, somewhere.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>49</Id>
@@ -726,9 +747,9 @@ from somewhere.</EnglishText>
       <JapaneseText>スルト深林で嗅いだ匂いは
 あれは瘴気です、
 魔界のことわりでできたガス</JapaneseText>
-      <EnglishText>That smell in the Surt Deepwoods
-was miasma! Gas that appears as a
-warning from the realm of demons!</EnglishText>
+      <EnglishText>What I smelled in the Surt Deepwoods
+was miasma. It's a sign of the daemon
+world—a gas which forms naturally there.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>52</Id>
@@ -739,9 +760,9 @@ warning from the realm of demons!</EnglishText>
       <PointerOffset>277116</PointerOffset>
       <JapaneseText>ご存知ですか？
 しかし、どうしてあの森に瘴気が？</JapaneseText>
-      <EnglishText>Do you know about this?
-I wonder why there would be 
-miasma in the forest though?</EnglishText>
+      <EnglishText>Are you familiar with it?
+Though, why would there
+be miasma in those woods?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>52</Id>
@@ -753,9 +774,9 @@ miasma in the forest though?</EnglishText>
       <JapaneseText>以前、スルト深林で瘴気の気配が
 感じたのは、魔物が出てきたこと
 と関係あるのでしょうか</JapaneseText>
-      <EnglishText>Do you suppose the misama
-at the Surt Deepwoods had anything
-to do with the demons that appeared?</EnglishText>
+      <EnglishText>I wonder if there's some relationship
+between the monsters which appeared
+and the traces of miasma I noticed before.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>54</Id>
@@ -767,8 +788,9 @@ to do with the demons that appeared?</EnglishText>
       <JapaneseText>魔物は、もともと魔界のもの
 だったという話も
 あるくらいですから</JapaneseText>
-      <EnglishText>After all, they say even the common
-monsters once came from the demon realm.</EnglishText>
+      <EnglishText>After all, it's been said that the
+origins of all monsters can be
+traced back to the daemon world.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>54</Id>
@@ -780,9 +802,9 @@ monsters once came from the demon realm.</EnglishText>
       <JapaneseText>娘がこの村に住むと
 言っているのです！
 どうしましょう！</JapaneseText>
-      <EnglishText>My daughter's saying she's gonna live
-here from now on!
-What am I gonna do!?</EnglishText>
+      <EnglishText>My daughter's saying she's
+going to stay and live in this
+village! What should I do!?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>56</Id>
@@ -794,8 +816,9 @@ What am I gonna do!?</EnglishText>
       <JapaneseText>私なしでなど、
 うちの娘は到底
 生きていけないというのに……</JapaneseText>
-      <EnglishText>I even told her she wouldn't be able
-to make a living without me, too...</EnglishText>
+      <EnglishText>I told her there's no way
+she can survive without
+me, and yet, she still...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>56</Id>
@@ -807,8 +830,9 @@ to make a living without me, too...</EnglishText>
       <JapaneseText>私があちらの村、こちらの村へと
 移動するのが娘には
 気に入らなかったみたいなのです</JapaneseText>
-      <EnglishText>Seems my daughter wasn't a fan of
-how I'd go from village to village.</EnglishText>
+      <EnglishText>It seems my daughter didn't take
+to my lifestyle of always moving
+from one village to the next.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>58</Id>
@@ -819,8 +843,8 @@ how I'd go from village to village.</EnglishText>
       <PointerOffset>277128</PointerOffset>
       <JapaneseText>独り立ちするとか
 言い出して……</JapaneseText>
-      <EnglishText>She said she wanted
-to be independant and such...</EnglishText>
+      <EnglishText>"I'm going to set out on
+my own," she told me...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>58</Id>
@@ -831,8 +855,9 @@ to be independant and such...</EnglishText>
       <PointerOffset>277128</PointerOffset>
       <JapaneseText>世界の色んなところへ行けて
 喜んでると思ってたのに……</JapaneseText>
-      <EnglishText>...Here I thought she was happy
-seeing all these different places, too...</EnglishText>
+      <EnglishText>And here I was thinking, "She's
+able to see all these different
+places. She'll be so happy"...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>58</Id>
@@ -843,8 +868,8 @@ seeing all these different places, too...</EnglishText>
       <PointerOffset>277132</PointerOffset>
       <JapaneseText>わしの道具屋「スパイシー」じゃ！
 ゆっくりご覧あれ</JapaneseText>
-      <EnglishText>This is my "Spicy" item shop!
-Please, take your time.</EnglishText>
+      <EnglishText>This's my item shop, "Spicy"!
+Relax and take a look around.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>61</Id>
@@ -863,8 +888,8 @@ Please, take your time.</EnglishText>
       <PointerOffset>277140</PointerOffset>
       <JapaneseText>御用入りなら、
 またご来店するのじゃ！</JapaneseText>
-      <EnglishText>If you need anythin' else,
-feel free to come on back!</EnglishText>
+      <EnglishText>If you ever need anything,
+be sure to come back!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>63</Id>
@@ -875,8 +900,8 @@ feel free to come on back!</EnglishText>
       <JapaneseText>この辺りの家が
 少し普通より高い位置にあるのは
 なんでか知ってるかい？</JapaneseText>
-      <EnglishText>Do you know why the houses around 
-here are a little higher up than the others?</EnglishText>
+      <EnglishText>Do you know why the houses in these
+parts sit a little higher than normal?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>64</Id>
@@ -887,8 +912,8 @@ here are a little higher up than the others?</EnglishText>
       <PointerOffset>277144</PointerOffset>
       <JapaneseText>砂で家が
 埋まってしまうからだよ</JapaneseText>
-      <EnglishText>It's because the others
-are being buried in sand...</EnglishText>
+      <EnglishText>'Cause otherwise, they'd
+be buried in the sand.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>64</Id>
@@ -899,251 +924,285 @@ are being buried in sand...</EnglishText>
       <PointerOffset>277148</PointerOffset>
       <JapaneseText>何年か一度、
 「砂どけ」をするんだけどね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You see, once every few
+years, we do a "sand clearing."</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>66</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277148</PointerOffset>
       <JapaneseText>いちいち、めんどうだから
 少し家の位置を
 高く持ち上げてるんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But it's always a pain,
+so we started building
+our houses a little higher.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>66</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277152</PointerOffset>
       <JapaneseText>どうして、砂漠の中に
 オアシスがあるか
 知ってるかい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So, do you know why
+there's an oasis out in
+the middle of the desert?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>68</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277152</PointerOffset>
       <JapaneseText>それはこの辺りの地盤が
 砂漠の他の場所と違って、
 水を吸い上げるからなんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, the planet's crust around here is
+a little different from the rest of the
+desert's. It pushes the water upwards.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>68</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277156</PointerOffset>
       <JapaneseText>中には人が井戸を掘った
 ウソもののオアシスもあるらしいけど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've heard some oases are really just
+wells people dug up. Artificial, right?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>70</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277156</PointerOffset>
       <JapaneseText>オリーブヴィレッジは
 正真正銘本物のオアシスだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Olive Village's is the real deal.
+This is an actual, genuine oasis.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>70</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277160</PointerOffset>
       <JapaneseText>君たちは砂漠の中で
 蜃気楼を見たことがあるかい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Have you guys seen any mirages
+while you've been in the desert?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>72</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277160</PointerOffset>
       <JapaneseText>温度差の関係で光が歪んで、
 遠くのものが近くに見える、
 それが蜃気楼だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mirages are caused by heat differentials
+curving the light in the air, and making
+distant things look like they're nearby.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>72</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277164</PointerOffset>
       <JapaneseText>蜃気楼は海の上の
 巨大なハマグリが見せる幻だとも
 言われているね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Though, I've also heard it said that
+mirages are illusions cast by giant
+clams that live atop the ocean.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>74</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277164</PointerOffset>
       <JapaneseText>まぁ、それは言い伝え、
 なんだけどさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, but that's just
+a legend, y'know?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>74</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277168</PointerOffset>
       <JapaneseText>暑い暑い……
 外は暑いから、
 このお店でひと休み</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's hot, so hot... It's hot
+outside, so I'm taking
+a little rest in here.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>76</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277168</PointerOffset>
       <JapaneseText>お店の人の視線が痛いけど
 気にしちゃいられないよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I feel like the staff are staring
+bullets at me, but I'll just
+have to ignore that.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>76</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277172</PointerOffset>
       <JapaneseText>ここんとこ
 ずっとひと休みだけどね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Though, I *have* been
+resting here a lot, lately.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>78</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277172</PointerOffset>
       <JapaneseText>いいじゃないの、
 人生忙しいんだから
 たまにひと休みでも</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But that's alright, isn't it? Life's
+always so busy, so you gotta
+take a break when you can.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>78</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277176</PointerOffset>
       <JapaneseText>ひと休みひと休み……
 だって疲れたんだもん、
 人生に</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just a rest, a little rest... I
+mean, I'm tired. Life's tiring,
+you know? You get me, right?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>80</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277176</PointerOffset>
       <JapaneseText>仕事はもちろん休職中。
 求職中じゃなくてね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm off of work, of
+course. Not *laid* off of
+work, though! Just off.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>80</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277180</PointerOffset>
       <JapaneseText>長い人生
 焦っても仕方ないって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's a long life, so
+there's no sense
+trying to rush it.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>82</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277180</PointerOffset>
       <JapaneseText>この辺りでゆったりのんびりと
 構えておきましょうって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll just keep chillin' out,
+maxin', relaxin' around here.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>82</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277184</PointerOffset>
       <JapaneseText>暑い暑い……
 この店、やっぱり涼しいね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's hot, so hot... But it's
+always so cool in this shop.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>84</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277184</PointerOffset>
       <JapaneseText>買うものはないけど、
 お金もないけど、
 いいよね、ちょっとくらい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There's nothing I need to buy, and I
+don't even have any money on me, but
+hey, no big deal, I'll just vibe for a sec.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>84</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277188</PointerOffset>
       <JapaneseText>そろそろ本気を出すかなぁ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe I should start taking
+life a bit more seriously...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>86</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277188</PointerOffset>
       <JapaneseText>バジリスクが絶滅したら
 本気で仕事探すよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll start looking for a job once the
+basilisks go extinct... Yeah, for real.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>86</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
