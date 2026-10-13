@@ -13,18 +13,18 @@
     <Entry>
       <PointerOffset>272336,272400,272464,272528,272592,272656</PointerOffset>
       <JapaneseText>時を越えた女性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Time-Skipped Woman</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272720,272784,272848,272912,272976,273040</PointerOffset>
       <JapaneseText>考える男性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Pensive Man</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273296,273360,273424</PointerOffset>
@@ -37,18 +37,18 @@
     <Entry>
       <PointerOffset>273488,273552,273616,273680,273744,273808</PointerOffset>
       <JapaneseText>魅惑のウェイトレス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Captivating Waitress</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273872,273936,274000,274064,274128,274192</PointerOffset>
       <JapaneseText>怒れる男性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Raging Man</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274256,274320,274384</PointerOffset>
@@ -61,18 +61,18 @@
     <Entry>
       <PointerOffset>274448,274512,274576,274640,274704,274768</PointerOffset>
       <JapaneseText>かたことな少女</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Baby-Talking Girl</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274832,274896,274960,275024,275088,275152</PointerOffset>
       <JapaneseText>勇者になりたい男性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hero-Wannabe Man</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -136,7 +136,7 @@
     <Entry>
       <PointerOffset>287240</PointerOffset>
       <JapaneseText>食材屋　サーロイン</JapaneseText>
-      <EnglishText>Grocery Store Sirloin</EnglishText>
+      <EnglishText>Grocery Store - Sirloin</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Editing</Status>
@@ -149,11 +149,13 @@
       <JapaneseText>いらっしゃいませ、
 食料品店「サーロイン」です
 ご入用は何ですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hello and welcome. We're the
+grocery goods store, "Sirloin."
+What is it you're looking for?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279180</PointerOffset>
@@ -168,286 +170,327 @@
       <PointerOffset>279184</PointerOffset>
       <JapaneseText>どうも、
 ありがとうございます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thank you very, very much.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279188</PointerOffset>
       <JapaneseText>私は70年前、
 バジリスク退治に出て
 砂漠で石にされてしまいました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Seventy years ago, I went out
+into the desert to kill basilisks,
+but got turned to stone.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279188</PointerOffset>
       <JapaneseText>つい先ごろ、元に戻してもらい
 世の中が変わっていて
 びっくりです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I returned to normal just recently,
+bot now the world around me is
+so shockingly different.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279192</PointerOffset>
       <JapaneseText>この街だけは
 70年前と変わりません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This town's about the only
+place that hasn't changed.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279192</PointerOffset>
       <JapaneseText>おちつく～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I feel so at
+ease here~</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279196</PointerOffset>
       <JapaneseText>私は70年の間
 バジリスクに石にされ
 砂漠の中に立っていました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>After being turned to stone
+by a basilisk, I was left out
+in the desert for 70 years.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279196</PointerOffset>
       <JapaneseText>その間の記憶は
 まったくありません……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It was a long time, but I have
+no memories of it at all...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279200</PointerOffset>
       <JapaneseText>その間、流砂にもまれて
 水に沈んで
 見世物にされたみたいです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It seems I sank into quicksand, then
+into water, and then I was included
+in an odd sideshow collection.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279200</PointerOffset>
       <JapaneseText>でも、全然覚えていないのです……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But, I don't remember
+even a single thing...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279204</PointerOffset>
       <JapaneseText>私は長い間、
 バジリスクに石にされたのですが、
 つくづく幸せだと思います</JapaneseText>
-      <EnglishText/>
+      <EnglishText>After a basilisk turned me to stone, I was
+left that way for a long time, but really,
+I think I was extremely lucky.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279204</PointerOffset>
       <JapaneseText>中にはバジリスクの
 鋭い牙で命を落としたものも
 いたそうですから……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I mean, a lot of people
+lost their lives to the
+basilisks' sharp fangs...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279208</PointerOffset>
       <JapaneseText>ものは考えようです。
 石にされたからと言って
 嘆く必要もないのですね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Life is what you make of it, really.
+There's no sense in bemoaning mine
+just because I was turned to stone.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279208</PointerOffset>
       <JapaneseText>いえ、嘆く暇も
 なかったのですが</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, not that I really got a
+chance to be upset over it.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279212</PointerOffset>
       <JapaneseText>砂漠にはたくさん
 石像があるんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There are a great many
+stone statues in the desert.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>16</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279212</PointerOffset>
       <JapaneseText>あれは昔
 バジリスクに石にされた人なのだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Those are all people who
+were long ago turned to
+stone by the basilisks.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>16</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279216</PointerOffset>
       <JapaneseText>砂漠の石像を商売に使えないかと
 思ったんだがなんか
 やっぱ気持ち悪いな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I considered if I might be able to
+sell those statues for a tidy profit,
+but...it felt wrong, you know?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>18</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279216</PointerOffset>
       <JapaneseText>なんたって
 もともと生身の人だし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They were all real, living
+people once, after all.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279220</PointerOffset>
       <JapaneseText>バジリスクは少なくなったが
 石化された人は今だ、
 砂の中から発見される</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There aren't many basilisks left these
+days, but the people they petrified are
+often found within the sands even now.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>20</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279220</PointerOffset>
       <JapaneseText>砂の中から手がにょきっと
 出てるの見た人間は皆
 心臓が止まる想いだと言っているな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The people who find them always say
+it felt like their heart stopped, seeing a
+human hand jutting up from the sands...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279224</PointerOffset>
       <JapaneseText>砂漠を歩けば必ず
 石化している人間に会う
 と言っても言いすぎではないな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's not exaggerating to say you're
+guaranteed to find one or two, if
+you wander the desert a while.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>22</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279228</PointerOffset>
       <JapaneseText>砂漠で石にされた人が
 何年も経ってから元に戻って
 帰ってくるケースは稀だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There are cases where—after many, many
+years in the desert—someone once turned
+to stone returns to normal, but it's rare.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279228</PointerOffset>
       <JapaneseText>多くは風にさらされ、
 あるいは人に破壊され
 ただの残骸になってしまうからだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Most of them are worn away by the wind,
+or smashed up by humans, and end up as
+nothing more than dead bodies, really.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279232</PointerOffset>
       <JapaneseText>最悪なのは体の一部だけが
 壊れたりした人だな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But the worst cases are the
+ones where their bodies are
+mostly intact, but for one part.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279232</PointerOffset>
       <JapaneseText>時々、そういう石像を
 見つけて気の毒に
 思うのだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I find statues like that
+once in a while, and I
+always feel bad for them...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279236</PointerOffset>
       <JapaneseText>いらっしゃいませ、
 食料品店「サーロイン」です
 ご入用は何ですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hello and welcome. We're the
+grocery goods store, "Sirloin."
+What is it you're looking for?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>27</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279240</PointerOffset>
@@ -462,33 +505,34 @@
       <PointerOffset>279244</PointerOffset>
       <JapaneseText>どうも、
 ありがとうございます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thank you very, very much.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>29</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279248</PointerOffset>
       <JapaneseText>こんにちは、
 食材屋「サーロイン」へ
 ようこそ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey there. Welcome to the
+grocery store, "Sirloin."</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>30</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279248</PointerOffset>
       <JapaneseText>何か買っていって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Buy something, won't you?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>30</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279252</PointerOffset>
@@ -502,326 +546,367 @@
     <Entry>
       <PointerOffset>279256</PointerOffset>
       <JapaneseText>おいしくいただいてくださいね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hope it's nice
+and yummy.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>33</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279260</PointerOffset>
       <JapaneseText>このお店では
 お酒も出しているの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We even sell
+alcohol here.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>34</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279260</PointerOffset>
       <JapaneseText>でもぉ……
 あなたたちは未成年だから
 ダメよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Buuut... Aren't you
+underaged? We can't
+sell to you, sorry...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>34</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279264</PointerOffset>
       <JapaneseText>いらっしゃいませ～
 ……ってあら？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hello and welcome~
+...Oh, wait.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>36</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279264</PointerOffset>
       <JapaneseText>子どもには
 お酒はダ・メ∀</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You kids can't
+buy alcohol! ∀</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>36</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279268</PointerOffset>
       <JapaneseText>食材をサカナに
 お酒を一杯いかが？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>How about some fish,
+with a glass of wine?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>38</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279268</PointerOffset>
       <JapaneseText>あ、あなたたちは
 ダメだからね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ah, but you kids
+can't drink, though!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>38</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279272</PointerOffset>
       <JapaneseText>お酒を出し始めてから
 なかなかお店が繁盛しちゃって……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The shop's been doing
+really well since we
+started selling alcohol...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>40</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279272</PointerOffset>
       <JapaneseText>ジュースもあれば
 よかったわね？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe we should
+sell soft drinks, too?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>40</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279276</PointerOffset>
       <JapaneseText>なんか変な娘が
 私の仕事を横取りしようと
 してるらしいの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I heard some weird
+girl's trying to take
+my job from me.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>42</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279276</PointerOffset>
       <JapaneseText>ま、私は人気の看板娘だし
 横取りなんてさせないけど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But, well, I'm super popular and
+attract customers just by being
+here. She doesn't stand a chance.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>42</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279280</PointerOffset>
       <JapaneseText>いらっしゃいませ～
 いかがですか～？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hello and welcome~
+What would you like~?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>44</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279280</PointerOffset>
       <JapaneseText>どうかしら？　私の方が
 年季が入ってるのよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What do you think? My
+experience kind of speaks
+for itself, doesn't it?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>44</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279284</PointerOffset>
       <JapaneseText>シグルドってヤツは
 本当に残酷なヤツらだよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Those Sigurd guys
+are a damn cruel
+buncha bastards!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>46</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279284</PointerOffset>
       <JapaneseText>雨が降って
 気に入らないからって、
 街を襲うようなヤツらだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Say it starts raining, and that puts
+'em in a foul mood? Then they'll
+ransack a whole town, just like that.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>46</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279284</PointerOffset>
       <JapaneseText>雨がイヤなら、
 外に出てくるなよっ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you don't like the rain,
+then just stay inside, dammit!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>46</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279288</PointerOffset>
       <JapaneseText>シグルドのヤツらが
 ヴァルハラを占領して、
 もうずいぶんになるな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Those Sigurd bastards have
+done some real terrible stuff
+since they occupied Valhalla.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>49</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279288</PointerOffset>
       <JapaneseText>人質になっていた「紅の月」の
 採掘団もブレイナーの命令で
 皆殺しにされたらしいぜ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Those people mining "Crimson Moon," who
+they'd taken hostage? Brynhildr gave an
+order to kill every last one of 'em.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>49</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279292</PointerOffset>
       <JapaneseText>ヴァルハラの街は
 無事解放されたみたいだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Looks like they managed
+to liberate Valhalla.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>51</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279292</PointerOffset>
       <JapaneseText>これでようやく
 ヴァルハラも鉱石の街としての
 顔を取り戻せるってわけだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Now Valhalla can finally 
+restore its good reputation
+as a mining town.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>51</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279296</PointerOffset>
       <JapaneseText>ヴァルハラは解放されたけど
 まだ逃げた「シグルド」が
 たくさんいるみたいだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Valhalla was liberated, but seems
+like there's still a lot of "Sigurd"
+types who managed to escape.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>53</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279296</PointerOffset>
       <JapaneseText>徹底的に弾圧して、
 根絶やしにしてほしいもんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Here's hopin' they'll use some good
+old fashioned *force* and root
+the bastards out for good.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>53</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279300</PointerOffset>
       <JapaneseText>聞いたかい？
 この街にも「シグルド」の
 生き残りが隠れてるって！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Have you heard? They're 
+sayin' there's some "Sigurd"
+remnants in this town, too!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>55</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279300</PointerOffset>
       <JapaneseText>コワいね、恐ろしいね！
 早く捕まらないかね！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Terrifying! Horrifying, even! We
+need to catch 'em, and fast!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>55</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279304</PointerOffset>
       <JapaneseText>この街に「シグルド」の残党が
 逃げ込んだって！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Some of those "Sigurd" types
+are hiding out in this very town!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>57</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279304</PointerOffset>
       <JapaneseText>どいつがそうなんだい！？
 あんたらかい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, who the hell are
+they!? Is it you lot?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>57</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279304</PointerOffset>
       <JapaneseText>……疑心暗鬼になって
 いかんよ、まったく</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Nah, I can't go jumping
+at every shadow. Dammit.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>57</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279308</PointerOffset>
       <JapaneseText>ちーす！
 食い物屋「サーロイン」ょぅ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wassup! This's "Sirloin."
+We sell food 'n stuff.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>60</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279308</PointerOffset>
       <JapaneseText>何買ぃたぃ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whaddya wanna buy?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>60</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279312</PointerOffset>
@@ -836,295 +921,330 @@
       <PointerOffset>279316</PointerOffset>
       <JapaneseText>ちーす
 また来てーっす</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Laters. Come again.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>63</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279320</PointerOffset>
       <JapaneseText>お腹へったので
 買い物レス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm sooo hungry.
+I'mma buy a snack.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>64</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279320</PointerOffset>
       <JapaneseText>美味しいものは
 ないレショウカ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Aren't there
+any yum-yums?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>64</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279324</PointerOffset>
       <JapaneseText>ごはんは
 命の洗濯なのレス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yummies wash away
+life's stresses.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>66</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279324</PointerOffset>
       <JapaneseText>お腹が空いタラ
 戦争はできナイ
 って言うレショ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't they says
+that armies march
+on their tummies?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>66</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279328</PointerOffset>
       <JapaneseText>お母サンの
 お手伝いなのレス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm helping
+my mommy.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>68</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279328</PointerOffset>
       <JapaneseText>生クリーム、キャビア、
 キャベツ、りんご……
 お母サンは何を……？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fresh cream, caviar, cabbage, apples...
+Um, what's mommy making...?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>68</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279332</PointerOffset>
       <JapaneseText>お腹がへったのレス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm so hungry.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>70</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279332</PointerOffset>
       <JapaneseText>さっさと材料を買って
 お家へ帰るレス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I just wanna buy groceries
+real fast and go home.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>70</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279336</PointerOffset>
       <JapaneseText>今日はアッシが
 夕飯の当番なのレス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm gonna make
+dinner tonight.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>72</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279336</PointerOffset>
       <JapaneseText>何か美味しいモノが
 食べたいのレス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I wanna eat
+something yummy.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>72</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279336</PointerOffset>
       <JapaneseText>マグロをアイスで包んだ
 マグロアイスなんて
 どうレショウカ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe I'll put tuna
+in ice cream? Hmm,
+tuna ice cream...?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>72</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279340</PointerOffset>
       <JapaneseText>ステキなお料理ができタラ、
 お兄チャンたちにも
 食べさせてあげるのレス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Once I make something really
+really good, I'll get my
+brothers to eat some, too.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>75</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279340</PointerOffset>
       <JapaneseText>ナニ、エンリョされること
 ないのレス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They don't needa be modest.
+I wanna share it with everyone.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>75</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279344</PointerOffset>
       <JapaneseText>バジリスクを倒せるのは
 本物の勇者だけだって言う</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They say only a true hero
+can defeat the basilisks.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>77</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279344</PointerOffset>
       <JapaneseText>あのダオスを倒した英雄も
 バジリスクを倒したって
 言うじゃないか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They do say the heroes who
+defeated Dhaos actually beat
+some basilisks first, don't they?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>77</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279348</PointerOffset>
       <JapaneseText>ほとんどの勇者たちは
 相討ちとなり
 無念の涙を飲んだんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Most heroes end their fights
+in a draw, though, taking
+their regrets to their grave...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>79</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279348</PointerOffset>
       <JapaneseText>仲間たちがその雄姿を語り、
 その鱗を証拠として
 持ち帰るんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Their comrades spread the word
+of their heroic deeds, with a
+basilisk's scale in hand, as proof.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>79</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279352</PointerOffset>
       <JapaneseText>バジリスクを倒せるのは
 そこそこの実力を
 持ったヤツらだけなんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You need some good skills
+to defeat a basilisk, actually.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>81</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279352</PointerOffset>
       <JapaneseText>そう簡単な話じゃないよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It just ain't that
+easy, you know?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>81</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279356</PointerOffset>
       <JapaneseText>まずは石化光線をよける。
 その次に弱点に剣をぶっ刺す</JapaneseText>
-      <EnglishText/>
+      <EnglishText>First, you have to sidestep their
+petrification ray. Then, stab your
+sword right into their weak spot.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>83</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279356</PointerOffset>
       <JapaneseText>それでバジリスクは倒せるんだが、
 大抵のヤツは一つ目を失敗して
 終わりだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's all you need to do to
+beat 'em, but most people fail
+at step one, and that's a wrap.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>83</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279360</PointerOffset>
       <JapaneseText>バジリスク退治をするため、
 色々と日々研究を重ねている</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've been researching an awful
+lot, day after day, hoping to
+exterminate those basilisks.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>85</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279360</PointerOffset>
       <JapaneseText>しかし、
 よい結果が出せていないのが
 現実だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But well, the harsh reality
+is, I haven't made that
+much progress, really.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>85</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279364</PointerOffset>
       <JapaneseText>とにかく、今は石化光線を
 よける練習から始めるしか
 ないのだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, for now, I'll start
+with practicing dodging
+those petrification rays.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>87</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279364</PointerOffset>
       <JapaneseText>フレアボトルは高くて
 手が出せないからな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Flare Bottles are too pricey,
+so I can't rely on those.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>87</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -1638,31 +1758,35 @@
       <JapaneseText>何ザマスか？
 あたしのバック、
 取ってきてくれるザマスか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I say, what is it?
+I say, won't you
+fetch my bag?</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>64</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287369</PointerOffset>
       <JapaneseText>はい　　　　　　　
 いいえ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes
+No</EnglishText>
       <Notes/>
       <SpeakerId>16</SpeakerId>
       <Id>65</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287432</PointerOffset>
       <JapaneseText>バックはヴァルハラの雑貨屋に
 忘れたと思うザマス</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I say, I think I left my bag in
+the general store, in Valhalla.</EnglishText>
       <Notes/>
       <SpeakerId>15</SpeakerId>
       <Id>66</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>
