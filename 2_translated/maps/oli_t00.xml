@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>341880,342172</PointerOffset>
       <JapaneseText>常夏の村の魔術師</JapaneseText>
-      <EnglishText>Travelling Magic Scientist</EnglishText>
+      <EnglishText>Tropical Village Wizard</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Editing</Status>
@@ -37,10 +37,10 @@
     <Entry>
       <PointerOffset>312380,312444,312508,312572,312636,312700</PointerOffset>
       <JapaneseText>我慢する男性</JapaneseText>
-      <EnglishText>Patient Man</EnglishText>
+      <EnglishText>Enduring Man</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312764,312828,312892,312956,313020,313084</PointerOffset>
@@ -53,58 +53,58 @@
     <Entry>
       <PointerOffset>313148,313212,313276,313340,313404,313468</PointerOffset>
       <JapaneseText>短気な男性</JapaneseText>
-      <EnglishText>Impatient Man</EnglishText>
+      <EnglishText>Short-Fused Man</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>313532,313596</PointerOffset>
       <JapaneseText>ハンバーグ好きの男性</JapaneseText>
-      <EnglishText>Hamburger Enthusiast</EnglishText>
+      <EnglishText>Hamburg Steak Lover</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>313660,313724,313788,313852,313916,313980</PointerOffset>
       <JapaneseText>痩せたい男性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Slimming(?) Man</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314044,314108,314172,314236,314300,314364</PointerOffset>
       <JapaneseText>少し悲観的な女性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Slightly Gloomy Woman</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314428,314492,314556,314620,314684,314748</PointerOffset>
       <JapaneseText>暑さに立つ女性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Woman Standing in Heat</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314812,314876,314940,315004,315068,315132</PointerOffset>
       <JapaneseText>組織にいた男性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Former Organization Member</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>315196,315260,315324,315388,315452,315516</PointerOffset>
       <JapaneseText>バジリスク狩りの男性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Basilisk-Hunting Man</EnglishText>
       <Notes/>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>315580,315644,315708,315772,315836,315900</PointerOffset>
@@ -216,7 +216,7 @@
     <Entry>
       <PointerOffset>342232</PointerOffset>
       <JapaneseText>武器屋　ガーリック</JapaneseText>
-      <EnglishText>Weapon Shop Garlic</EnglishText>
+      <EnglishText>Weapon Shop - Garlic</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Editing</Status>
@@ -224,7 +224,7 @@
     <Entry>
       <PointerOffset>342251</PointerOffset>
       <JapaneseText>食材屋　サーロイン</JapaneseText>
-      <EnglishText>Grocery Store Sirloin</EnglishText>
+      <EnglishText>Grocery Store - Sirloin</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Editing</Status>
@@ -232,7 +232,7 @@
     <Entry>
       <PointerOffset>342270</PointerOffset>
       <JapaneseText>道具屋　スパイシー</JapaneseText>
-      <EnglishText>Item Shop Spicy</EnglishText>
+      <EnglishText>Item Shop - Spicy</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Editing</Status>
@@ -285,56 +285,64 @@ Thank you~!</EnglishText>
     <Entry>
       <PointerOffset>341884</PointerOffset>
       <JapaneseText>まだ魔術書はあるぞ。</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I still have that
+tome of magic.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>341884</PointerOffset>
       <JapaneseText>４万ガルドで頼むよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You can have it
+for 40,000 Gald.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>342176</PointerOffset>
       <JapaneseText>魔界の眷属と契約するには
 巨大生物の牙や海の宝石、
 再結晶化の石が必要で、</JapaneseText>
-      <EnglishText/>
+      <EnglishText>For a pact with the Otherworld's retainers,
+you'll need... A great creature's tusk, a
+jewel of the sea, a recrystallized stone...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>342176</PointerOffset>
       <JapaneseText>黒い木材や凍らない水を使えば、
 異界の者との契約すら可能だという</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And for a pact with another
+dimension's retainers, you'll want
+black wood and unfreezing water.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>342176</PointerOffset>
       <JapaneseText>まるで実感がわかない
 スケールの話だと思わないか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But those claims are a
+bit too extraordinary
+to believe, aren't they?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -344,1431 +352,1630 @@ Thank you~!</EnglishText>
       <JapaneseText>あつ～い……どうして
 こんなに暑いかって？
 砂漠だからだろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's so hooot... "Why's
+it so hot?" I mean, we're
+in a desert, aren't we?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326368</PointerOffset>
       <JapaneseText>数万年前までは
 ここも緑に覆われてた
 っていうけどね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Though, up until a few millennia
+ago, this place was full of
+verdant green...or so they say...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326372</PointerOffset>
       <JapaneseText>あつ～い……毛穴が開いて
 汗がばんばんばんと
 流れる～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's so hooot... I'm sweating so much...
+It's like my pores are floodgates,
+and someone left them wide open...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326372</PointerOffset>
       <JapaneseText>これでも50年前より
 涼しくなったって
 ……嘘つけ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Someone told me it's cooler
+now than it was 50 years
+ago... What a dirty lie!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326376</PointerOffset>
       <JapaneseText>……なんか、
 木が枯れてるんだけど
 暑さのせい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...The trees seem pretty wilted.
+Is that 'cause of the heat?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326376</PointerOffset>
       <JapaneseText>……ってもう何年も
 暑いんだけど、今更？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Wait, it's been hot like
+this for ages. Why now?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326380</PointerOffset>
       <JapaneseText>もしかして、
 前よりも暑くなってる？
 だから木が枯れた？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe it's even hotter than
+it used to be? And that's
+making the trees wilt?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326380</PointerOffset>
       <JapaneseText>いやいや……
 あ、でも昨日より
 今日は少し暑いかも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That can't be it... Though...
+I think it is a little hotter
+today than it was yesterday...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326384</PointerOffset>
       <JapaneseText>一時間立ってるだけで、
 オケ一升分の汗が取れるんだ。
 なんか商売にならないかな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If I stand here for an hour, I sweat
+enough to fill a whole bucket... I
+wonder if I could sell that somehow.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326384</PointerOffset>
       <JapaneseText>「オリーブヴィレッジの
 新鮮な汗」！
 売れないかな～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"Fresh Olive Village Sweat"!
+Maybe someone'll buy it~?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326384</PointerOffset>
       <JapaneseText>売れないよね～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nah, no one'll buy that~</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326388</PointerOffset>
       <JapaneseText>あつ～い……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's so hooot...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326388</PointerOffset>
       <JapaneseText>暑いなら、家の中に入れよ
 って思うだろ？
 入れないんだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're probably thinking, "If it's
+so hot outside, why don't you go
+home?" I can't go home, though.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326388</PointerOffset>
       <JapaneseText>……大人の事情でね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...For, ah, adult reasons.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326392</PointerOffset>
       <JapaneseText>ここは
 その昔、時空戦士が
 泊まった宿屋「跡」だよ～</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>This is "what remains of" the inn where
+the Heroes of Time once stayed~</EnglishText>
+      <Notes>name of the inn</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326392</PointerOffset>
       <JapaneseText>彼らを陰で支え、ダオス戦役で
 散ったエドワード・モリスンも
 ここに泊まったんだ～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And Edward Morrison, who assisted
+them and perished nobly in Dhaos's
+War, also stayed here at one time.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326396</PointerOffset>
       <JapaneseText>時空戦士&lt;Cless&gt;が使ったカップや
 &lt;Mint&gt;が食べたグミの
 食べ残しもあるんだって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The cup used by the Hero of Time
+&lt;Cless&gt; and a few pieces of a gel
+eaten by &lt;Mint&gt; also remain inside.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>17</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326396</PointerOffset>
       <JapaneseText>よく残してたよね、
 そんなの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's great that they've been
+preserved, don't you think?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>17</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326400</PointerOffset>
       <JapaneseText>あれ～、なんか椰子の木の
 葉っぱの色が変だなぁ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What's this~? The color
+of those palm leaves has
+gone all funny, hasn't it...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>19</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326400</PointerOffset>
       <JapaneseText>おまけに元気がない……
 なんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And they really don't look
+like they're doing too well,
+either... What's that about?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326404</PointerOffset>
       <JapaneseText>植物が元気がない時には
 水をやるのが一番だね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When your plants aren't
+doing well, the best thing
+to do is water 'em.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>21</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326408</PointerOffset>
       <JapaneseText>ここは昔、宿だったけど
 儲からなくて廃業したんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This was an inn, long ago,
+but it wasn't very profitable,
+so it went out of business.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>22</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326408</PointerOffset>
       <JapaneseText>時空戦士も泊まった
 由緒ある宿屋だったんだけどね～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Heroes of Time themselves
+stayed here, you know~ It had
+some real history, this inn.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>22</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326412</PointerOffset>
       <JapaneseText>&lt;Klarth&gt;が飲んだ
 フレアボトルの飲みかけ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There's a few drops of a flare
+bottle &lt;Klarth&gt; drank still left inside.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>24</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326412</PointerOffset>
       <JapaneseText>&lt;Arche&gt;の寝たベッドのシーツも
 とってあるんだそうだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And the bed sheets
+&lt;Arche&gt; slept with
+were set aside, too.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326412</PointerOffset>
       <JapaneseText>ちょっとコワいね、
 この宿の主人</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe that old innkeeper
+was a bit of a creep, eh?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>24</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326416</PointerOffset>
       <JapaneseText>暑い……
 汗が止まらない……
 喉が渇いた……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's hot... I can't
+stop sweating...
+My throat's dry...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>27</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326416</PointerOffset>
       <JapaneseText>そうだ、
 この汗を飲めば……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wait, maybe
+if I drink
+my sweat...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>27</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326416</PointerOffset>
       <JapaneseText>ダメだ、
 それ昨日も考えた……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nah... I tried
+that yesterday...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>27</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326420</PointerOffset>
       <JapaneseText>喉が渇いた……
 でも、あの水を飲んだら
 負けな気がする……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My throat's so dry... But,
+if I give in and drink that
+water, I'll feel like I've lost...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>30</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326420</PointerOffset>
       <JapaneseText>いや、でも……
 我慢、する……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No, but... No... I
+can still...endure...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>30</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326424</PointerOffset>
       <JapaneseText>宿屋の前のアイツ……
 どうして……平気……なんだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why's that guy...in front of the
+old inn...look like he's...doing fine...?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>32</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326424</PointerOffset>
       <JapaneseText>暑い……もう死ぬ……
 今死ぬ……
 いや死なない……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's so hot... I'm gonna
+die... Gonna die right
+now... No, I won't die...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>32</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326428</PointerOffset>
       <JapaneseText>やばい……やばすぎる……
 この暑さ……禁魔術級……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is bad... This is really
+bad... This heat... It's like
+some forbidden dark magic...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>34</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326428</PointerOffset>
       <JapaneseText>目の前に、水があるのに……
 飲めない……つらさ……
 君たちは知らないだろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Seeing water...right in front of you...
+But you can't drink it... Such pain...
+You've never felt it, have ya?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>34</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326432</PointerOffset>
       <JapaneseText>暑すぎる……
 もう限界だ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's way too hot...
+I'm at my limit...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>36</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326432</PointerOffset>
       <JapaneseText>たおれそうだ……
 昨日もそう思った……
 もう少し……がんばれる……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm gonna pass out... But I
+thought that yesterday, too...
+I can hold on...a little longer...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>36</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326436</PointerOffset>
       <JapaneseText>……記録を作るんだ……
 オリーブヴィレッジで……
 １年間、屋外に……立った男……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I'm gonna make a new record... I'll be
+the first man...in Olive Village history...
+to stand outside...for a whole year...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>38</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326436</PointerOffset>
       <JapaneseText>……その前に……
 ……別のニュースに……
 なり、そう……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...But before then... ...I
+might make headlines...
+for a different reason...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>38</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326440</PointerOffset>
       <JapaneseText>バジリスクってのが
 砂漠にいるんだけど
 ここんとことんと見なくなった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There are basilisks in this
+desert, but we haven't seen
+much of them these days.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>40</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326440</PointerOffset>
       <JapaneseText>強さを求める連中が
 こぞってバジリスクを
 狩ったせいだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A whole lot of people who were
+hoping to gain, or prove, strength
+decided to hunt them, you see.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>40</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326444</PointerOffset>
       <JapaneseText>今じゃ絶滅危惧種で保護対象って
 言うけどさ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They're protected as an
+endangered species, now...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>42</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326444</PointerOffset>
       <JapaneseText>保護しなくてもいいんじゃね？
 いや、だって石化光線だぜ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But do we really need to protect
+them? I mean, come on, they've got
+petrification rays and all, haven't they?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>42</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326448</PointerOffset>
       <JapaneseText>バジリスクの肉って
 意外とやわらかくて
 脂のってて美味いんだって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Basilisk meat is surprisingly
+supple. They say it has good
+marbling, too, and tastes great.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>44</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326448</PointerOffset>
       <JapaneseText>でも、みんな気味悪がって
 食わなかったそうだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But generally, no one would eat
+it, 'cause it gave 'em the creeps.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>44</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326452</PointerOffset>
       <JapaneseText>今でもバジリスク料理っての
 あるみたいだけど
 高級料理なのさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Some people actually cook with
+basilisk meat even now, and it's
+considered a delicacy, too.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>46</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326452</PointerOffset>
       <JapaneseText>一度、食ってはみたいが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'd like to try it
+at least once, but...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>46</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326456</PointerOffset>
       <JapaneseText>バジリスクって言やぁ
 その強力な表皮だな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But basilisks are pretty famous
+for their tough hide, too.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>48</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326456</PointerOffset>
       <JapaneseText>主に装備品の原料に
 使われてたみたいだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It was often used to
+make combat equipment.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>48</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326460</PointerOffset>
       <JapaneseText>ああ、この村の店にある防具にも
 使われてるんじゃないか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Y'know, they probably use
+it to make the armor they
+sell at the shops here, too.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>50</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326464</PointerOffset>
       <JapaneseText>くそー、魔女め
 やりやがった！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Goddammit, that witch has
+really done it this time!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>51</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326464</PointerOffset>
       <JapaneseText>干しといた干し椰子の実に
 水かけやがって！
 ダイナシだ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She poured water all over
+the palm fruit I'd left out
+to dry! It's totally ruined!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>51</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326468</PointerOffset>
       <JapaneseText>魔女め！　とっ捕まえて
 屋根の上で
 干し魔女にしてやる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, you damned witch! I'm gonna
+catch you, dry you up on my roof,
+and make witch jerky outta you!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>53</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326468</PointerOffset>
       <JapaneseText>カラカラの骨と皮にして
 三度の飯と一緒に
 美味しくいただいてやる！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll have a little of your dried
+bones and skin with every
+meal! And I'll enjoy it, too!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>53</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326472</PointerOffset>
       <JapaneseText>魔女のヤツめ！　許さん！
 今度はホッケ焼いてたら
 まんまと持っていきやがった！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That accursed witch! She won't get
+away with this! I grilled a mackerel
+and she made right off with it!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>55</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326472</PointerOffset>
       <JapaneseText>にゃーんとか鳴きやがって
 なんのマネだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She let out some weird
+"nyaaan" cry, too! What
+the hell's she playing at!?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>55</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326476</PointerOffset>
       <JapaneseText>オレの大事な夕食を！
 オレの大切なホッケちゃんを！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My precious dinner!
+My cherished mackerel!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>57</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326476</PointerOffset>
       <JapaneseText>返せ！　バカやろー！
 あ、魔女だからヤローじゃないか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Give it back! You son of a...!
+Wait, she's a witch, so I guess
+"son" isn't the right word...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>57</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326480</PointerOffset>
       <JapaneseText>魔女のヤツが悪事を
 働いてるってのはオレの
 とんだ誤解だったみたいだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Apparently, that witch wasn't playing
+all the nasty tricks I thought she was.
+That was all a big mistake on my part.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>59</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326480</PointerOffset>
       <JapaneseText>くそーっ！
 誰だよ！　オレを騙したのは！
 ゆるさーん！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Dammit...! Then who the hell
+was it!? Who tricked me!? You
+won't get away with thiiiis!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>59</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326484</PointerOffset>
       <JapaneseText>誰かがオレに
 魔女が悪事を働いてるって
 ウソを吐きやがった！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Someone lied to me! Told
+me all these nasty tricks
+were the witch's work!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>61</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326484</PointerOffset>
       <JapaneseText>オレは人にバカにされるのが
 一番嫌いなんだ！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There's nothing I hate more
+than being made a fool of!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>61</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326488</PointerOffset>
       <JapaneseText>暑い～…今日の夕飯は
 チーズINハンバーグかな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's so hot... Maybe I'll have
+cheeseburg steak for dinner.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>63</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326492</PointerOffset>
       <JapaneseText>チーズがとろけてて
 おいしいんだよねー！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That melty cheese
+really is the best!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>64</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326496</PointerOffset>
       <JapaneseText>流れる流れる……
 体の中の悪いものが
 全部汗になって……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It keeps flowing and flowing...
+The toxins and badness in my
+body, all turning to sweat...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>65</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326496</PointerOffset>
       <JapaneseText>汗だくダイエット敢行中……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've committed to a sweat-
+based weight loss program...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>65</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326500</PointerOffset>
       <JapaneseText>脂肪が全部、汗になって
 体の外に排出される……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>All of my fat will turn to sweat, and
+leave my body through my pores...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>67</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326500</PointerOffset>
       <JapaneseText>うーん……
 痩せるわ、これ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmmm... I should have
+lost a little by now...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>67</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326504</PointerOffset>
       <JapaneseText>ああ……暑い……
 水分が足りなくなってきた……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ahhh... It's hot... My
+body water percentage
+has dropped too low...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>69</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326504</PointerOffset>
       <JapaneseText>ビール飲みたい……
 でも飲んだら脂肪になる、
 ダイエットがムダになる……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I want to drink some beer...
+But if I do that, I'll put on
+weight and ruin my diet...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>69</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326508</PointerOffset>
       <JapaneseText>ああ、喉渇いた……
 このまま、どれくらい
 何も飲まないで平気かな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ahhh, my throat's so dry...
+Will I really be okay if I go
+on not drinking like this...?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>71</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326508</PointerOffset>
       <JapaneseText>いや、もうすぐ
 死ぬかも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No, I'll probably die if I
+don't drink something soon...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>71</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326512</PointerOffset>
       <JapaneseText>汗だくダイエット敢行中……
 ……ああ、ヤバイ、
 幻が見えてきた……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've committed to a sweat-based weight
+loss program, but... Ah, this is bad,
+I'm starting to see things now...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>73</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326512</PointerOffset>
       <JapaneseText>あ……お母さん？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ah... Mom...?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>73</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326516</PointerOffset>
       <JapaneseText>いかんいかん
 こんなところで
 死ぬわけには……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No, I can't go
+and die here...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>75</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326516</PointerOffset>
       <JapaneseText>痩せるぞぉ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm too busy
+losing weight...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>75</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326520</PointerOffset>
       <JapaneseText>冷たそうな水……
 飛び込んだらきっと
 気持ちいいんだろうなぁ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That water looks so
+cool... I'm sure it'd feel
+great to jump into it.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>77</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326520</PointerOffset>
       <JapaneseText>水着持ってこようかな。
 誰か一緒に入ってくれないかな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe I should go grab
+my swimsuit. I wonder if
+anyone will swim with me...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>77</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326524</PointerOffset>
       <JapaneseText>いい歳して
 水の中でひとりはしゃぐのも
 みっともないわよね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Once you're old enough, it starts
+to get embarrassing to play in the
+water all on your own, y'know...?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>79</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326524</PointerOffset>
       <JapaneseText>でも……
 飛び込みたい……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But... I really
+wanna jump in...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>79</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326528</PointerOffset>
       <JapaneseText>水に飛び込もうとしたら
 勘違いされて
 引き止められちゃった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I tried to take a dive,
+but someone misunderstood
+and pulled me back.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>81</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326528</PointerOffset>
       <JapaneseText>「死んじゃいけない！
 あなたの未来は可能性で
 いっぱいだ！」って</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"You can't just go and die!
+Your future is full of so
+many possibilities!" they said.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>81</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326532</PointerOffset>
       <JapaneseText>水に飛び込もうとしたら
 自殺と間違えられちゃった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I tried to jump into the
+water, but someone thought
+I was trying to kill myself.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>83</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326532</PointerOffset>
       <JapaneseText>失礼な話よね、
 この生きる気満々の顔してる
 私に対して</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's so rude, right? Why would you
+assume that about me? You can see
+my joie de vivre all over my face.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>83</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326536</PointerOffset>
       <JapaneseText>水に飛び込みたい……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I just wanna
+take a dive...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>85</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326536</PointerOffset>
       <JapaneseText>服のままでもいいかしら……
 いや、ないわね……
 それはないわ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe it'll be okay to just take
+a little dip with my clothes on...
+No, I shouldn't... I really shouldn't.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>85</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326540</PointerOffset>
       <JapaneseText>水に入りたいけど……
 きっと入ってから
 がっかりするんだわ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I want to go in the water,
+but... I'm sure I'd just be
+disappointed if I did...</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>87</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326540</PointerOffset>
       <JapaneseText>思ったよりも
 水がぬるくて、
 落ち込んじゃうのよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The water'll probably be
+way warmer than I expected,
+and that's just depressing.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>87</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326544</PointerOffset>
       <JapaneseText>この村は１年を通して暑いが
 暑い時はもっと暑いんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This village is hot all year,
+but it's still hotter at some
+times than at others.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>89</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326544</PointerOffset>
       <JapaneseText>どれくらい暑いかというと……
 アセリア法律事典くらい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"How hot is it?" Hmm... Probably
+about as hot as Yuri Lowell.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>89</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326548</PointerOffset>
       <JapaneseText>暑い暑い……
 本当に暑い……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's hot... It's hot...
+It's really, very hot...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>91</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326552</PointerOffset>
       <JapaneseText>たまに空から水が落ちてくるの。
 あれは「雨」って言うらしいね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sometimes, water falls from the sky.
+Apparently, they call that "rain."</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>92</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326552</PointerOffset>
       <JapaneseText>わたしたちは</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But we call it...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>92</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326552</PointerOffset>
       <JapaneseText>「神様の涙」って呼んでるの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"The Tears of God."</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>92</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326552</PointerOffset>
       <JapaneseText>みんな神様なんて
 信じてないのに変なの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's kinda weird, since
+no one around here
+really believes in gods.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>92</Id>
       <BubbleId>3</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326556</PointerOffset>
       <JapaneseText>雨が降ったからって
 何もどうもならないんだけど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nothing really happens
+when rain falls, though.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>96</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326556</PointerOffset>
       <JapaneseText>だって本当に少しだけだし、
 雨は全部砂の中。
 それに、この村には水あるしね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I mean, there's always so little of
+it, it just sinks right into the sand.
+And this village has water already.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>96</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326560</PointerOffset>
       <JapaneseText>風は生ぬるいし……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And the wind's
+always so tepid...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>98</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326560</PointerOffset>
       <JapaneseText>生ぬるいっていうか暑いし……
 ヤケドしそう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No, not even tepid, it's
+always outright hot... Almost
+hot enough to burn you.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>98</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326564</PointerOffset>
       <JapaneseText>暑い砂漠の風に吹かれて
 私の心も熱くなってくれれば
 いいんだけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If only this hot desert
+wind could light the flames
+of passion in my heart...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>100</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326564</PointerOffset>
       <JapaneseText>こうしてるとだんだん、
 いろんなことがどうでも
 よくなってくんのよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When things continue like this,
+I find myself caring a little less
+every day. About everything.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>100</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326568</PointerOffset>
       <JapaneseText>私は実際、
 「シグルド」という組織に
 いました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Truth be told, I was a member of
+that "Sigurd" organization, once.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>102</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326568</PointerOffset>
       <JapaneseText>少しでもその行動に意見すれば
 その人間は死をもって
 制裁されました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If anyone voiced so much as the slightest
+disagreement about the group's actions,
+death would be their punishment.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>102</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326572</PointerOffset>
       <JapaneseText>「シグルド」は
 恐ろしい組織です</JapaneseText>
-      <EnglishText/>
+      <EnglishText>"Sigurd," as an
+organization,
+is terrifying.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>104</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326572</PointerOffset>
       <JapaneseText>外でも多くの命を犠牲に
 していましたが、中でも
 また多くの人が粛清されたのです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They've made a great many victims of
+people outside their ranks, but they've
+purged a great many members, too.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>104</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326576</PointerOffset>
       <JapaneseText>「シグルド」が全員
 捕まったと言います</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They're saying all of the members
+of "Sigurd" have been caught.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>106</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326576</PointerOffset>
       <JapaneseText>捕まる前に
 辞めてよかったです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm glad I quit before
+it came to this.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>106</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326576</PointerOffset>
       <JapaneseText>それとも加担がバレたら、
 私も捕まるのでしょうか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Or maybe they'll arrest
+me, too, if they find out
+I was one of them, once.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>106</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326580</PointerOffset>
       <JapaneseText>何はともあれ、
 「シグルド」が捕まって
 よかったです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's good "Sigurd"
+have been caught,
+at any rate.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>109</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326580</PointerOffset>
       <JapaneseText>あんな無法な連中が
 野放しになってるなんて
 それこそ大変ですから</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If a lawless group like that
+are left to run free, it'll be
+a real disaster, before long.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>109</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326584</PointerOffset>
       <JapaneseText>シグルドの残党狩りが
 始まっているそうです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It seems they've started
+rounding up Sigurd's remnants.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>111</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326584</PointerOffset>
       <JapaneseText>とっくの昔に辞めた
 私にもその追求の手は
 伸びてくるのでしょうか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I wonder if the long arm of the
+law will come after me, even
+though I quit them long ago.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>111</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326588</PointerOffset>
       <JapaneseText>とは言え、私は直接、何か
 悪いことをしていた
 わけではありません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Though, it's not like I was
+directly involved in any of
+their criminal acts, myself.</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>113</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326588</PointerOffset>
       <JapaneseText>私は食事のお世話をするだけの
 ぺーぺーでしたから……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I was just a grunt who
+helped prepare the meals...</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>113</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326592</PointerOffset>
       <JapaneseText>砂漠を歩く時は、
 バジリスクに気つけるのが
 この村の常識だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Everyone from this village knows, if
+you're walking through the desert,
+you keep an eye out for basilisks.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>115</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326592</PointerOffset>
       <JapaneseText>会った時は
 全速力逃げるか、
 戦うしかない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And if you run into one,
+you run as fast as you can,
+or you leap right into battle.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>115</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326596</PointerOffset>
       <JapaneseText>逃げるといっても
 バジリスクは思いの外、
 足が早いんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And if you do choose to run,
+keep in mind that basilisks are
+a lot faster than you'd think.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>117</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326596</PointerOffset>
       <JapaneseText>まず逃げきれず
 石にされてしまう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There's a good chance
+they'll turn you to stone
+before you get away.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>117</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326600</PointerOffset>
       <JapaneseText>根絶を目的にバジリスク討伐隊が
 定期的に結成されるが
 らちが空かない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Basilisk subjugation squads are formed
+pretty regularly, always trying to wipe
+them out for good, but no luck so far.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>119</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326600</PointerOffset>
       <JapaneseText>やつらは数が多すぎるのだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There's just too
+many of them.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>119</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326604</PointerOffset>
       <JapaneseText>バジリスク討伐隊は
 大抵、途中で全滅してしまう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Usually, the basilisk subjugation
+squads get wiped out themselves
+at some point in their patrol.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>121</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326604</PointerOffset>
       <JapaneseText>その大半が
 バジリスクではなく、
 砂漠の暑さにやられるのだな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And most of them don't
+even get killed by the
+basilisks, but just the heat.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>121</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326608</PointerOffset>
       <JapaneseText>バジリスクは
 １匹見かけたら
 １００匹はいると思っていい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you see one basilisk, you
+should assume there's ninety-
+nine more you haven't seen.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>123</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326608</PointerOffset>
       <JapaneseText>油断は大敵だ。
 ほっておけば
 繁殖するぞ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Negligence is your greatest
+enemy. If you leave any of them
+be, more'll spring up, before long.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>123</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326612</PointerOffset>
       <JapaneseText>バジリスクの生態は
 なぞに包まれている</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The origin of the basilisks
+is shrouded in mystery.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>125</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326612</PointerOffset>
       <JapaneseText>一度に１億個近い卵を
 生み、そのほんの数個だけが
 ふ化すると言う</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's said they lay nearly 100,000,000,000
+eggs at a time, but only a small
+handful of those will ever hatch.</EnglishText>
       <Notes/>
       <SpeakerId>13</SpeakerId>
       <Id>125</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326616</PointerOffset>
