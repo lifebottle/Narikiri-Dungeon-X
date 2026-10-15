@@ -29,10 +29,10 @@
     <Entry>
       <PointerOffset>308040,308104</PointerOffset>
       <JapaneseText>我慢する男性</JapaneseText>
-      <EnglishText>Patient Man</EnglishText>
+      <EnglishText>Enduring Man</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308168,308232</PointerOffset>
@@ -45,18 +45,18 @@
     <Entry>
       <PointerOffset>308296,308360</PointerOffset>
       <JapaneseText>短気な男性</JapaneseText>
-      <EnglishText>Impatient Man</EnglishText>
+      <EnglishText>Short-Fused Man</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>308424,308488</PointerOffset>
       <JapaneseText>ハンバーグ好きの男性</JapaneseText>
-      <EnglishText>Hamburger Enthusiast</EnglishText>
+      <EnglishText>Hamburg Steak Lover</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -120,7 +120,7 @@
     <Entry>
       <PointerOffset>319876</PointerOffset>
       <JapaneseText>武器屋　ガーリック</JapaneseText>
-      <EnglishText>Weapon Shop Garlic</EnglishText>
+      <EnglishText>Weapon Shop - Garlic</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Editing</Status>
@@ -128,7 +128,7 @@
     <Entry>
       <PointerOffset>319895</PointerOffset>
       <JapaneseText>食材屋　サーロイン</JapaneseText>
-      <EnglishText>Grocery Store Sirloin</EnglishText>
+      <EnglishText>Grocery Store - Sirloin</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Editing</Status>
@@ -136,7 +136,7 @@
     <Entry>
       <PointerOffset>319914</PointerOffset>
       <JapaneseText>道具屋　スパイシー</JapaneseText>
-      <EnglishText>Item Shop Spicy</EnglishText>
+      <EnglishText>Item Shop - Spicy</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Editing</Status>
@@ -195,235 +195,269 @@ Thank you~!</EnglishText>
       <JapaneseText>……なんか、
 木が枯れてるんだけど
 暑さのせい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...The trees seem pretty wilted.
+Is that 'cause of the heat?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>309576</PointerOffset>
       <JapaneseText>……ってもう何年も
 暑いんだけど、今更？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Wait, it's been hot like
+this for ages. Why now?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>309580</PointerOffset>
       <JapaneseText>もしかして、
 前よりも暑くなってる？
 だから木が枯れた？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe it's even hotter than
+it used to be? And that's
+making the trees wilt?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>309580</PointerOffset>
       <JapaneseText>いやいや……
 あ、でも昨日より
 今日は少し暑いかも……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That can't be it... Though...
+I think it is a little hotter
+today than it was yesterday...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>309584</PointerOffset>
       <JapaneseText>あれ～、なんか椰子の木の
 葉っぱの色が変だなぁ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What's this~? The color
+of those palm leaves has
+gone all funny, hasn't it...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>309584</PointerOffset>
       <JapaneseText>おまけに元気がない……
 なんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And they really don't look
+like they're doing too well,
+either... What's that about?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>309588</PointerOffset>
       <JapaneseText>植物が元気がない時には
 水をやるのが一番だね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When your plants aren't
+doing well, the best thing
+to do is water 'em.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>309592</PointerOffset>
       <JapaneseText>宿屋の前のアイツ……
 どうして……平気……なんだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Why's that guy...in front of the
+old inn...look like he's...doing fine...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>309592</PointerOffset>
       <JapaneseText>暑い……もう死ぬ……
 今死ぬ……
 いや死なない……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's so hot... I'm gonna
+die... Gonna die right
+now... No, I won't die...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>309596</PointerOffset>
       <JapaneseText>やばい……やばすぎる……
 この暑さ……禁魔術級……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is bad... This is really
+bad... This heat... It's like
+some forbidden dark magic...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>309596</PointerOffset>
       <JapaneseText>目の前に、水があるのに……
 飲めない……つらさ……
 君たちは知らないだろ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Seeing water...right in front of you...
+But you can't drink it... Such pain...
+You've never felt it, have ya?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>309600</PointerOffset>
       <JapaneseText>バジリスクの肉って
 意外とやわらかくて
 脂のってて美味いんだって</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Basilisk meat is surprisingly
+supple. They say it has good
+marbling, too, and tastes great.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>12</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>309600</PointerOffset>
       <JapaneseText>でも、みんな気味悪がって
 食わなかったそうだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But generally, no one would eat
+it, 'cause it gave 'em the creeps.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>309604</PointerOffset>
       <JapaneseText>今でもバジリスク料理っての
 あるみたいだけど
 高級料理なのさ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Some people actually cook with
+basilisk meat even now, and it's
+considered a delicacy, too.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>14</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>309604</PointerOffset>
       <JapaneseText>一度、食ってはみたいが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'd like to try it
+at least once, but...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>14</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>309608</PointerOffset>
       <JapaneseText>魔女のヤツめ！　許さん！
 今度はホッケ焼いてたら
 まんまと持っていきやがった！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That accursed witch! She won't get
+away with this! I grilled a mackerel
+and she made right off with it!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>16</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>309608</PointerOffset>
       <JapaneseText>にゃーんとか鳴きやがって
 なんのマネだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She let out some weird
+"nyaaan" cry, too! What
+the hell's she playing at!?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>16</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>309612</PointerOffset>
       <JapaneseText>オレの大事な夕食を！
 オレの大切なホッケちゃんを！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My precious dinner!
+My cherished mackerel!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>18</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>309612</PointerOffset>
       <JapaneseText>返せ！　バカやろー！
 あ、魔女だからヤローじゃないか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Give it back! You son of a...!
+Wait, she's a witch, so I guess
+"son" isn't the right word...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>309616</PointerOffset>
       <JapaneseText>暑い～…今日の夕飯は
 チーズINハンバーグかな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's so hot... Maybe I'll have
+cheeseburg steak for dinner.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>20</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>309620</PointerOffset>
       <JapaneseText>チーズがとろけてて
 おいしいんだよねー！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That melty cheese
+really is the best!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>21</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
