@@ -41,19 +41,19 @@
       <PointerOffset>308684,308748,308812,308876,308940,309004</PointerOffset>
       <MaxLength>48</MaxLength>
       <JapaneseText>トーティス遊撃隊隊員</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Task Force Member</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>309068,309132</PointerOffset>
       <MaxLength>48</MaxLength>
       <JapaneseText>活発な少年</JapaneseText>
-      <EnglishText>Lively boy</EnglishText>
+      <EnglishText>Lively Boy</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>309196,309260,309324,309388,309452,309516,326369</PointerOffset>
@@ -67,10 +67,10 @@
       <PointerOffset>309580,309644</PointerOffset>
       <MaxLength>48</MaxLength>
       <JapaneseText>好奇心旺盛な少女</JapaneseText>
-      <EnglishText>Curious Girl</EnglishText>
+      <EnglishText>Extremely Curious Girl</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310092,310156</PointerOffset>
@@ -186,27 +186,28 @@ Thank you~!</EnglishText>
       <PointerOffset>326124</PointerOffset>
       <JapaneseText>お兄ちゃんたち、
 黒精石持ってる～？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, bro's friends, do you
+have a Black Spirit Gem~?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326124</PointerOffset>
       <JapaneseText>持ってたら、ちょうだい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you have one, can I have it?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326032</PointerOffset>
       <JapaneseText>腹へった～</JapaneseText>
-      <EnglishText>I'm huuungry~</EnglishText>
+      <EnglishText>I'm hungry~</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
@@ -215,32 +216,33 @@ Thank you~!</EnglishText>
     <Entry>
       <PointerOffset>325988</PointerOffset>
       <JapaneseText>ケチー！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So stingy!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>324816</PointerOffset>
       <JapaneseText>やったー、ありがと</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yaaay, thanks.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>324816</PointerOffset>
       <JapaneseText>グリッド兄ちゃん、
 黒精石、手に入れたよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grid, I got the
+Black Spirit Gem!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -249,20 +251,23 @@ Thank you~!</EnglishText>
       <PointerOffset>314108</PointerOffset>
       <JapaneseText>うちの主は
 ヴァルハラへ行ったよ？</JapaneseText>
-      <EnglishText>My captain went to the Valhalla Plains, didn't he?</EnglishText>
-      <Notes>Need to double check if this is actually what is being said; seems weird that it's posed as a question.</Notes>
+      <EnglishText>The young master went to
+the Valhalla Plains, you know?</EnglishText>
+      <Notes>Need to double check if this is actually what is being said; seems weird that it's posed as a question. - maxle
+it uses a question mark because he's unsure why you're talking to him  - nanashi</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314108</PointerOffset>
       <JapaneseText>トーティス遊撃隊の隊長にして
 ユークリッド独立騎士団の
 顧問だからね</JapaneseText>
-      <EnglishText>He is the captain of the Totus Mobile Task Force and an
-advisor the Euclid Liberation Knights after all.</EnglishText>
+      <EnglishText>He is, after all, both the commander of
+the Totus Mobile Task Force and a
+consultant to the Euclid Liberation Knights.</EnglishText>
       <Notes>Check on the terminology and make sure it's consistent.</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>1</Id>
@@ -273,7 +278,8 @@ advisor the Euclid Liberation Knights after all.</EnglishText>
       <PointerOffset>314112</PointerOffset>
       <JapaneseText>うちの主の名前は
 &lt;Cless&gt;・アルベイン</JapaneseText>
-      <EnglishText>My master's name is &lt;Cless&gt; Alvein.</EnglishText>
+      <EnglishText>The young master's
+name is &lt;Cless&gt; Alvein.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>3</Id>
@@ -284,8 +290,9 @@ advisor the Euclid Liberation Knights after all.</EnglishText>
       <PointerOffset>314112</PointerOffset>
       <JapaneseText>ダオスを倒した鋭い
 アルベイン流剣術の使い手だ</JapaneseText>
-      <EnglishText>He's a master of the Alvein Style Swordsmanship
-that was used to defeat Dhaos.</EnglishText>
+      <EnglishText>He's the man who defeated
+Dhaos, and a fierce practitioner
+of the Alvein Style Sword Artes.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>3</Id>
@@ -296,7 +303,8 @@ that was used to defeat Dhaos.</EnglishText>
       <PointerOffset>314112</PointerOffset>
       <JapaneseText>強いだけではない、
 優しい心の持ち主でもあるのだ</JapaneseText>
-      <EnglishText>He isn't just strong - he's also a kindhearted man.</EnglishText>
+      <EnglishText>And he isn't just strong. He
+possesses a kind heart, as well.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>3</Id>
@@ -307,21 +315,23 @@ that was used to defeat Dhaos.</EnglishText>
       <PointerOffset>314116</PointerOffset>
       <JapaneseText>私は我が主&lt;Cless&gt;の次に
 この道場で偉い師範代だ</JapaneseText>
-      <EnglishText>I serve as the senior instructor at this dojo,
-under master &lt;Cless&gt;.</EnglishText>
+      <EnglishText>I am an assistant instructor, and
+the second most distinguished person
+at this dojo—after our master, &lt;Cless&gt;.</EnglishText>
       <Notes>Is it "senior instructor"</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
       <BubbleId>0</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314116</PointerOffset>
       <JapaneseText>と言っても、
 &lt;Cless&gt;様に比べると
 剣の腕はまだまだだが</JapaneseText>
-      <EnglishText>That said, my swordsmanship leaves much to be
-desired compared to &lt;Cless&gt;.</EnglishText>
+      <EnglishText>That said, if you were to compare
+me to Master &lt;Cless&gt;, my skill with
+the sword would come up very short.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
@@ -333,8 +343,9 @@ desired compared to &lt;Cless&gt;.</EnglishText>
       <JapaneseText>今は&lt;Cless&gt;様が留守中なので
 私が代わりにこの道場の
 指導を請け負っている</JapaneseText>
-      <EnglishText>Since &lt;Cless&gt; is currently away, I have taken on the role
-of instructor at the dojo.</EnglishText>
+      <EnglishText>Since &lt;Cless&gt; is currently
+away, I have taken over
+instruction duties in his stead.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
@@ -346,8 +357,9 @@ of instructor at the dojo.</EnglishText>
       <JapaneseText>しかし私もまだまだ修行不足だな。
 &lt;Cless&gt;様がいないと
 道場生もすっかりダレてしまう</JapaneseText>
-      <EnglishText>But I've still got a lot ot learn. Without &lt;Cless&gt;, the
-dojo students lose all motivation and start slacking.</EnglishText>
+      <EnglishText>However, my own training is sorely
+lacking. Without &lt;Cless&gt; here, the
+dojo's students have lost all interest.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
@@ -359,8 +371,9 @@ dojo students lose all motivation and start slacking.</EnglishText>
       <JapaneseText>&lt;Cless&gt;様がようやく
 帰ってきてくださった
 というのにまたお出かけになるらしい</JapaneseText>
-      <EnglishText>Even though &lt;Cless&gt; is back, it seems they've been
-going out to town again.</EnglishText>
+      <EnglishText>Master &lt;Cless&gt; finally returned
+to us, but it seems he'll be
+leaving again in short order.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
@@ -372,20 +385,22 @@ going out to town again.</EnglishText>
       <JapaneseText>早くこの作戦が終わり、
 びしびしと道場生に
 指導してほしいものだ</JapaneseText>
-      <EnglishText>I can't wait for this mission to end so I can get
-back to drilling our students.</EnglishText>
+      <EnglishText>I hope this military operation concludes
+soon, so he can engage the students
+with his usual relentless instruction.</EnglishText>
       <Notes>campaign or mission or operation?</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314128</PointerOffset>
       <JapaneseText>トーティス遊撃隊が活躍すれば
 また入門志願者が増えるだろう</JapaneseText>
-      <EnglishText>If the Totus Mobile Task Force does well, the number of
-applicants will likely increase again.</EnglishText>
+      <EnglishText>If the Totus Mobile Task Force
+does well, we should see yet
+another increase in dojo applicants.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
@@ -396,8 +411,8 @@ applicants will likely increase again.</EnglishText>
       <PointerOffset>314128</PointerOffset>
       <JapaneseText>アルベイン流がもっと広く
 世間に認知されるといいな</JapaneseText>
-      <EnglishText>I hope the Alvein Style gets wider recognition
-among the masses.</EnglishText>
+      <EnglishText>It would be nice if the Alvein Style
+could be recognized far and wide.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
@@ -408,21 +423,23 @@ among the masses.</EnglishText>
       <PointerOffset>314132</PointerOffset>
       <JapaneseText>私は我が主&lt;Cless&gt;の次に
 この道場で偉い師範代だ</JapaneseText>
-      <EnglishText>I serve as the senior instructor at this dojo,
-under master &lt;Cless&gt;.</EnglishText>
+      <EnglishText>I am an assistant instructor, and
+the second most distinguished person
+at this dojo—after our master, &lt;Cless&gt;.</EnglishText>
       <Notes>Should we go with Sensei, Master, or something else?</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
       <BubbleId>0</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314132</PointerOffset>
       <JapaneseText>と言っても、
 &lt;Cless&gt;様に比べると
 剣の腕はまだまだだが</JapaneseText>
-      <EnglishText>That said, my swordsmanship leaves much to be
-desired compared to &lt;Cless&gt;.</EnglishText>
+      <EnglishText>That said, if you were to compare
+me to Master &lt;Cless&gt;, my skill with
+the sword would come up very short.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
@@ -434,8 +451,9 @@ desired compared to &lt;Cless&gt;.</EnglishText>
       <JapaneseText>今は&lt;Cless&gt;が留守中なので
 私が代わりにこの道場の
 指導を請け負っている</JapaneseText>
-      <EnglishText>Since &lt;Cless&gt; is currently away, I have taken on the role
-of instructor at the dojo.</EnglishText>
+      <EnglishText>Since &lt;Cless&gt; is currently
+away, I have taken over
+instruction duties in his stead.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>16</Id>
@@ -459,8 +477,8 @@ dojo students lose all motivation and start slacking.</EnglishText>
       <PointerOffset>314140</PointerOffset>
       <JapaneseText>ヴァルハラでの
 軍事行動も無事終わった</JapaneseText>
-      <EnglishText>The operation in the Valhala Plains has
-finally come to a successful end.</EnglishText>
+      <EnglishText>The military operation in Valhalla
+has concluded successfully.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>18</Id>
@@ -471,21 +489,23 @@ finally come to a successful end.</EnglishText>
       <PointerOffset>314140</PointerOffset>
       <JapaneseText>しばらく、&lt;Cless&gt;様も道場に
 落ち着いてくださるだろう</JapaneseText>
-      <EnglishText>I suppose &lt;Cless&gt; will get to settle in
-the dojo for a while.</EnglishText>
+      <EnglishText>I imagine Master &lt;Cless&gt; will
+be able to settle in with
+us at the dojo for a time.</EnglishText>
       <Notes>I do think I need a bit investigating to see the tone</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314144</PointerOffset>
       <JapaneseText>ここでもっと
 弟子たちの腕を
 がんがん磨いてもらいたいものだ</JapaneseText>
-      <EnglishText>I hope the students here will keep honing
-their skills here.</EnglishText>
+      <EnglishText>I'd like for him to help our
+pupils polish their sword skills
+some more, with his usual vigor.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>20</Id>
@@ -496,21 +516,23 @@ their skills here.</EnglishText>
       <PointerOffset>314144</PointerOffset>
       <JapaneseText>そして道場破りが来ても
 安心できるように！</JapaneseText>
-      <EnglishText>So that you can finally feel at ease even if
-someone shows up to challenge the dojo!</EnglishText>
+      <EnglishText>That way, even should a challenger
+arrive at our dojo's door, we'll
+have nothing to worry about!</EnglishText>
       <Notes>Need to confirm if this takes place after the previous line.</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314148</PointerOffset>
       <JapaneseText>いつ襲い来るかわからない
 外敵からこの村を守るため
 トーティス遊撃隊は作られた</JapaneseText>
-      <EnglishText>To protect our village from any enemies that might
-attack us, the Totus Mobile Task Force was formed.</EnglishText>
+      <EnglishText>The Totus Mobile Task Forced was created
+so that we may protect the village from
+the assaults of any unexpected invaders.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>22</Id>
@@ -522,9 +544,9 @@ attack us, the Totus Mobile Task Force was formed.</EnglishText>
       <JapaneseText>２度とあんな悲劇を繰り返さない、
 遊撃隊にはそんな強い&lt;Cless&gt;様の
 想いが込められているのだ</JapaneseText>
-      <EnglishText>We must ensure that such a tragedy must never
-happen again. That's what drives &lt;Cless&gt;'s resolve
-in forming the Totus Mobile Task Force.</EnglishText>
+      <EnglishText>Master &lt;Cless&gt;'s fervent and earnest desire
+to avoid a repeat of that terrible tragedy
+is at the heart of the Mobile Task Force.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>22</Id>
@@ -536,8 +558,9 @@ in forming the Totus Mobile Task Force.</EnglishText>
       <JapaneseText>&lt;Cless&gt;様が存分に
 トーティス遊撃隊で
 その腕を振るえるように</JapaneseText>
-      <EnglishText>So that &lt;Cless&gt; can employ his skills to the fullest
-with the Totus Mobile Task Force,</EnglishText>
+      <EnglishText>I wish for Master &lt;Cless&gt; to be able
+to exercise his full ability as leader
+of the Totus Mobile Task Force.</EnglishText>
       <Notes>Wondering if we should rearrange the words for this and the following line so it flows better. The way it's structured doesn't sound very good in English.</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>24</Id>
@@ -549,8 +572,9 @@ with the Totus Mobile Task Force,</EnglishText>
       <JapaneseText>私はこの道場を
 しっかり守っていこうと
 そう思うのだ</JapaneseText>
-      <EnglishText>I will stand guard over this dojo with all of my might.</EnglishText>
-      <Notes/>
+      <EnglishText>I will devote all I have to
+defending this dojo.</EnglishText>
+      <Notes>not sure how i want to handle this one and i'm too tired to think now</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
