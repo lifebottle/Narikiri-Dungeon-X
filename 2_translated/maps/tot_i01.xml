@@ -5,18 +5,18 @@
     <Entry>
       <PointerOffset>268548,268612,268676</PointerOffset>
       <JapaneseText>「ティーゼル」の店番</JapaneseText>
-      <EnglishText>"Tizel" Shopkeeper</EnglishText>
+      <EnglishText>"Teisel" Shopkeeper</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268740,268804,268868,268932,268996,269060</PointerOffset>
       <JapaneseText>否定的な女性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Contrary Woman</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -64,7 +64,7 @@
     <Entry>
       <PointerOffset>277632</PointerOffset>
       <JapaneseText>武器屋　ティーゼル</JapaneseText>
-      <EnglishText>Weapon Shop Tizel</EnglishText>
+      <EnglishText>Weapon Shop - Teisel</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Editing</Status>
@@ -76,8 +76,8 @@
       <PointerOffset>269760</PointerOffset>
       <JapaneseText>武器屋「ティーゼル」よぉ♪
 ほしいものあるぅ？</JapaneseText>
-      <EnglishText>Welcome to Tizel, your friendly local weapon shop♪
-Got anything you're looking for?</EnglishText>
+      <EnglishText>We're the weapon shop, "Teisel"~ ♪
+There anything you're looking for~?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -96,7 +96,8 @@ Got anything you're looking for?</EnglishText>
       <PointerOffset>269768</PointerOffset>
       <JapaneseText>手になじむ武具、
 あったぁ？</JapaneseText>
-      <EnglishText>You find anything that suits you?</EnglishText>
+      <EnglishText>Any o' the gear
+suit your fancy~?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
@@ -107,9 +108,9 @@ Got anything you're looking for?</EnglishText>
       <JapaneseText>何よ、みんな、&lt;Mint&gt;&lt;Mint&gt;って
 あんなのちょっと
 カワイイだけじゃない</JapaneseText>
-      <EnglishText>What's up with everyone going on about &lt;Mint&gt; this or
-&lt;Mint&gt; that!? The only thing she's got going for her
-is that she's a little cute!</EnglishText>
+      <EnglishText>Why's everyone keep talking about
+&lt;Mint&gt;? Sure, she's kind of cute, but
+that's her only good point, really, isn't it?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -120,8 +121,8 @@ is that she's a little cute!</EnglishText>
       <PointerOffset>269772</PointerOffset>
       <JapaneseText>胸がでかくて……
 キーーーー悔しい！</JapaneseText>
-      <EnglishText>And that huge rack she's got-
-Gyaaahh - It's so unfair!</EnglishText>
+      <EnglishText>And those huge things on her
+chest... Gyaaahh! It's so unfair!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -132,8 +133,8 @@ Gyaaahh - It's so unfair!</EnglishText>
       <PointerOffset>269776</PointerOffset>
       <JapaneseText>男に頼るだけしか能のない、
 つまんない女よね</JapaneseText>
-      <EnglishText>She's nothing but a boring woman who can't do
-anything but rely on men.</EnglishText>
+      <EnglishText>Her only "talent" is relying on men!
+What's so great about a girl like that?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -144,8 +145,8 @@ anything but rely on men.</EnglishText>
       <PointerOffset>269776</PointerOffset>
       <JapaneseText>男はどうしてあんなのが
 好きなのかしら……ふん……</JapaneseText>
-      <EnglishText>Why do guys like that kind of woman...
-Hmph...</EnglishText>
+      <EnglishText>What do men even like about
+girls like that...? Hmph...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -157,9 +158,9 @@ Hmph...</EnglishText>
       <JapaneseText>&lt;Mint&gt;ってむかつくわ。
 もともとこの村の人間でも
 ないのに急にやって来て……</JapaneseText>
-      <EnglishText>&lt;Mint&gt; really pisses me off.
-She's not even originally from this village,
-but she just showed up out of nowhere...</EnglishText>
+      <EnglishText>&lt;Mint&gt; is just so irritating. She's not
+even *from* this village, but she
+moved in all of a sudden, and then...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
@@ -171,8 +172,9 @@ but she just showed up out of nowhere...</EnglishText>
       <JapaneseText>そもそも
 &lt;Cless&gt;に最初に目つけたの
 私の方が先だっての</JapaneseText>
-      <EnglishText>In the first place, I was the one who had eyes
-on &lt;Cless&gt;.</EnglishText>
+      <EnglishText>And anyway, it's all about
+finders keepers, so I should
+get first dibs on &lt;Cless&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
@@ -184,9 +186,9 @@ on &lt;Cless&gt;.</EnglishText>
       <JapaneseText>&lt;Chester&gt;も&lt;Chester&gt;だわ
 私と&lt;Cless&gt;のこと応援するって
 言ってたくせに……</JapaneseText>
-      <EnglishText>&lt;Chester&gt;'s being &lt;Chester&gt; as usual.
-He said he'd root for me and &lt;Cless&gt;,
-and yet...</EnglishText>
+      <EnglishText>And even &lt;Chester&gt;. He
+said he was all for me
+and &lt;Cless&gt;, and yet...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
@@ -197,8 +199,8 @@ and yet...</EnglishText>
       <PointerOffset>269784</PointerOffset>
       <JapaneseText>どうせ&lt;Chester&gt;もあの女に
 うまく丸め込まれたんだわ</JapaneseText>
-      <EnglishText>I bet that vixen's got &lt;Chester&gt; wrapped around her
-little finger too.</EnglishText>
+      <EnglishText>In any case, she's probably
+got &lt;Chester&gt; in her pocket, too.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
@@ -209,8 +211,8 @@ little finger too.</EnglishText>
       <PointerOffset>269788</PointerOffset>
       <JapaneseText>このあいだ、&lt;Mint&gt;と話したわ……
 何よ……</JapaneseText>
-      <EnglishText>The other day, I was chatting with &lt;Mint&gt;...
-I can't believe it...</EnglishText>
+      <EnglishText>Just the other day, I spoke to &lt;Mint&gt;...
+And I, just... What in the world...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
@@ -220,7 +222,7 @@ I can't believe it...</EnglishText>
     <Entry>
       <PointerOffset>269788</PointerOffset>
       <JapaneseText>……いいやつじゃない……</JapaneseText>
-      <EnglishText>She's... not bad after all...</EnglishText>
+      <EnglishText>...She's so nice...</EnglishText>
       <Notes>Could phrase it as "She's a nice girl, isn't she..."</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
@@ -231,7 +233,8 @@ I can't believe it...</EnglishText>
       <PointerOffset>269792</PointerOffset>
       <JapaneseText>私の&lt;Cless&gt;をとったのは
 許せないけど……</JapaneseText>
-      <EnglishText>I still can't forgive her for taking my &lt;Cless&gt;, but...</EnglishText>
+      <EnglishText>I'm still upset she took
+&lt;Cless&gt; from me, but...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
@@ -241,7 +244,7 @@ I can't believe it...</EnglishText>
     <Entry>
       <PointerOffset>269792</PointerOffset>
       <JapaneseText>……ま、いいわ……</JapaneseText>
-      <EnglishText>Well, never mind...</EnglishText>
+      <EnglishText>...Oh well...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>

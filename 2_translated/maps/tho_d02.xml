@@ -45,10 +45,10 @@
     <Entry>
       <PointerOffset>288397</PointerOffset>
       <JapaneseText>宝箱のような箱の上にスイッチがある</JapaneseText>
-      <EnglishText>There’s a switch on top of a box that looks like a treasure chest.</EnglishText>
+      <EnglishText>There's a switch on this (treasure?) box.</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -572,8 +572,8 @@
       <PointerOffset>288432</PointerOffset>
       <JapaneseText>            押す
             押さない               </JapaneseText>
-      <EnglishText>            Press　　
-            Leave It</EnglishText>
+      <EnglishText>            Press it
+            Don't press it</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>64</Id>
@@ -590,11 +590,11 @@
     <Entry>
       <PointerOffset>288526</PointerOffset>
       <JapaneseText>特に何もない</JapaneseText>
-      <EnglishText>Nothing happens.</EnglishText>
-      <Notes/>
+      <EnglishText>Nothing in particular.</EnglishText>
+      <Notes>need to check this in-game for context</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>66</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>288551</PointerOffset>
@@ -615,11 +615,12 @@
     <Entry>
       <PointerOffset>288621</PointerOffset>
       <JapaneseText>コモンキーを使ってロックを解いた</JapaneseText>
-      <EnglishText>Used the Common Key to unlock it.</EnglishText>
-      <Notes/>
+      <EnglishText>You used the Common Key
+to unlock the door.</EnglishText>
+      <Notes>see above</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>69</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
   </Strings>
 </SceneText>
