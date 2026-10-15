@@ -48,7 +48,7 @@
     <Entry>
       <PointerOffset>277892</PointerOffset>
       <JapaneseText>ネルヴィの洞窟　入り口</JapaneseText>
-      <EnglishText>Norfi's Cave - Entrance</EnglishText>
+      <EnglishText>Nervi's Cavern - Entrance</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Editing</Status>
@@ -574,11 +574,14 @@
 岩で塞いだりするんじゃねえぞ
 守れねぇヤツは、串刺しの刑だぜ
 　　　　　　　　　　　　　　　　　　　班長</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Now, listen up! All this miasma spewin'
+out? We need it t' live! Drop any rocks
+down and block it off, and I'll skewer ya!
+　　　　　　　　　　　　　　　　　　　　　- Squad Captain</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>65</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278148</PointerOffset>
@@ -596,12 +599,13 @@
       <PointerOffset>278148</PointerOffset>
       <JapaneseText>何か文字っぽくも見えるが
 良くわからない……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They kind of look like letters, but you
+can't make heads or tails of them...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>66</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

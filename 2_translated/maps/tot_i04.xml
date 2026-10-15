@@ -14,19 +14,19 @@
       <PointerOffset>272560,272624,272688,272752,272816,272880</PointerOffset>
       <MaxLength>48</MaxLength>
       <JapaneseText>新米司教</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Novice Bishop</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272944,273008,273072,273136,273200,273264</PointerOffset>
       <MaxLength>48</MaxLength>
       <JapaneseText>お祈りする少女</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Praying Girl</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -124,18 +124,21 @@
       <JapaneseText>スルト深林のグレムリンレアー
 ですが、魔界に帰りそこない
 捕らえられました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We've captured Gremlin Lair from
+the Surt Deepwoods, to prevent
+him from returning to Daemonium.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282752</PointerOffset>
       <JapaneseText>現在、こちらの教会で、
 確保しております</JapaneseText>
-      <EnglishText>It is currently being held at the church.</EnglishText>
+      <EnglishText>For the time being, he's being
+held in custody at this church.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -147,34 +150,38 @@
       <JapaneseText>こちらの世界に取り残され、
 ここで確保していた
 グレムリンレアーですが</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gremlin Lair, who was left
+behind in our world and was
+being held in custody here...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282948</PointerOffset>
       <JapaneseText>見張りの隙を突いて、
 逃げ出してしまいました</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...found a gap in our guard
+and staged an escape.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282948</PointerOffset>
       <JapaneseText>これも私の不徳……
 一体、ヤツはどこへ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This was a failure on my part...
+Where could he have gone...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -184,139 +191,160 @@
       <JapaneseText>自然と共に人として
 あるがままに生きること、それが
 大地母神マーテルの教えです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To conduct your life as man in
+harmony with nature is the teaching of
+the Mother of Aselia, Goddess Martel.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274736</PointerOffset>
       <JapaneseText>大地の力で人を癒す&lt;Mint&gt;様は
 この教会で崇めるべきマーテルの
 ようなお方</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lady &lt;Mint&gt;, who heals people using power
+drawn from Aselia itself, and Martel,
+who this church worships, are much alike.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274740</PointerOffset>
       <JapaneseText>ここは聖レニオス教会。
 古くこの村がベルアダムと
 呼ばれた時代からあります</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This is the Church of Saint Lenios.
+It has stood here since this village
+was known as Belladam, long ago.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274740</PointerOffset>
       <JapaneseText>レニオスはこの村の
 村長さんだった人の
 名前だそうです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It seems Lenios was
+the name of a former
+elder of the village.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274744</PointerOffset>
       <JapaneseText>ヴァルハラで戦いがありましたね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So, there was a
+battle in Valhalla.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274744</PointerOffset>
       <JapaneseText>幸い我々の方は死人は
 なかったようですが、
 敵方に死者が出たようです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There were no casualties among
+our own people, fortunately, but
+some of the enemy did perish.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274744</PointerOffset>
       <JapaneseText>悲しいことです。
 死した魂が大地へ回帰することを
 祈りましょう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's a sorrowful thing.
+I pray that their souls
+may return to the world.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274748</PointerOffset>
       <JapaneseText>すべての魂は死んでしまえば
 敵味方関係ありません。
 すべてこの大地の子</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The souls of all who have perished are
+the same, whether they were friend or
+foe in life. All are children of Aselia.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274748</PointerOffset>
       <JapaneseText>等しく、その安らかで
 長き眠りをお祈りするばかりです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I pray for all equally, that their souls
+may enjoy a long and peaceful rest.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274752</PointerOffset>
       <JapaneseText>大地母神マーテルの教えは
 この自然豊かな村だからこそ
 根付いた教えです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It is because this village enjoys nature's
+bounty that the teaching's of the Mother
+of Aselia, Goddess Martel, have taken root.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274752</PointerOffset>
       <JapaneseText>世界樹の恵みと導きが
 あなたに豊かな潤いを
 お与えくださいますよう……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I pray that the blessings and guidance
+of the World Tree will be bounteous
+in the graces they bestow upon you.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274756</PointerOffset>
       <JapaneseText>どうぞ、あなた方の旅に
 神のご加護がありますように……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>May the Goddess's protection be
+ever with you on your journey...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274760</PointerOffset>
@@ -324,8 +352,8 @@
 お母さんが私に新しいドレスを
 買ってくれますように</JapaneseText>
       <EnglishText>Lady Martel, Lady Martel,
-I pray that my mom will buy me a
-new dress.</EnglishText>
+I pray that my mom will
+buy me a new dress for me.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
@@ -337,8 +365,8 @@ new dress.</EnglishText>
       <JapaneseText>マーテル様はスゴイのよ、
 私のお願いをいつも
 叶えてくれるの</JapaneseText>
-      <EnglishText>Lady Martel is amazing - she always
-grants my wishes.</EnglishText>
+      <EnglishText>Lady Martel is amazing—she
+always grants my wishes.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
@@ -350,7 +378,8 @@ grants my wishes.</EnglishText>
       <JapaneseText>マーテル様、
 お祈り叶えてくれて
 ありがとう</JapaneseText>
-      <EnglishText>Lady Martel, thank you for granting my wish.</EnglishText>
+      <EnglishText>Lady Martel, thank you
+for granting my wish.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
@@ -361,8 +390,8 @@ grants my wishes.</EnglishText>
       <PointerOffset>274764</PointerOffset>
       <JapaneseText>だから今度も
 叶えてね∀</JapaneseText>
-      <EnglishText>So please make it happen again for this time
-too, 'kay?</EnglishText>
+      <EnglishText>So grant my next
+one, too, 'kay? ∀</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
@@ -374,8 +403,8 @@ too, 'kay?</EnglishText>
       <JapaneseText>マーテル様マーテル様、
 歌って踊れるステキな戦士に
 なれますように</JapaneseText>
-      <EnglishText>Lady Martel, Lady Martel,
-I pray I become a powerful warrior
+      <EnglishText>Lady Martel, Lady Martel, I
+pray I become a great warrior
 who can both sing and dance.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -387,7 +416,8 @@ who can both sing and dance.</EnglishText>
       <PointerOffset>274768</PointerOffset>
       <JapaneseText>マーテル様は私の将来の夢も
 願えば叶えてくれるはず</JapaneseText>
-      <EnglishText>If I make a wish, Lady Martel will surely make
+      <EnglishText>If I make a wish, Lady
+Martel will surely make
 my dreams come true.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -399,7 +429,8 @@ my dreams come true.</EnglishText>
       <PointerOffset>274772</PointerOffset>
       <JapaneseText>マーテル様、このお願い、
 必ず叶えてください！</JapaneseText>
-      <EnglishText>Lady Martel, please make this wish come true!</EnglishText>
+      <EnglishText>Lady Martel, please make
+this wish come true!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>19</Id>
@@ -411,8 +442,9 @@ my dreams come true.</EnglishText>
       <JapaneseText>叶えてくれたら、儲けたお金で
 この教会、新しく
 建て直してあげる！</JapaneseText>
-      <EnglishText>If you make my wish come true, I'll use the
-money I make to rebuild this church from scratch!</EnglishText>
+      <EnglishText>If you make my wish come
+true, I'll use the money I make
+to rebuild this whole church!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>19</Id>
@@ -425,8 +457,8 @@ money I make to rebuild this church from scratch!</EnglishText>
 全世界の人々が
 平和で暮らせますように……</JapaneseText>
       <EnglishText>Lady Martel, Lady Martel,
-may all the people in the world
-live in peace...</EnglishText>
+may all the peoples of
+the world live in peace...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>21</Id>
@@ -438,8 +470,9 @@ live in peace...</EnglishText>
       <JapaneseText>あまり欲張るとよくないって
 &lt;Mint&gt;様から言われたから
 みんなの幸せをお祈りしたの</JapaneseText>
-      <EnglishText>&lt;Mint&gt; told me not to be too greedy, so I
-prayed for everyone's happiness instead.</EnglishText>
+      <EnglishText>Lady &lt;Mint&gt; told me it's not good
+to be too greedy, so I prayed
+for everyone's happiness instead.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>21</Id>
@@ -450,7 +483,8 @@ prayed for everyone's happiness instead.</EnglishText>
       <PointerOffset>274780</PointerOffset>
       <JapaneseText>あなたたちも
 ずっと幸せに暮らせますように</JapaneseText>
-      <EnglishText>I hope everyone can live happily ever after.</EnglishText>
+      <EnglishText>I pray that you, too, will
+live happily ever after.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
@@ -462,8 +496,9 @@ prayed for everyone's happiness instead.</EnglishText>
       <JapaneseText>……マーテル様、
 見ててくれますか？
 これで私のお願いも叶えてね？</JapaneseText>
-      <EnglishText>...Lady Martel, are you watching?
-Will you grant my wish too?</EnglishText>
+      <EnglishText>...Lady Martel, are you
+watching? I'm being good, so
+won't you grant my wish too?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
@@ -981,8 +1016,7 @@ Will you grant my wish too?</EnglishText>
       <PointerOffset>283070</PointerOffset>
       <JapaneseText>え？
 あ、あの……</JapaneseText>
-      <EnglishText>Eh?
-Umm, uhh...</EnglishText>
+      <EnglishText>Eh? Ah, umm...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>64</Id>
@@ -991,7 +1025,8 @@ Umm, uhh...</EnglishText>
     <Entry>
       <PointerOffset>283095</PointerOffset>
       <JapaneseText>あんまり無茶しないでよ？</JapaneseText>
-      <EnglishText>Don't push yourself too hard, okay?</EnglishText>
+      <EnglishText>Don't push yourself
+too hard, okay?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>65</Id>
@@ -1000,7 +1035,7 @@ Umm, uhh...</EnglishText>
     <Entry>
       <PointerOffset>283127</PointerOffset>
       <JapaneseText>クル～</JapaneseText>
-      <EnglishText>Kuru~</EnglishText>
+      <EnglishText>Coulu~</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>66</Id>
