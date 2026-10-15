@@ -5,18 +5,18 @@
     <Entry>
       <PointerOffset>268548,268612,268676</PointerOffset>
       <JapaneseText>「ゴーリ２号店」の主人</JapaneseText>
-      <EnglishText>"Gory Store 2" Owner</EnglishText>
+      <EnglishText>"Goalie" #2 Owner</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268740,268804,268868,268932,268996,269060</PointerOffset>
       <JapaneseText>決意の魔法学者</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Determined Magic Researcher</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -64,7 +64,7 @@
     <Entry>
       <PointerOffset>277800</PointerOffset>
       <JapaneseText>雑貨屋　ゴーリ２号店</JapaneseText>
-      <EnglishText>General Store Gori Store 2</EnglishText>
+      <EnglishText>General Store - "Goalie" #2</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Editing</Status>
@@ -76,7 +76,8 @@
       <PointerOffset>269928</PointerOffset>
       <JapaneseText>雑貨屋ゴーリ２号店へ
 ようこそ</JapaneseText>
-      <EnglishText>Welcome to the 2nd Branch of "Gori's General Store!"</EnglishText>
+      <EnglishText>Welcome to the general
+store, "Goalie" #2.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -87,7 +88,8 @@
       <PointerOffset>269928</PointerOffset>
       <JapaneseText>何かほしいものが
 あるのかい？</JapaneseText>
-      <EnglishText>Is there anything you're looking for?</EnglishText>
+      <EnglishText>Is there anything
+you're looking for?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -108,9 +110,9 @@
       <JapaneseText>ゴーリゴリの「ゴーリ」だよ
 お忘れなきよう。
 １号店もよろしくな</JapaneseText>
-      <EnglishText>The "Gori" comes from Gorigori.
-Don't forget it.
-Please stop by our first location.</EnglishText>
+      <EnglishText>We're called "Goalie" because we never
+fail to catch the details. Do try to
+remember that. And try visiting #1, too.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -120,8 +122,8 @@ Please stop by our first location.</EnglishText>
       <PointerOffset>269940</PointerOffset>
       <JapaneseText>うーん……ないかなぁ
 ないよなぁ……</JapaneseText>
-      <EnglishText>Hmm... I wonder if...
-I guess not...</EnglishText>
+      <EnglishText>Hmm... They probably don't...
+Yeah, I don't think they do...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
@@ -132,7 +134,7 @@ I guess not...</EnglishText>
       <PointerOffset>269940</PointerOffset>
       <JapaneseText>ルヴォス１２って石なんだけど
 君たち見たことないかい？</JapaneseText>
-      <EnglishText>There's this stone called Luvos 12.
+      <EnglishText>There's this gemstone called Luvos-12.
 Have you ever heard of it?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
@@ -145,8 +147,9 @@ Have you ever heard of it?</EnglishText>
       <JapaneseText>さすがにルヴォス１２は
 こんな田舎町の雑貨店には
 ないよなぁ……</JapaneseText>
-      <EnglishText>But then again, a general store in a backwater town
-like this probably wouldn't carry a Luvos 12...</EnglishText>
+      <EnglishText>I should've known... It's a
+rural general store, so of course
+they don't have any Luvos-12...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -157,8 +160,11 @@ like this probably wouldn't carry a Luvos 12...</EnglishText>
       <PointerOffset>269944</PointerOffset>
       <JapaneseText>とあるものを作るための
 原材料なんだけどね……</JapaneseText>
-      <EnglishText>It's a raw material I require for my creation...</EnglishText>
-      <Notes/>
+      <EnglishText>FYI, it's a base material to
+create a certain something...</EnglishText>
+      <Notes>people do use FYI in conversation
+and i imagine this npc would be
+the type to do it</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
@@ -169,21 +175,23 @@ like this probably wouldn't carry a Luvos 12...</EnglishText>
       <JapaneseText>私はバジル博士の提唱した
 人工マナについての
 研究をしているんだ</JapaneseText>
-      <EnglishText>I'm conducting research on artificial mana, per
-Professor Basil's recommendation.</EnglishText>
-      <Notes/>
+      <EnglishText>I'm conducting research
+into artificial mana, of which
+Basil was a proponent.</EnglishText>
+      <Notes>Basil-Hakase/Professor Basil</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>269948</PointerOffset>
       <JapaneseText>ヴァルハラも解放されたし、
 そろそろ材料の
 ルミネイト１２８も流通するかな</JapaneseText>
-      <EnglishText>Now that Valhala has been liberated, I wonder
-if Luminate 128 will start hitting the markets soon?</EnglishText>
+      <EnglishText>Valhalla has been liberated, now,
+so I imagine Luminate-128 should
+be in circulation soon...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
@@ -195,9 +203,9 @@ if Luminate 128 will start hitting the markets soon?</EnglishText>
       <JapaneseText>ルミネイト１２８、通称「紅の月」。
 ルヴォス１２と融合反応させ
 作るのが人工マナ</JapaneseText>
-      <EnglishText>Luminate 128 is commonly known as "Crimson Moon".
-It's used in a fusion reaction with Luvos 12 in order
-to produce artificial mana.</EnglishText>
+      <EnglishText>Luminate-128, common name "Crimson
+Moon." When fused together with
+Luvos-12, the product is artificial mana.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
@@ -209,9 +217,12 @@ to produce artificial mana.</EnglishText>
       <JapaneseText>人工マナを使えば
 人も魔術を紡げるように
 なるかもというのがバジル理論ね</JapaneseText>
-      <EnglishText>Basil's theory is that if we use artificial mana,
-humans might be able to cast magic too.</EnglishText>
-      <Notes/>
+      <EnglishText>According to Basil's theory, if we use
+artificial mana, even humans might
+very well be enabled to weave magic.</EnglishText>
+      <Notes>this line does NOT use Hakase/Professor;
+also, the "weave" comes from an unusual
+and similar choice of word in japanese</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
@@ -222,41 +233,48 @@ humans might be able to cast magic too.</EnglishText>
       <JapaneseText>バジル博士が「シグルド」の
 ブレイナーだったのは
 ショックだったよ</JapaneseText>
-      <EnglishText>I was shocked to hear that Professor Basil was
-the brains behind "Sigurd".</EnglishText>
-      <Notes/>
+      <EnglishText>It came as a shock to me that
+Brynhildr, of "Sigurd," was
+actually the professor, Basil.</EnglishText>
+      <Notes>Basil-Hakase/Professor Basil</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>269956</PointerOffset>
       <JapaneseText>バジル博士にも色々と
 無念な想いがあったんだろうね</JapaneseText>
-      <EnglishText>I guess Professor Basil must've had his share of grievances too.</EnglishText>
-      <Notes/>
+      <EnglishText>Looks like even Basil had
+quite a lot of bones to
+pick with the world, eh?</EnglishText>
+      <Notes>Basil-Hakase/Professor Basil</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>269960</PointerOffset>
       <JapaneseText>亡くなったバジル博士の意思は
 私が引き継ぐよ</JapaneseText>
-      <EnglishText>I'll be sure to carry on the late Professor Basil's legacy.</EnglishText>
-      <Notes/>
+      <EnglishText>I'll carry on the
+deceased professor's
+work myself.</EnglishText>
+      <Notes>Basil-Hakase/Professor Basil</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>269960</PointerOffset>
       <JapaneseText>まだまだ私など、
 その足元に及びもしないけどね</JapaneseText>
-      <EnglishText>I'm still nowhere near his level though.</EnglishText>
+      <EnglishText>Though, some rando like me
+doesn't even come close to
+measuring up to him!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>

@@ -48,10 +48,10 @@
     <Entry>
       <PointerOffset>291320</PointerOffset>
       <JapaneseText>ネルヴィの洞窟　地下５階</JapaneseText>
-      <EnglishText>Norfi's Cave - B5F</EnglishText>
+      <EnglishText>Nervi's Cavern - B5F</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -567,11 +567,15 @@
 下っ端は、通行禁止だぜ！
 守れねぇヤツは、火あぶりの刑だ
 　　　　　　　　　　　　　　　　　　　班長</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The spiral road just past here's meant
+for top class daemons only. You grunts
+better not set so much as a toe on it!
+If ya do, I'll burn the lot of ya alive.
+　　　　　　　　　　　　　　　　　　　　　- Squad Captain</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>64</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>291516</PointerOffset>
@@ -589,12 +593,13 @@
       <PointerOffset>291516</PointerOffset>
       <JapaneseText>何か文字っぽくも見えるが
 良くわからない……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They kind of look like letters, but you
+can't make heads or tails of them...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>65</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>291618</PointerOffset>

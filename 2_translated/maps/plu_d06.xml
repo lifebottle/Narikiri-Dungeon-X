@@ -48,10 +48,10 @@
     <Entry>
       <PointerOffset>286684</PointerOffset>
       <JapaneseText>ネルヴィの洞窟　地下６階</JapaneseText>
-      <EnglishText>Norfi's Cave - B6F</EnglishText>
+      <EnglishText>Nervi's Cavern - B6F</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -565,11 +565,15 @@
       <JapaneseText>この下、上級魔族専用部屋。
 降りる時は、お静かに！
 　　　　　　　　　　　　　　　　　委員長</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The room below here's for
+top class daemons only. If
+you do go down there, take
+care, and be quiet about it!
+　　　　　　　　　　　　　　　- Chairdaemon</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>64</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286824</PointerOffset>
@@ -587,12 +591,13 @@
       <PointerOffset>286824</PointerOffset>
       <JapaneseText>何か文字っぽくも見えるが
 良くわからない……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They kind of look like letters, but you
+can't make heads of tails of them...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>65</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286926</PointerOffset>
