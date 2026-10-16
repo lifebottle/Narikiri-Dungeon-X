@@ -29,10 +29,10 @@
     <Entry>
       <PointerOffset>290360,290424,290488,290552,290616,290680,290744,290808</PointerOffset>
       <JapaneseText>仕事がしたい男</JapaneseText>
-      <EnglishText>Man Looking for Work</EnglishText>
+      <EnglishText>Job-Seeking Man</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>290872,290936,291000,291064,291128,291192</PointerOffset>
@@ -45,10 +45,10 @@
     <Entry>
       <PointerOffset>291256,291320,291384,291448,291512,291576</PointerOffset>
       <JapaneseText>不吉な老婆</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sinister Elder</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>291640,291704,291768,291832,291896,291960</PointerOffset>
@@ -302,8 +302,8 @@
 うちの嫁、
 いい牛肉を奮発してくれたかの</JapaneseText>
       <EnglishText>We'll be having sukiyaki for dinner
-tonight. My wife must've splurged on
-some top-notch cut of beef.</EnglishText>
+tonight. I wonder if my wife
+splurged on some nice beef...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -313,7 +313,7 @@ some top-notch cut of beef.</EnglishText>
     <Entry>
       <PointerOffset>300344</PointerOffset>
       <JapaneseText>肉食いたいのぅ、肉</JapaneseText>
-      <EnglishText>I really want some meat... meat...</EnglishText>
+      <EnglishText>Meat... I really wanna eat meat...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -325,8 +325,9 @@ some top-notch cut of beef.</EnglishText>
       <JapaneseText>ロースでもサーロインでも
 ヒレでも、ももでも
 なんでも来い！</JapaneseText>
-      <EnglishText>Whether it's ribeye, sirloin, filet,
-or round - bring it on!</EnglishText>
+      <EnglishText>Sirloin, tenderloin,
+filet, round...whatever
+it is, I just want meat!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
@@ -337,7 +338,8 @@ or round - bring it on!</EnglishText>
       <PointerOffset>300348</PointerOffset>
       <JapaneseText>まだまだ
 ワシの胃は若いぞぃ！</JapaneseText>
-      <EnglishText>I've still got a young stomach!</EnglishText>
+      <EnglishText>My stomach's still
+plen'y young!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
@@ -347,7 +349,7 @@ or round - bring it on!</EnglishText>
     <Entry>
       <PointerOffset>300348</PointerOffset>
       <JapaneseText>……でも、魚は嫌いじゃ……</JapaneseText>
-      <EnglishText>...But I don't really like fish...</EnglishText>
+      <EnglishText>...But, I hate fish...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
@@ -358,8 +360,9 @@ or round - bring it on!</EnglishText>
       <PointerOffset>300352</PointerOffset>
       <JapaneseText>朝飯もメザシ、昼飯もメザシ、
 魚好きの嫁は魚ばっかり</JapaneseText>
-      <EnglishText>It's mackerel for breakfast, mackerel for lunch.
-My fish-loving wife serves nothing but fish.</EnglishText>
+      <EnglishText>Breakfast? Anchovies... Lunch?
+Anchovies... My fish-loving wife
+cooks almost nothin' *but* fish.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -371,19 +374,23 @@ My fish-loving wife serves nothing but fish.</EnglishText>
       <JapaneseText>癒されぬワシは今日も
 &lt;Mint&gt;様の下へ
 日参するのじゃ</JapaneseText>
-      <EnglishText>To satisfy my daily cravings, I head to
-Lady &lt;Mint&gt;'s place every day.</EnglishText>
-      <Notes>Want to double check if this is what he's saying.</Notes>
+      <EnglishText>Unsatisfied by my wife's cooking, I pay
+a visit to Lady &lt;Mint&gt; at the church
+once a day, so as to satisfy my soul.</EnglishText>
+      <Notes>Want to double check if this is what he's saying. /
+Not quite. - nanashi</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300356</PointerOffset>
       <JapaneseText>&lt;Mint&gt;様は
 この村のアイドルじゃ</JapaneseText>
-      <EnglishText>Lady &lt;Mint&gt; truly is the sweetheart of this village.</EnglishText>
+      <EnglishText>If anyone in this
+village's "iconic," it's
+got to be Lady &lt;Mint&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -394,967 +401,1102 @@ Lady &lt;Mint&gt;'s place every day.</EnglishText>
       <PointerOffset>300356</PointerOffset>
       <JapaneseText>老若男女問わず、
 大人気なんじゃ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She's popular with every
+one of us. Men and
+women, young and old...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300360</PointerOffset>
       <JapaneseText>ヴァルハラで
 戦いがあったそうじゃのう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Seems there was a
+battle in Valhalla.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300360</PointerOffset>
       <JapaneseText>&lt;Mint&gt;様も
 活躍されたそうで
 何よりじゃ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And it seems Lady &lt;Mint&gt;
+performed some great deeds
+there, so that's real nice to hear.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300364</PointerOffset>
       <JapaneseText>勇敢にも&lt;Mint&gt;様が
 ヴァルハラの戦いに
 参加されたとか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So even Lady &lt;Mint&gt;
+gallantly joined the
+battle, did she...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300364</PointerOffset>
       <JapaneseText>いやいや、無事で
 帰ってこられただけで
 ワシらは満足だよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, so long as she's
+returned safe and sound,
+I'm plen'y happy with that.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300368</PointerOffset>
       <JapaneseText>&lt;Mint&gt;様はワシらが村の
 アイドルじゃ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Lady &lt;Mint&gt;'s the icon
+of our village!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300368</PointerOffset>
       <JapaneseText>他の村の者には
 渡さん！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We ain't lettin' any of those
+other villages have 'er!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300372</PointerOffset>
       <JapaneseText>こりゃ、&lt;Mint&gt;様を勝手に
 連れていくのでないぞ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No one's gonna take our
+Lady &lt;Mint&gt;, y'understand?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>16</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300376</PointerOffset>
       <JapaneseText>最近の悩みは
 ヒモについてなのよ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Lately, I'm worried
+about my bum.</EnglishText>
+      <Notes>hard to focus because some incredibly creepy gross man is bugging me, might need to redo all of this who knows</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>300376</PointerOffset>
       <JapaneseText>牛引く時に使ったり
 山登りしたりする時に
 使うアレじゃないわよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And not the kind you sit
+or put your pants on.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>300380</PointerOffset>
       <JapaneseText>今の悩みは
 ヒモなのよね～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This bum's
+such a pain~</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>19</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>300380</PointerOffset>
       <JapaneseText>そうそう、物質の元の元は
 全部、粒じゃなくて
 ヒモでできて……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Y'know, a "bum rap," when the police
+come around and try to do you for
+a crime you didn't even know about...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>300380</PointerOffset>
       <JapaneseText>……ってそれでも、ないし！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...No, not that kind, either!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>19</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>300384</PointerOffset>
       <JapaneseText>どうしてあの人は
 働かないのかしら……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I really wonder why that
+man just won't get a job...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>22</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>300384</PointerOffset>
       <JapaneseText>あ、一緒に住んでるカレの
 ことなんだけど、
 もう困ってるのよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, I'm talking about the
+boyfriend I'm living with now.
+I'm really struggling with him.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>22</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>300388</PointerOffset>
       <JapaneseText>怠け者のカレのこと、
 &lt;Mint&gt;様に相談はしたけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My boyfriend's just so lazy... I tried
+talking to Lady &lt;Mint&gt; about him, but...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>24</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>300388</PointerOffset>
       <JapaneseText>あの人には私の悩みなんて
 理解できっこない……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't think she'd ever be
+able to understand what
+I'm so stressed about...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>300388</PointerOffset>
       <JapaneseText>だって、あの人のカレ、
 ステキすぎなんですもの！！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Since her own boyfriend's
+so ridiculously amazing!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>24</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>300392</PointerOffset>
       <JapaneseText>はぁ……どうしたら、
 怠け者のうちのカレ、
 働いてくれるのかしら……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Haaah... What do I even do...?
+How can I convince my lazy
+boyfriend to get a job...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>27</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>300392</PointerOffset>
       <JapaneseText>なまじっか、
 私が儲けてるのが
 いけないのよね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe it's my fault...
+Maybe I shouldn't be
+earning all the money...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>27</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>300396</PointerOffset>
       <JapaneseText>……私が仕事辞めたら
 カレ、働く気になるかしら……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Maybe if I quit my
+job, then my boyfriend
+will start working...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>29</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>300396</PointerOffset>
       <JapaneseText>……ダメだわ、
 怠け者がふたりできるだけ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...No, that won't work. We'd
+both be lazy bums, then...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>300400</PointerOffset>
       <JapaneseText>今日もカレ、
 うちでごろごろ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Once again today, my
+boyfriend's just sitting at
+home, playing couch potato...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>31</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>300400</PointerOffset>
       <JapaneseText>だから、決めたの！
 私もう別れるわ、あの人と！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And so, I've decided! At long
+last, I'm breaking up with him!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>300404</PointerOffset>
       <JapaneseText>決めた、私、カレと別れるって。
 わたしがいるから
 よけいにダメになるのよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yup. I've decided. We're breaking
+up. The longer I stay with him,
+the more worthless he'll become.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>33</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>300404</PointerOffset>
       <JapaneseText>……でも……私がいなくなって
 お金がなくなったら……
 あの人、死んじゃうかも……！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...But, y'know... If I leave
+him, and he runs out of
+money...he might die...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>33</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>300404</PointerOffset>
       <JapaneseText>ああ、それはイヤだわ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ahh, I don't want *that*...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>33</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>300408</PointerOffset>
       <JapaneseText>目指せ！
 海賊チョコカード、コンプリート！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Gotta collect'em all!
+The Pirate Choco-
+Card Complete Set!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>36</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300408</PointerOffset>
       <JapaneseText>ここまで友達と交換したり
 勝負に勝ったりして
 ずいぶん集まったんだぜ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I traded and battled my
+friends a lot to get to
+this point, you know?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>36</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300412</PointerOffset>
       <JapaneseText>海賊は漢のロマンなんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's a pirate's
+life for me!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>38</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300412</PointerOffset>
       <JapaneseText>ぼく、大きくなったら
 絶対、パイレーツキングに
 なるんだ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When I get older, I'm
+gonna be the King of
+Pirates, just you watch!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>38</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300416</PointerOffset>
       <JapaneseText>ぼくの大切な海賊チョコカード、
 お父さんに買ってもらって
 とっても大事にしてたのに</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My dad bought me most of my
+Pirate Choco-Cards, and they
+were my prized treasures, and...and...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>40</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300416</PointerOffset>
       <JapaneseText>全部、お母さんに
 捨てられちゃったよ～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My mom threw
+every last one
+of 'em out.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>40</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300420</PointerOffset>
       <JapaneseText>ぼくの海賊チョコカード、
 どこに行っちゃったのかなぁ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My Pirate Choco-Cards...
+Where are they now...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>42</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300420</PointerOffset>
       <JapaneseText>やっぱり海賊なんて
 現実的じゃない
 夢なのかなぁ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I guess pirates aren't a
+real thing... Was it all just
+a dream, in the end...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>42</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300424</PointerOffset>
       <JapaneseText>海賊になるために家出したら、
 ユークリッドを越える山道で
 お父さんに捕まっちゃった</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I left home to become a pirate, made
+it all the way to the mountain road to
+Euclid...and then my dad caught me.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>44</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300424</PointerOffset>
       <JapaneseText>でも、負けないもんね。
 次はいつにしようかな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But I'm not givin' up.
+When should I try next...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>44</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300428</PointerOffset>
       <JapaneseText>海賊になったら、
 アジトにする場所、
 もう決めてあるんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've already picked a
+good spot to use as
+my pirate hideout.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>46</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300428</PointerOffset>
       <JapaneseText>ユークリッドの南の……
 おっと！　この先は
 ひみつだな！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Just south of Euclid,
+there's... Wait! Keep
+this a secret, yeah!?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>46</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300432</PointerOffset>
       <JapaneseText>海賊になるために
 剣の練習も始めたんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've started practicing with
+a sword, too, since I'll
+need one to be a pirate.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>48</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300432</PointerOffset>
       <JapaneseText>ぼくと手合わせしてみる？
 ちびっこいからって舐めてると
 痛い目みるよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wanna try a practice fight with
+me? I might be small, but look
+down on me, and you'll regret it!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>48</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300436</PointerOffset>
       <JapaneseText>ぼくと手合わせしないの？
 そう、それもいいかな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You don't wanna fight me?
+Well, alright, suit yourself.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>50</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300436</PointerOffset>
       <JapaneseText>まともにやったら、
 きみ死んじゃうかもだもん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You could end up dead if
+I went all out, anyway.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>50</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300440</PointerOffset>
       <JapaneseText>暇～暇～
 働きたいけど、
 仕事がない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nothin' to do~ Not a single
+thing to do~ I wanna work,
+but there's no jobs at all.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>52</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300440</PointerOffset>
       <JapaneseText>世の中、不景気なのかなぁ～
 誰か仕事をくれないかな？</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Guess we're all in a recession~
+Won't anyone give me a job?</EnglishText>
+      <Notes>can't focus</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>52</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>300444</PointerOffset>
       <JapaneseText>働きたいけど、
 農作業は朝が早いもんな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I really want to work, but
+farmhands just start too early.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>54</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300444</PointerOffset>
       <JapaneseText>狩りは走りとか苦手だし、
 大工も手先不器用だしな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm no good at runnin', so I
+can't hunt, and my hands are
+too clumsy for carpentry work.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>54</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300448</PointerOffset>
       <JapaneseText>仕事、ないかなぁ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Aren't there
+any jobs...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>56</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300448</PointerOffset>
       <JapaneseText>教会に紹介を頼みに行ったけど
 何もくれなかったし……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I asked if the Church could
+refer me somewhere, but they
+didn't do a single thing for me...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>56</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300448</PointerOffset>
       <JapaneseText>不親切だなぁ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They're so unhelpful...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>56</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300452</PointerOffset>
       <JapaneseText>仕事ないと
 明日からの生活が
 大変なんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If I can't find
+a job soon, life's
+gonna be tough.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>59</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300452</PointerOffset>
       <JapaneseText>なんでもいい、働ければ。
 贅沢は言わないよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'll take anything, you know?
+I just want a job. I'm not
+makin' demands, or anything.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>59</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300452</PointerOffset>
       <JapaneseText>あ、とりあえず
 働くならこの街がいいな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, anyway, this
+town should be a
+good place to look.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>59</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300456</PointerOffset>
       <JapaneseText>住民募集してたこの街なら
 仕事あると思ったけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Y'know, I was thinkin', "This town
+just had a new resident recruitment
+drive, so there must be some jobs..."</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>62</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300456</PointerOffset>
       <JapaneseText>ないなぁ……仕事</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But... Nope,
+nothin'.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>62</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300460</PointerOffset>
       <JapaneseText>トーティス遊撃隊の
 隊員募集やってたけど、
 命がけなのはイヤだなぁ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Totus Mobile Task Force are
+recruiting new members, but hey, I
+don't wanna risk my life, y'know?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>64</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300460</PointerOffset>
       <JapaneseText>シグルドとの戦いで
 けっこうけが人出たって
 言うじゃない？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They were sayin' a whole lot
+of people got injured in that
+fight with Sigurd, weren't they?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>64</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300464</PointerOffset>
       <JapaneseText>楽な仕事したいなんて言わない。
 ある程度、自分の条件が
 叶えてもらえるならそれで</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm not saying I want an easy job,
+y'know? I just have a few basic
+criteria I need met, that's all.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>66</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300464</PointerOffset>
       <JapaneseText>日給４０００ガルド以上、
 残業なし、週休完全二日
 福利厚生施設完備……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>At least 4,000 Gald a day,
+no overtime, two full days off
+a week, a company gym...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>66</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300468</PointerOffset>
       <JapaneseText>仕事をするうえで条件は大切だ。
 この先、生涯付き合うかも
 しれない相手だからね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you're looking for a job, you gotta
+have criteria. You might spend your
+whole career at that job, y'know?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>68</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300468</PointerOffset>
       <JapaneseText>いわば結婚と同じだよね。
 ぜーたく言って何が悪い！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'd say it's like marriage, even.
+So what's wrong with me makin'
+some demands of my own, eh?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>68</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300472</PointerOffset>
       <JapaneseText>&lt;Mint&gt;様に診ていただいて以来
 腰の調子がとてもいいの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Since asking Lady &lt;Mint&gt;
+to take a look at it, my
+back's been feeling great.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>70</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300472</PointerOffset>
       <JapaneseText>あ～よかった。
 これで一季節は越せるわぁ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ah, I'm so glad. I
+can make it through
+the season with this.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>70</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300476</PointerOffset>
       <JapaneseText>さすが、&lt;Mint&gt;様の治癒術は
 よく利くわねぇ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ahhh, Lady &lt;Mint&gt;'s healing artes
+certainly are effective, aren't they...?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>72</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300480</PointerOffset>
       <JapaneseText>&lt;Cless&gt;様率いる
 トーティス遊撃隊は
 強いわねぇ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The Totus Mobile Task
+Force Master &lt;Cless&gt; leads
+are all quite strong, really.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>73</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300480</PointerOffset>
       <JapaneseText>ヴァルハラのテロ組織を
 壊滅させたのは、
 ほとんど遊撃隊の力なのよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It was mainly the Mobile Task
+Force that wiped out that
+terrorist organization in Valhalla.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>73</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300484</PointerOffset>
       <JapaneseText>トーティス遊撃隊もいつまでも
 ユークリッド独立騎士団の傘下に
 おさまってる場合じゃないわね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I don't imagine the Totus Mobile Task
+Force will continue operating under the
+Euclid Liberation Knights for too long.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>75</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300488</PointerOffset>
       <JapaneseText>この村はね、
 &lt;Cless&gt;様の呼びかけで
 集まった人々でできたのよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This village was built on
+the many, many people
+Master &lt;Cless&gt; called here.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>76</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300488</PointerOffset>
       <JapaneseText>私も他の村から
 ここへ来たの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In fact, I came here from
+another village, myself.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>76</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300492</PointerOffset>
       <JapaneseText>この村は前に一度、
 滅びたんですって。
 でも、こうして復興してね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I've heard the village was
+destroyed, once before. But
+now it's back, lively as can be.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>78</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300492</PointerOffset>
       <JapaneseText>全部、&lt;Cless&gt;様と&lt;Mint&gt;様の
 ご尽力のおかげよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And that's all thanks to
+the hard word of Master
+&lt;Cless&gt; and Lady &lt;Mint&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>78</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300496</PointerOffset>
       <JapaneseText>聞くがよい！
 北には気をつけよ！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>Listen t' me! Pay
+heed to the north!</EnglishText>
+      <Notes>maybe needs more consistency with topx idk</Notes>
       <SpeakerId>6</SpeakerId>
       <Id>80</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>300496</PointerOffset>
       <JapaneseText>北は「死」を暗示する
 方角じゃ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>For the north
+is suggested
+by the dead!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>80</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300496</PointerOffset>
       <JapaneseText>そのことを心に
 とどめておくがよい！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Carve that knowledge
+into your very hearts!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>80</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300500</PointerOffset>
       <JapaneseText>北は「死」を暗示する方角！
 汝、そのことを
 深く心に刻みつけよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>North is the direction suggested by 
+the dead! Thou shalt carve that
+knowledge into your very hearts.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>83</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300500</PointerOffset>
       <JapaneseText>さすれば、いつか
 汝らのためになるであろう……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>For in doing so, it will
+surely come to thy
+aid, someday hence...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>83</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300504</PointerOffset>
       <JapaneseText>ワシが前に言うた言葉、
 役に立ったじゃろう？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The words I imparted were of
+use to thee, were they not?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>85</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300504</PointerOffset>
       <JapaneseText>知らぬとは言わさぬぞ？
 言うたじゃろ？
 ……言うたよ、な？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't go saying thou did not
+hear me. I told thee, did I
+not? I did tell thee, hmm?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>85</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300508</PointerOffset>
       <JapaneseText>北は「死」を暗示する方角じゃ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>North is the direction
+suggested by the dead!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>87</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300508</PointerOffset>
       <JapaneseText>役立てよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This shall
+help thee!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>87</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300508</PointerOffset>
       <JapaneseText>……もういらぬか？
 ……もういらぬようじゃな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Is it needless, now?
+...Indeed, it's needless, now...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>87</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300512</PointerOffset>
       <JapaneseText>「死」が見えるぞ……
 おぬしの中に浮かぶ
 不吉な影……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The dead are watching...
+Sinister shadows rise
+up within thee...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>90</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300512</PointerOffset>
       <JapaneseText>おぬしらを翻弄する
 奇妙な影……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Peculiar shadows,
+for which thou are
+but playthings...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>90</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300516</PointerOffset>
       <JapaneseText>その影を断ち切らねば……
 いや……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Should thou fail
+to cleave through
+that shadow... No...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>92</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300516</PointerOffset>
       <JapaneseText>……その影を断ち切らば……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...Should thou cleave
+through that shadow...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>92</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300516</PointerOffset>
       <JapaneseText>いや……何も、わからぬ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No... It is
+beyond my ken...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>92</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300520</PointerOffset>
