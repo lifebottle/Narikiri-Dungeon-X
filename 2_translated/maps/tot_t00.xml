@@ -53,26 +53,26 @@
     <Entry>
       <PointerOffset>291640,291704,291768,291832,291896,291960</PointerOffset>
       <JapaneseText>助かった少女</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Saved Girl</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>292024,292088,292152,292216,292280,292344</PointerOffset>
       <JapaneseText>&lt;Cless&gt;を認める老人</JapaneseText>
-      <EnglishText>Elder who recognizes &lt;Cless&gt;</EnglishText>
+      <EnglishText>&lt;Cless&gt;-Acknowledging Elder</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>292408,292472,292536,292600,292664,292728</PointerOffset>
       <JapaneseText>遊撃隊員志望の少年</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Task Force Aspirant Boy</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>292792,292856,292920,292984,293048,293112</PointerOffset>
@@ -1503,304 +1503,350 @@ beyond my ken...</EnglishText>
       <JapaneseText>前にこの村が襲撃された時、
 あたしと家族は近くの森に
 避難してたんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Before, when this village was
+attacked, my family and I
+evacuated to the forest nearby.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>95</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300520</PointerOffset>
       <JapaneseText>おかげで助かったけど、
 たくさんの友達が……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That's what saved me, but
+so many of my friends...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>95</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300524</PointerOffset>
       <JapaneseText>あの襲撃があった日は
 「悲劇の雨曜日」って言われて
 祈念の日になってるんだ</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>We hold a memorial for the
+day of the assault, now, called
+"The Day the Rain Fell."</EnglishText>
+      <Notes>might want to change the day</Notes>
       <SpeakerId>7</SpeakerId>
       <Id>97</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>300524</PointerOffset>
       <JapaneseText>あたしも友達のことを想って
 お祈りしてるよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I pray for my friends
+on that day, as well.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>97</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300528</PointerOffset>
       <JapaneseText>ヴァルハラも「シグルド」
 って言う武力集団に
 占領されてたんだって？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I heard Valhalla was
+occupied by an armed
+group called "Sigurd"?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>99</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300528</PointerOffset>
       <JapaneseText>なんか前の
 この村でのことと重なるなぁ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It kind of reminds me
+of what happened here...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>99</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300532</PointerOffset>
       <JapaneseText>&lt;Cless&gt;が、ヴァルハラの解放に
 力を貸したのもトーティスの
 ことに似てたからじゃないかな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe &lt;Cless&gt; offered his help to
+liberate Valhalla because it reminded
+him of what happened in Totus.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>101</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300532</PointerOffset>
       <JapaneseText>力のないあたしたちは
 いつも力ある人たちに
 脅かされるだけなんだ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Powerless people like us are always
+being threatened by those with
+power... It never changes...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>101</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300536</PointerOffset>
       <JapaneseText>&lt;Cless&gt;が帰ってきて
 村を作り直すって
 聞いた時は嬉しかったな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When I heard &lt;Cless&gt; was
+coming back and rebuilding
+the village, I was overjoyed.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>103</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300536</PointerOffset>
       <JapaneseText>つらいこと思い出すから
 お父さんたちは他の町へ
 引っ越したいって言ってたけど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My family wanted to move to another
+village, saying this one would just
+dredge up painful memories...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>103</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300536</PointerOffset>
       <JapaneseText>でも、この村が
 一番好きだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But this village
+is my favorite.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>103</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300540</PointerOffset>
       <JapaneseText>襲撃があった日、あたしたちは
 家の地下に隠れて、隙を見て
 街を逃げ出したんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The day of the assault, we hid
+underneath our house, and escaped
+as soon as we found a chance.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>106</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300540</PointerOffset>
       <JapaneseText>みんなを置いて逃げちゃったこと
 仕方なかったけど、
 今でもツライんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We didn't have a choice but to leave
+the other villagers to their fate, but it
+still hurts to look back on, even now.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>106</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300544</PointerOffset>
       <JapaneseText>&lt;Cless&gt;が南の地下墓地で蘇った
 ダオスを倒したのは
 今から１年半くらい前だ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It was about a year and a half ago
+that &lt;Cless&gt; defeated the resurrected
+Dhaos, in the crypts to the south.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>108</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300544</PointerOffset>
       <JapaneseText>あの出来事はまだあまり
 一般的には広まってない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Most people still haven't
+heard of that particular deed.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>108</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300548</PointerOffset>
       <JapaneseText>ダオスを倒した&lt;Cless&gt;は確かに
 英雄だ。この大陸ではそれは
 広く認知されている</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Having defeated Dhaos, &lt;Cless&gt; is
+certainly a hero. Most on this
+continent acknowledge that.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>110</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300548</PointerOffset>
       <JapaneseText>しかし、全世界的には、
 まだ&lt;Cless&gt;たちがこの時代で
 やったことを知る者は少ない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>However, elsewhere in the world,
+there aren't too many people who
+know about that particular deed.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>110</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300552</PointerOffset>
       <JapaneseText>今、&lt;Cless&gt;はこの街の人たち、
 そしてユークリッドでは
 広く名前を認められている</JapaneseText>
-      <EnglishText/>
+      <EnglishText>These days, most everyone in
+this village and in Euclid would
+recognize &lt;Cless&gt; by name.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>112</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300552</PointerOffset>
       <JapaneseText>トーティス遊撃隊の隊長として
 がんばっているのだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He's really giving it his
+all as the leader of the
+Totus Mobile Task Force.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>112</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300556</PointerOffset>
       <JapaneseText>１００年前の世界でもダオスを
 倒した者として、彼の名前は
 記録されている</JapaneseText>
-      <EnglishText/>
+      <EnglishText>His name is also recorded
+as one of the people who
+defeated Dhaos 100 years ago.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>114</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300556</PointerOffset>
       <JapaneseText>その&lt;Cless&gt;と今この村にいる彼が
 同じ人物なのかどうか、彼は
 否定しないが肯定もしない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The man who lives in this village
+today will neither confirm nor deny
+whether he is the very same &lt;Cless&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>114</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300556</PointerOffset>
       <JapaneseText>つまり我々は
 事実を推して知るべしなのだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That is to say,
+we've come to that
+belief on our own.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>114</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300560</PointerOffset>
       <JapaneseText>例えダオス戦役の事実がどうあれ
 今の&lt;Cless&gt;の働きは
 世に認められるだろう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Whatever the truth of Dhaos's
+War may be, &lt;Cless&gt; is still
+recognized for his deeds today.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>117</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300560</PointerOffset>
       <JapaneseText>いつまでも
 ダオスを倒した英雄、&lt;Cless&gt;では
 ないのだ、彼は</JapaneseText>
-      <EnglishText/>
+      <EnglishText>He will not remain
+simply the &lt;Cless&gt; who
+defeated Dhaos forever.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>117</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300564</PointerOffset>
       <JapaneseText>ダオスを倒した&lt;Cless&gt;は
 やがて世界を舞台に活躍した
 &lt;Cless&gt;となるだろう</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The &lt;Cless&gt; who defeated Dhaos will
+soon enough be known for his other
+great deeds, throughout the world.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>119</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300564</PointerOffset>
       <JapaneseText>私は、そうなることを
 望んでいるよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>That is my
+wish for him.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>119</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300568</PointerOffset>
