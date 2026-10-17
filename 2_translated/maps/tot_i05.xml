@@ -41,19 +41,19 @@
       <PointerOffset>308684,308748,308812,308876,308940,309004</PointerOffset>
       <MaxLength>48</MaxLength>
       <JapaneseText>トーティス遊撃隊隊員</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Task Force Member</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>309068,309132</PointerOffset>
       <MaxLength>48</MaxLength>
       <JapaneseText>活発な少年</JapaneseText>
-      <EnglishText>Lively boy</EnglishText>
+      <EnglishText>Lively Boy</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>309196,309260,309324,309388,309452,309516,326369</PointerOffset>
@@ -67,10 +67,10 @@
       <PointerOffset>309580,309644</PointerOffset>
       <MaxLength>48</MaxLength>
       <JapaneseText>好奇心旺盛な少女</JapaneseText>
-      <EnglishText>Curious Girl</EnglishText>
+      <EnglishText>Extremely Curious Girl</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310092,310156</PointerOffset>
@@ -186,27 +186,28 @@ Thank you~!</EnglishText>
       <PointerOffset>326124</PointerOffset>
       <JapaneseText>お兄ちゃんたち、
 黒精石持ってる～？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, bro's friends, do you
+have a Black Spirit Gem~?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326124</PointerOffset>
       <JapaneseText>持ってたら、ちょうだい</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you have one, can I have it?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326032</PointerOffset>
       <JapaneseText>腹へった～</JapaneseText>
-      <EnglishText>I'm huuungry~</EnglishText>
+      <EnglishText>I'm hungry~</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
@@ -215,32 +216,33 @@ Thank you~!</EnglishText>
     <Entry>
       <PointerOffset>325988</PointerOffset>
       <JapaneseText>ケチー！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So stingy!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>324816</PointerOffset>
       <JapaneseText>やったー、ありがと</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yaaay, thanks.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>324816</PointerOffset>
       <JapaneseText>グリッド兄ちゃん、
 黒精石、手に入れたよ！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Grid, I got the
+Black Spirit Gem!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -249,20 +251,23 @@ Thank you~!</EnglishText>
       <PointerOffset>314108</PointerOffset>
       <JapaneseText>うちの主は
 ヴァルハラへ行ったよ？</JapaneseText>
-      <EnglishText>My captain went to the Valhalla Plains, didn't he?</EnglishText>
-      <Notes>Need to double check if this is actually what is being said; seems weird that it's posed as a question.</Notes>
+      <EnglishText>The young master went to
+the Valhalla Plains, you know?</EnglishText>
+      <Notes>Need to double check if this is actually what is being said; seems weird that it's posed as a question. - maxle
+it uses a question mark because he's unsure why you're talking to him  - nanashi</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314108</PointerOffset>
       <JapaneseText>トーティス遊撃隊の隊長にして
 ユークリッド独立騎士団の
 顧問だからね</JapaneseText>
-      <EnglishText>He is the captain of the Totus Mobile Task Force and an
-advisor the Euclid Liberation Knights after all.</EnglishText>
+      <EnglishText>He is, after all, both the commander of
+the Totus Mobile Task Force and a
+consultant to the Euclid Liberation Knights.</EnglishText>
       <Notes>Check on the terminology and make sure it's consistent.</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>1</Id>
@@ -273,7 +278,8 @@ advisor the Euclid Liberation Knights after all.</EnglishText>
       <PointerOffset>314112</PointerOffset>
       <JapaneseText>うちの主の名前は
 &lt;Cless&gt;・アルベイン</JapaneseText>
-      <EnglishText>My master's name is &lt;Cless&gt; Alvein.</EnglishText>
+      <EnglishText>The young master's
+name is &lt;Cless&gt; Alvein.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>3</Id>
@@ -284,8 +290,9 @@ advisor the Euclid Liberation Knights after all.</EnglishText>
       <PointerOffset>314112</PointerOffset>
       <JapaneseText>ダオスを倒した鋭い
 アルベイン流剣術の使い手だ</JapaneseText>
-      <EnglishText>He's a master of the Alvein Style Swordsmanship
-that was used to defeat Dhaos.</EnglishText>
+      <EnglishText>He's the man who defeated
+Dhaos, and a fierce practitioner
+of the Alvein Style Sword Artes.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>3</Id>
@@ -296,7 +303,8 @@ that was used to defeat Dhaos.</EnglishText>
       <PointerOffset>314112</PointerOffset>
       <JapaneseText>強いだけではない、
 優しい心の持ち主でもあるのだ</JapaneseText>
-      <EnglishText>He isn't just strong - he's also a kindhearted man.</EnglishText>
+      <EnglishText>And he isn't just strong. He
+possesses a kind heart, as well.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>3</Id>
@@ -307,21 +315,23 @@ that was used to defeat Dhaos.</EnglishText>
       <PointerOffset>314116</PointerOffset>
       <JapaneseText>私は我が主&lt;Cless&gt;の次に
 この道場で偉い師範代だ</JapaneseText>
-      <EnglishText>I serve as the senior instructor at this dojo,
-under master &lt;Cless&gt;.</EnglishText>
+      <EnglishText>I am an assistant instructor, and
+the second most distinguished person
+at this dojo—after our master, &lt;Cless&gt;.</EnglishText>
       <Notes>Is it "senior instructor"</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
       <BubbleId>0</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314116</PointerOffset>
       <JapaneseText>と言っても、
 &lt;Cless&gt;様に比べると
 剣の腕はまだまだだが</JapaneseText>
-      <EnglishText>That said, my swordsmanship leaves much to be
-desired compared to &lt;Cless&gt;.</EnglishText>
+      <EnglishText>That said, if you were to compare
+me to Master &lt;Cless&gt;, my skill with
+the sword would come up very short.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
@@ -333,8 +343,9 @@ desired compared to &lt;Cless&gt;.</EnglishText>
       <JapaneseText>今は&lt;Cless&gt;様が留守中なので
 私が代わりにこの道場の
 指導を請け負っている</JapaneseText>
-      <EnglishText>Since &lt;Cless&gt; is currently away, I have taken on the role
-of instructor at the dojo.</EnglishText>
+      <EnglishText>Since &lt;Cless&gt; is currently
+away, I have taken over
+instruction duties in his stead.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
@@ -346,8 +357,9 @@ of instructor at the dojo.</EnglishText>
       <JapaneseText>しかし私もまだまだ修行不足だな。
 &lt;Cless&gt;様がいないと
 道場生もすっかりダレてしまう</JapaneseText>
-      <EnglishText>But I've still got a lot ot learn. Without &lt;Cless&gt;, the
-dojo students lose all motivation and start slacking.</EnglishText>
+      <EnglishText>However, my own training is sorely
+lacking. Without &lt;Cless&gt; here, the
+dojo's students have lost all interest.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
@@ -359,8 +371,9 @@ dojo students lose all motivation and start slacking.</EnglishText>
       <JapaneseText>&lt;Cless&gt;様がようやく
 帰ってきてくださった
 というのにまたお出かけになるらしい</JapaneseText>
-      <EnglishText>Even though &lt;Cless&gt; is back, it seems they've been
-going out to town again.</EnglishText>
+      <EnglishText>Master &lt;Cless&gt; finally returned
+to us, but it seems he'll be
+leaving again in short order.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
@@ -372,20 +385,22 @@ going out to town again.</EnglishText>
       <JapaneseText>早くこの作戦が終わり、
 びしびしと道場生に
 指導してほしいものだ</JapaneseText>
-      <EnglishText>I can't wait for this mission to end so I can get
-back to drilling our students.</EnglishText>
+      <EnglishText>I hope this military operation concludes
+soon, so he can engage the students
+with his usual relentless instruction.</EnglishText>
       <Notes>campaign or mission or operation?</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314128</PointerOffset>
       <JapaneseText>トーティス遊撃隊が活躍すれば
 また入門志願者が増えるだろう</JapaneseText>
-      <EnglishText>If the Totus Mobile Task Force does well, the number of
-applicants will likely increase again.</EnglishText>
+      <EnglishText>If the Totus Mobile Task Force
+does well, we should see yet
+another increase in dojo applicants.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
@@ -396,8 +411,8 @@ applicants will likely increase again.</EnglishText>
       <PointerOffset>314128</PointerOffset>
       <JapaneseText>アルベイン流がもっと広く
 世間に認知されるといいな</JapaneseText>
-      <EnglishText>I hope the Alvein Style gets wider recognition
-among the masses.</EnglishText>
+      <EnglishText>It would be nice if the Alvein Style
+could be recognized far and wide.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
@@ -408,21 +423,23 @@ among the masses.</EnglishText>
       <PointerOffset>314132</PointerOffset>
       <JapaneseText>私は我が主&lt;Cless&gt;の次に
 この道場で偉い師範代だ</JapaneseText>
-      <EnglishText>I serve as the senior instructor at this dojo,
-under master &lt;Cless&gt;.</EnglishText>
+      <EnglishText>I am an assistant instructor, and
+the second most distinguished person
+at this dojo—after our master, &lt;Cless&gt;.</EnglishText>
       <Notes>Should we go with Sensei, Master, or something else?</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
       <BubbleId>0</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314132</PointerOffset>
       <JapaneseText>と言っても、
 &lt;Cless&gt;様に比べると
 剣の腕はまだまだだが</JapaneseText>
-      <EnglishText>That said, my swordsmanship leaves much to be
-desired compared to &lt;Cless&gt;.</EnglishText>
+      <EnglishText>That said, if you were to compare
+me to Master &lt;Cless&gt;, my skill with
+the sword would come up very short.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
@@ -434,8 +451,9 @@ desired compared to &lt;Cless&gt;.</EnglishText>
       <JapaneseText>今は&lt;Cless&gt;が留守中なので
 私が代わりにこの道場の
 指導を請け負っている</JapaneseText>
-      <EnglishText>Since &lt;Cless&gt; is currently away, I have taken on the role
-of instructor at the dojo.</EnglishText>
+      <EnglishText>Since &lt;Cless&gt; is currently
+away, I have taken over
+instruction duties in his stead.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>16</Id>
@@ -459,8 +477,8 @@ dojo students lose all motivation and start slacking.</EnglishText>
       <PointerOffset>314140</PointerOffset>
       <JapaneseText>ヴァルハラでの
 軍事行動も無事終わった</JapaneseText>
-      <EnglishText>The operation in the Valhala Plains has
-finally come to a successful end.</EnglishText>
+      <EnglishText>The military operation in Valhalla
+has concluded successfully.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>18</Id>
@@ -471,21 +489,23 @@ finally come to a successful end.</EnglishText>
       <PointerOffset>314140</PointerOffset>
       <JapaneseText>しばらく、&lt;Cless&gt;様も道場に
 落ち着いてくださるだろう</JapaneseText>
-      <EnglishText>I suppose &lt;Cless&gt; will get to settle in
-the dojo for a while.</EnglishText>
+      <EnglishText>I imagine Master &lt;Cless&gt; will
+be able to settle in with
+us at the dojo for a time.</EnglishText>
       <Notes>I do think I need a bit investigating to see the tone</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314144</PointerOffset>
       <JapaneseText>ここでもっと
 弟子たちの腕を
 がんがん磨いてもらいたいものだ</JapaneseText>
-      <EnglishText>I hope the students here will keep honing
-their skills here.</EnglishText>
+      <EnglishText>I'd like for him to help our
+pupils polish their sword skills
+some more, with his usual vigor.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>20</Id>
@@ -496,21 +516,23 @@ their skills here.</EnglishText>
       <PointerOffset>314144</PointerOffset>
       <JapaneseText>そして道場破りが来ても
 安心できるように！</JapaneseText>
-      <EnglishText>So that you can finally feel at ease even if
-someone shows up to challenge the dojo!</EnglishText>
+      <EnglishText>That way, even should a challenger
+arrive at our dojo's door, we'll
+have nothing to worry about!</EnglishText>
       <Notes>Need to confirm if this takes place after the previous line.</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314148</PointerOffset>
       <JapaneseText>いつ襲い来るかわからない
 外敵からこの村を守るため
 トーティス遊撃隊は作られた</JapaneseText>
-      <EnglishText>To protect our village from any enemies that might
-attack us, the Totus Mobile Task Force was formed.</EnglishText>
+      <EnglishText>The Totus Mobile Task Forced was created
+so that we may protect the village from
+the assaults of any unexpected invaders.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>22</Id>
@@ -522,9 +544,9 @@ attack us, the Totus Mobile Task Force was formed.</EnglishText>
       <JapaneseText>２度とあんな悲劇を繰り返さない、
 遊撃隊にはそんな強い&lt;Cless&gt;様の
 想いが込められているのだ</JapaneseText>
-      <EnglishText>We must ensure that such a tragedy must never
-happen again. That's what drives &lt;Cless&gt;'s resolve
-in forming the Totus Mobile Task Force.</EnglishText>
+      <EnglishText>Master &lt;Cless&gt;'s fervent and earnest desire
+to avoid a repeat of that terrible tragedy
+is at the heart of the Mobile Task Force.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>22</Id>
@@ -536,8 +558,9 @@ in forming the Totus Mobile Task Force.</EnglishText>
       <JapaneseText>&lt;Cless&gt;様が存分に
 トーティス遊撃隊で
 その腕を振るえるように</JapaneseText>
-      <EnglishText>So that &lt;Cless&gt; can employ his skills to the fullest
-with the Totus Mobile Task Force,</EnglishText>
+      <EnglishText>I wish for Master &lt;Cless&gt; to be able
+to exercise his full ability as leader
+of the Totus Mobile Task Force.</EnglishText>
       <Notes>Wondering if we should rearrange the words for this and the following line so it flows better. The way it's structured doesn't sound very good in English.</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>24</Id>
@@ -549,21 +572,23 @@ with the Totus Mobile Task Force,</EnglishText>
       <JapaneseText>私はこの道場を
 しっかり守っていこうと
 そう思うのだ</JapaneseText>
-      <EnglishText>I will stand guard over this dojo with all of my might.</EnglishText>
+      <EnglishText>And to ensure that he can,
+I will devote all that I have
+to watching over this dojo.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314156</PointerOffset>
       <JapaneseText>前の騎士団襲撃の時に家を
 焼け出されて&lt;Chester&gt;さんは、
 うちの道場に住んでいる</JapaneseText>
-      <EnglishText>Mr. &lt;Chester&gt; was forced to leave his home after it
-was burned down by the knights and is currently
-living at our dojo.</EnglishText>
+      <EnglishText>&lt;Chester&gt;, having been forced from his
+home when it was burned down in the
+Knights' assault, now lives in our dojo.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>26</Id>
@@ -574,20 +599,21 @@ living at our dojo.</EnglishText>
       <PointerOffset>314156</PointerOffset>
       <JapaneseText>まったく&lt;Cless&gt;さん、
 友達想いなんだから</JapaneseText>
-      <EnglishText>Honestly, &lt;Cless&gt; is such a good friend.</EnglishText>
+      <EnglishText>Man, &lt;Cless&gt; is just too
+good to his friends.</EnglishText>
       <Notes>Is this talking to Cless directly? Need to confirm.</Notes>
       <SpeakerId>5</SpeakerId>
       <Id>26</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314160</PointerOffset>
       <JapaneseText>道場にいる子どもたちは
 &lt;Chester&gt;さんが拾ってきた
 子どもたちだ</JapaneseText>
-      <EnglishText>The children at the dojo are ones that &lt;Chester&gt;
-took in.</EnglishText>
+      <EnglishText>The children at the dojo
+were taken in by &lt;Chester&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>28</Id>
@@ -597,8 +623,8 @@ took in.</EnglishText>
     <Entry>
       <PointerOffset>314160</PointerOffset>
       <JapaneseText>みんな親がなくて困ってたんだと</JapaneseText>
-      <EnglishText>It seems they were all in trouble since
-their parents were gone.</EnglishText>
+      <EnglishText>He said they don't have any
+parents, so they've had it rough.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>28</Id>
@@ -610,8 +636,9 @@ their parents were gone.</EnglishText>
       <JapaneseText>さすが
 &lt;Cless&gt;さんの友達、
 お優しいことだ</JapaneseText>
-      <EnglishText>Just as you'd expect from &lt;Cless&gt;'s friend.
-What a kind guy.</EnglishText>
+      <EnglishText>That kindness is just
+what you'd expect
+from a friend of &lt;Cless&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>28</Id>
@@ -623,8 +650,9 @@ What a kind guy.</EnglishText>
       <JapaneseText>&lt;Chester&gt;さんが留守の時は
 私が子どもたちの面倒を
 見ているんだ</JapaneseText>
-      <EnglishText>When &lt;Chester&gt; is away, I'm the one who looks after
-the kids.</EnglishText>
+      <EnglishText>When &lt;Chester&gt; is away,
+I'm the one who
+looks after the kids.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>31</Id>
@@ -635,8 +663,8 @@ the kids.</EnglishText>
       <PointerOffset>314164</PointerOffset>
       <JapaneseText>……あいつらナマイキで
 困るよ……</JapaneseText>
-      <EnglishText>...Man those guys are cocky that it's a real
-pain in the butt...</EnglishText>
+      <EnglishText>...They're cheeky brats, and
+are always causing trouble...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>31</Id>
@@ -646,7 +674,7 @@ pain in the butt...</EnglishText>
     <Entry>
       <PointerOffset>314164</PointerOffset>
       <JapaneseText>でも、カワイイ……♪</JapaneseText>
-      <EnglishText>But they're all so cute...♪</EnglishText>
+      <EnglishText>But, they're still cute... ♪</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>31</Id>
@@ -657,7 +685,8 @@ pain in the butt...</EnglishText>
       <PointerOffset>314168</PointerOffset>
       <JapaneseText>まったくあの子どもたちには
 手を焼かされるよ</JapaneseText>
-      <EnglishText>Those kids are really giving me a hard time.</EnglishText>
+      <EnglishText>Those kids are just
+such a darn handful.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>34</Id>
@@ -668,7 +697,8 @@ pain in the butt...</EnglishText>
       <PointerOffset>314168</PointerOffset>
       <JapaneseText>ま、それもまた
 楽しいんだけどね</JapaneseText>
-      <EnglishText>Well, that's fun in its own right too.</EnglishText>
+      <EnglishText>But, y'know... I do enjoy
+that, too, in its own way.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>34</Id>
@@ -679,7 +709,9 @@ pain in the butt...</EnglishText>
       <PointerOffset>314172</PointerOffset>
       <JapaneseText>一応ボクはトーティス遊撃隊の
 補欠隊員なんだ</JapaneseText>
-      <EnglishText>I'm a backup member of the Totus Mobile Task Force.</EnglishText>
+      <EnglishText>Technically, I'm a fallback
+member of the Totus
+Mobile Task Force.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>36</Id>
@@ -691,9 +723,9 @@ pain in the butt...</EnglishText>
       <JapaneseText>正隊員になるまでは
 拠点であるこの道場で
 後方支援するのがお仕事だ</JapaneseText>
-      <EnglishText>But until I become a full fledged member,
-my job is to provide logistical support from
-the dojo, which serves as our base.</EnglishText>
+      <EnglishText>But until I become a proper member,
+my job is to provide logistical
+support from our base—this dojo.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>36</Id>
@@ -704,7 +736,8 @@ the dojo, which serves as our base.</EnglishText>
       <PointerOffset>314176</PointerOffset>
       <JapaneseText>まだちゃんとお仕事を
 できないボクだけど、</JapaneseText>
-      <EnglishText>I still can't exactly do my job sufficiently yet...</EnglishText>
+      <EnglishText>Right now, I'm still not too
+great at the job, but...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>38</Id>
@@ -715,8 +748,9 @@ the dojo, which serves as our base.</EnglishText>
       <PointerOffset>314176</PointerOffset>
       <JapaneseText>いつかこの村のために
 働きたいと思っているんだ</JapaneseText>
-      <EnglishText>But someday, I hope to serve this village and
-make a difference.</EnglishText>
+      <EnglishText>I truly feel that, someday,
+I'd like my work to help
+everyone in the village.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>38</Id>
@@ -727,7 +761,7 @@ make a difference.</EnglishText>
       <PointerOffset>314180</PointerOffset>
       <JapaneseText>なんだよ、おまえ！！
 勝手に入ってくんな！</JapaneseText>
-      <EnglishText>What the heck!!
+      <EnglishText>The hell's your problem!?
 Don't just barge in here!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
@@ -739,7 +773,8 @@ Don't just barge in here!</EnglishText>
       <PointerOffset>314180</PointerOffset>
       <JapaneseText>子どもがこんなとこに
 何の用事だよ！</JapaneseText>
-      <EnglishText>What on earth is a kid like you doing here!?</EnglishText>
+      <EnglishText>What's business's some kid
+like you got being here!?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>40</Id>
@@ -750,7 +785,7 @@ Don't just barge in here!</EnglishText>
       <PointerOffset>314184</PointerOffset>
       <JapaneseText>ここは
 オレたちの家だぞ！</JapaneseText>
-      <EnglishText>This is our home!</EnglishText>
+      <EnglishText>This is *our* house!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>42</Id>
@@ -762,8 +797,9 @@ Don't just barge in here!</EnglishText>
       <JapaneseText>勝手に入ってきたら
 カタク、シンニウザイで
 訴えるぞ！</JapaneseText>
-      <EnglishText>If you just barge in here, I'll report you for
-trespassing!</EnglishText>
+      <EnglishText>Barge in like this and I'll take
+you to court, for tress-pass-ing
+on our pry-vet property!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>42</Id>
@@ -774,8 +810,8 @@ trespassing!</EnglishText>
       <PointerOffset>314188</PointerOffset>
       <JapaneseText>なんだよ、おまえ！
 何の用だよ！</JapaneseText>
-      <EnglishText>What the heck!
-What do you want!</EnglishText>
+      <EnglishText>The hell's your problem? You
+here on some kinda business!?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>44</Id>
@@ -786,8 +822,8 @@ What do you want!</EnglishText>
       <PointerOffset>314188</PointerOffset>
       <JapaneseText>何も用がないなら
 話しかけるな！</JapaneseText>
-      <EnglishText>If you don't have any business here,
-don't talk to me!</EnglishText>
+      <EnglishText>If you don't got any business here,
+then don't friggin' talk to me!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>44</Id>
@@ -799,50 +835,55 @@ don't talk to me!</EnglishText>
       <JapaneseText>&lt;Chester&gt;兄ちゃんに
 メーワクかけたら
 オレが承知しないからな！</JapaneseText>
-      <EnglishText>Don't you dare cause any trouble for
-my bro &lt;Chester&gt;!</EnglishText>
+      <EnglishText>Make yourself a new-sense for my
+big bro &lt;Chester&gt; and you'll be
+answering to me! You got that!?</EnglishText>
       <Notes>How should we say "&lt;Chester&gt;兄ちゃんに"?</Notes>
       <SpeakerId>7</SpeakerId>
       <Id>46</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314196</PointerOffset>
       <JapaneseText>感謝しろよな！
 &lt;Chester&gt;兄ちゃんに！</JapaneseText>
-      <EnglishText>You better be grateful to my bro &lt;Chester&gt;!</EnglishText>
+      <EnglishText>You better be real
+grateful to my bro!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>47</Id>
       <BubbleId>0</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314196</PointerOffset>
       <JapaneseText>なんとかなんとかを
 取ってきてくれたんだぞ！</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>He fetched that...
+whatchamacallit for you!</EnglishText>
+      <Notes>about the elemental pot</Notes>
       <SpeakerId>7</SpeakerId>
       <Id>47</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314200</PointerOffset>
       <JapaneseText>兄ちゃんにメーワクばっかかけやがって！</JapaneseText>
-      <EnglishText>You're always causing trouble for big bro!</EnglishText>
+      <EnglishText>You're always such a
+new-sense for my big bro!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>49</Id>
       <BubbleId>0</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314200</PointerOffset>
       <JapaneseText>&lt;Chester&gt;兄ちゃんは
 忙しいんだかんな！</JapaneseText>
-      <EnglishText>Big bro &lt;Chester&gt; is busy, y'know!</EnglishText>
+      <EnglishText>&lt;Chester&gt;'s busy,
+you got that!?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>49</Id>
@@ -853,8 +894,9 @@ my bro &lt;Chester&gt;!</EnglishText>
       <PointerOffset>314204</PointerOffset>
       <JapaneseText>なんだよ！　また来たのかよ！
 さっさと帰れよ！！</JapaneseText>
-      <EnglishText>What the heck! You're back again!?
-Just get lost already!!</EnglishText>
+      <EnglishText>The hell!? You're back here
+*again*!? Go back to wherever
+the hell you came from! ...*Now*!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>51</Id>
@@ -864,20 +906,23 @@ Just get lost already!!</EnglishText>
       <PointerOffset>314208</PointerOffset>
       <JapaneseText>な、なんだよ、
 もう、帰るの、かよ……</JapaneseText>
-      <EnglishText>Aww, are you going home already...</EnglishText>
+      <EnglishText>Th-The hell...?
+You're...leaving
+already...?</EnglishText>
       <Notes>Should I use "Aww" or "What the heck" or something else?</Notes>
       <SpeakerId>7</SpeakerId>
       <Id>52</Id>
       <BubbleId>0</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314208</PointerOffset>
       <JapaneseText>な、なんでもないよ！
 いいよ！
 さ、さっさと帰れ、よ……！</JapaneseText>
-      <EnglishText>I-It's nothing! It's nothing at all!
-J-Just go home already...!</EnglishText>
+      <EnglishText>I-I didn't say nothing!
+It's fine! J-Just get
+out of here, already...!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>52</Id>
@@ -888,18 +933,19 @@ J-Just go home already...!</EnglishText>
       <PointerOffset>314212</PointerOffset>
       <JapaneseText>お兄ちゃんたち
 ダレ～？　ダレ～？</JapaneseText>
-      <EnglishText>Big bros, who is it? Who?</EnglishText>
+      <EnglishText>Ehhh? Who are
+you guys~? Who~?</EnglishText>
       <Notes>Need to rephrase it to make it sound more natural.</Notes>
       <SpeakerId>8</SpeakerId>
       <Id>54</Id>
       <BubbleId>0</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314212</PointerOffset>
       <JapaneseText>お金集めの人？　お金はないよ～？</JapaneseText>
-      <EnglishText>Are you the debt collector?
-But I don't have any money`?</EnglishText>
+      <EnglishText>Are you here for donations?
+I'm flat broke, you know~?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>54</Id>
@@ -910,8 +956,8 @@ But I don't have any money`?</EnglishText>
       <PointerOffset>314216</PointerOffset>
       <JapaneseText>知らない人が来たら
 話しちゃダメだって～</JapaneseText>
-      <EnglishText>I'm not supposed to talk to any stranger
-that comes by~</EnglishText>
+      <EnglishText>I was told not to
+talk to strangers~</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>56</Id>
@@ -921,7 +967,8 @@ that comes by~</EnglishText>
     <Entry>
       <PointerOffset>314216</PointerOffset>
       <JapaneseText>あぁ、話しちゃったね～</JapaneseText>
-      <EnglishText>Ooops, I let that one slip~</EnglishText>
+      <EnglishText>Oh, but I just talked
+to you, didn't I~</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>56</Id>
@@ -931,7 +978,8 @@ that comes by~</EnglishText>
     <Entry>
       <PointerOffset>314216</PointerOffset>
       <JapaneseText>あ、また話しちゃった～、あ……</JapaneseText>
-      <EnglishText>Ooops, I said it again~, ummm...</EnglishText>
+      <EnglishText>Oh, I talked
+again~ Ahh...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>56</Id>
@@ -942,7 +990,8 @@ that comes by~</EnglishText>
       <PointerOffset>314220</PointerOffset>
       <JapaneseText>&lt;Chester&gt;兄ちゃん、
 やさしいよ～</JapaneseText>
-      <EnglishText>Big Bro &lt;Chester&gt;, you're so awesome at cooking~</EnglishText>
+      <EnglishText>Big bro &lt;Chester&gt;'s
+so kind~</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>59</Id>
@@ -953,7 +1002,8 @@ that comes by~</EnglishText>
       <PointerOffset>314220</PointerOffset>
       <JapaneseText>おりょーりも
 じょうずなんだよ～</JapaneseText>
-      <EnglishText>I'm pretty good at cooking too, y'know~</EnglishText>
+      <EnglishText>And he's talon-ted
+at cook-ing, too~</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>59</Id>
@@ -965,18 +1015,21 @@ that comes by~</EnglishText>
       <JapaneseText>おっきくなったらミリー、
 &lt;Chester&gt;兄ちゃんの
 およめさんなの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>When I grow up,
+I'm gonna be
+&lt;Chester&gt;'s wife!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>61</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314224</PointerOffset>
       <JapaneseText>&lt;Chester&gt;兄ちゃん
 大好きなの～</JapaneseText>
-      <EnglishText>I love big bro &lt;Chester&gt; so much~</EnglishText>
+      <EnglishText>I love my big
+bro soooo much~</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>61</Id>
@@ -986,106 +1039,120 @@ that comes by~</EnglishText>
     <Entry>
       <PointerOffset>314228</PointerOffset>
       <JapaneseText>おかえり～、ただいま～♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Welcome home~
+I'm home~</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>63</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314228</PointerOffset>
       <JapaneseText>いってらっしゃい～
 いってきま～す♪</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Stay safe~
+I'll be back so~on ♪</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>63</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314228</PointerOffset>
       <JapaneseText>ごあいさつのれんしゅう☆</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm prack-tiss-ing
+my greet-ings. ☆</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>63</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314232</PointerOffset>
       <JapaneseText>お兄ちゃんたち
 &lt;Chester&gt;兄ちゃんと
 おともだち～？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Are you guys
+friends with
+my big bro~?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>66</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314232</PointerOffset>
       <JapaneseText>だったら、ミリーとも
 おともだち～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>If you are, then
+Milly will be
+your friend, too~</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>66</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314236</PointerOffset>
       <JapaneseText>&lt;Chester&gt;兄ちゃんが
 いなくても
 ミリーさみちくないよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Even when &lt;Chester&gt;'s
+not here, Milly doesn't
+feel lonely, you know?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>68</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314236</PointerOffset>
       <JapaneseText>だって、グリッド兄ちゃんとジョンが
 いるもん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>'Cause I still have
+Grid and John
+here with me!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>68</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314240</PointerOffset>
       <JapaneseText>でも、好きなのは
 &lt;Chester&gt;兄ちゃん！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But, big bro's
+still the one I
+love the most!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>70</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314240</PointerOffset>
       <JapaneseText>&lt;Cless&gt;兄ちゃんよりも
 好きーー∀</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I love him waaay more
+than even &lt;Cless&gt;~ ∀</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>70</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>314244</PointerOffset>
       <JapaneseText>腹へった～</JapaneseText>
-      <EnglishText>I'm huuungry~</EnglishText>
+      <EnglishText>I'm hungry~</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>72</Id>
@@ -1094,7 +1161,7 @@ that comes by~</EnglishText>
     <Entry>
       <PointerOffset>314248</PointerOffset>
       <JapaneseText>腹へったよ～</JapaneseText>
-      <EnglishText>I'm soooo huuungry~</EnglishText>
+      <EnglishText>I'm so hungry~</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>73</Id>
@@ -1104,7 +1171,7 @@ that comes by~</EnglishText>
       <PointerOffset>314252</PointerOffset>
       <JapaneseText>腹へった～
 （ぐ～～～～～）</JapaneseText>
-      <EnglishText>I'm huuungry~
+      <EnglishText>I'm hungry~
 *growl*</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
@@ -1115,7 +1182,7 @@ that comes by~</EnglishText>
     <Entry>
       <PointerOffset>314252</PointerOffset>
       <JapaneseText>腹へったよ～</JapaneseText>
-      <EnglishText>I'm soooo huuungry~</EnglishText>
+      <EnglishText>I'm so hungry~</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>74</Id>
@@ -1126,8 +1193,8 @@ that comes by~</EnglishText>
       <PointerOffset>314256</PointerOffset>
       <JapaneseText>腹へった～へった～
 肉食いたい……</JapaneseText>
-      <EnglishText>I'm so, soooo, huuungry~
-I want some meat...</EnglishText>
+      <EnglishText>I'm hungry~, huungryy~
+I wanna eat steak...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>76</Id>
@@ -1137,8 +1204,8 @@ I want some meat...</EnglishText>
       <PointerOffset>314260</PointerOffset>
       <JapaneseText>腹へった～
 カレー食いたい……</JapaneseText>
-      <EnglishText>I'm soooo huuungry~
-I want curry~</EnglishText>
+      <EnglishText>I'm hungry~ I
+wanna eat curry...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>77</Id>
@@ -1148,8 +1215,8 @@ I want curry~</EnglishText>
       <PointerOffset>314264</PointerOffset>
       <JapaneseText>腹へった～
 やせる～</JapaneseText>
-      <EnglishText>I'm huuungry~
-I'm wasting away~</EnglishText>
+      <EnglishText>I'm hungry~ I'm
+gonna get skinny~</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>78</Id>
@@ -1158,7 +1225,7 @@ I'm wasting away~</EnglishText>
     <Entry>
       <PointerOffset>314268</PointerOffset>
       <JapaneseText>腹へった～</JapaneseText>
-      <EnglishText>I'm huuungry~</EnglishText>
+      <EnglishText>I'm hungry~</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>79</Id>
@@ -1168,7 +1235,7 @@ I'm wasting away~</EnglishText>
     <Entry>
       <PointerOffset>314268</PointerOffset>
       <JapaneseText>さっき食った～</JapaneseText>
-      <EnglishText>I juuust ate~</EnglishText>
+      <EnglishText>I just ate~</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>79</Id>
@@ -1178,7 +1245,7 @@ I'm wasting away~</EnglishText>
     <Entry>
       <PointerOffset>314268</PointerOffset>
       <JapaneseText>でも腹へった～</JapaneseText>
-      <EnglishText>But I'm still huuungry~</EnglishText>
+      <EnglishText>But I'm hungry~</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>79</Id>
@@ -1190,8 +1257,8 @@ I'm wasting away~</EnglishText>
       <JapaneseText>腹へった～
 なんでもいいから
 食いたい～</JapaneseText>
-      <EnglishText>I'm huuungry~
-I don't care what it is, just give me something to eat~</EnglishText>
+      <EnglishText>I'm hungry~ Gimmie anything,
+I just wanna eat~</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>82</Id>
@@ -1883,7 +1950,7 @@ I don't care what it is, just give me something to eat~</EnglishText>
     <Entry>
       <PointerOffset>326378</PointerOffset>
       <JapaneseText>………………………………</JapaneseText>
-      <EnglishText>............</EnglishText>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>86</Id>
