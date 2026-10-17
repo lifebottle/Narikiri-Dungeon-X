@@ -6,37 +6,37 @@
       <PointerOffset>267924,267988,268052</PointerOffset>
       <MaxLength>48</MaxLength>
       <JapaneseText>「天地無用」の主人</JapaneseText>
-      <EnglishText>"No Restrictions" Owner</EnglishText>
+      <EnglishText>"The Rightside Up" Owner</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268116,268180,268244,268308,268372,268436</PointerOffset>
       <MaxLength>48</MaxLength>
       <JapaneseText>売店のサッチ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sacchi of the Shop</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>268500,268564,268628</PointerOffset>
       <MaxLength>48</MaxLength>
       <JapaneseText>「天地無用」店員</JapaneseText>
-      <EnglishText>"No Restrictions" Clerk</EnglishText>
+      <EnglishText>"The Rightside Up" Clerk</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268692,268756,268820,268884,268948,269012</PointerOffset>
       <MaxLength>48</MaxLength>
       <JapaneseText>開拓者魂あふれる男性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Man with Pioneer Spirit</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset/>
@@ -84,10 +84,10 @@
     <Entry>
       <PointerOffset>278771</PointerOffset>
       <JapaneseText>道具屋　天地無用</JapaneseText>
-      <EnglishText>Item Shop No Restrictions</EnglishText>
+      <EnglishText>Item Shop - The Rightside Up</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -97,11 +97,13 @@
       <JapaneseText>はい、ここは
 道具屋「天地無用」
 ほしいもんは遠慮なく言っとくれ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes, this is the item shop, "The
+Rightside Up." If there's anything
+you'd like, be sure and let me know.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270868</PointerOffset>
@@ -115,185 +117,209 @@
     <Entry>
       <PointerOffset>270872</PointerOffset>
       <JapaneseText>安く提供させてもらってるよ～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We've got the cheapest
+offers you'll find~</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270876</PointerOffset>
       <JapaneseText>私はこのお店で
 アルバイトとして働いてる
 サッチです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm Sacchi. I work
+here part-time.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270876</PointerOffset>
       <JapaneseText>あんまりもうかってないのに、
 働かせてもらってるのって
 なんか悪い気がするけど……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This shop doesn't make a lot of
+money, but the owner lets me work
+here anyway... I feel kinda bad...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270880</PointerOffset>
       <JapaneseText>私、ご主人のご厚意で
 ここで働かせてもらってます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The owner graciously
+allows me to work here.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270880</PointerOffset>
       <JapaneseText>なかなか働き口がないので、
 助かってます。だからお給料が
 安くても文句は言いません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>There really aren't many job openings,
+so it's a big help. So much so that I
+won't complain about the low pay.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270884</PointerOffset>
       <JapaneseText>このお店、正直、あんまり
 もうかっていません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>To be frank, this shop
+isn't selling much product.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270884</PointerOffset>
       <JapaneseText>そりゃそうですよね、
 この貧しい村の人相手に
 商売してるんですもの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But that's about what you'd
+expect, right? Our clientele *are*
+people of an impoverished village.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270888</PointerOffset>
       <JapaneseText>この村の貧しい人相手の商売は
 正直、あまり割のいいものでは
 ありません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Frankly speaking, selling
+to poverty-stricken villagers
+is not very profitable.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270888</PointerOffset>
       <JapaneseText>それでもこの店がなくなると
 困る人はいるのです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But some people would be
+worse off if not for this shop.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270888</PointerOffset>
       <JapaneseText>そのために店続けるなんて、
 この店の主人、本当に人が
 いいのよね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>It's really kind of the
+owner to keep this shop
+open just for their sake.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270892</PointerOffset>
       <JapaneseText>私はここでお金を貯めて
 いつかアルヴァニスタへ
 行くつもり</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My plan is to save up my
+wages from here and move
+to Alvanista someday.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270892</PointerOffset>
       <JapaneseText>アルヴァニスタへ行って、
 小さいけれど、安らげる
 素敵なお店を経営するの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Once I'm in Alvanista, well, it'll have
+to be small, but I'll run a wonderfully
+cosy little shop of my own.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270896</PointerOffset>
       <JapaneseText>この村で唯一の雑貨店
 「天地無用」へようこそ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Welcome to the village's sole
+general store, "The Rightside Up."</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270896</PointerOffset>
       <JapaneseText>私は売店のサッチです。
 特にモデルはいません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm Sacchi of the Shop. I'm
+really not inspired by anything.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270900</PointerOffset>
       <JapaneseText>はい、道具屋「天地無用」。
 いい品揃ってるよ、
 自信あるよ～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes, we're the item shop, "The
+Rightside Up." I've got confidence
+in our products~ They're great~</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>17</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270900</PointerOffset>
       <JapaneseText>ケチケチしないで、
 さぁ買ってった買ってった！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't be a cheapskate. C'mon,
+buy something! Buy something!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>17</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270904</PointerOffset>
@@ -308,11 +334,12 @@
       <PointerOffset>270908</PointerOffset>
       <JapaneseText>冷やかしは
 お断りだよ～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Absolutely no
+window shopping~</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>20</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270912</PointerOffset>
