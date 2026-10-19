@@ -74,11 +74,11 @@
       <JapaneseText>むむ？　今度はワシに何を
 させようというのじゃ？</JapaneseText>
       <EnglishText>Hmm? Now, what do you
-need this old man to do?</EnglishText>
+need this old man for?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>291408</PointerOffset>
@@ -92,7 +92,7 @@ You're too rough on your elders...</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>291408</PointerOffset>
@@ -104,7 +104,7 @@ Let's start, then.</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>291408</PointerOffset>
@@ -116,7 +116,7 @@ me whenever you like.</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
       <BubbleId>2</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>291480</PointerOffset>
@@ -127,18 +127,17 @@ gotten stronger still...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>291660</PointerOffset>
       <JapaneseText>マクスウェル！
 オレらに力を貸してくれ！</JapaneseText>
-      <EnglishText>Maxwell! Lend
-us your power!</EnglishText>
+      <EnglishText>Maxwell! Lend us your power!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>291804</PointerOffset>
@@ -150,7 +149,7 @@ more fight out of these old bones?</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>291804</PointerOffset>
@@ -164,7 +163,7 @@ the power to lend.</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>291932</PointerOffset>
@@ -176,19 +175,19 @@ to the Spirit of Molecules.</EnglishText>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>291932</PointerOffset>
       <JapaneseText>指輪の盟約のもと、
 我に精霊を従わせたまえ</JapaneseText>
-      <EnglishText>By covenant of the ring, may this
-spirit obey me.</EnglishText>
+      <EnglishText>By covenant of the ring,
+may this spirit obey me.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>291932</PointerOffset>
@@ -198,7 +197,7 @@ spirit obey me.</EnglishText>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
       <BubbleId>2</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292008</PointerOffset>
@@ -206,10 +205,11 @@ spirit obey me.</EnglishText>
 任せるがよい</JapaneseText>
       <EnglishText>You can leave all you
 like up to this old fool.</EnglishText>
-      <Notes/>
+      <Notes>not sure about this phrasing -dragon
+</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>292232</PointerOffset>
@@ -217,25 +217,25 @@ like up to this old fool.</EnglishText>
 持っていない者とは
 契約できぬ決まりじゃ</JapaneseText>
       <EnglishText>It's unfortunate, but I can't form
-a pact with someone who
-doesn't have a pact ring.</EnglishText>
+a pact with someone who doesn't
+have a pact ring.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292232</PointerOffset>
       <JapaneseText>ターコイズを
 探してくるんじゃな</JapaneseText>
       <EnglishText>You'll have to bring
-me the Turqoise Ring.</EnglishText>
+me the Turquoise Ring.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -755,7 +755,7 @@ Nevermind</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>64</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>292344</PointerOffset>
@@ -766,7 +766,7 @@ Nevermind</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>65</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
 </SceneText>
