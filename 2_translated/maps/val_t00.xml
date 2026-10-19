@@ -37,10 +37,10 @@
     <Entry>
       <PointerOffset>367392,367620,367796,367976,370218</PointerOffset>
       <JapaneseText>助ける男性</JapaneseText>
-      <EnglishText>Helping Man</EnglishText>
+      <EnglishText>Male Assistant</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>324764,324828,324892,324956,325020,325084</PointerOffset>
@@ -70,36 +70,36 @@
     <Entry>
       <PointerOffset>325916,325980,326044,326108,326172,326236,369953</PointerOffset>
       <JapaneseText>お兄ちゃん好きの男の子</JapaneseText>
-      <EnglishText>Little Kid</EnglishText>
+      <EnglishText>Boy Who Loves His Bro</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326300,326364,326428,326492,326556,326620,369882</PointerOffset>
       <JapaneseText>悲しみを背負った母親</JapaneseText>
-      <EnglishText>Sad Mother</EnglishText>
+      <EnglishText>Sorrow-Burdened Mother</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>326684,326748,326812,326876,326940,327004</PointerOffset>
       <MaxLength>48</MaxLength>
       <JapaneseText>元気のない老婆</JapaneseText>
-      <EnglishText>Frail Old Woman</EnglishText>
+      <EnglishText>Lethargic Old Woman</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>327068,327132,327196,327260,327324,327388</PointerOffset>
       <MaxLength>48</MaxLength>
       <JapaneseText>元気のない老人</JapaneseText>
-      <EnglishText>Frail Old Man</EnglishText>
+      <EnglishText>Lethargic Old Man</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>327452,327516,327580,327644,327708,327772</PointerOffset>
@@ -1080,173 +1080,196 @@ Valhalla, this is our reality...</EnglishText>
       <JapaneseText>おにいちゃん、
 とおいところへいったって
 おばさんがおしえてくれたの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My big brother's gone
+somewhere really far
+away. My aunt told me.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>37</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>347924</PointerOffset>
       <JapaneseText>おにいちゃん、
 いつかえってくるかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But when will my
+brother come back?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>37</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>347924</PointerOffset>
       <JapaneseText>おにいちゃんがかえってきたら、
 おかあさんもなきやんで
 くれるのかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Once my brother comes
+back, will my mom
+stop crying, too?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>37</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>347928</PointerOffset>
       <JapaneseText>おにいちゃんがいった
 とおいところって
 どこかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Where's the really
+far away place my
+brother went to?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>40</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>347928</PointerOffset>
       <JapaneseText>ぼくもいってみたいな。
 おにいちゃんとあいたいよ～</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I want to go there, too.
+So I can see my brother~</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>40</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>347932</PointerOffset>
       <JapaneseText>おにいちゃんがね、
 ちょっとまえからいないの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My brother hasn't been
+here for a little while.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>42</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>347932</PointerOffset>
       <JapaneseText>おほしさまになったんだって
 おかあさんがいってた</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My mom said he became
+a twinkly star in the sky.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>42</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>347932</PointerOffset>
       <JapaneseText>でもおかあさんないてるんだ、
 なんでだろう？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But why is Mom
+always crying?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>42</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>347936</PointerOffset>
       <JapaneseText>おほしさまになれると
 なんかいいことあるのかな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is there something good about
+becoming a twinkly star?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>45</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>347936</PointerOffset>
       <JapaneseText>ぼくもおほしさまになりたいな。
 あ、でもそうしたら、
 おかあさん、もっとなくかな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I want to be a twinkly star,
+too. Oh, but if I did that,
+my mom would cry more...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>45</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>347940</PointerOffset>
       <JapaneseText>おにいちゃん、しんじゃったって
 おじさんがおしえてくれたよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>My uncle told me my
+big brother died.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>47</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>347940</PointerOffset>
       <JapaneseText>しんじゃったってことは
 もう２どとあえないんだって。
 だからおかあさんないてるんだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>And that when someone's
+died, you can't see them again.
+That's why Mom is crying.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>47</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>347940</PointerOffset>
       <JapaneseText>でもぼくなかないよ。
 だってぼくがないたら、
 おかあさんなけなくなるもん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But I'm not going to cry.
+Because if I cried, my mom
+wouldn't be able to cry anymore.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>47</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>347944</PointerOffset>
       <JapaneseText>もうおにいちゃんと
 あえないなんて……
 ぼくもなきたい……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I can't see my
+brother anymore...
+I want to cry, too...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>50</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>347944</PointerOffset>
       <JapaneseText>でも、なかないんだ！
 おにいちゃんがぼくは
 つよい子だっていってたから！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But, I won't cry! Because
+my brother told me
+I'm a strong little guy!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>50</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>347948</PointerOffset>
