@@ -4,6 +4,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>269432,269496,269560</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>「ほっかむり」の主</JapaneseText>
       <EnglishText>"Bonnet" Owner</EnglishText>
       <Notes/>
@@ -12,6 +13,7 @@
     </Entry>
     <Entry>
       <PointerOffset>269624,269688</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>曖昧な言葉の女性</JapaneseText>
       <EnglishText>Vaguely-Worded Woman</EnglishText>
       <Notes/>
@@ -20,6 +22,7 @@
     </Entry>
     <Entry>
       <PointerOffset>269752,269816,269880</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>「ベイビー」の主</JapaneseText>
       <EnglishText>"Baby" Owner</EnglishText>
       <Notes/>
@@ -28,6 +31,7 @@
     </Entry>
     <Entry>
       <PointerOffset>269944,270008,270072,270136,270200,270264</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>過言でないおじいさん</JapaneseText>
       <EnglishText>No-Exaggeration Old Man</EnglishText>
       <Notes/>
@@ -36,6 +40,7 @@
     </Entry>
     <Entry>
       <PointerOffset>270328,270392,270456</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>「ほっかむり」な主</JapaneseText>
       <EnglishText>"Bonnet"-ed Owner</EnglishText>
       <Notes/>
@@ -44,6 +49,7 @@
     </Entry>
     <Entry>
       <PointerOffset>270520,270584,270648,270712,270776,270840</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>実は騎士の男性</JapaneseText>
       <EnglishText>Off-Duty Knight</EnglishText>
       <Notes/>
@@ -51,7 +57,7 @@
       <Status>Done</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>274741</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -59,7 +65,7 @@
       <Status>ref:Speaker:8</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>274782</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -67,7 +73,7 @@
       <Status>ref:Speaker:19</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>274808,275046,275111,275147,275218,275284,275323,275399,275470,275536,275547,275665,275751,275832,275908,275979,276045,276056,276225,276258,276269,276384,276494,276505,276632,276675,276860,277624,277635,277790,277898,278072,278148,278246,278352,278418,278471,278585,278782,279024,279089,279154,279219,279893,280234,280435</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -75,7 +81,7 @@
       <Status>ref:Speaker:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>276745,277193,278876,278930,278986,279284,279332,279380,279434,279494,279548,279602,279705,279763</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -83,7 +89,7 @@
       <Status>ref:Speaker:2</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>277247</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -94,7 +100,7 @@
   <Strings>
     <Section>Place</Section>
     <Entry>
-      <PointerOffset>280640</PointerOffset>
+      <PointerOffset>266836</PointerOffset>
       <JapaneseText>道具屋　ほっかむり</JapaneseText>
       <EnglishText>Item Shop - Bonnet</EnglishText>
       <Notes/>
@@ -102,7 +108,7 @@
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280659</PointerOffset>
+      <PointerOffset>266900</PointerOffset>
       <JapaneseText>道具屋　ベイビー</JapaneseText>
       <EnglishText>Item Shop - Baby</EnglishText>
       <Notes/>
@@ -137,11 +143,11 @@ general store, "Bonnet."</EnglishText>
     <Entry>
       <PointerOffset>272696</PointerOffset>
       <JapaneseText>_shop_</JapaneseText>
-      <EnglishText/>
+      <EnglishText>_shop_</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272700</PointerOffset>
@@ -252,11 +258,11 @@ the general store, Baby.</EnglishText>
     <Entry>
       <PointerOffset>272716</PointerOffset>
       <JapaneseText>_shop_</JapaneseText>
-      <EnglishText/>
+      <EnglishText>_shop_</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272720</PointerOffset>
@@ -643,7 +649,7 @@ for the world's protection.</EnglishText>
   <Strings>
     <Section>Notice</Section>
     <Entry>
-      <PointerOffset>274770</PointerOffset>
+      <PointerOffset>93072</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -651,7 +657,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274789</PointerOffset>
+      <PointerOffset>94632</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -659,7 +665,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274819</PointerOffset>
+      <PointerOffset>99276</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -667,7 +673,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:91</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275024</PointerOffset>
+      <PointerOffset>101096</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -675,7 +681,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:79</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275057</PointerOffset>
+      <PointerOffset>101364</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -683,7 +689,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275122</PointerOffset>
+      <PointerOffset>102536</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -691,7 +697,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:77</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275158</PointerOffset>
+      <PointerOffset>102840</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -699,7 +705,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275229</PointerOffset>
+      <PointerOffset>103188</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -707,7 +713,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275295</PointerOffset>
+      <PointerOffset>104508</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -715,7 +721,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:75</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275334</PointerOffset>
+      <PointerOffset>104848</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -723,7 +729,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275410</PointerOffset>
+      <PointerOffset>105260</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -731,7 +737,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275481</PointerOffset>
+      <PointerOffset>105608</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -739,7 +745,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275558</PointerOffset>
+      <PointerOffset>107012</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -747,7 +753,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:118</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275585</PointerOffset>
+      <PointerOffset>107232</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -755,7 +761,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:104</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275676</PointerOffset>
+      <PointerOffset>107836</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -763,7 +769,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:105</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275762</PointerOffset>
+      <PointerOffset>108376</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -771,7 +777,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:106</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275843</PointerOffset>
+      <PointerOffset>108852</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -779,7 +785,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275919</PointerOffset>
+      <PointerOffset>109264</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -787,7 +793,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275990</PointerOffset>
+      <PointerOffset>109612</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -795,7 +801,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276067</PointerOffset>
+      <PointerOffset>110020</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -803,7 +809,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:89</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276203</PointerOffset>
+      <PointerOffset>110404</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -811,7 +817,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276236</PointerOffset>
+      <PointerOffset>111428</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -819,7 +825,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276280</PointerOffset>
+      <PointerOffset>111844</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -827,7 +833,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276395</PointerOffset>
+      <PointerOffset>114436</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -835,7 +841,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276466</PointerOffset>
+      <PointerOffset>116964</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -843,7 +849,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:76</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276516</PointerOffset>
+      <PointerOffset>117412</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -851,7 +857,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276643</PointerOffset>
+      <PointerOffset>120564</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -859,7 +865,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276686</PointerOffset>
+      <PointerOffset>122512</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -867,7 +873,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:94</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276705</PointerOffset>
+      <PointerOffset>123316</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -875,7 +881,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:32</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276835</PointerOffset>
+      <PointerOffset>124776</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -883,7 +889,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:73</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277205</PointerOffset>
+      <PointerOffset>140756</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -891,7 +897,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:21</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277258</PointerOffset>
+      <PointerOffset>140948</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -899,7 +905,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:132</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277570</PointerOffset>
+      <PointerOffset>159104</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -907,7 +913,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277646</PointerOffset>
+      <PointerOffset>159464</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -915,7 +921,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:123</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277801</PointerOffset>
+      <PointerOffset>168548</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -923,7 +929,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:102</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277909</PointerOffset>
+      <PointerOffset>177292</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -931,7 +937,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:111</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278083</PointerOffset>
+      <PointerOffset>179916</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -939,7 +945,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:101</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278159</PointerOffset>
+      <PointerOffset>180440</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -947,7 +953,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:112</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278257</PointerOffset>
+      <PointerOffset>182144</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -955,7 +961,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:103</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278363</PointerOffset>
+      <PointerOffset>186152</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -963,7 +969,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:98</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278429</PointerOffset>
+      <PointerOffset>191348</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -971,7 +977,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:121</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278482</PointerOffset>
+      <PointerOffset>194804</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -979,7 +985,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:85</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278596</PointerOffset>
+      <PointerOffset>207964</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -987,7 +993,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:88</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278793</PointerOffset>
+      <PointerOffset>210660</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -995,7 +1001,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:117</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278843</PointerOffset>
+      <PointerOffset>220144</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1003,7 +1009,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:9</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278888</PointerOffset>
+      <PointerOffset>224124</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1011,7 +1017,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278942</PointerOffset>
+      <PointerOffset>225948</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1019,7 +1025,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:6</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279035</PointerOffset>
+      <PointerOffset>228952</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1027,7 +1033,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279100</PointerOffset>
+      <PointerOffset>229556</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1035,7 +1041,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279165</PointerOffset>
+      <PointerOffset>230208</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1043,7 +1049,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279230</PointerOffset>
+      <PointerOffset>230812</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1051,7 +1057,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279296</PointerOffset>
+      <PointerOffset>235776</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1059,7 +1065,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:36</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279344</PointerOffset>
+      <PointerOffset>241568</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1067,7 +1073,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:18</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279392</PointerOffset>
+      <PointerOffset>241880</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1075,7 +1081,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279446</PointerOffset>
+      <PointerOffset>242416</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1083,7 +1089,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:52</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279506</PointerOffset>
+      <PointerOffset>242884</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1091,7 +1097,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279560</PointerOffset>
+      <PointerOffset>243284</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1099,7 +1105,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:51</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279614</PointerOffset>
+      <PointerOffset>243752</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1107,7 +1113,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279717</PointerOffset>
+      <PointerOffset>258128</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1115,7 +1121,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:38</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279775</PointerOffset>
+      <PointerOffset>258296</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1123,7 +1129,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:39</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279904</PointerOffset>
+      <PointerOffset>262544</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1131,7 +1137,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:113</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280245</PointerOffset>
+      <PointerOffset>264736</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1139,7 +1145,7 @@ for the world's protection.</EnglishText>
       <Status>ref:Notice:115</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280446</PointerOffset>
+      <PointerOffset>264904</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>

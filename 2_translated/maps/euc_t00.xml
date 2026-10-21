@@ -20,6 +20,7 @@
     </Entry>
     <Entry>
       <PointerOffset>312448,312512</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>憂鬱な青年</JapaneseText>
       <EnglishText>Depressed Young Man</EnglishText>
       <Notes/>
@@ -28,6 +29,7 @@
     </Entry>
     <Entry>
       <PointerOffset>312576,312640,312704,312768,312832,312896,312960,313024</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>陽気なおばさん</JapaneseText>
       <EnglishText>Cheerful Lady</EnglishText>
       <Notes/>
@@ -36,6 +38,7 @@
     </Entry>
     <Entry>
       <PointerOffset>313088,313152,313216,313280,313344,313408</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>夢多き男の子</JapaneseText>
       <EnglishText>Boy Full of Dreams</EnglishText>
       <Notes/>
@@ -44,6 +47,7 @@
     </Entry>
     <Entry>
       <PointerOffset>313472,313536,313600,313664,313728,313792</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>微笑む女の子</JapaneseText>
       <EnglishText>Smiling Girl</EnglishText>
       <Notes/>
@@ -52,6 +56,7 @@
     </Entry>
     <Entry>
       <PointerOffset>313856,313920,313984,314048,314112,314176,314240,314304</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>噂好きなおねえさん</JapaneseText>
       <EnglishText>Gossipy Woman</EnglishText>
       <Notes/>
@@ -60,6 +65,7 @@
     </Entry>
     <Entry>
       <PointerOffset>314368,314432,314496,314560,314624,314688</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>元気なお年寄り</JapaneseText>
       <EnglishText>Energetic Senior</EnglishText>
       <Notes/>
@@ -76,6 +82,7 @@
     </Entry>
     <Entry>
       <PointerOffset>315136,315200,315264,315328,315392,315456</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>無念の母親</JapaneseText>
       <EnglishText>Grieving Mother</EnglishText>
       <Notes/>
@@ -84,6 +91,7 @@
     </Entry>
     <Entry>
       <PointerOffset>315520,315584,315648,315712,315776,315840</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>恋に恋する女性</JapaneseText>
       <EnglishText>Woman in Love with Love</EnglishText>
       <Notes/>
@@ -92,6 +100,7 @@
     </Entry>
     <Entry>
       <PointerOffset>315904,315968</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>腹ペコの少女</JapaneseText>
       <EnglishText>Hungry Girl</EnglishText>
       <Notes/>
@@ -99,7 +108,7 @@
       <Status>Done</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>324381</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -107,7 +116,7 @@
       <Status>ref:Speaker:8</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>324422</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -123,7 +132,7 @@
       <Status>Done</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>326385,326833,328507,328561,328617,328915,328963,329011,329065,329125,329179,329233,329336,329394,333110,333158,333210,333258,333306,333358,333406,333454,333510,333566,333618,333672,333720,333772,333824,333872,333924,333980,334040,334138</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -131,7 +140,7 @@
       <Status>ref:Speaker:2</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>326887</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -139,7 +148,7 @@
       <Status>ref:Speaker:14</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>334094</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -158,7 +167,7 @@
   <Strings>
     <Section>Place</Section>
     <Entry>
-      <PointerOffset>334271</PointerOffset>
+      <PointerOffset>299768</PointerOffset>
       <JapaneseText>道具屋　猫目</JapaneseText>
       <EnglishText>Item Shop - Cat's Eye</EnglishText>
       <Notes/>
@@ -166,7 +175,7 @@
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>334284</PointerOffset>
+      <PointerOffset>299944</PointerOffset>
       <JapaneseText>武器屋　ビショップ</JapaneseText>
       <EnglishText>Weapon Shop - Bishop</EnglishText>
       <Notes/>
@@ -174,7 +183,7 @@
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>334303</PointerOffset>
+      <PointerOffset>300120</PointerOffset>
       <JapaneseText>食材屋　べジット</JapaneseText>
       <EnglishText>Grocery Store - Veggie</EnglishText>
       <Notes/>
@@ -182,7 +191,7 @@
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>334320</PointerOffset>
+      <PointerOffset>300296</PointerOffset>
       <JapaneseText>&lt;Klarth&gt;の家</JapaneseText>
       <EnglishText>&lt;Klarth&gt;'s House</EnglishText>
       <Notes/>
@@ -190,7 +199,7 @@
       <Status>Done</Status>
     </Entry>
     <Entry>
-      <PointerOffset>334387</PointerOffset>
+      <PointerOffset>302012</PointerOffset>
       <JapaneseText>ユークリッド村</JapaneseText>
       <EnglishText>Euclid Village </EnglishText>
       <Notes/>
@@ -774,11 +783,11 @@ dragonfly too~</EnglishText>
       <JapaneseText>トンボになって
 ばんちょーおーえんすんの！</JapaneseText>
       <EnglishText/>
-      <Notes>no idea what dragonflies have to do with banchous</Notes>
+      <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>38</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>320864</PointerOffset>
@@ -1573,7 +1582,7 @@ all melty~! I need to try it sometime.</EnglishText>
   <Strings>
     <Section>Notice</Section>
     <Entry>
-      <PointerOffset>324410</PointerOffset>
+      <PointerOffset>93896</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1581,7 +1590,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>324429</PointerOffset>
+      <PointerOffset>95456</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1589,7 +1598,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>324459</PointerOffset>
+      <PointerOffset>100100</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1597,7 +1606,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:91</Status>
     </Entry>
     <Entry>
-      <PointerOffset>324664</PointerOffset>
+      <PointerOffset>101920</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1605,7 +1614,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:79</Status>
     </Entry>
     <Entry>
-      <PointerOffset>324697</PointerOffset>
+      <PointerOffset>102188</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1613,7 +1622,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>324762</PointerOffset>
+      <PointerOffset>103360</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1621,7 +1630,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:77</Status>
     </Entry>
     <Entry>
-      <PointerOffset>324798</PointerOffset>
+      <PointerOffset>103664</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1629,7 +1638,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>324869</PointerOffset>
+      <PointerOffset>104012</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1637,7 +1646,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>324935</PointerOffset>
+      <PointerOffset>105332</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1645,7 +1654,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:75</Status>
     </Entry>
     <Entry>
-      <PointerOffset>324974</PointerOffset>
+      <PointerOffset>105672</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1653,7 +1662,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>325050</PointerOffset>
+      <PointerOffset>106084</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1661,7 +1670,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>325121</PointerOffset>
+      <PointerOffset>106432</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1669,7 +1678,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>325198</PointerOffset>
+      <PointerOffset>107836</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1677,7 +1686,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:118</Status>
     </Entry>
     <Entry>
-      <PointerOffset>325225</PointerOffset>
+      <PointerOffset>108056</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1685,7 +1694,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:104</Status>
     </Entry>
     <Entry>
-      <PointerOffset>325316</PointerOffset>
+      <PointerOffset>108660</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1693,7 +1702,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:105</Status>
     </Entry>
     <Entry>
-      <PointerOffset>325402</PointerOffset>
+      <PointerOffset>109200</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1701,7 +1710,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:106</Status>
     </Entry>
     <Entry>
-      <PointerOffset>325483</PointerOffset>
+      <PointerOffset>109676</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1709,7 +1718,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>325559</PointerOffset>
+      <PointerOffset>110088</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1717,7 +1726,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>325630</PointerOffset>
+      <PointerOffset>110436</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1725,7 +1734,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>325707</PointerOffset>
+      <PointerOffset>110844</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1733,7 +1742,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:89</Status>
     </Entry>
     <Entry>
-      <PointerOffset>325843</PointerOffset>
+      <PointerOffset>111228</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1741,7 +1750,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>325876</PointerOffset>
+      <PointerOffset>112252</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1749,7 +1758,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>325920</PointerOffset>
+      <PointerOffset>112668</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1757,7 +1766,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>326035</PointerOffset>
+      <PointerOffset>115260</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1765,7 +1774,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>326106</PointerOffset>
+      <PointerOffset>117552</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1773,7 +1782,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:76</Status>
     </Entry>
     <Entry>
-      <PointerOffset>326156</PointerOffset>
+      <PointerOffset>118000</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1781,7 +1790,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>326283</PointerOffset>
+      <PointerOffset>120916</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1789,7 +1798,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>326326</PointerOffset>
+      <PointerOffset>122628</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1797,7 +1806,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:94</Status>
     </Entry>
     <Entry>
-      <PointerOffset>326345</PointerOffset>
+      <PointerOffset>123196</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1805,7 +1814,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:32</Status>
     </Entry>
     <Entry>
-      <PointerOffset>326475</PointerOffset>
+      <PointerOffset>124656</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1813,7 +1822,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:73</Status>
     </Entry>
     <Entry>
-      <PointerOffset>326845</PointerOffset>
+      <PointerOffset>140636</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1821,7 +1830,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:21</Status>
     </Entry>
     <Entry>
-      <PointerOffset>326898</PointerOffset>
+      <PointerOffset>140828</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1829,7 +1838,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:132</Status>
     </Entry>
     <Entry>
-      <PointerOffset>327201</PointerOffset>
+      <PointerOffset>158784</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1837,7 +1846,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>327277</PointerOffset>
+      <PointerOffset>159144</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1845,7 +1854,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:123</Status>
     </Entry>
     <Entry>
-      <PointerOffset>327432</PointerOffset>
+      <PointerOffset>168228</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1853,7 +1862,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:102</Status>
     </Entry>
     <Entry>
-      <PointerOffset>327540</PointerOffset>
+      <PointerOffset>176972</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1861,7 +1870,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:111</Status>
     </Entry>
     <Entry>
-      <PointerOffset>327714</PointerOffset>
+      <PointerOffset>179596</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1869,7 +1878,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:101</Status>
     </Entry>
     <Entry>
-      <PointerOffset>327790</PointerOffset>
+      <PointerOffset>180120</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1877,7 +1886,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:112</Status>
     </Entry>
     <Entry>
-      <PointerOffset>327888</PointerOffset>
+      <PointerOffset>181824</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1885,7 +1894,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:103</Status>
     </Entry>
     <Entry>
-      <PointerOffset>327994</PointerOffset>
+      <PointerOffset>185832</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1893,7 +1902,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:98</Status>
     </Entry>
     <Entry>
-      <PointerOffset>328060</PointerOffset>
+      <PointerOffset>191028</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1901,7 +1910,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:121</Status>
     </Entry>
     <Entry>
-      <PointerOffset>328113</PointerOffset>
+      <PointerOffset>194484</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1909,7 +1918,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:85</Status>
     </Entry>
     <Entry>
-      <PointerOffset>328227</PointerOffset>
+      <PointerOffset>207776</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1917,7 +1926,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:88</Status>
     </Entry>
     <Entry>
-      <PointerOffset>328424</PointerOffset>
+      <PointerOffset>210472</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1925,7 +1934,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:117</Status>
     </Entry>
     <Entry>
-      <PointerOffset>328474</PointerOffset>
+      <PointerOffset>219956</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1933,7 +1942,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:9</Status>
     </Entry>
     <Entry>
-      <PointerOffset>328519</PointerOffset>
+      <PointerOffset>223936</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1941,7 +1950,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset>328573</PointerOffset>
+      <PointerOffset>225760</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1949,7 +1958,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:6</Status>
     </Entry>
     <Entry>
-      <PointerOffset>328666</PointerOffset>
+      <PointerOffset>228764</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1957,7 +1966,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>328731</PointerOffset>
+      <PointerOffset>229368</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1965,7 +1974,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>328796</PointerOffset>
+      <PointerOffset>230020</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1973,7 +1982,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>328861</PointerOffset>
+      <PointerOffset>230624</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1981,7 +1990,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>328927</PointerOffset>
+      <PointerOffset>235588</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1989,7 +1998,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:36</Status>
     </Entry>
     <Entry>
-      <PointerOffset>328975</PointerOffset>
+      <PointerOffset>241380</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1997,7 +2006,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:18</Status>
     </Entry>
     <Entry>
-      <PointerOffset>329023</PointerOffset>
+      <PointerOffset>241692</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2005,7 +2014,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>329077</PointerOffset>
+      <PointerOffset>242228</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2013,7 +2022,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:52</Status>
     </Entry>
     <Entry>
-      <PointerOffset>329137</PointerOffset>
+      <PointerOffset>242696</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2021,7 +2030,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>329191</PointerOffset>
+      <PointerOffset>243096</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2029,7 +2038,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:51</Status>
     </Entry>
     <Entry>
-      <PointerOffset>329245</PointerOffset>
+      <PointerOffset>243564</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2037,7 +2046,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>329348</PointerOffset>
+      <PointerOffset>257940</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2045,7 +2054,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:38</Status>
     </Entry>
     <Entry>
-      <PointerOffset>329406</PointerOffset>
+      <PointerOffset>258108</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2053,7 +2062,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:39</Status>
     </Entry>
     <Entry>
-      <PointerOffset>329535</PointerOffset>
+      <PointerOffset>262356</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2061,7 +2070,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:113</Status>
     </Entry>
     <Entry>
-      <PointerOffset>329876</PointerOffset>
+      <PointerOffset>264548</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2069,7 +2078,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:115</Status>
     </Entry>
     <Entry>
-      <PointerOffset>330077</PointerOffset>
+      <PointerOffset>264716</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2077,7 +2086,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:114</Status>
     </Entry>
     <Entry>
-      <PointerOffset>333122</PointerOffset>
+      <PointerOffset>286920</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2085,7 +2094,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:18</Status>
     </Entry>
     <Entry>
-      <PointerOffset>333170</PointerOffset>
+      <PointerOffset>287280</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2093,7 +2102,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:41</Status>
     </Entry>
     <Entry>
-      <PointerOffset>333222</PointerOffset>
+      <PointerOffset>287640</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2101,7 +2110,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:30</Status>
     </Entry>
     <Entry>
-      <PointerOffset>333270</PointerOffset>
+      <PointerOffset>288104</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2109,7 +2118,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:53</Status>
     </Entry>
     <Entry>
-      <PointerOffset>333318</PointerOffset>
+      <PointerOffset>288568</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2117,7 +2126,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:35</Status>
     </Entry>
     <Entry>
-      <PointerOffset>333370</PointerOffset>
+      <PointerOffset>289084</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2125,7 +2134,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:40</Status>
     </Entry>
     <Entry>
-      <PointerOffset>333418</PointerOffset>
+      <PointerOffset>289548</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2133,7 +2142,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:43</Status>
     </Entry>
     <Entry>
-      <PointerOffset>333466</PointerOffset>
+      <PointerOffset>290064</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2141,7 +2150,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:49</Status>
     </Entry>
     <Entry>
-      <PointerOffset>333522</PointerOffset>
+      <PointerOffset>290476</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2149,7 +2158,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:45</Status>
     </Entry>
     <Entry>
-      <PointerOffset>333578</PointerOffset>
+      <PointerOffset>290888</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2157,7 +2166,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:31</Status>
     </Entry>
     <Entry>
-      <PointerOffset>333630</PointerOffset>
+      <PointerOffset>291404</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2165,7 +2174,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:44</Status>
     </Entry>
     <Entry>
-      <PointerOffset>333684</PointerOffset>
+      <PointerOffset>291920</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2173,7 +2182,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:17</Status>
     </Entry>
     <Entry>
-      <PointerOffset>333732</PointerOffset>
+      <PointerOffset>292384</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2181,7 +2190,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:48</Status>
     </Entry>
     <Entry>
-      <PointerOffset>333784</PointerOffset>
+      <PointerOffset>292848</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2189,7 +2198,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:24</Status>
     </Entry>
     <Entry>
-      <PointerOffset>333836</PointerOffset>
+      <PointerOffset>293312</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2197,7 +2206,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:19</Status>
     </Entry>
     <Entry>
-      <PointerOffset>333884</PointerOffset>
+      <PointerOffset>293776</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2205,7 +2214,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:23</Status>
     </Entry>
     <Entry>
-      <PointerOffset>333936</PointerOffset>
+      <PointerOffset>294188</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2213,7 +2222,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:50</Status>
     </Entry>
     <Entry>
-      <PointerOffset>333992</PointerOffset>
+      <PointerOffset>294756</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2221,7 +2230,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:46</Status>
     </Entry>
     <Entry>
-      <PointerOffset>334052</PointerOffset>
+      <PointerOffset>295324</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2229,7 +2238,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:47</Status>
     </Entry>
     <Entry>
-      <PointerOffset>334103</PointerOffset>
+      <PointerOffset>295852</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2237,7 +2246,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:130</Status>
     </Entry>
     <Entry>
-      <PointerOffset>334150</PointerOffset>
+      <PointerOffset>296028</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2245,7 +2254,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>334454</PointerOffset>
+      <PointerOffset>305148</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2253,7 +2262,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:87</Status>
     </Entry>
     <Entry>
-      <PointerOffset>334626</PointerOffset>
+      <PointerOffset>306400</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2261,7 +2270,7 @@ all melty~! I need to try it sometime.</EnglishText>
       <Status>ref:Notice:100</Status>
     </Entry>
     <Entry>
-      <PointerOffset>334734</PointerOffset>
+      <PointerOffset>308420</PointerOffset>
       <JapaneseText>あの人
 どんな目にあったのかな……</JapaneseText>
       <EnglishText>I wonder what
@@ -2272,7 +2281,7 @@ happened to him...</EnglishText>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>334807</PointerOffset>
+      <PointerOffset>309380</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2280,7 +2289,7 @@ happened to him...</EnglishText>
       <Status>ref:Notice:71</Status>
     </Entry>
     <Entry>
-      <PointerOffset>334831</PointerOffset>
+      <PointerOffset>309856</PointerOffset>
       <JapaneseText>学者のとこ行くんだべさ？
 もう忘れちまっただか？</JapaneseText>
       <EnglishText>Weren't ya going to meet that scholar?

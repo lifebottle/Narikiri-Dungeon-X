@@ -12,6 +12,7 @@
     </Entry>
     <Entry>
       <PointerOffset>304288,304352,304416,304480,304544,304608,304672,304736</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>側近の仁蔵</JapaneseText>
       <EnglishText>Trusted Aide Jinzou</EnglishText>
       <Notes/>
@@ -20,6 +21,7 @@
     </Entry>
     <Entry>
       <PointerOffset>304800,304864,304928,304992,305056,305120,305184,305248</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>下働きの彗蔵</JapaneseText>
       <EnglishText>Assistant Keizou</EnglishText>
       <Notes/>
@@ -28,6 +30,7 @@
     </Entry>
     <Entry>
       <PointerOffset>305312,305376,305440,305504,305568,305632</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>風呂好きの大蔵</JapaneseText>
       <EnglishText>Bath-Loving Oozou</EnglishText>
       <Notes/>
@@ -35,7 +38,7 @@
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>310945</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -43,7 +46,7 @@
       <Status>ref:Speaker:8</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>310986</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -51,7 +54,7 @@
       <Status>ref:Speaker:19</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>311012,311250,311315,311351,311422,311488,311527,311603,311674,311740,311751,311869,311955,312036,312112,312183,312249,312260,312429,312462,312473,312588,312698,312709,312836,312879,313064,313828,313839,313994,314102,314276,314352,314450,314556,314622,314675,314789,314986,315228,315293,315358,315423,316097,316438,316639</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -59,7 +62,7 @@
       <Status>ref:Speaker:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>312949,313397,315080,315134,315190,315488,315536,315584,315638,315698,315752,315806,315909,315967,317358,317406,317458,317506,317554,317606,317654,317702,317758,317814,317866,317920,317968,318020,318072,318120,318172,318228,318288,318386</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -67,7 +70,7 @@
       <Status>ref:Speaker:2</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>313451</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -75,7 +78,7 @@
       <Status>ref:Speaker:14</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>318342</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -94,7 +97,7 @@
   <Strings>
     <Section>Place</Section>
     <Entry>
-      <PointerOffset>318489</PointerOffset>
+      <PointerOffset>299412</PointerOffset>
       <JapaneseText>忍者の里　頭領の屋敷</JapaneseText>
       <EnglishText>Ninja Village - Clan Head's Estate</EnglishText>
       <Notes/>
@@ -782,7 +785,7 @@ dip. Please treat them well, if so.</EnglishText>
   <Strings>
     <Section>Notice</Section>
     <Entry>
-      <PointerOffset>310974</PointerOffset>
+      <PointerOffset>94208</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -790,7 +793,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>310993</PointerOffset>
+      <PointerOffset>95768</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -798,7 +801,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311023</PointerOffset>
+      <PointerOffset>100412</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -806,7 +809,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:91</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311228</PointerOffset>
+      <PointerOffset>102232</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -814,7 +817,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:79</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311261</PointerOffset>
+      <PointerOffset>102500</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -822,7 +825,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311326</PointerOffset>
+      <PointerOffset>103672</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -830,7 +833,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:77</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311362</PointerOffset>
+      <PointerOffset>103976</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -838,7 +841,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311433</PointerOffset>
+      <PointerOffset>104324</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -846,7 +849,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311499</PointerOffset>
+      <PointerOffset>105644</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -854,7 +857,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:75</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311538</PointerOffset>
+      <PointerOffset>105984</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -862,7 +865,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311614</PointerOffset>
+      <PointerOffset>106396</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -870,7 +873,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311685</PointerOffset>
+      <PointerOffset>106744</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -878,7 +881,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311762</PointerOffset>
+      <PointerOffset>108148</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -886,7 +889,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:118</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311789</PointerOffset>
+      <PointerOffset>108368</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -894,7 +897,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:104</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311880</PointerOffset>
+      <PointerOffset>108972</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -902,7 +905,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:105</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311966</PointerOffset>
+      <PointerOffset>109512</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -910,7 +913,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:106</Status>
     </Entry>
     <Entry>
-      <PointerOffset>312047</PointerOffset>
+      <PointerOffset>109988</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -918,7 +921,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>312123</PointerOffset>
+      <PointerOffset>110400</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -926,7 +929,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>312194</PointerOffset>
+      <PointerOffset>110748</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -934,7 +937,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>312271</PointerOffset>
+      <PointerOffset>111156</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -942,7 +945,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:89</Status>
     </Entry>
     <Entry>
-      <PointerOffset>312407</PointerOffset>
+      <PointerOffset>111540</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -950,7 +953,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>312440</PointerOffset>
+      <PointerOffset>112564</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -958,7 +961,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>312484</PointerOffset>
+      <PointerOffset>112980</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -966,7 +969,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>312599</PointerOffset>
+      <PointerOffset>115572</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -974,7 +977,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>312670</PointerOffset>
+      <PointerOffset>118100</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -982,7 +985,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:76</Status>
     </Entry>
     <Entry>
-      <PointerOffset>312720</PointerOffset>
+      <PointerOffset>118548</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -990,7 +993,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>312847</PointerOffset>
+      <PointerOffset>121700</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -998,7 +1001,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>312890</PointerOffset>
+      <PointerOffset>123648</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1006,7 +1009,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:94</Status>
     </Entry>
     <Entry>
-      <PointerOffset>312909</PointerOffset>
+      <PointerOffset>124452</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1014,7 +1017,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:32</Status>
     </Entry>
     <Entry>
-      <PointerOffset>313039</PointerOffset>
+      <PointerOffset>125912</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1022,7 +1025,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:73</Status>
     </Entry>
     <Entry>
-      <PointerOffset>313409</PointerOffset>
+      <PointerOffset>141892</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1030,7 +1033,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:21</Status>
     </Entry>
     <Entry>
-      <PointerOffset>313462</PointerOffset>
+      <PointerOffset>142084</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1038,7 +1041,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:132</Status>
     </Entry>
     <Entry>
-      <PointerOffset>313774</PointerOffset>
+      <PointerOffset>160240</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1046,7 +1049,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>313850</PointerOffset>
+      <PointerOffset>160600</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1054,7 +1057,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:123</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314005</PointerOffset>
+      <PointerOffset>169684</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1062,7 +1065,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:102</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314113</PointerOffset>
+      <PointerOffset>178428</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1070,7 +1073,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:111</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314287</PointerOffset>
+      <PointerOffset>181052</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1078,7 +1081,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:101</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314363</PointerOffset>
+      <PointerOffset>181576</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1086,7 +1089,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:112</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314461</PointerOffset>
+      <PointerOffset>183280</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1094,7 +1097,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:103</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314567</PointerOffset>
+      <PointerOffset>187288</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1102,7 +1105,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:98</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314633</PointerOffset>
+      <PointerOffset>192484</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1110,7 +1113,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:121</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314686</PointerOffset>
+      <PointerOffset>195940</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1118,7 +1121,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:85</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314800</PointerOffset>
+      <PointerOffset>209100</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1126,7 +1129,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:88</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314997</PointerOffset>
+      <PointerOffset>211796</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1134,7 +1137,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:117</Status>
     </Entry>
     <Entry>
-      <PointerOffset>315047</PointerOffset>
+      <PointerOffset>221280</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1142,7 +1145,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:9</Status>
     </Entry>
     <Entry>
-      <PointerOffset>315092</PointerOffset>
+      <PointerOffset>225260</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1150,7 +1153,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset>315146</PointerOffset>
+      <PointerOffset>227084</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1158,7 +1161,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:6</Status>
     </Entry>
     <Entry>
-      <PointerOffset>315239</PointerOffset>
+      <PointerOffset>230088</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1166,7 +1169,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>315304</PointerOffset>
+      <PointerOffset>230692</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1174,7 +1177,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>315369</PointerOffset>
+      <PointerOffset>231344</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1182,7 +1185,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>315434</PointerOffset>
+      <PointerOffset>231948</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1190,7 +1193,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>315500</PointerOffset>
+      <PointerOffset>236912</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1198,7 +1201,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:36</Status>
     </Entry>
     <Entry>
-      <PointerOffset>315548</PointerOffset>
+      <PointerOffset>242704</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1206,7 +1209,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:18</Status>
     </Entry>
     <Entry>
-      <PointerOffset>315596</PointerOffset>
+      <PointerOffset>243016</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1214,7 +1217,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>315650</PointerOffset>
+      <PointerOffset>243552</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1222,7 +1225,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:52</Status>
     </Entry>
     <Entry>
-      <PointerOffset>315710</PointerOffset>
+      <PointerOffset>244020</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1230,7 +1233,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>315764</PointerOffset>
+      <PointerOffset>244420</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1238,7 +1241,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:51</Status>
     </Entry>
     <Entry>
-      <PointerOffset>315818</PointerOffset>
+      <PointerOffset>244888</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1246,7 +1249,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>315921</PointerOffset>
+      <PointerOffset>259264</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1254,7 +1257,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:38</Status>
     </Entry>
     <Entry>
-      <PointerOffset>315979</PointerOffset>
+      <PointerOffset>259432</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1262,7 +1265,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:39</Status>
     </Entry>
     <Entry>
-      <PointerOffset>316108</PointerOffset>
+      <PointerOffset>263680</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1270,7 +1273,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:113</Status>
     </Entry>
     <Entry>
-      <PointerOffset>316449</PointerOffset>
+      <PointerOffset>265872</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1278,7 +1281,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:115</Status>
     </Entry>
     <Entry>
-      <PointerOffset>316650</PointerOffset>
+      <PointerOffset>266040</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1286,7 +1289,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:114</Status>
     </Entry>
     <Entry>
-      <PointerOffset>317370</PointerOffset>
+      <PointerOffset>288244</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1294,7 +1297,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:18</Status>
     </Entry>
     <Entry>
-      <PointerOffset>317418</PointerOffset>
+      <PointerOffset>288604</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1302,7 +1305,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:41</Status>
     </Entry>
     <Entry>
-      <PointerOffset>317470</PointerOffset>
+      <PointerOffset>288964</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1310,7 +1313,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:30</Status>
     </Entry>
     <Entry>
-      <PointerOffset>317518</PointerOffset>
+      <PointerOffset>289428</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1318,7 +1321,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:53</Status>
     </Entry>
     <Entry>
-      <PointerOffset>317566</PointerOffset>
+      <PointerOffset>289892</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1326,7 +1329,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:35</Status>
     </Entry>
     <Entry>
-      <PointerOffset>317618</PointerOffset>
+      <PointerOffset>290408</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1334,7 +1337,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:40</Status>
     </Entry>
     <Entry>
-      <PointerOffset>317666</PointerOffset>
+      <PointerOffset>290872</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1342,7 +1345,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:43</Status>
     </Entry>
     <Entry>
-      <PointerOffset>317714</PointerOffset>
+      <PointerOffset>291388</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1350,7 +1353,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:49</Status>
     </Entry>
     <Entry>
-      <PointerOffset>317770</PointerOffset>
+      <PointerOffset>291800</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1358,7 +1361,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:45</Status>
     </Entry>
     <Entry>
-      <PointerOffset>317826</PointerOffset>
+      <PointerOffset>292212</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1366,7 +1369,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:31</Status>
     </Entry>
     <Entry>
-      <PointerOffset>317878</PointerOffset>
+      <PointerOffset>292728</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1374,7 +1377,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:44</Status>
     </Entry>
     <Entry>
-      <PointerOffset>317932</PointerOffset>
+      <PointerOffset>293244</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1382,7 +1385,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:17</Status>
     </Entry>
     <Entry>
-      <PointerOffset>317980</PointerOffset>
+      <PointerOffset>293708</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1390,7 +1393,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:48</Status>
     </Entry>
     <Entry>
-      <PointerOffset>318032</PointerOffset>
+      <PointerOffset>294172</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1398,7 +1401,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:24</Status>
     </Entry>
     <Entry>
-      <PointerOffset>318084</PointerOffset>
+      <PointerOffset>294636</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1406,7 +1409,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:19</Status>
     </Entry>
     <Entry>
-      <PointerOffset>318132</PointerOffset>
+      <PointerOffset>295100</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1414,7 +1417,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:23</Status>
     </Entry>
     <Entry>
-      <PointerOffset>318184</PointerOffset>
+      <PointerOffset>295512</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1422,7 +1425,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:50</Status>
     </Entry>
     <Entry>
-      <PointerOffset>318240</PointerOffset>
+      <PointerOffset>296080</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1430,7 +1433,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:46</Status>
     </Entry>
     <Entry>
-      <PointerOffset>318300</PointerOffset>
+      <PointerOffset>296648</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1438,7 +1441,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:47</Status>
     </Entry>
     <Entry>
-      <PointerOffset>318351</PointerOffset>
+      <PointerOffset>297176</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1446,7 +1449,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:130</Status>
     </Entry>
     <Entry>
-      <PointerOffset>318398</PointerOffset>
+      <PointerOffset>297352</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1454,7 +1457,7 @@ dip. Please treat them well, if so.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>318581</PointerOffset>
+      <PointerOffset>302568</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>

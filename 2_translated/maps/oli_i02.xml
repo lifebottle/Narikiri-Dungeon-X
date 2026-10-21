@@ -4,6 +4,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>272144,272208,272272,273104,273168,273232</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>「サーロイン」の店主</JapaneseText>
       <EnglishText>"Sirloin" Owner</EnglishText>
       <Notes/>
@@ -12,6 +13,7 @@
     </Entry>
     <Entry>
       <PointerOffset>272336,272400,272464,272528,272592,272656</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>時を越えた女性</JapaneseText>
       <EnglishText>Time-Skipped Woman</EnglishText>
       <Notes/>
@@ -20,6 +22,7 @@
     </Entry>
     <Entry>
       <PointerOffset>272720,272784,272848,272912,272976,273040</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>考える男性</JapaneseText>
       <EnglishText>Pensive Man</EnglishText>
       <Notes/>
@@ -28,6 +31,7 @@
     </Entry>
     <Entry>
       <PointerOffset>273296,273360,273424</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>「サーロイン」の女主人</JapaneseText>
       <EnglishText>"Sirloin" Proprietress</EnglishText>
       <Notes/>
@@ -36,6 +40,7 @@
     </Entry>
     <Entry>
       <PointerOffset>273488,273552,273616,273680,273744,273808</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>魅惑のウェイトレス</JapaneseText>
       <EnglishText>Captivating Waitress</EnglishText>
       <Notes/>
@@ -44,6 +49,7 @@
     </Entry>
     <Entry>
       <PointerOffset>273872,273936,274000,274064,274128,274192</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>怒れる男性</JapaneseText>
       <EnglishText>Raging Man</EnglishText>
       <Notes/>
@@ -52,6 +58,7 @@
     </Entry>
     <Entry>
       <PointerOffset>274256,274320,274384</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>「サーロイン」のバイト</JapaneseText>
       <EnglishText>"Sirloin" Part-Timer</EnglishText>
       <Notes/>
@@ -60,6 +67,7 @@
     </Entry>
     <Entry>
       <PointerOffset>274448,274512,274576,274640,274704,274768</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>かたことな少女</JapaneseText>
       <EnglishText>Baby-Talking Girl</EnglishText>
       <Notes/>
@@ -68,6 +76,7 @@
     </Entry>
     <Entry>
       <PointerOffset>274832,274896,274960,275024,275088,275152</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>勇者になりたい男性</JapaneseText>
       <EnglishText>Hero-Wannabe Man</EnglishText>
       <Notes/>
@@ -75,7 +84,7 @@
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>281341</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -83,7 +92,7 @@
       <Status>ref:Speaker:8</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>281382</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -91,7 +100,7 @@
       <Status>ref:Speaker:19</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>281408,281646,281711,281747,281818,281884,281923,281999,282070,282136,282147,282265,282351,282432,282508,282579,282645,282656,282825,282858,282869,282984,283094,283105,283232,283275,283460,284224,284235,284390,284498,284672,284748,284846,284952,285018,285071,285185,285382,285624,285689,285754,285819,286493,286834,287035</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -99,7 +108,7 @@
       <Status>ref:Speaker:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>283345,283793,285476,285530,285586,285884,285932,285980,286034,286094,286148,286202,286305,286363</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -107,7 +116,7 @@
       <Status>ref:Speaker:2</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>283847</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -134,7 +143,7 @@
   <Strings>
     <Section>Place</Section>
     <Entry>
-      <PointerOffset>287240</PointerOffset>
+      <PointerOffset>266768</PointerOffset>
       <JapaneseText>食材屋　サーロイン</JapaneseText>
       <EnglishText>Grocery Store - Sirloin</EnglishText>
       <Notes/>
@@ -1250,7 +1259,7 @@ so I can't rely on those.</EnglishText>
   <Strings>
     <Section>Notice</Section>
     <Entry>
-      <PointerOffset>281370</PointerOffset>
+      <PointerOffset>93076</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1258,7 +1267,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281389</PointerOffset>
+      <PointerOffset>94636</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1266,7 +1275,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281419</PointerOffset>
+      <PointerOffset>99280</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1274,7 +1283,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:91</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281624</PointerOffset>
+      <PointerOffset>101100</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1282,7 +1291,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:79</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281657</PointerOffset>
+      <PointerOffset>101368</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1290,7 +1299,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281722</PointerOffset>
+      <PointerOffset>102540</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1298,7 +1307,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:77</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281758</PointerOffset>
+      <PointerOffset>102844</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1306,7 +1315,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281829</PointerOffset>
+      <PointerOffset>103192</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1314,7 +1323,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281895</PointerOffset>
+      <PointerOffset>104512</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1322,7 +1331,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:75</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281934</PointerOffset>
+      <PointerOffset>104852</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1330,7 +1339,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282010</PointerOffset>
+      <PointerOffset>105264</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1338,7 +1347,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282081</PointerOffset>
+      <PointerOffset>105612</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1346,7 +1355,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282158</PointerOffset>
+      <PointerOffset>107016</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1354,7 +1363,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:118</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282185</PointerOffset>
+      <PointerOffset>107236</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1362,7 +1371,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:104</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282276</PointerOffset>
+      <PointerOffset>107840</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1370,7 +1379,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:105</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282362</PointerOffset>
+      <PointerOffset>108380</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1378,7 +1387,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:106</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282443</PointerOffset>
+      <PointerOffset>108856</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1386,7 +1395,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282519</PointerOffset>
+      <PointerOffset>109268</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1394,7 +1403,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282590</PointerOffset>
+      <PointerOffset>109616</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1402,7 +1411,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282667</PointerOffset>
+      <PointerOffset>110024</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1410,7 +1419,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:89</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282803</PointerOffset>
+      <PointerOffset>110408</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1418,7 +1427,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282836</PointerOffset>
+      <PointerOffset>111432</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1426,7 +1435,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282880</PointerOffset>
+      <PointerOffset>111848</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1434,7 +1443,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282995</PointerOffset>
+      <PointerOffset>114440</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1442,7 +1451,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283066</PointerOffset>
+      <PointerOffset>116968</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1450,7 +1459,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:76</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283116</PointerOffset>
+      <PointerOffset>117416</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1458,7 +1467,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283243</PointerOffset>
+      <PointerOffset>120568</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1466,7 +1475,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283286</PointerOffset>
+      <PointerOffset>122516</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1474,7 +1483,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:94</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283305</PointerOffset>
+      <PointerOffset>123320</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1482,7 +1491,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:32</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283435</PointerOffset>
+      <PointerOffset>124780</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1490,7 +1499,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:73</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283805</PointerOffset>
+      <PointerOffset>140760</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1498,7 +1507,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:21</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283858</PointerOffset>
+      <PointerOffset>140952</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1506,7 +1515,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:132</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284170</PointerOffset>
+      <PointerOffset>159108</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1514,7 +1523,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284246</PointerOffset>
+      <PointerOffset>159468</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1522,7 +1531,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:123</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284401</PointerOffset>
+      <PointerOffset>168552</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1530,7 +1539,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:102</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284509</PointerOffset>
+      <PointerOffset>177296</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1538,7 +1547,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:111</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284683</PointerOffset>
+      <PointerOffset>179920</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1546,7 +1555,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:101</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284759</PointerOffset>
+      <PointerOffset>180444</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1554,7 +1563,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:112</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284857</PointerOffset>
+      <PointerOffset>182148</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1562,7 +1571,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:103</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284963</PointerOffset>
+      <PointerOffset>186156</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1570,7 +1579,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:98</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285029</PointerOffset>
+      <PointerOffset>191352</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1578,7 +1587,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:121</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285082</PointerOffset>
+      <PointerOffset>194808</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1586,7 +1595,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:85</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285196</PointerOffset>
+      <PointerOffset>207968</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1594,7 +1603,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:88</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285393</PointerOffset>
+      <PointerOffset>210664</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1602,7 +1611,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:117</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285443</PointerOffset>
+      <PointerOffset>220148</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1610,7 +1619,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:9</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285488</PointerOffset>
+      <PointerOffset>224128</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1618,7 +1627,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285542</PointerOffset>
+      <PointerOffset>225952</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1626,7 +1635,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:6</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285635</PointerOffset>
+      <PointerOffset>228956</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1634,7 +1643,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285700</PointerOffset>
+      <PointerOffset>229560</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1642,7 +1651,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285765</PointerOffset>
+      <PointerOffset>230212</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1650,7 +1659,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285830</PointerOffset>
+      <PointerOffset>230816</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1658,7 +1667,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285896</PointerOffset>
+      <PointerOffset>235780</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1666,7 +1675,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:36</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285944</PointerOffset>
+      <PointerOffset>241572</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1674,7 +1683,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:18</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285992</PointerOffset>
+      <PointerOffset>241884</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1682,7 +1691,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286046</PointerOffset>
+      <PointerOffset>242420</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1690,7 +1699,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:52</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286106</PointerOffset>
+      <PointerOffset>242888</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1698,7 +1707,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286160</PointerOffset>
+      <PointerOffset>243288</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1706,7 +1715,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:51</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286214</PointerOffset>
+      <PointerOffset>243756</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1714,7 +1723,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286317</PointerOffset>
+      <PointerOffset>258132</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1722,7 +1731,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:38</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286375</PointerOffset>
+      <PointerOffset>258300</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1730,7 +1739,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:39</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286504</PointerOffset>
+      <PointerOffset>262548</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1738,7 +1747,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:113</Status>
     </Entry>
     <Entry>
-      <PointerOffset>286845</PointerOffset>
+      <PointerOffset>264740</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1746,7 +1755,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:115</Status>
     </Entry>
     <Entry>
-      <PointerOffset>287046</PointerOffset>
+      <PointerOffset>264908</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1754,7 +1763,7 @@ so I can't rely on those.</EnglishText>
       <Status>ref:Notice:114</Status>
     </Entry>
     <Entry>
-      <PointerOffset>287295</PointerOffset>
+      <PointerOffset>268168</PointerOffset>
       <JapaneseText>何ザマスか？
 あたしのバック、
 取ってきてくれるザマスか</JapaneseText>
@@ -1767,7 +1776,7 @@ fetch my bag?</EnglishText>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>287369</PointerOffset>
+      <PointerOffset>268460</PointerOffset>
       <JapaneseText>はい　　　　　　　
 いいえ</JapaneseText>
       <EnglishText>Yes
@@ -1778,7 +1787,7 @@ No</EnglishText>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>287432</PointerOffset>
+      <PointerOffset>269280</PointerOffset>
       <JapaneseText>バックはヴァルハラの雑貨屋に
 忘れたと思うザマス</JapaneseText>
       <EnglishText>I say, I think I left my bag in

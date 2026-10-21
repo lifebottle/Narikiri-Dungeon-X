@@ -4,6 +4,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>268920,268984,269048,269496,269560,269624</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>「ビショップ」主人</JapaneseText>
       <EnglishText>"Bishop" Owner</EnglishText>
       <Notes/>
@@ -12,6 +13,7 @@
     </Entry>
     <Entry>
       <PointerOffset>269112,269176,269240,269304,269368,269432</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>未来を憂う青年</JapaneseText>
       <EnglishText>Future-Worried Young Man</EnglishText>
       <Notes/>
@@ -19,7 +21,7 @@
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>272429</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -27,7 +29,7 @@
       <Status>ref:Speaker:8</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>272470</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -35,7 +37,7 @@
       <Status>ref:Speaker:19</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>272496,272734,272799,272835,272906,272972,273011,273087,273158,273224,273235,273353,273439,273520,273596,273667,273733,273744,273913,273946,273957,274072,274182,274193,274320,274363,274548,275312,275323,275478,275586,275760,275836,275934,276040,276106,276159,276273,276470,276712,276777,276842,276907,277581,277922,278123</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -43,7 +45,7 @@
       <Status>ref:Speaker:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>274433,274881,276564,276618,276674,276972,277020,277068,277122,277182,277236,277290,277393,277451</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -51,7 +53,7 @@
       <Status>ref:Speaker:2</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>274935</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -62,7 +64,7 @@
   <Strings>
     <Section>Place</Section>
     <Entry>
-      <PointerOffset>278324</PointerOffset>
+      <PointerOffset>266784</PointerOffset>
       <JapaneseText>武器屋　ビショップ</JapaneseText>
       <EnglishText>Weapon Shop - Bishop</EnglishText>
       <Notes/>
@@ -92,7 +94,7 @@ Take a look around?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270444</PointerOffset>
@@ -304,7 +306,7 @@ to "Bishop"?</EnglishText>
   <Strings>
     <Section>Notice</Section>
     <Entry>
-      <PointerOffset>272458</PointerOffset>
+      <PointerOffset>93092</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -312,7 +314,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272477</PointerOffset>
+      <PointerOffset>94652</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -320,7 +322,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272507</PointerOffset>
+      <PointerOffset>99296</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -328,7 +330,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:91</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272712</PointerOffset>
+      <PointerOffset>101116</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -336,7 +338,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:79</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272745</PointerOffset>
+      <PointerOffset>101384</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -344,7 +346,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272810</PointerOffset>
+      <PointerOffset>102556</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -352,7 +354,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:77</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272846</PointerOffset>
+      <PointerOffset>102860</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -360,7 +362,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272917</PointerOffset>
+      <PointerOffset>103208</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -368,7 +370,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272983</PointerOffset>
+      <PointerOffset>104528</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -376,7 +378,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:75</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273022</PointerOffset>
+      <PointerOffset>104868</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -384,7 +386,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273098</PointerOffset>
+      <PointerOffset>105280</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -392,7 +394,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273169</PointerOffset>
+      <PointerOffset>105628</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -400,7 +402,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273246</PointerOffset>
+      <PointerOffset>107032</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -408,7 +410,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:118</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273273</PointerOffset>
+      <PointerOffset>107252</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -416,7 +418,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:104</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273364</PointerOffset>
+      <PointerOffset>107856</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -424,7 +426,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:105</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273450</PointerOffset>
+      <PointerOffset>108396</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -432,7 +434,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:106</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273531</PointerOffset>
+      <PointerOffset>108872</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -440,7 +442,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273607</PointerOffset>
+      <PointerOffset>109284</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -448,7 +450,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273678</PointerOffset>
+      <PointerOffset>109632</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -456,7 +458,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273755</PointerOffset>
+      <PointerOffset>110040</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -464,7 +466,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:89</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273891</PointerOffset>
+      <PointerOffset>110424</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -472,7 +474,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273924</PointerOffset>
+      <PointerOffset>111448</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -480,7 +482,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273968</PointerOffset>
+      <PointerOffset>111864</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -488,7 +490,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274083</PointerOffset>
+      <PointerOffset>114456</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -496,7 +498,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274154</PointerOffset>
+      <PointerOffset>116984</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -504,7 +506,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:76</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274204</PointerOffset>
+      <PointerOffset>117432</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -512,7 +514,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274331</PointerOffset>
+      <PointerOffset>120584</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -520,7 +522,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274374</PointerOffset>
+      <PointerOffset>122532</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -528,7 +530,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:94</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274393</PointerOffset>
+      <PointerOffset>123336</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -536,7 +538,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:32</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274523</PointerOffset>
+      <PointerOffset>124796</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -544,7 +546,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:73</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274893</PointerOffset>
+      <PointerOffset>140776</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -552,7 +554,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:21</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274946</PointerOffset>
+      <PointerOffset>140968</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -560,7 +562,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:132</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275258</PointerOffset>
+      <PointerOffset>159124</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -568,7 +570,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275334</PointerOffset>
+      <PointerOffset>159484</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -576,7 +578,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:123</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275489</PointerOffset>
+      <PointerOffset>168568</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -584,7 +586,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:102</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275597</PointerOffset>
+      <PointerOffset>177312</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -592,7 +594,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:111</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275771</PointerOffset>
+      <PointerOffset>179936</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -600,7 +602,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:101</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275847</PointerOffset>
+      <PointerOffset>180460</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -608,7 +610,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:112</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275945</PointerOffset>
+      <PointerOffset>182164</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -616,7 +618,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:103</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276051</PointerOffset>
+      <PointerOffset>186172</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -624,7 +626,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:98</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276117</PointerOffset>
+      <PointerOffset>191368</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -632,7 +634,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:121</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276170</PointerOffset>
+      <PointerOffset>194824</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -640,7 +642,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:85</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276284</PointerOffset>
+      <PointerOffset>207984</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -648,7 +650,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:88</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276481</PointerOffset>
+      <PointerOffset>210680</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -656,7 +658,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:117</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276531</PointerOffset>
+      <PointerOffset>220164</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -664,7 +666,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:9</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276576</PointerOffset>
+      <PointerOffset>224144</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -672,7 +674,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276630</PointerOffset>
+      <PointerOffset>225968</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -680,7 +682,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:6</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276723</PointerOffset>
+      <PointerOffset>228972</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -688,7 +690,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276788</PointerOffset>
+      <PointerOffset>229576</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -696,7 +698,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276853</PointerOffset>
+      <PointerOffset>230228</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -704,7 +706,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276918</PointerOffset>
+      <PointerOffset>230832</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -712,7 +714,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276984</PointerOffset>
+      <PointerOffset>235796</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -720,7 +722,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:36</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277032</PointerOffset>
+      <PointerOffset>241588</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -728,7 +730,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:18</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277080</PointerOffset>
+      <PointerOffset>241900</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -736,7 +738,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277134</PointerOffset>
+      <PointerOffset>242436</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -744,7 +746,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:52</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277194</PointerOffset>
+      <PointerOffset>242904</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -752,7 +754,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277248</PointerOffset>
+      <PointerOffset>243304</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -760,7 +762,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:51</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277302</PointerOffset>
+      <PointerOffset>243772</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -768,7 +770,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277405</PointerOffset>
+      <PointerOffset>258148</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -776,7 +778,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:38</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277463</PointerOffset>
+      <PointerOffset>258316</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -784,7 +786,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:39</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277592</PointerOffset>
+      <PointerOffset>262564</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -792,7 +794,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:113</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277933</PointerOffset>
+      <PointerOffset>264756</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -800,7 +802,7 @@ to "Bishop"?</EnglishText>
       <Status>ref:Notice:115</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278134</PointerOffset>
+      <PointerOffset>264924</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>

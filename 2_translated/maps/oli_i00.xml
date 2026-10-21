@@ -4,6 +4,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>269972,270036,270100,270932,270996,271060,272084,272148,272212</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>「スパイシー」店長</JapaneseText>
       <EnglishText>"Spicy" Manager</EnglishText>
       <Notes/>
@@ -12,6 +13,7 @@
     </Entry>
     <Entry>
       <PointerOffset>270164,270228,270292,270356,270420,270484</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>凉しむ女性</JapaneseText>
       <EnglishText>Cooling-Off Woman</EnglishText>
       <Notes/>
@@ -20,6 +22,7 @@
     </Entry>
     <Entry>
       <PointerOffset>270548,270612,270676,270740,270804,270868</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>悩み多き少女</JapaneseText>
       <EnglishText>Very Worried Girl</EnglishText>
       <Notes/>
@@ -28,6 +31,7 @@
     </Entry>
     <Entry>
       <PointerOffset>271124,271188,271252</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>「スパイシー」店長代理</JapaneseText>
       <EnglishText>"Spicy" Deputy Manager</EnglishText>
       <Notes/>
@@ -36,6 +40,7 @@
     </Entry>
     <Entry>
       <PointerOffset>271316,271380,271444,271508,271572,271636</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>流れ者の少女</JapaneseText>
       <EnglishText>Drifter Girl</EnglishText>
       <Notes/>
@@ -44,6 +49,7 @@
     </Entry>
     <Entry>
       <PointerOffset>271700,271764,271828,271892,271956,272020</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>熱心な地勢学者</JapaneseText>
       <EnglishText>Passionate Geologist</EnglishText>
       <Notes/>
@@ -52,6 +58,7 @@
     </Entry>
     <Entry>
       <PointerOffset>272276,272340,272404,272468,272532,272596</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>うんちく好きの青年</JapaneseText>
       <EnglishText>Knowledge-Loving Young Man</EnglishText>
       <Notes/>
@@ -60,6 +67,7 @@
     </Entry>
     <Entry>
       <PointerOffset>272660,272724,272788,272852,272916,272980</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>ひと休みの男性</JapaneseText>
       <EnglishText>Resting Man</EnglishText>
       <Notes/>
@@ -67,7 +75,7 @@
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>279165</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -75,7 +83,7 @@
       <Status>ref:Speaker:8</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>279206</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -83,7 +91,7 @@
       <Status>ref:Speaker:19</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>279232,279470,279535,279571,279642,279708,279747,279823,279894,279960,279971,280089,280175,280256,280332,280403,280469,280480,280649,280682,280693,280808,280918,280929,281056,281099,281284,282048,282059,282214,282322,282496,282572,282670,282776,282842,282895,283009,283206,283448,283513,283578,283643,284317,284658,284859</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -91,7 +99,7 @@
       <Status>ref:Speaker:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>281169,281617,283300,283354,283410,283708,283756,283804,283858,283918,283972,284026,284129,284187</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -99,7 +107,7 @@
       <Status>ref:Speaker:2</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>281671</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -110,7 +118,7 @@
   <Strings>
     <Section>Place</Section>
     <Entry>
-      <PointerOffset>285064</PointerOffset>
+      <PointerOffset>266652</PointerOffset>
       <JapaneseText>道具屋　スパイシー</JapaneseText>
       <EnglishText>Item Shop - Spicy</EnglishText>
       <Notes/>
@@ -1208,7 +1216,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
   <Strings>
     <Section>Notice</Section>
     <Entry>
-      <PointerOffset>279194</PointerOffset>
+      <PointerOffset>93076</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1216,7 +1224,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279213</PointerOffset>
+      <PointerOffset>94636</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1224,7 +1232,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279243</PointerOffset>
+      <PointerOffset>99280</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1232,7 +1240,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:91</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279448</PointerOffset>
+      <PointerOffset>101100</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1240,7 +1248,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:79</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279481</PointerOffset>
+      <PointerOffset>101368</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1248,7 +1256,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279546</PointerOffset>
+      <PointerOffset>102540</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1256,7 +1264,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:77</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279582</PointerOffset>
+      <PointerOffset>102844</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1264,7 +1272,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279653</PointerOffset>
+      <PointerOffset>103192</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1272,7 +1280,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279719</PointerOffset>
+      <PointerOffset>104512</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1280,7 +1288,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:75</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279758</PointerOffset>
+      <PointerOffset>104852</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1288,7 +1296,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279834</PointerOffset>
+      <PointerOffset>105264</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1296,7 +1304,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279905</PointerOffset>
+      <PointerOffset>105612</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1304,7 +1312,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279982</PointerOffset>
+      <PointerOffset>107016</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1312,7 +1320,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:118</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280009</PointerOffset>
+      <PointerOffset>107236</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1320,7 +1328,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:104</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280100</PointerOffset>
+      <PointerOffset>107840</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1328,7 +1336,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:105</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280186</PointerOffset>
+      <PointerOffset>108380</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1336,7 +1344,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:106</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280267</PointerOffset>
+      <PointerOffset>108856</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1344,7 +1352,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280343</PointerOffset>
+      <PointerOffset>109268</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1352,7 +1360,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280414</PointerOffset>
+      <PointerOffset>109616</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1360,7 +1368,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280491</PointerOffset>
+      <PointerOffset>110024</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1368,7 +1376,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:89</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280627</PointerOffset>
+      <PointerOffset>110408</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1376,7 +1384,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280660</PointerOffset>
+      <PointerOffset>111432</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1384,7 +1392,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280704</PointerOffset>
+      <PointerOffset>111848</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1392,7 +1400,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280819</PointerOffset>
+      <PointerOffset>114440</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1400,7 +1408,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280890</PointerOffset>
+      <PointerOffset>116968</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1408,7 +1416,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:76</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280940</PointerOffset>
+      <PointerOffset>117416</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1416,7 +1424,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281067</PointerOffset>
+      <PointerOffset>120568</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1424,7 +1432,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281110</PointerOffset>
+      <PointerOffset>122516</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1432,7 +1440,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:94</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281129</PointerOffset>
+      <PointerOffset>123320</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1440,7 +1448,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:32</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281259</PointerOffset>
+      <PointerOffset>124780</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1448,7 +1456,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:73</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281629</PointerOffset>
+      <PointerOffset>140760</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1456,7 +1464,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:21</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281682</PointerOffset>
+      <PointerOffset>140952</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1464,7 +1472,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:132</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281994</PointerOffset>
+      <PointerOffset>159108</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1472,7 +1480,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282070</PointerOffset>
+      <PointerOffset>159468</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1480,7 +1488,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:123</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282225</PointerOffset>
+      <PointerOffset>168552</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1488,7 +1496,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:102</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282333</PointerOffset>
+      <PointerOffset>177296</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1496,7 +1504,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:111</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282507</PointerOffset>
+      <PointerOffset>179920</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1504,7 +1512,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:101</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282583</PointerOffset>
+      <PointerOffset>180444</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1512,7 +1520,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:112</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282681</PointerOffset>
+      <PointerOffset>182148</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1520,7 +1528,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:103</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282787</PointerOffset>
+      <PointerOffset>186156</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1528,7 +1536,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:98</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282853</PointerOffset>
+      <PointerOffset>191352</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1536,7 +1544,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:121</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282906</PointerOffset>
+      <PointerOffset>194808</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1544,7 +1552,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:85</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283020</PointerOffset>
+      <PointerOffset>207968</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1552,7 +1560,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:88</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283217</PointerOffset>
+      <PointerOffset>210664</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1560,7 +1568,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:117</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283267</PointerOffset>
+      <PointerOffset>220148</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1568,7 +1576,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:9</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283312</PointerOffset>
+      <PointerOffset>224128</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1576,7 +1584,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283366</PointerOffset>
+      <PointerOffset>225952</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1584,7 +1592,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:6</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283459</PointerOffset>
+      <PointerOffset>228956</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1592,7 +1600,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283524</PointerOffset>
+      <PointerOffset>229560</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1600,7 +1608,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283589</PointerOffset>
+      <PointerOffset>230212</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1608,7 +1616,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283654</PointerOffset>
+      <PointerOffset>230816</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1616,7 +1624,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283720</PointerOffset>
+      <PointerOffset>235780</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1624,7 +1632,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:36</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283768</PointerOffset>
+      <PointerOffset>241572</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1632,7 +1640,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:18</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283816</PointerOffset>
+      <PointerOffset>241884</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1640,7 +1648,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283870</PointerOffset>
+      <PointerOffset>242420</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1648,7 +1656,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:52</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283930</PointerOffset>
+      <PointerOffset>242888</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1656,7 +1664,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283984</PointerOffset>
+      <PointerOffset>243288</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1664,7 +1672,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:51</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284038</PointerOffset>
+      <PointerOffset>243756</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1672,7 +1680,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284141</PointerOffset>
+      <PointerOffset>258132</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1680,7 +1688,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:38</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284199</PointerOffset>
+      <PointerOffset>258300</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1688,7 +1696,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:39</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284328</PointerOffset>
+      <PointerOffset>262548</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1696,7 +1704,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:113</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284669</PointerOffset>
+      <PointerOffset>264740</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1704,7 +1712,7 @@ basilisks go extinct... Yeah, for real.</EnglishText>
       <Status>ref:Notice:115</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284870</PointerOffset>
+      <PointerOffset>264908</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
