@@ -4,6 +4,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>268548,268612,268676</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>「ゴーリ２号店」の主人</JapaneseText>
       <EnglishText>"Goalie" #2 Owner</EnglishText>
       <Notes/>
@@ -12,6 +13,7 @@
     </Entry>
     <Entry>
       <PointerOffset>268740,268804,268868,268932,268996,269060</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>決意の魔法学者</JapaneseText>
       <EnglishText>Determined Magic Researcher</EnglishText>
       <Notes/>
@@ -19,7 +21,7 @@
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>271905</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -27,7 +29,7 @@
       <Status>ref:Speaker:8</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>271946</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -35,7 +37,7 @@
       <Status>ref:Speaker:19</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>271972,272210,272275,272311,272382,272448,272487,272563,272634,272700,272711,272829,272915,272996,273072,273143,273209,273220,273389,273422,273433,273548,273658,273669,273796,273839,274024,274788,274799,274954,275062,275236,275312,275410,275516,275582,275635,275749,275946,276188,276253,276318,276383,277057,277398,277599</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -43,7 +45,7 @@
       <Status>ref:Speaker:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>273909,274357,276040,276094,276150,276448,276496,276544,276598,276658,276712,276766,276869,276927</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -51,7 +53,7 @@
       <Status>ref:Speaker:2</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>274411</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -62,7 +64,7 @@
   <Strings>
     <Section>Place</Section>
     <Entry>
-      <PointerOffset>277800</PointerOffset>
+      <PointerOffset>266528</PointerOffset>
       <JapaneseText>雑貨屋　ゴーリ２号店</JapaneseText>
       <EnglishText>General Store - "Goalie" #2</EnglishText>
       <Notes/>
@@ -285,7 +287,7 @@ measuring up to him!</EnglishText>
   <Strings>
     <Section>Notice</Section>
     <Entry>
-      <PointerOffset>271934</PointerOffset>
+      <PointerOffset>93300</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -293,7 +295,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>271953</PointerOffset>
+      <PointerOffset>94860</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -301,7 +303,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>271983</PointerOffset>
+      <PointerOffset>99504</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -309,7 +311,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:91</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272188</PointerOffset>
+      <PointerOffset>101324</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -317,7 +319,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:79</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272221</PointerOffset>
+      <PointerOffset>101592</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -325,7 +327,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272286</PointerOffset>
+      <PointerOffset>102764</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -333,7 +335,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:77</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272322</PointerOffset>
+      <PointerOffset>103068</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -341,7 +343,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272393</PointerOffset>
+      <PointerOffset>103416</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -349,7 +351,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272459</PointerOffset>
+      <PointerOffset>104736</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -357,7 +359,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:75</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272498</PointerOffset>
+      <PointerOffset>105076</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -365,7 +367,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272574</PointerOffset>
+      <PointerOffset>105488</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -373,7 +375,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272645</PointerOffset>
+      <PointerOffset>105836</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -381,7 +383,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272722</PointerOffset>
+      <PointerOffset>107240</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -389,7 +391,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:118</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272749</PointerOffset>
+      <PointerOffset>107460</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -397,7 +399,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:104</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272840</PointerOffset>
+      <PointerOffset>108064</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -405,7 +407,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:105</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272926</PointerOffset>
+      <PointerOffset>108604</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -413,7 +415,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:106</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273007</PointerOffset>
+      <PointerOffset>109080</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -421,7 +423,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273083</PointerOffset>
+      <PointerOffset>109492</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -429,7 +431,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273154</PointerOffset>
+      <PointerOffset>109840</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -437,7 +439,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273231</PointerOffset>
+      <PointerOffset>110248</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -445,7 +447,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:89</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273367</PointerOffset>
+      <PointerOffset>110632</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -453,7 +455,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273400</PointerOffset>
+      <PointerOffset>111656</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -461,7 +463,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273444</PointerOffset>
+      <PointerOffset>112072</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -469,7 +471,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273559</PointerOffset>
+      <PointerOffset>114664</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -477,7 +479,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273630</PointerOffset>
+      <PointerOffset>117192</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -485,7 +487,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:76</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273680</PointerOffset>
+      <PointerOffset>117640</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -493,7 +495,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273807</PointerOffset>
+      <PointerOffset>120792</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -501,7 +503,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273850</PointerOffset>
+      <PointerOffset>122740</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -509,7 +511,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:94</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273869</PointerOffset>
+      <PointerOffset>123544</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -517,7 +519,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:32</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273999</PointerOffset>
+      <PointerOffset>125004</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -525,7 +527,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:73</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274369</PointerOffset>
+      <PointerOffset>140984</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -533,7 +535,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:21</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274422</PointerOffset>
+      <PointerOffset>141176</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -541,7 +543,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:132</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274734</PointerOffset>
+      <PointerOffset>159332</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -549,7 +551,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274810</PointerOffset>
+      <PointerOffset>159692</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -557,7 +559,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:123</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274965</PointerOffset>
+      <PointerOffset>168776</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -565,7 +567,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:102</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275073</PointerOffset>
+      <PointerOffset>177520</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -573,7 +575,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:111</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275247</PointerOffset>
+      <PointerOffset>180144</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -581,7 +583,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:101</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275323</PointerOffset>
+      <PointerOffset>180668</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -589,7 +591,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:112</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275421</PointerOffset>
+      <PointerOffset>182372</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -597,7 +599,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:103</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275527</PointerOffset>
+      <PointerOffset>186380</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -605,7 +607,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:98</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275593</PointerOffset>
+      <PointerOffset>191576</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -613,7 +615,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:121</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275646</PointerOffset>
+      <PointerOffset>195032</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -621,7 +623,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:85</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275760</PointerOffset>
+      <PointerOffset>208192</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -629,7 +631,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:88</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275957</PointerOffset>
+      <PointerOffset>210888</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -637,7 +639,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:117</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276007</PointerOffset>
+      <PointerOffset>220372</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -645,7 +647,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:9</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276052</PointerOffset>
+      <PointerOffset>224352</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -653,7 +655,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276106</PointerOffset>
+      <PointerOffset>226176</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -661,7 +663,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:6</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276199</PointerOffset>
+      <PointerOffset>229180</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -669,7 +671,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276264</PointerOffset>
+      <PointerOffset>229784</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -677,7 +679,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276329</PointerOffset>
+      <PointerOffset>230436</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -685,7 +687,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276394</PointerOffset>
+      <PointerOffset>231040</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -693,7 +695,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276460</PointerOffset>
+      <PointerOffset>236004</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -701,7 +703,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:36</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276508</PointerOffset>
+      <PointerOffset>241796</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -709,7 +711,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:18</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276556</PointerOffset>
+      <PointerOffset>242108</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -717,7 +719,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276610</PointerOffset>
+      <PointerOffset>242644</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -725,7 +727,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:52</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276670</PointerOffset>
+      <PointerOffset>243112</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -733,7 +735,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276724</PointerOffset>
+      <PointerOffset>243512</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -741,7 +743,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:51</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276778</PointerOffset>
+      <PointerOffset>243980</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -749,7 +751,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276881</PointerOffset>
+      <PointerOffset>258356</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -757,7 +759,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:38</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276939</PointerOffset>
+      <PointerOffset>258524</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -765,7 +767,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:39</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277068</PointerOffset>
+      <PointerOffset>262772</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -773,7 +775,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:113</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277409</PointerOffset>
+      <PointerOffset>264964</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -781,7 +783,7 @@ measuring up to him!</EnglishText>
       <Status>ref:Notice:115</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277610</PointerOffset>
+      <PointerOffset>265132</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>

@@ -4,6 +4,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>268548,268612,268676</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>「ゴーリ１号店」の店長</JapaneseText>
       <EnglishText>"Goalie" #1 Manager</EnglishText>
       <Notes/>
@@ -12,6 +13,7 @@
     </Entry>
     <Entry>
       <PointerOffset>268740,268804,268868,268932,268996,269060</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>愚痴が多いおばさん</JapaneseText>
       <EnglishText>Ever-Grumbling Woman</EnglishText>
       <Notes/>
@@ -19,7 +21,7 @@
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>272241</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -27,7 +29,7 @@
       <Status>ref:Speaker:8</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>272282</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -35,7 +37,7 @@
       <Status>ref:Speaker:19</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>272308,272546,272611,272647,272718,272784,272823,272899,272970,273036,273047,273165,273251,273332,273408,273479,273545,273556,273725,273758,273769,273884,273994,274005,274132,274175,274360,275124,275135,275290,275398,275572,275648,275746,275852,275918,275971,276085,276282,276524,276589,276654,276719,277393,277734,277935</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -43,7 +45,7 @@
       <Status>ref:Speaker:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>274245,274693,276376,276430,276486,276784,276832,276880,276934,276994,277048,277102,277205,277263</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -51,7 +53,7 @@
       <Status>ref:Speaker:2</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>274747</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -62,7 +64,7 @@
   <Strings>
     <Section>Place</Section>
     <Entry>
-      <PointerOffset>278136</PointerOffset>
+      <PointerOffset>266528</PointerOffset>
       <JapaneseText>雑貨屋　ゴーリ１号店</JapaneseText>
       <EnglishText>General Store - Goalie #1</EnglishText>
       <Notes/>
@@ -362,7 +364,7 @@ What do even do with that?</EnglishText>
   <Strings>
     <Section>Notice</Section>
     <Entry>
-      <PointerOffset>272270</PointerOffset>
+      <PointerOffset>93300</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -370,7 +372,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272289</PointerOffset>
+      <PointerOffset>94860</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -378,7 +380,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272319</PointerOffset>
+      <PointerOffset>99504</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -386,7 +388,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:91</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272524</PointerOffset>
+      <PointerOffset>101324</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -394,7 +396,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:79</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272557</PointerOffset>
+      <PointerOffset>101592</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -402,7 +404,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272622</PointerOffset>
+      <PointerOffset>102764</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -410,7 +412,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:77</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272658</PointerOffset>
+      <PointerOffset>103068</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -418,7 +420,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272729</PointerOffset>
+      <PointerOffset>103416</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -426,7 +428,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272795</PointerOffset>
+      <PointerOffset>104736</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -434,7 +436,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:75</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272834</PointerOffset>
+      <PointerOffset>105076</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -442,7 +444,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272910</PointerOffset>
+      <PointerOffset>105488</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -450,7 +452,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>272981</PointerOffset>
+      <PointerOffset>105836</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -458,7 +460,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273058</PointerOffset>
+      <PointerOffset>107240</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -466,7 +468,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:118</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273085</PointerOffset>
+      <PointerOffset>107460</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -474,7 +476,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:104</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273176</PointerOffset>
+      <PointerOffset>108064</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -482,7 +484,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:105</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273262</PointerOffset>
+      <PointerOffset>108604</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -490,7 +492,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:106</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273343</PointerOffset>
+      <PointerOffset>109080</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -498,7 +500,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273419</PointerOffset>
+      <PointerOffset>109492</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -506,7 +508,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273490</PointerOffset>
+      <PointerOffset>109840</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -514,7 +516,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273567</PointerOffset>
+      <PointerOffset>110248</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -522,7 +524,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:89</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273703</PointerOffset>
+      <PointerOffset>110632</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -530,7 +532,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273736</PointerOffset>
+      <PointerOffset>111656</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -538,7 +540,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273780</PointerOffset>
+      <PointerOffset>112072</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -546,7 +548,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273895</PointerOffset>
+      <PointerOffset>114664</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -554,7 +556,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>273966</PointerOffset>
+      <PointerOffset>117192</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -562,7 +564,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:76</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274016</PointerOffset>
+      <PointerOffset>117640</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -570,7 +572,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274143</PointerOffset>
+      <PointerOffset>120792</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -578,7 +580,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274186</PointerOffset>
+      <PointerOffset>122740</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -586,7 +588,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:94</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274205</PointerOffset>
+      <PointerOffset>123544</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -594,7 +596,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:32</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274335</PointerOffset>
+      <PointerOffset>125004</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -602,7 +604,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:73</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274705</PointerOffset>
+      <PointerOffset>140984</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -610,7 +612,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:21</Status>
     </Entry>
     <Entry>
-      <PointerOffset>274758</PointerOffset>
+      <PointerOffset>141176</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -618,7 +620,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:132</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275070</PointerOffset>
+      <PointerOffset>159332</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -626,7 +628,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275146</PointerOffset>
+      <PointerOffset>159692</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -634,7 +636,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:123</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275301</PointerOffset>
+      <PointerOffset>168776</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -642,7 +644,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:102</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275409</PointerOffset>
+      <PointerOffset>177520</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -650,7 +652,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:111</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275583</PointerOffset>
+      <PointerOffset>180144</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -658,7 +660,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:101</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275659</PointerOffset>
+      <PointerOffset>180668</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -666,7 +668,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:112</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275757</PointerOffset>
+      <PointerOffset>182372</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -674,7 +676,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:103</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275863</PointerOffset>
+      <PointerOffset>186380</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -682,7 +684,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:98</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275929</PointerOffset>
+      <PointerOffset>191576</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -690,7 +692,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:121</Status>
     </Entry>
     <Entry>
-      <PointerOffset>275982</PointerOffset>
+      <PointerOffset>195032</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -698,7 +700,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:85</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276096</PointerOffset>
+      <PointerOffset>208192</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -706,7 +708,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:88</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276293</PointerOffset>
+      <PointerOffset>210888</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -714,7 +716,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:117</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276343</PointerOffset>
+      <PointerOffset>220372</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -722,7 +724,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:9</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276388</PointerOffset>
+      <PointerOffset>224352</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -730,7 +732,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276442</PointerOffset>
+      <PointerOffset>226176</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -738,7 +740,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:6</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276535</PointerOffset>
+      <PointerOffset>229180</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -746,7 +748,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276600</PointerOffset>
+      <PointerOffset>229784</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -754,7 +756,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276665</PointerOffset>
+      <PointerOffset>230436</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -762,7 +764,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276730</PointerOffset>
+      <PointerOffset>231040</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -770,7 +772,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276796</PointerOffset>
+      <PointerOffset>236004</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -778,7 +780,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:36</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276844</PointerOffset>
+      <PointerOffset>241796</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -786,7 +788,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:18</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276892</PointerOffset>
+      <PointerOffset>242108</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -794,7 +796,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276946</PointerOffset>
+      <PointerOffset>242644</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -802,7 +804,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:52</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277006</PointerOffset>
+      <PointerOffset>243112</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -810,7 +812,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277060</PointerOffset>
+      <PointerOffset>243512</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -818,7 +820,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:51</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277114</PointerOffset>
+      <PointerOffset>243980</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -826,7 +828,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277217</PointerOffset>
+      <PointerOffset>258356</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -834,7 +836,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:38</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277275</PointerOffset>
+      <PointerOffset>258524</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -842,7 +844,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:39</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277404</PointerOffset>
+      <PointerOffset>262772</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -850,7 +852,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:113</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277745</PointerOffset>
+      <PointerOffset>264964</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -858,7 +860,7 @@ What do even do with that?</EnglishText>
       <Status>ref:Notice:115</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277946</PointerOffset>
+      <PointerOffset>265132</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
