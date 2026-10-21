@@ -686,7 +686,7 @@ A slash upward. For aerial opponents.</EnglishText>
       <JapaneseText>通常技　連携回数３
 長いリーチを持つ連続突きを繰り出す攻撃</JapaneseText>
       <EnglishText>Normal: Max Combo 3
-A thrusting combo with long reach.</EnglishText>
+A thrusting lunge with long reach.</EnglishText>
       <Notes/>
       <Id>82</Id>
       <Status>Editing</Status>
@@ -1252,7 +1252,7 @@ Beat your enemy so hard they can't even breathe.</EnglishText>
     <Entry>
       <PointerOffset>2312</PointerOffset>
       <JapaneseText>通・対空連撃</JapaneseText>
-      <EnglishText>Anti-Air Combo</EnglishText>
+      <EnglishText>Sky Combo</EnglishText>
       <Notes/>
       <Id>145</Id>
       <Status>Editing</Status>
@@ -1558,7 +1558,7 @@ You just tripped and fell! How's that an attack!?</EnglishText>
     <Entry>
       <PointerOffset>2856</PointerOffset>
       <JapaneseText>発声練習</JapaneseText>
-      <EnglishText>Singing Practice</EnglishText>
+      <EnglishText>Vocal Practice</EnglishText>
       <Notes/>
       <Id>179</Id>
       <Status>Editing</Status>
@@ -1579,14 +1579,14 @@ Will your voice calm their savage hearts!?</EnglishText>
       <EnglishText>Assault Artes</EnglishText>
       <Notes>continue from here</Notes>
       <Id>181</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2892</PointerOffset>
       <JapaneseText>通常技　連携回数３
 蹴りを交えた帯刀術で連続攻撃を繰り出す</JapaneseText>
-      <EnglishText>Normal: Repeatable up to 3 times. Chain attacks
-with a series of sword artes and kicks.</EnglishText>
+      <EnglishText>Normal: Max Combo 3
+Sustained assault of kicks and sheathed techniques.</EnglishText>
       <Notes/>
       <Id>182</Id>
       <Status>Editing</Status>
@@ -1594,24 +1594,25 @@ with a series of sword artes and kicks.</EnglishText>
     <Entry>
       <PointerOffset>2920</PointerOffset>
       <JapaneseText>通・連続斬り</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Combo Slash</EnglishText>
       <Notes/>
       <Id>183</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2924</PointerOffset>
       <JapaneseText>通常技　連携回数６
 素早く何度も斬りつける技</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Normal: Max Combo 6
+A technique for slashing many times, quickly.</EnglishText>
       <Notes/>
       <Id>184</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>2952</PointerOffset>
       <JapaneseText>通・ビット</JapaneseText>
-      <EnglishText>Hit</EnglishText>
+      <EnglishText>Blast</EnglishText>
       <Notes/>
       <Id>185</Id>
       <Status>Editing</Status>
@@ -1620,8 +1621,8 @@ with a series of sword artes and kicks.</EnglishText>
       <PointerOffset>2956</PointerOffset>
       <JapaneseText>通常技　連携回数３
 魔科学兵器で正面へ射撃を行う技</JapaneseText>
-      <EnglishText>3 consecutive strikes.
-魔科学兵器で正面へ射撃を行う技</EnglishText>
+      <EnglishText>Normal: Max Combo 3
+Shoot straight forward with your magitech weapon.</EnglishText>
       <Notes/>
       <Id>186</Id>
       <Status>Editing</Status>
@@ -1629,7 +1630,7 @@ with a series of sword artes and kicks.</EnglishText>
     <Entry>
       <PointerOffset>2984</PointerOffset>
       <JapaneseText>通・対空ビット</JapaneseText>
-      <EnglishText>Anti-Air Hit</EnglishText>
+      <EnglishText>Sky Blast</EnglishText>
       <Notes/>
       <Id>187</Id>
       <Status>Editing</Status>
@@ -1638,8 +1639,8 @@ with a series of sword artes and kicks.</EnglishText>
       <PointerOffset>2988</PointerOffset>
       <JapaneseText>通常技　連携回数３
 魔科学兵器で上空へ射撃を行う技</JapaneseText>
-      <EnglishText>3 consecutive strikes.
-魔科学兵器で上空へ射撃を行う技</EnglishText>
+      <EnglishText>Normal: Max Combo 3
+Shoot into the sky with your magitech weapon.</EnglishText>
       <Notes/>
       <Id>188</Id>
       <Status>Editing</Status>
@@ -1647,7 +1648,7 @@ with a series of sword artes and kicks.</EnglishText>
     <Entry>
       <PointerOffset>3016</PointerOffset>
       <JapaneseText>通・対地ビット</JapaneseText>
-      <EnglishText>Ground Hit</EnglishText>
+      <EnglishText>Ground Blast</EnglishText>
       <Notes/>
       <Id>189</Id>
       <Status>Editing</Status>
@@ -1656,8 +1657,8 @@ with a series of sword artes and kicks.</EnglishText>
       <PointerOffset>3020</PointerOffset>
       <JapaneseText>通常技　連携回数３
 魔科学兵器で地面へ射撃を行う技</JapaneseText>
-      <EnglishText>3 consecutive strikes.
-魔科学兵器で地面へ射撃を行う技</EnglishText>
+      <EnglishText>Normal: Max Combo 3
+Shoot at the ground with your magitech weapon.</EnglishText>
       <Notes/>
       <Id>190</Id>
       <Status>Editing</Status>
@@ -1665,7 +1666,7 @@ with a series of sword artes and kicks.</EnglishText>
     <Entry>
       <PointerOffset>3048</PointerOffset>
       <JapaneseText>通・振り下ろし</JapaneseText>
-      <EnglishText>Strike Downward</EnglishText>
+      <EnglishText>Down Swing</EnglishText>
       <Notes/>
       <Id>191</Id>
       <Status>Editing</Status>
@@ -1674,8 +1675,8 @@ with a series of sword artes and kicks.</EnglishText>
       <PointerOffset>3052</PointerOffset>
       <JapaneseText>通常技　連携回数２
 魔術書を振り下ろして攻撃</JapaneseText>
-      <EnglishText>2 consecutive strikes.
-魔術書を振り下ろして攻撃</EnglishText>
+      <EnglishText>Normal: Max Combo 2
+Swing your grimoire downwards.</EnglishText>
       <Notes/>
       <Id>192</Id>
       <Status>Editing</Status>
@@ -1683,17 +1684,17 @@ with a series of sword artes and kicks.</EnglishText>
     <Entry>
       <PointerOffset>3080</PointerOffset>
       <JapaneseText>通・上空攻撃</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Sky Attack</EnglishText>
       <Notes/>
       <Id>193</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3084</PointerOffset>
       <JapaneseText>通常技　連携回数２
 魔術書を振り上げて攻撃</JapaneseText>
-      <EnglishText>2 consecutive strikes.
-魔術書を振り上げて攻撃</EnglishText>
+      <EnglishText>Normal: Max Combo 2
+Swing your grimoire upwards.</EnglishText>
       <Notes/>
       <Id>194</Id>
       <Status>Editing</Status>
@@ -1701,7 +1702,7 @@ with a series of sword artes and kicks.</EnglishText>
     <Entry>
       <PointerOffset>3112</PointerOffset>
       <JapaneseText>通・前進攻撃</JapaneseText>
-      <EnglishText>Normal: Advancing Assault</EnglishText>
+      <EnglishText>Forward Attack</EnglishText>
       <Notes/>
       <Id>195</Id>
       <Status>Editing</Status>
@@ -1710,8 +1711,8 @@ with a series of sword artes and kicks.</EnglishText>
       <PointerOffset>3116</PointerOffset>
       <JapaneseText>通常技　連携回数２
 魔術書を突き出して攻撃</JapaneseText>
-      <EnglishText>2 consecutive strikes.
-魔術書を突き出して攻撃</EnglishText>
+      <EnglishText>Normal: Max Combo 2
+Thrust your grimoire forward.</EnglishText>
       <Notes/>
       <Id>196</Id>
       <Status>Editing</Status>
@@ -1719,7 +1720,7 @@ with a series of sword artes and kicks.</EnglishText>
     <Entry>
       <PointerOffset>3144</PointerOffset>
       <JapaneseText>通・ぐるぐる</JapaneseText>
-      <EnglishText>Spin</EnglishText>
+      <EnglishText>Spinny-Spin</EnglishText>
       <Notes/>
       <Id>197</Id>
       <Status>Editing</Status>
@@ -1728,8 +1729,8 @@ with a series of sword artes and kicks.</EnglishText>
       <PointerOffset>3148</PointerOffset>
       <JapaneseText>通常技　連携回数１
 ぐるぐる回転して攻撃</JapaneseText>
-      <EnglishText>1 single strike.
-ぐるぐる回転して攻撃</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+A spinning attack.</EnglishText>
       <Notes/>
       <Id>198</Id>
       <Status>Editing</Status>
@@ -1737,7 +1738,7 @@ with a series of sword artes and kicks.</EnglishText>
     <Entry>
       <PointerOffset>3176</PointerOffset>
       <JapaneseText>通・かにかに</JapaneseText>
-      <EnglishText>Crabby-Crabby</EnglishText>
+      <EnglishText>Vicegrip</EnglishText>
       <Notes/>
       <Id>199</Id>
       <Status>Editing</Status>
@@ -1746,8 +1747,8 @@ with a series of sword artes and kicks.</EnglishText>
       <PointerOffset>3180</PointerOffset>
       <JapaneseText>通常技　連携回数３
 鉄をも切り裂くハサミ攻撃</JapaneseText>
-      <EnglishText>3 consecutive strikes.
-鉄をも切り裂くハサミ攻撃</EnglishText>
+      <EnglishText>Normal: Max Combo 3
+A pincer attack that can even cut steel.</EnglishText>
       <Notes/>
       <Id>200</Id>
       <Status>Editing</Status>
@@ -1755,17 +1756,17 @@ with a series of sword artes and kicks.</EnglishText>
     <Entry>
       <PointerOffset>3208</PointerOffset>
       <JapaneseText>通・体当たり</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ram</EnglishText>
       <Notes/>
       <Id>201</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3212</PointerOffset>
       <JapaneseText>通常技　連携回数１
 思いっきり溜めて頭から突撃する攻撃</JapaneseText>
-      <EnglishText>1 single strike.
-思いっきり溜めて頭から突撃する攻撃</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+A slow, head-first whole-body rush.</EnglishText>
       <Notes/>
       <Id>202</Id>
       <Status>Editing</Status>
@@ -1773,17 +1774,17 @@ with a series of sword artes and kicks.</EnglishText>
     <Entry>
       <PointerOffset>3240</PointerOffset>
       <JapaneseText>通・叩き落とし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Strike Down</EnglishText>
       <Notes/>
       <Id>203</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3244</PointerOffset>
       <JapaneseText>通常技　連携回数１
 上段より振り下ろす攻撃</JapaneseText>
-      <EnglishText>1 single strike.
-上段より振り下ろす攻撃</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+An overhead, downward swing.</EnglishText>
       <Notes/>
       <Id>204</Id>
       <Status>Editing</Status>
@@ -1791,17 +1792,17 @@ with a series of sword artes and kicks.</EnglishText>
     <Entry>
       <PointerOffset>3272</PointerOffset>
       <JapaneseText>通・柄突き</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hilt Bash</EnglishText>
       <Notes/>
       <Id>205</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3276</PointerOffset>
       <JapaneseText>通常技　連携回数１
 武器の柄で突き飛ばす攻撃</JapaneseText>
-      <EnglishText>1 single strike.
-武器の柄で突き飛ばす攻撃</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+A forceful strike with your weapon's hilt.</EnglishText>
       <Notes/>
       <Id>206</Id>
       <Status>Editing</Status>
@@ -1809,17 +1810,17 @@ with a series of sword artes and kicks.</EnglishText>
     <Entry>
       <PointerOffset>3304</PointerOffset>
       <JapaneseText>通・はじき飛ばし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Pistol Launch</EnglishText>
       <Notes/>
       <Id>207</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3308</PointerOffset>
       <JapaneseText>通常技　連携回数１
 敵を突き飛ばしダウンさせる攻撃</JapaneseText>
-      <EnglishText>1 single strike.
-敵を突き飛ばしダウンさせる攻撃</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+Send your enemy flying. Knockdown.</EnglishText>
       <Notes/>
       <Id>208</Id>
       <Status>Editing</Status>
@@ -1827,7 +1828,7 @@ with a series of sword artes and kicks.</EnglishText>
     <Entry>
       <PointerOffset>3336</PointerOffset>
       <JapaneseText>通・炎の拳</JapaneseText>
-      <EnglishText>Fire Fist</EnglishText>
+      <EnglishText>Flame Fist</EnglishText>
       <Notes/>
       <Id>209</Id>
       <Status>Editing</Status>
@@ -1836,8 +1837,8 @@ with a series of sword artes and kicks.</EnglishText>
       <PointerOffset>3340</PointerOffset>
       <JapaneseText>通常技　連携回数１
 炎の力を込めたパンチを繰り出す技</JapaneseText>
-      <EnglishText>1 single strike.
-炎の力を込めたパンチを繰り出す技</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+A punch imbued with flames.</EnglishText>
       <Notes/>
       <Id>210</Id>
       <Status>Editing</Status>
@@ -1845,17 +1846,17 @@ with a series of sword artes and kicks.</EnglishText>
     <Entry>
       <PointerOffset>3368</PointerOffset>
       <JapaneseText>通・帽子飛ばし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hat Launch</EnglishText>
       <Notes/>
       <Id>211</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3372</PointerOffset>
       <JapaneseText>通常技　連携回数１
 ドリル状の帽子をブーメランのように飛ばす攻撃</JapaneseText>
-      <EnglishText>1 single strike.
-ドリル状の帽子をブーメランのように飛ばす攻撃</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+Throw your drill-shaped hat like a boomerang.</EnglishText>
       <Notes/>
       <Id>212</Id>
       <Status>Editing</Status>
@@ -1863,7 +1864,7 @@ with a series of sword artes and kicks.</EnglishText>
     <Entry>
       <PointerOffset>3400</PointerOffset>
       <JapaneseText>通・マジカルスロー</JapaneseText>
-      <EnglishText>Magical Slow</EnglishText>
+      <EnglishText>Magical Throw</EnglishText>
       <Notes/>
       <Id>213</Id>
       <Status>Editing</Status>
@@ -1872,8 +1873,8 @@ with a series of sword artes and kicks.</EnglishText>
       <PointerOffset>3404</PointerOffset>
       <JapaneseText>通常技　連携回数１
 杖に魔力を込め、水平に飛ばす技</JapaneseText>
-      <EnglishText>1 single strike.
-杖に魔力を込め、水平に飛ばす技</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+Imbue your staff with magic and launch it forward.</EnglishText>
       <Notes/>
       <Id>214</Id>
       <Status>Editing</Status>
@@ -1890,8 +1891,8 @@ with a series of sword artes and kicks.</EnglishText>
       <PointerOffset>3436</PointerOffset>
       <JapaneseText>通常技　連携回数１
 杖に魔力を込め、斜め下に飛ばす技</JapaneseText>
-      <EnglishText>1 single strike.
-杖に魔力を込め、斜め下に飛ばす技</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+Imbue your staff with magic and launch it diagonally.</EnglishText>
       <Notes/>
       <Id>216</Id>
       <Status>Editing</Status>
@@ -1908,8 +1909,8 @@ with a series of sword artes and kicks.</EnglishText>
       <PointerOffset>3468</PointerOffset>
       <JapaneseText>通常技　連携回数１
 鋭い爪による切り裂き攻撃</JapaneseText>
-      <EnglishText>1 single strike.
-鋭い爪による切り裂き攻撃</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+An attack by sharp, cutting claws.</EnglishText>
       <Notes/>
       <Id>218</Id>
       <Status>Editing</Status>
@@ -1917,17 +1918,17 @@ with a series of sword artes and kicks.</EnglishText>
     <Entry>
       <PointerOffset>3496</PointerOffset>
       <JapaneseText>通・突撃飛行</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Flying Thrust</EnglishText>
       <Notes/>
       <Id>219</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3500</PointerOffset>
       <JapaneseText>通常技　連携回数１
 少し溜め、敵に向かって突撃する技</JapaneseText>
-      <EnglishText>1 single strike.
-少し溜め、敵に向かって突撃する技</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+Charge up, then thrust into the enemy.</EnglishText>
       <Notes/>
       <Id>220</Id>
       <Status>Editing</Status>
@@ -1935,17 +1936,17 @@ with a series of sword artes and kicks.</EnglishText>
     <Entry>
       <PointerOffset>3528</PointerOffset>
       <JapaneseText>通・杖振り</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Staff Swing</EnglishText>
       <Notes/>
       <Id>221</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3532</PointerOffset>
       <JapaneseText>通常技　連携回数１
 杖による振り下ろしを行う技</JapaneseText>
-      <EnglishText>1 single strike.
-杖による振り下ろしを行う技</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+Swing your staff down.</EnglishText>
       <Notes/>
       <Id>222</Id>
       <Status>Editing</Status>
@@ -1953,17 +1954,17 @@ with a series of sword artes and kicks.</EnglishText>
     <Entry>
       <PointerOffset>3560</PointerOffset>
       <JapaneseText>通・△×♯！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>△×♯！</EnglishText>
       <Notes/>
       <Id>223</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3564</PointerOffset>
       <JapaneseText>通常技　連携回数１
 ぼよんと跳ねてぶつかる攻撃</JapaneseText>
-      <EnglishText>1 single strike.
-ぼよんと跳ねてぶつかる攻撃</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+A boingy, bouncy slam.</EnglishText>
       <Notes/>
       <Id>224</Id>
       <Status>Editing</Status>
@@ -1971,17 +1972,17 @@ with a series of sword artes and kicks.</EnglishText>
     <Entry>
       <PointerOffset>3592</PointerOffset>
       <JapaneseText>通・噛み付き</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bite</EnglishText>
       <Notes/>
       <Id>225</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3596</PointerOffset>
       <JapaneseText>通常技　連携回数１
 獣の頭の形に変化し、噛み付く攻撃</JapaneseText>
-      <EnglishText>1 single strike.
-獣の頭の形に変化し、噛み付く攻撃</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+Change shape into an animal head, then bite.</EnglishText>
       <Notes/>
       <Id>226</Id>
       <Status>Editing</Status>
@@ -1989,17 +1990,17 @@ with a series of sword artes and kicks.</EnglishText>
     <Entry>
       <PointerOffset>3624</PointerOffset>
       <JapaneseText>通・下突き</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Down Thrust</EnglishText>
       <Notes/>
       <Id>227</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3628</PointerOffset>
       <JapaneseText>通常技　連携回数１
 槍による下方への突き刺し攻撃</JapaneseText>
-      <EnglishText>1 single strike.
-槍による下方への突き刺し攻撃</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+A downward piercing thrust by a spear.</EnglishText>
       <Notes/>
       <Id>228</Id>
       <Status>Editing</Status>
@@ -2016,8 +2017,8 @@ with a series of sword artes and kicks.</EnglishText>
       <PointerOffset>3660</PointerOffset>
       <JapaneseText>通常技　連携回数１
 腕を振り、瘴気の霧を浴びせる技</JapaneseText>
-      <EnglishText>1 single strike.
-腕を振り、瘴気の霧を浴びせる技</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+Swing your arms and release a mist of miasma.</EnglishText>
       <Notes/>
       <Id>230</Id>
       <Status>Editing</Status>
@@ -2025,17 +2026,17 @@ with a series of sword artes and kicks.</EnglishText>
     <Entry>
       <PointerOffset>3688</PointerOffset>
       <JapaneseText>通・回転振り下ろし</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Spinning Down Swing</EnglishText>
       <Notes/>
       <Id>231</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3692</PointerOffset>
       <JapaneseText>通常技　連携回数１
 剣を勢い良く振り回し、振り下ろす一撃</JapaneseText>
-      <EnglishText>1 single strike.
-剣を勢い良く振り回し、振り下ろす一撃</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+A vigorous, spinning sword swing, downwards.</EnglishText>
       <Notes/>
       <Id>232</Id>
       <Status>Editing</Status>
@@ -2052,8 +2053,8 @@ with a series of sword artes and kicks.</EnglishText>
       <PointerOffset>3724</PointerOffset>
       <JapaneseText>通常技　連携回数１
 少し溜めて突き刺す攻撃</JapaneseText>
-      <EnglishText>1 single strike.
-少し溜めて突き刺す攻撃</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+Charge up some power, then thrust.</EnglishText>
       <Notes/>
       <Id>234</Id>
       <Status>Editing</Status>
@@ -2061,17 +2062,17 @@ with a series of sword artes and kicks.</EnglishText>
     <Entry>
       <PointerOffset>3752</PointerOffset>
       <JapaneseText>通・強突き刺し</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Strong Piercing Thrust</EnglishText>
       <Notes/>
       <Id>235</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3756</PointerOffset>
       <JapaneseText>通常技　連携回数１
 強く溜めて突き刺す攻撃</JapaneseText>
-      <EnglishText>1 single strike.
-強く溜めて突き刺す攻撃</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+Charge a great deal of power, then thrust.</EnglishText>
       <Notes/>
       <Id>236</Id>
       <Status>Editing</Status>
@@ -2079,7 +2080,7 @@ with a series of sword artes and kicks.</EnglishText>
     <Entry>
       <PointerOffset>3784</PointerOffset>
       <JapaneseText>なぎ払い</JapaneseText>
-      <EnglishText>Sweep</EnglishText>
+      <EnglishText>Mow Down</EnglishText>
       <Notes/>
       <Id>237</Id>
       <Status>Editing</Status>
@@ -2088,8 +2089,8 @@ with a series of sword artes and kicks.</EnglishText>
       <PointerOffset>3788</PointerOffset>
       <JapaneseText>（ナギハライ）特技
 大きく振りかぶって横なぎに払う剣技</JapaneseText>
-      <EnglishText>Base: Swing your sword horizontally in a wide
-sweeping motion.</EnglishText>
+      <EnglishText>Base
+A large, horizontal sword slash.</EnglishText>
       <Notes/>
       <Id>238</Id>
       <Status>Editing</Status>
@@ -2097,17 +2098,17 @@ sweeping motion.</EnglishText>
     <Entry>
       <PointerOffset>3816</PointerOffset>
       <JapaneseText>通・突進</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Rush</EnglishText>
       <Notes/>
       <Id>239</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3820</PointerOffset>
       <JapaneseText>通常技　連携回数１
 勢い良く回転しながら敵に向かって突進する攻撃</JapaneseText>
-      <EnglishText>1 single strike.
-勢い良く回転しながら敵に向かって突進する攻撃</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+Spin vigorously and rush into your enemy.</EnglishText>
       <Notes/>
       <Id>240</Id>
       <Status>Editing</Status>
@@ -2115,17 +2116,17 @@ sweeping motion.</EnglishText>
     <Entry>
       <PointerOffset>3848</PointerOffset>
       <JapaneseText>通・地震攻撃</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Earthquake</EnglishText>
       <Notes/>
       <Id>241</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3852</PointerOffset>
       <JapaneseText>通常技　連携回数１
 垂直降下して地震を起こし、着地の衝撃で周囲に攻撃をする技</JapaneseText>
-      <EnglishText>1 single strike.
-垂直降下して地震を起こし、着地の衝撃で周囲に攻撃をする技</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+Drop down and trigger an earthquake in a wide area.</EnglishText>
       <Notes/>
       <Id>242</Id>
       <Status>Editing</Status>
@@ -2133,17 +2134,17 @@ sweeping motion.</EnglishText>
     <Entry>
       <PointerOffset>3880</PointerOffset>
       <JapaneseText>通・尻尾叩き</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Tail Slap</EnglishText>
       <Notes/>
       <Id>243</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3884</PointerOffset>
       <JapaneseText>通常技　連携回数１
 尻尾での打ち上げ、跳ね飛ばしの二段攻撃</JapaneseText>
-      <EnglishText>1 single strike.
-尻尾での打ち上げ、跳ね飛ばしの二段攻撃</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+Smack and launch up with your tail. Two stages.</EnglishText>
       <Notes/>
       <Id>244</Id>
       <Status>Editing</Status>
@@ -2151,17 +2152,18 @@ sweeping motion.</EnglishText>
     <Entry>
       <PointerOffset>3912</PointerOffset>
       <JapaneseText>通・触手乱舞</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Tentacle Boogie
+</EnglishText>
       <Notes/>
       <Id>245</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3916</PointerOffset>
       <JapaneseText>通常技　連携回数１
 触手で突き刺し、ハタキ倒す</JapaneseText>
-      <EnglishText>1 single strike.
-触手で突き刺し、ハタキ倒す</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+A piercing thrust with tentacles.</EnglishText>
       <Notes/>
       <Id>246</Id>
       <Status>Editing</Status>
@@ -2169,17 +2171,17 @@ sweeping motion.</EnglishText>
     <Entry>
       <PointerOffset>3944</PointerOffset>
       <JapaneseText>通・振り払い</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Shake It Off</EnglishText>
       <Notes/>
       <Id>247</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3948</PointerOffset>
       <JapaneseText>通常技　連携回数１
 気合のこもった手刀の一撃</JapaneseText>
-      <EnglishText>1 single strike.
-気合のこもった手刀の一撃</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+A karate chop powered by fighting spirit.</EnglishText>
       <Notes/>
       <Id>248</Id>
       <Status>Editing</Status>
@@ -2187,17 +2189,17 @@ sweeping motion.</EnglishText>
     <Entry>
       <PointerOffset>3976</PointerOffset>
       <JapaneseText>通・格闘フォーム</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Fighting Form</EnglishText>
       <Notes/>
       <Id>249</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3980</PointerOffset>
       <JapaneseText>通常技　連携回数１
 連続でパンチを浴びせる技</JapaneseText>
-      <EnglishText>1 single strike.
-連続でパンチを浴びせる技</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+A flurry of punches.</EnglishText>
       <Notes/>
       <Id>250</Id>
       <Status>Editing</Status>
@@ -2214,8 +2216,8 @@ sweeping motion.</EnglishText>
       <PointerOffset>4012</PointerOffset>
       <JapaneseText>通常技　連携回数１
 炎を纏って肩から突っ込む技</JapaneseText>
-      <EnglishText>1 single strike.
-炎を纏って肩から突っ込む技</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+A shoulder bash, wreathed in flames.</EnglishText>
       <Notes/>
       <Id>252</Id>
       <Status>Editing</Status>
@@ -2223,17 +2225,17 @@ sweeping motion.</EnglishText>
     <Entry>
       <PointerOffset>4040</PointerOffset>
       <JapaneseText>通・旋風攻撃</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Vortex Attack</EnglishText>
       <Notes/>
       <Id>253</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4044</PointerOffset>
       <JapaneseText>通常技　連携回数１
 回転してカマイタチで攻撃をする技</JapaneseText>
-      <EnglishText>1 single strike.
-回転してカマイタチで攻撃をする技</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+Spin and attack by whirlwind.</EnglishText>
       <Notes/>
       <Id>254</Id>
       <Status>Editing</Status>
@@ -2241,17 +2243,17 @@ sweeping motion.</EnglishText>
     <Entry>
       <PointerOffset>4072</PointerOffset>
       <JapaneseText>通・もぐら叩き</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Mole Smack</EnglishText>
       <Notes/>
       <Id>255</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4076</PointerOffset>
       <JapaneseText>通常技　連携回数１
 地面に潜って二度、頭を突き出す攻撃</JapaneseText>
-      <EnglishText>1 single strike.
-地面に潜って二度、頭を突き出す攻撃</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+Go below ground, then pop up to attack, twice.</EnglishText>
       <Notes/>
       <Id>256</Id>
       <Status>Editing</Status>
@@ -2259,17 +2261,17 @@ sweeping motion.</EnglishText>
     <Entry>
       <PointerOffset>4104</PointerOffset>
       <JapaneseText>通・斜め下突き</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Diagonal Down Thrust</EnglishText>
       <Notes/>
       <Id>257</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4108</PointerOffset>
       <JapaneseText>通常技　連携回数１
 槍による斜め下への突き刺し攻撃</JapaneseText>
-      <EnglishText>1 single strike.
-槍による斜め下への突き刺し攻撃</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+Thrust down diagonally with a spear.</EnglishText>
       <Notes/>
       <Id>258</Id>
       <Status>Editing</Status>
@@ -2277,17 +2279,17 @@ sweeping motion.</EnglishText>
     <Entry>
       <PointerOffset>4136</PointerOffset>
       <JapaneseText>通・水平突き</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Straight Thrust</EnglishText>
       <Notes/>
       <Id>259</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4140</PointerOffset>
       <JapaneseText>通常技　連携回数１
 槍による水平突き刺し攻撃</JapaneseText>
-      <EnglishText>1 single strike.
-槍による水平突き刺し攻撃</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+Thrust forward with a spear.</EnglishText>
       <Notes/>
       <Id>260</Id>
       <Status>Editing</Status>
@@ -2295,17 +2297,17 @@ sweeping motion.</EnglishText>
     <Entry>
       <PointerOffset>4168</PointerOffset>
       <JapaneseText>通・双剣攻撃</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Twin Sword Attack</EnglishText>
       <Notes/>
       <Id>261</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4172</PointerOffset>
       <JapaneseText>通常技　連携回数１
 双剣による強い振り下ろし攻撃</JapaneseText>
-      <EnglishText>1 single strike.
-双剣による強い振り下ろし攻撃</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+Strong, simultaneous swings of two swords.</EnglishText>
       <Notes/>
       <Id>262</Id>
       <Status>Editing</Status>
@@ -2313,17 +2315,17 @@ sweeping motion.</EnglishText>
     <Entry>
       <PointerOffset>4200</PointerOffset>
       <JapaneseText>通・滑空攻撃</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Glide Attack</EnglishText>
       <Notes/>
       <Id>263</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4204</PointerOffset>
       <JapaneseText>通常技　連携回数１
 急降下し、敵を着地の衝撃ではね飛ばす攻撃</JapaneseText>
-      <EnglishText>1 single strike.
-急降下し、敵を着地の衝撃ではね飛ばす攻撃</EnglishText>
+      <EnglishText>Normal: Max Combo 1
+Nosedive and create a shockwave. Launches.</EnglishText>
       <Notes/>
       <Id>264</Id>
       <Status>Editing</Status>
@@ -2340,8 +2342,8 @@ sweeping motion.</EnglishText>
       <PointerOffset>4236</PointerOffset>
       <JapaneseText>（ゲンエイ・コウハダン）奥義
 斬撃で斬り抜け、背後より熱波を飛ばす剣技</JapaneseText>
-      <EnglishText>Arcane: Slash past your foes and launch a fiery
-shockwave from behind.</EnglishText>
+      <EnglishText>Arcane:
+Slash through, then release a fiery wave from behind.</EnglishText>
       <Notes/>
       <Id>266</Id>
       <Status>Editing</Status>
@@ -2349,7 +2351,7 @@ shockwave from behind.</EnglishText>
     <Entry>
       <PointerOffset>4264</PointerOffset>
       <JapaneseText>紅破刃</JapaneseText>
-      <EnglishText>Vermillion Edge</EnglishText>
+      <EnglishText>Vermilion Edge</EnglishText>
       <Notes/>
       <Id>267</Id>
       <Status>Editing</Status>
@@ -4090,10 +4092,10 @@ slashing back from behind them.</EnglishText>
     <Entry>
       <PointerOffset>7368</PointerOffset>
       <JapaneseText>連波女返し</JapaneseText>
-      <EnglishText>Tsubame Gaeshi</EnglishText>
+      <EnglishText>Follow Return</EnglishText>
       <Notes>May need to retranslate to indicate it's not the real Tsubame Gaeshi, but rather a pun on words. Maybe Subame Gaeshi or Tsuvame Gaeshi since the Tsubame" part is the pun. Read the aselia wikia for details."</Notes>
       <Id>461</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>7372</PointerOffset>
@@ -5513,7 +5515,7 @@ succession. Inflicts Poison.</EnglishText>
       <EnglishText>Newly Added ID</EnglishText>
       <Notes/>
       <Id>620</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>9928</PointerOffset>
@@ -5529,7 +5531,7 @@ succession. Inflicts Poison.</EnglishText>
       <EnglishText>Newly Added ID</EnglishText>
       <Notes/>
       <Id>622</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>9960</PointerOffset>
@@ -5545,7 +5547,7 @@ succession. Inflicts Poison.</EnglishText>
       <EnglishText>Newly Added ID</EnglishText>
       <Notes/>
       <Id>624</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>9992</PointerOffset>
@@ -7578,10 +7580,12 @@ mark on the ground to call lightning on the enemy.</EnglishText>
     <Entry>
       <PointerOffset>13608</PointerOffset>
       <JapaneseText>ＧＯ・魔猫剣</JapaneseText>
-      <EnglishText>Meowgical Claw</EnglishText>
-      <Notes>Maybe Fierce Demon Claw since it's similar to Fierce Demon Fang</Notes>
+      <EnglishText>Fierce Kitty Fang</EnglishText>
+      <Notes>Maybe Fierce Demon Claw since it's similar to Fierce Demon Fang
+/
+How about Fierce Kitty Fang?</Notes>
       <Id>851</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>13612</PointerOffset>
@@ -10420,10 +10424,10 @@ to cause the flames to burst forward.</EnglishText>
     <Entry>
       <PointerOffset>18696</PointerOffset>
       <JapaneseText>トラップグランド</JapaneseText>
-      <EnglishText>Trap Ground</EnglishText>
+      <EnglishText>Mine Trap</EnglishText>
       <Notes>Considering naming it Landmine for how it operates</Notes>
       <Id>1169</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>18700</PointerOffset>
@@ -18089,10 +18093,10 @@ descent to slam the enemy.</EnglishText>
     <Entry>
       <PointerOffset>33448</PointerOffset>
       <JapaneseText>ナイトメアー</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Nightmare</EnglishText>
       <Notes/>
       <Id>2091</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>33452</PointerOffset>
@@ -18153,10 +18157,10 @@ descent to slam the enemy.</EnglishText>
     <Entry>
       <PointerOffset>33576</PointerOffset>
       <JapaneseText>種マシンガン</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Bullet Seed</EnglishText>
       <Notes/>
       <Id>2099</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>33580</PointerOffset>
@@ -21539,10 +21543,10 @@ Extend Effect: Restore 90% of max HP.</EnglishText>
     <Entry>
       <PointerOffset>40012</PointerOffset>
       <JapaneseText>ディオ流。ウンディーネを召喚する</JapaneseText>
-      <EnglishText>Summon Undine, Dio Style.</EnglishText>
+      <EnglishText>Summon Undine: Dio's Version.</EnglishText>
       <Notes>Need to decide whether to do put Dio Style" before or after "Summon Undine"."</Notes>
       <Id>2502</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>40040</PointerOffset>
