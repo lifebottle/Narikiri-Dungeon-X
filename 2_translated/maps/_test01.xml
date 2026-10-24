@@ -45,10 +45,10 @@
     <Entry>
       <PointerOffset>272804,273048</PointerOffset>
       <JapaneseText>ＥＢ選択</JapaneseText>
-      <EnglishText>Episode Selection</EnglishText>
+      <EnglishText>EB Selection</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -565,12 +565,17 @@
 「湯気」
 「湯気2」
 「汗」</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText>"..."
+"Angry"
+"Unkempt"
+"Cheery"
+"Cheery 2"
+"Sweat"</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>64</Id>
       <BubbleId>0</BubbleId>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>258284</PointerOffset>
@@ -580,12 +585,17 @@
 「焦」
 「はーと」
 「はーと」</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText>"Seeing Stars"
+"Gloooom"
+"Lightbulb"
+"Impatient"
+"Heart"
+"Heart"</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>64</Id>
       <BubbleId>1</BubbleId>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>258284</PointerOffset>
@@ -595,12 +605,17 @@
 「？」
 「///」
 「///2」</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText>"Sparkle"
+"Flying Stars"
+"Smile"
+"?"
+"///"
+"/// 2"</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>64</Id>
       <BubbleId>2</BubbleId>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>258284</PointerOffset>
@@ -610,12 +625,17 @@
 「！2」
 「はっ」
 「ZZZ」</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText>"♪"
+"♪ 2"
+"!"
+"! 2"
+"Sigh"
+"ZZZ"</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>64</Id>
       <BubbleId>3</BubbleId>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>259656</PointerOffset>
@@ -631,11 +651,22 @@
 ダオスと対峙　後編
 最後の戦い　中編
 最後の戦い　後編</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText>"Dio's Revival, Ending"
+"Wha...? This Thing's Huge? Ending"
+"Time Travel, Ending"
+"Saving Ethos, Ending"
+"King of Daemonium, Pluto, Ending"
+"Fenbeast, Ending"
+"Jestona, Ending"
+"Silverberg, Ending"
+"Silverberg 2, Ending"
+"Confrontation with Dhaos, Ending"
+"The Final Battle, Middle"
+"The Final Battle, Ending"</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>68</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

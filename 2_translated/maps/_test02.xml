@@ -586,44 +586,52 @@
       <JapaneseText>選択しよう!
 次のマップへ
 やっぱやめた</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText>Select Something!
+Proceed to the Next Map
+Nah, Let's Quit</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>64</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>259236</PointerOffset>
       <JapaneseText>&lt;DarkBlue&gt;&lt;WhiteOutline&gt;アップルグミ
 &lt;White&gt;&lt;NoOutline&gt;全部で二十文字入るかもしれないらしいよ！
 全部で二十文字入るかもしれないらしいよ！</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText>&lt;DarkBlue&gt;&lt;WhiteOutline&gt;Apple Gel
+&lt;White&gt;&lt;NoOutline&gt;There might be 20 characters in here!
+There might be 20 characters in here!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>65</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>259368</PointerOffset>
       <JapaneseText>会話テスト
 全部で二十文字入るかもしれないらしいよ！
 全部で二十文字入るかもしれないらしいよ！</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText>Conversation Test (max length jp text)
+There might be 20 characters in here!
+There might be 20 characters in here!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>66</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>259724</PointerOffset>
       <JapaneseText> テスト1
  テスト2
  テスト3</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText>Test 1
+Test 2
+Test 3</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>67</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>
