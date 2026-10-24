@@ -48,10 +48,10 @@
     <Entry>
       <PointerOffset>273164</PointerOffset>
       <JapaneseText>ムジョルニア洞窟　地下1階西</JapaneseText>
-      <EnglishText>Mjolnir Cave - B1F - West</EnglishText>
+      <EnglishText>Mjolnir Cave - B1F West</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -583,11 +583,11 @@
 
 すぐそばの扉は、
 一方通行なので注意！</JapaneseText>
-      <EnglishText>Be sure to step on the switch in the 
-hidden passage on this floor!
+      <EnglishText>There's a hidden passage on this floor.
+You have to step on the switch in there!
 
-The nearby door is one-way, 
-so watch out!</EnglishText>
+There's a door nearby, but
+it's one-way, so be careful!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>66</Id>

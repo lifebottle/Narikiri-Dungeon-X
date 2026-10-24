@@ -48,10 +48,10 @@
     <Entry>
       <PointerOffset>266332</PointerOffset>
       <JapaneseText>ムジョルニア洞窟　地下1階東</JapaneseText>
-      <EnglishText>Mjolnir Cave - B1F - East</EnglishText>
+      <EnglishText>Mjolnir Cave - B1F East</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -564,8 +564,8 @@
       <PointerOffset>266800</PointerOffset>
       <JapaneseText>この先出口への近道
 ※一方通行注意！</JapaneseText>
-      <EnglishText>Shortcut to the Exit Ahead
-&lt;Red&gt;One-way route. Proceed with caution!</EnglishText>
+      <EnglishText>This way to the exit. (Shortcut)
+&lt;Red&gt;One-way exit. Proceed with caution!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>64</Id>

@@ -48,10 +48,10 @@
     <Entry>
       <PointerOffset>274024</PointerOffset>
       <JapaneseText>ムジョルニア洞窟　地下2階南</JapaneseText>
-      <EnglishText>Mjolnir Cave - B2F - South</EnglishText>
+      <EnglishText>Mjolnir Cave - B2F South</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -563,7 +563,7 @@
     <Entry>
       <PointerOffset>270068</PointerOffset>
       <JapaneseText>レバーを操作することができない</JapaneseText>
-      <EnglishText>The lever won’t move.</EnglishText>
+      <EnglishText>This level is inoperable.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>64</Id>
@@ -580,7 +580,7 @@
     <Entry>
       <PointerOffset>270976</PointerOffset>
       <JapaneseText>スイッチが切り替わった</JapaneseText>
-      <EnglishText>The switch has been flipped.</EnglishText>
+      <EnglishText>The switch was flipped.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>66</Id>
@@ -589,7 +589,7 @@
     <Entry>
       <PointerOffset>272664</PointerOffset>
       <JapaneseText>通電しない</JapaneseText>
-      <EnglishText>There’s no power.</EnglishText>
+      <EnglishText>There's no power here.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>67</Id>
@@ -598,7 +598,7 @@
     <Entry>
       <PointerOffset>274860</PointerOffset>
       <JapaneseText>壊れているようだ</JapaneseText>
-      <EnglishText>It looks like it’s broken.</EnglishText>
+      <EnglishText>It appears to be broken.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>68</Id>
