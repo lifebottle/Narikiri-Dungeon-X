@@ -45,7 +45,7 @@
     <Entry>
       <PointerOffset>282064,282312,282385</PointerOffset>
       <JapaneseText>謎の声</JapaneseText>
-      <EnglishText>Weird Voice</EnglishText>
+      <EnglishText>Mysterious Voice</EnglishText>
       <Notes/>
       <Id>6</Id>
       <Status>Editing</Status>
@@ -53,7 +53,7 @@
     <Entry>
       <PointerOffset>282130</PointerOffset>
       <JapaneseText>本当に行くのか？</JapaneseText>
-      <EnglishText>Do you really mean to go?</EnglishText>
+      <EnglishText>You're really going?</EnglishText>
       <Notes/>
       <Id>7</Id>
       <Status>Editing</Status>
@@ -61,10 +61,10 @@
     <Entry>
       <PointerOffset>282210</PointerOffset>
       <JapaneseText>このダンジョンから脱出しますか？</JapaneseText>
-      <EnglishText>Do you want to exit this dungeon?</EnglishText>
+      <EnglishText>Exit the dungeon?</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -588,10 +588,10 @@
 死んでもしらぬぞ</JapaneseText>
       <EnglishText>You reckless fool...are you truly going any
 further? Don’t say I didn't warn you.</EnglishText>
-      <Notes/>
+      <Notes>come back after doing dungeon</Notes>
       <SpeakerId>6</SpeakerId>
       <Id>65</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>266912</PointerOffset>
@@ -625,7 +625,7 @@ you fight a powerful opponent on “UNKNOWN."</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>68</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>270076</PointerOffset>
@@ -635,7 +635,7 @@ you fight a powerful opponent on “UNKNOWN."</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>69</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
   </Strings>
 </SceneText>
