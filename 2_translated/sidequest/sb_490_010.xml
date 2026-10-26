@@ -101,7 +101,7 @@
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270920</PointerOffset>
@@ -113,7 +113,7 @@ you ready to order?</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>270996</PointerOffset>
@@ -123,7 +123,7 @@ you ready to order?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>271196</PointerOffset>
@@ -135,7 +135,7 @@ You're looking for work!?</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>0</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>271196</PointerOffset>
@@ -146,7 +146,7 @@ You're looking for work!?</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>271196</PointerOffset>
@@ -159,7 +159,7 @@ owner, so let's get you started!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>2</BubbleId>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>271248</PointerOffset>
@@ -169,7 +169,7 @@ owner, so let's get you started!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>271316</PointerOffset>
@@ -178,7 +178,7 @@ owner, so let's get you started!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -700,24 +700,26 @@ owner, so let's get you started!</EnglishText>
       <JapaneseText>ホント？助かるわ。
 じゃああの右奥にいる
 三つ子のお客様の注文とって来て</JapaneseText>
-      <EnglishText>Really!? Great! Then, can you cover the
-back right table? There are three girls there.</EnglishText>
+      <EnglishText>Really!? Great! Then, can you
+cover the back right table?
+There are three girls there.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>65</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>260872</PointerOffset>
       <JapaneseText>終ったらアタシのところに戻って、
 その注文を教えてね？
 じゃあよろしくっ！</JapaneseText>
-      <EnglishText>Once you're done, just come back to me
-and tell me what they ordered! Thanks!</EnglishText>
+      <EnglishText>Once you're done, just come
+back to me and tell me what
+they ordered! Thanks!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>66</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>261308</PointerOffset>
@@ -728,7 +730,7 @@ can do that in no time.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>67</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>261476</PointerOffset>
@@ -740,7 +742,7 @@ three girls at the back right.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>68</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>261652</PointerOffset>
@@ -751,7 +753,7 @@ not looking for work.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>69</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>261820</PointerOffset>
@@ -762,7 +764,7 @@ Oh, no...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>70</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
 </SceneText>
