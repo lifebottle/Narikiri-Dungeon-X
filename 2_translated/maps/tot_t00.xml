@@ -4,6 +4,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>288824,288888,288952,289016,289080,289144,289208,289272</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>肉好きのおじいさん</JapaneseText>
       <EnglishText>Meat-Loving Old Man</EnglishText>
       <Notes/>
@@ -12,6 +13,7 @@
     </Entry>
     <Entry>
       <PointerOffset>289336,289400,289464,289528,289592,289656,289720,289784</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>働き者の若い女</JapaneseText>
       <EnglishText>Diligent Young Woman</EnglishText>
       <Notes/>
@@ -20,6 +22,7 @@
     </Entry>
     <Entry>
       <PointerOffset>289848,289912,289976,290040,290104,290168,290232,290296</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>海賊志願の男の子</JapaneseText>
       <EnglishText>Aspiring Pirate Boy</EnglishText>
       <Notes/>
@@ -28,6 +31,7 @@
     </Entry>
     <Entry>
       <PointerOffset>290360,290424,290488,290552,290616,290680,290744,290808</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>仕事がしたい男</JapaneseText>
       <EnglishText>Job-Seeking Man</EnglishText>
       <Notes/>
@@ -36,6 +40,7 @@
     </Entry>
     <Entry>
       <PointerOffset>290872,290936,291000,291064,291128,291192</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>腰が痛いおばさん</JapaneseText>
       <EnglishText>Woman with Back Pain</EnglishText>
       <Notes/>
@@ -44,6 +49,7 @@
     </Entry>
     <Entry>
       <PointerOffset>291256,291320,291384,291448,291512,291576</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>不吉な老婆</JapaneseText>
       <EnglishText>Sinister Elder</EnglishText>
       <Notes/>
@@ -52,6 +58,7 @@
     </Entry>
     <Entry>
       <PointerOffset>291640,291704,291768,291832,291896,291960</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>助かった少女</JapaneseText>
       <EnglishText>Saved Girl</EnglishText>
       <Notes/>
@@ -60,6 +67,7 @@
     </Entry>
     <Entry>
       <PointerOffset>292024,292088,292152,292216,292280,292344</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>&lt;Cless&gt;を認める老人</JapaneseText>
       <EnglishText>&lt;Cless&gt;-Acknowledging Elder</EnglishText>
       <Notes/>
@@ -68,6 +76,7 @@
     </Entry>
     <Entry>
       <PointerOffset>292408,292472,292536,292600,292664,292728</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>遊撃隊員志望の少年</JapaneseText>
       <EnglishText>Task Force Aspirant Boy</EnglishText>
       <Notes/>
@@ -76,6 +85,7 @@
     </Entry>
     <Entry>
       <PointerOffset>292792,292856,292920,292984,293048,293112</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>心配する女性</JapaneseText>
       <EnglishText>Worried Woman</EnglishText>
       <Notes/>
@@ -83,7 +93,7 @@
       <Status>Done</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>303485</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -91,7 +101,7 @@
       <Status>ref:Speaker:8</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>303526</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -115,7 +125,7 @@
       <Status>Done</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>306167</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -187,7 +197,7 @@
       <Status>Done</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>310780,311452</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -238,7 +248,7 @@
   <Strings>
     <Section>Place</Section>
     <Entry>
-      <PointerOffset>309576</PointerOffset>
+      <PointerOffset>269760</PointerOffset>
       <JapaneseText>雑貨屋　ゴーリ１号店</JapaneseText>
       <EnglishText>General Store - Goalie #1</EnglishText>
       <Notes/>
@@ -246,7 +256,7 @@
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>309597</PointerOffset>
+      <PointerOffset>269936</PointerOffset>
       <JapaneseText>雑貨屋　ゴーリ１号店</JapaneseText>
       <EnglishText>General Store - Goalie #1</EnglishText>
       <Notes/>
@@ -254,7 +264,7 @@
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>309618</PointerOffset>
+      <PointerOffset>270112</PointerOffset>
       <JapaneseText>武器屋　ティーゼル</JapaneseText>
       <EnglishText>Weapon Shop - Teisel</EnglishText>
       <Notes/>
@@ -262,7 +272,7 @@
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>309637</PointerOffset>
+      <PointerOffset>270288</PointerOffset>
       <JapaneseText>雑貨屋　ゴーリ２号店</JapaneseText>
       <EnglishText>General Store - Goalie #2</EnglishText>
       <Notes/>
@@ -270,7 +280,7 @@
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>309658</PointerOffset>
+      <PointerOffset>270464</PointerOffset>
       <JapaneseText>教会</JapaneseText>
       <EnglishText>Church</EnglishText>
       <Notes/>
@@ -278,7 +288,7 @@
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>309663</PointerOffset>
+      <PointerOffset>270640</PointerOffset>
       <JapaneseText>&lt;Cless&gt;の家</JapaneseText>
       <EnglishText>&lt;Cless&gt;'s House</EnglishText>
       <Notes/>
@@ -286,7 +296,7 @@
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>309758</PointerOffset>
+      <PointerOffset>274204</PointerOffset>
       <JapaneseText>トーティス村</JapaneseText>
       <EnglishText>Totus Village</EnglishText>
       <Notes/>
@@ -2161,7 +2171,7 @@ feel a little better...</EnglishText>
   <Strings>
     <Section>Notice</Section>
     <Entry>
-      <PointerOffset>303514</PointerOffset>
+      <PointerOffset>93952</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2169,7 +2179,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>303533</PointerOffset>
+      <PointerOffset>95512</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2177,7 +2187,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>303563</PointerOffset>
+      <PointerOffset>100144</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2185,7 +2195,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:91</Status>
     </Entry>
     <Entry>
-      <PointerOffset>303944</PointerOffset>
+      <PointerOffset>104672</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2193,7 +2203,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:79</Status>
     </Entry>
     <Entry>
-      <PointerOffset>303977</PointerOffset>
+      <PointerOffset>104940</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2201,7 +2211,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>304042</PointerOffset>
+      <PointerOffset>106112</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2209,7 +2219,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:77</Status>
     </Entry>
     <Entry>
-      <PointerOffset>304078</PointerOffset>
+      <PointerOffset>106416</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2217,7 +2227,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>304149</PointerOffset>
+      <PointerOffset>106764</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2225,7 +2235,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>304215</PointerOffset>
+      <PointerOffset>108084</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2233,7 +2243,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:75</Status>
     </Entry>
     <Entry>
-      <PointerOffset>304254</PointerOffset>
+      <PointerOffset>108424</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2241,7 +2251,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>304330</PointerOffset>
+      <PointerOffset>108836</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2249,7 +2259,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>304401</PointerOffset>
+      <PointerOffset>109184</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2257,7 +2267,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>304478</PointerOffset>
+      <PointerOffset>110588</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2265,7 +2275,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:118</Status>
     </Entry>
     <Entry>
-      <PointerOffset>304505</PointerOffset>
+      <PointerOffset>110808</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2273,7 +2283,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:104</Status>
     </Entry>
     <Entry>
-      <PointerOffset>304596</PointerOffset>
+      <PointerOffset>111412</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2281,7 +2291,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:105</Status>
     </Entry>
     <Entry>
-      <PointerOffset>304682</PointerOffset>
+      <PointerOffset>111952</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2289,7 +2299,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:106</Status>
     </Entry>
     <Entry>
-      <PointerOffset>304763</PointerOffset>
+      <PointerOffset>112428</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2297,7 +2307,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>304839</PointerOffset>
+      <PointerOffset>112840</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2305,7 +2315,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>304910</PointerOffset>
+      <PointerOffset>113188</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2313,7 +2323,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>304987</PointerOffset>
+      <PointerOffset>113596</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2321,7 +2331,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:89</Status>
     </Entry>
     <Entry>
-      <PointerOffset>305123</PointerOffset>
+      <PointerOffset>113980</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2329,7 +2339,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>305156</PointerOffset>
+      <PointerOffset>115004</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2337,7 +2347,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>305200</PointerOffset>
+      <PointerOffset>115420</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2345,7 +2355,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>305315</PointerOffset>
+      <PointerOffset>118012</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2353,7 +2363,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>305386</PointerOffset>
+      <PointerOffset>120304</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2361,7 +2371,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:76</Status>
     </Entry>
     <Entry>
-      <PointerOffset>305436</PointerOffset>
+      <PointerOffset>120752</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2369,7 +2379,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>305563</PointerOffset>
+      <PointerOffset>123668</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2377,7 +2387,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>305606</PointerOffset>
+      <PointerOffset>125380</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2385,7 +2395,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:94</Status>
     </Entry>
     <Entry>
-      <PointerOffset>305625</PointerOffset>
+      <PointerOffset>125948</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2393,7 +2403,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:32</Status>
     </Entry>
     <Entry>
-      <PointerOffset>305755</PointerOffset>
+      <PointerOffset>127408</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2401,7 +2411,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:73</Status>
     </Entry>
     <Entry>
-      <PointerOffset>306125</PointerOffset>
+      <PointerOffset>143388</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2409,7 +2419,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:21</Status>
     </Entry>
     <Entry>
-      <PointerOffset>306178</PointerOffset>
+      <PointerOffset>143580</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2417,7 +2427,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:132</Status>
     </Entry>
     <Entry>
-      <PointerOffset>306481</PointerOffset>
+      <PointerOffset>161536</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2425,7 +2435,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>306557</PointerOffset>
+      <PointerOffset>161896</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2433,7 +2443,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:123</Status>
     </Entry>
     <Entry>
-      <PointerOffset>306712</PointerOffset>
+      <PointerOffset>170980</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2441,7 +2451,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:102</Status>
     </Entry>
     <Entry>
-      <PointerOffset>306820</PointerOffset>
+      <PointerOffset>179724</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2449,7 +2459,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:111</Status>
     </Entry>
     <Entry>
-      <PointerOffset>306994</PointerOffset>
+      <PointerOffset>182348</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2457,7 +2467,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:101</Status>
     </Entry>
     <Entry>
-      <PointerOffset>307070</PointerOffset>
+      <PointerOffset>182872</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2465,7 +2475,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:112</Status>
     </Entry>
     <Entry>
-      <PointerOffset>307168</PointerOffset>
+      <PointerOffset>184576</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2473,7 +2483,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:103</Status>
     </Entry>
     <Entry>
-      <PointerOffset>307274</PointerOffset>
+      <PointerOffset>188584</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2481,7 +2491,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:98</Status>
     </Entry>
     <Entry>
-      <PointerOffset>307340</PointerOffset>
+      <PointerOffset>193780</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2489,7 +2499,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:121</Status>
     </Entry>
     <Entry>
-      <PointerOffset>307393</PointerOffset>
+      <PointerOffset>197236</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2497,7 +2507,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:85</Status>
     </Entry>
     <Entry>
-      <PointerOffset>307507</PointerOffset>
+      <PointerOffset>210528</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2505,7 +2515,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:88</Status>
     </Entry>
     <Entry>
-      <PointerOffset>307704</PointerOffset>
+      <PointerOffset>213224</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2513,7 +2523,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:117</Status>
     </Entry>
     <Entry>
-      <PointerOffset>307754</PointerOffset>
+      <PointerOffset>222708</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2521,7 +2531,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:9</Status>
     </Entry>
     <Entry>
-      <PointerOffset>307799</PointerOffset>
+      <PointerOffset>226688</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2529,7 +2539,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset>307853</PointerOffset>
+      <PointerOffset>228512</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2537,7 +2547,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:6</Status>
     </Entry>
     <Entry>
-      <PointerOffset>307946</PointerOffset>
+      <PointerOffset>231516</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2545,7 +2555,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>308011</PointerOffset>
+      <PointerOffset>232120</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2553,7 +2563,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>308076</PointerOffset>
+      <PointerOffset>232772</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2561,7 +2571,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>308141</PointerOffset>
+      <PointerOffset>233376</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2569,7 +2579,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>308207</PointerOffset>
+      <PointerOffset>238340</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2577,7 +2587,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:36</Status>
     </Entry>
     <Entry>
-      <PointerOffset>308255</PointerOffset>
+      <PointerOffset>244236</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2585,7 +2595,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:18</Status>
     </Entry>
     <Entry>
-      <PointerOffset>308303</PointerOffset>
+      <PointerOffset>244548</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2593,7 +2603,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>308357</PointerOffset>
+      <PointerOffset>245084</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2601,7 +2611,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:52</Status>
     </Entry>
     <Entry>
-      <PointerOffset>308417</PointerOffset>
+      <PointerOffset>245552</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2609,7 +2619,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>308471</PointerOffset>
+      <PointerOffset>245952</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2617,7 +2627,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:51</Status>
     </Entry>
     <Entry>
-      <PointerOffset>308525</PointerOffset>
+      <PointerOffset>246420</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2625,7 +2635,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>308628</PointerOffset>
+      <PointerOffset>260900</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2633,7 +2643,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:38</Status>
     </Entry>
     <Entry>
-      <PointerOffset>308686</PointerOffset>
+      <PointerOffset>261068</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2641,7 +2651,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:39</Status>
     </Entry>
     <Entry>
-      <PointerOffset>308815</PointerOffset>
+      <PointerOffset>265316</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2649,7 +2659,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:113</Status>
     </Entry>
     <Entry>
-      <PointerOffset>309156</PointerOffset>
+      <PointerOffset>267508</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2657,7 +2667,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:115</Status>
     </Entry>
     <Entry>
-      <PointerOffset>309357</PointerOffset>
+      <PointerOffset>267676</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2665,7 +2675,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:114</Status>
     </Entry>
     <Entry>
-      <PointerOffset>309903</PointerOffset>
+      <PointerOffset>276836</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2673,7 +2683,7 @@ feel a little better...</EnglishText>
       <Status>ref:Notice:87</Status>
     </Entry>
     <Entry>
-      <PointerOffset>310054</PointerOffset>
+      <PointerOffset>277244</PointerOffset>
       <JapaneseText>アミィ＝バークライト、
 ここに眠る</JapaneseText>
       <EnglishText>Ami Barklight
@@ -2685,7 +2695,7 @@ in peace.</EnglishText>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>310100</PointerOffset>
+      <PointerOffset>277460</PointerOffset>
       <JapaneseText>ミゲール＝アルベイン、
 ここに眠る</JapaneseText>
       <EnglishText>Miguel Alvein
@@ -2697,7 +2707,7 @@ in peace.</EnglishText>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>310146</PointerOffset>
+      <PointerOffset>277676</PointerOffset>
       <JapaneseText>マリア＝アルベイン、
 ここに眠る</JapaneseText>
       <EnglishText>Maria Alvein
@@ -2709,7 +2719,7 @@ in peace.</EnglishText>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>310204</PointerOffset>
+      <PointerOffset>278176</PointerOffset>
       <JapaneseText>腰がきついのに
 ９時間はこたえるわ……</JapaneseText>
       <EnglishText>There's a tightness in
@@ -2721,7 +2731,7 @@ hold out for nine hours...</EnglishText>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>310270</PointerOffset>
+      <PointerOffset>278540</PointerOffset>
       <JapaneseText>わしの入れ歯は
 どこ行ったんじゃろう？？</JapaneseText>
       <EnglishText>Where have my dentures
@@ -2732,7 +2742,7 @@ gone off to this time???</EnglishText>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>310336</PointerOffset>
+      <PointerOffset>278904</PointerOffset>
       <JapaneseText>彼がホントウに浮気してたら
 どうしよう……</JapaneseText>
       <EnglishText>What'll I do if he's
@@ -2743,7 +2753,7 @@ actually cheating on me...?</EnglishText>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>310402</PointerOffset>
+      <PointerOffset>279268</PointerOffset>
       <JapaneseText>ながいなながいな～
 ぎょ～れつながいな～</JapaneseText>
       <EnglishText>It's long, it's long~
@@ -2754,7 +2764,7 @@ The queue's so long~</EnglishText>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>310470</PointerOffset>
+      <PointerOffset>279632</PointerOffset>
       <JapaneseText>最近ヒゲが濃くなってきていけねぇ……</JapaneseText>
       <EnglishText>This beard's so dense...
 That's not good...</EnglishText>
@@ -2765,7 +2775,7 @@ That's not good...</EnglishText>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>310470</PointerOffset>
+      <PointerOffset>279632</PointerOffset>
       <JapaneseText>んま！
 今のは聞かなかったことにしてね
 ちゅっ！</JapaneseText>
@@ -2779,7 +2789,7 @@ that. Mwah!</EnglishText>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>310580</PointerOffset>
+      <PointerOffset>279996</PointerOffset>
       <JapaneseText>とどけア・タ・シの
 この想い～ん</JapaneseText>
       <EnglishText>I~ just wanna tell you how I'm
@@ -2790,7 +2800,7 @@ feeling~... Gotta make you...understand!</EnglishText>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>310638</PointerOffset>
+      <PointerOffset>280408</PointerOffset>
       <JapaneseText>ミント様なら
 村の教会にいると思うよ</JapaneseText>
       <EnglishText>I believe Lady &lt;Mint&gt; is
@@ -2801,7 +2811,7 @@ in the village church.</EnglishText>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>310703</PointerOffset>
+      <PointerOffset>281124</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2809,7 +2819,7 @@ in the village church.</EnglishText>
       <Status>ref:Notice:2</Status>
     </Entry>
     <Entry>
-      <PointerOffset>310799</PointerOffset>
+      <PointerOffset>281388</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2817,7 +2827,7 @@ in the village church.</EnglishText>
       <Status>ref:Notice:136</Status>
     </Entry>
     <Entry>
-      <PointerOffset>310832</PointerOffset>
+      <PointerOffset>281648</PointerOffset>
       <JapaneseText>よし！　じゃあ出発だ。
 まずはヴァルハラ村を目指そう</JapaneseText>
       <EnglishText>Alright! Then, we're setting off.
@@ -2828,7 +2838,7 @@ First, let's head for Valhalla.</EnglishText>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>310891</PointerOffset>
+      <PointerOffset>281864</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2836,7 +2846,7 @@ First, let's head for Valhalla.</EnglishText>
       <Status>ref:Notice:3</Status>
     </Entry>
     <Entry>
-      <PointerOffset>310957</PointerOffset>
+      <PointerOffset>282296</PointerOffset>
       <JapaneseText>イベント終了後セリフ</JapaneseText>
       <EnglishText>Event Completion Dialogue</EnglishText>
       <Notes/>
@@ -2845,7 +2855,7 @@ First, let's head for Valhalla.</EnglishText>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311002</PointerOffset>
+      <PointerOffset>282764</PointerOffset>
       <JapaneseText>今はクレスちゃんが
 ちゃんとこの村を守って
 くれてるから安心よ</JapaneseText>
@@ -2858,7 +2868,7 @@ job protecting the village.</EnglishText>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311083</PointerOffset>
+      <PointerOffset>283304</PointerOffset>
       <JapaneseText>イベント終了後セリフ</JapaneseText>
       <EnglishText>Event Completion Dialogue</EnglishText>
       <Notes/>
@@ -2867,7 +2877,7 @@ job protecting the village.</EnglishText>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311122</PointerOffset>
+      <PointerOffset>283844</PointerOffset>
       <JapaneseText>イベント終了後セリフ</JapaneseText>
       <EnglishText>Event Completion Dialogue</EnglishText>
       <Notes/>
@@ -2876,7 +2886,7 @@ job protecting the village.</EnglishText>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311161</PointerOffset>
+      <PointerOffset>284384</PointerOffset>
       <JapaneseText>イベント終了後セリフ</JapaneseText>
       <EnglishText>Event Completion Dialogue</EnglishText>
       <Notes/>
@@ -2885,7 +2895,7 @@ job protecting the village.</EnglishText>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311193</PointerOffset>
+      <PointerOffset>284844</PointerOffset>
       <JapaneseText>おいおい英雄サマってのに
 会うんじゃなかったべか？
 まったく、うろちょろすんなや</JapaneseText>
@@ -2898,7 +2908,7 @@ do just wander around, don't ya?</EnglishText>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311283</PointerOffset>
+      <PointerOffset>285100</PointerOffset>
       <JapaneseText>あーもう！　&lt;Cless&gt;っちゅーのが
 帰ってきたんだべ？　どうするか
 そんぐらいわからんか？</JapaneseText>
@@ -2911,7 +2921,7 @@ So you know what to do, don't ya?</EnglishText>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311375</PointerOffset>
+      <PointerOffset>285352</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2919,7 +2929,7 @@ So you know what to do, don't ya?</EnglishText>
       <Status>ref:Notice:2</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311471</PointerOffset>
+      <PointerOffset>285584</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -2927,7 +2937,7 @@ So you know what to do, don't ya?</EnglishText>
       <Status>ref:Notice:136</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311504</PointerOffset>
+      <PointerOffset>285844</PointerOffset>
       <JapaneseText>よし！　じゃあ出発だ。
 まずはヴァルハラ村を目指そう</JapaneseText>
       <EnglishText>Alright! Then, we're setting off.
@@ -2938,7 +2948,7 @@ First, let's head for Valhalla.</EnglishText>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311563</PointerOffset>
+      <PointerOffset>286028</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>

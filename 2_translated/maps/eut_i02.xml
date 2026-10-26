@@ -20,6 +20,7 @@
     </Entry>
     <Entry>
       <PointerOffset>301860,301924,301988</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>「あじおう」の王様</JapaneseText>
       <EnglishText>"Flavor King" King</EnglishText>
       <Notes/>
@@ -28,6 +29,7 @@
     </Entry>
     <Entry>
       <PointerOffset>302052,302116</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>勇気ない男性</JapaneseText>
       <EnglishText>Cowardly Man</EnglishText>
       <Notes/>
@@ -36,6 +38,7 @@
     </Entry>
     <Entry>
       <PointerOffset>302180,302244,302308</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>「マリオン」の総支配人</JapaneseText>
       <EnglishText>"Marion" General Manager</EnglishText>
       <Notes/>
@@ -44,6 +47,7 @@
     </Entry>
     <Entry>
       <PointerOffset>302372,302436,302500,302564,302628,302692</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>訳知り顔の男性</JapaneseText>
       <EnglishText>Know-It-All Man</EnglishText>
       <Notes/>
@@ -52,6 +56,7 @@
     </Entry>
     <Entry>
       <PointerOffset>302756,302820,302884</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>「あじおう」の女王</JapaneseText>
       <EnglishText>"Flavor King" Queen</EnglishText>
       <Notes/>
@@ -60,6 +65,7 @@
     </Entry>
     <Entry>
       <PointerOffset>302948,303012,303076,303140,303204,303268</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>太りやすい女性</JapaneseText>
       <EnglishText>Weight-Prone Woman</EnglishText>
       <Notes/>
@@ -67,7 +73,7 @@
       <Status>Done</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>307565</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -75,7 +81,7 @@
       <Status>ref:Speaker:8</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>307606</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -83,7 +89,7 @@
       <Status>ref:Speaker:19</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>307632,307870,307935,307971,308042,308108,308147,308223,308294,308360,308371,308489,308575,308656,308732,308803,308869,308880,309049,309082,309093,309208,309318,309329,309456,309499,309684,310448,310459,310614,310722,310896,310972,311070,311176,311242,311295,311409,311606,311848,311913,311978,312043,312717,313058,313259</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -91,7 +97,7 @@
       <Status>ref:Speaker:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>309569,310017,311700,311754,311810,312108,312156,312204,312258,312318,312372,312426,312529,312587,313978,314026,314078,314126,314174,314226,314274,314322,314378,314434,314486,314540,314588,314640,314692,314740,314792,314848,314908,315006</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -99,7 +105,7 @@
       <Status>ref:Speaker:2</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>310071</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -107,7 +113,7 @@
       <Status>ref:Speaker:14</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>314962</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -118,7 +124,7 @@
   <Strings>
     <Section>Place</Section>
     <Entry>
-      <PointerOffset>317478</PointerOffset>
+      <PointerOffset>297916</PointerOffset>
       <JapaneseText>食材屋　あじおう</JapaneseText>
       <EnglishText>Grocery Store - Flavor King</EnglishText>
       <Notes/>
@@ -126,7 +132,7 @@
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>317495</PointerOffset>
+      <PointerOffset>297980</PointerOffset>
       <JapaneseText>食材屋　マリオン</JapaneseText>
       <EnglishText>Grocery Store - Marion</EnglishText>
       <Notes/>
@@ -792,7 +798,7 @@ very big, huge, humongous...um, heart.</EnglishText>
   <Strings>
     <Section>Notice</Section>
     <Entry>
-      <PointerOffset>307594</PointerOffset>
+      <PointerOffset>92908</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -800,7 +806,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>307613</PointerOffset>
+      <PointerOffset>94468</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -808,7 +814,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>307643</PointerOffset>
+      <PointerOffset>99112</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -816,7 +822,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:91</Status>
     </Entry>
     <Entry>
-      <PointerOffset>307848</PointerOffset>
+      <PointerOffset>100932</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -824,7 +830,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:79</Status>
     </Entry>
     <Entry>
-      <PointerOffset>307881</PointerOffset>
+      <PointerOffset>101200</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -832,7 +838,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>307946</PointerOffset>
+      <PointerOffset>102372</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -840,7 +846,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:77</Status>
     </Entry>
     <Entry>
-      <PointerOffset>307982</PointerOffset>
+      <PointerOffset>102676</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -848,7 +854,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>308053</PointerOffset>
+      <PointerOffset>103024</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -856,7 +862,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>308119</PointerOffset>
+      <PointerOffset>104344</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -864,7 +870,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:75</Status>
     </Entry>
     <Entry>
-      <PointerOffset>308158</PointerOffset>
+      <PointerOffset>104684</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -872,7 +878,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>308234</PointerOffset>
+      <PointerOffset>105096</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -880,7 +886,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>308305</PointerOffset>
+      <PointerOffset>105444</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -888,7 +894,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>308382</PointerOffset>
+      <PointerOffset>106848</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -896,7 +902,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:118</Status>
     </Entry>
     <Entry>
-      <PointerOffset>308409</PointerOffset>
+      <PointerOffset>107068</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -904,7 +910,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:104</Status>
     </Entry>
     <Entry>
-      <PointerOffset>308500</PointerOffset>
+      <PointerOffset>107672</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -912,7 +918,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:105</Status>
     </Entry>
     <Entry>
-      <PointerOffset>308586</PointerOffset>
+      <PointerOffset>108212</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -920,7 +926,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:106</Status>
     </Entry>
     <Entry>
-      <PointerOffset>308667</PointerOffset>
+      <PointerOffset>108688</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -928,7 +934,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>308743</PointerOffset>
+      <PointerOffset>109100</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -936,7 +942,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>308814</PointerOffset>
+      <PointerOffset>109448</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -944,7 +950,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>308891</PointerOffset>
+      <PointerOffset>109856</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -952,7 +958,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:89</Status>
     </Entry>
     <Entry>
-      <PointerOffset>309027</PointerOffset>
+      <PointerOffset>110240</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -960,7 +966,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>309060</PointerOffset>
+      <PointerOffset>111264</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -968,7 +974,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>309104</PointerOffset>
+      <PointerOffset>111680</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -976,7 +982,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>309219</PointerOffset>
+      <PointerOffset>114272</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -984,7 +990,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>309290</PointerOffset>
+      <PointerOffset>116800</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -992,7 +998,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:76</Status>
     </Entry>
     <Entry>
-      <PointerOffset>309340</PointerOffset>
+      <PointerOffset>117248</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1000,7 +1006,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>309467</PointerOffset>
+      <PointerOffset>120400</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1008,7 +1014,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>309510</PointerOffset>
+      <PointerOffset>122348</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1016,7 +1022,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:94</Status>
     </Entry>
     <Entry>
-      <PointerOffset>309529</PointerOffset>
+      <PointerOffset>123152</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1024,7 +1030,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:32</Status>
     </Entry>
     <Entry>
-      <PointerOffset>309659</PointerOffset>
+      <PointerOffset>124612</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1032,7 +1038,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:73</Status>
     </Entry>
     <Entry>
-      <PointerOffset>310029</PointerOffset>
+      <PointerOffset>140592</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1040,7 +1046,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:21</Status>
     </Entry>
     <Entry>
-      <PointerOffset>310082</PointerOffset>
+      <PointerOffset>140784</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1048,7 +1054,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:132</Status>
     </Entry>
     <Entry>
-      <PointerOffset>310394</PointerOffset>
+      <PointerOffset>158940</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1056,7 +1062,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>310470</PointerOffset>
+      <PointerOffset>159300</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1064,7 +1070,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:123</Status>
     </Entry>
     <Entry>
-      <PointerOffset>310625</PointerOffset>
+      <PointerOffset>168384</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1072,7 +1078,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:102</Status>
     </Entry>
     <Entry>
-      <PointerOffset>310733</PointerOffset>
+      <PointerOffset>177128</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1080,7 +1086,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:111</Status>
     </Entry>
     <Entry>
-      <PointerOffset>310907</PointerOffset>
+      <PointerOffset>179752</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1088,7 +1094,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:101</Status>
     </Entry>
     <Entry>
-      <PointerOffset>310983</PointerOffset>
+      <PointerOffset>180276</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1096,7 +1102,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:112</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311081</PointerOffset>
+      <PointerOffset>181980</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1104,7 +1110,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:103</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311187</PointerOffset>
+      <PointerOffset>185988</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1112,7 +1118,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:98</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311253</PointerOffset>
+      <PointerOffset>191184</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1120,7 +1126,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:121</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311306</PointerOffset>
+      <PointerOffset>194640</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1128,7 +1134,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:85</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311420</PointerOffset>
+      <PointerOffset>207800</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1136,7 +1142,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:88</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311617</PointerOffset>
+      <PointerOffset>210496</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1144,7 +1150,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:117</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311667</PointerOffset>
+      <PointerOffset>219980</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1152,7 +1158,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:9</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311712</PointerOffset>
+      <PointerOffset>223960</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1160,7 +1166,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311766</PointerOffset>
+      <PointerOffset>225784</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1168,7 +1174,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:6</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311859</PointerOffset>
+      <PointerOffset>228788</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1176,7 +1182,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311924</PointerOffset>
+      <PointerOffset>229392</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1184,7 +1190,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>311989</PointerOffset>
+      <PointerOffset>230044</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1192,7 +1198,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>312054</PointerOffset>
+      <PointerOffset>230648</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1200,7 +1206,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>312120</PointerOffset>
+      <PointerOffset>235612</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1208,7 +1214,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:36</Status>
     </Entry>
     <Entry>
-      <PointerOffset>312168</PointerOffset>
+      <PointerOffset>241404</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1216,7 +1222,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:18</Status>
     </Entry>
     <Entry>
-      <PointerOffset>312216</PointerOffset>
+      <PointerOffset>241716</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1224,7 +1230,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>312270</PointerOffset>
+      <PointerOffset>242252</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1232,7 +1238,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:52</Status>
     </Entry>
     <Entry>
-      <PointerOffset>312330</PointerOffset>
+      <PointerOffset>242720</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1240,7 +1246,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>312384</PointerOffset>
+      <PointerOffset>243120</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1248,7 +1254,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:51</Status>
     </Entry>
     <Entry>
-      <PointerOffset>312438</PointerOffset>
+      <PointerOffset>243588</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1256,7 +1262,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>312541</PointerOffset>
+      <PointerOffset>257964</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1264,7 +1270,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:38</Status>
     </Entry>
     <Entry>
-      <PointerOffset>312599</PointerOffset>
+      <PointerOffset>258132</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1272,7 +1278,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:39</Status>
     </Entry>
     <Entry>
-      <PointerOffset>312728</PointerOffset>
+      <PointerOffset>262380</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1280,7 +1286,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:113</Status>
     </Entry>
     <Entry>
-      <PointerOffset>313069</PointerOffset>
+      <PointerOffset>264572</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1288,7 +1294,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:115</Status>
     </Entry>
     <Entry>
-      <PointerOffset>313270</PointerOffset>
+      <PointerOffset>264740</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1296,7 +1302,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:114</Status>
     </Entry>
     <Entry>
-      <PointerOffset>313990</PointerOffset>
+      <PointerOffset>286944</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1304,7 +1310,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:18</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314038</PointerOffset>
+      <PointerOffset>287304</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1312,7 +1318,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:41</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314090</PointerOffset>
+      <PointerOffset>287664</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1320,7 +1326,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:30</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314138</PointerOffset>
+      <PointerOffset>288128</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1328,7 +1334,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:53</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314186</PointerOffset>
+      <PointerOffset>288592</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1336,7 +1342,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:35</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314238</PointerOffset>
+      <PointerOffset>289108</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1344,7 +1350,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:40</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314286</PointerOffset>
+      <PointerOffset>289572</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1352,7 +1358,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:43</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314334</PointerOffset>
+      <PointerOffset>290088</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1360,7 +1366,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:49</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314390</PointerOffset>
+      <PointerOffset>290500</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1368,7 +1374,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:45</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314446</PointerOffset>
+      <PointerOffset>290912</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1376,7 +1382,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:31</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314498</PointerOffset>
+      <PointerOffset>291428</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1384,7 +1390,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:44</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314552</PointerOffset>
+      <PointerOffset>291944</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1392,7 +1398,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:17</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314600</PointerOffset>
+      <PointerOffset>292408</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1400,7 +1406,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:48</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314652</PointerOffset>
+      <PointerOffset>292872</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1408,7 +1414,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:24</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314704</PointerOffset>
+      <PointerOffset>293336</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1416,7 +1422,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:19</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314752</PointerOffset>
+      <PointerOffset>293800</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1424,7 +1430,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:23</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314804</PointerOffset>
+      <PointerOffset>294212</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1432,7 +1438,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:50</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314860</PointerOffset>
+      <PointerOffset>294780</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1440,7 +1446,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:46</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314920</PointerOffset>
+      <PointerOffset>295348</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1448,7 +1454,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:47</Status>
     </Entry>
     <Entry>
-      <PointerOffset>314971</PointerOffset>
+      <PointerOffset>295876</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1456,7 +1462,7 @@ very big, huge, humongous...um, heart.</EnglishText>
       <Status>ref:Notice:130</Status>
     </Entry>
     <Entry>
-      <PointerOffset>315018</PointerOffset>
+      <PointerOffset>296052</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>

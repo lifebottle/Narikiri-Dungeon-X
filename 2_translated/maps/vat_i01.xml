@@ -5,40 +5,40 @@
     <Entry>
       <PointerOffset>270672,270736,270800,271248,271312,271376,281957,282029</PointerOffset>
       <JapaneseText>好奇心旺盛の商人</JapaneseText>
-      <EnglishText>Surprised Clerk</EnglishText>
+      <EnglishText>Extremely Curious Clerk</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270864,270928,270992,271056,271120,271184</PointerOffset>
       <MaxLength>48</MaxLength>
       <JapaneseText>お金を持った坊ちゃん</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Moneyed Young Man</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271440,271504,271568,271632,271696,271760</PointerOffset>
       <MaxLength>48</MaxLength>
       <JapaneseText>「天地無用」な商人</JapaneseText>
-      <EnglishText>"No Restrictions" Merchant</EnglishText>
+      <EnglishText>Rightside-Up Merchant </EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271824,271888,271952,272016,272080,272144</PointerOffset>
       <MaxLength>48</MaxLength>
       <JapaneseText>キレている女性</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Salty Woman</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>276017</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -46,7 +46,7 @@
       <Status>ref:Speaker:8</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>276058</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -54,7 +54,7 @@
       <Status>ref:Speaker:19</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>276084,276322,276387,276423,276494,276560,276599,276675,276746,276812,276823,276941,277027,277108,277184,277255,277321,277332,277501,277534,277545,277660,277770,277781,277908,277951,278136,278891,278902,279057,279165,279339,279415,279513,279619,279685,279738,279852,280049,280291,280356,280421,280486,281160,281501,281702</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -62,7 +62,7 @@
       <Status>ref:Speaker:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>278021,278469,280143,280197,280253,280551,280599,280647,280701,280761,280815,280869,280972,281030</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -70,7 +70,7 @@
       <Status>ref:Speaker:2</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>278523</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -80,21 +80,21 @@
     <Entry>
       <PointerOffset>282082</PointerOffset>
       <JapaneseText>下ばかり見てる青年</JapaneseText>
-      <EnglishText>Downcast Young Man</EnglishText>
+      <EnglishText>Floor-Watching Young Man</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
     <Section>Place</Section>
     <Entry>
-      <PointerOffset>281929</PointerOffset>
+      <PointerOffset>267216</PointerOffset>
       <JapaneseText>道具屋　天地無用</JapaneseText>
-      <EnglishText>Item Shop - No Restrictions</EnglishText>
+      <EnglishText>Item Shop - The Rightside Up</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -103,8 +103,8 @@
       <PointerOffset>273968</PointerOffset>
       <JapaneseText>いらっしゃいー
 道具屋「天地無用」だよ～</JapaneseText>
-      <EnglishText>Hey there!
-Welcome to "No Restrictions".</EnglishText>
+      <EnglishText>Hello and welcome! This is the
+item shop, "The Rightside Up"~</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -114,7 +114,8 @@ Welcome to "No Restrictions".</EnglishText>
     <Entry>
       <PointerOffset>273968</PointerOffset>
       <JapaneseText>逸品揃いだよ～</JapaneseText>
-      <EnglishText>We've got the best wares in town.</EnglishText>
+      <EnglishText>All our products
+are top quality~</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -133,7 +134,7 @@ Welcome to "No Restrictions".</EnglishText>
     <Entry>
       <PointerOffset>273976</PointerOffset>
       <JapaneseText>サンキューブルーベリー☆</JapaneseText>
-      <EnglishText>Why thank you, my little blueberry. </EnglishText>
+      <EnglishText>Thank you berry much~ ☆</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -143,8 +144,8 @@ Welcome to "No Restrictions".</EnglishText>
       <PointerOffset>273980</PointerOffset>
       <JapaneseText>ほくほくほく♪
 今日は何を買おうかな</JapaneseText>
-      <EnglishText>La-di-daaa~
-What should I buy today?</EnglishText>
+      <EnglishText>La-di-daaa~ ♪ What
+should I buy today?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
@@ -156,9 +157,9 @@ What should I buy today?</EnglishText>
       <JapaneseText>グミ、ボトル、食材……
 手持ちの５億ガルドで
 何買おう</JapaneseText>
-      <EnglishText>Gels, bottles, ingredients...
-I have five hundred million gald on me.
-What to buy...</EnglishText>
+      <EnglishText>Gels, bottles, food... I have
+500,000,000 Gald on me,
+but what to spend it on...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
@@ -169,8 +170,8 @@ What to buy...</EnglishText>
       <PointerOffset>273984</PointerOffset>
       <JapaneseText>よ、よし！
 アップルグミを買うぞ！</JapaneseText>
-      <EnglishText>O-Okay!
-I'll buy an apple gel!</EnglishText>
+      <EnglishText>A-Alright! I'll
+buy an apple gel!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -181,7 +182,8 @@ I'll buy an apple gel!</EnglishText>
       <PointerOffset>273984</PointerOffset>
       <JapaneseText>で、でも、手持ちのお金で
 足りるかな……？</JapaneseText>
-      <EnglishText>B-But is this enough money...?</EnglishText>
+      <EnglishText>B-But, do I have
+enough money...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -194,8 +196,8 @@ I'll buy an apple gel!</EnglishText>
 えっと……何、買おっかな……
 よしっ……き、決めた……！</JapaneseText>
       <EnglishText>This is my f-first time shopping...
-Ohhh... What should I buy...?
-A-Alright, let's go with this...!</EnglishText>
+Ohhh... What...should I buy...?
+Alright, l-let's go with this...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
@@ -206,8 +208,8 @@ A-Alright, let's go with this...!</EnglishText>
       <PointerOffset>273988</PointerOffset>
       <JapaneseText>み、見ないでよ、
 緊張して買えないだろ……！</JapaneseText>
-      <EnglishText>H-Hey, stop staring. 
-You're making me nervous...!</EnglishText>
+      <EnglishText>H-Hey, don't stare at me. I'll be
+too nervous to buy anything...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
@@ -219,8 +221,8 @@ You're making me nervous...!</EnglishText>
       <JapaneseText>え、えっと……
 ラ、ラ、ライ……
 ……ララライクボッ……！</JapaneseText>
-      <EnglishText>U-Um... 
-I'd like one l-l-live bottle...</EnglishText>
+      <EnglishText>U-Um...  I'd l-like
+one l-l...l-l-live bot...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
@@ -231,7 +233,8 @@ I'd like one l-l-live bottle...</EnglishText>
       <PointerOffset>273992</PointerOffset>
       <JapaneseText>……じゃなくて、
 ライフ……</JapaneseText>
-      <EnglishText>Wait, not "live", I meant "life"...!</EnglishText>
+      <EnglishText>Wait, it's not a "live"
+bottle... It's "life"...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
@@ -242,8 +245,8 @@ I'd like one l-l-live bottle...</EnglishText>
       <PointerOffset>273992</PointerOffset>
       <JapaneseText>……だ、だめだ……
 は、はずかしい……</JapaneseText>
-      <EnglishText>...I can't do this... 
-How embarrassing...</EnglishText>
+      <EnglishText>...I-I can't do this... 
+I-It's too embarrassing...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
@@ -254,8 +257,8 @@ How embarrassing...</EnglishText>
       <PointerOffset>273996</PointerOffset>
       <JapaneseText>ママにもらった５億ガルド、
 どうやって使おうかな……</JapaneseText>
-      <EnglishText>How should I spend all 5 hundred 
-million gald Mom gave me...?</EnglishText>
+      <EnglishText>Mama gave me 500,000,000 Gald,
+but how am I going to spend it...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
@@ -267,8 +270,9 @@ million gald Mom gave me...?</EnglishText>
       <JapaneseText>ママには全部使いきってこいって
 言われたけど、できるかな、
 ドキドキ……</JapaneseText>
-      <EnglishText>She told me to use all of it, 
-but can I really do this? </EnglishText>
+      <EnglishText>She told me to come back after I
+spend all of it, but can I? I don't
+know how... And I'm so...n-nervous...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
@@ -280,7 +284,7 @@ but can I really do this? </EnglishText>
       <JapaneseText>あ、あのっ！
 レモングミひとつ！</JapaneseText>
       <EnglishText>E-Excuse me! 
-One lemon gel, please!</EnglishText>
+One lemon gel!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
@@ -292,8 +296,9 @@ One lemon gel, please!</EnglishText>
       <JapaneseText>……え？　あれ？
 き、きみ、店員さんじゃ
 ないの……？　なんだよ……</JapaneseText>
-      <EnglishText>...Oh, you don't work here?
-You should've said so sooner...</EnglishText>
+      <EnglishText>...Huh? Eh? Y-you're
+not a clerk here...?
+Oh, come on...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
@@ -304,8 +309,8 @@ You should've said so sooner...</EnglishText>
       <PointerOffset>274004</PointerOffset>
       <JapaneseText>いらっしゃいー
 道具屋「天地無用」だよ～</JapaneseText>
-      <EnglishText>Hey there!
-Welcome to "No Restrictions".</EnglishText>
+      <EnglishText>Hello and welcome! This is the
+item shop, "The Rightside Up"~</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
@@ -315,7 +320,8 @@ Welcome to "No Restrictions".</EnglishText>
     <Entry>
       <PointerOffset>274004</PointerOffset>
       <JapaneseText>逸品揃いだよ～</JapaneseText>
-      <EnglishText>We've got the best wares in town.</EnglishText>
+      <EnglishText>All our products
+are top quality~</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
@@ -334,7 +340,7 @@ Welcome to "No Restrictions".</EnglishText>
     <Entry>
       <PointerOffset>274012</PointerOffset>
       <JapaneseText>サンキューブルーベリー☆</JapaneseText>
-      <EnglishText>Why thank you, my little blueberry. </EnglishText>
+      <EnglishText>Thank you berry much~ ☆</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>21</Id>
@@ -345,8 +351,9 @@ Welcome to "No Restrictions".</EnglishText>
       <JapaneseText>よぃーす、
 こんな時だけど
 一応営業中よ</JapaneseText>
-      <EnglishText>Yo. 
-We're still open.</EnglishText>
+      <EnglishText>Heyo. Yeah, it's
+not a great time,
+but we are still open.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>22</Id>
@@ -356,7 +363,8 @@ We're still open.</EnglishText>
     <Entry>
       <PointerOffset>274016</PointerOffset>
       <JapaneseText>生活必需品だかんね</JapaneseText>
-      <EnglishText>People still gotta live, right?</EnglishText>
+      <EnglishText>We sell, like, essentials, so...
+People still gotta live, right?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>22</Id>
@@ -375,7 +383,7 @@ We're still open.</EnglishText>
     <Entry>
       <PointerOffset>274024</PointerOffset>
       <JapaneseText>気をつけていきなよぅ</JapaneseText>
-      <EnglishText>Careful on your way now.</EnglishText>
+      <EnglishText>Stay safe out there.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
@@ -386,8 +394,9 @@ We're still open.</EnglishText>
       <JapaneseText>よぃーす、
 どうかね、何か欲しいもんとか
 あったりせんかい</JapaneseText>
-      <EnglishText>Welcome. 
-Anything you need?</EnglishText>
+      <EnglishText>Heyo. So wassup,
+you got something
+you're after?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>26</Id>
@@ -416,7 +425,7 @@ Anything you need?</EnglishText>
     <Entry>
       <PointerOffset>274036</PointerOffset>
       <JapaneseText>さんくすですよぅ</JapaneseText>
-      <EnglishText>Thanks a bunch.</EnglishText>
+      <EnglishText>Thank.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>29</Id>
@@ -427,8 +436,9 @@ Anything you need?</EnglishText>
       <JapaneseText>世界が大変なのにこんなところで、
 暢気に買い物してんなよ
 とかって思ってるでしょ</JapaneseText>
-      <EnglishText>I bet you're thinking "How could she be out 
-shopping without a care in the world right now?"</EnglishText>
+      <EnglishText>I'm sure you're thinking, "How could
+she be out shopping so casually right
+now, of all times? Doesn't she know...?"</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>30</Id>
@@ -438,7 +448,7 @@ shopping without a care in the world right now?"</EnglishText>
     <Entry>
       <PointerOffset>274040</PointerOffset>
       <JapaneseText>あんたも同じよっ！！</JapaneseText>
-      <EnglishText>Well, you're doing the same, aren't you!?</EnglishText>
+      <EnglishText>Well, right back at you!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>30</Id>
@@ -449,8 +459,8 @@ shopping without a care in the world right now?"</EnglishText>
       <PointerOffset>274044</PointerOffset>
       <JapaneseText>人は生きてりゃ
 腹が減るのよ</JapaneseText>
-      <EnglishText>As long as you're alive, 
-you're gonna get hungry.</EnglishText>
+      <EnglishText>Long as you're alive, 
+you'll get hungry.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>32</Id>
@@ -462,9 +472,9 @@ you're gonna get hungry.</EnglishText>
       <JapaneseText>世界の危機も心配だけど、
 腹が減る心配を忘れる
 わけにゃいかんでしょーが</JapaneseText>
-      <EnglishText>Sure, the world's in a crisis right now, 
-but that doesn't mean I can forget about the 
-crisis of my stomach!</EnglishText>
+      <EnglishText>I'm concerned about the state of the world,
+of course, but I can't just *forget* to be
+concerned about my empty stomach, can I?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>32</Id>
@@ -476,9 +486,9 @@ crisis of my stomach!</EnglishText>
       <JapaneseText>まったく、世界の危機だの
 英雄だの、スペクタクルだの、
 そんなんじゃ腹は膨れないつーの</JapaneseText>
-      <EnglishText>Hmph. It's all "world's end" this, 
-"heroes" that, and "big spectacles"...
-Has nothing to do with my HUNGER, now does it!?</EnglishText>
+      <EnglishText>Sheesh. "The state of the world" this,
+"heroes" that. It's all one big spectacle,
+and spectacles don't fill your stomach.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>34</Id>
@@ -490,9 +500,9 @@ Has nothing to do with my HUNGER, now does it!?</EnglishText>
       <JapaneseText>私が欲しいのは今日の晩御飯の
 レシピなのよ、きれいに衣服の
 汚れが落ちる洗剤なのよっっ！</JapaneseText>
-      <EnglishText>What I want is tonight's dinner recipe 
-and detergent to clear out 
-the stains in my clothes!</EnglishText>
+      <EnglishText>All I want is a recipe for tonight's
+dinner, and a detergent to clean
+the stains from my clothes!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>34</Id>
@@ -504,9 +514,9 @@ the stains in my clothes!</EnglishText>
       <JapaneseText>あんたらがのうのうと旅
 できんのは、誰のおかげだか
 知ってるの！？</JapaneseText>
-      <EnglishText>Who do you think it's thanks to 
-that you can go frolicking 
-out on a journey, huh!?</EnglishText>
+      <EnglishText>You're out frolicking on your little journey,
+but do you ever stop and think whose
+hard work makes all that possible?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>36</Id>
@@ -518,9 +528,9 @@ out on a journey, huh!?</EnglishText>
       <JapaneseText>影で武器やら道具やらを
 揃えてくれる人がいるからよっ！
 覚えておきなさい！</JapaneseText>
-      <EnglishText>The people providing you items and 
-weapons behind the scenes, that's who!
-Don't forget that!</EnglishText>
+      <EnglishText>It's because of all the people behind the
+scenes supplying your weapons, your armor,
+your items! And don't you forget it!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>36</Id>
@@ -532,9 +542,9 @@ Don't forget that!</EnglishText>
       <JapaneseText>邪魔邪魔！
 ちょっとあんた、
 主人公気取り！？</JapaneseText>
-      <EnglishText>Out of my way! 
-What, you think you're a main character 
-or something!?</EnglishText>
+      <EnglishText>Excuse *you*!
+Talk about main
+character syndrome!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>38</Id>
@@ -546,8 +556,9 @@ or something!?</EnglishText>
       <JapaneseText>私の物語では私が主人公なのよっ！
 わかってるの！　あんたなんて
 脇役なんだからねっ！</JapaneseText>
-      <EnglishText>In my story, I'm the main character, got it!?
-You're nothing but a side character here!</EnglishText>
+      <EnglishText>In my story, *I'm* the main
+character! You got that!? The
+two of you are just NPCs!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>38</Id>
@@ -559,8 +570,9 @@ You're nothing but a side character here!</EnglishText>
       <JapaneseText>あんたらなんか私にしてみりゃ
 「クソ生意気なガキ」と
 「少しだけカワイイ娘」よ</JapaneseText>
-      <EnglishText>As far as I'm concered, you're just 
-a "self-centered brat" and a "slightly cute girl".</EnglishText>
+      <EnglishText>From my point of view,
+you're "Bratty Little Punk"
+and "Somewhat Cute-ish Girl."</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>40</Id>
@@ -572,8 +584,9 @@ a "self-centered brat" and a "slightly cute girl".</EnglishText>
       <JapaneseText>なんのことかわかんない！？
 この私が、いちいち説明なんて
 すると思う！？</JapaneseText>
-      <EnglishText>You don't get it!?
-As if I'd grace you with an explanation!</EnglishText>
+      <EnglishText>You still don't get it, do ya!?
+You think I'm gonna spell every
+little thing out for ya, don't ya!?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>40</Id>
@@ -584,7 +597,7 @@ As if I'd grace you with an explanation!</EnglishText>
   <Strings>
     <Section>Notice</Section>
     <Entry>
-      <PointerOffset>276046</PointerOffset>
+      <PointerOffset>94092</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -592,7 +605,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276065</PointerOffset>
+      <PointerOffset>95652</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -600,7 +613,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276095</PointerOffset>
+      <PointerOffset>100284</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -608,7 +621,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:91</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276300</PointerOffset>
+      <PointerOffset>102104</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -616,7 +629,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:79</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276333</PointerOffset>
+      <PointerOffset>102372</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -624,7 +637,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276398</PointerOffset>
+      <PointerOffset>103544</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -632,7 +645,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:77</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276434</PointerOffset>
+      <PointerOffset>103848</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -640,7 +653,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276505</PointerOffset>
+      <PointerOffset>104196</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -648,7 +661,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276571</PointerOffset>
+      <PointerOffset>105516</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -656,7 +669,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:75</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276610</PointerOffset>
+      <PointerOffset>105856</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -664,7 +677,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276686</PointerOffset>
+      <PointerOffset>106268</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -672,7 +685,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276757</PointerOffset>
+      <PointerOffset>106616</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -680,7 +693,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276834</PointerOffset>
+      <PointerOffset>108020</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -688,7 +701,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:118</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276861</PointerOffset>
+      <PointerOffset>108240</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -696,7 +709,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:104</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276952</PointerOffset>
+      <PointerOffset>108844</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -704,7 +717,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:105</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277038</PointerOffset>
+      <PointerOffset>109384</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -712,7 +725,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:106</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277119</PointerOffset>
+      <PointerOffset>109860</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -720,7 +733,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277195</PointerOffset>
+      <PointerOffset>110272</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -728,7 +741,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277266</PointerOffset>
+      <PointerOffset>110620</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -736,7 +749,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277343</PointerOffset>
+      <PointerOffset>111028</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -744,7 +757,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:89</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277479</PointerOffset>
+      <PointerOffset>111412</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -752,7 +765,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277512</PointerOffset>
+      <PointerOffset>112436</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -760,7 +773,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277556</PointerOffset>
+      <PointerOffset>112852</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -768,7 +781,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277671</PointerOffset>
+      <PointerOffset>115208</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -776,7 +789,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277742</PointerOffset>
+      <PointerOffset>117500</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -784,7 +797,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:76</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277792</PointerOffset>
+      <PointerOffset>117948</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -792,7 +805,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277919</PointerOffset>
+      <PointerOffset>120864</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -800,7 +813,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277962</PointerOffset>
+      <PointerOffset>122576</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -808,7 +821,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:94</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277981</PointerOffset>
+      <PointerOffset>123144</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -816,7 +829,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:32</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278111</PointerOffset>
+      <PointerOffset>124604</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -824,7 +837,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:73</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278481</PointerOffset>
+      <PointerOffset>140584</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -832,7 +845,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:21</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278534</PointerOffset>
+      <PointerOffset>140776</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -840,7 +853,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:132</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278837</PointerOffset>
+      <PointerOffset>158732</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -848,7 +861,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278913</PointerOffset>
+      <PointerOffset>159092</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -856,7 +869,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:123</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279068</PointerOffset>
+      <PointerOffset>168176</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -864,7 +877,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:102</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279176</PointerOffset>
+      <PointerOffset>176920</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -872,7 +885,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:111</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279350</PointerOffset>
+      <PointerOffset>179544</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -880,7 +893,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:101</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279426</PointerOffset>
+      <PointerOffset>180068</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -888,7 +901,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:112</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279524</PointerOffset>
+      <PointerOffset>181772</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -896,7 +909,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:103</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279630</PointerOffset>
+      <PointerOffset>185780</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -904,7 +917,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:98</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279696</PointerOffset>
+      <PointerOffset>190976</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -912,7 +925,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:121</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279749</PointerOffset>
+      <PointerOffset>194432</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -920,7 +933,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:85</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279863</PointerOffset>
+      <PointerOffset>207724</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -928,7 +941,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:88</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280060</PointerOffset>
+      <PointerOffset>210420</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -936,7 +949,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:117</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280110</PointerOffset>
+      <PointerOffset>220068</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -944,7 +957,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:9</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280155</PointerOffset>
+      <PointerOffset>224048</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -952,7 +965,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280209</PointerOffset>
+      <PointerOffset>225872</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -960,7 +973,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:6</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280302</PointerOffset>
+      <PointerOffset>228876</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -968,7 +981,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280367</PointerOffset>
+      <PointerOffset>229480</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -976,7 +989,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280432</PointerOffset>
+      <PointerOffset>230132</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -984,7 +997,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280497</PointerOffset>
+      <PointerOffset>230736</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -992,7 +1005,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280563</PointerOffset>
+      <PointerOffset>235700</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1000,7 +1013,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:36</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280611</PointerOffset>
+      <PointerOffset>241596</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1008,7 +1021,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:18</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280659</PointerOffset>
+      <PointerOffset>241908</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1016,7 +1029,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280713</PointerOffset>
+      <PointerOffset>242444</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1024,7 +1037,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:52</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280773</PointerOffset>
+      <PointerOffset>242912</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1032,7 +1045,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280827</PointerOffset>
+      <PointerOffset>243312</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1040,7 +1053,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:51</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280881</PointerOffset>
+      <PointerOffset>243780</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1048,7 +1061,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280984</PointerOffset>
+      <PointerOffset>258260</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1056,7 +1069,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:38</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281042</PointerOffset>
+      <PointerOffset>258428</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1064,7 +1077,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:39</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281171</PointerOffset>
+      <PointerOffset>262676</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1072,7 +1085,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:113</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281512</PointerOffset>
+      <PointerOffset>264868</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1080,7 +1093,7 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:115</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281713</PointerOffset>
+      <PointerOffset>265036</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1088,11 +1101,11 @@ As if I'd grace you with an explanation!</EnglishText>
       <Status>ref:Notice:114</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281974</PointerOffset>
+      <PointerOffset>267988</PointerOffset>
       <JapaneseText>いらっしゃいー
 道具屋「天地無用」だよ～</JapaneseText>
-      <EnglishText>Hey there!
-Welcome to "No Restrictions".</EnglishText>
+      <EnglishText>Hello and welcome! This is the
+item shop, "The Rightside Up"~</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>64</Id>
@@ -1100,9 +1113,10 @@ Welcome to "No Restrictions".</EnglishText>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281974</PointerOffset>
+      <PointerOffset>267988</PointerOffset>
       <JapaneseText>逸品揃いだよ～</JapaneseText>
-      <EnglishText>We've got the best wares in town.</EnglishText>
+      <EnglishText>All our products
+are top quality~</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>64</Id>
@@ -1110,20 +1124,21 @@ Welcome to "No Restrictions".</EnglishText>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282046</PointerOffset>
+      <PointerOffset>268196</PointerOffset>
       <JapaneseText>サンキューブルーベリー☆</JapaneseText>
-      <EnglishText>Why thank you, my little blueberry. </EnglishText>
+      <EnglishText>Thank you berry much~ ☆</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>66</Id>
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282101</PointerOffset>
+      <PointerOffset>268664</PointerOffset>
       <JapaneseText>君たちのバッグだったのか。
 よかった。落とし主が見つかって</JapaneseText>
-      <EnglishText>Oh, so this bag belongs to you?
-Thank goodness I found its owner.</EnglishText>
+      <EnglishText>So this bag is yours?
+Oh, thank goodness I
+finally found the owner.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>67</Id>

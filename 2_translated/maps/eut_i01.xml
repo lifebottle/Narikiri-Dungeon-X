@@ -4,6 +4,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>269704,269768,269832,270024,270088,270152,270600,270664,270728</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>「ホーリーナイト」の主</JapaneseText>
       <EnglishText>"Holy Knight" Owner</EnglishText>
       <Notes/>
@@ -12,6 +13,7 @@
     </Entry>
     <Entry>
       <PointerOffset>269896,269960</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>心配してる客</JapaneseText>
       <EnglishText>Anxious Customer</EnglishText>
       <Notes/>
@@ -20,6 +22,7 @@
     </Entry>
     <Entry>
       <PointerOffset>270216,270280,270344,270408,270472,270536</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>期待しすぎな客</JapaneseText>
       <EnglishText>Demanding Customer</EnglishText>
       <Notes/>
@@ -28,6 +31,7 @@
     </Entry>
     <Entry>
       <PointerOffset>270792,270856,270920,270984,271048,271112</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>ぜいたくな客</JapaneseText>
       <EnglishText>Spoiled Customer</EnglishText>
       <Notes/>
@@ -36,6 +40,7 @@
     </Entry>
     <Entry>
       <PointerOffset>271176,271240,271304,271560,271624,271688</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>「ホーリーナイト」店員</JapaneseText>
       <EnglishText>"Holy Knight" Clerk</EnglishText>
       <Notes/>
@@ -44,6 +49,7 @@
     </Entry>
     <Entry>
       <PointerOffset>271368,271432,271496</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>「ホーリーナイト」バイト</JapaneseText>
       <EnglishText>"Holy Knight" Part-Timer</EnglishText>
       <Notes/>
@@ -51,7 +57,7 @@
       <Status>Done</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>276197</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -59,7 +65,7 @@
       <Status>ref:Speaker:8</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>276238</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -67,7 +73,7 @@
       <Status>ref:Speaker:19</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>276264,276502,276567,276603,276674,276740,276779,276855,276926,276992,277003,277121,277207,277288,277364,277435,277501,277512,277681,277714,277725,277840,277950,277961,278088,278131,278316,279080,279091,279246,279354,279528,279604,279702,279808,279874,279927,280041,280238,280480,280545,280610,280675,281349,281690,281891</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -75,7 +81,7 @@
       <Status>ref:Speaker:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>278201,278649,280332,280386,280442,280740,280788,280836,280890,280950,281004,281058,281161,281219</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -83,7 +89,7 @@
       <Status>ref:Speaker:2</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>278703</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -94,7 +100,7 @@
   <Strings>
     <Section>Place</Section>
     <Entry>
-      <PointerOffset>282092</PointerOffset>
+      <PointerOffset>266800</PointerOffset>
       <JapaneseText>武器屋　ホーリーナイト</JapaneseText>
       <EnglishText>Weapon Shop - Holy Knight</EnglishText>
       <Notes/>
@@ -485,7 +491,7 @@ y'know, so check it out.</EnglishText>
     <Entry>
       <PointerOffset>274160</PointerOffset>
       <JapaneseText>_shop_</JapaneseText>
-      <EnglishText/>
+      <EnglishText>_shop_</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>31</Id>
@@ -753,7 +759,7 @@ shop with us in the future!</EnglishText>
   <Strings>
     <Section>Notice</Section>
     <Entry>
-      <PointerOffset>276226</PointerOffset>
+      <PointerOffset>93108</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -761,7 +767,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276245</PointerOffset>
+      <PointerOffset>94668</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -769,7 +775,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276275</PointerOffset>
+      <PointerOffset>99312</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -777,7 +783,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:91</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276480</PointerOffset>
+      <PointerOffset>101132</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -785,7 +791,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:79</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276513</PointerOffset>
+      <PointerOffset>101400</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -793,7 +799,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276578</PointerOffset>
+      <PointerOffset>102572</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -801,7 +807,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:77</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276614</PointerOffset>
+      <PointerOffset>102876</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -809,7 +815,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276685</PointerOffset>
+      <PointerOffset>103224</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -817,7 +823,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276751</PointerOffset>
+      <PointerOffset>104544</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -825,7 +831,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:75</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276790</PointerOffset>
+      <PointerOffset>104884</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -833,7 +839,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276866</PointerOffset>
+      <PointerOffset>105296</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -841,7 +847,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>276937</PointerOffset>
+      <PointerOffset>105644</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -849,7 +855,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277014</PointerOffset>
+      <PointerOffset>107048</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -857,7 +863,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:118</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277041</PointerOffset>
+      <PointerOffset>107268</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -865,7 +871,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:104</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277132</PointerOffset>
+      <PointerOffset>107872</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -873,7 +879,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:105</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277218</PointerOffset>
+      <PointerOffset>108412</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -881,7 +887,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:106</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277299</PointerOffset>
+      <PointerOffset>108888</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -889,7 +895,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277375</PointerOffset>
+      <PointerOffset>109300</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -897,7 +903,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277446</PointerOffset>
+      <PointerOffset>109648</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -905,7 +911,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277523</PointerOffset>
+      <PointerOffset>110056</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -913,7 +919,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:89</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277659</PointerOffset>
+      <PointerOffset>110440</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -921,7 +927,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277692</PointerOffset>
+      <PointerOffset>111464</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -929,7 +935,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277736</PointerOffset>
+      <PointerOffset>111880</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -937,7 +943,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277851</PointerOffset>
+      <PointerOffset>114472</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -945,7 +951,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277922</PointerOffset>
+      <PointerOffset>117000</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -953,7 +959,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:76</Status>
     </Entry>
     <Entry>
-      <PointerOffset>277972</PointerOffset>
+      <PointerOffset>117448</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -961,7 +967,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278099</PointerOffset>
+      <PointerOffset>120600</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -969,7 +975,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278142</PointerOffset>
+      <PointerOffset>122548</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -977,7 +983,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:94</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278161</PointerOffset>
+      <PointerOffset>123352</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -985,7 +991,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:32</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278291</PointerOffset>
+      <PointerOffset>124812</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -993,7 +999,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:73</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278661</PointerOffset>
+      <PointerOffset>140792</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1001,7 +1007,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:21</Status>
     </Entry>
     <Entry>
-      <PointerOffset>278714</PointerOffset>
+      <PointerOffset>140984</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1009,7 +1015,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:132</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279026</PointerOffset>
+      <PointerOffset>159140</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1017,7 +1023,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279102</PointerOffset>
+      <PointerOffset>159500</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1025,7 +1031,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:123</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279257</PointerOffset>
+      <PointerOffset>168584</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1033,7 +1039,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:102</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279365</PointerOffset>
+      <PointerOffset>177328</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1041,7 +1047,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:111</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279539</PointerOffset>
+      <PointerOffset>179952</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1049,7 +1055,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:101</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279615</PointerOffset>
+      <PointerOffset>180476</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1057,7 +1063,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:112</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279713</PointerOffset>
+      <PointerOffset>182180</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1065,7 +1071,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:103</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279819</PointerOffset>
+      <PointerOffset>186188</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1073,7 +1079,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:98</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279885</PointerOffset>
+      <PointerOffset>191384</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1081,7 +1087,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:121</Status>
     </Entry>
     <Entry>
-      <PointerOffset>279938</PointerOffset>
+      <PointerOffset>194840</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1089,7 +1095,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:85</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280052</PointerOffset>
+      <PointerOffset>208000</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1097,7 +1103,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:88</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280249</PointerOffset>
+      <PointerOffset>210696</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1105,7 +1111,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:117</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280299</PointerOffset>
+      <PointerOffset>220180</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1113,7 +1119,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:9</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280344</PointerOffset>
+      <PointerOffset>224160</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1121,7 +1127,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280398</PointerOffset>
+      <PointerOffset>225984</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1129,7 +1135,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:6</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280491</PointerOffset>
+      <PointerOffset>228988</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1137,7 +1143,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280556</PointerOffset>
+      <PointerOffset>229592</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1145,7 +1151,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280621</PointerOffset>
+      <PointerOffset>230244</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1153,7 +1159,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280686</PointerOffset>
+      <PointerOffset>230848</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1161,7 +1167,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280752</PointerOffset>
+      <PointerOffset>235812</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1169,7 +1175,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:36</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280800</PointerOffset>
+      <PointerOffset>241604</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1177,7 +1183,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:18</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280848</PointerOffset>
+      <PointerOffset>241916</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1185,7 +1191,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280902</PointerOffset>
+      <PointerOffset>242452</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1193,7 +1199,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:52</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280962</PointerOffset>
+      <PointerOffset>242920</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1201,7 +1207,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281016</PointerOffset>
+      <PointerOffset>243320</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1209,7 +1215,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:51</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281070</PointerOffset>
+      <PointerOffset>243788</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1217,7 +1223,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281173</PointerOffset>
+      <PointerOffset>258164</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1225,7 +1231,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:38</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281231</PointerOffset>
+      <PointerOffset>258332</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1233,7 +1239,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:39</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281360</PointerOffset>
+      <PointerOffset>262580</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1241,7 +1247,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:113</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281701</PointerOffset>
+      <PointerOffset>264772</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1249,7 +1255,7 @@ shop with us in the future!</EnglishText>
       <Status>ref:Notice:115</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281902</PointerOffset>
+      <PointerOffset>264940</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>

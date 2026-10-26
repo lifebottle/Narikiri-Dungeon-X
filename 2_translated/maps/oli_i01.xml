@@ -4,6 +4,7 @@
     <Section>Speaker</Section>
     <Entry>
       <PointerOffset>270196,270324,271156,271284</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>「ガーリック」の売り子</JapaneseText>
       <EnglishText>"Garlic" Salesperson</EnglishText>
       <Notes/>
@@ -12,14 +13,16 @@
     </Entry>
     <Entry>
       <PointerOffset>270260,271220,271412,272372</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>To Do</Status>
     </Entry>
     <Entry>
       <PointerOffset>270388,270452,270516,270580,270644,270708</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>うつろな吟遊詩人</JapaneseText>
       <EnglishText>Wandering Minstrel</EnglishText>
       <Notes/>
@@ -28,6 +31,7 @@
     </Entry>
     <Entry>
       <PointerOffset>270772,270836,270900,270964,271028,271092</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>話が長い女性</JapaneseText>
       <EnglishText>Overly Chatty Woman</EnglishText>
       <Notes/>
@@ -36,6 +40,7 @@
     </Entry>
     <Entry>
       <PointerOffset>271348,271476,272308,272436</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>「ガーリック」店番</JapaneseText>
       <EnglishText>"Garlic" Shopkeeper</EnglishText>
       <Notes/>
@@ -44,6 +49,7 @@
     </Entry>
     <Entry>
       <PointerOffset>271540,271604,271668,271732,271796,271860</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>&lt;Arche&gt;ファン</JapaneseText>
       <EnglishText>Fan of &lt;Arche&gt;</EnglishText>
       <Notes/>
@@ -52,6 +58,7 @@
     </Entry>
     <Entry>
       <PointerOffset>271924,271988,272052,272116,272180,272244</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>早耳の女性</JapaneseText>
       <EnglishText>Grapevine Woman</EnglishText>
       <Notes/>
@@ -60,6 +67,7 @@
     </Entry>
     <Entry>
       <PointerOffset>272500,272564,272628,272692,272756,272820</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>バジリスクを想う少年</JapaneseText>
       <EnglishText>Basilisk-Sympathetic Boy</EnglishText>
       <Notes/>
@@ -68,6 +76,7 @@
     </Entry>
     <Entry>
       <PointerOffset>272884,272948,273012,273076,273140,273204</PointerOffset>
+      <MaxLength>48</MaxLength>
       <JapaneseText>語り伝える男性</JapaneseText>
       <EnglishText>Legend-Telling Man</EnglishText>
       <Notes/>
@@ -75,7 +84,7 @@
       <Status>Editing</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>279985</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -83,7 +92,7 @@
       <Status>ref:Speaker:8</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>280026</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -91,7 +100,7 @@
       <Status>ref:Speaker:19</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>280052,280290,280355,280391,280462,280528,280567,280643,280714,280780,280791,280909,280995,281076,281152,281223,281289,281300,281469,281502,281513,281628,281738,281749,281876,281919,282104,282868,282879,283034,283142,283316,283392,283490,283596,283662,283715,283829,284026,284268,284333,284398,284463,285137,285478,285679</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -99,7 +108,7 @@
       <Status>ref:Speaker:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>281989,282437,284120,284174,284230,284528,284576,284624,284678,284738,284792,284846,284949,285007</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -107,7 +116,7 @@
       <Status>ref:Speaker:2</Status>
     </Entry>
     <Entry>
-      <PointerOffset/>
+      <PointerOffset>282491</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -118,7 +127,7 @@
   <Strings>
     <Section>Place</Section>
     <Entry>
-      <PointerOffset>285884</PointerOffset>
+      <PointerOffset>266652</PointerOffset>
       <JapaneseText>武器屋　ガーリック</JapaneseText>
       <EnglishText>Weapon Shop - Garlic</EnglishText>
       <Notes/>
@@ -1262,7 +1271,7 @@ that I could start my own lab.</EnglishText>
   <Strings>
     <Section>Notice</Section>
     <Entry>
-      <PointerOffset>280014</PointerOffset>
+      <PointerOffset>93076</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1270,7 +1279,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280033</PointerOffset>
+      <PointerOffset>94636</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1278,7 +1287,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:126</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280063</PointerOffset>
+      <PointerOffset>99280</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1286,7 +1295,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:91</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280268</PointerOffset>
+      <PointerOffset>101100</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1294,7 +1303,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:79</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280301</PointerOffset>
+      <PointerOffset>101368</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1302,7 +1311,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280366</PointerOffset>
+      <PointerOffset>102540</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1310,7 +1319,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:77</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280402</PointerOffset>
+      <PointerOffset>102844</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1318,7 +1327,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280473</PointerOffset>
+      <PointerOffset>103192</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1326,7 +1335,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280539</PointerOffset>
+      <PointerOffset>104512</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1334,7 +1343,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:75</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280578</PointerOffset>
+      <PointerOffset>104852</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1342,7 +1351,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280654</PointerOffset>
+      <PointerOffset>105264</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1350,7 +1359,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280725</PointerOffset>
+      <PointerOffset>105612</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1358,7 +1367,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280802</PointerOffset>
+      <PointerOffset>107016</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1366,7 +1375,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:118</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280829</PointerOffset>
+      <PointerOffset>107236</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1374,7 +1383,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:104</Status>
     </Entry>
     <Entry>
-      <PointerOffset>280920</PointerOffset>
+      <PointerOffset>107840</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1382,7 +1391,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:105</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281006</PointerOffset>
+      <PointerOffset>108380</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1390,7 +1399,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:106</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281087</PointerOffset>
+      <PointerOffset>108856</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1398,7 +1407,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:107</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281163</PointerOffset>
+      <PointerOffset>109268</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1406,7 +1415,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:108</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281234</PointerOffset>
+      <PointerOffset>109616</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1414,7 +1423,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:109</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281311</PointerOffset>
+      <PointerOffset>110024</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1422,7 +1431,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:89</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281447</PointerOffset>
+      <PointerOffset>110408</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1430,7 +1439,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281480</PointerOffset>
+      <PointerOffset>111432</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1438,7 +1447,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:80</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281524</PointerOffset>
+      <PointerOffset>111848</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1446,7 +1455,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281639</PointerOffset>
+      <PointerOffset>114440</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1454,7 +1463,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281710</PointerOffset>
+      <PointerOffset>116968</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1462,7 +1471,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:76</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281760</PointerOffset>
+      <PointerOffset>117416</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1470,7 +1479,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281887</PointerOffset>
+      <PointerOffset>120568</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1478,7 +1487,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:116</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281930</PointerOffset>
+      <PointerOffset>122516</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1486,7 +1495,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:94</Status>
     </Entry>
     <Entry>
-      <PointerOffset>281949</PointerOffset>
+      <PointerOffset>123320</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1494,7 +1503,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:32</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282079</PointerOffset>
+      <PointerOffset>124780</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1502,7 +1511,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:73</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282449</PointerOffset>
+      <PointerOffset>140760</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1510,7 +1519,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:21</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282502</PointerOffset>
+      <PointerOffset>140952</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1518,7 +1527,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:132</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282814</PointerOffset>
+      <PointerOffset>159108</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1526,7 +1535,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:110</Status>
     </Entry>
     <Entry>
-      <PointerOffset>282890</PointerOffset>
+      <PointerOffset>159468</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1534,7 +1543,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:123</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283045</PointerOffset>
+      <PointerOffset>168552</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1542,7 +1551,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:102</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283153</PointerOffset>
+      <PointerOffset>177296</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1550,7 +1559,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:111</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283327</PointerOffset>
+      <PointerOffset>179920</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1558,7 +1567,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:101</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283403</PointerOffset>
+      <PointerOffset>180444</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1566,7 +1575,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:112</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283501</PointerOffset>
+      <PointerOffset>182148</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1574,7 +1583,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:103</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283607</PointerOffset>
+      <PointerOffset>186156</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1582,7 +1591,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:98</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283673</PointerOffset>
+      <PointerOffset>191352</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1590,7 +1599,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:121</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283726</PointerOffset>
+      <PointerOffset>194808</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1598,7 +1607,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:85</Status>
     </Entry>
     <Entry>
-      <PointerOffset>283840</PointerOffset>
+      <PointerOffset>207968</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1606,7 +1615,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:88</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284037</PointerOffset>
+      <PointerOffset>210664</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1614,7 +1623,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:117</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284087</PointerOffset>
+      <PointerOffset>220148</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1622,7 +1631,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:9</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284132</PointerOffset>
+      <PointerOffset>224128</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1630,7 +1639,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:7</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284186</PointerOffset>
+      <PointerOffset>225952</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1638,7 +1647,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:6</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284279</PointerOffset>
+      <PointerOffset>228956</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1646,7 +1655,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284344</PointerOffset>
+      <PointerOffset>229560</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1654,7 +1663,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284409</PointerOffset>
+      <PointerOffset>230212</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1662,7 +1671,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284474</PointerOffset>
+      <PointerOffset>230816</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1670,7 +1679,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:119</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284540</PointerOffset>
+      <PointerOffset>235780</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1678,7 +1687,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:36</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284588</PointerOffset>
+      <PointerOffset>241572</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1686,7 +1695,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:18</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284636</PointerOffset>
+      <PointerOffset>241884</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1694,7 +1703,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284690</PointerOffset>
+      <PointerOffset>242420</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1702,7 +1711,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:52</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284750</PointerOffset>
+      <PointerOffset>242888</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1710,7 +1719,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284804</PointerOffset>
+      <PointerOffset>243288</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1718,7 +1727,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:51</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284858</PointerOffset>
+      <PointerOffset>243756</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1726,7 +1735,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:60</Status>
     </Entry>
     <Entry>
-      <PointerOffset>284961</PointerOffset>
+      <PointerOffset>258132</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1734,7 +1743,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:38</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285019</PointerOffset>
+      <PointerOffset>258300</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1742,7 +1751,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:39</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285148</PointerOffset>
+      <PointerOffset>262548</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1750,7 +1759,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:113</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285489</PointerOffset>
+      <PointerOffset>264740</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
@@ -1758,7 +1767,7 @@ that I could start my own lab.</EnglishText>
       <Status>ref:Notice:115</Status>
     </Entry>
     <Entry>
-      <PointerOffset>285690</PointerOffset>
+      <PointerOffset>264908</PointerOffset>
       <JapaneseText/>
       <EnglishText/>
       <Notes/>
