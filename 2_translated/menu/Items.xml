@@ -36,7 +36,7 @@
     <Entry>
       <PointerOffset>152</PointerOffset>
       <JapaneseText>ＨＰ３０％回復</JapaneseText>
-      <EnglishText>Restores 30% of max HP.</EnglishText>
+      <EnglishText>Restores 30% of HP.</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>Editing</Status>
@@ -44,7 +44,7 @@
     <Entry>
       <PointerOffset>156</PointerOffset>
       <JapaneseText>アップル味のぷるぷるグミ</JapaneseText>
-      <EnglishText>A fresh apple flavored gummi.</EnglishText>
+      <EnglishText>A wibbly-wobbly apple-flavored gel.</EnglishText>
       <Notes/>
       <Id>6</Id>
       <Status>Editing</Status>
@@ -60,7 +60,7 @@
     <Entry>
       <PointerOffset>236</PointerOffset>
       <JapaneseText>最大ＥＢＧの３０％分回復</JapaneseText>
-      <EnglishText>Restores 30% EBG.</EnglishText>
+      <EnglishText>Restores 30% of max EBG.</EnglishText>
       <Notes/>
       <Id>8</Id>
       <Status>Editing</Status>
@@ -68,7 +68,7 @@
     <Entry>
       <PointerOffset>240</PointerOffset>
       <JapaneseText>オレンジ味のジューシーなグミ</JapaneseText>
-      <EnglishText>A juicy orange flavored gummi.</EnglishText>
+      <EnglishText>A juicy, orange-flavored gel.</EnglishText>
       <Notes/>
       <Id>9</Id>
       <Status>Editing</Status>
@@ -84,7 +84,7 @@
     <Entry>
       <PointerOffset>320</PointerOffset>
       <JapaneseText>ＨＰ６０％回復</JapaneseText>
-      <EnglishText>Restores 60% of max HP.</EnglishText>
+      <EnglishText>Restores 60% of HP.</EnglishText>
       <Notes/>
       <Id>11</Id>
       <Status>Editing</Status>
@@ -92,7 +92,7 @@
     <Entry>
       <PointerOffset>324</PointerOffset>
       <JapaneseText>レモン味のさわやかグミ</JapaneseText>
-      <EnglishText>A fresh lemon flavored gummi.</EnglishText>
+      <EnglishText>A refreshing, lemon-flavored gel.</EnglishText>
       <Notes/>
       <Id>12</Id>
       <Status>Editing</Status>
@@ -108,7 +108,7 @@
     <Entry>
       <PointerOffset>404</PointerOffset>
       <JapaneseText>最大ＥＢＧの６０％分回復</JapaneseText>
-      <EnglishText>Restores 60% EBG.</EnglishText>
+      <EnglishText>Restores 60% of max EBG.</EnglishText>
       <Notes/>
       <Id>14</Id>
       <Status>Editing</Status>
@@ -116,7 +116,7 @@
     <Entry>
       <PointerOffset>408</PointerOffset>
       <JapaneseText>パイン味の甘酸っぱいグミ</JapaneseText>
-      <EnglishText>A sour pineapple flavored gummi.</EnglishText>
+      <EnglishText>A sweet and tart pineapple-flavored gel.</EnglishText>
       <Notes/>
       <Id>15</Id>
       <Status>Editing</Status>
@@ -133,8 +133,8 @@
       <PointerOffset>488</PointerOffset>
       <JapaneseText>ＨＰ３０％回復
 最大ＥＢＧの３０％分回復</JapaneseText>
-      <EnglishText>Restores 30% of max HP.
-Restores 30% EBG.</EnglishText>
+      <EnglishText>Restores 30% of HP.
+Restores 30% of max EBG.</EnglishText>
       <Notes/>
       <Id>17</Id>
       <Status>Editing</Status>
@@ -142,7 +142,7 @@ Restores 30% EBG.</EnglishText>
     <Entry>
       <PointerOffset>492</PointerOffset>
       <JapaneseText>様々なフルーツの味を混ぜ合わせたグミ</JapaneseText>
-      <EnglishText>A gummi with a mixed flavor.</EnglishText>
+      <EnglishText>A gel with a mixture of fruit flavors.</EnglishText>
       <Notes/>
       <Id>18</Id>
       <Status>Editing</Status>
@@ -159,8 +159,8 @@ Restores 30% EBG.</EnglishText>
       <PointerOffset>572</PointerOffset>
       <JapaneseText>ＨＰ６０％回復
 最大ＥＢＧの６０％分回復</JapaneseText>
-      <EnglishText>Restores 60% of max HP.
-Restores 60% EBG.</EnglishText>
+      <EnglishText>Restores 60% of  HP.
+Restores 60% of max EBG.</EnglishText>
       <Notes/>
       <Id>20</Id>
       <Status>Editing</Status>
@@ -168,7 +168,7 @@ Restores 60% EBG.</EnglishText>
     <Entry>
       <PointerOffset>576</PointerOffset>
       <JapaneseText>ある意味ミラクルな味のグミ</JapaneseText>
-      <EnglishText>A gummi with a miraculous flavor.</EnglishText>
+      <EnglishText>A gel with a somehow miraculous flavor.</EnglishText>
       <Notes/>
       <Id>21</Id>
       <Status>Editing</Status>
@@ -184,7 +184,7 @@ Restores 60% EBG.</EnglishText>
     <Entry>
       <PointerOffset>656</PointerOffset>
       <JapaneseText>全グミ効果のどれかが発動</JapaneseText>
-      <EnglishText>Triggers a random gel effect.</EnglishText>
+      <EnglishText>Triggers the effect of any gel at random.</EnglishText>
       <Notes/>
       <Id>23</Id>
       <Status>Editing</Status>
@@ -192,8 +192,8 @@ Restores 60% EBG.</EnglishText>
     <Entry>
       <PointerOffset>660</PointerOffset>
       <JapaneseText>ヘンなものは入っていないと業者は言うが……？</JapaneseText>
-      <EnglishText>Maybe it's something good, maybe it's not.
-You won't know until you try it.</EnglishText>
+      <EnglishText>The manufacturers would assure you
+there's nothing weird in there, but...</EnglishText>
       <Notes/>
       <Id>24</Id>
       <Status>Editing</Status>
@@ -217,7 +217,8 @@ You won't know until you try it.</EnglishText>
     <Entry>
       <PointerOffset>744</PointerOffset>
       <JapaneseText>とっても便利だが材料がとっても貴重らしい</JapaneseText>
-      <EnglishText>A very useful, but rare gummi.</EnglishText>
+      <EnglishText>A very useful gel, but made
+from very valuable ingredients.</EnglishText>
       <Notes/>
       <Id>27</Id>
       <Status>Editing</Status>
@@ -233,8 +234,8 @@ You won't know until you try it.</EnglishText>
     <Entry>
       <PointerOffset>824</PointerOffset>
       <JapaneseText>約６０秒の間、敵を引き寄せる</JapaneseText>
-      <EnglishText>For 60 seconds, you will
-attract the enemy's attention.</EnglishText>
+      <EnglishText>For ~60 seconds, you will
+attract enemies to you.</EnglishText>
       <Notes/>
       <Id>29</Id>
       <Status>Editing</Status>
@@ -242,8 +243,8 @@ attract the enemy's attention.</EnglishText>
     <Entry>
       <PointerOffset>828</PointerOffset>
       <JapaneseText>周囲にいる魔物を引き寄せる、とても危険な薬</JapaneseText>
-      <EnglishText>A dangerous bottle sealed with darkness.
-Attracts demons to you.</EnglishText>
+      <EnglishText>It draws in all the monsters in your
+vicinity. A very dangerous concoction...</EnglishText>
       <Notes/>
       <Id>30</Id>
       <Status>Editing</Status>
@@ -259,8 +260,8 @@ Attracts demons to you.</EnglishText>
     <Entry>
       <PointerOffset>908</PointerOffset>
       <JapaneseText>約６０秒の間、敵が逃げていく</JapaneseText>
-      <EnglishText>For 60 seconds, enemies will
-avoid your position.</EnglishText>
+      <EnglishText>For ~60 seconds, enemies
+will run away from you.</EnglishText>
       <Notes/>
       <Id>32</Id>
       <Status>Editing</Status>
@@ -269,8 +270,8 @@ avoid your position.</EnglishText>
       <PointerOffset>912</PointerOffset>
       <JapaneseText>敵意ある者を寄せ付けない聖水。
 別に臭いわけではない</JapaneseText>
-      <EnglishText>A saintly bottle filled with light.
-Prevents hostiles from approaching.</EnglishText>
+      <EnglishText>Holy water that repels those with malicious
+intent. No, it's not because it smells bad.</EnglishText>
       <Notes/>
       <Id>33</Id>
       <Status>Editing</Status>
@@ -294,8 +295,8 @@ Prevents hostiles from approaching.</EnglishText>
     <Entry>
       <PointerOffset>996</PointerOffset>
       <JapaneseText>即効性の気付け薬</JapaneseText>
-      <EnglishText>A bottle of spirited water that
-acts as a medicine.</EnglishText>
+      <EnglishText>A medicine that brings you to
+consciousness, with immediate effect.</EnglishText>
       <Notes/>
       <Id>36</Id>
       <Status>Editing</Status>
@@ -311,7 +312,8 @@ acts as a medicine.</EnglishText>
     <Entry>
       <PointerOffset>1076</PointerOffset>
       <JapaneseText>状態異常にかからなくなる</JapaneseText>
-      <EnglishText>Prevents all status ailments during battle.</EnglishText>
+      <EnglishText>Prevents physical
+ailments during battle.</EnglishText>
       <Notes/>
       <Id>38</Id>
       <Status>Editing</Status>
@@ -320,8 +322,8 @@ acts as a medicine.</EnglishText>
       <PointerOffset>1080</PointerOffset>
       <JapaneseText>状態異常を無効化してくれる薬。
 味はまあまあ</JapaneseText>
-      <EnglishText>An abnormal medicine.
-The flavor is so-so.</EnglishText>
+      <EnglishText>A medicine to fend off physical
+ailments. It tastes okay.</EnglishText>
       <Notes/>
       <Id>39</Id>
       <Status>Editing</Status>
@@ -337,7 +339,8 @@ The flavor is so-so.</EnglishText>
     <Entry>
       <PointerOffset>1160</PointerOffset>
       <JapaneseText>状態変化にかからなくなる</JapaneseText>
-      <EnglishText>Prevents all status changes during battle.</EnglishText>
+      <EnglishText>Prevents magical
+ailments during battle.</EnglishText>
       <Notes/>
       <Id>41</Id>
       <Status>Editing</Status>
@@ -346,8 +349,8 @@ The flavor is so-so.</EnglishText>
       <PointerOffset>1164</PointerOffset>
       <JapaneseText>状態変化にかからなくなる薬。
 かなり苦い……</JapaneseText>
-      <EnglishText>An abnormal medicine.
-It is very bitter...</EnglishText>
+      <EnglishText>A medicine to find off magical
+ailments. It is very bitter...</EnglishText>
       <Notes/>
       <Id>42</Id>
       <Status>Editing</Status>
@@ -363,8 +366,8 @@ It is very bitter...</EnglishText>
     <Entry>
       <PointerOffset>1244</PointerOffset>
       <JapaneseText>戦闘不能・停止以外の状態異常・変化をすべて回復</JapaneseText>
-      <EnglishText>Cures all status ailments and
-status changes except KO.</EnglishText>
+      <EnglishText>Cures all ailments of both
+types, except KO and Stop.</EnglishText>
       <Notes/>
       <Id>44</Id>
       <Status>Editing</Status>
@@ -373,8 +376,8 @@ status changes except KO.</EnglishText>
       <PointerOffset>1248</PointerOffset>
       <JapaneseText>状態異常・変化をすべて回復できる万能薬。
 いざというときのために</JapaneseText>
-      <EnglishText>A panacea that heals all status abnormalities.
-Use in a critical situation.</EnglishText>
+      <EnglishText>A panacea that can cure all
+ailments. For emergency use.</EnglishText>
       <Notes/>
       <Id>45</Id>
       <Status>Editing</Status>
@@ -390,7 +393,8 @@ Use in a critical situation.</EnglishText>
     <Entry>
       <PointerOffset>1328</PointerOffset>
       <JapaneseText>戦闘不能・停止以外の状態異常を全解除</JapaneseText>
-      <EnglishText>Cures all status ailments except KO.</EnglishText>
+      <EnglishText>Cures all physical ailments
+except KO and Stop.</EnglishText>
       <Notes/>
       <Id>47</Id>
       <Status>Editing</Status>
@@ -399,8 +403,8 @@ Use in a critical situation.</EnglishText>
       <PointerOffset>1332</PointerOffset>
       <JapaneseText>戦闘後にも効果が継続される状態異常を
 すべて回復することができるステキな薬</JapaneseText>
-      <EnglishText>A wonderful medicine.
-After battle, it restores all status abnormalities.</EnglishText>
+      <EnglishText>A wonderful medicine. It can heal all
+physical ailments—even outside of battle.</EnglishText>
       <Notes/>
       <Id>48</Id>
       <Status>Editing</Status>
@@ -416,7 +420,7 @@ After battle, it restores all status abnormalities.</EnglishText>
     <Entry>
       <PointerOffset>1412</PointerOffset>
       <JapaneseText>状態変化を全解除</JapaneseText>
-      <EnglishText>Cures all status changes.</EnglishText>
+      <EnglishText>Cures all magical ailments.</EnglishText>
       <Notes/>
       <Id>50</Id>
       <Status>Editing</Status>
@@ -425,8 +429,8 @@ After battle, it restores all status abnormalities.</EnglishText>
       <PointerOffset>1416</PointerOffset>
       <JapaneseText>戦闘中のみ効果のある状態変化を
 すべて解除することができる</JapaneseText>
-      <EnglishText>A wonderful medicine.
-During battle, it restores all status changes.</EnglishText>
+      <EnglishText>Removes all magical ailments—though
+they don't last outside of battle, anyway.</EnglishText>
       <Notes/>
       <Id>51</Id>
       <Status>Editing</Status>
@@ -451,8 +455,8 @@ During battle, it restores all status changes.</EnglishText>
       <PointerOffset>1500</PointerOffset>
       <JapaneseText>敵･味方問わずすべてのダメージが半減する
 不思議空間を作り出してくれる</JapaneseText>
-      <EnglishText>Creates a mysterious space that reduces
-all damage by 50%, regardless of ally or enemy.</EnglishText>
+      <EnglishText>Creates a mysterious space that reduces all
+damage by 50% for allies and enemies alike.</EnglishText>
       <Notes/>
       <Id>54</Id>
       <Status>Editing</Status>
@@ -468,8 +472,8 @@ all damage by 50%, regardless of ally or enemy.</EnglishText>
     <Entry>
       <PointerOffset>1580</PointerOffset>
       <JapaneseText>一定時間、攻撃力３０％増加</JapaneseText>
-      <EnglishText>For a short period of time,
-attack power will increase by 30%.</EnglishText>
+      <EnglishText>For a set period of time,
+increases attack power by 30%.</EnglishText>
       <Notes/>
       <Id>56</Id>
       <Status>Editing</Status>
@@ -478,8 +482,8 @@ attack power will increase by 30%.</EnglishText>
       <PointerOffset>1584</PointerOffset>
       <JapaneseText>一定時間攻撃力を増加させるドーピング薬。
 ちょっと辛い</JapaneseText>
-      <EnglishText>An agent that increases attack power over time.
-It tastes a little harsh.</EnglishText>
+      <EnglishText>A doping agent that increases attack
+power for a set time. It's a little spicy.</EnglishText>
       <Notes/>
       <Id>57</Id>
       <Status>Editing</Status>
@@ -495,8 +499,8 @@ It tastes a little harsh.</EnglishText>
     <Entry>
       <PointerOffset>1664</PointerOffset>
       <JapaneseText>一定時間、防御力５０％増加</JapaneseText>
-      <EnglishText>For a short period of time,
-defense will increase by 50%.</EnglishText>
+      <EnglishText>For a set period of time,
+increases defense power by 50%.</EnglishText>
       <Notes/>
       <Id>59</Id>
       <Status>Editing</Status>
@@ -505,8 +509,8 @@ defense will increase by 50%.</EnglishText>
       <PointerOffset>1668</PointerOffset>
       <JapaneseText>一定時間防御力を増加させるドーピング薬。
 ちょっと塩辛い</JapaneseText>
-      <EnglishText>An agent that increases defense over time.
-It tastes a little salty.</EnglishText>
+      <EnglishText>A doping agent that increases defense
+power for a set time. It's a little salty.</EnglishText>
       <Notes/>
       <Id>60</Id>
       <Status>Editing</Status>
@@ -522,8 +526,8 @@ It tastes a little salty.</EnglishText>
     <Entry>
       <PointerOffset>1748</PointerOffset>
       <JapaneseText>一定時間、術攻撃力３０％増加</JapaneseText>
-      <EnglishText>For a short period of time,
-magic attack power will increase by 30%.</EnglishText>
+      <EnglishText>For a set period of time, increases
+magic attack power by 30%.</EnglishText>
       <Notes/>
       <Id>62</Id>
       <Status>Editing</Status>
@@ -532,8 +536,8 @@ magic attack power will increase by 30%.</EnglishText>
       <PointerOffset>1752</PointerOffset>
       <JapaneseText>一定時間術攻撃力を増加させるドーピング薬。
 ヒンヤリとする</JapaneseText>
-      <EnglishText>An agent that increases magic power over time.
-It cools and relaxes you.</EnglishText>
+      <EnglishText>A doping agent that increases magic
+power for a set time. It's pleasantly cool.</EnglishText>
       <Notes/>
       <Id>63</Id>
       <Status>Editing</Status>
@@ -549,8 +553,8 @@ It cools and relaxes you.</EnglishText>
     <Entry>
       <PointerOffset>1832</PointerOffset>
       <JapaneseText>一定時間、術防御力５０％増加</JapaneseText>
-      <EnglishText>For a short period of time,
-magic defense will increase by 50%.</EnglishText>
+      <EnglishText>For a set period of time, increases
+magic defense power by 50%.</EnglishText>
       <Notes/>
       <Id>65</Id>
       <Status>Editing</Status>
@@ -559,8 +563,8 @@ magic defense will increase by 50%.</EnglishText>
       <PointerOffset>1836</PointerOffset>
       <JapaneseText>一定時間術防御力を増加させるドーピング薬。
 体がほんのり暖かくなる</JapaneseText>
-      <EnglishText>An agent that increases magic defense over time.
-It warms your body.</EnglishText>
+      <EnglishText>A doping agent that increases magic
+defense for a set time. It's pleasantly warm.</EnglishText>
       <Notes/>
       <Id>66</Id>
       <Status>Editing</Status>
@@ -576,8 +580,8 @@ It warms your body.</EnglishText>
     <Entry>
       <PointerOffset>1916</PointerOffset>
       <JapaneseText>一定時間、敏捷５０％増加</JapaneseText>
-      <EnglishText>For a short period of time,
-agility will increase by 50%.</EnglishText>
+      <EnglishText>For a set period of time,
+increases agility by 50%.</EnglishText>
       <Notes/>
       <Id>68</Id>
       <Status>Editing</Status>
@@ -586,8 +590,8 @@ agility will increase by 50%.</EnglishText>
       <PointerOffset>1920</PointerOffset>
       <JapaneseText>一定時間敏捷性を増加させるドーピング薬。
 無味無臭</JapaneseText>
-      <EnglishText>An agent that increases agility over time.
-It has no odor or taste.</EnglishText>
+      <EnglishText>A doping agent that increases agility
+for a set time. It has no taste or smell.</EnglishText>
       <Notes/>
       <Id>69</Id>
       <Status>Editing</Status>
@@ -603,8 +607,8 @@ It has no odor or taste.</EnglishText>
     <Entry>
       <PointerOffset>2000</PointerOffset>
       <JapaneseText>一定時間、詠唱速度５０％増加</JapaneseText>
-      <EnglishText>For a short period of time,
-casting speed will increase by 50%.</EnglishText>
+      <EnglishText>For a set period of time,
+increases casting speed by 50%.</EnglishText>
       <Notes/>
       <Id>71</Id>
       <Status>Editing</Status>
@@ -613,8 +617,8 @@ casting speed will increase by 50%.</EnglishText>
       <PointerOffset>2004</PointerOffset>
       <JapaneseText>一定時間詠唱速度を増加させるドーピング薬。
 ねっとりと絡みつく飲みごたえ</JapaneseText>
-      <EnglishText>An agent that increases casting speed over time.
-It is somewhat sticky.</EnglishText>
+      <EnglishText>A doping agent that increases casting speed
+for a set time. It's viscous. Hard to swallow.</EnglishText>
       <Notes/>
       <Id>72</Id>
       <Status>Editing</Status>
@@ -630,7 +634,7 @@ It is somewhat sticky.</EnglishText>
     <Entry>
       <PointerOffset>2084</PointerOffset>
       <JapaneseText>全員のＨＰを３０％回復</JapaneseText>
-      <EnglishText>Restores 30% of max HP
+      <EnglishText>Restores 30% of HP
 for all party members.</EnglishText>
       <Notes/>
       <Id>74</Id>
@@ -640,8 +644,8 @@ for all party members.</EnglishText>
       <PointerOffset>2088</PointerOffset>
       <JapaneseText>みんな元気になーれ！
 周囲にまいて使う</JapaneseText>
-      <EnglishText>Very healthy for everyone.
-Spread it around!</EnglishText>
+      <EnglishText>Very healthy for everyone!
+Be sure to share it.</EnglishText>
       <Notes/>
       <Id>75</Id>
       <Status>Editing</Status>
@@ -657,7 +661,7 @@ Spread it around!</EnglishText>
     <Entry>
       <PointerOffset>2168</PointerOffset>
       <JapaneseText>全員の最大ＥＢＧの３０％分回復</JapaneseText>
-      <EnglishText>Restores 30% EBG
+      <EnglishText>Restores 30% of max EBG
 for all party members.</EnglishText>
       <Notes/>
       <Id>77</Id>
@@ -668,7 +672,7 @@ for all party members.</EnglishText>
       <JapaneseText>みんなのやる気を奮い立たせる薬。
 周囲にまいて使う</JapaneseText>
       <EnglishText>A medicine that motivates everyone.
-Spread it around!</EnglishText>
+Be sure to share it.</EnglishText>
       <Notes/>
       <Id>78</Id>
       <Status>Editing</Status>
@@ -684,8 +688,8 @@ Spread it around!</EnglishText>
     <Entry>
       <PointerOffset>2252</PointerOffset>
       <JapaneseText>ＨＰ、ＥＢＧ、状態異常、変化全て回復</JapaneseText>
-      <EnglishText>Restores all HP, EBG,
-status ailments and changes.</EnglishText>
+      <EnglishText>Restores HP and EBG,
+and cures all ailments.</EnglishText>
       <Notes/>
       <Id>80</Id>
       <Status>Editing</Status>
@@ -693,8 +697,8 @@ status ailments and changes.</EnglishText>
     <Entry>
       <PointerOffset>2256</PointerOffset>
       <JapaneseText>あらゆる傷、病をたちどころに治すと言われる秘薬</JapaneseText>
-      <EnglishText>A secret medicine that cures all 
-diseases and heals all wounds.</EnglishText>
+      <EnglishText>A secret medicine said to cure all 
+diseases and heal all wounds, instantly.</EnglishText>
       <Notes/>
       <Id>81</Id>
       <Status>Editing</Status>
@@ -710,8 +714,8 @@ diseases and heals all wounds.</EnglishText>
     <Entry>
       <PointerOffset>2336</PointerOffset>
       <JapaneseText>敵の動きを３秒間止める</JapaneseText>
-      <EnglishText>Freezes all enemies for 3 seconds
-during battle.</EnglishText>
+      <EnglishText>Freezes all enemies
+for 3 seconds.</EnglishText>
       <Notes/>
       <Id>83</Id>
       <Status>Editing</Status>
@@ -720,8 +724,8 @@ during battle.</EnglishText>
       <PointerOffset>2340</PointerOffset>
       <JapaneseText>敵の動きを少しの間止めることが出来る。
 いざというときの切り札に！</JapaneseText>
-      <EnglishText>Stops enemies from moving for a period of time.
-The last resort in a critical moment!</EnglishText>
+      <EnglishText>Can stop enemies from moving for a
+short time. It's your ace-in-the-hole!</EnglishText>
       <Notes/>
       <Id>84</Id>
       <Status>Editing</Status>
@@ -737,7 +741,8 @@ The last resort in a critical moment!</EnglishText>
     <Entry>
       <PointerOffset>2420</PointerOffset>
       <JapaneseText>敵の動きを６秒間止める</JapaneseText>
-      <EnglishText>Freezes all enemies for 6 seconds during battle.</EnglishText>
+      <EnglishText>Freezes all enemies
+for 6 seconds.</EnglishText>
       <Notes/>
       <Id>86</Id>
       <Status>Editing</Status>
@@ -746,8 +751,8 @@ The last resort in a critical moment!</EnglishText>
       <PointerOffset>2424</PointerOffset>
       <JapaneseText>敵の動きをやや長めに止めることが出来る。
 ここぞという時に！</JapaneseText>
-      <EnglishText>Stops enemies from moving for a little longer.
-The ultimate last resort in a critical moment!</EnglishText>
+      <EnglishText>Can stop enemies from moving for a little
+longer. For those do-or-die moments!</EnglishText>
       <Notes/>
       <Id>87</Id>
       <Status>Editing</Status>
@@ -764,7 +769,7 @@ The ultimate last resort in a critical moment!</EnglishText>
       <PointerOffset>2504</PointerOffset>
       <JapaneseText>モンスター図鑑に敵情報登録</JapaneseText>
       <EnglishText>Registers an enemy in
-the Monster Encyclopedia.</EnglishText>
+the Monster Book.</EnglishText>
       <Notes/>
       <Id>89</Id>
       <Status>Editing</Status>
@@ -773,8 +778,8 @@ the Monster Encyclopedia.</EnglishText>
       <PointerOffset>2508</PointerOffset>
       <JapaneseText>敵の詳しい情報が見える不思議アイテム。
 覗いた敵を記録する</JapaneseText>
-      <EnglishText>A strange item that reveals more detail on an enemy.
-The enemy is then recorded.</EnglishText>
+      <EnglishText>A mysterious item that reveals details about
+your enemy. That info will be recorded.</EnglishText>
       <Notes/>
       <Id>90</Id>
       <Status>Editing</Status>
@@ -798,7 +803,8 @@ The enemy is then recorded.</EnglishText>
     <Entry>
       <PointerOffset>2592</PointerOffset>
       <JapaneseText>滋養強壮の効果がある薬草</JapaneseText>
-      <EnglishText>A medicinal herb with strong nutrients.</EnglishText>
+      <EnglishText>A medicinal herb that
+nourishes your body.</EnglishText>
       <Notes/>
       <Id>93</Id>
       <Status>Editing</Status>
@@ -822,7 +828,7 @@ The enemy is then recorded.</EnglishText>
     <Entry>
       <PointerOffset>2676</PointerOffset>
       <JapaneseText>セージの中でも選りすぐりの高級品</JapaneseText>
-      <EnglishText>A rare sage that is among the best.</EnglishText>
+      <EnglishText>Among the finest sage leaves you'll find.</EnglishText>
       <Notes/>
       <Id>96</Id>
       <Status>Editing</Status>
@@ -846,7 +852,8 @@ The enemy is then recorded.</EnglishText>
     <Entry>
       <PointerOffset>2760</PointerOffset>
       <JapaneseText>神々しさすら感じるセージの中のセージ</JapaneseText>
-      <EnglishText>A rare sage that feels divine.</EnglishText>
+      <EnglishText>Absolute top-quality sage
+leaves, with a divine aura.</EnglishText>
       <Notes/>
       <Id>99</Id>
       <Status>Editing</Status>
@@ -870,7 +877,8 @@ The enemy is then recorded.</EnglishText>
     <Entry>
       <PointerOffset>2844</PointerOffset>
       <JapaneseText>煎じて飲むと力がつくといわれる薬草</JapaneseText>
-      <EnglishText>A medicinal drink.</EnglishText>
+      <EnglishText>A medicinal herb brewed as tea. It's said
+drinking it will imbue you with strength.</EnglishText>
       <Notes/>
       <Id>102</Id>
       <Status>Editing</Status>
@@ -894,8 +902,7 @@ The enemy is then recorded.</EnglishText>
     <Entry>
       <PointerOffset>2928</PointerOffset>
       <JapaneseText>ラベンダーのなかでも選りすぐりの高級品</JapaneseText>
-      <EnglishText>A rare lavender that
-is among the best.</EnglishText>
+      <EnglishText>Among the finest lavender leaves you'll find.</EnglishText>
       <Notes/>
       <Id>105</Id>
       <Status>Editing</Status>
@@ -920,8 +927,8 @@ is among the best.</EnglishText>
       <PointerOffset>3012</PointerOffset>
       <JapaneseText>１００年に一度採れるか採れないかという
 一級品のラベンダー</JapaneseText>
-      <EnglishText>A rare lavender that
-takes 100 years to grow.</EnglishText>
+      <EnglishText>Top shelf lavender. You'd be lucky to
+find leaves like this once in 100 years.</EnglishText>
       <Notes/>
       <Id>108</Id>
       <Status>Editing</Status>
@@ -945,8 +952,8 @@ takes 100 years to grow.</EnglishText>
     <Entry>
       <PointerOffset>3096</PointerOffset>
       <JapaneseText>体を丈夫にし、スタミナをつけるといわれる薬草</JapaneseText>
-      <EnglishText>A medicinal herb that
-strengthens the body.</EnglishText>
+      <EnglishText>A medicinal herb said to improve
+the body's stamina and durability.</EnglishText>
       <Notes/>
       <Id>111</Id>
       <Status>Editing</Status>
@@ -971,8 +978,8 @@ strengthens the body.</EnglishText>
       <PointerOffset>3180</PointerOffset>
       <JapaneseText>採取するタイミングをギリギリまで計り、
 熟成させたベルベーヌ</JapaneseText>
-      <EnglishText>An aged verbena whose time was measured
-to the last minute before being picked.</EnglishText>
+      <EnglishText>Verbena left to ripen on the plant, and
+only harvested at the perfect moment.</EnglishText>
       <Notes/>
       <Id>114</Id>
       <Status>Editing</Status>
@@ -996,7 +1003,8 @@ to the last minute before being picked.</EnglishText>
     <Entry>
       <PointerOffset>3264</PointerOffset>
       <JapaneseText>香り高い究極のベルベーヌ</JapaneseText>
-      <EnglishText>The ultimate verbena with much fragrance.</EnglishText>
+      <EnglishText>The ultimate verbena. It
+has a powerful aroma.</EnglishText>
       <Notes/>
       <Id>117</Id>
       <Status>Editing</Status>
@@ -1020,8 +1028,8 @@ to the last minute before being picked.</EnglishText>
     <Entry>
       <PointerOffset>3348</PointerOffset>
       <JapaneseText>集中力アップの効果があるとされる薬草</JapaneseText>
-      <EnglishText>An herb that has a positive
-effect on your concentration.</EnglishText>
+      <EnglishText>A medicinal herb said
+to improve concentration.</EnglishText>
       <Notes/>
       <Id>120</Id>
       <Status>Editing</Status>
@@ -1045,8 +1053,8 @@ effect on your concentration.</EnglishText>
     <Entry>
       <PointerOffset>3432</PointerOffset>
       <JapaneseText>ごく稀に見つかる、より効果の高いカモミールの変異種</JapaneseText>
-      <EnglishText>A rare, more effective
-mutation of chamomile.</EnglishText>
+      <EnglishText>A more effective, mutant variety
+of chamomile. It's rarely found.</EnglishText>
       <Notes/>
       <Id>123</Id>
       <Status>Editing</Status>
@@ -1071,8 +1079,8 @@ mutation of chamomile.</EnglishText>
       <PointerOffset>3516</PointerOffset>
       <JapaneseText>選りすぐりのカモミールを特別な手法で
 育てたという幻の逸品</JapaneseText>
-      <EnglishText>A special chamomile of choice.
-A nutured masterpiece.</EnglishText>
+      <EnglishText>Mythical chamomile said to be grown by
+raising fine plants with a special method.</EnglishText>
       <Notes/>
       <Id>126</Id>
       <Status>Editing</Status>
@@ -1097,8 +1105,8 @@ A nutured masterpiece.</EnglishText>
       <PointerOffset>3600</PointerOffset>
       <JapaneseText>何にもくじけない強い心をつくるといわれる、
 非常に苦い薬草</JapaneseText>
-      <EnglishText>A very bitter herb that
-helps to forge a strong heart.</EnglishText>
+      <EnglishText>An abnormally bitter medicinal herb said
+to give one's heart the resilience of iron.</EnglishText>
       <Notes/>
       <Id>129</Id>
       <Status>Editing</Status>
@@ -1109,7 +1117,7 @@ helps to forge a strong heart.</EnglishText>
       <EnglishText>Blue Basil</EnglishText>
       <Notes/>
       <Id>130</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>3680</PointerOffset>
