@@ -349,7 +349,7 @@ ailments during battle.</EnglishText>
       <PointerOffset>1164</PointerOffset>
       <JapaneseText>状態変化にかからなくなる薬。
 かなり苦い……</JapaneseText>
-      <EnglishText>A medicine to find off magical
+      <EnglishText>A medicine to fend off magical
 ailments. It is very bitter...</EnglishText>
       <Notes/>
       <Id>42</Id>
@@ -429,8 +429,8 @@ physical ailments—even outside of battle.</EnglishText>
       <PointerOffset>1416</PointerOffset>
       <JapaneseText>戦闘中のみ効果のある状態変化を
 すべて解除することができる</JapaneseText>
-      <EnglishText>Removes all magical ailments—though
-they don't last outside of battle, anyway.</EnglishText>
+      <EnglishText>Removes all magical ailments—those
+ailments which don't last outside of battle.</EnglishText>
       <Notes/>
       <Id>51</Id>
       <Status>Editing</Status>
@@ -456,7 +456,7 @@ they don't last outside of battle, anyway.</EnglishText>
       <JapaneseText>敵･味方問わずすべてのダメージが半減する
 不思議空間を作り出してくれる</JapaneseText>
       <EnglishText>Creates a mysterious space that reduces all
-damage by 50% for allies and enemies alike.</EnglishText>
+damage by 50%, for allies and enemies alike.</EnglishText>
       <Notes/>
       <Id>54</Id>
       <Status>Editing</Status>
@@ -1117,7 +1117,7 @@ to give one's heart the resilience of iron.</EnglishText>
       <EnglishText>Blue Basil</EnglishText>
       <Notes/>
       <Id>130</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>3680</PointerOffset>
@@ -1130,8 +1130,8 @@ to give one's heart the resilience of iron.</EnglishText>
     <Entry>
       <PointerOffset>3684</PointerOffset>
       <JapaneseText>バジルの何倍も苦いという薬草</JapaneseText>
-      <EnglishText>A very bitter herb with
-two times the bitterness.</EnglishText>
+      <EnglishText>A medicinal herb several times
+more bitter than plain basil.</EnglishText>
       <Notes/>
       <Id>132</Id>
       <Status>Editing</Status>
@@ -1155,8 +1155,8 @@ two times the bitterness.</EnglishText>
     <Entry>
       <PointerOffset>3768</PointerOffset>
       <JapaneseText>大人でも悶絶する程に苦い薬草</JapaneseText>
-      <EnglishText>A very bitter herb that
-is bitter even among adults.</EnglishText>
+      <EnglishText>A medicinal herb so bitter it
+can even knock out an adult.</EnglishText>
       <Notes/>
       <Id>135</Id>
       <Status>Editing</Status>
@@ -1173,8 +1173,8 @@ is bitter even among adults.</EnglishText>
       <PointerOffset>3848</PointerOffset>
       <JapaneseText>一定時間、通常技が地属性となり、
 最大ＨＰが２０％上昇</JapaneseText>
-      <EnglishText>Attacks become Earth attribute
-and maximum HP increases by 20%.</EnglishText>
+      <EnglishText>Temporarily sets normal attacks to Earth
+attribute and increases max HP by 20%.</EnglishText>
       <Notes/>
       <Id>137</Id>
       <Status>Editing</Status>
@@ -1183,8 +1183,8 @@ and maximum HP increases by 20%.</EnglishText>
       <PointerOffset>3852</PointerOffset>
       <JapaneseText>一定時間、武器に地属性を付与し、
 使用者の体力を高める神秘的な石</JapaneseText>
-      <EnglishText>A mysterious stone that enhances strength.
-Grants the element of Earth to weapons.</EnglishText>
+      <EnglishText>A mystical stone. Grants the element of Earth
+to weapons, and strengthens the user's body.</EnglishText>
       <Notes/>
       <Id>138</Id>
       <Status>Editing</Status>
@@ -1201,8 +1201,8 @@ Grants the element of Earth to weapons.</EnglishText>
       <PointerOffset>3932</PointerOffset>
       <JapaneseText>一定時間、通常技が闇属性となり、
 発生したダメージが１１０％になる</JapaneseText>
-      <EnglishText>Attacks become Dark attribute
-and damage increases to 110%.</EnglishText>
+      <EnglishText>Temporarily sets normal attacks to Dark attribute
+and increases all damage dealt by 10%.</EnglishText>
       <Notes/>
       <Id>140</Id>
       <Status>Editing</Status>
@@ -1211,8 +1211,8 @@ and damage increases to 110%.</EnglishText>
       <PointerOffset>3936</PointerOffset>
       <JapaneseText>一定時間、武器に闇属性を付与し、
 攻撃の力を高める神秘的な石</JapaneseText>
-      <EnglishText>A mysterious stone that enhances attack.
-Grants the element of Darkness to weapons.</EnglishText>
+      <EnglishText>A mystical stone. Grants the element of Dark
+to weapons, and bolsters the user's attacks.</EnglishText>
       <Notes/>
       <Id>141</Id>
       <Status>Editing</Status>
@@ -1229,8 +1229,8 @@ Grants the element of Darkness to weapons.</EnglishText>
       <PointerOffset>4016</PointerOffset>
       <JapaneseText>一定時間、通常技が火属性となり、
 通常攻撃から発生したダメージが１２０％になる</JapaneseText>
-      <EnglishText>Attacks become Fire attribute
-and non-arte damage increases to 120%.</EnglishText>
+      <EnglishText>Temporarily sets normal attacks to Fire attribute
+and increases normal attack damage dealt by 20%.</EnglishText>
       <Notes/>
       <Id>143</Id>
       <Status>Editing</Status>
@@ -1239,8 +1239,8 @@ and non-arte damage increases to 120%.</EnglishText>
       <PointerOffset>4020</PointerOffset>
       <JapaneseText>一定時間、武器に火属性を付与し、
 物理攻撃の力を高める神秘的な石</JapaneseText>
-      <EnglishText>A mysterious stone that enhances physical attack.
-Grants the element of Fire to weapons.</EnglishText>
+      <EnglishText>A mystical stone. Grants the element of Fire
+to weapons, and increases the user's strength.</EnglishText>
       <Notes/>
       <Id>144</Id>
       <Status>Editing</Status>
@@ -1257,8 +1257,8 @@ Grants the element of Fire to weapons.</EnglishText>
       <PointerOffset>4100</PointerOffset>
       <JapaneseText>一定時間、通常技が水属性となり、２秒毎に
 最大ＨＰの１％が回復する</JapaneseText>
-      <EnglishText>Attacks become Water attribute
-and 1% of max HP is healed every 2 seconds.</EnglishText>
+      <EnglishText>Temporarily sets normal attacks to Water attribute
+and regenerates the user's HP by 1% per 2 seconds.</EnglishText>
       <Notes/>
       <Id>146</Id>
       <Status>Editing</Status>
@@ -1267,8 +1267,8 @@ and 1% of max HP is healed every 2 seconds.</EnglishText>
       <PointerOffset>4104</PointerOffset>
       <JapaneseText>一定時間、武器に水属性を付与し、
 使用者の体力を徐々に回復する神秘的な石</JapaneseText>
-      <EnglishText>A mysterious stone that gradually restores HP.
-Grants the element of Water to weapons.</EnglishText>
+      <EnglishText>A mystical stone. Grants the element of Water
+to weapons, and heals the user's body bit by bit.</EnglishText>
       <Notes/>
       <Id>147</Id>
       <Status>Editing</Status>
@@ -1285,8 +1285,8 @@ Grants the element of Water to weapons.</EnglishText>
       <PointerOffset>4184</PointerOffset>
       <JapaneseText>一定時間、通常技が光属性となり、
 石化抵抗が１００％になる</JapaneseText>
-      <EnglishText>Attacks become Light attribute
-and grants immunity to petrification.</EnglishText>
+      <EnglishText>Temporarily sets normal attacks to Light attribute
+and confers complete resistance to petrification.</EnglishText>
       <Notes/>
       <Id>149</Id>
       <Status>Editing</Status>
@@ -1295,8 +1295,8 @@ and grants immunity to petrification.</EnglishText>
       <PointerOffset>4188</PointerOffset>
       <JapaneseText>一定時間、武器に光属性を付与し、
 使用者を石化から守る神秘的な石</JapaneseText>
-      <EnglishText>A mysterious stone that protects from petrification.
-Grants the element of Light to weapons.</EnglishText>
+      <EnglishText>A mystical stone. Grants the element of Light to
+weapons, and protects the user from petrification.</EnglishText>
       <Notes/>
       <Id>150</Id>
       <Status>Editing</Status>
@@ -1313,8 +1313,8 @@ Grants the element of Light to weapons.</EnglishText>
       <PointerOffset>4268</PointerOffset>
       <JapaneseText>一定時間、通常技が風属性となり、
 敏捷が１５％増加</JapaneseText>
-      <EnglishText>Attacks become Wind attribute
-and Agility is increased by 15%.</EnglishText>
+      <EnglishText>Temporarily sets normal attacks to Wind
+attribute and increases agility by 15%.</EnglishText>
       <Notes/>
       <Id>152</Id>
       <Status>Editing</Status>
@@ -1323,8 +1323,8 @@ and Agility is increased by 15%.</EnglishText>
       <PointerOffset>4272</PointerOffset>
       <JapaneseText>一定時間、武器に風属性を付与し、
 使用者の敏捷性を高める神秘的な石</JapaneseText>
-      <EnglishText>A mysterious stone that enhances agility.
-Grants the element of Wind to weapons.</EnglishText>
+      <EnglishText>A mystical stone. Grants the element of Wind
+to weapons, and increases the user's agility.</EnglishText>
       <Notes/>
       <Id>153</Id>
       <Status>Editing</Status>
@@ -1341,8 +1341,8 @@ Grants the element of Wind to weapons.</EnglishText>
       <PointerOffset>4352</PointerOffset>
       <JapaneseText>一定時間、通常技が雷属性となり、通常攻撃に
 １０％の確率で状態異常「麻痺」効果が付く</JapaneseText>
-      <EnglishText>Attacks become Lightning attribute
-with a 10% chance of inflicting paralysis.</EnglishText>
+      <EnglishText>Temporarily sets normal attacks to Lightning attribute
+and confers a 10% chance to apply "Paralysis."</EnglishText>
       <Notes/>
       <Id>155</Id>
       <Status>Editing</Status>
@@ -1351,8 +1351,8 @@ with a 10% chance of inflicting paralysis.</EnglishText>
       <PointerOffset>4356</PointerOffset>
       <JapaneseText>一定時間、武器に雷属性を付与し、
 攻撃にマヒの効果が付く神秘的な石</JapaneseText>
-      <EnglishText>A mysterious stone that can cause paralysis.
-Grants the element of Lightning to weapons.</EnglishText>
+      <EnglishText>A mystical stone. Grants the element of Lightning
+to weapons, and causes attacks to paralyze.</EnglishText>
       <Notes/>
       <Id>156</Id>
       <Status>Editing</Status>
@@ -1360,7 +1360,7 @@ Grants the element of Lightning to weapons.</EnglishText>
     <Entry>
       <PointerOffset>4376</PointerOffset>
       <JapaneseText>金の特技書</JapaneseText>
-      <EnglishText>Golden Arte Book</EnglishText>
+      <EnglishText>Gold Arte Book</EnglishText>
       <Notes/>
       <Id>157</Id>
       <Status>Editing</Status>
@@ -1368,7 +1368,7 @@ Grants the element of Lightning to weapons.</EnglishText>
     <Entry>
       <PointerOffset>4436</PointerOffset>
       <JapaneseText>「不知火」を覚える</JapaneseText>
-      <EnglishText>Learn "Secret Thief"</EnglishText>
+      <EnglishText>Learn "Shiranuhi"</EnglishText>
       <Notes/>
       <Id>158</Id>
       <Status>Editing</Status>
@@ -1377,8 +1377,8 @@ Grants the element of Lightning to weapons.</EnglishText>
       <PointerOffset>4440</PointerOffset>
       <JapaneseText>忍系ディオの特技
 「不知火」の使い方が載っている本</JapaneseText>
-      <EnglishText>A ninja ability for Dio, a base arte.
-The book has written down how to use "Secret Thief".</EnglishText>
+      <EnglishText>A book for Ninjutsu-type Dio. It bears
+instructions for the Base Arte "Shiranuhi."</EnglishText>
       <Notes/>
       <Id>159</Id>
       <Status>Editing</Status>
@@ -1386,10 +1386,10 @@ The book has written down how to use "Secret Thief".</EnglishText>
     <Entry>
       <PointerOffset>4460</PointerOffset>
       <JapaneseText>奥義書予備枠</JapaneseText>
-      <EnglishText>Arcane Artes: Reserve Slot</EnglishText>
+      <EnglishText>Arcane Arte Book Reserve Slot</EnglishText>
       <Notes>Need context for this item/description</Notes>
       <Id>160</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>4520</PointerOffset>
@@ -1397,7 +1397,7 @@ The book has written down how to use "Secret Thief".</EnglishText>
       <EnglishText>Placeholder Data</EnglishText>
       <Notes>Not sure if this is even used</Notes>
       <Id>161</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>4524</PointerOffset>
@@ -1405,15 +1405,15 @@ The book has written down how to use "Secret Thief".</EnglishText>
       <EnglishText></EnglishText>
       <Notes/>
       <Id>162</Id>
-      <Status>Editing</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>4544</PointerOffset>
       <JapaneseText>奥義書予備枠</JapaneseText>
-      <EnglishText>Arcane Artes: Reserve Slot</EnglishText>
+      <EnglishText>Arcane Arte Book Reserve Slot</EnglishText>
       <Notes>Need context for this item/description</Notes>
       <Id>163</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>4604</PointerOffset>
@@ -1421,7 +1421,7 @@ The book has written down how to use "Secret Thief".</EnglishText>
       <EnglishText>Placeholder Data</EnglishText>
       <Notes>Not sure if this is even used</Notes>
       <Id>164</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>4608</PointerOffset>
@@ -1429,12 +1429,12 @@ The book has written down how to use "Secret Thief".</EnglishText>
       <EnglishText></EnglishText>
       <Notes/>
       <Id>165</Id>
-      <Status>Editing</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>4628</PointerOffset>
       <JapaneseText>ぷりぷり特技書</JapaneseText>
-      <EnglishText>Huffy-Huffy Arte Book</EnglishText>
+      <EnglishText>Angry Arte Book</EnglishText>
       <Notes/>
       <Id>166</Id>
       <Status>Editing</Status>
@@ -1451,8 +1451,8 @@ The book has written down how to use "Secret Thief".</EnglishText>
       <PointerOffset>4692</PointerOffset>
       <JapaneseText>クルールの術技
 「えりくしるダンス」の使い方が載っている本</JapaneseText>
-      <EnglishText>An ability for Couleur.
-The book has written down how to use "Elixir Dance".</EnglishText>
+      <EnglishText>A book for Couleur. It bears
+instructions for the Arte "Elixir Dance."</EnglishText>
       <Notes/>
       <Id>168</Id>
       <Status>Editing</Status>
@@ -1460,7 +1460,7 @@ The book has written down how to use "Elixir Dance".</EnglishText>
     <Entry>
       <PointerOffset>4712</PointerOffset>
       <JapaneseText>風と水の奥義書</JapaneseText>
-      <EnglishText>Wind/Water Arcane Book</EnglishText>
+      <EnglishText>Wind &amp; Water Arcane Book</EnglishText>
       <Notes/>
       <Id>169</Id>
       <Status>Editing</Status>
@@ -1468,7 +1468,7 @@ The book has written down how to use "Elixir Dance".</EnglishText>
     <Entry>
       <PointerOffset>4772</PointerOffset>
       <JapaneseText>「風迅穿氷針」を覚える</JapaneseText>
-      <EnglishText>Learn "風迅穿氷針"</EnglishText>
+      <EnglishText>Learn "Icicle Flurry"</EnglishText>
       <Notes/>
       <Id>170</Id>
       <Status>Editing</Status>
@@ -1477,8 +1477,8 @@ The book has written down how to use "Elixir Dance".</EnglishText>
       <PointerOffset>4776</PointerOffset>
       <JapaneseText>騎士系メルの奥義
 「風迅穿氷針」の使い方が載っている本</JapaneseText>
-      <EnglishText>A knight ability for Mel, an arcane arte.
-The book has written down how to use "風迅穿氷針".</EnglishText>
+      <EnglishText>A book for Knight-type Mel. It bears
+instructions for the Arcane Arte "Icicle Flurry."</EnglishText>
       <Notes/>
       <Id>171</Id>
       <Status>Editing</Status>
@@ -1486,7 +1486,7 @@ The book has written down how to use "風迅穿氷針".</EnglishText>
     <Entry>
       <PointerOffset>4796</PointerOffset>
       <JapaneseText>ぼよよん特技書</JapaneseText>
-      <EnglishText>Boing-Boing Arte Book</EnglishText>
+      <EnglishText>Sproingy Arte Book</EnglishText>
       <Notes/>
       <Id>172</Id>
       <Status>Editing</Status>
@@ -1494,7 +1494,7 @@ The book has written down how to use "風迅穿氷針".</EnglishText>
     <Entry>
       <PointerOffset>4856</PointerOffset>
       <JapaneseText>「イカスヒップ」を覚える</JapaneseText>
-      <EnglishText>Learn "Hip Attack"</EnglishText>
+      <EnglishText>Learn "Booty Blow"</EnglishText>
       <Notes/>
       <Id>173</Id>
       <Status>Editing</Status>
@@ -1503,8 +1503,8 @@ The book has written down how to use "風迅穿氷針".</EnglishText>
       <PointerOffset>4860</PointerOffset>
       <JapaneseText>クルールの術技
 「イカスヒップ」の使い方が載っている本</JapaneseText>
-      <EnglishText>An ability for Couleur.
-The book has written down how to use "Hip Attack".</EnglishText>
+      <EnglishText>A book for Couleur. It bears instructions
+for the Arte "Booty Blow."</EnglishText>
       <Notes/>
       <Id>174</Id>
       <Status>Editing</Status>
@@ -1512,7 +1512,7 @@ The book has written down how to use "Hip Attack".</EnglishText>
     <Entry>
       <PointerOffset>4880</PointerOffset>
       <JapaneseText>ぷにぷに奥義書</JapaneseText>
-      <EnglishText>Squishy-Squishy Arcane Book</EnglishText>
+      <EnglishText>Squishy Acane Book</EnglishText>
       <Notes/>
       <Id>175</Id>
       <Status>Editing</Status>
@@ -1520,7 +1520,7 @@ The book has written down how to use "Hip Attack".</EnglishText>
     <Entry>
       <PointerOffset>4940</PointerOffset>
       <JapaneseText>「ぐるぐるぐんぐにる」を覚える</JapaneseText>
-      <EnglishText>Learn "Gungnir a Go Go"</EnglishText>
+      <EnglishText>Learn "Gungnir-A-Go-Go"</EnglishText>
       <Notes/>
       <Id>176</Id>
       <Status>Editing</Status>
@@ -1529,8 +1529,8 @@ The book has written down how to use "Hip Attack".</EnglishText>
       <PointerOffset>4944</PointerOffset>
       <JapaneseText>クルールの奥義
 「ぐるぐるぐんぐにる」の使い方が載っている本</JapaneseText>
-      <EnglishText>An ability for Couleur.
-The book has written down how to use "Gungir a Go Go".</EnglishText>
+      <EnglishText>A book for Couleur. It bears instructions
+for the Arcane Arte, "Gungnir-A-Go-Go."</EnglishText>
       <Notes/>
       <Id>177</Id>
       <Status>Editing</Status>
@@ -1538,7 +1538,7 @@ The book has written down how to use "Gungir a Go Go".</EnglishText>
     <Entry>
       <PointerOffset>4964</PointerOffset>
       <JapaneseText>たぷたぷ特技書</JapaneseText>
-      <EnglishText>Tap-Tap Arte Book</EnglishText>
+      <EnglishText>Flabby Arte Book</EnglishText>
       <Notes/>
       <Id>178</Id>
       <Status>Editing</Status>
@@ -1546,7 +1546,7 @@ The book has written down how to use "Gungir a Go Go".</EnglishText>
     <Entry>
       <PointerOffset>5024</PointerOffset>
       <JapaneseText>「まるのみファイア」を覚える</JapaneseText>
-      <EnglishText>Learn "Marunomi Fire"</EnglishText>
+      <EnglishText>Learn "Om Nom Boom"</EnglishText>
       <Notes/>
       <Id>179</Id>
       <Status>Editing</Status>
@@ -1555,8 +1555,8 @@ The book has written down how to use "Gungir a Go Go".</EnglishText>
       <PointerOffset>5028</PointerOffset>
       <JapaneseText>クルールの術技
 「まるのみファイア」の使い方が載っている本</JapaneseText>
-      <EnglishText>An ability for Couleur.
-The book has written down how to use "Marunomi Fire".</EnglishText>
+      <EnglishText>A book for Couleur. It bears instructions
+for the Arte, "Om Nom Boom."</EnglishText>
       <Notes/>
       <Id>180</Id>
       <Status>Editing</Status>
@@ -1581,8 +1581,8 @@ The book has written down how to use "Marunomi Fire".</EnglishText>
       <PointerOffset>5112</PointerOffset>
       <JapaneseText>誰かの秘奥義
 「獣破轟衝斬」の使い方が載っている本</JapaneseText>
-      <EnglishText>A Mystic Arte for someone. The book has
-written down how to use "Roaring Beast Edge".</EnglishText>
+      <EnglishText>A book for someone. It bears instructions
+for the Mystic Arte, "Stampede Strike."</EnglishText>
       <Notes/>
       <Id>183</Id>
       <Status>Editing</Status>
@@ -1590,10 +1590,10 @@ written down how to use "Roaring Beast Edge".</EnglishText>
     <Entry>
       <PointerOffset>5132</PointerOffset>
       <JapaneseText>奥義書予備枠</JapaneseText>
-      <EnglishText>Arcane Artes: Reserve Slot</EnglishText>
+      <EnglishText>Arcane Arte Book Reserve Slot</EnglishText>
       <Notes>Need context for this item/description</Notes>
       <Id>184</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>5192</PointerOffset>
@@ -1601,7 +1601,7 @@ written down how to use "Roaring Beast Edge".</EnglishText>
       <EnglishText>Placeholder Data</EnglishText>
       <Notes>Not sure if this is even used</Notes>
       <Id>185</Id>
-      <Status>Problematic</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>5196</PointerOffset>
@@ -1609,12 +1609,12 @@ written down how to use "Roaring Beast Edge".</EnglishText>
       <EnglishText></EnglishText>
       <Notes/>
       <Id>186</Id>
-      <Status>Editing</Status>
+      <Status>Done</Status>
     </Entry>
     <Entry>
       <PointerOffset>5216</PointerOffset>
       <JapaneseText>守護者のスキル書</JapaneseText>
-      <EnglishText>Guardian Skill Book</EnglishText>
+      <EnglishText>Guardian's Skill Book</EnglishText>
       <Notes/>
       <Id>187</Id>
       <Status>Editing</Status>
@@ -1631,8 +1631,8 @@ written down how to use "Roaring Beast Edge".</EnglishText>
       <PointerOffset>5280</PointerOffset>
       <JapaneseText>術防を犠牲に物防を高めるスキルの
 使い方が載っている本</JapaneseText>
-      <EnglishText>A skill book that teaches about fighters
-who heavily dislike magic.</EnglishText>
+      <EnglishText>A book which bears instructions for a skill
+which exchanges magical for physical defense.</EnglishText>
       <Notes/>
       <Id>189</Id>
       <Status>Editing</Status>
@@ -1640,7 +1640,7 @@ who heavily dislike magic.</EnglishText>
     <Entry>
       <PointerOffset>5300</PointerOffset>
       <JapaneseText>抵抗力のスキル書</JapaneseText>
-      <EnglishText>Resistance Skill Book</EnglishText>
+      <EnglishText>Resistant Skill Book</EnglishText>
       <Notes/>
       <Id>190</Id>
       <Status>Editing</Status>
@@ -1657,8 +1657,8 @@ who heavily dislike magic.</EnglishText>
       <PointerOffset>5364</PointerOffset>
       <JapaneseText>物防を犠牲に術防を高めるスキルの
 使い方が載っている本</JapaneseText>
-      <EnglishText>A skill book that teaches about mages
-almost impervious to magical attacks.</EnglishText>
+      <EnglishText>A book which bears instructions for a skill
+which exchanges physical for magical defense.</EnglishText>
       <Notes/>
       <Id>192</Id>
       <Status>Editing</Status>
@@ -1666,7 +1666,7 @@ almost impervious to magical attacks.</EnglishText>
     <Entry>
       <PointerOffset>5384</PointerOffset>
       <JapaneseText>俊敏性のスキル書</JapaneseText>
-      <EnglishText>Agility Skill book</EnglishText>
+      <EnglishText>Agile Skill Book</EnglishText>
       <Notes/>
       <Id>193</Id>
       <Status>Editing</Status>
@@ -1683,8 +1683,8 @@ almost impervious to magical attacks.</EnglishText>
       <PointerOffset>5448</PointerOffset>
       <JapaneseText>詠唱速度を犠牲に敏捷性を高めるスキルの
 使い方が載っている本</JapaneseText>
-      <EnglishText>A skill book that teaches about those
-who zip across fields at high speeds.</EnglishText>
+      <EnglishText>A book which bears instructions for a skill
+which exchanges spell for movement speed.</EnglishText>
       <Notes/>
       <Id>195</Id>
       <Status>Editing</Status>
@@ -1692,7 +1692,7 @@ who zip across fields at high speeds.</EnglishText>
     <Entry>
       <PointerOffset>5468</PointerOffset>
       <JapaneseText>速唱術のスキル書</JapaneseText>
-      <EnglishText>Cast Speed Skill Book</EnglishText>
+      <EnglishText>Fast Cast Skill Book</EnglishText>
       <Notes/>
       <Id>196</Id>
       <Status>Editing</Status>
@@ -1709,8 +1709,8 @@ who zip across fields at high speeds.</EnglishText>
       <PointerOffset>5532</PointerOffset>
       <JapaneseText>敏捷性を犠牲に詠唱速度を高めるスキルの
 使い方が載っている本</JapaneseText>
-      <EnglishText>A skill book that teaches about the latest
-research on removing casting entirely.</EnglishText>
+      <EnglishText>A book which bears instructions for a skill
+which exchanges movement for spell speed.</EnglishText>
       <Notes/>
       <Id>198</Id>
       <Status>Editing</Status>
@@ -1718,7 +1718,7 @@ research on removing casting entirely.</EnglishText>
     <Entry>
       <PointerOffset>5552</PointerOffset>
       <JapaneseText>英雄のスキル書</JapaneseText>
-      <EnglishText>Hero Skill Book</EnglishText>
+      <EnglishText>Heroic Skill Book</EnglishText>
       <Notes/>
       <Id>199</Id>
       <Status>Editing</Status>
@@ -1735,8 +1735,8 @@ research on removing casting entirely.</EnglishText>
       <PointerOffset>5616</PointerOffset>
       <JapaneseText>ひとりで戦う猛者により多くの経験を与えるスキルの
 使い方が載っている本</JapaneseText>
-      <EnglishText>A skill book that teaches about warriors
-who prefer to charge into battle alone.</EnglishText>
+      <EnglishText>A book which bears instructions for a skill
+which grants more EXP to those who fight alone.</EnglishText>
       <Notes/>
       <Id>201</Id>
       <Status>Editing</Status>
@@ -1744,7 +1744,7 @@ who prefer to charge into battle alone.</EnglishText>
     <Entry>
       <PointerOffset>5636</PointerOffset>
       <JapaneseText>跳躍のスキル書</JapaneseText>
-      <EnglishText>Jump Skill Book</EnglishText>
+      <EnglishText>Skipping Skill Book</EnglishText>
       <Notes/>
       <Id>202</Id>
       <Status>Editing</Status>
@@ -1761,8 +1761,8 @@ who prefer to charge into battle alone.</EnglishText>
       <PointerOffset>5700</PointerOffset>
       <JapaneseText>真横に一定距離移動するステップを可能にする
 スキルの使い方が載っている本</JapaneseText>
-      <EnglishText>A skill book that teaches about skilled fighters
-who always know where their foes are.</EnglishText>
+      <EnglishText>A book which bears instructions for a skill
+which ensures all Steps travel a fixed distance.</EnglishText>
       <Notes/>
       <Id>204</Id>
       <Status>Editing</Status>
@@ -1770,7 +1770,7 @@ who always know where their foes are.</EnglishText>
     <Entry>
       <PointerOffset>5720</PointerOffset>
       <JapaneseText>臆病者のスキル書</JapaneseText>
-      <EnglishText>Coward Skill Book</EnglishText>
+      <EnglishText>Cowardly Skill Book</EnglishText>
       <Notes/>
       <Id>205</Id>
       <Status>Editing</Status>
@@ -1786,8 +1786,8 @@ who always know where their foes are.</EnglishText>
     <Entry>
       <PointerOffset>5784</PointerOffset>
       <JapaneseText>逃げ足を速くするスキルの使い方が載っている本</JapaneseText>
-      <EnglishText>This book teaches about those who
-believe in living to fight another day.</EnglishText>
+      <EnglishText>A book which bears instructions for a skill
+which allows you to run away more quickly.</EnglishText>
       <Notes/>
       <Id>207</Id>
       <Status>Editing</Status>
@@ -1811,8 +1811,8 @@ believe in living to fight another day.</EnglishText>
     <Entry>
       <PointerOffset>5868</PointerOffset>
       <JapaneseText>使用者の身体を重くするスキルの使い方が載っている本</JapaneseText>
-      <EnglishText>This book teaches a skill on how to make
-one's body heavier.</EnglishText>
+      <EnglishText>A book which bears instructions for a
+skill which makes the user's body heavier.</EnglishText>
       <Notes/>
       <Id>210</Id>
       <Status>Editing</Status>
@@ -1836,8 +1836,8 @@ one's body heavier.</EnglishText>
     <Entry>
       <PointerOffset>5952</PointerOffset>
       <JapaneseText>使用者の身体を重くするスキルの使い方が載っている本</JapaneseText>
-      <EnglishText>This book teaches a skill on how to make
-one's body heavier.</EnglishText>
+      <EnglishText>A book which bears instructions for a
+skill which makes the user's body heavier.</EnglishText>
       <Notes/>
       <Id>213</Id>
       <Status>Editing</Status>
@@ -1845,7 +1845,7 @@ one's body heavier.</EnglishText>
     <Entry>
       <PointerOffset>5972</PointerOffset>
       <JapaneseText>必殺のスキル書</JapaneseText>
-      <EnglishText>Critical Skill Book</EnglishText>
+      <EnglishText>Deadly Skill Book</EnglishText>
       <Notes/>
       <Id>214</Id>
       <Status>Editing</Status>
@@ -1853,7 +1853,7 @@ one's body heavier.</EnglishText>
     <Entry>
       <PointerOffset>6032</PointerOffset>
       <JapaneseText>「Ｂクリティカルレイジ」を覚える</JapaneseText>
-      <EnglishText>Learn "Critical Rage"</EnglishText>
+      <EnglishText>Learn "Brave Critical Rage"</EnglishText>
       <Notes/>
       <Id>215</Id>
       <Status>Editing</Status>
@@ -1862,8 +1862,8 @@ one's body heavier.</EnglishText>
       <PointerOffset>6036</PointerOffset>
       <JapaneseText>ＥＢＧの増加量を犠牲にオーバーブレイブ時に効果を
 発揮するスキルの使い方が載っている本</JapaneseText>
-      <EnglishText>Teaches the ability to increase your skill
-with your blade, sacrificing your combos.</EnglishText>
+      <EnglishText>A book which bears instructions for a skill
+which exchanges EBG gain for OB power.</EnglishText>
       <Notes/>
       <Id>216</Id>
       <Status>Editing</Status>
@@ -1871,7 +1871,7 @@ with your blade, sacrificing your combos.</EnglishText>
     <Entry>
       <PointerOffset>6056</PointerOffset>
       <JapaneseText>堕ちる魔の禁呪書</JapaneseText>
-      <EnglishText>Fallen Magic Spell Book</EnglishText>
+      <EnglishText>Fallen Mage's Spell Book</EnglishText>
       <Notes/>
       <Id>217</Id>
       <Status>Editing</Status>
@@ -1888,8 +1888,8 @@ with your blade, sacrificing your combos.</EnglishText>
       <PointerOffset>6120</PointerOffset>
       <JapaneseText>魔術系メルの禁呪文
 「メテオスォーム」の使い方が載っている本</JapaneseText>
-      <EnglishText>A book that will teach Mel how to use
-the ancient spell, Meteor Storm.</EnglishText>
+      <EnglishText>A book of spells for Magical Artes-type Mel.
+It bears instructions for using "Meteor Storm."</EnglishText>
       <Notes/>
       <Id>219</Id>
       <Status>Editing</Status>
@@ -1897,7 +1897,7 @@ the ancient spell, Meteor Storm.</EnglishText>
     <Entry>
       <PointerOffset>6140</PointerOffset>
       <JapaneseText>弾ける魔の禁呪書</JapaneseText>
-      <EnglishText>Burst Magic Spell Book</EnglishText>
+      <EnglishText>Blasting Mage's Spell Book</EnglishText>
       <Notes/>
       <Id>220</Id>
       <Status>Editing</Status>
@@ -1905,7 +1905,7 @@ the ancient spell, Meteor Storm.</EnglishText>
     <Entry>
       <PointerOffset>6200</PointerOffset>
       <JapaneseText>「ビッグバン」を覚える</JapaneseText>
-      <EnglishText>Learned Big Bang</EnglishText>
+      <EnglishText>Learn "Big Bang"</EnglishText>
       <Notes/>
       <Id>221</Id>
       <Status>Editing</Status>
@@ -1914,8 +1914,8 @@ the ancient spell, Meteor Storm.</EnglishText>
       <PointerOffset>6204</PointerOffset>
       <JapaneseText>魔術系メルの禁呪文
 「ビッグバン」の使い方が載っている本</JapaneseText>
-      <EnglishText>A book that will teach Mel how to use the
-all-powerful spell, Big Bang.</EnglishText>
+      <EnglishText>A book of spells for Magical Artes-type Mel.
+It bears instructions for using "Big Bang."</EnglishText>
       <Notes/>
       <Id>222</Id>
       <Status>Editing</Status>
@@ -1923,7 +1923,7 @@ all-powerful spell, Big Bang.</EnglishText>
     <Entry>
       <PointerOffset>6224</PointerOffset>
       <JapaneseText>冷徹なるスキル書</JapaneseText>
-      <EnglishText>Cold Skill Book</EnglishText>
+      <EnglishText>Level-Headed Skill Book</EnglishText>
       <Notes/>
       <Id>223</Id>
       <Status>Editing</Status>
@@ -1931,7 +1931,7 @@ all-powerful spell, Big Bang.</EnglishText>
     <Entry>
       <PointerOffset>6284</PointerOffset>
       <JapaneseText>「Ｂクールマインド」を覚える</JapaneseText>
-      <EnglishText>Learn "Cool Mind B"</EnglishText>
+      <EnglishText>Learn "Brave Cool Mind"</EnglishText>
       <Notes/>
       <Id>224</Id>
       <Status>Editing</Status>
@@ -1940,8 +1940,8 @@ all-powerful spell, Big Bang.</EnglishText>
       <PointerOffset>6288</PointerOffset>
       <JapaneseText>全ステータスの２０％を犠牲にオーバーブレイブ時に
 効果を発揮するスキルの使い方が載っている本</JapaneseText>
-      <EnglishText>Teaches about a weak man who became
-stronger when his emotions took control.</EnglishText>
+      <EnglishText>A book which bears instructions for a skill
+which exchanges 20% of all stats for OB power.</EnglishText>
       <Notes/>
       <Id>225</Id>
       <Status>Editing</Status>
@@ -1949,7 +1949,7 @@ stronger when his emotions took control.</EnglishText>
     <Entry>
       <PointerOffset>6308</PointerOffset>
       <JapaneseText>鈍き者のスキル書</JapaneseText>
-      <EnglishText>Numb Skill Book</EnglishText>
+      <EnglishText>Dunce's Skill Book</EnglishText>
       <Notes/>
       <Id>226</Id>
       <Status>Editing</Status>
@@ -1957,7 +1957,7 @@ stronger when his emotions took control.</EnglishText>
     <Entry>
       <PointerOffset>6368</PointerOffset>
       <JapaneseText>「Ｂコントロール」を覚える</JapaneseText>
-      <EnglishText>Learn "Control B"</EnglishText>
+      <EnglishText>Learn "Brave Control"</EnglishText>
       <Notes/>
       <Id>227</Id>
       <Status>Editing</Status>
@@ -1966,8 +1966,8 @@ stronger when his emotions took control.</EnglishText>
       <PointerOffset>6372</PointerOffset>
       <JapaneseText>オーバーブレイブ時の行動速度アップを５０％和らげる
 スキルの使い方が載っている本</JapaneseText>
-      <EnglishText>Teaches about a man who achieved
-unimaginable speeds in battle.</EnglishText>
+      <EnglishText>A book which bears instructions for a skill
+which reduces the OB action speed boost by 50%.</EnglishText>
       <Notes/>
       <Id>228</Id>
       <Status>Editing</Status>
@@ -1975,7 +1975,7 @@ unimaginable speeds in battle.</EnglishText>
     <Entry>
       <PointerOffset>6392</PointerOffset>
       <JapaneseText>フィッティングマント</JapaneseText>
-      <EnglishText>Fitting Mantle</EnglishText>
+      <EnglishText>Cape of Dressing</EnglishText>
       <Notes/>
       <Id>229</Id>
       <Status>Editing</Status>
@@ -1983,8 +1983,8 @@ unimaginable speeds in battle.</EnglishText>
     <Entry>
       <PointerOffset>6452</PointerOffset>
       <JapaneseText>ダンジョン内でコスチュームを着替えられる</JapaneseText>
-      <EnglishText>Allows change of costumes
-in the middle of a dungeon.</EnglishText>
+      <EnglishText>Allows you to change
+costumes while in a dungeon.</EnglishText>
       <Notes/>
       <Id>230</Id>
       <Status>Editing</Status>
@@ -1993,8 +1993,8 @@ in the middle of a dungeon.</EnglishText>
       <PointerOffset>6456</PointerOffset>
       <JapaneseText>どこでもお着替え出来るマント。
 ただし、一度使うと破けてしまう</JapaneseText>
-      <EnglishText>A mantle that lets you change clothes anywhere.
-However, after one use, it tears.</EnglishText>
+      <EnglishText>A cape that enables you to change your clothes
+anywhere. It breaks after a single use, though.</EnglishText>
       <Notes/>
       <Id>231</Id>
       <Status>Editing</Status>
@@ -2002,7 +2002,7 @@ However, after one use, it tears.</EnglishText>
     <Entry>
       <PointerOffset>6476</PointerOffset>
       <JapaneseText>あじ</JapaneseText>
-      <EnglishText>Mackerel</EnglishText>
+      <EnglishText>Horse Mackerel</EnglishText>
       <Notes/>
       <Id>232</Id>
       <Status>Editing</Status>
@@ -2011,8 +2011,8 @@ However, after one use, it tears.</EnglishText>
       <PointerOffset>6536</PointerOffset>
       <JapaneseText>その名の通り、
 味の良い魚として有名</JapaneseText>
-      <EnglishText>As its name suggests,
-it is a popular fish with good taste.</EnglishText>
+      <EnglishText>A fish with a beloved flavor. It
+tastes much better than a horse.</EnglishText>
       <Notes/>
       <Id>233</Id>
       <Status>Editing</Status>
@@ -2021,7 +2021,7 @@ it is a popular fish with good taste.</EnglishText>
       <PointerOffset>6540</PointerOffset>
       <JapaneseText>料理の追加効果
 ＨＰ３％、ＥＢＧ５％回復</JapaneseText>
-      <EnglishText>Additional food effect:
+      <EnglishText>Additional ingredient effect:
 Recovers 3% HP, 5% EBG</EnglishText>
       <Notes/>
       <Id>234</Id>
