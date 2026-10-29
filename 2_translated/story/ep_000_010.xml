@@ -66,89 +66,95 @@
       <VoiceId>&lt;audio:VSM_000_010_001&gt;</VoiceId>
       <JapaneseText>……ここ……
 どこだろう……</JapaneseText>
-      <EnglishText>This place... I wonder where I am...</EnglishText>
-      <Notes>test for commit 5/13/2026</Notes>
+      <EnglishText>...Where...
+am I...?</EnglishText>
+      <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270204</PointerOffset>
       <VoiceId>&lt;audio:VSM_000_010_003&gt;</VoiceId>
       <JapaneseText>もう何年経ったかな……</JapaneseText>
-      <EnglishText>How long has it been...? </EnglishText>
+      <EnglishText>How many years
+have passed...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270204</PointerOffset>
       <VoiceId>&lt;audio:VSM_000_010_004&gt;</VoiceId>
       <JapaneseText>後、何年続けたら仲間の妖精が
 見つかるんだろ……</JapaneseText>
-      <EnglishText>So many years have passed since I've seen a fellow fairy...</EnglishText>
+      <EnglishText>And how many years will I have to
+look, before I find my friends?
+Before I find other fairies, like me...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270296</PointerOffset>
       <VoiceId>&lt;audio:VSM_000_010_005&gt;</VoiceId>
       <JapaneseText>何年続けたって……
 ……だめ、だ……</JapaneseText>
-      <EnglishText>So many years have passed... It's pointless...</EnglishText>
+      <EnglishText>No... However many years I
+search, I'll never...find them...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270416</PointerOffset>
       <VoiceId>&lt;audio:VSM_000_010_006&gt;</VoiceId>
       <JapaneseText>はぁ……</JapaneseText>
-      <EnglishText>Hah... </EnglishText>
+      <EnglishText>Haaah...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270416</PointerOffset>
       <VoiceId>&lt;audio:VSM_000_010_007&gt;</VoiceId>
       <JapaneseText>ここでぼく、
 終わっちゃうんだな……</JapaneseText>
-      <EnglishText>Seems like I'll die here... </EnglishText>
+      <EnglishText>I guess this is...
+the end...for me...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270568</PointerOffset>
       <VoiceId>&lt;audio:VSM_000_010_009&gt;</VoiceId>
       <JapaneseText>……流れ、星……？</JapaneseText>
-      <EnglishText></EnglishText>
+      <EnglishText>...A shooting...star...?</EnglishText>
       <Notes>Isn't used in-game.</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270700</PointerOffset>
       <VoiceId>&lt;audio:VSM_000_010_010&gt;</VoiceId>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText>... </EnglishText>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270700</PointerOffset>
@@ -156,13 +162,14 @@
       <JapaneseText>……願いごと……
 叶うなラ……
 ……仲間、に……</JapaneseText>
-      <EnglishText>I'd like...my wish...to come true...
-so my friends could... </EnglishText>
+      <EnglishText>...If you can grant...
+one wish, then...
+I want...my friends...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
