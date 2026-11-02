@@ -8,7 +8,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272992,274332,274948</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273064,274152,275044</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273388,273640,274092,274244,274444,274572,274752,275228</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Klarth&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273464,273748,274512,274672,274832</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>266937</PointerOffset>
@@ -89,65 +89,71 @@
       <PointerOffset>272892</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_040_000&gt;</VoiceId>
       <JapaneseText>精霊もあと一体だね</JapaneseText>
-      <EnglishText>Which Spirit should we go visit next?</EnglishText>
+      <EnglishText>We just need one
+more spirit now.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272996</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_040_001&gt;</VoiceId>
       <JapaneseText>イフリート、シルフ、ノーム、
 それから、ええと……</JapaneseText>
-      <EnglishText>Let's see...Efreet, Sylph, Gnome and then um...</EnglishText>
+      <EnglishText>Efreet, Sylph, Gnome.
+So what's left is, umm...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273068</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_040_002&gt;</VoiceId>
       <JapaneseText>ウンディーネだな！</JapaneseText>
-      <EnglishText>Next one's Undine!</EnglishText>
+      <EnglishText>Just Undine!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273392</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_040_006&gt;</VoiceId>
       <JapaneseText>ウンディーネってことは
 &lt;Red&gt;浸食洞&lt;White&gt;か……あそこはな……</JapaneseText>
-      <EnglishText>Undine, right...? She should be in...&lt;Red&gt;Limestone Cavern&lt;White&gt;...</EnglishText>
+      <EnglishText>If it's Undine we're after, we'll
+need to go to the &lt;Red&gt;Limestone
+Cave&lt;White&gt;... But, to go there...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273468</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_040_007&gt;</VoiceId>
       <JapaneseText>ん～？　どうしたのかな？</JapaneseText>
-      <EnglishText>Oh? What's with the long face?</EnglishText>
+      <EnglishText>Hm~? What's up?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273644</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_040_008&gt;</VoiceId>
       <JapaneseText>&lt;Red&gt;浸食洞&lt;White&gt;は現在、
 アルヴァニスタの管理下にある</JapaneseText>
-      <EnglishText>Currently &lt;Red&gt;Limestone Cavern&lt;White&gt; is under Alvanista territory.</EnglishText>
+      <EnglishText>At the moment, the
+&lt;Red&gt;Limestone Cave&lt;White&gt; is under
+Alvanista's jurisdiction.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273644</PointerOffset>
@@ -155,13 +161,13 @@
       <JapaneseText>入るためには、
 国王陛下の許可を得る
 必要がある。だが……</JapaneseText>
-      <EnglishText>We'll require Alvanista's King's approval
-to pass through. However...</EnglishText>
+      <EnglishText>Entry requires permission
+from the king himself. And...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273752</PointerOffset>
@@ -169,55 +175,62 @@ to pass through. However...</EnglishText>
       <JapaneseText>……王様に会おうなんて
 そんな簡単じゃない、
 ってこと？</JapaneseText>
-      <EnglishText>Meeting Mister King would be kinda difficult...yeah?</EnglishText>
+      <EnglishText>...Getting a meeting with
+the king isn't all that
+easy, I'm guessing?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274096</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_040_014&gt;</VoiceId>
       <JapaneseText>シャクだが……
 あいつを頼ってみるか</JapaneseText>
-      <EnglishText>My prior transgressions are still remembered...
-I guess we'll have to rely on &lt;Italic&gt;him&lt;/Italics&gt;. </EnglishText>
+      <EnglishText>It's kind of a pain, but...
+I guess we'll have to
+ask for their help.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274156</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_040_015&gt;</VoiceId>
       <JapaneseText>あいつ？</JapaneseText>
-      <EnglishText>Him? Who's that?</EnglishText>
+      <EnglishText>Whose?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274248</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_040_016&gt;</VoiceId>
       <JapaneseText>バジルだ。
 前に会ったことがあるだろう</JapaneseText>
-      <EnglishText>Basil. The man you met earlier.</EnglishText>
+      <EnglishText>Basil's. You
+remember him,
+don't you?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274336</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_040_017&gt;</VoiceId>
       <JapaneseText>エレメンツポットを
 くれた人ですね</JapaneseText>
-      <EnglishText>The person who gave us the Elements' Pot!</EnglishText>
+      <EnglishText>He's the one who
+gave us the
+Elemental Pot, right?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274448</PointerOffset>
@@ -225,65 +238,70 @@ I guess we'll have to rely on &lt;Italic&gt;him&lt;/Italics&gt;. </EnglishText>
       <JapaneseText>ああ。ああ見えても、
 あいつは陛下の信認厚い
 魔法学者の一人だ</JapaneseText>
-      <EnglishText>That is correct. Appearances can be deceiving.
-In this case, he's actually trusted by the King
-as he is a very well versed Magic Researcher.</EnglishText>
+      <EnglishText>Yeah. He might not seem like
+it, but he's actually one of the
+king's most trusted scholars of magic.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274516</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_040_019&gt;</VoiceId>
       <JapaneseText>魔法学者ねぇ……</JapaneseText>
-      <EnglishText>A Magic Researcher, huh...</EnglishText>
+      <EnglishText>A scholar
+of magic, hmm...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>14</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274576</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_040_020&gt;</VoiceId>
       <JapaneseText>なんだ？</JapaneseText>
-      <EnglishText>What about it?</EnglishText>
+      <EnglishText>What?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274676</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_040_021&gt;</VoiceId>
       <JapaneseText>魔法学者って響きが、
 なんかうさんくさくってね</JapaneseText>
-      <EnglishText>Magic Researcher just sounds...wicked.</EnglishText>
+      <EnglishText>"Scholar of magic" just has a
+questionable ring to it, somehow.</EnglishText>
       <Notes>tl check pls</Notes>
       <SpeakerId>5</SpeakerId>
       <Id>16</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274756</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_040_022&gt;</VoiceId>
       <JapaneseText>……私も一応、魔法学者だが</JapaneseText>
-      <EnglishText>... Rody, I'm a Magic Researcher myself.</EnglishText>
+      <EnglishText>...I'm essentially a
+scholar of magic,
+myself, you know.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>17</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274836</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_040_023&gt;</VoiceId>
       <JapaneseText>&lt;Klarth&gt;はいいのよ、
 &lt;Klarth&gt;は</JapaneseText>
-      <EnglishText>But you're fine! You're just &lt;Klarth&gt;!</EnglishText>
+      <EnglishText>I mean, present
+company excepted!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>18</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274952</PointerOffset>
@@ -291,34 +309,36 @@ as he is a very well versed Magic Researcher.</EnglishText>
       <JapaneseText>バジルさんに
 お願いすれば&lt;Red&gt;浸食洞&lt;White&gt;に
 入る許可がもらえるんですね</JapaneseText>
-      <EnglishText>We should hurry and ask Basil to get the
-King's pass for &lt;Red&gt;Limestone Cavern&lt;White&gt;.</EnglishText>
+      <EnglishText>So if we ask for Basil's
+help, we can get permission
+to go to the &lt;Red&gt;Limestone Cave&lt;White&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>19</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275048</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_040_025&gt;</VoiceId>
       <JapaneseText>あの人、&lt;Red&gt;ヴァルハラ村&lt;White&gt;に
 いるんだよな？</JapaneseText>
-      <EnglishText>He should still be somewhere
-around &lt;Red&gt;Valhalla Village&lt;White&gt;, right?</EnglishText>
+      <EnglishText>That guy was in
+&lt;Red&gt;Valhalla Village&lt;White&gt;,
+wasn't he?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>20</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275232</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_040_027&gt;</VoiceId>
       <JapaneseText>とにかく行ってみよう</JapaneseText>
-      <EnglishText>Right. At any rate, let's head over there.</EnglishText>
+      <EnglishText>Let's go and see.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>21</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
