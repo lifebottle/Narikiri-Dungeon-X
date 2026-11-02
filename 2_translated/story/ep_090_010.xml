@@ -5,7 +5,7 @@
     <Entry>
       <PointerOffset>282240</PointerOffset>
       <JapaneseText>兵士</JapaneseText>
-      <EnglishText>Knight</EnglishText>
+      <EnglishText>Soldier</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Editing</Status>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282360,283448,283616,283684</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282460,282544,282776,283844</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282704,283360,283756</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282876,283904</PointerOffset>
@@ -48,7 +48,7 @@
       <EnglishText>&lt;Klarth&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276261</PointerOffset>
@@ -98,12 +98,12 @@
       <VoiceId>&lt;audio:VSM_090_010_001&gt;</VoiceId>
       <JapaneseText>これは国王陛下直筆の……
 どうぞ、お通りください</JapaneseText>
-      <EnglishText>Is that a pass from the King...!?
-Please go on ahead!</EnglishText>
+      <EnglishText>This is signed by the king
+himself... You may enter.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282304</PointerOffset>
@@ -113,7 +113,7 @@ Please go on ahead!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282364</PointerOffset>
@@ -123,106 +123,116 @@ Please go on ahead!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282464</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_010_004&gt;</VoiceId>
       <JapaneseText>仲良きことは美しきかな、
 ほら、笑っとこうぜ？</JapaneseText>
-      <EnglishText>It's so beautiful how well you two get along!
-C'mon, look alive and smile!</EnglishText>
+      <EnglishText>Friendship is one of the
+great beauties of life, don't you
+think? C'mon, let's smile!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282548</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_010_005&gt;</VoiceId>
       <JapaneseText>ねぇ妖精さん、
 あのふたり平気？</JapaneseText>
-      <EnglishText>Hey Miss Fairy. Are these two ok?</EnglishText>
+      <EnglishText>Hey, li'l fairy. Are
+those two okay?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282708</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_010_006&gt;</VoiceId>
       <JapaneseText>え？　ああ……
 いつものことだシ……</JapaneseText>
-      <EnglishText>Oh? Yeah, this always happens...</EnglishText>
+      <EnglishText>Eh? Um, well, yeah... They
+get like this a lot, so...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282708</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_010_007&gt;</VoiceId>
       <JapaneseText>ほっといたら、いつの間にか、
 仲直りしてるもの、いつも</JapaneseText>
-      <EnglishText>If you leave them alone, they always reconcile.</EnglishText>
+      <EnglishText>Leave them be for a little
+while, and they'll make up
+soon. They always do.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282780</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_010_008&gt;</VoiceId>
       <JapaneseText>そういうもん、なの？</JapaneseText>
-      <EnglishText>Just like that?</EnglishText>
+      <EnglishText>Eh, so that's
+how it is?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282880</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_010_009&gt;</VoiceId>
       <JapaneseText>まぁ、君は、彼らに対して
 少し過保護すぎるからな</JapaneseText>
-      <EnglishText>Haven't you considered you might be overprotective?</EnglishText>
+      <EnglishText>Well, you might look
+after them a little
+too well, if anything.</EnglishText>
       <Notes>Is overprotective the right word? We think it might be coddling </Notes>
       <SpeakerId>6</SpeakerId>
       <Id>9</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283364</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_010_015&gt;</VoiceId>
       <JapaneseText>そう、でもないけド……</JapaneseText>
-      <EnglishText>I...don't think so, but...</EnglishText>
+      <EnglishText>I...don't really think so...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283452</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_010_016&gt;</VoiceId>
       <JapaneseText>ちょっと、&lt;Dio&gt;、
 どこ行くの！？</JapaneseText>
-      <EnglishText>Hey, &lt;Dio&gt;! Where are you going!?</EnglishText>
+      <EnglishText>Wait, &lt;Dio&gt;, where
+are you going!?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283520</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_010_017&gt;</VoiceId>
       <JapaneseText>ここは左だろ！</JapaneseText>
-      <EnglishText>Let's turn left here!</EnglishText>
+      <EnglishText>C'mon, we gotta
+go left here!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283620</PointerOffset>
@@ -230,42 +240,45 @@ C'mon, look alive and smile!</EnglishText>
       <JapaneseText>右だよ、だって
 そっちはなんか
 ダメな感じするし</JapaneseText>
-      <EnglishText>No, let's turn right. I think there's a dead end that way.</EnglishText>
+      <EnglishText>No, we need to go right! I
+mean, left just *feels* wrong!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283688</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_010_019&gt;</VoiceId>
       <JapaneseText>……ねぇ、エト</JapaneseText>
-      <EnglishText>What do you think, Eto?</EnglishText>
+      <EnglishText>...Hey, Ethos.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283760</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_010_020&gt;</VoiceId>
       <JapaneseText>あ～、はいはい……</JapaneseText>
-      <EnglishText>Ah... Right, right...</EnglishText>
+      <EnglishText>Aaahhh~...
+Okay, okay.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>15</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283848</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_010_021&gt;</VoiceId>
       <JapaneseText>ふふっ……
 やっぱり過保護さんだよね</JapaneseText>
-      <EnglishText>Hehehe...! She IS overprotective!</EnglishText>
+      <EnglishText>Hehe... She really does
+baby them, doesn't she?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>16</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283908</PointerOffset>
@@ -275,7 +288,7 @@ C'mon, look alive and smile!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>17</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

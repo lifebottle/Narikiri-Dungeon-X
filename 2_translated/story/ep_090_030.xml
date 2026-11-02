@@ -8,7 +8,7 @@
       <EnglishText>Undine</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>297840</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Klarth&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298048</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>291485</PointerOffset>
@@ -74,11 +74,12 @@
       <VoiceId>&lt;audio:VSM_090_030_001&gt;</VoiceId>
       <JapaneseText>誰じゃ！
 わらわの眠りを妨げる者は</JapaneseText>
-      <EnglishText>Who goes there! Who dares disrupt my slumber!?</EnglishText>
+      <EnglishText>Who is it!? What fool
+would disturb my rest!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>297844</PointerOffset>
@@ -86,58 +87,60 @@
       <JapaneseText>ウンディーネ！
 私だ！　先年、おまえと
 契約を結んだ……</JapaneseText>
-      <EnglishText>Undine, it's me! I'm the person you
-sealed a pact with in the past...</EnglishText>
+      <EnglishText>Undine! It's me!
+Last year, I forged
+a pact with you...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>297968</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_030_003&gt;</VoiceId>
       <JapaneseText>また貴様か！
 一度ならず二度までも！</JapaneseText>
-      <EnglishText>You...scum! You weren't content humiliating me
-once so you dare to attempt a second time!?</EnglishText>
+      <EnglishText>So it's you again!?
+Not just once, but twice!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>297968</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_030_004&gt;</VoiceId>
       <JapaneseText>もう許さぬ！</JapaneseText>
-      <EnglishText>I'll won't forgive this insolence!</EnglishText>
+      <EnglishText>No longer will
+I bear this!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298052</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_030_005&gt;</VoiceId>
       <JapaneseText>待ってください、
 わたしたち……</JapaneseText>
-      <EnglishText>Please, wait! We just want...</EnglishText>
+      <EnglishText>Please wait. We...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298200</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_030_006&gt;</VoiceId>
       <JapaneseText>待たぬ！</JapaneseText>
-      <EnglishText>I will not!</EnglishText>
+      <EnglishText>I will not wait!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298200</PointerOffset>
@@ -145,14 +148,14 @@ once so you dare to attempt a second time!?</EnglishText>
       <JapaneseText>わらわは命令されるのと
 眠りを妨げられるのが
 一番嫌いなのじゃ！</JapaneseText>
-      <EnglishText>I refuse to take orders from those
-who disrupted my slumber!
-I'll make you pay severely!</EnglishText>
+      <EnglishText>Of all the things in this world, receiving
+orders and being disturbed from my
+rest are those I hate the most!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

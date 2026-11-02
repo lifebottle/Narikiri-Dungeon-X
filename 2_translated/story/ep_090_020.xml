@@ -8,7 +8,7 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298664,298820,298928,299192,299696,300076,300592</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299256</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299340,299556,299804,299988,300272,300408</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Klarth&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299900,300688</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>292337</PointerOffset>
@@ -90,22 +90,23 @@
       <VoiceId>&lt;audio:VSM_090_020_001&gt;</VoiceId>
       <JapaneseText>これが終わったら、
 君たちの精霊さん集めは終わり？</JapaneseText>
-      <EnglishText>After this, you'll be done
-searching for Spirits, right?</EnglishText>
+      <EnglishText>Once we're finished here,
+you'll be done collecting
+all the spirits, won't you?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298668</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_020_002&gt;</VoiceId>
       <JapaneseText>え？　あ、うん</JapaneseText>
-      <EnglishText>Huh? Yeah, that sounds right.</EnglishText>
+      <EnglishText>Eh? Ah, yeah.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298728</PointerOffset>
@@ -115,7 +116,7 @@ searching for Spirits, right?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298824</PointerOffset>
@@ -123,11 +124,13 @@ searching for Spirits, right?</EnglishText>
       <JapaneseText>クラースさんと
 バジルさんがいて
 助かったよ</JapaneseText>
-      <EnglishText>&lt;Klarth&gt; and Basil really saved us!</EnglishText>
+      <EnglishText>&lt;Klarth&gt; and Basil
+have been a
+big help, too.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298932</PointerOffset>
@@ -135,45 +138,47 @@ searching for Spirits, right?</EnglishText>
       <JapaneseText>エレメンツポットも
 もらえたし、
 &lt;Red&gt;浸食洞&lt;White&gt;にも入れたし</JapaneseText>
-      <EnglishText>You gave us the Elements' Pot
-and thanks to you, we were
-able to enter Limestone Cavern!</EnglishText>
+      <EnglishText>Since they got us the
+Elemental Pot, and permission
+to enter this &lt;Red&gt;Limestone Cave&lt;White&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299196</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_020_008&gt;</VoiceId>
       <JapaneseText>バジルさんにも
 お礼言っといてくれよ</JapaneseText>
-      <EnglishText>You've gotta thank Basil for us!</EnglishText>
+      <EnglishText>Tell Basil we
+said thanks.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299260</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_020_009&gt;</VoiceId>
       <JapaneseText>クルール！</JapaneseText>
-      <EnglishText>Kuruuru!</EnglishText>
+      <EnglishText>Couleuru!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299344</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_020_010&gt;</VoiceId>
       <JapaneseText>ああ、わかった。
 伝えておくよ</JapaneseText>
-      <EnglishText>Right, understood. I'll communicate that to him.</EnglishText>
+      <EnglishText>Yeah, I got it.
+I'll pass it on.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299468</PointerOffset>
@@ -181,45 +186,46 @@ able to enter Limestone Cavern!</EnglishText>
       <JapaneseText>そう言えばあのバジルって人、
 ずいぶん熱心だね。
 魔科学の研究もしてるの？</JapaneseText>
-      <EnglishText>By the way, speaking of Basil...That guy
-is really enthusiastic about his work. Did
-you know he's researching Magitechnology?</EnglishText>
+      <EnglishText>Now that you mention him, that
+Basil guy... He's pretty passionate,
+isn't he? He's researching magitech?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299560</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_020_012&gt;</VoiceId>
       <JapaneseText>いや。前はしていたが、
 今はやっていない</JapaneseText>
-      <EnglishText>No. He used to work on it, but
-he gave up his research.</EnglishText>
+      <EnglishText>No. He was before,
+but he's stopped now.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299632</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_020_013&gt;</VoiceId>
       <JapaneseText>ふーん、そっか……</JapaneseText>
-      <EnglishText>Mmm... I see.</EnglishText>
+      <EnglishText>Hmmm...
+Is that so...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299700</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_020_014&gt;</VoiceId>
       <JapaneseText>魔科学って何だ？</JapaneseText>
-      <EnglishText>What's Magitechnology?</EnglishText>
+      <EnglishText>What's "magitech"?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299808</PointerOffset>
@@ -227,12 +233,13 @@ he gave up his research.</EnglishText>
       <JapaneseText>人間が科学を使って
 魔術を使えるようにする
 方法のことだ</JapaneseText>
-      <EnglishText>It's the science which humans
-use to manipulate magic.</EnglishText>
+      <EnglishText>It's a method that allows
+humans to use magic
+by means of technology.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299904</PointerOffset>
@@ -240,34 +247,36 @@ use to manipulate magic.</EnglishText>
       <JapaneseText>え……？
 そんな便利なものが
 あるんですか？</JapaneseText>
-      <EnglishText>That sounds convenient.</EnglishText>
+      <EnglishText>Eh...? There's something
+that convenient out there?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>14</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299992</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_020_017&gt;</VoiceId>
       <JapaneseText>まあな。
 でも、今は禁止されている</JapaneseText>
-      <EnglishText>That it does. But it's been banned.</EnglishText>
+      <EnglishText>Well, yeah. But
+it's forbidden, now.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300080</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_020_018&gt;</VoiceId>
       <JapaneseText>え？　なんで？
 そんな便利なのに……</JapaneseText>
-      <EnglishText>What? Why'd they do that?
-It sounds really useful...</EnglishText>
+      <EnglishText>Eh? Why? It does
+sound convenient...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300196</PointerOffset>
@@ -275,89 +284,95 @@ It sounds really useful...</EnglishText>
       <JapaneseText>魔科学はマナを大量に消費し、
 世界のことわりを破壊するから、
 だよ</JapaneseText>
-      <EnglishText>Magitechnology, or Magitech, consumes
-high amounts of Mana from the land.
-This destroys the balance of nature...</EnglishText>
+      <EnglishText>Magitech expends a great deal
+of mana, and destroys the
+natural order of the world.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>17</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300276</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_020_020&gt;</VoiceId>
       <JapaneseText>どうして、君、
 それを……？</JapaneseText>
-      <EnglishText>How do you...know this?</EnglishText>
+      <EnglishText>Wait, why
+would you...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>18</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300348</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_020_021&gt;</VoiceId>
       <JapaneseText>昔、友達に聞いたんだ</JapaneseText>
-      <EnglishText>An old friend told me once.</EnglishText>
+      <EnglishText>A friend told me about
+it, a long time ago.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>19</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300412</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_020_022&gt;</VoiceId>
       <JapaneseText>友達だって？</JapaneseText>
-      <EnglishText>An old friend?</EnglishText>
+      <EnglishText>A "friend"?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>20</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300492</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_020_023&gt;</VoiceId>
       <JapaneseText>そう。森のものしり博士さーん</JapaneseText>
-      <EnglishText>Yup! He has a PhD in knowledge!</EnglishText>
+      <EnglishText>Right. The forest's
+local know-it-all~</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>21</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300596</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_020_024&gt;</VoiceId>
       <JapaneseText>オレらの時代に魔科学なんて、
 んなもん、ねーよな？</JapaneseText>
-      <EnglishText>Hey, in our era there's no
-Magitechnology, is there?</EnglishText>
+      <EnglishText>There's not any magitech
+stuff in our time, is there?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>22</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300692</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_020_025&gt;</VoiceId>
       <JapaneseText>使っちゃ悪いものだから、
 すたれたんでしょ</JapaneseText>
-      <EnglishText>I heard it was rendered unusable because
-it was used for the wrong means.</EnglishText>
+      <EnglishText>Well, it'd be bad if anyone
+used it, so it was probably
+all thrown out, right?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>23</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300948</PointerOffset>
       <VoiceId>&lt;audio:VSM_090_020_028&gt;</VoiceId>
       <JapaneseText>さてさて、先
 進んじゃいましょう</JapaneseText>
-      <EnglishText>Okay, okay! Let's keep moving forward!</EnglishText>
+      <EnglishText>Aaanyway, let's set
+that aside for now
+and get a move on~</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>24</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
