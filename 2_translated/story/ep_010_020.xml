@@ -8,7 +8,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275636,275956,276252,276608,276792,277292</PointerOffset>
@@ -16,12 +16,12 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276192</PointerOffset>
       <JapaneseText>少年の声</JapaneseText>
-      <EnglishText>Kid</EnglishText>
+      <EnglishText>Boy's Voice</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Editing</Status>
@@ -32,12 +32,12 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>269593</PointerOffset>
       <JapaneseText/>
-      <EnglishText/>
+      <EnglishText>0</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>ref:Speaker:8</Status>
@@ -45,7 +45,7 @@
     <Entry>
       <PointerOffset>269634</PointerOffset>
       <JapaneseText/>
-      <EnglishText/>
+      <EnglishText>0</EnglishText>
       <Notes/>
       <Id>6</Id>
       <Status>ref:Speaker:19</Status>
@@ -53,7 +53,7 @@
     <Entry>
       <PointerOffset>269660,269898,269963,269999,270070,270136,270175,270251,270322,270388,270399,270517,270603,270684,270760,270831,270897,270908,271077,271110,271121,271236,271346,271357,271484,271527,271712,272476,272487,272642,272750,272924,273000,273098,273204,273270,273323,273437,273634,273876,273941,274006,274071,274745,275086,275287</PointerOffset>
       <JapaneseText/>
-      <EnglishText/>
+      <EnglishText>0</EnglishText>
       <Notes/>
       <Id>7</Id>
       <Status>ref:Speaker:7</Status>
@@ -61,7 +61,7 @@
     <Entry>
       <PointerOffset>271597,272045,273728,273782,273838,274136,274184,274232,274286,274346,274400,274454,274557,274615</PointerOffset>
       <JapaneseText/>
-      <EnglishText/>
+      <EnglishText>0</EnglishText>
       <Notes/>
       <Id>8</Id>
       <Status>ref:Speaker:2</Status>
@@ -69,7 +69,7 @@
     <Entry>
       <PointerOffset>272099</PointerOffset>
       <JapaneseText/>
-      <EnglishText/>
+      <EnglishText>0</EnglishText>
       <Notes/>
       <Id>9</Id>
       <Status>ref:Speaker:14</Status>
@@ -82,21 +82,23 @@
       <VoiceId>&lt;audio:VSM_010_020_001&gt;</VoiceId>
       <JapaneseText>もう……&lt;Dio&gt;……
 どこに行ったんだろ……</JapaneseText>
-      <EnglishText>Oh...&lt;Dio&gt;... Where are you? </EnglishText>
+      <EnglishText>Jeez, &lt;Dio&gt;... Where
+have you gone off
+to this time...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275640</PointerOffset>
       <VoiceId>&lt;audio:VSM_010_020_002&gt;</VoiceId>
       <JapaneseText>平気だって、エト</JapaneseText>
-      <EnglishText>It'll be okay, Eto. </EnglishText>
+      <EnglishText>He'll be fine, Ethos.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275960</PointerOffset>
@@ -104,55 +106,59 @@
       <JapaneseText>きっと、いつもみたいに
 けろっとした顔して
 帰ってくるって</JapaneseText>
-      <EnglishText>I'm sure he'll be back safe 
-and sound, just like always. </EnglishText>
+      <EnglishText>I'm sure he'll walk back in any
+minute now, with a carefree
+smile, just like he always does.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276196</PointerOffset>
       <VoiceId>&lt;audio:VSM_010_020_008&gt;</VoiceId>
       <JapaneseText>ただいま～</JapaneseText>
-      <EnglishText>I'm back! </EnglishText>
+      <EnglishText>I'm baaack~</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276256</PointerOffset>
       <VoiceId>&lt;audio:VSM_010_020_009&gt;</VoiceId>
       <JapaneseText>ほら……</JapaneseText>
-      <EnglishText>See...</EnglishText>
+      <EnglishText>Hey...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276508</PointerOffset>
       <VoiceId>&lt;audio:VSM_010_020_012&gt;</VoiceId>
       <JapaneseText>いっ……てっ……！
 何すんだよ！</JapaneseText>
-      <EnglishText>O-Ow! What's your problem!? </EnglishText>
+      <EnglishText>O...ow...!
+The hell's
+that for!?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276612</PointerOffset>
       <VoiceId>&lt;audio:VSM_010_020_013&gt;</VoiceId>
       <JapaneseText>危ないから家を離れるなって、
 いつも言ってるでしょ</JapaneseText>
-      <EnglishText>How many times do we have to tell you before 
-you'll listen, it's dangerous to leave the house!</EnglishText>
+      <EnglishText>"It's dangerous, so don't leave
+home." How many times do
+we have to tell you?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276716</PointerOffset>
@@ -160,24 +166,24 @@ you'll listen, it's dangerous to leave the house!</EnglishText>
       <JapaneseText>分かってるって。
 だから、危ないことなんて
 してねーし</JapaneseText>
-      <EnglishText>Geez, I know! It's not dangerous
-outside at all, though. </EnglishText>
-      <Notes>Review
-Maybe "Geez, I know! It's really not all that dangerous outside, though."
-~Gator</Notes>
+      <EnglishText>I get it, I get it. But
+c'mon, *I* wasn't doing
+anything dangerous...</EnglishText>
+      <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276796</PointerOffset>
       <VoiceId>&lt;audio:VSM_010_020_015&gt;</VoiceId>
       <JapaneseText>そういうことじゃなくて……</JapaneseText>
-      <EnglishText>That's kinda not the point... </EnglishText>
+      <EnglishText>That's not what
+we're worried about...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276960</PointerOffset>
@@ -185,25 +191,28 @@ Maybe "Geez, I know! It's really not all that dangerous outside, though."
       <JapaneseText>オレ、狭い家にずっと
 閉じこもってんのなんて
 ヤだよ</JapaneseText>
-      <EnglishText>I'm always shut inside this lame house. </EnglishText>
+      <EnglishText>Look, I just don't wanna
+be locked up in this tiny
+house all the time, okay?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276960</PointerOffset>
       <VoiceId>&lt;audio:VSM_010_020_017&gt;</VoiceId>
       <JapaneseText>もっと外見たい……
 いろんな街に行きたい！</JapaneseText>
-      <EnglishText>I want to see more of the outside!
-I want to visit other places! </EnglishText>
+      <EnglishText>I wanna see more of the stuff
+outside... I wanna travel to lots
+of towns, all over the world!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277296</PointerOffset>
@@ -211,12 +220,13 @@ I want to visit other places! </EnglishText>
       <JapaneseText>ここで三人で
 楽しく暮らせれば、
 それでいいじゃない？</JapaneseText>
-      <EnglishText>All three of us live happily here.
-Isn't that good enough for you? </EnglishText>
+      <EnglishText>Why can't we just have a
+fun life here, just the three
+of us? Wouldn't that be nice?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277412</PointerOffset>
@@ -224,7 +234,9 @@ Isn't that good enough for you? </EnglishText>
       <JapaneseText>そりゃ、オレだって
 そうできたらって思うよ！
 でも、だからって……</JapaneseText>
-      <EnglishText>I know what you're saying and all but still...</EnglishText>
+      <EnglishText>I mean, yeah, I'd love
+if we could do that!
+But, y'know, I still wanna...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
@@ -234,11 +246,11 @@ Isn't that good enough for you? </EnglishText>
       <PointerOffset>277476</PointerOffset>
       <VoiceId>&lt;audio:VSM_010_020_023&gt;</VoiceId>
       <JapaneseText>なに……？</JapaneseText>
-      <EnglishText>What was that? </EnglishText>
+      <EnglishText>Huh...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

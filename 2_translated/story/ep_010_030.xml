@@ -8,7 +8,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274016</PointerOffset>
@@ -16,12 +16,12 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274220,274468</PointerOffset>
       <JapaneseText>空からの訪問者</JapaneseText>
-      <EnglishText>Thing From The Sky</EnglishText>
+      <EnglishText>Visitor from the Sky</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Editing</Status>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>267896,268134,268199,268235,268306,268372,268411,268487,268558,268624,268635,268753,268839,268920,268996,269067,269133,269144,269313,269346,269357,269472,269582,269593,269720,269763,269948,270712,270723,270878,270986,271160,271236,271334,271440,271506,271559,271673,271870,272112,272177,272242,272307,272981,273322,273523,274692,274948,275152</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>267829</PointerOffset>
@@ -82,22 +82,22 @@
       <VoiceId>&lt;audio:VSM_010_030_001&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;、危ない……
 近づかないの……！</JapaneseText>
-      <EnglishText>&lt;Dio&gt;, it could be dangerous... 
-Don't get too close to it...! </EnglishText>
+      <EnglishText>It might be dangerous,
+&lt;Dio&gt;... Don't go up to it...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274020</PointerOffset>
       <VoiceId>&lt;audio:VSM_010_030_004&gt;</VoiceId>
       <JapaneseText>うぉっ……！</JapaneseText>
-      <EnglishText>Whoa! </EnglishText>
+      <EnglishText>Whoa...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274224</PointerOffset>
@@ -105,12 +105,14 @@ Don't get too close to it...! </EnglishText>
       <JapaneseText>ぷっは～、
 びっくらこいた、
 おどろいた、と</JapaneseText>
-      <EnglishText>Ta-dah! Did I surprise you? </EnglishText>
+      <EnglishText>Ooowaaaah~
+Well, that just about
+scared my socks off.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274224</PointerOffset>
@@ -118,25 +120,28 @@ Don't get too close to it...! </EnglishText>
       <JapaneseText>危うくバラバラになるとこだど。
 帰ったら文句言ってやんねぇと、
 ぶつぶつぶつ、と…</JapaneseText>
-      <EnglishText>I thought I'd be scattered all over the place, but turned 
-out to be a really nice landing. The journey was pretty rough, though. </EnglishText>
+      <EnglishText>I really thought I was fixin' to go to
+pieces there. Once I get back, I'll have
+to tell her off for that one, won't I...</EnglishText>
       <Notes>Review Translation</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274472</PointerOffset>
       <VoiceId>&lt;audio:VSM_010_030_008&gt;</VoiceId>
       <JapaneseText>あんだ、おめぇら、
 人のことジロジロ見て</JapaneseText>
-      <EnglishText>Oh! People are staring at me so infatuatedly! </EnglishText>
+      <EnglishText>Hey, you lot. What are
+ya just standin' there
+and starin' at me for?</EnglishText>
       <Notes>Review translation</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274472</PointerOffset>
@@ -144,34 +149,36 @@ out to be a really nice landing. The journey was pretty rough, though. </English
       <JapaneseText>はっはっはぁ～ん、
 このアルベルト様の格好良さに
 見とれてるんだべな？</JapaneseText>
-      <EnglishText>Hehehe. Do I, the great Albert, bear such 
-a nice figure to be observed like this? </EnglishText>
+      <EnglishText>Heh heh he~h. Taken
+with the Great Albert's
+ravishin' good looks, are ya?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274540</PointerOffset>
       <VoiceId>&lt;audio:VSM_010_030_010&gt;</VoiceId>
       <JapaneseText>アルベルト……？</JapaneseText>
-      <EnglishText>I take it your name is... Albert...? </EnglishText>
+      <EnglishText>Albert...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274696</PointerOffset>
       <VoiceId>&lt;audio:VSM_010_030_011&gt;</VoiceId>
       <JapaneseText>んだんだ、そうだど</JapaneseText>
-      <EnglishText>Yep, that'd be correct. </EnglishText>
+      <EnglishText>Yep, that's
+my name.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>8</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274696</PointerOffset>
@@ -179,28 +186,26 @@ a nice figure to be observed like this? </EnglishText>
       <JapaneseText>ノルン様のお達しで、
 おめぇらのとこに来てやっただ。
 感謝せぇよ</JapaneseText>
-      <EnglishText>...And since I’m such a good friend of Miss Norn I
-couldn’t refuse when she asked me to come all 
-the way here. Congratulations, you get to meet me!</EnglishText>
-      <Notes>...And since I’m such good friends with Miss Norn I
-couldn’t refuse when she asked me to come all 
-the way here. Congratulations, you get to meet me!
-~Gator </Notes>
+      <EnglishText>By Her Eminence, Norn's proclamation,
+I've come here to meet all of ya.
+You should be real grateful for that.</EnglishText>
+      <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274780</PointerOffset>
       <VoiceId>&lt;audio:VSM_010_030_013&gt;</VoiceId>
       <JapaneseText>ノルンの……！？
 どういうこと？</JapaneseText>
-      <EnglishText>Friend of Norn...!? Could it be THAT Norn...!? </EnglishText>
+      <EnglishText>Norn's...!?
+But why?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274952</PointerOffset>
@@ -208,12 +213,14 @@ the way here. Congratulations, you get to meet me!
       <JapaneseText>あ～ぁ、
 長旅してきたもんで、
 腹減っちまっただなぁ</JapaneseText>
-      <EnglishText>Ah! I'm so worn out from that long trip! </EnglishText>
+      <EnglishText>Aaaah... My journey's
+been real long, so I'm
+gettin' awful hungry...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274952</PointerOffset>
@@ -221,26 +228,27 @@ the way here. Congratulations, you get to meet me!
       <JapaneseText>ふかし芋の
 ひとつやふたつ、
 出てこんもんか？</JapaneseText>
-      <EnglishText>You've made me wait outside forever. Pfft, you 
-really must be country bumpkins if your manners 
-are this poor.</EnglishText>
-      <Notes>maybe "Pfff, you must really be country bumpkins with manners like that."  ~Gator</Notes>
+      <EnglishText>Ya wouldn't happen to
+have any taters you
+could cook up for me?</EnglishText>
+      <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275040</PointerOffset>
       <VoiceId>&lt;audio:VSM_010_030_016&gt;</VoiceId>
       <JapaneseText>じゃ、じゃあ……
 ひとまず中に……</JapaneseText>
-      <EnglishText>W-Well I guess you can come inside
-our house for the time being...</EnglishText>
+      <EnglishText>W-Well... Okay...
+Then, come in,
+I guess...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275156</PointerOffset>
@@ -248,13 +256,13 @@ our house for the time being...</EnglishText>
       <JapaneseText>あー、そったら中行くだが。
 芋だけじゃなく、
 茶も出すんだど</JapaneseText>
-      <EnglishText>Oh, let's get inside, yes! Maybe you're not that much of a 
-country bumpkin, after all. But don't worry—I understand how much 
-you desired a tea party outside with me. </EnglishText>
-      <Notes>I don't think that's quite right. May need a translator to review that.</Notes>
+      <EnglishText>Ahh... But if we're goin' inside,
+you'll have to get me some
+tea, not just some taters.</EnglishText>
+      <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>14</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
