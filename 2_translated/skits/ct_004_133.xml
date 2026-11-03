@@ -38,7 +38,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>42052</PointerOffset>
@@ -50,7 +50,7 @@ an attack like that, no enemy can beat us!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>42124</PointerOffset>
@@ -60,7 +60,7 @@ an attack like that, no enemy can beat us!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>42232</PointerOffset>
@@ -72,7 +72,7 @@ up with something even stronger?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>42292</PointerOffset>
@@ -82,7 +82,7 @@ up with something even stronger?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>42400</PointerOffset>
@@ -90,11 +90,11 @@ up with something even stronger?</EnglishText>
       <JapaneseText>この攻撃、使い方が難しすぎて
 次も出せる自信がないっ！</JapaneseText>
       <EnglishText>Those moves were so advanced, I'm
-not sure I can ever pull'em off again!</EnglishText>
-      <Notes/>
+not sure I can ever pull 'em off again!</EnglishText>
+      <Notes>pull'em is not a word. 'em is shorthand for 'them', so it needs proper spacing. -dragon</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>42476</PointerOffset>
@@ -104,7 +104,7 @@ not sure I can ever pull'em off again!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>

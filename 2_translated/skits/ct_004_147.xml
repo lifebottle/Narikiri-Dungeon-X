@@ -50,12 +50,12 @@
       <VoiceId>&lt;audio:VCT_004_147_000&gt;</VoiceId>
       <JapaneseText>ありがとう、&lt;Mint&gt;。
 君のおかげでいつも助かってるよ</JapaneseText>
-      <EnglishText>Thanks、&lt;Mint&gt;. You're always
+      <EnglishText>Thanks, &lt;Mint&gt;. You're always
 there when I need you.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>43932</PointerOffset>
@@ -66,7 +66,7 @@ do that much, &lt;Cless&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>44012</PointerOffset>
@@ -76,7 +76,7 @@ do that much, &lt;Cless&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>44156</PointerOffset>
@@ -86,7 +86,7 @@ do that much, &lt;Cless&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>44224</PointerOffset>
@@ -96,7 +96,7 @@ do that much, &lt;Cless&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>44296</PointerOffset>
@@ -106,7 +106,7 @@ do that much, &lt;Cless&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>44464</PointerOffset>
@@ -118,7 +118,7 @@ go and get a room, you two!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>44536</PointerOffset>
@@ -128,19 +128,20 @@ go and get a room, you two!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>8</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>44640</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_147_010&gt;</VoiceId>
       <JapaneseText>ち、違うってば！
 年寄りのひがみとかじゃないからね！</JapaneseText>
-      <EnglishText>Th-That's not it at all! But, a lonely
-old man would think like that!</EnglishText>
-      <Notes/>
+      <EnglishText>Th-That's not it at all! But, only a lonely old
+man like you would say something like that!</EnglishText>
+      <Notes>not sure about the wording of this. "Th-That's not it at all! But, a lonely
+old man would think like that!" proposed rewrite below. -dragonbleapiece</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>44732</PointerOffset>
@@ -150,7 +151,7 @@ old man would think like that!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>
