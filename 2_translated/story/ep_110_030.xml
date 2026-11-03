@@ -8,12 +8,12 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277112,277292,277468,278712,278896,279124,279300,279520,279788</PointerOffset>
       <JapaneseText>行列のおばさん</JapaneseText>
-      <EnglishText>Granny</EnglishText>
+      <EnglishText>Queued Lady</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Editing</Status>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278536</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271053</PointerOffset>
@@ -81,54 +81,59 @@
       <PointerOffset>277012</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_030_001&gt;</VoiceId>
       <JapaneseText>……何並んでんだ、これ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...What's this
+big line for?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277116</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_030_002&gt;</VoiceId>
       <JapaneseText>あら？　ボクちゃんたち、
 横入りはダメよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, dear. You can't just
+cut in line, you know?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277192</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_030_003&gt;</VoiceId>
       <JapaneseText>これ、何の列なんですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What are you
+queuing for, though?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277296</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_030_004&gt;</VoiceId>
       <JapaneseText>&lt;Mint&gt;様に診察してもらう
 順番を待ってるのよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We're all awaiting our turns
+to be seen by Lady &lt;Mint&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277376</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_030_005&gt;</VoiceId>
       <JapaneseText>&lt;Mint&gt;って……
 時空戦士の？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt;... The
+Hero of Time?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277472</PointerOffset>
@@ -136,21 +141,23 @@
       <JapaneseText>そうよ。
 ここが最後尾。
 ９時間待ち</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes, the same. The end
+of the line is here. It
+should be a nine hour wait.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277540</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_030_007&gt;</VoiceId>
       <JapaneseText>く、９時間！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>N-Nine hours!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278392</PointerOffset>
@@ -158,63 +165,67 @@
       <JapaneseText>&lt;Mint&gt;は時空戦士の法術師で、
 結社を作って、
 世界に法術を広めた人なんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt; was the Cleric for the Heroes of Time,
+and then she formed a clerical society
+and spread her artes throughout the world.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278456</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_030_018&gt;</VoiceId>
       <JapaneseText>詳しいんだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You do know a lot.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278540</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_030_019&gt;</VoiceId>
       <JapaneseText>今は&lt;Cless&gt;さんに
 会うんでしょ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Don't we need
+to meet &lt;Cless&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278612</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_030_020&gt;</VoiceId>
       <JapaneseText>あ、そうだった……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, yeah...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278716</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_030_021&gt;</VoiceId>
       <JapaneseText>あら？　道場の入門者なの、
 ボクちゃんたち</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, my? Are you hoping
+to apply to the dojo?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278788</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_030_022&gt;</VoiceId>
       <JapaneseText>え？　いや、あの……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Eh? No, uh...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278900</PointerOffset>
@@ -222,137 +233,147 @@
       <JapaneseText>&lt;Cless&gt;様の道場なら、
 そこの橋渡ったとこに
 あるわよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Master &lt;Cless&gt;'s dojo is
+just across that bridge.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279052</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_030_025&gt;</VoiceId>
       <JapaneseText>おばさん、
 ありがとうございます</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Thank you very
+much, Miss!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279128</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_030_026&gt;</VoiceId>
       <JapaneseText>はい、ご丁寧に</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yes, you're very
+welcome.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279200</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_030_027&gt;</VoiceId>
       <JapaneseText>教会ってこれだよな？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So this is the
+church, huh?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>17</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279304</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_030_028&gt;</VoiceId>
       <JapaneseText>あら？　ボクちゃんたち、
 横入りはダメよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, dear. You can't just
+cut in line, you know?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>18</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279380</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_030_029&gt;</VoiceId>
       <JapaneseText>これ、何の列なんですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What are you
+queuing for, though?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>19</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279524</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_030_030&gt;</VoiceId>
       <JapaneseText>&lt;Mint&gt;様に診察してもらう
 順番を待ってるの</JapaneseText>
-      <EnglishText/>
+      <EnglishText>We're awaiting our turns
+to be seen by Lady &lt;Mint&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>20</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279524</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_030_031&gt;</VoiceId>
       <JapaneseText>ここが最後尾、９時間待ち</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The end of the line is here. It
+should be a nine hour wait.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279592</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_030_032&gt;</VoiceId>
       <JapaneseText>く、９時間！？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>N-Nine hours!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>22</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279792</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_030_034&gt;</VoiceId>
       <JapaneseText>ボクちゃんたちは若いのに、
 どこが悪いの？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You're so young, though.
+What seems to be ailing you?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>23</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279856</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_030_035&gt;</VoiceId>
       <JapaneseText>い、いえ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No, we're not...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>24</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279924</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_030_036&gt;</VoiceId>
       <JapaneseText>９時間待ち……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A nine hour wait...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280000</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_030_037&gt;</VoiceId>
       <JapaneseText>さすがにちょっとな……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, that's
+*way* too long...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>26</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

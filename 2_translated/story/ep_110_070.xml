@@ -32,7 +32,7 @@
       <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285752,288228</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286020,287684</PointerOffset>
@@ -64,7 +64,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287748</PointerOffset>
@@ -121,41 +121,42 @@
       <PointerOffset>285224</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_000&gt;</VoiceId>
       <JapaneseText>おかえり、兄ちゃん！</JapaneseText>
-      <EnglishText>Welcome home, brother!</EnglishText>
+      <EnglishText>Hey, bro! Welcome back!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285292</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_001&gt;</VoiceId>
       <JapaneseText>腹へった～</JapaneseText>
-      <EnglishText>I'm hungryyyy...</EnglishText>
+      <EnglishText>I'm hungry~</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285372</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_002&gt;</VoiceId>
       <JapaneseText>この人たち、誰～？</JapaneseText>
-      <EnglishText>Hey, who are these people?</EnglishText>
+      <EnglishText>Who are these people~?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285452</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_003&gt;</VoiceId>
       <JapaneseText>お客さんだ。静かにしてろよ？</JapaneseText>
-      <EnglishText>They're guests, so behave yourselves.</EnglishText>
+      <EnglishText>They're visitors. Can you
+keep it down for a bit?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285756</PointerOffset>
@@ -165,50 +166,52 @@
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285868</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_008&gt;</VoiceId>
       <JapaneseText>戦争で親を亡くした子どもたちだ。
 オレが引き取って面倒みてる</JapaneseText>
-      <EnglishText>These kids lost their parents in the war...
-So I decided to take care of them myself.</EnglishText>
+      <EnglishText>They're children who lost their
+parents in the war. I took them
+in, and now I look after 'em.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285964</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_009&gt;</VoiceId>
       <JapaneseText>ミリー、お客さんが来たときは
 どうするんだ？</JapaneseText>
-      <EnglishText>Milly, how do we greet our guests?</EnglishText>
+      <EnglishText>Milly. What do we do
+when we have visitors?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286024</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_010&gt;</VoiceId>
       <JapaneseText>お茶～！</JapaneseText>
-      <EnglishText>With tea!</EnglishText>
+      <EnglishText>Make tea~!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286092</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_011&gt;</VoiceId>
       <JapaneseText>腹へったよ～</JapaneseText>
-      <EnglishText>I'm still hungryyy...</EnglishText>
+      <EnglishText>I'm hungry~</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286188</PointerOffset>
@@ -216,57 +219,61 @@ So I decided to take care of them myself.</EnglishText>
       <JapaneseText>グリッド、ジョンに
 飯の支度を
 してやってくれ</JapaneseText>
-      <EnglishText>Grid, prepare John some food.</EnglishText>
+      <EnglishText>Grid, please make
+some food for John.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286260</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_013&gt;</VoiceId>
       <JapaneseText>火使ってもいいの？</JapaneseText>
-      <EnglishText>Is it okay to use fire?</EnglishText>
+      <EnglishText>I can turn
+the fire on?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286360</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_014&gt;</VoiceId>
       <JapaneseText>ああ、オレもいるしな。
 なにかあったら呼ぶんだぞ</JapaneseText>
-      <EnglishText>Yeah. I'll be around here. If anything
-happens, just gimme a shout.</EnglishText>
+      <EnglishText>Yeah. I'm home, so it's
+alright. Let me know
+if anything happens.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286472</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_015&gt;</VoiceId>
       <JapaneseText>さてと。なんだっけ、&lt;Cless&gt;と
 &lt;Mint&gt;に会いに来たんだったか</JapaneseText>
-      <EnglishText>With that out of the way... Why
-did you come here to meet
+      <EnglishText>That aside. So what,
+you wanted to meet
 with &lt;Cless&gt; and &lt;Mint&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286564</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_016&gt;</VoiceId>
       <JapaneseText>うん、えっと……
 何から話せばいいかな？</JapaneseText>
-      <EnglishText>Yeah, uhh... Where should we start?</EnglishText>
+      <EnglishText>Yeah. Uhh... Where
+do I start...?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>14</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286724</PointerOffset>
@@ -274,37 +281,38 @@ with &lt;Cless&gt; and &lt;Mint&gt;?</EnglishText>
       <JapaneseText>なるほど……
 マクスウェルってことは、
 &lt;Red&gt;モーリア坑道&lt;White&gt;だな</JapaneseText>
-      <EnglishText>So that's why... To meet Maxwell, you'll
-need to go to the &lt;Red&gt;Moria Mine&lt;White&gt;.</EnglishText>
+      <EnglishText>Ah, I see... Maxwell'll
+be in &lt;Red&gt;Moria Mine&lt;White&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286724</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_018&gt;</VoiceId>
       <JapaneseText>よし、オレが一緒に
 行ってやるよ</JapaneseText>
-      <EnglishText>I've decided...I'll tag
-along with you guys.</EnglishText>
+      <EnglishText>Alright, I'll come
+with you, too.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286816</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_019&gt;</VoiceId>
       <JapaneseText>でも&lt;Chester&gt;さんも
 忙しいんじゃねーの？</JapaneseText>
-      <EnglishText>But, aren't you busy, Mister &lt;Chester&gt;?</EnglishText>
+      <EnglishText>You're not too busy,
+Ches...er, Mr. Barklight?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>17</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287084</PointerOffset>
@@ -312,12 +320,13 @@ along with you guys.</EnglishText>
       <JapaneseText>……ああ、オレは
 &lt;Cless&gt;や&lt;Mint&gt;とは
 違うんだ</JapaneseText>
-      <EnglishText>...Nah. I'm not &lt;Cless&gt; or &lt;Mint&gt;, you know.</EnglishText>
+      <EnglishText>...Nah. I'm a little different
+from &lt;Cless&gt; and &lt;Mint&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>18</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287084</PointerOffset>
@@ -325,14 +334,14 @@ along with you guys.</EnglishText>
       <JapaneseText>ちょっと言い方がキツいせいで
 周りから『コワいヤツ』って
 思われてるみたいだしな</JapaneseText>
-      <EnglishText>Maybe I'm trying too hard to act tough.
-It's all thanks to someone who told me
-I was "too weak" long ago.</EnglishText>
+      <EnglishText>The way I talk's a bit rough,
+so I guess people think of
+me as..."that scary guy."</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287320</PointerOffset>
@@ -340,197 +349,203 @@ I was "too weak" long ago.</EnglishText>
       <JapaneseText>でもさ、
 あの子どもたちには
 したわれてんだろ？</JapaneseText>
-      <EnglishText>But, can you really leave
-these kids behind?</EnglishText>
+      <EnglishText>But hey, those children
+look up to you, don't they?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>20</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287428</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_026&gt;</VoiceId>
       <JapaneseText>ま、子どもにはな……</JapaneseText>
-      <EnglishText>Kids? Hah!</EnglishText>
+      <EnglishText>Well, yeah, it's a bit
+different with kids...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>21</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287428</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_027&gt;</VoiceId>
       <JapaneseText>じゃ、行くかな</JapaneseText>
-      <EnglishText>All right, let's get moving.</EnglishText>
+      <EnglishText>Well, let's go?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287512</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_028&gt;</VoiceId>
       <JapaneseText>兄ちゃん！　どこ行くんだ！？</JapaneseText>
-      <EnglishText>Big brother! Are you going somewhere!?</EnglishText>
+      <EnglishText>Bro! Where're you going!?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>23</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287616</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_029&gt;</VoiceId>
       <JapaneseText>ああ、ちょっとそこまでな。
 おとなしく留守番してろよ</JapaneseText>
-      <EnglishText>Yup, I'm going out for a bit. You guys
-take care of everything here, okay?</EnglishText>
+      <EnglishText>Nah, I won't be out for
+too long. Just look after
+the house for me, yeah?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>24</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287688</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_030&gt;</VoiceId>
       <JapaneseText>置いてっちゃやだ～！</JapaneseText>
-      <EnglishText>Don't leaaave us!</EnglishText>
+      <EnglishText>Don't leave us~!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>25</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287752</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_031&gt;</VoiceId>
       <JapaneseText>腹へった～！</JapaneseText>
-      <EnglishText>I'm STILL hungry!</EnglishText>
+      <EnglishText>I'm hungry~!</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>26</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287820</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_032&gt;</VoiceId>
       <JapaneseText>すぐ帰ってくるよ</JapaneseText>
-      <EnglishText>I'll be back soon!</EnglishText>
+      <EnglishText>I'll be right back.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>27</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287932</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_033&gt;</VoiceId>
       <JapaneseText>ジョン、食いすぎて腹壊すなよ。
 ミリー、寝る前には歯磨きだぞ</JapaneseText>
-      <EnglishText>John, don't eat too much or you'll
-get a stomach ache! Milly, brush
-your teeth before going to bed!</EnglishText>
+      <EnglishText>John, if you eat too much,
+you'll get sick. Milly, brush
+your teeth before bed.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>28</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288016</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_034&gt;</VoiceId>
       <JapaneseText>グリッド、
 ふたりのこと頼んだぞ</JapaneseText>
-      <EnglishText>Grid, I leave these two in your care.</EnglishText>
+      <EnglishText>Grid, look after them for me.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>29</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288084</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_035&gt;</VoiceId>
       <JapaneseText>う、うん……</JapaneseText>
-      <EnglishText>Y-Yeah...</EnglishText>
+      <EnglishText>O-Okay...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>30</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288148</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_036&gt;</VoiceId>
       <JapaneseText>さ、行くぞ</JapaneseText>
-      <EnglishText>Now, let's get moving!</EnglishText>
+      <EnglishText>Come on, let's go.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>31</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288232</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_037&gt;</VoiceId>
       <JapaneseText>い、いいんですか、
 &lt;Chester&gt;さん</JapaneseText>
-      <EnglishText>A-Are you sure about this, Mister &lt;Chester&gt;?</EnglishText>
+      <EnglishText>I-Is this really okay,
+Mr. Barklight?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>32</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288384</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_038&gt;</VoiceId>
       <JapaneseText>ああ、道場の連中も親切で、
 面倒見てくれてるからな</JapaneseText>
-      <EnglishText>Sure. The Dojo's trainees will also
-pitch in to help with the kids.</EnglishText>
+      <EnglishText>Yeah. The guys at the dojo
+are all nice people, too, so
+they'll look after them for me.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>33</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288384</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_039&gt;</VoiceId>
       <JapaneseText>それから、
 『さん』はいらないぜ</JapaneseText>
-      <EnglishText>Oh, and drop the whole "Mister" thing.</EnglishText>
+      <EnglishText>Oh, and just
+call me &lt;Chester&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>33</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288452</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_040&gt;</VoiceId>
       <JapaneseText>え？　マジか？</JapaneseText>
-      <EnglishText>R-Really?</EnglishText>
+      <EnglishText>Eh? You sure?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>35</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288516</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_041&gt;</VoiceId>
       <JapaneseText>もちろんだ</JapaneseText>
-      <EnglishText>Of course!</EnglishText>
+      <EnglishText>Yeah, absolutely.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>36</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>288600</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_070_042&gt;</VoiceId>
       <JapaneseText>わかった！　よろしくな、
 &lt;Chester&gt;</JapaneseText>
-      <EnglishText>Right, then! Nice to have you around, &lt;Chester&gt;!</EnglishText>
+      <EnglishText>Alright! Nice to
+meet you, &lt;Chester&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>37</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
