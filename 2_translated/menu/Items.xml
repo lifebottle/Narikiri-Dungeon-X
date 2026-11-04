@@ -3770,7 +3770,7 @@ wreathed in darkness. Few can use it well.</EnglishText>
     <Entry>
       <PointerOffset>11852</PointerOffset>
       <JapaneseText>忍刀螺旋</JapaneseText>
-      <EnglishText>Nintou Rasen</EnglishText>
+      <EnglishText>Ninja Sword: Rasen</EnglishText>
       <Notes/>
       <Id>424</Id>
       <Status>Editing</Status>
@@ -3780,7 +3780,7 @@ wreathed in darkness. Few can use it well.</EnglishText>
       <JapaneseText>物攻＋２３０　敏捷＋１０
 風属性武器</JapaneseText>
       <EnglishText>ATK + 230　AGI + 10
-Wind Property</EnglishText>
+Wind Attrib. Weapon</EnglishText>
       <Notes/>
       <Id>425</Id>
       <Status>Editing</Status>
@@ -3789,8 +3789,8 @@ Wind Property</EnglishText>
       <PointerOffset>11916</PointerOffset>
       <JapaneseText>シノビ用の短剣。
 重さを全く感じさせない</JapaneseText>
-      <EnglishText>An almost weightless dagger used
-by shinobi.</EnglishText>
+      <EnglishText>A short sword for shinobi. It
+feels weightless in the hand.</EnglishText>
       <Notes/>
       <Id>426</Id>
       <Status>Editing</Status>
@@ -3798,7 +3798,7 @@ by shinobi.</EnglishText>
     <Entry>
       <PointerOffset>11936</PointerOffset>
       <JapaneseText>忍刀地桜</JapaneseText>
-      <EnglishText>Nintou Jizakura</EnglishText>
+      <EnglishText>Ninja Sword: Chiyou</EnglishText>
       <Notes/>
       <Id>427</Id>
       <Status>Editing</Status>
@@ -3815,8 +3815,8 @@ by shinobi.</EnglishText>
       <PointerOffset>12000</PointerOffset>
       <JapaneseText>シノビ用の短剣。
 とある名刀のレプリカ</JapaneseText>
-      <EnglishText>A dagger used by shinobi. Thought to be
-a replica of a smaller version.</EnglishText>
+      <EnglishText>A short sword for shinobi. A
+replica of a famous blade.</EnglishText>
       <Notes/>
       <Id>429</Id>
       <Status>Editing</Status>
@@ -3824,7 +3824,7 @@ a replica of a smaller version.</EnglishText>
     <Entry>
       <PointerOffset>12020</PointerOffset>
       <JapaneseText>忍刀血桜</JapaneseText>
-      <EnglishText>Nintou Chizakura</EnglishText>
+      <EnglishText>Ninja Sword: Ketsuyou</EnglishText>
       <Notes/>
       <Id>430</Id>
       <Status>Editing</Status>
@@ -3834,7 +3834,7 @@ a replica of a smaller version.</EnglishText>
       <JapaneseText>物攻＋２３５　
 闇属性武器</JapaneseText>
       <EnglishText>ATK + 235　
-Darkness Property</EnglishText>
+Dark Attrib. Weapon</EnglishText>
       <Notes/>
       <Id>431</Id>
       <Status>Editing</Status>
@@ -3843,8 +3843,8 @@ Darkness Property</EnglishText>
       <PointerOffset>12084</PointerOffset>
       <JapaneseText>シノビ用の短剣。
 血が桜の花びらのように散ることから名付けられた</JapaneseText>
-      <EnglishText>A dagger used by shinobi. Named after the
-cherry blossoms that fall like blood.</EnglishText>
+      <EnglishText>A sword sword for shinobi, named "Blood Sakura." It's
+named after blood spray, falling like petals in the wind.</EnglishText>
       <Notes/>
       <Id>432</Id>
       <Status>Editing</Status>
@@ -3862,7 +3862,7 @@ cherry blossoms that fall like blood.</EnglishText>
       <JapaneseText>物攻＋２０５
 追加効果：受ける魔法ダメージを低確率で１にする</JapaneseText>
       <EnglishText>ATK + 205
-Effect: Magical damage received may drop to 1</EnglishText>
+Effect: Incoming Mag. Damage = 1 (Low %)</EnglishText>
       <Notes/>
       <Id>434</Id>
       <Status>Editing</Status>
@@ -3871,8 +3871,8 @@ Effect: Magical damage received may drop to 1</EnglishText>
       <PointerOffset>12168</PointerOffset>
       <JapaneseText>大きなぐるぐるうずまきは子ども達に大人気。
 振り回すと危ないよ！</JapaneseText>
-      <EnglishText>It's quite popular with the children! Twirl it
-around and try to reach it's chocolate center!~</EnglishText>
+      <EnglishText>Its swirling pattern is quite popular
+with children. Dangerous if swung!</EnglishText>
       <Notes/>
       <Id>435</Id>
       <Status>Editing</Status>
@@ -3880,7 +3880,7 @@ around and try to reach it's chocolate center!~</EnglishText>
     <Entry>
       <PointerOffset>12188</PointerOffset>
       <JapaneseText>ねこにん刀</JapaneseText>
-      <EnglishText>Katz Katana</EnglishText>
+      <EnglishText>Ninya Sword</EnglishText>
       <Notes/>
       <Id>436</Id>
       <Status>Editing</Status>
@@ -3890,7 +3890,7 @@ around and try to reach it's chocolate center!~</EnglishText>
       <JapaneseText>物攻＋７７
 追加効果：空中で&lt;MOVE_D&gt;&lt;MOVE_D&gt;入力で瞬時に着地、攻撃が可能</JapaneseText>
       <EnglishText>ATK + 77
-Effect: In the air, press &lt;MOVE_D&gt;&lt;MOVE_D&gt; to land instantly.</EnglishText>
+Effect: &lt;MOVE_D&gt;&lt;MOVE_D&gt; in air to land and act instantly.</EnglishText>
       <Notes/>
       <Id>437</Id>
       <Status>Editing</Status>
@@ -3899,8 +3899,8 @@ Effect: In the air, press &lt;MOVE_D&gt;&lt;MOVE_D&gt; to land instantly.</Engli
       <PointerOffset>12252</PointerOffset>
       <JapaneseText>絵本に登場する、「猫の姿のシノビ」を
 モチーフに作られた業物</JapaneseText>
-      <EnglishText>A katana that appears in the book called
-"Shinobi Cat"!</EnglishText>
+      <EnglishText>A blade designed after the "Cat-Shaped
+Shinobi" who appears in picture books.</EnglishText>
       <Notes/>
       <Id>438</Id>
       <Status>Editing</Status>
@@ -3918,7 +3918,7 @@ Effect: In the air, press &lt;MOVE_D&gt;&lt;MOVE_D&gt; to land instantly.</Engli
       <JapaneseText>物攻＋３０
 追加効果：受ける物理ダメージを低確率で１にする</JapaneseText>
       <EnglishText>ATK + 30
-Effect: Physical damage received may drop to 1</EnglishText>
+Effect: Incoming Phys. Damage = 1 (Low %)</EnglishText>
       <Notes/>
       <Id>440</Id>
       <Status>Editing</Status>
@@ -3927,8 +3927,8 @@ Effect: Physical damage received may drop to 1</EnglishText>
       <PointerOffset>12336</PointerOffset>
       <JapaneseText>ピコッ！　ピコッ！　もひとつピコッ！
 魔物限定で大ダメージ！</JapaneseText>
-      <EnglishText>Piko!~ Piko!~ The greatest weapon of all
-time!~ Useful against large monsters.</EnglishText>
+      <EnglishText>Pow! Pow! And again, POW! It deals
+huge damage, but only to monsters!</EnglishText>
       <Notes/>
       <Id>441</Id>
       <Status>Editing</Status>
@@ -3952,7 +3952,7 @@ time!~ Useful against large monsters.</EnglishText>
     <Entry>
       <PointerOffset>12420</PointerOffset>
       <JapaneseText>実用第一のハンティングナイフ</JapaneseText>
-      <EnglishText>One of the first practical hunting knives.</EnglishText>
+      <EnglishText>The most practical of hunting knives.</EnglishText>
       <Notes/>
       <Id>444</Id>
       <Status>Editing</Status>
@@ -3976,8 +3976,8 @@ time!~ Useful against large monsters.</EnglishText>
     <Entry>
       <PointerOffset>12504</PointerOffset>
       <JapaneseText>使いやすい長さを考えて作られた短剣</JapaneseText>
-      <EnglishText>A long dagger designed for beginners to
-use without much trouble.</EnglishText>
+      <EnglishText>A dagger designed with the
+perfect length for ease-of-use.</EnglishText>
       <Notes/>
       <Id>447</Id>
       <Status>Editing</Status>
@@ -4001,8 +4001,8 @@ use without much trouble.</EnglishText>
     <Entry>
       <PointerOffset>12588</PointerOffset>
       <JapaneseText>鋼板を貫通する程の鋭さを秘めた短剣</JapaneseText>
-      <EnglishText>An easy-to-conceal dagger that's sharp
-enough to cut steel.</EnglishText>
+      <EnglishText>A dagger that, despite appearances,
+is sharp enough to pierce steel plate.</EnglishText>
       <Notes/>
       <Id>450</Id>
       <Status>Editing</Status>
@@ -4026,8 +4026,8 @@ enough to cut steel.</EnglishText>
     <Entry>
       <PointerOffset>12672</PointerOffset>
       <JapaneseText>相手を苦しませずに葬る慈悲の短剣</JapaneseText>
-      <EnglishText>A dagger made to kill your enemy without
-making them suffer.</EnglishText>
+      <EnglishText>A merciful dagger, designed so
+those killed by it do not suffer.</EnglishText>
       <Notes/>
       <Id>453</Id>
       <Status>Editing</Status>
@@ -4045,7 +4045,7 @@ making them suffer.</EnglishText>
       <JapaneseText>物攻＋１２２
 追加効果：敵のガードを崩しやすくなる</JapaneseText>
       <EnglishText>ATK + 122
-Effect: Chance of guard break increases</EnglishText>
+Effect: Breaks enemy guard more easily.</EnglishText>
       <Notes/>
       <Id>455</Id>
       <Status>Editing</Status>
@@ -4053,7 +4053,8 @@ Effect: Chance of guard break increases</EnglishText>
     <Entry>
       <PointerOffset>12756</PointerOffset>
       <JapaneseText>相手の武器を破砕するのが目的の短剣</JapaneseText>
-      <EnglishText>A dagger created to crush opponents.</EnglishText>
+      <EnglishText>A dagger designed to
+destroy opponents' weapons.</EnglishText>
       <Notes/>
       <Id>456</Id>
       <Status>Editing</Status>
@@ -4071,7 +4072,7 @@ Effect: Chance of guard break increases</EnglishText>
       <JapaneseText>物攻＋１６８
 追加効果：敵を熱毒状態にすることがある</JapaneseText>
       <EnglishText>ATK + 168
-Effect: Poison</EnglishText>
+Effect: Inflicts Poison</EnglishText>
       <Notes/>
       <Id>458</Id>
       <Status>Editing</Status>
@@ -4079,8 +4080,8 @@ Effect: Poison</EnglishText>
     <Entry>
       <PointerOffset>12840</PointerOffset>
       <JapaneseText>刀身に毒が仕込まれた、致命の一撃を放つ短剣</JapaneseText>
-      <EnglishText>A poisoned dagger often used by those
-who go for the kill no matter what.</EnglishText>
+      <EnglishText>A dagger with poison in the blade.
+It can take a life with a single stroke.</EnglishText>
       <Notes/>
       <Id>459</Id>
       <Status>Editing</Status>
@@ -4105,8 +4106,7 @@ who go for the kill no matter what.</EnglishText>
       <PointerOffset>12924</PointerOffset>
       <JapaneseText>精緻な装飾がほどこされた短剣。
 外見とは裏腹に鋭い切れ味を持つ</JapaneseText>
-      <EnglishText>A dagger adorned with many
-decorations. Despite that, it's quite sharp.</EnglishText>
+      <EnglishText>A dagger adorned with many detailed decorations. Despite its appearance, it's very sharp.</EnglishText>
       <Notes/>
       <Id>462</Id>
       <Status>Editing</Status>
@@ -4124,7 +4124,7 @@ decorations. Despite that, it's quite sharp.</EnglishText>
       <JapaneseText>物攻＋２００
 水属性武器</JapaneseText>
       <EnglishText>ATK + 200
-Water Property</EnglishText>
+Water Attrib. Weapon</EnglishText>
       <Notes/>
       <Id>464</Id>
       <Status>Editing</Status>
@@ -4132,8 +4132,8 @@ Water Property</EnglishText>
     <Entry>
       <PointerOffset>13008</PointerOffset>
       <JapaneseText>人喰い鮫の牙のように鋭い短剣</JapaneseText>
-      <EnglishText>A dagger that's as sharp as a shark
-tooth.</EnglishText>
+      <EnglishText>A dagger as sharp as a
+maneating shark's teeth.</EnglishText>
       <Notes/>
       <Id>465</Id>
       <Status>Editing</Status>
@@ -4151,7 +4151,7 @@ tooth.</EnglishText>
       <JapaneseText>最大ＨＰ＋５００　物攻＋２２０　術防＋５
 敏捷＋５　幸運＋５　光属性武器</JapaneseText>
       <EnglishText>Max HP + 500　ATK + 220　MDEF + 5
-AGI + 5　Luck + 5　Light Property</EnglishText>
+AGI + 5　Luck + 5　Light Attrib. Weapon</EnglishText>
       <Notes/>
       <Id>467</Id>
       <Status>Editing</Status>
@@ -4160,8 +4160,8 @@ AGI + 5　Luck + 5　Light Property</EnglishText>
       <PointerOffset>13092</PointerOffset>
       <JapaneseText>無骨な外見の短剣。
 一切の無駄がなく機能的な逸品</JapaneseText>
-      <EnglishText>An ancient dagger worn from years of use.
-Barely functional, yet somehow very sharp.</EnglishText>
+      <EnglishText>A dagger with a very rough form,
+and yet a masterpiece in function.</EnglishText>
       <Notes/>
       <Id>468</Id>
       <Status>Editing</Status>
@@ -4177,17 +4177,17 @@ Barely functional, yet somehow very sharp.</EnglishText>
     <Entry>
       <PointerOffset>13172</PointerOffset>
       <JapaneseText>物攻＋７７　物防＋５　敏捷－５</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ATK + 77　DEF + 5　AGI - 5</EnglishText>
       <Notes/>
       <Id>470</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13176</PointerOffset>
       <JapaneseText>お掃除にも使えて一石二鳥！
 トイレは清潔にね</JapaneseText>
-      <EnglishText>Sweep up bad guys across time in one
-fell swoop!~</EnglishText>
+      <EnglishText>Also good for cleaning. Two birds,
+one stone! Keep your toilet clean.</EnglishText>
       <Notes/>
       <Id>471</Id>
       <Status>Editing</Status>
@@ -4203,17 +4203,17 @@ fell swoop!~</EnglishText>
     <Entry>
       <PointerOffset>13256</PointerOffset>
       <JapaneseText>物攻＋４０　物防＋５　敏捷－５</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ATK + 40　DEF + 5　AGI - 5</EnglishText>
       <Notes/>
       <Id>473</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13260</PointerOffset>
       <JapaneseText>とても重厚な戦斧。
 その重量はやわな戦士では扱えない程</JapaneseText>
-      <EnglishText>A very heavy battle-axe. Commonly used
-by warriors in a distant land.</EnglishText>
+      <EnglishText>A very heavy battleaxe. Because of its
+weight, it's unusable by weaker warriors.</EnglishText>
       <Notes/>
       <Id>474</Id>
       <Status>Editing</Status>
@@ -4229,17 +4229,17 @@ by warriors in a distant land.</EnglishText>
     <Entry>
       <PointerOffset>13340</PointerOffset>
       <JapaneseText>物攻＋５６　物防＋５　敏捷－５</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ATK + 56　DEF + 5　AGI - 5</EnglishText>
       <Notes/>
       <Id>476</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13344</PointerOffset>
       <JapaneseText>威圧感たっぷりの巨大な戦斧。
 柄の長いものは正規軍にも採用されている</JapaneseText>
-      <EnglishText>A massive battle axe that radiates a formidable presence.
-Variants with long-handles are used by the army.</EnglishText>
+      <EnglishText>A huge, and quite intimidating, battleaxe.
+It has a long handle. Often used by armies.</EnglishText>
       <Notes/>
       <Id>477</Id>
       <Status>Editing</Status>
@@ -4256,17 +4256,18 @@ Variants with long-handles are used by the army.</EnglishText>
       <PointerOffset>13424</PointerOffset>
       <JapaneseText>物攻＋１１０　物防＋５　敏捷－５
 水属性武器</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ATK + 110　DEF + 5　AGI - 5
+Water Attrib. Weapon</EnglishText>
       <Notes/>
       <Id>479</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13428</PointerOffset>
       <JapaneseText>蒼く輝く美しき戦斧。
 ウンディーネの力が宿っている</JapaneseText>
-      <EnglishText>A beautiful battle axe that shines blue.
-It is imbued with Undine's power.</EnglishText>
+      <EnglishText>A beautiful battleaxe with a blue
+gleam. Undine's power rests inside it.</EnglishText>
       <Notes/>
       <Id>480</Id>
       <Status>Editing</Status>
@@ -4282,17 +4283,17 @@ It is imbued with Undine's power.</EnglishText>
     <Entry>
       <PointerOffset>13508</PointerOffset>
       <JapaneseText>物攻＋１２６　物防＋５　敏捷－５</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ATK + 126　DEF + 5　AGI - 5</EnglishText>
       <Notes/>
       <Id>482</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13512</PointerOffset>
       <JapaneseText>多くの軍隊で採用される万能斧。
 様々な使い方ができるが、熟練には時間を要する</JapaneseText>
-      <EnglishText>A versatile axe use in most military armies.
-It has many uses, but mastering it takes time.</EnglishText>
+      <EnglishText>A versatile axe used by many military corps. It can be used
+in many ways, but it takes a long time to learn them all.</EnglishText>
       <Notes/>
       <Id>483</Id>
       <Status>Editing</Status>
@@ -4309,17 +4310,18 @@ It has many uses, but mastering it takes time.</EnglishText>
       <PointerOffset>13592</PointerOffset>
       <JapaneseText>物攻＋７０　物防＋５　敏捷－５
 風属性武器</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ATK + 70　DEF + 5　AGI - 5
+Wind Attrib. Weapon</EnglishText>
       <Notes/>
       <Id>485</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13596</PointerOffset>
       <JapaneseText>羽が生えたように軽い戦斧。
 シルフの力が宿っている</JapaneseText>
-      <EnglishText>A battle axe as light as a feather.
-It is imbued with Sylph's power.</EnglishText>
+      <EnglishText>A battleaxe as light as a feather.
+Sylph's power rests inside it.</EnglishText>
       <Notes/>
       <Id>486</Id>
       <Status>Editing</Status>
@@ -4335,15 +4337,15 @@ It is imbued with Sylph's power.</EnglishText>
     <Entry>
       <PointerOffset>13676</PointerOffset>
       <JapaneseText>物攻＋１５０　物防＋５　敏捷－５</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ATK + 150　DEF + 5　AGI - 5</EnglishText>
       <Notes/>
       <Id>488</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13680</PointerOffset>
       <JapaneseText>三日月型の刃を取りつけた戦斧</JapaneseText>
-      <EnglishText>A battle axe fitted with a crescent-shaped blade.</EnglishText>
+      <EnglishText>A battleaxe with a crescent blade.</EnglishText>
       <Notes/>
       <Id>489</Id>
       <Status>Editing</Status>
@@ -4359,15 +4361,16 @@ It is imbued with Sylph's power.</EnglishText>
     <Entry>
       <PointerOffset>13760</PointerOffset>
       <JapaneseText>物攻＋１７２　物防＋５　敏捷－５</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ATK + 172　DEF + 5　AGI - 5</EnglishText>
       <Notes/>
       <Id>491</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13764</PointerOffset>
       <JapaneseText>強い衝撃にも耐えられるように設計された戦斧</JapaneseText>
-      <EnglishText>A battle axe designed to withstand heavy strikes.</EnglishText>
+      <EnglishText>A battleaxe designed to
+withstand heavy strikes.</EnglishText>
       <Notes/>
       <Id>492</Id>
       <Status>Editing</Status>
@@ -4383,25 +4386,25 @@ It is imbued with Sylph's power.</EnglishText>
     <Entry>
       <PointerOffset>13844</PointerOffset>
       <JapaneseText>物攻＋１９８　物防＋５　敏捷－５</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ATK + 198　DEF + 5　AGI - 5</EnglishText>
       <Notes/>
       <Id>494</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13848</PointerOffset>
       <JapaneseText>美しさと凶悪さを併せ持つ戦斧。
 数多の命を刃に吸いあげ、更に輝くことだろう</JapaneseText>
-      <EnglishText>A battle axe that embodies both beauty and brutality.
-Siphoning countless lives will make its blade shine even brighter.</EnglishText>
+      <EnglishText>A battleaxe both beautiful and brutal.
+It shines brighter with each soul it reaps.</EnglishText>
       <Notes>Need a double check of the second sentence. Is it that it already siphoned the lives, or that by siphoning lives?</Notes>
       <Id>495</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13868</PointerOffset>
       <JapaneseText>バハムートティア</JapaneseText>
-      <EnglishText>Bahamut Tear</EnglishText>
+      <EnglishText>Bahamut's Tear</EnglishText>
       <Notes/>
       <Id>496</Id>
       <Status>Editing</Status>
@@ -4409,17 +4412,17 @@ Siphoning countless lives will make its blade shine even brighter.</EnglishText>
     <Entry>
       <PointerOffset>13928</PointerOffset>
       <JapaneseText>物攻＋２３０　物防＋５　敏捷－３</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ATK + 230　DEF + 5　AGI - 3</EnglishText>
       <Notes/>
       <Id>497</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>13932</PointerOffset>
       <JapaneseText>巨竜の死骸から出てきたとされる斧。
 その重量故に並の者では扱えない</JapaneseText>
-      <EnglishText>An axe said to have originated from the carcass of a dragon.
-It's so heavy that the average man can't wield it.</EnglishText>
+      <EnglishText>An axe said to have come from a dragon's carcass.
+Too heavy for the average person to use.</EnglishText>
       <Notes/>
       <Id>498</Id>
       <Status>Editing</Status>
@@ -4427,7 +4430,7 @@ It's so heavy that the average man can't wield it.</EnglishText>
     <Entry>
       <PointerOffset>13952</PointerOffset>
       <JapaneseText>アクアトリーピア</JapaneseText>
-      <EnglishText>Aqua</EnglishText>
+      <EnglishText>Aqua Piercer</EnglishText>
       <Notes/>
       <Id>499</Id>
       <Status>Editing</Status>
@@ -4437,7 +4440,7 @@ It's so heavy that the average man can't wield it.</EnglishText>
       <JapaneseText>物攻＋２５０　物防＋１０
 水属性武器</JapaneseText>
       <EnglishText>ATK + 250　DEF + 10
-Water Property</EnglishText>
+Water Attrib. Weapon</EnglishText>
       <Notes/>
       <Id>500</Id>
       <Status>Editing</Status>
@@ -4446,7 +4449,8 @@ Water Property</EnglishText>
       <PointerOffset>14016</PointerOffset>
       <JapaneseText>水の力を凝縮し、
 精霊の手によって生み出された貴重な武器</JapaneseText>
-      <EnglishText>A precious weapon forged by the hands of spirits which has condensed the power of water.</EnglishText>
+      <EnglishText>A valuable weapon imbued with the
+power of water, and created by a spirit.</EnglishText>
       <Notes/>
       <Id>501</Id>
       <Status>Editing</Status>
@@ -4463,16 +4467,18 @@ Water Property</EnglishText>
       <PointerOffset>14096</PointerOffset>
       <JapaneseText>物攻＋２００　物防＋５　敏捷－２
 風属性武器</JapaneseText>
-      <EnglishText/>
+      <EnglishText>ATK + 200　DEF + 5　AGI - 2
+Wind Attrib. Weapon</EnglishText>
       <Notes/>
       <Id>503</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>14100</PointerOffset>
       <JapaneseText>この大きさは何だ！
 こんな羽を落とす鳥がいるというのか……</JapaneseText>
-      <EnglishText>What a size! What kind of birds drop these?</EnglishText>
+      <EnglishText>How can it be so big!? Are there
+really birds that large out there...?</EnglishText>
       <Notes/>
       <Id>504</Id>
       <Status>Editing</Status>
@@ -4480,7 +4486,7 @@ Water Property</EnglishText>
     <Entry>
       <PointerOffset>14120</PointerOffset>
       <JapaneseText>指さし棒</JapaneseText>
-      <EnglishText>Pointer</EnglishText>
+      <EnglishText>Pointing Stick</EnglishText>
       <Notes/>
       <Id>505</Id>
       <Status>Editing</Status>
@@ -4496,8 +4502,8 @@ Water Property</EnglishText>
     <Entry>
       <PointerOffset>14184</PointerOffset>
       <JapaneseText>手が届かない場所を指し示すのにとても便利！</JapaneseText>
-      <EnglishText>Very useful for pointing at things just
-out of reach!</EnglishText>
+      <EnglishText>Very useful for pointing at
+things just out of reach!</EnglishText>
       <Notes/>
       <Id>507</Id>
       <Status>Editing</Status>
@@ -4521,8 +4527,8 @@ out of reach!</EnglishText>
     <Entry>
       <PointerOffset>14268</PointerOffset>
       <JapaneseText>長い木の棒に刃先を取り付けただけの簡素な武器</JapaneseText>
-      <EnglishText>Just a long stick with a blade attached.
-Nothing but a simple spear.</EnglishText>
+      <EnglishText>A simple weapon. It's just a long
+stick, with a blade at the end.</EnglishText>
       <Notes/>
       <Id>510</Id>
       <Status>Editing</Status>
@@ -4547,7 +4553,8 @@ Nothing but a simple spear.</EnglishText>
       <PointerOffset>14352</PointerOffset>
       <JapaneseText>ポールウェポンの類型。
 三又槍、ウィングドスピアとも呼ばれる</JapaneseText>
-      <EnglishText>A spear with three prongs on its blade.</EnglishText>
+      <EnglishText>A type of polearm. Also known
+as a trident, or winged spear.</EnglishText>
       <Notes/>
       <Id>513</Id>
       <Status>Editing</Status>
@@ -4565,7 +4572,7 @@ Nothing but a simple spear.</EnglishText>
       <JapaneseText>物攻＋５０
 火属性武器</JapaneseText>
       <EnglishText>ATK + 50
-Fire Property</EnglishText>
+Fire Attrib. Weapon</EnglishText>
       <Notes/>
       <Id>515</Id>
       <Status>Editing</Status>
@@ -4574,8 +4581,8 @@ Fire Property</EnglishText>
       <PointerOffset>14436</PointerOffset>
       <JapaneseText>刃の部分が熱く燃えたぎった槍。
 イフリートの力が宿っている</JapaneseText>
-      <EnglishText>A blazing spear that burns with the
-passion of its wielder.</EnglishText>
+      <EnglishText>A spear with a blade that burns
+fiercely. Efreet's power rests inside it.</EnglishText>
       <Notes/>
       <Id>516</Id>
       <Status>Editing</Status>
@@ -4600,8 +4607,8 @@ passion of its wielder.</EnglishText>
       <PointerOffset>14520</PointerOffset>
       <JapaneseText>スピアーの脆さを補った改良版。
 多少手荒に使っても壊れない</JapaneseText>
-      <EnglishText>An improvement over the frail spear. The
-weight is even, but the edge is rough.</EnglishText>
+      <EnglishText>An improved version of the spear. It's more
+durable, and won't break if handled roughly.</EnglishText>
       <Notes/>
       <Id>519</Id>
       <Status>Editing</Status>
@@ -4619,7 +4626,7 @@ weight is even, but the edge is rough.</EnglishText>
       <JapaneseText>物攻＋９０
 地属性武器</JapaneseText>
       <EnglishText>ATK + 90
-Earth Property</EnglishText>
+Earth Attrib. Weapon</EnglishText>
       <Notes/>
       <Id>521</Id>
       <Status>Editing</Status>
@@ -4628,8 +4635,8 @@ Earth Property</EnglishText>
       <PointerOffset>14604</PointerOffset>
       <JapaneseText>先端がドリル状に尖った強靭な槍。
 ノームの力が宿っている</JapaneseText>
-      <EnglishText>A strong spear with the tip of a drill.
-In it dwells Gnome's power.</EnglishText>
+      <EnglishText>A powerful spear, with a pointed blade, not
+unlike a drill. Gnome's power rests inside it.</EnglishText>
       <Notes/>
       <Id>522</Id>
       <Status>Editing</Status>
@@ -4654,8 +4661,8 @@ In it dwells Gnome's power.</EnglishText>
       <PointerOffset>14688</PointerOffset>
       <JapaneseText>元は魚をとるための槍。
 命中率を上げるために三つ又になっている</JapaneseText>
-      <EnglishText>A spear created for fishing. Its three
-prongs increase accuracy.</EnglishText>
+      <EnglishText>A spear originally meant for fishing. Its
+tripartite blade makes it easier to land a hit.</EnglishText>
       <Notes/>
       <Id>525</Id>
       <Status>Editing</Status>
@@ -4679,8 +4686,8 @@ prongs increase accuracy.</EnglishText>
     <Entry>
       <PointerOffset>14772</PointerOffset>
       <JapaneseText>刃を「失われた金属」で鍛えた古代の槍</JapaneseText>
-      <EnglishText>An ancient spear made of an ancient
-metal thought to be lost in time.</EnglishText>
+      <EnglishText>An ancient spear. Its blade is
+made of a metal lost to time.</EnglishText>
       <Notes/>
       <Id>528</Id>
       <Status>Editing</Status>
@@ -4688,7 +4695,7 @@ metal thought to be lost in time.</EnglishText>
     <Entry>
       <PointerOffset>14792</PointerOffset>
       <JapaneseText>ドゥサンガ</JapaneseText>
-      <EnglishText>Do Sanga</EnglishText>
+      <EnglishText>Du Sanga</EnglishText>
       <Notes/>
       <Id>529</Id>
       <Status>Editing</Status>
@@ -4705,8 +4712,8 @@ metal thought to be lost in time.</EnglishText>
       <PointerOffset>14856</PointerOffset>
       <JapaneseText>刃先が波打っている特殊な槍。
 斬られた者はより深い傷を負うことになる</JapaneseText>
-      <EnglishText>A spear made with a wavy edge. Cuts from
-this spear will result in a deep wound.</EnglishText>
+      <EnglishText>A spear distinguished by its blade's wavy
+edge. Its cuts leave very deep wounds.</EnglishText>
       <Notes/>
       <Id>531</Id>
       <Status>Editing</Status>
@@ -4731,8 +4738,8 @@ this spear will result in a deep wound.</EnglishText>
       <PointerOffset>14940</PointerOffset>
       <JapaneseText>その名が示す通り、突くことに特化した槍。
 その威力は鉄の鎧を貫通する程</JapaneseText>
-      <EnglishText>A spear that concentrates on thrusts.
-So sharp, it can penetrate iron.</EnglishText>
+      <EnglishText>A spear designed to do nothing but
+stab. It can even penetrate steel plate.</EnglishText>
       <Notes/>
       <Id>534</Id>
       <Status>Editing</Status>
@@ -4757,8 +4764,8 @@ So sharp, it can penetrate iron.</EnglishText>
       <PointerOffset>15024</PointerOffset>
       <JapaneseText>英雄の槍の名を継ぐ名槍。
 さらなる伝説を築くための持ち主を探しているかのよう</JapaneseText>
-      <EnglishText>A spear only known as the stuff of
-legend.</EnglishText>
+      <EnglishText>Named after the spear of a legendary hero. Perhaps
+it hopes its next wielder will be legendary, too.</EnglishText>
       <Notes/>
       <Id>537</Id>
       <Status>Editing</Status>
@@ -4783,8 +4790,8 @@ legend.</EnglishText>
       <PointerOffset>15108</PointerOffset>
       <JapaneseText>神の血を吸ったと噂される槍。
 その血痕にどのような悲劇がこめられているのだろう</JapaneseText>
-      <EnglishText>A spear said to have been made out of
-god's blood. Its existence signals tragedy.</EnglishText>
+      <EnglishText>A spear rumored to have drunk the blood of
+God. Of what tragedy does that bloodstain tell?</EnglishText>
       <Notes/>
       <Id>540</Id>
       <Status>Editing</Status>
@@ -4809,8 +4816,8 @@ god's blood. Its existence signals tragedy.</EnglishText>
       <PointerOffset>15192</PointerOffset>
       <JapaneseText>全てを貫く無敵の槍。
 放たれれば的をはずすことは無いという</JapaneseText>
-      <EnglishText>An invincible spear that can pierce just
-about anything. It's useless unreleased.</EnglishText>
+      <EnglishText>The ultimate, all-piercing spear. It's even said
+that, if thrown, it will never miss its mark.</EnglishText>
       <Notes/>
       <Id>543</Id>
       <Status>Editing</Status>
@@ -4818,7 +4825,7 @@ about anything. It's useless unreleased.</EnglishText>
     <Entry>
       <PointerOffset>15212</PointerOffset>
       <JapaneseText>グーングニル（解放）</JapaneseText>
-      <EnglishText>Gungnir (Awakened)</EnglishText>
+      <EnglishText>Gungnir (Unleashed)</EnglishText>
       <Notes/>
       <Id>544</Id>
       <Status>Editing</Status>
@@ -4835,8 +4842,8 @@ about anything. It's useless unreleased.</EnglishText>
       <PointerOffset>15276</PointerOffset>
       <JapaneseText>全てを貫く無敵の槍の真の姿。
 神秘の輝きをまとい、圧倒的な力を発揮する</JapaneseText>
-      <EnglishText>The true nature of an invincible spear.
-It has an air of overwhelming mystery.</EnglishText>
+      <EnglishText>The ultimate, all-piercing spear's true
+form. It's wrapped in a mystical aura.</EnglishText>
       <Notes/>
       <Id>546</Id>
       <Status>Editing</Status>
