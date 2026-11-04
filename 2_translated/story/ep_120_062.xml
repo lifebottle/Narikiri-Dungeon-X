@@ -8,7 +8,7 @@
       <EnglishText>Maxwell</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298084,299512</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298176,299424</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298264,298376,298716,298988,299276</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298616,298916</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>Artemis</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286481</PointerOffset>
@@ -89,21 +89,22 @@
       <PointerOffset>298016</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_064&gt;</VoiceId>
       <JapaneseText>完了じゃ</JapaneseText>
-      <EnglishText>Examination complete.</EnglishText>
+      <EnglishText>Finished.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298088</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_065&gt;</VoiceId>
       <JapaneseText>もう、だめ、かも……</JapaneseText>
-      <EnglishText>Please...no...more...</EnglishText>
+      <EnglishText>I can't...keep
+doing this...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298180</PointerOffset>
@@ -111,22 +112,24 @@
       <JapaneseText>はぁはぁ……
 ちょ……
 ひと、やすみ……</JapaneseText>
-      <EnglishText>Haahh...Let us....rest....a little...</EnglishText>
+      <EnglishText>Haah... Haah.. G-
+Give me...a break...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298268</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_067&gt;</VoiceId>
       <JapaneseText>終わった……んだよね？
 よかった……</JapaneseText>
-      <EnglishText>It's over...It's really over? What a relief...</EnglishText>
+      <EnglishText>It's over... Isn't
+it? Finally...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298380</PointerOffset>
@@ -134,12 +137,13 @@
       <JapaneseText>あの……洞窟の途中に
 閉じ込められてる
 妖精がいたんだけド……</JapaneseText>
-      <EnglishText>Oh...that's right. Earlier we met a
-fairy that got itself trapped...</EnglishText>
+      <EnglishText>Umm... We found a
+fairy locked up partway
+through the caves, but...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298476</PointerOffset>
@@ -147,23 +151,23 @@ fairy that got itself trapped...</EnglishText>
       <JapaneseText>妖精……？
 おお、すっかり
 忘れとった</JapaneseText>
-      <EnglishText>Fairy? Oh! My old mind
-almost forgot about it!</EnglishText>
+      <EnglishText>A fairy...? Oooh, he'd
+completely slipped my mind.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298620</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_070&gt;</VoiceId>
       <JapaneseText>あ、あれ……？</JapaneseText>
-      <EnglishText>Wh-What? </EnglishText>
+      <EnglishText>H-Huh...?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>7</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298620</PointerOffset>
@@ -171,13 +175,13 @@ almost forgot about it!</EnglishText>
       <JapaneseText>あぁっ！！　おまえ！！
 よくも僕を閉じ込めて
 くれたな！</JapaneseText>
-      <EnglishText>You! You're the bastard
-that trapped me!</EnglishText>
+      <EnglishText>Aaaah! It's you! How dare
+you lock me up like that!?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298720</PointerOffset>
@@ -185,57 +189,58 @@ that trapped me!</EnglishText>
       <JapaneseText>え……
 この子を閉じ込めたの
 ってマクスウェル？</JapaneseText>
-      <EnglishText>M-Maxwell? Why would you do that?</EnglishText>
+      <EnglishText>Eh... So, Maxwell was the one
+who had trapped him there?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298828</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_073&gt;</VoiceId>
       <JapaneseText>どうじゃ、これに懲りたら
 イタズラはよすんじゃぞ</JapaneseText>
-      <EnglishText>Indeed, I caught the small one
-causing trouble for people.</EnglishText>
+      <EnglishText>Well? Did you learn your lesson?
+Will you put a stop to your pranks?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298920</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_074&gt;</VoiceId>
       <JapaneseText>やなこったー！！
 ベロベロベ～！！</JapaneseText>
-      <EnglishText>Catch me if you can,
-ya senile bag o' bones!</EnglishText>
+      <EnglishText>No way, no how!
+Screw yoouuuu~!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298992</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_075&gt;</VoiceId>
       <JapaneseText>あ、ちょっと待って！</JapaneseText>
-      <EnglishText>Hey, wait a second!</EnglishText>
+      <EnglishText>Ah, hey! Wait...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299180</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_076&gt;</VoiceId>
       <JapaneseText>まったく、困ったやつじゃのう</JapaneseText>
-      <EnglishText>How bothersome...Indeed a
-very troublesome individual.</EnglishText>
+      <EnglishText>My word. How
+troublesome...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299180</PointerOffset>
@@ -243,13 +248,14 @@ very troublesome individual.</EnglishText>
       <JapaneseText>あまりにイタズラが過ぎるから、
 閉じ込めておいたんじゃが
 あの調子じゃ反省しとらんの</JapaneseText>
-      <EnglishText>It seems his prison wasn't enough
-punishment for his pranks.</EnglishText>
+      <EnglishText>He played far too many pranks, so I had
+him sealed away for a time, but... He hasn't
+reflected on his actions in the slightest.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299280</PointerOffset>
@@ -257,47 +263,53 @@ punishment for his pranks.</EnglishText>
       <JapaneseText>せっかく、
 色々教えてもらえると
 思ってたのに……</JapaneseText>
-      <EnglishText>And here I'd been hoping for
-him to teach me some things...</EnglishText>
+      <EnglishText>I was really hoping
+I could learn more
+from him, too...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299428</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_079&gt;</VoiceId>
       <JapaneseText>休憩したら……
 &lt;Red&gt;トーティス村&lt;White&gt;に戻んなきゃ……</JapaneseText>
-      <EnglishText>Let's go...to &lt;Red&gt;Totus&lt;White&gt; and take a rest...</EnglishText>
+      <EnglishText>Once we've had some
+rest... We should get
+back to &lt;Red&gt;Totus Village&lt;White&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>16</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299428</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_080&gt;</VoiceId>
       <JapaneseText>&lt;Cless&gt;さんに
 会いに行こう……</JapaneseText>
-      <EnglishText>We need to meet with &lt;Cless&gt;...</EnglishText>
+      <EnglishText>We gotta
+meet &lt;Cless&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>16</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299516</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_060_081&gt;</VoiceId>
       <JapaneseText>そう言えば……
 そっちもあったね……</JapaneseText>
-      <EnglishText>I'm so tired...</EnglishText>
+      <EnglishText>Oh, now that you
+mention it... We did need
+to do that, didn't we...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>18</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

@@ -8,7 +8,7 @@
       <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271932</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272008,273060</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272144</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272244,272392,272860</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>265917</PointerOffset>
@@ -89,63 +89,66 @@
       <PointerOffset>271864</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_040_001&gt;</VoiceId>
       <JapaneseText>ここは……？</JapaneseText>
-      <EnglishText>Where are we...?</EnglishText>
+      <EnglishText>What's this...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271936</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_040_002&gt;</VoiceId>
       <JapaneseText>なにか書いてあるよ？</JapaneseText>
-      <EnglishText>Is there something written there?</EnglishText>
+      <EnglishText>Something's written
+on it, I think?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272012</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_040_003&gt;</VoiceId>
       <JapaneseText>なんだこれ。何語なんだ？</JapaneseText>
-      <EnglishText>What kind of language is this?</EnglishText>
+      <EnglishText>The hell? What
+language even is that?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272084</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_040_004&gt;</VoiceId>
       <JapaneseText>ちょっと読めないな</JapaneseText>
-      <EnglishText>Can't read it at all.</EnglishText>
+      <EnglishText>I sure can't read it.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272148</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_040_005&gt;</VoiceId>
       <JapaneseText>クルールゥ～</JapaneseText>
-      <EnglishText>Kuruuuuruuu...</EnglishText>
+      <EnglishText>Couleuruu~</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272248</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_040_006&gt;</VoiceId>
       <JapaneseText>死を暗示する方位には、
 破壊を司る者を招くがよい</JapaneseText>
-      <EnglishText>Give name to the bringer of destruction
-in the path death lurks.</EnglishText>
+      <EnglishText>The direction suggested by the
+dead beckons that which governs
+Destruction.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272312</PointerOffset>
@@ -155,91 +158,96 @@ in the path death lurks.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272396</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_040_008&gt;</VoiceId>
       <JapaneseText>う、うん……
 読める、みたい……</JapaneseText>
-      <EnglishText>Y-Yeah...Somehow I can read it...</EnglishText>
+      <EnglishText>Y-Yeah... It
+seems I can...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272516</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_040_009&gt;</VoiceId>
       <JapaneseText>なんで……</JapaneseText>
-      <EnglishText>How...?</EnglishText>
+      <EnglishText>Why...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272516</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_040_010&gt;</VoiceId>
       <JapaneseText>いや、とにかく。
 何て書いてあるんだ？</JapaneseText>
-      <EnglishText>No matter. In any case what's written there?</EnglishText>
+      <EnglishText>Nah, forget that.
+What does it say?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272864</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_040_011&gt;</VoiceId>
       <JapaneseText>えっと……</JapaneseText>
-      <EnglishText>Let's see...</EnglishText>
+      <EnglishText>Umm...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272864</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_040_012&gt;</VoiceId>
       <JapaneseText>死を暗示する方位には、
 破壊を司る者を招くがよい</JapaneseText>
-      <EnglishText>Give name to the bringer of destruction
-in the path death lurks.</EnglishText>
+      <EnglishText>The direction suggested by the
+dead beckons that which governs
+Destruction.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272864</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_040_013&gt;</VoiceId>
       <JapaneseText>生命の息吹を感じたなら、
 そこは誕生の司る者の場所である</JapaneseText>
-      <EnglishText>The Spirit that rules over life shall
-lie where life's breath can be felt.</EnglishText>
+      <EnglishText>Where one feels the breath of lfe
+is the place for that which governs
+Birth.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272864</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_040_014&gt;</VoiceId>
       <JapaneseText>逝く者に涙する乙女は
 死を左手に感ずる者に招かれよ</JapaneseText>
-      <EnglishText>A maiden that weeps over those
-that death has claimed lies west.</EnglishText>
+      <EnglishText>The maiden who mourns the
+departed beckons the feeling of
+death to her left hand.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
       <BubbleId>3</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272864</PointerOffset>
@@ -247,25 +255,26 @@ that death has claimed lies west.</EnglishText>
       <JapaneseText>風は乙女と向かい、
 時の流れのように等しく
 みなに吹き抜ける</JapaneseText>
-      <EnglishText>Wind faces the maiden, blowing in the
-direction dictated by the flow of time.</EnglishText>
+      <EnglishText>When wind flows toward the
+maiden, it blows itself out with
+equal force.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
       <BubbleId>4</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272968</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_040_016&gt;</VoiceId>
       <JapaneseText>方位とか、司るとか、
 招くとか、どういう意味なんだ？</JapaneseText>
-      <EnglishText>Path death lurks, rules over life, give
-name? What does this all mean?</EnglishText>
+      <EnglishText>Directions, and "governing,"
+beckoning... What's all of it mean?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>16</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273064</PointerOffset>
@@ -273,12 +282,13 @@ name? What does this all mean?</EnglishText>
       <JapaneseText>司る……？
 精霊は水を司るとか、
 ゆーよな……</JapaneseText>
-      <EnglishText>Rules life...? Well, that sounds like
-the Water Summon Spirit...</EnglishText>
+      <EnglishText>Governing...? I mean, there's a
+spirit who "governs" water, and
+one who "governs" earth... Right...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>17</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
