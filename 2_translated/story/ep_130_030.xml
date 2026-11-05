@@ -8,7 +8,7 @@
       <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274112,274372,274620,274828,274988,275188,275348</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274212</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268049</PointerOffset>
@@ -74,11 +74,13 @@
       <VoiceId>&lt;audio:VSM_130_030_001&gt;</VoiceId>
       <JapaneseText>君は……
 さっき、来てた子だね</JapaneseText>
-      <EnglishText>You're that...kid from before, aren't you?</EnglishText>
+      <EnglishText>Oh, you're...those kids
+who came just a little
+while ago, right?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274116</PointerOffset>
@@ -86,12 +88,12 @@
       <JapaneseText>&lt;Cless&gt;さん！
 &lt;Mint&gt;さんに会いに
 行ってやれよ！</JapaneseText>
-      <EnglishText>Mister &lt;Cless&gt;! You need to
-go see &lt;Mint&gt; right now!</EnglishText>
+      <EnglishText>Hey, &lt;Cless&gt;! Just go
+and see &lt;Mint&gt; already!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274216</PointerOffset>
@@ -99,194 +101,203 @@ go see &lt;Mint&gt; right now!</EnglishText>
       <JapaneseText>&lt;Dio&gt;……！
 もう少し言い方ってもんが
 あるでしょ</JapaneseText>
-      <EnglishText>&lt;Dio&gt;! You should be more reserved
-when saying things like that!</EnglishText>
+      <EnglishText>&lt;Dio&gt;...! Haven't we already talked
+about something called "tact"?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274288</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_030_004&gt;</VoiceId>
       <JapaneseText>なんだい、藪から棒に</JapaneseText>
-      <EnglishText>Why is it you're so worked up?</EnglishText>
+      <EnglishText>Well, that came from out of
+the blue. What's this about?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274376</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_030_005&gt;</VoiceId>
       <JapaneseText>&lt;Mint&gt;さんが
 会いたがってるんだ！</JapaneseText>
-      <EnglishText>Because you have to
-meet up with &lt;Mint&gt;!</EnglishText>
+      <EnglishText>&lt;Mint&gt; wants
+to see you!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274444</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_030_006&gt;</VoiceId>
       <JapaneseText>&lt;Mint&gt;が……？</JapaneseText>
-      <EnglishText>&lt;Mint&gt;, you say?</EnglishText>
+      <EnglishText>&lt;Mint&gt; wants to...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274540</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_030_007&gt;</VoiceId>
       <JapaneseText>……今はダメだよ。
 後で時間があったら……</JapaneseText>
-      <EnglishText>...Right now, that's impossible.
-It'll have to wait.</EnglishText>
+      <EnglishText>...I can't, right now.
+If I have more time
+later on, then...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274624</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_030_008&gt;</VoiceId>
       <JapaneseText>そんなこと
 言ってる場合かよ！</JapaneseText>
-      <EnglishText>Why is it you always say that?</EnglishText>
+      <EnglishText>Is this really the time
+to be saying that!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274744</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_030_009&gt;</VoiceId>
       <JapaneseText>そこをどいて</JapaneseText>
-      <EnglishText>Can't help it.</EnglishText>
+      <EnglishText>Move out of the way.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274744</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_030_010&gt;</VoiceId>
       <JapaneseText>荷物を馬車に
 乗せなきゃいけないんだ</JapaneseText>
-      <EnglishText>There's luggage that needs
-to be placed on wagons.</EnglishText>
+      <EnglishText>There are some things I need
+to load onto the wagon, there.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274832</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_030_011&gt;</VoiceId>
       <JapaneseText>そんなの、オレが、
 やってやるよ！</JapaneseText>
-      <EnglishText>I can do that!</EnglishText>
+      <EnglishText>If that's all you gotta do,
+then I'll do it for you!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274908</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_030_012&gt;</VoiceId>
       <JapaneseText>兵士たちの稽古もあるし</JapaneseText>
-      <EnglishText>And the soldiers need to
-warm up for the mission.</EnglishText>
+      <EnglishText>The soldiers need
+more training, too.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274992</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_030_013&gt;</VoiceId>
       <JapaneseText>それもオレが
 やってやるって！</JapaneseText>
-      <EnglishText>I can do that too!</EnglishText>
+      <EnglishText>Well, I'll take
+care of that, too!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275096</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_030_014&gt;</VoiceId>
       <JapaneseText>いや……君みたいな子どもに
 そんなこと任せられないよ</JapaneseText>
-      <EnglishText>No way...I can't leave
-these duties to a kid.</EnglishText>
+      <EnglishText>No... I can't just leave their
+training to a child like you.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275192</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_030_015&gt;</VoiceId>
       <JapaneseText>任せらんねーかどうか、
 勝負すりゃわかるよ！</JapaneseText>
-      <EnglishText>How about you fight me to
-see if I have what it takes!</EnglishText>
+      <EnglishText>You don't think I'm up to it?
+Then let's fight and find out!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275280</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_030_016&gt;</VoiceId>
       <JapaneseText>……そんなことを
 してる暇はないんだ</JapaneseText>
-      <EnglishText>...I don't have the luxury
-or time to do that.</EnglishText>
+      <EnglishText>...I don't have the time
+for things like that.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>16</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275352</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_030_017&gt;</VoiceId>
       <JapaneseText>負けんのが怖いのか？</JapaneseText>
-      <EnglishText>Scared to lose, eh?</EnglishText>
+      <EnglishText>You scared you're
+gonna lose?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275484</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_030_018&gt;</VoiceId>
       <JapaneseText>……わかったよ。
 少しだけ</JapaneseText>
-      <EnglishText>...Fine. I'll entertain you for a bit.</EnglishText>
+      <EnglishText>...Fine. But we're
+keeping it short.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275484</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_030_019&gt;</VoiceId>
       <JapaneseText>街の中じゃ迷惑だから、
 外へ出よう</JapaneseText>
-      <EnglishText>However, let's do this outside the village.</EnglishText>
+      <EnglishText>We'll cause trouble for
+people if we do it in
+town, so let's go out.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
