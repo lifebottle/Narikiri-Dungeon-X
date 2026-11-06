@@ -8,7 +8,7 @@
       <EnglishText>Luna</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>293280</PointerOffset>
@@ -16,15 +16,15 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>293372,293748,293924</PointerOffset>
       <JapaneseText>聖なる響きを持つ声</JapaneseText>
-      <EnglishText>Sacred-Sounding Voice</EnglishText>
+      <EnglishText>Holy-Sounding Voice</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294024,294228</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>Artemis</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294096</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294160</PointerOffset>
@@ -48,7 +48,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285761</PointerOffset>
@@ -98,34 +98,36 @@
       <VoiceId>&lt;audio:VSM_150_020_016&gt;</VoiceId>
       <JapaneseText>くっ……っちぃ……
 少しは手加減しろよな！</JapaneseText>
-      <EnglishText>Ow...ie... You coulda gone
-easy on me, you know!</EnglishText>
+      <EnglishText>Ugh... Tch... Can't you
+take it at least a little
+easier on me, dammit!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>293284</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_020_017&gt;</VoiceId>
       <JapaneseText>なんか変くないか……？</JapaneseText>
-      <EnglishText>Hey, hey... That voice just
-now was kinda weird...</EnglishText>
+      <EnglishText>This is getting
+pretty weird...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>293376</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_020_018&gt;</VoiceId>
       <JapaneseText>アルテミス。
 おやめなさい</JapaneseText>
-      <EnglishText>Artemis. Cease this at once.</EnglishText>
+      <EnglishText>Artemis. Stop
+this at once.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>293488</PointerOffset>
@@ -133,12 +135,13 @@ now was kinda weird...</EnglishText>
       <JapaneseText>だって、こいつらまた、
 ルナお姉ちゃんを
 連れてこうとしてんだよ</JapaneseText>
-      <EnglishText>But if I do that, these people will
-take you away again, Miss Luna.</EnglishText>
+      <EnglishText>But these jerks are
+trying to take you
+away again.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>293752</PointerOffset>
@@ -146,11 +149,12 @@ take you away again, Miss Luna.</EnglishText>
       <JapaneseText>もう、あなたを置いて、
 どこかへ行ったりは
 しませんよ</JapaneseText>
-      <EnglishText>Please. I won't leave you alone ever again.</EnglishText>
+      <EnglishText>I will not leave you
+here alone again.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>293928</PointerOffset>
@@ -158,64 +162,65 @@ take you away again, Miss Luna.</EnglishText>
       <JapaneseText>約束します。
 だから、その方たちを
 お通ししなさい</JapaneseText>
-      <EnglishText>It's a promise, then. But please
-leave these people be.</EnglishText>
+      <EnglishText>I promise you. So
+please, allow these
+people to pass.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294028</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_020_025&gt;</VoiceId>
       <JapaneseText>うん……わかった</JapaneseText>
-      <EnglishText>Hrmph... Understood.</EnglishText>
+      <EnglishText>Okay... I get it.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294028</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_020_026&gt;</VoiceId>
       <JapaneseText>通れよ</JapaneseText>
-      <EnglishText>Move along!</EnglishText>
+      <EnglishText>Go.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294100</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_020_027&gt;</VoiceId>
       <JapaneseText>ありがとうございます</JapaneseText>
-      <EnglishText>Thank you very much!</EnglishText>
+      <EnglishText>Thank you very much.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294164</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_020_028&gt;</VoiceId>
       <JapaneseText>ありがとうね</JapaneseText>
-      <EnglishText>Yeah, thank you!</EnglishText>
+      <EnglishText>Thanks.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294232</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_020_029&gt;</VoiceId>
       <JapaneseText>ふんだ……</JapaneseText>
-      <EnglishText>Sure, whatever.</EnglishText>
+      <EnglishText>Hmph...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

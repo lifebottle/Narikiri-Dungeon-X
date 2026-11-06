@@ -8,7 +8,7 @@
       <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276672,276872,277080</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276760</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277292</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277464</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>269809</PointerOffset>
@@ -89,21 +89,21 @@
       <PointerOffset>276612</PointerOffset>
       <VoiceId>&lt;audio:VSM_160_020_011&gt;</VoiceId>
       <JapaneseText>追おう！</JapaneseText>
-      <EnglishText>Get him!</EnglishText>
+      <EnglishText>Chase him!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276676</PointerOffset>
       <VoiceId>&lt;audio:VSM_160_020_012&gt;</VoiceId>
       <JapaneseText>行かないの？</JapaneseText>
-      <EnglishText>You're not going with them?</EnglishText>
+      <EnglishText>Are you not coming?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276764</PointerOffset>
@@ -111,11 +111,13 @@
       <JapaneseText>オレ、
 どうしていいか
 わかんね……</JapaneseText>
-      <EnglishText>Why...Why is this happening? I don't get it...</EnglishText>
+      <EnglishText>I don't know
+what to do
+anymore...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276876</PointerOffset>
@@ -123,13 +125,13 @@
       <JapaneseText>バジルさんがどうして、
 こんなことしてるか、
 気にならないの？</JapaneseText>
-      <EnglishText>Don't you want to know why
-Mister Basil came all the way
-here? Why he's doing this?</EnglishText>
+      <EnglishText>Don't you want to
+know why Basil's
+doing all these things?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276988</PointerOffset>
@@ -137,13 +139,13 @@ here? Why he's doing this?</EnglishText>
       <JapaneseText>バジル……そうか、
 あの人は人工マナの開発者、
 バジル博士か</JapaneseText>
-      <EnglishText>Basil... That's right! Professor Basil,
-he was the head researcher behind
-the development of artificial mana!</EnglishText>
-      <Notes/>
+      <EnglishText>Basil... I see. So, Brynhildr
+is the professor who
+invented artificial mana?</EnglishText>
+      <Notes>basil hakase</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>277084</PointerOffset>
@@ -151,12 +153,13 @@ the development of artificial mana!</EnglishText>
       <JapaneseText>人工マナ？
 バジルさんが
 そんなことを……？</JapaneseText>
-      <EnglishText>Artificial mana? Mister Basil
-was working on that...?</EnglishText>
+      <EnglishText>Artificial mana?
+Did Basil really make
+something like that...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277296</PointerOffset>
@@ -164,14 +167,14 @@ was working on that...?</EnglishText>
       <JapaneseText>博士は長い時間をかけ、魔科学に
 代わる力を研究していました。
 それが人工マナです</JapaneseText>
-      <EnglishText>The Professor has spent much of
-his time developing an energy
-source to replace Magitechnology.</EnglishText>
-      <Notes/>
+      <EnglishText>The professor spent a very long time
+researching the power of magitech. What
+he came up with was artificial mana.</EnglishText>
+      <Notes>NOT basil hakase, professor is used on its own in the jp here</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277296</PointerOffset>
@@ -179,37 +182,38 @@ source to replace Magitechnology.</EnglishText>
       <JapaneseText>でも……そのバジル博士が、
 どうして『シグルド』の
 指導者に？</JapaneseText>
-      <EnglishText>But...why would Professor Basil
-be the leader of a criminal 
-organization like Sigurd?</EnglishText>
-      <Notes/>
+      <EnglishText>But... Why would
+he become the
+leader of "Sigurd"?</EnglishText>
+      <Notes>basil hakase</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277384</PointerOffset>
       <VoiceId>&lt;audio:VSM_160_020_019&gt;</VoiceId>
       <JapaneseText>本人に聞いた方が
 早いかもしれないな</JapaneseText>
-      <EnglishText>We won't know until we
-hear it from Basil himself.</EnglishText>
+      <EnglishText>It's probably best just
+to ask him ourselves.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277468</PointerOffset>
       <VoiceId>&lt;audio:VSM_160_020_020&gt;</VoiceId>
       <JapaneseText>ああ……&lt;Dio&gt;を
 追いかけようぜ</JapaneseText>
-      <EnglishText>Yeah...Let's go catch up to &lt;Dio&gt;.</EnglishText>
+      <EnglishText>Yeah... Let's
+follow &lt;Dio&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
