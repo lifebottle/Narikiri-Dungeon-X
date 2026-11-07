@@ -8,7 +8,7 @@
       <EnglishText>Aska</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310724,311684,312128,313044,313588,313732</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311028,313236,313672</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311292,311560,311996,312768,312972</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>Oz</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311444</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311784,312060,312540,312896</PointerOffset>
@@ -48,7 +48,7 @@
       <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311848</PointerOffset>
@@ -56,7 +56,7 @@
       <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311924</PointerOffset>
@@ -64,7 +64,7 @@
       <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312240,312624,312832,313152,313524</PointerOffset>
@@ -72,7 +72,7 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>303169</PointerOffset>
@@ -121,21 +121,22 @@
       <PointerOffset>310452</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_016&gt;</VoiceId>
       <JapaneseText>くっ……</JapaneseText>
-      <EnglishText>Heh...</EnglishText>
+      <EnglishText>Ugh...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310728</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_019&gt;</VoiceId>
       <JapaneseText>うわっ、復活した……！</JapaneseText>
-      <EnglishText>Woah, it's back at full health...!</EnglishText>
+      <EnglishText>Whoa, she
+revived...!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310964</PointerOffset>
@@ -143,13 +144,13 @@
       <JapaneseText>申し訳ありません。
 あなた方を
 試させていただきました</JapaneseText>
-      <EnglishText>Please excuse my intervention.
-You can do as you please now.</EnglishText>
+      <EnglishText>My apologies. I
+was testing you.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310964</PointerOffset>
@@ -157,47 +158,50 @@ You can do as you please now.</EnglishText>
       <JapaneseText>戦いの結果、
 あなた方から悪しき波動は
 感じられませんでした</JapaneseText>
-      <EnglishText>As we fought, I could not
-sense any wicked intentions.</EnglishText>
+      <EnglishText>As a result of our battle, I
+have determined there is little
+to no sign of evil within you.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310964</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_022&gt;</VoiceId>
       <JapaneseText>よいでしょう。
 自由にお使いなさい</JapaneseText>
-      <EnglishText>I see nothing wrong. Please,
-make use of time travel.</EnglishText>
+      <EnglishText>You are permitted.
+You may use these
+facilities at will.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311032</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_023&gt;</VoiceId>
       <JapaneseText>いいんですか？</JapaneseText>
-      <EnglishText>It's really okay?</EnglishText>
+      <EnglishText>You're sure?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311124</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_024&gt;</VoiceId>
       <JapaneseText>ええ。それでは
 装置の中央に進みなさい</JapaneseText>
-      <EnglishText>Yes. Please step in the middle of the machine.</EnglishText>
+      <EnglishText>Yes. Now, proceed to
+the center of the device.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311296</PointerOffset>
@@ -205,47 +209,49 @@ make use of time travel.</EnglishText>
       <JapaneseText>タイムワープ・
 デバイスドライバー起動。
 反重力エネルギーチェック</JapaneseText>
-      <EnglishText>ACTIVATING TIME WARP DEVICE.
-ANTI GRAVITY CHECK.</EnglishText>
+      <EnglishText>Time Warp.
+Device Driver Activated.
+Anti-Gravity Energy Check.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311296</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_026&gt;</VoiceId>
       <JapaneseText>時間転移に要する
 エネルギー蓄積を確認</JapaneseText>
-      <EnglishText>GATHERING TIME-SPACE WARP ENERGY.</EnglishText>
+      <EnglishText>Attempting Confirmation of Accumulation
+of Necessary Energy for Time Travel.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311376</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_027&gt;</VoiceId>
       <JapaneseText>行きたい時代を
 告げなさい</JapaneseText>
-      <EnglishText>Please choose the era
-you wish to travel to.</EnglishText>
+      <EnglishText>State the time to which
+you wish to travel.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311448</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_028&gt;</VoiceId>
       <JapaneseText>アセリア暦4408年に！</JapaneseText>
-      <EnglishText>Aselia's calendar, year 4408!</EnglishText>
+      <EnglishText>A.C. 4408!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311564</PointerOffset>
@@ -253,13 +259,13 @@ you wish to travel to.</EnglishText>
       <JapaneseText>時間転移先空間座標、
 安全条件クリア。
 メインプロセスを開始します</JapaneseText>
-      <EnglishText>TIME SPACE TRAVEL COORDINATE
-SAFETY CONDITION VERIFICATION
-CLEARED. ENGAGING MAIN PROCESS.</EnglishText>
+      <EnglishText>Time Travel Destination Spatial
+Coordinate Safety Check Cleared.
+Initializing Main Process.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311688</PointerOffset>
@@ -267,13 +273,13 @@ CLEARED. ENGAGING MAIN PROCESS.</EnglishText>
       <JapaneseText>いろいろ、サンキューな、
 &lt;Cless&gt;さん、&lt;Mint&gt;さん、
 &lt;Chester&gt;！　&lt;Rody&gt;も</JapaneseText>
-      <EnglishText>Thanks a lot everyone! Thank you
-Mister &lt;Cless&gt;, Miss &lt;Mint&gt;, &lt;Chester&gt;!
-And you too, &lt;Rody&gt;!</EnglishText>
+      <EnglishText>Thanks for everything,
+&lt;Cless&gt;! &lt;Mint&gt;! &lt;Chester&gt;!
+And you too, &lt;Rody&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311788</PointerOffset>
@@ -281,41 +287,45 @@ And you too, &lt;Rody&gt;!</EnglishText>
       <JapaneseText>こちらこそ、
 色々手伝ってもらって
 ありがとう！</JapaneseText>
-      <EnglishText>Likewise! You've helped us a lot, too!</EnglishText>
+      <EnglishText>Thank *you*
+for all you did
+to help *us*!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>14</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311852</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_032&gt;</VoiceId>
       <JapaneseText>元気でな！</JapaneseText>
-      <EnglishText>Take care, kiddos!</EnglishText>
+      <EnglishText>Look after
+yourselves!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>15</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311928</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_033&gt;</VoiceId>
       <JapaneseText>また、会えるといいですね</JapaneseText>
-      <EnglishText>May we meet again!</EnglishText>
+      <EnglishText>It would be nice if
+we could meet again.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>16</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312000</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_034&gt;</VoiceId>
       <JapaneseText>転移空間を隔離します</JapaneseText>
-      <EnglishText>COMMENCING TIME SPACE TRAVEL.</EnglishText>
+      <EnglishText>Isolating Time Travel Platform.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>17</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312064</PointerOffset>
@@ -325,53 +335,55 @@ And you too, &lt;Rody&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>18</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312132</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_036&gt;</VoiceId>
       <JapaneseText>何してんだよ！</JapaneseText>
-      <EnglishText>What are you doing!?</EnglishText>
+      <EnglishText>The hell are
+you doing!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>19</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312244</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_037&gt;</VoiceId>
       <JapaneseText>指輪に時間転移のマナが溜まんの
 待ってるの、じれったいからね</JapaneseText>
-      <EnglishText>My ring still doesn't have enough Mana,
-so I'm taking a ride. I can't just sit
-around and wait till it works again.</EnglishText>
+      <EnglishText>I mean, it's annoying to have
+to wait for this ring to save
+up enough mana, you know?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>20</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312544</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_040&gt;</VoiceId>
       <JapaneseText>どうして、そこまで
 ダオスと……！</JapaneseText>
-      <EnglishText>Why are you going to such
-lengths to see Dhaos...!?</EnglishText>
+      <EnglishText>Why are you so set
+on chasing Dhaos!?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>21</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312628</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_041&gt;</VoiceId>
       <JapaneseText>……みんな、同じこと
 聞くんだね</JapaneseText>
-      <EnglishText>All of you say the same thing...</EnglishText>
+      <EnglishText>...Everyone asks
+the same thing, huh.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>22</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312772</PointerOffset>
@@ -379,33 +391,34 @@ lengths to see Dhaos...!?</EnglishText>
       <JapaneseText>タイムワープ
 オペレーションシステム
 オールグリーン！</JapaneseText>
-      <EnglishText>TIME WARP OPERATION SYSTEM. ALL GREEN.</EnglishText>
+      <EnglishText>Time Warp Operating
+System All Green.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>23</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312772</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_043&gt;</VoiceId>
       <JapaneseText>タイムワープスタート！</JapaneseText>
-      <EnglishText>TIME WARP. COMMENCING.</EnglishText>
+      <EnglishText>Starting Time Warp!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312836</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_044&gt;</VoiceId>
       <JapaneseText>んじゃあね♪</JapaneseText>
-      <EnglishText>See ya~!</EnglishText>
+      <EnglishText>Bye-bye! ♪</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>25</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312900</PointerOffset>
@@ -415,27 +428,27 @@ lengths to see Dhaos...!?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>26</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312976</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_046&gt;</VoiceId>
       <JapaneseText>プロセス終了を確認しました</JapaneseText>
-      <EnglishText>ALL PROCESSES SUCCESSFULLY COMPLETED.</EnglishText>
+      <EnglishText>Process Completion Confirmed.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>27</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>313048</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_047&gt;</VoiceId>
       <JapaneseText>戻って……きたのか？</JapaneseText>
-      <EnglishText>We're back...home?</EnglishText>
+      <EnglishText>Are...we back?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>28</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>313156</PointerOffset>
@@ -443,36 +456,37 @@ lengths to see Dhaos...!?</EnglishText>
       <JapaneseText>外に出てみたら？
 そしたらたぶん
 わかるんじゃないかな？</JapaneseText>
-      <EnglishText>Why don't you go outside? You
-can't be sure until then, right?</EnglishText>
+      <EnglishText>Why don't you try looking
+outside? You'll probably
+be able to tell, right?</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>29</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>313240</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_049&gt;</VoiceId>
       <JapaneseText>&lt;Rody&gt;さん、
 どうして……？</JapaneseText>
-      <EnglishText>Miss &lt;Rody&gt;... Why did you do that?</EnglishText>
+      <EnglishText>But, &lt;Rody&gt;... Why...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>30</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>313528</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_051&gt;</VoiceId>
       <JapaneseText>私はこのままこの装置使って、
 ダオスのいる時代を探す</JapaneseText>
-      <EnglishText>I needed to use this machine to find
-a time where Dhaos was still alive.</EnglishText>
+      <EnglishText>I'll use this device, just like
+you did, to look for Dhaos.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>31</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>313528</PointerOffset>
@@ -480,43 +494,44 @@ a time where Dhaos was still alive.</EnglishText>
       <JapaneseText>じゃあね、
 &lt;Dio&gt;くん、&lt;Mel&gt;ちゃん。
 気をつけて</JapaneseText>
-      <EnglishText>Well, then! Take care
-&lt;Dio&gt;! Play nice, &lt;Mel&gt;!</EnglishText>
+      <EnglishText>Bye, &lt;Dio&gt;, &lt;Mel&gt;.
+Stay safe.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>313592</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_053&gt;</VoiceId>
       <JapaneseText>あ、ああ……</JapaneseText>
-      <EnglishText>Y-Yeah...</EnglishText>
+      <EnglishText>Y-Yeah, okay...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>33</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>313676</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_054&gt;</VoiceId>
       <JapaneseText>わたしたちは&lt;Red&gt;ヴァルハラ町&lt;White&gt;に</JapaneseText>
-      <EnglishText>Let's go straight to &lt;Red&gt;Valhalla&lt;White&gt;.</EnglishText>
+      <EnglishText>We should go
+to &lt;Red&gt;Valhalla Town&lt;White&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>34</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>313736</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_040_055&gt;</VoiceId>
       <JapaneseText>……だな</JapaneseText>
-      <EnglishText>... Right.</EnglishText>
+      <EnglishText>...Yeah.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>35</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

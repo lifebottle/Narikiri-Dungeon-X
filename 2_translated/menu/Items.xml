@@ -4895,8 +4895,8 @@ CAST + 1　AGI + 1　Luck + 80</EnglishText>
     <Entry>
       <PointerOffset>15444</PointerOffset>
       <JapaneseText>公衆の面前で出さないで下さい！</JapaneseText>
-      <EnglishText>Are you sure you should be reading this
-in public?</EnglishText>
+      <EnglishText>Please don't show
+that in public!</EnglishText>
       <Notes/>
       <Id>552</Id>
       <Status>Editing</Status>
@@ -4921,8 +4921,8 @@ in public?</EnglishText>
       <PointerOffset>15528</PointerOffset>
       <JapaneseText>魔術書の一つ。　
 深紅の装丁に黄色の染料で法印が施されている書物</JapaneseText>
-      <EnglishText>A magical book decorated with a
-yellow dye.</EnglishText>
+      <EnglishText>One of the tomes of magic. Its scarlet
+binding bears seals stamped in yellow dye.</EnglishText>
       <Notes/>
       <Id>555</Id>
       <Status>Editing</Status>
@@ -4930,7 +4930,7 @@ yellow dye.</EnglishText>
     <Entry>
       <PointerOffset>15548</PointerOffset>
       <JapaneseText>セラノフラグメン</JapaneseText>
-      <EnglishText>Celaeno Fragments</EnglishText>
+      <EnglishText>Serrano Fragments</EnglishText>
       <Notes/>
       <Id>556</Id>
       <Status>Editing</Status>
@@ -4947,8 +4947,8 @@ yellow dye.</EnglishText>
       <PointerOffset>15612</PointerOffset>
       <JapaneseText>魔術書の一つ。　
 とある図書館の地下に封印されていた禁断の書物</JapaneseText>
-      <EnglishText>A magical book sealed away in the
-basement of a hidden library.</EnglishText>
+      <EnglishText>One of the tomes of magic. A forbidden book once
+sealed away in the basement of a certain library.</EnglishText>
       <Notes/>
       <Id>558</Id>
       <Status>Editing</Status>
@@ -4966,7 +4966,7 @@ basement of a hidden library.</EnglishText>
       <JapaneseText>物攻＋３１　術攻＋１２７
 闇属性武器</JapaneseText>
       <EnglishText>ATK + 31　MATK + 127
-Darkness Property</EnglishText>
+Dark Attrib. Weapon</EnglishText>
       <Notes/>
       <Id>560</Id>
       <Status>Editing</Status>
@@ -4975,8 +4975,8 @@ Darkness Property</EnglishText>
       <PointerOffset>15696</PointerOffset>
       <JapaneseText>魔術書の一つ。　
 文書の一部が血文字で書き記されている闇の書物</JapaneseText>
-      <EnglishText>A dark, magical book. The letters on
-its pages are written in blood.</EnglishText>
+      <EnglishText>One of the tomes of magic. Some
+sections are written in blood.</EnglishText>
       <Notes/>
       <Id>561</Id>
       <Status>Editing</Status>
@@ -4984,7 +4984,7 @@ its pages are written in blood.</EnglishText>
     <Entry>
       <PointerOffset>15716</PointerOffset>
       <JapaneseText>アクアディンゲン</JapaneseText>
-      <EnglishText>Cthaat Aquadingen</EnglishText>
+      <EnglishText>Cthäat Aquadingen</EnglishText>
       <Notes/>
       <Id>562</Id>
       <Status>Editing</Status>
@@ -4994,7 +4994,7 @@ its pages are written in blood.</EnglishText>
       <JapaneseText>物攻＋５０　術攻＋１４６
 水属性武器</JapaneseText>
       <EnglishText>ATK + 50　MATK + 146
-Water Property</EnglishText>
+Water Attrib. Weapon</EnglishText>
       <Notes/>
       <Id>563</Id>
       <Status>Editing</Status>
@@ -5003,8 +5003,8 @@ Water Property</EnglishText>
       <PointerOffset>15780</PointerOffset>
       <JapaneseText>魔術書の一つ。　
 不可解な水棲動物の皮で装丁されている書物</JapaneseText>
-      <EnglishText>A magical book. It seems to be made
-out of the skin of an aquatic animal.</EnglishText>
+      <EnglishText>One of the tomes of magic. Bound with
+the skin of an unidentifiable aquatic animal.</EnglishText>
       <Notes/>
       <Id>564</Id>
       <Status>Editing</Status>
@@ -5012,7 +5012,7 @@ out of the skin of an aquatic animal.</EnglishText>
     <Entry>
       <PointerOffset>15800</PointerOffset>
       <JapaneseText>ミサレクイエム</JapaneseText>
-      <EnglishText>Messa da Requiem</EnglishText>
+      <EnglishText>Requiem Mass</EnglishText>
       <Notes/>
       <Id>565</Id>
       <Status>Editing</Status>
@@ -5029,8 +5029,8 @@ out of the skin of an aquatic animal.</EnglishText>
       <PointerOffset>15864</PointerOffset>
       <JapaneseText>魔術書の一つ。　
 呪文を戯曲の形でカモフラージュして記した書物</JapaneseText>
-      <EnglishText>A magical book. Its pages contain high
-quality dramatic literature.</EnglishText>
+      <EnglishText>One of the tomes of magic. Its spells
+are hidden within the scripts of plays.</EnglishText>
       <Notes/>
       <Id>567</Id>
       <Status>Editing</Status>
@@ -5039,9 +5039,9 @@ quality dramatic literature.</EnglishText>
       <PointerOffset>15884</PointerOffset>
       <JapaneseText>ガールフラグメン</JapaneseText>
       <EnglishText>G'harne Fragments</EnglishText>
-      <Notes/>
+      <Notes>not sure on the title here</Notes>
       <Id>568</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>15944</PointerOffset>
@@ -5055,8 +5055,8 @@ quality dramatic literature.</EnglishText>
       <PointerOffset>15948</PointerOffset>
       <JapaneseText>魔術書の一つ。　
 大陸北部の遺跡で発見された金属板の翻訳書</JapaneseText>
-      <EnglishText>A mysterious, magical book that was
-found with a metal plate inside it.</EnglishText>
+      <EnglishText>One of the tomes of magic. It's a translation
+of a sheet of metal found in southerly ruins.</EnglishText>
       <Notes/>
       <Id>570</Id>
       <Status>Editing</Status>
@@ -5074,7 +5074,7 @@ found with a metal plate inside it.</EnglishText>
       <JapaneseText>物攻＋８０　術攻＋１７５
 闇属性武器</JapaneseText>
       <EnglishText>ATK + 80　MATK + 175
-Darkness Property</EnglishText>
+Dark Attrib. Weapon</EnglishText>
       <Notes/>
       <Id>572</Id>
       <Status>Editing</Status>
@@ -5083,8 +5083,8 @@ Darkness Property</EnglishText>
       <PointerOffset>16032</PointerOffset>
       <JapaneseText>魔術書の一つ。　
 死者の書・禁断の書とも呼ばれる闇の書物</JapaneseText>
-      <EnglishText>A book of the dead. Said to be used to
-have the ability to raise the dead.</EnglishText>
+      <EnglishText>One of the tomes of magic. Also called the
+Book of the Dead, or the Forbidden Book.</EnglishText>
       <Notes/>
       <Id>573</Id>
       <Status>Editing</Status>
@@ -5093,7 +5093,7 @@ have the ability to raise the dead.</EnglishText>
       <PointerOffset>16052</PointerOffset>
       <JapaneseText>ミストセブンサン</JapaneseText>
       <EnglishText>Seven Books of Hsan</EnglishText>
-      <Notes/>
+      <Notes>resume here</Notes>
       <Id>574</Id>
       <Status>Editing</Status>
     </Entry>
@@ -5109,7 +5109,8 @@ have the ability to raise the dead.</EnglishText>
       <PointerOffset>16116</PointerOffset>
       <JapaneseText>魔術書の一つ。　
 大陸東方で噂になっていた幻の書物</JapaneseText>
-      <EnglishText>A magical book legendary for being the subject of rumors in the eastern part of the continent.</EnglishText>
+      <EnglishText>One of the tomes of magic. A fabled
+item, much spoken of in the east.</EnglishText>
       <Notes/>
       <Id>576</Id>
       <Status>Editing</Status>
@@ -5117,7 +5118,7 @@ have the ability to raise the dead.</EnglishText>
     <Entry>
       <PointerOffset>16136</PointerOffset>
       <JapaneseText>トゥルーマジック</JapaneseText>
-      <EnglishText>True Magick</EnglishText>
+      <EnglishText>True Magic</EnglishText>
       <Notes/>
       <Id>577</Id>
       <Status>Editing</Status>
@@ -5127,7 +5128,7 @@ have the ability to raise the dead.</EnglishText>
       <JapaneseText>物攻＋１００　術攻＋２２０
 光属性武器</JapaneseText>
       <EnglishText>ATK + 100　MATK + 220
-Light Property</EnglishText>
+Light Attrib. Weapon</EnglishText>
       <Notes/>
       <Id>578</Id>
       <Status>Editing</Status>
@@ -5136,8 +5137,7 @@ Light Property</EnglishText>
       <PointerOffset>16200</PointerOffset>
       <JapaneseText>魔術書の一つ。　
 魔術の真理という題名が付けられた究極の魔術書</JapaneseText>
-      <EnglishText>A magical book that contains magic
-of the highest quality on its pages.</EnglishText>
+      <EnglishText>The ultimate tome of magic.</EnglishText>
       <Notes/>
       <Id>579</Id>
       <Status>Editing</Status>
@@ -5162,7 +5162,8 @@ of the highest quality on its pages.</EnglishText>
       <PointerOffset>16284</PointerOffset>
       <JapaneseText>魔術書の一つ。　呪文をとある団体の
 スケジュール表でカモフラージュして記した書物</JapaneseText>
-      <EnglishText>A magical book in which the recorded spells are camouuflaged as the schedule of a certain organization.</EnglishText>
+      <EnglishText>One of the tomes of magic. Its spells are
+hidden within a certain acting troupe's program.</EnglishText>
       <Notes/>
       <Id>582</Id>
       <Status>Editing</Status>
@@ -5170,7 +5171,7 @@ of the highest quality on its pages.</EnglishText>
     <Entry>
       <PointerOffset>16304</PointerOffset>
       <JapaneseText>生き物観察日記</JapaneseText>
-      <EnglishText>Beastiary</EnglishText>
+      <EnglishText>Naturalist's Log</EnglishText>
       <Notes/>
       <Id>583</Id>
       <Status>Editing</Status>
@@ -5187,8 +5188,8 @@ of the highest quality on its pages.</EnglishText>
       <PointerOffset>16368</PointerOffset>
       <JapaneseText>千里の道も一歩から、
 まずはアリの行列を観察してみよう！</JapaneseText>
-      <EnglishText>Every journey begins with a single step, so let's
-start by observing this line of ants!</EnglishText>
+      <EnglishText>Every journey begins with a single step,
+so let's start by observing this line of ants!</EnglishText>
       <Notes/>
       <Id>585</Id>
       <Status>Editing</Status>
@@ -5196,7 +5197,7 @@ start by observing this line of ants!</EnglishText>
     <Entry>
       <PointerOffset>16388</PointerOffset>
       <JapaneseText>魔物図鑑・獣類</JapaneseText>
-      <EnglishText>Animal Encyclopedia</EnglishText>
+      <EnglishText>Encyclopedia Mammalia</EnglishText>
       <Notes/>
       <Id>586</Id>
       <Status>Editing</Status>
@@ -5213,8 +5214,8 @@ start by observing this line of ants!</EnglishText>
       <PointerOffset>16452</PointerOffset>
       <JapaneseText>子猫からライオンまで、
 獣系の魔物についての情報が載っている図鑑</JapaneseText>
-      <EnglishText>From kittens to lions, this encyclopedia contains
-information on all Beast-type monsters.</EnglishText>
+      <EnglishText>An encyclopedia with information on all
+mammalian monsters—from kittens to lions.</EnglishText>
       <Notes/>
       <Id>588</Id>
       <Status>Editing</Status>
@@ -5222,7 +5223,7 @@ information on all Beast-type monsters.</EnglishText>
     <Entry>
       <PointerOffset>16472</PointerOffset>
       <JapaneseText>魔物図鑑・昆虫類</JapaneseText>
-      <EnglishText>Insect Encyclopedia</EnglishText>
+      <EnglishText>Encyclopedia Insecta</EnglishText>
       <Notes/>
       <Id>589</Id>
       <Status>Editing</Status>
@@ -5238,7 +5239,8 @@ information on all Beast-type monsters.</EnglishText>
     <Entry>
       <PointerOffset>16536</PointerOffset>
       <JapaneseText>昆虫系の魔物についての情報が載っている図鑑</JapaneseText>
-      <EnglishText>An encyclopedia containing information on Insect-type monsters.</EnglishText>
+      <EnglishText>An encyclopedia with information
+on all insectoid monsters.</EnglishText>
       <Notes/>
       <Id>591</Id>
       <Status>Editing</Status>
@@ -5246,7 +5248,7 @@ information on all Beast-type monsters.</EnglishText>
     <Entry>
       <PointerOffset>16556</PointerOffset>
       <JapaneseText>魔物図鑑・鳥類</JapaneseText>
-      <EnglishText>Avian Encyclopedia</EnglishText>
+      <EnglishText>Encyclopedia Aves</EnglishText>
       <Notes/>
       <Id>592</Id>
       <Status>Editing</Status>
@@ -5262,15 +5264,16 @@ information on all Beast-type monsters.</EnglishText>
     <Entry>
       <PointerOffset>16620</PointerOffset>
       <JapaneseText>鳥系の魔物についての情報が載っている図鑑</JapaneseText>
-      <EnglishText>An encyclopedia containing information on Avian-type monsters.</EnglishText>
+      <EnglishText>An encyclopedia with information
+on all avian monsters.</EnglishText>
       <Notes>Is it Avian or Bird? Need to establish monster type.</Notes>
       <Id>594</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>16640</PointerOffset>
       <JapaneseText>魔物図鑑・不定形類</JapaneseText>
-      <EnglishText>Encyclopedia of Unknown</EnglishText>
+      <EnglishText>Encyclopedia Obscura</EnglishText>
       <Notes/>
       <Id>595</Id>
       <Status>Editing</Status>
@@ -5287,8 +5290,8 @@ information on all Beast-type monsters.</EnglishText>
       <PointerOffset>16704</PointerOffset>
       <JapaneseText>魔法で動くゴーレムやゼリー状の魔物等、
 生物かどうか微妙な魔物が載っている図鑑</JapaneseText>
-      <EnglishText>An encyclopedia featuring monsters whose classification
-as living beings is in debate, such as magic-powered golems and jelly-like creatures.</EnglishText>
+      <EnglishText>An encyclopedia with information on magic-powered
+golems, jellies, and other monsters which may not be "alive."</EnglishText>
       <Notes/>
       <Id>597</Id>
       <Status>Editing</Status>
@@ -5296,7 +5299,7 @@ as living beings is in debate, such as magic-powered golems and jelly-like creat
     <Entry>
       <PointerOffset>16724</PointerOffset>
       <JapaneseText>魔物図鑑・竜類</JapaneseText>
-      <EnglishText>Draconic Encyclopedia</EnglishText>
+      <EnglishText>Encyclopedia Dracones</EnglishText>
       <Notes/>
       <Id>598</Id>
       <Status>Editing</Status>
@@ -5313,8 +5316,8 @@ as living beings is in debate, such as magic-powered golems and jelly-like creat
       <PointerOffset>16788</PointerOffset>
       <JapaneseText>魔物の中でも特に危険な
 竜系の魔物についての情報が載っている図鑑</JapaneseText>
-      <EnglishText>An encyclopedia containing information on Dragon-type monsters,
-which are among the most dangerous of monsters.</EnglishText>
+      <EnglishText>An encyclopedia with information on the
+(particularly dangerous) draconic monsters.</EnglishText>
       <Notes/>
       <Id>600</Id>
       <Status>Editing</Status>
@@ -5322,7 +5325,7 @@ which are among the most dangerous of monsters.</EnglishText>
     <Entry>
       <PointerOffset>16808</PointerOffset>
       <JapaneseText>魔物図鑑・大全</JapaneseText>
-      <EnglishText>Compendium Daemonicus</EnglishText>
+      <EnglishText>Encyclopedia Universalis</EnglishText>
       <Notes/>
       <Id>601</Id>
       <Status>Editing</Status>
@@ -5339,8 +5342,8 @@ which are among the most dangerous of monsters.</EnglishText>
       <PointerOffset>16872</PointerOffset>
       <JapaneseText>ジャンルを問わず幅広く、
 魔物の生態について情報を網羅した図鑑</JapaneseText>
-      <EnglishText>An encyclopedia containing comprehensive information
-on Daemon-type monsters.</EnglishText>
+      <EnglishText>An encyclopedia with wide-ranging, comprehensive
+information on the true nature of monsters.</EnglishText>
       <Notes/>
       <Id>603</Id>
       <Status>Editing</Status>
@@ -5348,10 +5351,10 @@ on Daemon-type monsters.</EnglishText>
     <Entry>
       <PointerOffset>16892</PointerOffset>
       <JapaneseText>珍獣図鑑・大全</JapaneseText>
-      <EnglishText>Compendium Esoterica</EnglishText>
-      <Notes/>
+      <EnglishText>Compendium Mysterica</EnglishText>
+      <Notes>resume here</Notes>
       <Id>604</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>16952</PointerOffset>
@@ -5365,8 +5368,8 @@ on Daemon-type monsters.</EnglishText>
       <PointerOffset>16956</PointerOffset>
       <JapaneseText>未知の生命体から異界の魔物まで、
 様々な情報を網羅した図鑑</JapaneseText>
-      <EnglishText>An encyclopedia containing information ranging from
-unknown forms of life to otherworldly monsters.</EnglishText>
+      <EnglishText>An encyclopedia with comprehensive information
+on mysterious and otherworldly monsters.</EnglishText>
       <Notes/>
       <Id>606</Id>
       <Status>Editing</Status>

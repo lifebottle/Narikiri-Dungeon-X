@@ -8,7 +8,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298720,299592,299764</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298784,299516</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298852,299128</PointerOffset>
@@ -32,31 +32,31 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298916</PointerOffset>
       <JapaneseText>少女の声</JapaneseText>
-      <EnglishText>Girl’s Voice</EnglishText>
+      <EnglishText>Girl's Voice</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299028,299316</PointerOffset>
       <JapaneseText>緋装束の少女</JapaneseText>
-      <EnglishText>Scarlet-Clad Girl</EnglishText>
+      <EnglishText>Red-Garbed Girl</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299380,299452</PointerOffset>
       <JapaneseText>黒装束の男</JapaneseText>
-      <EnglishText>Man in Black</EnglishText>
+      <EnglishText>Black-Garbed Man</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>292709</PointerOffset>
@@ -105,11 +105,11 @@
       <PointerOffset>298652</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_050_001&gt;</VoiceId>
       <JapaneseText>きゃっ！</JapaneseText>
-      <EnglishText>Gah!</EnglishText>
+      <EnglishText>Aaaah!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298724</PointerOffset>
@@ -119,27 +119,27 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298788</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_050_003&gt;</VoiceId>
       <JapaneseText>クルール！</JapaneseText>
-      <EnglishText>Kururu!</EnglishText>
+      <EnglishText>Couleuru!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298856</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_050_004&gt;</VoiceId>
       <JapaneseText>なっ……なんだ！</JapaneseText>
-      <EnglishText>Wh-What's wrong with y--!</EnglishText>
+      <EnglishText>Wh-What the!?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298920</PointerOffset>
@@ -149,108 +149,110 @@
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299032</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_050_006&gt;</VoiceId>
       <JapaneseText>ここは我々が抑えました。
 あなた方の好きにはさせません</JapaneseText>
-      <EnglishText>We've finally got you. You won't
-do as you please any longer.</EnglishText>
+      <EnglishText>This place is under our
+control. You will not be
+permitted to do as you please.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299132</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_050_007&gt;</VoiceId>
       <JapaneseText>好きにさせないって……
 どーゆーことだよ……！</JapaneseText>
-      <EnglishText>Do as we please...? What
-have we done to you...!?</EnglishText>
+      <EnglishText>"You will not be permitted to"...
+The hell are you talking about...!?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299320</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_050_008&gt;</VoiceId>
       <JapaneseText>おとなしくしていれば、
 危害は加えません</JapaneseText>
-      <EnglishText>If you do as we say,
-we won't hurt you.</EnglishText>
+      <EnglishText>If you remain obedient,
+you will not be injured.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>8</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299320</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_050_009&gt;</VoiceId>
       <JapaneseText>プルートの居場所、
 吐いてもらいますよ</JapaneseText>
-      <EnglishText>That is as long as you divulge
-Pluto's whereabouts.</EnglishText>
+      <EnglishText>You will confess
+Pluto's location to us.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299320</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_050_010&gt;</VoiceId>
       <JapaneseText>連れていきなさい</JapaneseText>
-      <EnglishText>Apprehend them.</EnglishText>
+      <EnglishText>Bring them.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>8</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299384</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_050_011&gt;</VoiceId>
       <JapaneseText>はっ！</JapaneseText>
-      <EnglishText>Ha!</EnglishText>
+      <EnglishText>Understood!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299520</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_050_013&gt;</VoiceId>
       <JapaneseText>クルール！</JapaneseText>
-      <EnglishText>Kuruuuru!</EnglishText>
+      <EnglishText>Couleuru!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299456</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_050_012&gt;</VoiceId>
       <JapaneseText>おまえも来い！</JapaneseText>
-      <EnglishText>You're coming too!</EnglishText>
+      <EnglishText>You're coming, too!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299596</PointerOffset>
       <VoiceId>&lt;audio:VSM_180_050_014&gt;</VoiceId>
       <JapaneseText>待てっ！　ふたりを返せ！</JapaneseText>
-      <EnglishText>Wait! Let go of them!</EnglishText>
+      <EnglishText>Wait! Let
+them go!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299768</PointerOffset>
@@ -261,7 +263,7 @@ Pluto's whereabouts.</EnglishText>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299768</PointerOffset>
@@ -272,7 +274,7 @@ Pluto's whereabouts.</EnglishText>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
