@@ -8,23 +8,23 @@
       <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273132,273308</PointerOffset>
       <JapaneseText>裏切りの抜け忍</JapaneseText>
-      <EnglishText>Traitorous Ninja</EnglishText>
+      <EnglishText>Ninja Turncoat</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273376</PointerOffset>
       <JapaneseText>背信の抜け忍</JapaneseText>
-      <EnglishText>Renegade Ninja</EnglishText>
+      <EnglishText>Ninja Traitor</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273508</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>266949</PointerOffset>
@@ -82,23 +82,24 @@
       <VoiceId>&lt;audio:VSM_200_030_001&gt;</VoiceId>
       <JapaneseText>忍びの掟を忘れたのですか？
 &lt;Red&gt;忍者の里&lt;White&gt;へ帰りましょう</JapaneseText>
-      <EnglishText>Have you forgotten the laws of the ninja?
-Return to &lt;Red&gt;Ninja Village&lt;White&gt; immediately.</EnglishText>
+      <EnglishText>Have you forgotten the
+code of the shinobi? Let
+us return to the &lt;Red&gt;Ninja Village&lt;White&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273136</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_030_002&gt;</VoiceId>
       <JapaneseText>黙れ！！</JapaneseText>
-      <EnglishText>Shut up!</EnglishText>
+      <EnglishText>Shut your mouth!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273136</PointerOffset>
@@ -106,92 +107,93 @@ Return to &lt;Red&gt;Ninja Village&lt;White&gt; immediately.</EnglishText>
       <JapaneseText>おまえこそ、
 ダオス様の崇高な
 理想がわからぬのか！</JapaneseText>
-      <EnglishText>You can't understand the noble
-dream of our great Lord Dhaos!</EnglishText>
+      <EnglishText>How can *you* not
+understand the nobility
+of Lord Dhaos's cause!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273136</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_030_004&gt;</VoiceId>
       <JapaneseText>邪魔だてすると
 言うなら死んでもらう！</JapaneseText>
-      <EnglishText>Little pests like you need
-to die to fulfill his wishes!</EnglishText>
+      <EnglishText>Those who dare impede
+his goals must *die*!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273240</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_030_005&gt;</VoiceId>
       <JapaneseText>……仕方がありません</JapaneseText>
-      <EnglishText>...You leave me no choice.</EnglishText>
+      <EnglishText>...Then I have no choice.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273240</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_030_006&gt;</VoiceId>
       <JapaneseText>お覚悟を……</JapaneseText>
-      <EnglishText>Ready yourselves!</EnglishText>
+      <EnglishText>Prepare yourselves...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273312</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_030_007&gt;</VoiceId>
       <JapaneseText>速すぎる……</JapaneseText>
-      <EnglishText>Too...fast...</EnglishText>
+      <EnglishText>She's too fast...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273380</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_030_008&gt;</VoiceId>
       <JapaneseText>無念……</JapaneseText>
-      <EnglishText>...Are...finished...</EnglishText>
+      <EnglishText>Curse you...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273512</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_030_009&gt;</VoiceId>
       <JapaneseText>君は……</JapaneseText>
-      <EnglishText>Hey, you...</EnglishText>
+      <EnglishText>You're...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273512</PointerOffset>
       <VoiceId>&lt;audio:VSM_200_030_010&gt;</VoiceId>
       <JapaneseText>あっ、ちょ、ちょっと待ってよ
 ……行っちゃったよ……</JapaneseText>
-      <EnglishText>H-Hey! Wait a minute...!
-She already got away.</EnglishText>
+      <EnglishText>Ah, w-wait a sec...
+And she's gone...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
