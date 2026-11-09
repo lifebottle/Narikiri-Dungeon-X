@@ -8,7 +8,7 @@
       <EnglishText>Shadow</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283608,283852,284560,284984,285664</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284040,285252,286632</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284332,284804,285536,285904</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284496,284632,284724,284904,285348</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285452,285996</PointerOffset>
@@ -48,7 +48,7 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275889</PointerOffset>
@@ -99,24 +99,25 @@
       <JapaneseText>領域・荒らす
 許さない・
 領域・荒らす……</JapaneseText>
-      <EnglishText>The one...violates...this land...
-Unforgivable...the one...violates...</EnglishText>
+      <EnglishText>Territory...invaded...
+Guilty...territory...
+Invaded...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283612</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_070_023&gt;</VoiceId>
       <JapaneseText>ゴメンなさい……
 エトがお邪魔しちゃって……</JapaneseText>
-      <EnglishText>I'm deeply sorry... Please, forgive
-Eto for her intrusion...</EnglishText>
+      <EnglishText>I'm sorry... Ethos caused
+all this trouble for you...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283752</PointerOffset>
@@ -127,42 +128,44 @@ Eto for her intrusion...</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283752</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_070_025&gt;</VoiceId>
       <JapaneseText>許す・おまえ・許す</JapaneseText>
-      <EnglishText>Forgive...you... Forgive...</EnglishText>
+      <EnglishText>Forgive...you...forgive...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283752</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_070_026&gt;</VoiceId>
       <JapaneseText>外・闇・
 漏れた・動揺</JapaneseText>
-      <EnglishText>Darkness...leaking...outside... Disturbance...</EnglishText>
+      <EnglishText>Outside...darkness...
+Overflow...agitated...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283856</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_070_027&gt;</VoiceId>
       <JapaneseText>外が闇に包まれたのは、
 シャドウの動揺が原因だって</JapaneseText>
-      <EnglishText>The outside being in darkness is the
-cause for Shadow feeling disturbed.</EnglishText>
+      <EnglishText>Shadow says he was agitated,
+and that led to the darkness
+that's covered everything outside.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284044</PointerOffset>
@@ -170,13 +173,13 @@ cause for Shadow feeling disturbed.</EnglishText>
       <JapaneseText>ダオスの時も確か、
 同じ原因でアーリィが
 闇に包まれていました</JapaneseText>
-      <EnglishText>Back during Dhaos's War, such disturbance
-was present too. The entire Arlee continent
-was covered in darkness like now.</EnglishText>
+      <EnglishText>Just the same happened
+with Dhaos, when Arlee
+was covered in darkness.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284108</PointerOffset>
@@ -186,7 +189,7 @@ was covered in darkness like now.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284336</PointerOffset>
@@ -194,12 +197,13 @@ was covered in darkness like now.</EnglishText>
       <JapaneseText>……はぁ……
 最後まで何考えてっか
 わかんなかったな</JapaneseText>
-      <EnglishText>*sigh*... It's just one thing after the other.
-This doesn't make any sense...</EnglishText>
+      <EnglishText>...Phew... I still
+don't really get
+what he was thinking.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284500</PointerOffset>
@@ -209,49 +213,51 @@ This doesn't make any sense...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284564</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_070_036&gt;</VoiceId>
       <JapaneseText>エト……！</JapaneseText>
-      <EnglishText>Eto, it's you!</EnglishText>
+      <EnglishText>Ethos...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284636</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_070_037&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;！　&lt;Mel&gt;！</JapaneseText>
-      <EnglishText>&lt;Dio&gt;! &lt;Mel&gt;! You're here!</EnglishText>
+      <EnglishText>&lt;Dio&gt;! &lt;Mel&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284728</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_070_038&gt;</VoiceId>
       <JapaneseText>ふたりとも大丈夫だった？
 けがはない？</JapaneseText>
-      <EnglishText>Are you both ok? Are you hurt?</EnglishText>
+      <EnglishText>Were you both okay?
+You weren't hurt?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284808</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_070_039&gt;</VoiceId>
       <JapaneseText>こっちのが
 心配したっての</JapaneseText>
-      <EnglishText>WE were the ones worried here.</EnglishText>
+      <EnglishText>Hey, we were more
+worried about you.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284908</PointerOffset>
@@ -259,23 +265,25 @@ This doesn't make any sense...</EnglishText>
       <JapaneseText>でも、ぼく、ずっと
 ふたりのこと
 探してたかラ……</JapaneseText>
-      <EnglishText>But...I've been looking and looking
-and couldn't find you...</EnglishText>
+      <EnglishText>But, I looked
+for you for
+a long time...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>15</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284988</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_070_041&gt;</VoiceId>
       <JapaneseText>それでここに
 迷い込んだの？</JapaneseText>
-      <EnglishText>And you ended up here?</EnglishText>
+      <EnglishText>And that's how
+you ended up here?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285256</PointerOffset>
@@ -283,85 +291,88 @@ and couldn't find you...</EnglishText>
       <JapaneseText>申し訳ありません。
 私どもの手違いで、おふたりを
 連れ去ってしまったばかりに……</JapaneseText>
-      <EnglishText>My deepest apologies. It is because of
-a misunderstanding on my clan's part
-that you three were separated...</EnglishText>
+      <EnglishText>My apologies. It was due to
+our mistake that the two of
+them were taken from you...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>17</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285352</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_070_045&gt;</VoiceId>
       <JapaneseText>あ、え……あ、はい、
 キョーシュクです……</JapaneseText>
-      <EnglishText>Ah...uhm... Much obliged...</EnglishText>
+      <EnglishText>Oh, umm... Y-Yes. You
+have my gratitude...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>18</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285456</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_070_046&gt;</VoiceId>
       <JapaneseText>さて、ヴォルトもいるし、
 これで元の時代にも戻れるぜ</JapaneseText>
-      <EnglishText>All right! With Volt and Eto, now
-we can return to your time!</EnglishText>
+      <EnglishText>That aside, we've got Volt
+now, so now you can go
+back to your own time!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>19</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285540</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_070_047&gt;</VoiceId>
       <JapaneseText>オレさ……
 &lt;Suzu&gt;ちゃん手伝うよ</JapaneseText>
-      <EnglishText>...I want to help &lt;Suzu&gt;
-with her fight.</EnglishText>
+      <EnglishText>But, uh... I'm
+gonna help &lt;Suzu&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>20</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285668</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_070_048&gt;</VoiceId>
       <JapaneseText>あ、わたしも！</JapaneseText>
-      <EnglishText>Yes! I want to help too!</EnglishText>
+      <EnglishText>Oh, me, too!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>21</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285668</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_070_049&gt;</VoiceId>
       <JapaneseText>だって、今の状態って
 他人事じゃないでしょ</JapaneseText>
-      <EnglishText>With the current situation, the
-problem isn't hers alone anymore.</EnglishText>
+      <EnglishText>I mean, under these
+circumstances, it's our
+problem, too, isn't it?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285908</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_070_050&gt;</VoiceId>
       <JapaneseText>んだよ……&lt;Mel&gt;も
 同じこと考えてたのか</JapaneseText>
-      <EnglishText>&lt;Mel&gt;'s agreeing with me?
-I think hell just got colder.</EnglishText>
+      <EnglishText>Huh... So you were thinking
+the same thing as me, &lt;Mel&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>23</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285908</PointerOffset>
@@ -369,13 +380,14 @@ I think hell just got colder.</EnglishText>
       <JapaneseText>この世界が、
 まんまオレらの世界の
 過去なんだもんな</JapaneseText>
-      <EnglishText>...What happens to this world
-will affect our own era, right?</EnglishText>
+      <EnglishText>This world's the
+past of our own
+world, so, y'know.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285908</PointerOffset>
@@ -383,38 +395,39 @@ will affect our own era, right?</EnglishText>
       <JapaneseText>プルートっての、
 ほっといたら、世界が
 ろくなことんなんねーし</JapaneseText>
-      <EnglishText>Leaving Pluto alone will only make
-things worse in the long run.</EnglishText>
+      <EnglishText>If we just leave Pluto
+like this, it'll be bad
+news for our world, won't it?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>23</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286000</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_070_053&gt;</VoiceId>
       <JapaneseText>おし……ほんじゃ、
 私も一緒に行くかな</JapaneseText>
-      <EnglishText>All right then, I guess I have
-no choice but to follow you!</EnglishText>
+      <EnglishText>A'ighty... Theeeeen, maybe
+I'll have to tag along, too?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>26</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286636</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_070_058&gt;</VoiceId>
       <JapaneseText>みなさん、
 ありがとうございます</JapaneseText>
-      <EnglishText>Everyone, thank you very
-much for your support!</EnglishText>
+      <EnglishText>Thank you very
+much, everyone.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>27</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286636</PointerOffset>
@@ -422,25 +435,26 @@ much for your support!</EnglishText>
       <JapaneseText>でも、これは我々で
 決着をつけなくては
 ならないことです</JapaneseText>
-      <EnglishText>However, I cannot assure
-victory just yet.</EnglishText>
+      <EnglishText>But, this is a problem
+we must solve ourselves.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>27</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286636</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_070_060&gt;</VoiceId>
       <JapaneseText>一旦、&lt;Red&gt;忍者の里&lt;White&gt;に
 戻りましょう</JapaneseText>
-      <EnglishText>Let's return to &lt;Red&gt;Ninja Village&lt;White&gt;.</EnglishText>
+      <EnglishText>For the time being, let us
+return to the &lt;Red&gt;Ninja Village&lt;White&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>27</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286636</PointerOffset>
@@ -448,14 +462,14 @@ victory just yet.</EnglishText>
       <JapaneseText>今日のところは、
 私の屋敷でゆっくりと
 お休みください</JapaneseText>
-      <EnglishText>We can use my residence
-to get a good rest before
-the final fight.</EnglishText>
+      <EnglishText>For today, please
+allow yourselves to
+rest at my estate.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>27</Id>
       <BubbleId>3</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
