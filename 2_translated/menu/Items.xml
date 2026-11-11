@@ -6109,7 +6109,7 @@ by the Highest of Gods.</EnglishText>
     <Entry>
       <PointerOffset>19308</PointerOffset>
       <JapaneseText>突くことに特化した、針のような刀身を持つ細身剣</JapaneseText>
-      <EnglishText>A third sword with a needle-like
+      <EnglishText>A thin sword with a needle-like
 blade. Made especially for thrusting.</EnglishText>
       <Notes/>
       <Id>690</Id>
@@ -6164,8 +6164,8 @@ Light Attrib. Weapon</EnglishText>
     <Entry>
       <PointerOffset>19476</PointerOffset>
       <JapaneseText>聖別された剣先が鮮やかに敵を貫く高貴な細身剣</JapaneseText>
-      <EnglishText>An exalted, narrow sword whose consecrated blade
-will pierce through enemies with precision.</EnglishText>
+      <EnglishText>A thin sword with a consecrated tip which
+is superb at piercing through enemies.</EnglishText>
       <Notes/>
       <Id>696</Id>
       <Status>Editing</Status>
@@ -6183,7 +6183,7 @@ will pierce through enemies with precision.</EnglishText>
       <JapaneseText>物攻＋２００　術攻＋５
 地属性武器</JapaneseText>
       <EnglishText>ATK + 200　MATK + 5
-Earth Property</EnglishText>
+Earth Attrib. Weapon</EnglishText>
       <Notes/>
       <Id>698</Id>
       <Status>Editing</Status>
@@ -6192,7 +6192,8 @@ Earth Property</EnglishText>
       <PointerOffset>19560</PointerOffset>
       <JapaneseText>大地を統べた龍の牙を穂先として使用した剣。
 その威力はまさに龍のひと噛み</JapaneseText>
-      <EnglishText>A sword whose blade was fashioned from the fang of a dragon that once ruled the Earth. Its power is as strong as a dragon's bite.</EnglishText>
+      <EnglishText>A sword with tip made from the fang of a dragon
+that ruled the world. As mighty as a dragon's bite.</EnglishText>
       <Notes/>
       <Id>699</Id>
       <Status>Editing</Status>
@@ -6200,17 +6201,17 @@ Earth Property</EnglishText>
     <Entry>
       <PointerOffset>19580</PointerOffset>
       <JapaneseText>オリジナルブレード</JapaneseText>
-      <EnglishText>Origin Blade</EnglishText>
+      <EnglishText>Original Blade</EnglishText>
       <Notes>While literally Original Blade, I think Origin Blade fits better. Please confirm that this is related to Origin, the Spirit.</Notes>
       <Id>700</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>19640</PointerOffset>
       <JapaneseText>最大ＨＰ＋２００　物攻＋１８５　物防＋５
 術攻＋８０　術防＋３　詠唱速度＋２　地属性武器</JapaneseText>
       <EnglishText>Max HP + 200　ATK + 185　DEF + 5
-MATK + 80　MDEF + 3　CAST + 2　Earth Property</EnglishText>
+MATK + 80　MDEF + 3　CAST + 2　Earth Attrib. Weapon</EnglishText>
       <Notes/>
       <Id>701</Id>
       <Status>Editing</Status>
@@ -6219,8 +6220,8 @@ MATK + 80　MDEF + 3　CAST + 2　Earth Property</EnglishText>
       <PointerOffset>19644</PointerOffset>
       <JapaneseText>精霊王の力により生み出された精霊の剣。
 大地の力を宿し、敵に圧倒的な威圧感を与える</JapaneseText>
-      <EnglishText>A divine blade forged with the power of the King of Spirits. It harnesses
-the power of Earth and overwhelms its foes with dread.</EnglishText>
+      <EnglishText>A sword born of the King of Spirits' power. It
+intimidates enemies with the power of all Aselia.</EnglishText>
       <Notes/>
       <Id>702</Id>
       <Status>Editing</Status>
@@ -6245,7 +6246,7 @@ the power of Earth and overwhelms its foes with dread.</EnglishText>
       <PointerOffset>19728</PointerOffset>
       <JapaneseText>数々の伝説打法が生み出された
 万人に愛される木製武器</JapaneseText>
-      <EnglishText>A wooden weapon that has given rise to countless
+      <EnglishText>A wooden weapon that has given rise to many
 legendary techniques and is loved by all.</EnglishText>
       <Notes/>
       <Id>705</Id>
@@ -6264,7 +6265,7 @@ legendary techniques and is loved by all.</EnglishText>
       <JapaneseText>物攻＋１７０
 闇属性武器</JapaneseText>
       <EnglishText>ATK + 170
-Darkness Property</EnglishText>
+Dark Attrib. Weapon</EnglishText>
       <Notes/>
       <Id>707</Id>
       <Status>Editing</Status>
@@ -6273,8 +6274,8 @@ Darkness Property</EnglishText>
       <PointerOffset>19812</PointerOffset>
       <JapaneseText>災厄砕きの名を冠した魔剣。
 刀身は砕いた災厄を吸い闇に染まってゆく</JapaneseText>
-      <EnglishText>Its name references the crushing
-disaster it's old wielder predicted.</EnglishText>
+      <EnglishText>A magic sword which cuts calamities. Its blade
+is stained dark by the misfortune it's absorbed.</EnglishText>
       <Notes/>
       <Id>708</Id>
       <Status>Editing</Status>
@@ -6299,8 +6300,8 @@ disaster it's old wielder predicted.</EnglishText>
       <PointerOffset>19896</PointerOffset>
       <JapaneseText>王の王たる証。
 イシュタル伝説に名を残すとある勇者の剣</JapaneseText>
-      <EnglishText>A sword wielded by the legendary hero.
-Now used as proof of royal blood.</EnglishText>
+      <EnglishText>The proof of a king. The sword of a hero
+who appeared in the legends of Ishtar.</EnglishText>
       <Notes/>
       <Id>711</Id>
       <Status>Editing</Status>
@@ -6318,7 +6319,7 @@ Now used as proof of royal blood.</EnglishText>
       <JapaneseText>物攻＋１９０　物防＋５　術攻＋５　術防＋５
 詠唱速度＋５　敏捷＋５　水属性武器</JapaneseText>
       <EnglishText>ATK + 190　DEF + 5　MATK + 5　MDEF + 5
-CAST + 5　AGI + 5　Water Property</EnglishText>
+CAST + 5　AGI + 5　Water Attrib. Weapon</EnglishText>
       <Notes/>
       <Id>713</Id>
       <Status>Editing</Status>
@@ -6327,8 +6328,8 @@ CAST + 5　AGI + 5　Water Property</EnglishText>
       <PointerOffset>19980</PointerOffset>
       <JapaneseText>氷のような刀身を持つ魔剣。
 本物であれば三種の武具の一つだがこれはレプリカ</JapaneseText>
-      <EnglishText>Demonic sword with an icy blade.
-There is only one genuine copy in existance.</EnglishText>
+      <EnglishText>A magic sword with blade like ice. The original
+is a component of the Trua, but this is but a replica.</EnglishText>
       <Notes/>
       <Id>714</Id>
       <Status>Editing</Status>
@@ -6355,8 +6356,8 @@ CAST + 10　AGI + 10　Luck + 10</EnglishText>
       <PointerOffset>20064</PointerOffset>
       <JapaneseText>かつてダオスとの戦いで使われた魔剣。
 その力は時空（トキ）を駆けることすら可能とする</JapaneseText>
-      <EnglishText>A blade made by Origin, and used by the 
-Heroes of Time to defeat Dhaos.</EnglishText>
+      <EnglishText>A magic sword once used to battle Dhaos.
+Its power can even carry it across time.</EnglishText>
       <Notes/>
       <Id>717</Id>
       <Status>Editing</Status>
@@ -6364,7 +6365,7 @@ Heroes of Time to defeat Dhaos.</EnglishText>
     <Entry>
       <PointerOffset>20084</PointerOffset>
       <JapaneseText>フラムファング</JapaneseText>
-      <EnglishText>Flamme Fang</EnglishText>
+      <EnglishText>Flamfang</EnglishText>
       <Notes/>
       <Id>718</Id>
       <Status>Editing</Status>
@@ -6374,7 +6375,7 @@ Heroes of Time to defeat Dhaos.</EnglishText>
       <JapaneseText>物攻＋１７５　物防＋１０　術防＋１０
 火属性武器</JapaneseText>
       <EnglishText>ATK + 175　DEF + 10　MDEF + 10
-Fire Property</EnglishText>
+Fire Attrib. Weapon</EnglishText>
       <Notes/>
       <Id>719</Id>
       <Status>Editing</Status>
@@ -6383,7 +6384,8 @@ Fire Property</EnglishText>
       <PointerOffset>20148</PointerOffset>
       <JapaneseText>炎の力を凝縮し、
 精霊の手によって生み出される貴重な武器</JapaneseText>
-      <EnglishText>A precious weapon forged by the hands of spirits which has condensed the power of fire.</EnglishText>
+      <EnglishText>A weapon made by the spirits
+out of condensed flame.</EnglishText>
       <Notes/>
       <Id>720</Id>
       <Status>Editing</Status>
@@ -6408,8 +6410,8 @@ Fire Property</EnglishText>
       <PointerOffset>20232</PointerOffset>
       <JapaneseText>空飛ぶホウキ。
 座った時に痛くないようにサドルが付いている</JapaneseText>
-      <EnglishText>A magic flying broom with a very
-uncomfortable saddle.</EnglishText>
+      <EnglishText>A flying broom. There's a saddle,
+too, so it doesn't hurt to sit on.</EnglishText>
       <Notes/>
       <Id>723</Id>
       <Status>Editing</Status>
@@ -6417,7 +6419,7 @@ uncomfortable saddle.</EnglishText>
     <Entry>
       <PointerOffset>20252</PointerOffset>
       <JapaneseText>ミスティブルーム</JapaneseText>
-      <EnglishText>Misty Broom</EnglishText>
+      <EnglishText>Mysti-Broom</EnglishText>
       <Notes/>
       <Id>724</Id>
       <Status>Editing</Status>
@@ -6433,7 +6435,7 @@ uncomfortable saddle.</EnglishText>
     <Entry>
       <PointerOffset>20316</PointerOffset>
       <JapaneseText>銀細工の施された綺麗なホウキ</JapaneseText>
-      <EnglishText>A beautiful broom embellished with a silver inlay.</EnglishText>
+      <EnglishText>A beautiful broom with silver inlay.</EnglishText>
       <Notes/>
       <Id>726</Id>
       <Status>Editing</Status>
@@ -6457,8 +6459,8 @@ uncomfortable saddle.</EnglishText>
     <Entry>
       <PointerOffset>20400</PointerOffset>
       <JapaneseText>別世界からやってきた魔女が乗っていたホウキ</JapaneseText>
-      <EnglishText>A broom ridden by a witch who had come from
-another world.</EnglishText>
+      <EnglishText>A broom ridden by a
+witch from another world.</EnglishText>
       <Notes/>
       <Id>729</Id>
       <Status>Editing</Status>
@@ -6476,7 +6478,7 @@ another world.</EnglishText>
       <JapaneseText>物攻＋５８　術攻＋１６９
 風属性武器</JapaneseText>
       <EnglishText>ATK + 58　MATK + 169
-Wind Property</EnglishText>
+Wind Attrib. Weapon</EnglishText>
       <Notes/>
       <Id>731</Id>
       <Status>Editing</Status>
@@ -6485,8 +6487,8 @@ Wind Property</EnglishText>
       <PointerOffset>20484</PointerOffset>
       <JapaneseText>風の精霊の力が宿った素早く飛べるホウキ。
 スピードが命なあなたに……</JapaneseText>
-      <EnglishText>A broom imbued with the power of Sylph that lets one fly as
-swift as the wind. It for those whom speed is everything...</EnglishText>
+      <EnglishText>A fast-flying broom containing wind spirit
+power. For those who gotta go fast.</EnglishText>
       <Notes/>
       <Id>732</Id>
       <Status>Editing</Status>
@@ -6510,8 +6512,8 @@ swift as the wind. It for those whom speed is everything...</EnglishText>
     <Entry>
       <PointerOffset>20568</PointerOffset>
       <JapaneseText>楽器のような飛行音がする不思議で楽しいホウキ</JapaneseText>
-      <EnglishText>A mysterious yet delightful broom that makes sounds
-like a musical instrument.</EnglishText>
+      <EnglishText>A fun, mysterious broom that makes
+musical sounds when it flies.</EnglishText>
       <Notes/>
       <Id>735</Id>
       <Status>Editing</Status>
@@ -6535,7 +6537,8 @@ like a musical instrument.</EnglishText>
     <Entry>
       <PointerOffset>20652</PointerOffset>
       <JapaneseText>流れ星のような軌跡を残す魔法のホウキ</JapaneseText>
-      <EnglishText>A magic broom that leaves a trail like a shooting star.</EnglishText>
+      <EnglishText>A magic broom that leaves
+a trail like a shooting star.</EnglishText>
       <Notes/>
       <Id>738</Id>
       <Status>Editing</Status>
@@ -6560,8 +6563,8 @@ like a musical instrument.</EnglishText>
       <PointerOffset>20736</PointerOffset>
       <JapaneseText>銀細工の施された綺麗なスプーン……
 飛んでみたらいいよ！</JapaneseText>
-      <EnglishText>A beautiful spoon made of silver...
-Why not give it a try!</EnglishText>
+      <EnglishText>A beautiful spoon made partly of
+real silver... You should try flying on it!</EnglishText>
       <Notes/>
       <Id>741</Id>
       <Status>Editing</Status>
@@ -6585,8 +6588,8 @@ Why not give it a try!</EnglishText>
     <Entry>
       <PointerOffset>20820</PointerOffset>
       <JapaneseText>クマの手を模して作られた打撃戦用の篭手</JapaneseText>
-      <EnglishText>Gauntlets designed to imitate a bear's claws for
-close combat.</EnglishText>
+      <EnglishText>Gauntlets for hand-to-hand combat.
+Designed after a bear's hands.</EnglishText>
       <Notes/>
       <Id>744</Id>
       <Status>Editing</Status>
@@ -6610,7 +6613,8 @@ close combat.</EnglishText>
     <Entry>
       <PointerOffset>20904</PointerOffset>
       <JapaneseText>打撃力を強化した革の篭手</JapaneseText>
-      <EnglishText>Leather gauntlets that enhance one's striking power.</EnglishText>
+      <EnglishText>Leather gauntlets with
+enhanced striking power.</EnglishText>
       <Notes/>
       <Id>747</Id>
       <Status>Editing</Status>
@@ -6634,8 +6638,8 @@ close combat.</EnglishText>
     <Entry>
       <PointerOffset>20988</PointerOffset>
       <JapaneseText>鉄製の突起物を付けて殺傷能力を増した篭手</JapaneseText>
-      <EnglishText>Gauntlets fitted with iron spikes to boost their
-killing capabilities.</EnglishText>
+      <EnglishText>Gauntlets made more lethal
+by addition of iron spikes.</EnglishText>
       <Notes/>
       <Id>750</Id>
       <Status>Editing</Status>
@@ -6643,7 +6647,7 @@ killing capabilities.</EnglishText>
     <Entry>
       <PointerOffset>21008</PointerOffset>
       <JapaneseText>ソウルフォージ</JapaneseText>
-      <EnglishText>Solfege</EnglishText>
+      <EnglishText>Soul Forge</EnglishText>
       <Notes/>
       <Id>751</Id>
       <Status>Editing</Status>
@@ -6662,8 +6666,8 @@ Effect: Regenerate HP</EnglishText>
       <PointerOffset>21072</PointerOffset>
       <JapaneseText>八百万の魔物の魂が封じられた篭手。
 使う者を鼓舞しスタミナを与える</JapaneseText>
-      <EnglishText>Gauntlets that have sealed the souls of eight million monsters.
-They invigorate its user and give them stamina.</EnglishText>
+      <EnglishText>Gauntlets with the souls of 8,000,000 monsters
+sealed inside. They grant stamina to their wielder.</EnglishText>
       <Notes/>
       <Id>753</Id>
       <Status>Editing</Status>
@@ -6681,7 +6685,7 @@ They invigorate its user and give them stamina.</EnglishText>
       <JapaneseText>最大ＨＰ＋２００　物攻＋１６４
 地属性武器</JapaneseText>
       <EnglishText>Max HP + 200　ATK + 164
-Earth Property</EnglishText>
+Earth Attrib. Weapon</EnglishText>
       <Notes/>
       <Id>755</Id>
       <Status>Editing</Status>
@@ -6690,8 +6694,8 @@ Earth Property</EnglishText>
       <PointerOffset>21156</PointerOffset>
       <JapaneseText>ダイヤを加工して作られた爪を備える篭手。
 とてつもない強度を誇る</JapaneseText>
-      <EnglishText>Gauntlets fitted with talons crafted from diamonds.
-They boast incredible power.</EnglishText>
+      <EnglishText>Gauntlets with claws crafted from
+diamonds. They boast incredible power.</EnglishText>
       <Notes/>
       <Id>756</Id>
       <Status>Editing</Status>
@@ -6709,7 +6713,7 @@ They boast incredible power.</EnglishText>
       <JapaneseText>最大ＨＰ＋１５０　物攻＋１２２
 追加効果：敵を熱毒状態にすることがある</JapaneseText>
       <EnglishText>Max HP + 150　ATK + 122
-Effect: Poison</EnglishText>
+Effect: Inflicts Poison</EnglishText>
       <Notes/>
       <Id>758</Id>
       <Status>Editing</Status>
@@ -6718,8 +6722,8 @@ Effect: Poison</EnglishText>
       <PointerOffset>21240</PointerOffset>
       <JapaneseText>毒薬を塗りこんだ革で覆われた
 格闘家精神に反すると非難を浴びた篭手</JapaneseText>
-      <EnglishText>Gauntlets covered in poison-soaked leather that have
-been criticized for going against the spirit of martial arts.</EnglishText>
+      <EnglishText>Gauntlets wrapped in poisoned leather. Often
+criticized as violating the spirit of martial arts.</EnglishText>
       <Notes/>
       <Id>759</Id>
       <Status>Editing</Status>
@@ -6744,8 +6748,8 @@ been criticized for going against the spirit of martial arts.</EnglishText>
       <PointerOffset>21324</PointerOffset>
       <JapaneseText>初代チャンピオンが愛用していたとされる、
 由緒あるナックル</JapaneseText>
-      <EnglishText>A prestigious brass knuckle said to have been used
-by the first champion.</EnglishText>
+      <EnglishText>Brass knuckles with a long history. Said to
+have been used often by the very first champion.</EnglishText>
       <Notes/>
       <Id>762</Id>
       <Status>Editing</Status>
@@ -6770,8 +6774,8 @@ by the first champion.</EnglishText>
       <PointerOffset>21408</PointerOffset>
       <JapaneseText>神の兵器と名付けられたナックル。
 輝く拳は全ての悪を打ち砕く</JapaneseText>
-      <EnglishText>A knuckle christened as the weapon of god.
-Its shining fist shatters all evil.</EnglishText>
+      <EnglishText>The weapon of God. These
+shining fists will smite all evil.</EnglishText>
       <Notes>Capital g?</Notes>
       <Id>765</Id>
       <Status>Editing</Status>
@@ -6789,7 +6793,7 @@ Its shining fist shatters all evil.</EnglishText>
       <JapaneseText>最大ＨＰ＋３００　物攻＋２２５　敏捷＋１０
 光属性武器</JapaneseText>
       <EnglishText>Max HP + 300　ATK + 225　AGI + 10
-Light Property</EnglishText>
+Light Attrib. Weapon</EnglishText>
       <Notes/>
       <Id>767</Id>
       <Status>Editing</Status>
@@ -6798,8 +6802,8 @@ Light Property</EnglishText>
       <PointerOffset>21492</PointerOffset>
       <JapaneseText>星の力を秘めた輝きの篭手。
 その光は悪しきものを退ける</JapaneseText>
-      <EnglishText>A radiant gauntlets that conceals the power of the stars.
-Its light wards off evil.</EnglishText>
+      <EnglishText>Shining gauntlets which hide the power
+of the stars. Their light drives away evil.</EnglishText>
       <Notes/>
       <Id>768</Id>
       <Status>Editing</Status>
