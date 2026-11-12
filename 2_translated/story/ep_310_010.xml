@@ -8,7 +8,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270472,271564</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270700</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>264381</PointerOffset>
@@ -75,25 +75,26 @@
       <JapaneseText>ここがダオスの城……？
 ダオス戦役んとき、
 時空の狭間にあったって</JapaneseText>
-      <EnglishText>This is Dhaos's Castle...? During
-the war against him, it was
-inside a pocket dimension.</EnglishText>
+      <EnglishText>This is Dhaos's Castle...?
+Wasn't this in a gap in
+time, back in Dhaos's War?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270476</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_010_002&gt;</VoiceId>
       <JapaneseText>そう、&lt;Cless&gt;たちが
 最後にダオスと戦った場所</JapaneseText>
-      <EnglishText>Right. This is where the decisive fight
-of &lt;Cless&gt; and the others took place.</EnglishText>
+      <EnglishText>Yeah. It was where &lt;Cless&gt;
+and the others fought
+Dhaos, for the final time.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270568</PointerOffset>
@@ -101,11 +102,12 @@ of &lt;Cless&gt; and the others took place.</EnglishText>
       <JapaneseText>……オレらも、
 そこに乗り込もー
 ってか</JapaneseText>
-      <EnglishText>...And we're marching inside now.</EnglishText>
-      <Notes/>
+      <EnglishText>...So we get to come
+here, too, huh.</EnglishText>
+      <Notes>might need context idk</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>270704</PointerOffset>
@@ -116,7 +118,7 @@ of &lt;Cless&gt; and the others took place.</EnglishText>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270704</PointerOffset>
@@ -124,13 +126,14 @@ of &lt;Cless&gt; and the others took place.</EnglishText>
       <JapaneseText>……確かめたいことが
 あるって言ってたよね？
 ……なに？</JapaneseText>
-      <EnglishText>You said there was something you two
-had to be sure of... What did you mean?</EnglishText>
+      <EnglishText>...You said there was something
+you wanted to make sure
+of, right? ...What is it?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270768</PointerOffset>
@@ -140,17 +143,17 @@ had to be sure of... What did you mean?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271568</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_010_016&gt;</VoiceId>
       <JapaneseText>さ、行こうよ</JapaneseText>
-      <EnglishText>Heh, let's go.</EnglishText>
+      <EnglishText>Okay, let's go.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

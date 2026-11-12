@@ -8,7 +8,7 @@
       <EnglishText>Dios</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276156,276384,276636,276772,276952,277212,277544,277616</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>General Bandi</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270129</PointerOffset>
@@ -65,22 +65,23 @@
       <PointerOffset>276092</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_040_001&gt;</VoiceId>
       <JapaneseText>将軍！　停戦の手続きを！</JapaneseText>
-      <EnglishText>General! We need you to sign an
-armistice with the enemy troops.</EnglishText>
+      <EnglishText>General! Please
+arrange a ceasefire!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276160</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_040_002&gt;</VoiceId>
       <JapaneseText>停戦はない</JapaneseText>
-      <EnglishText>We won't enter a ceasefire.</EnglishText>
+      <EnglishText>There will be
+no ceasefire.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276228</PointerOffset>
@@ -90,45 +91,48 @@ armistice with the enemy troops.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276388</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_040_004&gt;</VoiceId>
       <JapaneseText>そんなことをすれば、
 我が領土は奴らに蹂躙される</JapaneseText>
-      <EnglishText>If I allow such a thing, they will be trampling
-all over my hard earned territory.</EnglishText>
+      <EnglishText>Should we arrange a ceasefire
+now, they'll run roughshod
+over our territories.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276388</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_040_005&gt;</VoiceId>
       <JapaneseText>そんなことは
 わかっているはずだろう</JapaneseText>
-      <EnglishText>I believe you understand.</EnglishText>
+      <EnglishText>I'm sure you must
+understand that.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276572</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_040_006&gt;</VoiceId>
       <JapaneseText>しかし、近隣の国々にも
 戦禍が飛び火しています</JapaneseText>
-      <EnglishText>But, the surrounding countries are being
-ravaged by collateral damage.</EnglishText>
+      <EnglishText>But hostilities have
+begun spreading to
+neighboring countries, too...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276572</PointerOffset>
@@ -136,34 +140,34 @@ ravaged by collateral damage.</EnglishText>
       <JapaneseText>エリュシオンのダオスからも、
 直ちに停戦せよとの要請が
 ありました</JapaneseText>
-      <EnglishText>We can put an end to all this suffering.
-Dhaos and his nation, Elysium, are willing
-to enter a ceasefire.</EnglishText>
+      <EnglishText>Just now, we've received an appeal
+from Elysium's Dhaos. He's instructing
+us to arrange a ceasefire, too.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276640</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_040_008&gt;</VoiceId>
       <JapaneseText>あれを使え</JapaneseText>
-      <EnglishText>...We will use "that."</EnglishText>
+      <EnglishText>Use it.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276712</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_040_009&gt;</VoiceId>
       <JapaneseText>……あれとはまさか</JapaneseText>
-      <EnglishText>Y-You...don't mean...</EnglishText>
+      <EnglishText>...You don't mean...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276776</PointerOffset>
@@ -173,30 +177,31 @@ to enter a ceasefire.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276860</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_040_011&gt;</VoiceId>
       <JapaneseText>待ってください！
 あれは……！</JapaneseText>
-      <EnglishText>Please think this over...!
-That's just far too...</EnglishText>
+      <EnglishText>Please, wait!
+That's...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276956</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_040_012&gt;</VoiceId>
       <JapaneseText>そんな悠長なことを
 言っている場合か？</JapaneseText>
-      <EnglishText>You think I would say this in jest?</EnglishText>
+      <EnglishText>Do we think we have the
+time to discuss this now?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277088</PointerOffset>
@@ -204,13 +209,13 @@ That's just far too...</EnglishText>
       <JapaneseText>しかし、閣下のおっしゃっていた
 デリス・カーラーンの
 平和はどうなるのですか？</JapaneseText>
-      <EnglishText>But, now that peace on Derris Kharlan
-is a possibility, shouldn't this be what
-you wanted, Your Excellency?</EnglishText>
+      <EnglishText>But, Your Excellency... What
+about the peace of Derris-Kharlan
+we've fought for, for so long?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277216</PointerOffset>
@@ -218,23 +223,23 @@ you wanted, Your Excellency?</EnglishText>
       <JapaneseText>ここで降伏すれば、
 我々にはその平和を享受する
 権利すら与えられない！</JapaneseText>
-      <EnglishText>If it's a peace where we must surrender
-ourselves like dogs, then that's something
-I will never agree to!</EnglishText>
+      <EnglishText>If we were to surrender now,
+we would never again have
+the right to live in peace!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277284</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_040_015&gt;</VoiceId>
       <JapaneseText>ですが……！</JapaneseText>
-      <EnglishText>But still...!</EnglishText>
+      <EnglishText>But...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277548</PointerOffset>
@@ -242,14 +247,14 @@ I will never agree to!</EnglishText>
       <JapaneseText>口答えできる立場か！
 私は身寄りのない
 おまえたちを育ててやった！</JapaneseText>
-      <EnglishText>Understand your position before you talk back to
-your general. You are no kin of mine and yet I raised
-you and gave you everything you have today.</EnglishText>
+      <EnglishText>Don't you dare try to argue! I
+took you in and raised you,
+though we share no blood!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277548</PointerOffset>
@@ -257,13 +262,14 @@ you and gave you everything you have today.</EnglishText>
       <JapaneseText>今こそ、
 その恩に報いる時では
 ないのか！？</JapaneseText>
-      <EnglishText>Is this how you plan to repay me
-for everything I've done for you?!</EnglishText>
+      <EnglishText>Now is the time
+to repay me
+for that debt!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277548</PointerOffset>
@@ -271,35 +277,36 @@ for everything I've done for you?!</EnglishText>
       <JapaneseText>今すぐ行け。
 &lt;Red&gt;ロキ魔科学研究窟&lt;White&gt;へ。
 メルティアがそこにいる</JapaneseText>
-      <EnglishText>Let's go to &lt;Red&gt;Loki Research Center Cavern&lt;White&gt;.
-Meltia is already waiting there.</EnglishText>
+      <EnglishText>Go. *Now.* To &lt;Red&gt;Loki
+Research Center Cavern&lt;White&gt;.
+Meltia is there.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277620</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_040_019&gt;</VoiceId>
       <JapaneseText>ぐわあっ！！</JapaneseText>
-      <EnglishText>Huaagh!</EnglishText>
+      <EnglishText>Guaaahhh!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>19</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277708</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_040_020&gt;</VoiceId>
       <JapaneseText>閣下、大丈夫ですか！？
 閣下……！</JapaneseText>
-      <EnglishText>Your Excellency, are you ok!?
-Your Excellency!</EnglishText>
+      <EnglishText>Your Excellency! Are you
+okay!? Your Excellency...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277872</PointerOffset>
@@ -310,31 +317,33 @@ Your Excellency!</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>21</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277872</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_040_022&gt;</VoiceId>
       <JapaneseText>……父上！？
 返事をしてください！</JapaneseText>
-      <EnglishText>...Father!? Please answer me!</EnglishText>
+      <EnglishText>...Father!? Please
+answer me, Father!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277872</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_040_023&gt;</VoiceId>
       <JapaneseText>どこにいるんですか！？
 父上！！</JapaneseText>
-      <EnglishText>Where are you!? FATHER!</EnglishText>
+      <EnglishText>Where are
+you!? Father!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>21</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
