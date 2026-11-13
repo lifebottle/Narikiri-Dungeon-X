@@ -8,7 +8,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276992,277088,277600,277756,277868,278064,278172,278304</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>Basil</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277160,277980,278452,278620,278736</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Klarth&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277224</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277688</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278392,278548,279160</PointerOffset>
@@ -48,7 +48,7 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270965</PointerOffset>
@@ -97,85 +97,91 @@
       <PointerOffset>276912</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_001&gt;</VoiceId>
       <JapaneseText>いた……！</JapaneseText>
-      <EnglishText>There he is!</EnglishText>
+      <EnglishText>He's here...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276996</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_002Z&gt;</VoiceId>
       <JapaneseText>おや、君たち。
 元気だったかい</JapaneseText>
-      <EnglishText>Hey, it's you people! You look great!</EnglishText>
+      <EnglishText>Oh my, it's you all.
+How have you been?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277092</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_003Z&gt;</VoiceId>
       <JapaneseText>なんだ、&lt;Klarth&gt;も。
 僕に会いたくなったのか？</JapaneseText>
-      <EnglishText>Even &lt;Klarth&gt;'s here! Does everyone want to meet me?</EnglishText>
+      <EnglishText>Oh, and &lt;Klarth&gt;, too?
+Were you starting to
+miss me?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277164</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_004&gt;</VoiceId>
       <JapaneseText>帰っていいか……？</JapaneseText>
-      <EnglishText>...Is it really him?</EnglishText>
+      <EnglishText>...Let me get my coat.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277228</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_005&gt;</VoiceId>
       <JapaneseText>クルール！</JapaneseText>
-      <EnglishText>Kuruuuru! </EnglishText>
+      <EnglishText>Couleuru!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277604</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_010Z&gt;</VoiceId>
       <JapaneseText>で、精霊探しは
 うまくいっているのかい？</JapaneseText>
-      <EnglishText>Is the Spirit hunt going smoothly?</EnglishText>
+      <EnglishText>So, how's your hunt
+for the spirits going?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277692</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_011&gt;</VoiceId>
       <JapaneseText>実はそのことで
 お願いがあって……</JapaneseText>
-      <EnglishText>Actually, concerning that, we need to ask you for a favor... </EnglishText>
+      <EnglishText>So actually, about that...
+We came to ask you
+for a favor...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277760</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_012Z&gt;</VoiceId>
       <JapaneseText>なるほど……</JapaneseText>
-      <EnglishText>I see... </EnglishText>
+      <EnglishText>Ah, I see...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277872</PointerOffset>
@@ -183,12 +189,13 @@
       <JapaneseText>そうだな、&lt;Klarth&gt;は
 王国のお歴々の心証も
 よくないだろうし</JapaneseText>
-      <EnglishText>That's right. Alvanista's kingdom doesn't exactly have the
-highest opinion of &lt;Klarth&gt;.</EnglishText>
+      <EnglishText>Ah, I see. &lt;Klarth&gt; doesn't have the
+best of relationships with the Kingdom's
+more distinguished personages, after all...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277984</PointerOffset>
@@ -196,22 +203,25 @@ highest opinion of &lt;Klarth&gt;.</EnglishText>
       <JapaneseText>それでおまえから
 陛下宛てに手紙を
 書いてもらいたいのだが……</JapaneseText>
-      <EnglishText>Could you please write a letter to the King for us?</EnglishText>
+      <EnglishText>And so, I'd like to
+have you write a letter
+to the King for us...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278068</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_015Z&gt;</VoiceId>
       <JapaneseText>君に頼りにされちゃ、
 仕方ないな</JapaneseText>
-      <EnglishText>Geez, if you ask it like that, then I guess I can't say no.</EnglishText>
+      <EnglishText>If it's a favor for you,
+then I guess I'll have to.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278176</PointerOffset>
@@ -219,12 +229,13 @@ highest opinion of &lt;Klarth&gt;.</EnglishText>
       <JapaneseText>その代わり。
 僕の研究を手伝う件、
 よろしくな、&lt;Klarth&gt;</JapaneseText>
-      <EnglishText>In exchange, I want you to help me with my research.
-Welcome to the team, &lt;Klarth&gt;.</EnglishText>
+      <EnglishText>But in return... I could
+still use your help with
+my research, &lt;Klarth&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278308</PointerOffset>
@@ -232,33 +243,35 @@ Welcome to the team, &lt;Klarth&gt;.</EnglishText>
       <JapaneseText>アルヴァニスタから返事が
 あるまで一晩はかかるだろう。
 それまで待っていてくれ</JapaneseText>
-      <EnglishText>Until we get a formal reply from Alvanista,
-stick around here please. </EnglishText>
+      <EnglishText>It should take a night for to get
+the response back from Alvanista.
+You'll have to wait until then.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278396</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_018&gt;</VoiceId>
       <JapaneseText>変なの……
 でも、ちゃっかりしてる</JapaneseText>
-      <EnglishText>Weird guy...but he's as smart as a whip.</EnglishText>
+      <EnglishText>He's weird... But
+very cunning.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>14</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278456</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_019&gt;</VoiceId>
       <JapaneseText>まぁな</JapaneseText>
-      <EnglishText>I guess.</EnglishText>
+      <EnglishText>Well, yeah.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278552</PointerOffset>
@@ -266,21 +279,24 @@ stick around here please. </EnglishText>
       <JapaneseText>技術提供、
 約束させられちゃった
 みたいだしね</JapaneseText>
-      <EnglishText>Looks like you got yourself compromised into some work.</EnglishText>
+      <EnglishText>I mean, the way he
+roped you into
+supporting his work.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>16</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278624</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_021&gt;</VoiceId>
       <JapaneseText>まぁ、構わないが……</JapaneseText>
-      <EnglishText>Not a problem.</EnglishText>
+      <EnglishText>Well, not
+that I mind...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>17</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278740</PointerOffset>
@@ -288,33 +304,36 @@ stick around here please. </EnglishText>
       <JapaneseText>返事があるまで
 時間があるだろうから、
 私は少しぶらぶらするかな</JapaneseText>
-      <EnglishText>It'll be some time until we get a reply,
-so I'll go take a walk.</EnglishText>
+      <EnglishText>It'll take some time to
+get a response, so let's
+look around for a bit.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>18</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279164</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_027&gt;</VoiceId>
       <JapaneseText>じゃ、ま、一旦、
 かいさーんってことで</JapaneseText>
-      <EnglishText>I'll follow suit and go take a rest myself!</EnglishText>
+      <EnglishText>Then. Let's split
+up for a bit.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>19</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279232</PointerOffset>
       <VoiceId>&lt;audio:VSM_080_010_028&gt;</VoiceId>
       <JapaneseText>おう、また後で</JapaneseText>
-      <EnglishText>Ok! See you later, then!</EnglishText>
+      <EnglishText>A'ight. See
+you soon.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

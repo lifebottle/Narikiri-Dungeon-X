@@ -5,10 +5,10 @@
     <Entry>
       <PointerOffset>270932,271104</PointerOffset>
       <JapaneseText>連絡兵A</JapaneseText>
-      <EnglishText>Common Soldier A</EnglishText>
+      <EnglishText>Comms Specialist A</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271000,271296,271584,271748,271880</PointerOffset>
@@ -16,23 +16,23 @@
       <EnglishText>Dios</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271224,271404</PointerOffset>
       <JapaneseText>連絡兵B</JapaneseText>
-      <EnglishText>Common Soldier B</EnglishText>
+      <EnglishText>Comms Specialist B</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271496,271664,271812</PointerOffset>
       <JapaneseText>副官</JapaneseText>
-      <EnglishText>Officer</EnglishText>
+      <EnglishText>Adjutant</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>264961</PointerOffset>
@@ -82,35 +82,34 @@
       <VoiceId>&lt;audio:VSM_280_030_001&gt;</VoiceId>
       <JapaneseText>平原北東軍全滅！
 北ルティカ要塞陥落！</JapaneseText>
-      <EnglishText>The enemy army positioned in the northeast
-plain has been completely annihilated! North
-Rutica stronghold has been destroyed!</EnglishText>
+      <EnglishText>Our Northeastern Plains forces have been
+defeated! North Lutica Fortress has fallen!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271004</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_030_002&gt;</VoiceId>
       <JapaneseText>被害状況は？</JapaneseText>
-      <EnglishText>Status report on casualties.</EnglishText>
+      <EnglishText>And the casualties?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271108</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_030_003&gt;</VoiceId>
       <JapaneseText>味方兵２万３０００が死亡、
 生存者はわずか８００！</JapaneseText>
-      <EnglishText>23000 confirmed ally casualties, sir!
-Only around 800 survivors are left!</EnglishText>
+      <EnglishText>23,000 allied soldiers have died.
+There were only 800 survivors!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271228</PointerOffset>
@@ -118,23 +117,24 @@ Only around 800 survivors are left!</EnglishText>
       <JapaneseText>たった今、水上都市バチス、
 パレスセダム軍に
 占領されたとの連絡が！</JapaneseText>
-      <EnglishText>We have just been informed that
-the underwater Bacchus capital has
-fallen to Palace Sedum's army!</EnglishText>
+      <EnglishText>We've just received word that the
+Floating City of Battis has been
+occupied by Palace Sedamyu forces!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271300</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_030_005&gt;</VoiceId>
       <JapaneseText>駐留軍はどうした？</JapaneseText>
-      <EnglishText>What is the state of the stationed troops?</EnglishText>
+      <EnglishText>What happened
+to the garrison?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271408</PointerOffset>
@@ -142,78 +142,81 @@ fallen to Palace Sedum's army!</EnglishText>
       <JapaneseText>詳細は不明です！
 しかし、敵軍に
 投降したのでは、と……</JapaneseText>
-      <EnglishText>Details are uncertain for now, sir!
-However, the enemy troops are
-willing to surrender...</EnglishText>
+      <EnglishText>The details are unknown!
+However, it's believed that
+they surrendered...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271500</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_030_007&gt;</VoiceId>
       <JapaneseText>このままでは我が軍は
 全滅してしまいます！</JapaneseText>
-      <EnglishText>If the war stays the course,
-we will be totally annihilated!</EnglishText>
+      <EnglishText>At this rate, all our
+forces will be defeated!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271588</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_030_008&gt;</VoiceId>
       <JapaneseText>今、ここで
 退くわけにはいかない</JapaneseText>
-      <EnglishText>We cannot give up after going this far.</EnglishText>
+      <EnglishText>We cannot retreat.
+Not here, not now.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271668</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_030_009&gt;</VoiceId>
       <JapaneseText>将軍に停戦を
 ご進言ください</JapaneseText>
-      <EnglishText>Please, ask the general for a ceasefire.</EnglishText>
+      <EnglishText>Please, propose a ceasefire
+to the general...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271752</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_030_010&gt;</VoiceId>
       <JapaneseText>停戦を……
 いや、しかし……</JapaneseText>
-      <EnglishText>A ceasefire...? No, but...</EnglishText>
+      <EnglishText>A ceasefire...?
+No, but...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271816</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_030_011&gt;</VoiceId>
       <JapaneseText>ご決断を……！</JapaneseText>
-      <EnglishText>Make a decision...</EnglishText>
+      <EnglishText>Please, your decision...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271884</PointerOffset>
       <VoiceId>&lt;audio:VSM_280_030_012&gt;</VoiceId>
       <JapaneseText>……わかった</JapaneseText>
-      <EnglishText>...Understood.</EnglishText>
+      <EnglishText>...Got it.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

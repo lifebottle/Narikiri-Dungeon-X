@@ -8,7 +8,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275716,276264</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275912,276100,276492,276556,276624,276780,276868</PointerOffset>
@@ -24,12 +24,12 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276360</PointerOffset>
       <JapaneseText>黄色い悲鳴の女性</JapaneseText>
-      <EnglishText>Wealthy Woman</EnglishText>
+      <EnglishText>Shrilly Shrieking Woman</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Status>Editing</Status>
@@ -81,22 +81,25 @@
       <PointerOffset>275632</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_030_001&gt;</VoiceId>
       <JapaneseText>……見つからないね</JapaneseText>
-      <EnglishText>We couldn't find anyone...</EnglishText>
+      <EnglishText>...We haven't found
+anyone. Hm.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275720</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_030_002&gt;</VoiceId>
       <JapaneseText>そんないないんだな、
 困ってる人って</JapaneseText>
-      <EnglishText>It's just that no one seems to need our help... </EnglishText>
+      <EnglishText>I guess there aren't
+any people who are
+"struggling" here.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275820</PointerOffset>
@@ -104,33 +107,35 @@
       <JapaneseText>でも、それって、
 みんな幸せって
 ことじゃないの？</JapaneseText>
-      <EnglishText>Don't you think everyone around here
-seems to have it a little bit too easy?</EnglishText>
+      <EnglishText>But, in that case,
+doesn't that mean
+everyone's happy?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275916</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_030_004&gt;</VoiceId>
       <JapaneseText>そう簡単なことじゃあ、
 ないと思うけド……</JapaneseText>
-      <EnglishText>Their lives may not be as easy as they look like, you know. </EnglishText>
+      <EnglishText>I'm not sure it's
+quite that simple...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275984</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_030_005&gt;</VoiceId>
       <JapaneseText>どういうこと？</JapaneseText>
-      <EnglishText>What do you mean? </EnglishText>
+      <EnglishText>What do you mean?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276104</PointerOffset>
@@ -138,23 +143,23 @@ seems to have it a little bit too easy?</EnglishText>
       <JapaneseText>きみたちみたいな子どもに、
 いきなり困ってること
 聞かれて話すと思う？</JapaneseText>
-      <EnglishText>You've only seen this place from the outside as kids. But have
-you thought about the many troubles people hide every day?
-People's problems usually aren't immediately obvious to the eye. </EnglishText>
+      <EnglishText>Do you think everyone will open up
+and talk about their struggles right
+away? And to children, like you two?</EnglishText>
       <Notes>Review. Seems it could be a bit shorter.</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276168</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_030_007&gt;</VoiceId>
       <JapaneseText>……そうだね</JapaneseText>
-      <EnglishText>That's true... </EnglishText>
+      <EnglishText>...Oh, good point.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276268</PointerOffset>
@@ -162,94 +167,98 @@ People's problems usually aren't immediately obvious to the eye. </EnglishText>
       <JapaneseText>んじゃあ、
 オレら、何しに来たか、
 わかんなくね？</JapaneseText>
-      <EnglishText>I don't get it. What were we supposed to learn, again? </EnglishText>
+      <EnglishText>Well, then what'd we
+even come here for?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276364</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_030_009&gt;</VoiceId>
       <JapaneseText>きゃあっ！！　逃げて！
 魔物よ！</JapaneseText>
-      <EnglishText>Ahh! Monsters! Everyone, run! </EnglishText>
+      <EnglishText>Aaaaahhhh! Run away!
+There are monsters!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276428</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_030_010&gt;</VoiceId>
       <JapaneseText>魔物……！</JapaneseText>
-      <EnglishText>Monsters... </EnglishText>
+      <EnglishText>Monsters...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276496</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_030_011&gt;</VoiceId>
       <JapaneseText>逃げないと……！</JapaneseText>
-      <EnglishText>They won't escape in time...! </EnglishText>
+      <EnglishText>We need to run...!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276560</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_030_012&gt;</VoiceId>
       <JapaneseText>あ、&lt;Dio&gt;！</JapaneseText>
-      <EnglishText>Ah! &lt;Dio&gt;! </EnglishText>
+      <EnglishText>Ah, &lt;Dio&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276628</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_030_013&gt;</VoiceId>
       <JapaneseText>&lt;Mel&gt;も……！</JapaneseText>
-      <EnglishText>&lt;Mel&gt;! Not you too! </EnglishText>
+      <EnglishText>&lt;Mel&gt;, too...!?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276716</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_030_014&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;を止めなきゃ。
 エトは逃げて！</JapaneseText>
-      <EnglishText>I'll go and stop &lt;Dio&gt;! Run, Eto! </EnglishText>
+      <EnglishText>I have to stop &lt;Dio&gt;.
+You run first, Ethos!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276784</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_030_015&gt;</VoiceId>
       <JapaneseText>……あ、もう……</JapaneseText>
-      <EnglishText>Ah... </EnglishText>
+      <EnglishText>...Oh, come on...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276872</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_030_016&gt;</VoiceId>
       <JapaneseText>でも、魔物が
 どうして街の中に……？</JapaneseText>
-      <EnglishText>Why are there monsters inside the town? </EnglishText>
+      <EnglishText>But, why did monsters
+come into the town...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>16</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

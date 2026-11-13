@@ -5,10 +5,10 @@
     <Entry>
       <PointerOffset>274024</PointerOffset>
       <JapaneseText>政治家たち</JapaneseText>
-      <EnglishText>Group of Politicians</EnglishText>
+      <EnglishText>Politicians</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274272,274664</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>Politician A</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274468</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>Politician C</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274568</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>Politician B</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274780,274980,275276</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>General Bandi</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274868,275048,275448,275620,275852</PointerOffset>
@@ -48,7 +48,7 @@
       <EnglishText>Meltia</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275372,275532,275680</PointerOffset>
@@ -56,7 +56,7 @@
       <EnglishText>Assistant</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268077</PointerOffset>
@@ -105,11 +105,11 @@
       <PointerOffset>274028</PointerOffset>
       <VoiceId>&lt;audio:VSM_290_040_001&gt;</VoiceId>
       <JapaneseText>おおおおっ</JapaneseText>
-      <EnglishText>Woooah...</EnglishText>
+      <EnglishText>Oooooh...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274276</PointerOffset>
@@ -117,13 +117,13 @@
       <JapaneseText>この力、すばらしい……
 これが本格稼動すれば、
 戦局は我が方へ転がる</JapaneseText>
-      <EnglishText>This power is fantastic... With this
-on the field, we will surely have
-the upper hand in the war!</EnglishText>
+      <EnglishText>Its power is incredible... Once
+this reaches full production, the
+war will surely go in our favor.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274472</PointerOffset>
@@ -131,83 +131,85 @@ the upper hand in the war!</EnglishText>
       <JapaneseText>この力があれば、
 エリュシオンを統べることすら、
 可能かもしれないな</JapaneseText>
-      <EnglishText>With this weapon...taking control
-of Elysium will be rather easy.</EnglishText>
+      <EnglishText>We may even be able to
+lay claim over Elysium,
+with power like this.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274572</PointerOffset>
       <VoiceId>&lt;audio:VSM_290_040_007&gt;</VoiceId>
       <JapaneseText>ダオスの、ですか。
 それはまた大きく出ましたな</JapaneseText>
-      <EnglishText>Dhaos is still on his way,
-though. That's a big factor.</EnglishText>
+      <EnglishText>You mean Dhaos's territory?
+Hm. That's quite ambitious.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274668</PointerOffset>
       <VoiceId>&lt;audio:VSM_290_040_008&gt;</VoiceId>
       <JapaneseText>まぁ、いいではないですか、
 ふぉふぉ……</JapaneseText>
-      <EnglishText>He might as well not be, now.
-Hahahahaha!</EnglishText>
+      <EnglishText>But, well, why
+not? Hahaha...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274784</PointerOffset>
       <VoiceId>&lt;audio:VSM_290_040_009&gt;</VoiceId>
       <JapaneseText>よくやったな、メルティア。
 おまえの頭脳は明日を開く力だ</JapaneseText>
-      <EnglishText>You have done well, Meltia. Thanks to
-your intellect, we will be able to secure
-a better future for everyone.</EnglishText>
+      <EnglishText>Well done, Meltia. Your
+mind has paved the
+way to our future.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274872</PointerOffset>
       <VoiceId>&lt;audio:VSM_290_040_010&gt;</VoiceId>
       <JapaneseText>ありがとうございます、
 お父様</JapaneseText>
-      <EnglishText>Thank you very much, father.</EnglishText>
+      <EnglishText>Thank you very
+much, Father.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274984</PointerOffset>
       <VoiceId>&lt;audio:VSM_290_040_011&gt;</VoiceId>
       <JapaneseText>礼を言うのはこちらの方だ。
 おまえの父親でよかったよ</JapaneseText>
-      <EnglishText>The one who should be thanking
-you is me. I am so very proud
-to be your father.</EnglishText>
+      <EnglishText>I'm the one who should be
+thanking you. I'm
+honored to be your father.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275052</PointerOffset>
       <VoiceId>&lt;audio:VSM_290_040_012&gt;</VoiceId>
       <JapaneseText>そんな……</JapaneseText>
-      <EnglishText>Oh, you're making me blush...</EnglishText>
+      <EnglishText>That's...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275280</PointerOffset>
@@ -215,14 +217,14 @@ to be your father.</EnglishText>
       <JapaneseText>これで我々はエリュシオンを、
 あのダオスにすら対抗できる力を
 手にしたのだからな</JapaneseText>
-      <EnglishText>With this, you have granted us the
-capability to stand against Elysium
-and Dhaos on the battlefield.</EnglishText>
+      <EnglishText>Now we have power
+to rival even
+Elysium... Even Dhaos.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275280</PointerOffset>
@@ -230,96 +232,100 @@ and Dhaos on the battlefield.</EnglishText>
       <JapaneseText>決戦は&lt;Red&gt;ウェーランド&lt;White&gt;だ。
 既にディオス率いる部隊は
 現地に待機している</JapaneseText>
-      <EnglishText>Right now Dios is leading the army
-into a decisive fight in &lt;Red&gt;Wayland&lt;White&gt;.</EnglishText>
+      <EnglishText>The decisive battle will take
+place in &lt;Red&gt;Wayland&lt;White&gt;. Dios's forces
+are already on standby there.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275376</PointerOffset>
       <VoiceId>&lt;audio:VSM_290_040_015&gt;</VoiceId>
       <JapaneseText>博士、マナの消費量について
 気になることが……</JapaneseText>
-      <EnglishText>Doctor, would you please see this?
-The amount of Mana consumed is off
-the charts...this is rather unsettling...</EnglishText>
+      <EnglishText>Professor, we've noticed
+something about the device's
+rate of mana consumption...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275452</PointerOffset>
       <VoiceId>&lt;audio:VSM_290_040_016&gt;</VoiceId>
       <JapaneseText>何か失敗でも……？</JapaneseText>
-      <EnglishText>Is it really something we
-should worry about...?</EnglishText>
+      <EnglishText>Have we made
+some mistake...?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275536</PointerOffset>
       <VoiceId>&lt;audio:VSM_290_040_017&gt;</VoiceId>
       <JapaneseText>いえ、そうでは
 ないのですが……</JapaneseText>
-      <EnglishText>N-No, I don't think so...</EnglishText>
+      <EnglishText>Well, no, it's
+not that...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>14</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275624</PointerOffset>
       <VoiceId>&lt;audio:VSM_290_040_018&gt;</VoiceId>
       <JapaneseText>じゃあ構わないわ。
 実験は成功よ</JapaneseText>
-      <EnglishText>Then there's no problem. The
-experiment was a success.</EnglishText>
+      <EnglishText>Then I don't care.
+The experiment
+was a success.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>15</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275684</PointerOffset>
       <VoiceId>&lt;audio:VSM_290_040_019&gt;</VoiceId>
       <JapaneseText>はぁ……</JapaneseText>
-      <EnglishText>Yes...</EnglishText>
+      <EnglishText>...Understood...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>16</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275856</PointerOffset>
       <VoiceId>&lt;audio:VSM_290_040_020&gt;</VoiceId>
       <JapaneseText>構わない……
 お父様が喜んでくださるなら……</JapaneseText>
-      <EnglishText>There's no problem....because
-father finally acknowledged me...</EnglishText>
+      <EnglishText>I don't care... As long as
+Father is happy, it's fine...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>17</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275856</PointerOffset>
       <VoiceId>&lt;audio:VSM_290_040_021&gt;</VoiceId>
       <JapaneseText>お父様が私を愛して下されば、
 私を、必要として下されば</JapaneseText>
-      <EnglishText>I need father's love to keep going and I
-would do anything he says, just for him...</EnglishText>
+      <EnglishText>As long as Father
+loves me... As long
+as Father needs me...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>17</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

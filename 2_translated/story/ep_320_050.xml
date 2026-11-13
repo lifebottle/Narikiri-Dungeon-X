@@ -8,7 +8,7 @@
       <EnglishText>Dios</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280132,280492,281164,281432,281556,281728,281876,282072</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280332,280976</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>Meltia</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280744,281272,281492,281636,281812,281952,282144</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273917</PointerOffset>
@@ -82,39 +82,41 @@
       <VoiceId>&lt;audio:VSM_320_050_001&gt;</VoiceId>
       <JapaneseText>オレたちは……大樹カーラーンを
 枯らしてしまった</JapaneseText>
-      <EnglishText>We are responsible...for the destruction
-of the Great Kharlan Tree...</EnglishText>
+      <EnglishText>We...killed the
+Great Tree Kharlan.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280032</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_050_002&gt;</VoiceId>
       <JapaneseText>おまえはオレだ。
 つまり、おまえたちも同罪だ！</JapaneseText>
-      <EnglishText>You are me, so that makes
-you just as guilty!</EnglishText>
+      <EnglishText>And you are me.
+Therefore, you're
+guilty of the same sin!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280032</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_050_003&gt;</VoiceId>
       <JapaneseText>自分たちだけが
 いい子になれるなんて思うなよ！</JapaneseText>
-      <EnglishText>You're just what we would be
-if we stayed innocent kids!</EnglishText>
-      <Notes/>
+      <EnglishText>You really think you alone can
+be "good kids"? Don't you dare!</EnglishText>
+      <Notes>dios sounds like an especially peabrained toddler
+even in the jp here, not sure what to do with that</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280136</PointerOffset>
@@ -122,72 +124,77 @@ if we stayed innocent kids!</EnglishText>
       <JapaneseText>わかってる……
 だから、おまえらに
 会いに来たんだろ</JapaneseText>
-      <EnglishText>Yeah, I get it...That's
-why we've come here.</EnglishText>
+      <EnglishText>Yeah, I get it...
+That's why we came
+to see you guys.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280236</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_050_005&gt;</VoiceId>
       <JapaneseText>おまえたちの手で、
 オレたちを断罪するつもりか</JapaneseText>
-      <EnglishText>So you plan to judge our sins.</EnglishText>
+      <EnglishText>You're planning
+to carry out our
+sentence yourselves?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280336</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_050_006&gt;</VoiceId>
       <JapaneseText>できるはずがない。
 わたしたちはあなたたち</JapaneseText>
-      <EnglishText>But you can't do that.
-After all, you are us.</EnglishText>
+      <EnglishText>There's no way you
+could. We're you.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280496</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_050_007&gt;</VoiceId>
       <JapaneseText>そうだよ、おまえらは
 オレらだ</JapaneseText>
-      <EnglishText>That's right. We are the same people.</EnglishText>
+      <EnglishText>Yeah. You're us.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280496</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_050_008&gt;</VoiceId>
       <JapaneseText>だから、自分たちで決める。
 何が悪くて、何がそうじゃないのか</JapaneseText>
-      <EnglishText>That's why we needed to determine
-if what we did was evil or not.</EnglishText>
+      <EnglishText>That's why we'll decide
+for ourselves. What's
+wrong, and what's not.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280748</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_050_009&gt;</VoiceId>
       <JapaneseText>ちゃんと自分の心に
 素直に向き合う</JapaneseText>
-      <EnglishText>We'll face our hearts with honesty.</EnglishText>
+      <EnglishText>We'll face ourselves,
+the way we should.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280748</PointerOffset>
@@ -195,13 +202,14 @@ if what we did was evil or not.</EnglishText>
       <JapaneseText>不安も恐怖も、
 憎しみも悲しみも……
 すべての感情に意味がある</JapaneseText>
-      <EnglishText>Anxiety, sadness, fear, hatred...
-All of these feelings have purpose!</EnglishText>
+      <EnglishText>Anxiety, fear, hatred,
+sadness... There's meaning
+in all those feelings.</EnglishText>
       <Notes>tl check</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280748</PointerOffset>
@@ -209,13 +217,14 @@ All of these feelings have purpose!</EnglishText>
       <JapaneseText>だからたとえ、不安でも
 怖くても、わたしの
 本当のところと向き合うよ</JapaneseText>
-      <EnglishText>But that's why we need to see beyond
-those feelings and embrace the truth!</EnglishText>
+      <EnglishText>So even if we're anxious
+or afraid, we'll still
+face our own truths.</EnglishText>
       <Notes>tl check</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
       <BubbleId>2</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280856</PointerOffset>
@@ -223,13 +232,13 @@ those feelings and embrace the truth!</EnglishText>
       <JapaneseText>大した不安も恐怖も
 味わったことないヤツが、
 粋がるなよ</JapaneseText>
-      <EnglishText>You who haven't been consumed by those emotions,
-who haven't suffered like we have... How could
-you ever understand these feelings!?</EnglishText>
+      <EnglishText>You've never tasted real
+anxiety, real *fear*. Stop
+trying to act all tough.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280980</PointerOffset>
@@ -237,13 +246,13 @@ you ever understand these feelings!?</EnglishText>
       <JapaneseText>わたしたちが味わった
 過酷な状況など、まるで
 知りもしない温室育ちが</JapaneseText>
-      <EnglishText>You who lived comfortable lives could never
-understand the taste of the oppressive
-situation we were forced to live through!</EnglishText>
+      <EnglishText>You could never understand the
+horrors we've seen. You've lived your
+whole lives in your little walled garden.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281168</PointerOffset>
@@ -254,19 +263,19 @@ situation we were forced to live through!</EnglishText>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281168</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_050_015&gt;</VoiceId>
       <JapaneseText>だから、オレらは
 こうして来たんだ</JapaneseText>
-      <EnglishText>That's why we have to do things like this.</EnglishText>
+      <EnglishText>That's why we're here.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281168</PointerOffset>
@@ -274,24 +283,26 @@ situation we were forced to live through!</EnglishText>
       <JapaneseText>おまえらの……
 いや自分の憎しみの心を
 知るために</JapaneseText>
-      <EnglishText>To be conscious of your...no,
-our hearts full of anger.</EnglishText>
+      <EnglishText>So we can understand
+the hatred in your... No,
+in *our own* hearts.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281276</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_050_017&gt;</VoiceId>
       <JapaneseText>あなたたちと対面することで、
 自分自身と向き合うために</JapaneseText>
-      <EnglishText>We need to face you personally for that reason!</EnglishText>
+      <EnglishText>To face you—to face
+*ourselves*, face-to-face.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>17</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281376</PointerOffset>
@@ -299,12 +310,13 @@ our hearts full of anger.</EnglishText>
       <JapaneseText>だったら、来い。
 オレたちはもう
 すぐそこにいる</JapaneseText>
-      <EnglishText>Then come. We are just
-a short ways from here.</EnglishText>
+      <EnglishText>Then, come.
+We're only a
+few steps away.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281436</PointerOffset>
@@ -314,17 +326,17 @@ a short ways from here.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>19</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281496</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_050_020&gt;</VoiceId>
       <JapaneseText>うん……</JapaneseText>
-      <EnglishText>Yes...</EnglishText>
+      <EnglishText>Yeah...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>20</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281560</PointerOffset>
@@ -334,84 +346,89 @@ a short ways from here.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>21</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281640</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_050_022&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;こそ、
 声震えてるよ</JapaneseText>
-      <EnglishText>Me? You're the one whose voice is shaking.</EnglishText>
+      <EnglishText>Your voice is the one
+that's shaking, &lt;Dio&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>22</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281732</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_050_023&gt;</VoiceId>
       <JapaneseText>しょーがねーだろ。
 ……コワいんだから</JapaneseText>
-      <EnglishText>I can't help it...I really am scared.</EnglishText>
+      <EnglishText>I can't help it, can
+I? ...'Cause I'm scared.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>23</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281816</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_050_024&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;なのに、
 正直すぎて変なの</JapaneseText>
-      <EnglishText>It's weird to see you being
-honest about how you feel.</EnglishText>
+      <EnglishText>It's weird for you to
+be so honest, &lt;Dio&gt;</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>24</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281880</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_050_025&gt;</VoiceId>
       <JapaneseText>うっせぇ……</JapaneseText>
-      <EnglishText>Oh, shut up...</EnglishText>
+      <EnglishText>Shaddup...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>25</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281956</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_050_026&gt;</VoiceId>
       <JapaneseText>……エト、怒んないかな</JapaneseText>
-      <EnglishText>...Will Eto be mad at us?</EnglishText>
+      <EnglishText>...Won't Ethos
+be mad?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>26</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282076</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_050_027&gt;</VoiceId>
       <JapaneseText>怒るかもな</JapaneseText>
-      <EnglishText>Yeah that's a given.</EnglishText>
+      <EnglishText>She'll probably be
+pretty angry, yeah.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>27</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282076</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_050_028&gt;</VoiceId>
       <JapaneseText>でも、オレらは……
 決めたんだから……</JapaneseText>
-      <EnglishText>Still...we've already made our decision...</EnglishText>
+      <EnglishText>But... We've decided
+this for ourselves, so...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>27</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282148</PointerOffset>
@@ -421,7 +438,7 @@ honest about how you feel.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>29</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

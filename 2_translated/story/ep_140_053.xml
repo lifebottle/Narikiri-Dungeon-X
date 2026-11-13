@@ -8,23 +8,23 @@
       <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278784,279372</PointerOffset>
       <JapaneseText>伝令の騎士</JapaneseText>
-      <EnglishText>Messenger Knight</EnglishText>
+      <EnglishText>Knight Orderly</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278936,279484</PointerOffset>
       <JapaneseText>司令官</JapaneseText>
-      <EnglishText>Commander</EnglishText>
+      <EnglishText>Commandant</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279084,279696,279916,280132,280340</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280600,280860,281036</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280684,281188</PointerOffset>
@@ -48,7 +48,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280956,281116,281280,281412</PointerOffset>
@@ -56,7 +56,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281344</PointerOffset>
@@ -64,7 +64,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271161</PointerOffset>
@@ -114,22 +114,23 @@
       <VoiceId>&lt;audio:VSM_140_050_019&gt;</VoiceId>
       <JapaneseText>くっ……！
 一体、ヤツはどこへ……</JapaneseText>
-      <EnglishText>Guh... Where did that freak go...?</EnglishText>
+      <EnglishText>Dammit...! Where the
+hell did he go...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278788</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_020&gt;</VoiceId>
       <JapaneseText>ご報告します！</JapaneseText>
-      <EnglishText>Reporting, sir!</EnglishText>
+      <EnglishText>Reporting!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278788</PointerOffset>
@@ -137,13 +138,14 @@
       <JapaneseText>&lt;Red&gt;ユークリッド&lt;White&gt;及び&lt;Red&gt;トーティス&lt;White&gt;、
 その他、多くの街が
 魔物に襲撃されています！</JapaneseText>
-      <EnglishText>Hords of monsters have been reported
-attacking &lt;Red&gt;Euclid&lt;White&gt; and &lt;Red&gt;Totus&lt;White&gt;!</EnglishText>
+      <EnglishText>&lt;Red&gt;Euclid&lt;White&gt;, &lt;Red&gt;Totus&lt;White&gt;, and countless
+other towns are now under
+attack by monsters!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278788</PointerOffset>
@@ -151,24 +153,25 @@ attacking &lt;Red&gt;Euclid&lt;White&gt; and &lt;Red&gt;Totus&lt;White&gt;!</Eng
       <JapaneseText>どうやら、その魔物たちは
 &lt;Red&gt;スルト深林&lt;White&gt;から来ていると
 思われます！</JapaneseText>
-      <EnglishText>We believe these monsters are coming
-from the &lt;Red&gt;Deep Forest Surt&lt;White&gt;!</EnglishText>
+      <EnglishText>The details are unknown, but it is
+suspected that those monsters have
+come from the &lt;Red&gt;Surt Deepwoods&lt;White&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278940</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_023&gt;</VoiceId>
       <JapaneseText>&lt;Red&gt;スルト深林&lt;White&gt;だと？</JapaneseText>
-      <EnglishText>The &lt;Red&gt;Deep Forest Surt&lt;White&gt;?</EnglishText>
+      <EnglishText>The &lt;Red&gt;Surt Deepwoods&lt;White&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278940</PointerOffset>
@@ -176,24 +179,27 @@ from the &lt;Red&gt;Deep Forest Surt&lt;White&gt;!</EnglishText>
       <JapaneseText>確かあの森には、
 無害な獣しか住んで
 いなかったはずでは……</JapaneseText>
-      <EnglishText>Only harmless creatures live there...</EnglishText>
+      <EnglishText>But that forest should
+only be inhabited by
+weak, harmless monsters...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279088</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_025&gt;</VoiceId>
       <JapaneseText>まさか、魔界の扉……</JapaneseText>
-      <EnglishText>It can't be... He's after the
-Otherworldly Gate...</EnglishText>
+      <EnglishText>Then that means...
+The Otherworldy
+Gate really...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279088</PointerOffset>
@@ -201,27 +207,27 @@ Otherworldly Gate...</EnglishText>
       <JapaneseText>あの森の深くに
 魔界と人間界をつなぐ
 扉があると言います！</JapaneseText>
-      <EnglishText>The door that connects the
-human and demon realm
-lies within that forest!</EnglishText>
+      <EnglishText>It's said that the gate which
+connects the human world to
+Daemonium lies deep in that forest!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279248</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_027&gt;</VoiceId>
       <JapaneseText>封印が解かれた……
 魔界の民を操る……</JapaneseText>
-      <EnglishText>He wants to break the seal on the door...
-"To control a legion of monsters"...</EnglishText>
+      <EnglishText>The seal has been lifted...
+Controlling daemons...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279248</PointerOffset>
@@ -229,12 +235,14 @@ lies within that forest!</EnglishText>
       <JapaneseText>……ブレイナーが
 言っていたのは
 このことなのか！？</JapaneseText>
-      <EnglishText>...Is this what Brainer is after!?</EnglishText>
+      <EnglishText>...So this is what
+Brynhildr was
+talking about!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279376</PointerOffset>
@@ -242,12 +250,13 @@ lies within that forest!</EnglishText>
       <JapaneseText>このままでは、
 &lt;Red&gt;トーティス&lt;White&gt;や&lt;Red&gt;ユークリッド&lt;White&gt;で
 多くの犠牲者が出ます！</JapaneseText>
-      <EnglishText>If this keeps up, there will be innumerable
-casualties for both Euclid and Totus!</EnglishText>
+      <EnglishText>At this rate, there will
+be countless victims in
+both &lt;Red&gt;Totus&lt;White&gt; and &lt;Red&gt;Euclid&lt;White&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279488</PointerOffset>
@@ -255,13 +264,13 @@ casualties for both Euclid and Totus!</EnglishText>
       <JapaneseText>全軍を各方面に回せ！
 魔物の排除と、
 住民の保護を最優先だ！</JapaneseText>
-      <EnglishText>Assemble all units! We will attack
-the monsters and defend the
-citizens at any cost!</EnglishText>
+      <EnglishText>All troops, patrol *every* region!
+Our top priorities are to exterminate
+the monsters and protect the citizens!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279700</PointerOffset>
@@ -269,24 +278,24 @@ citizens at any cost!</EnglishText>
       <JapaneseText>&lt;Cless&gt;さん……わたしたちは
 &lt;Red&gt;スルト深林&lt;White&gt;へ行った方が
 いいのではないでしょうか？</JapaneseText>
-      <EnglishText>&lt;Cless&gt;...Don't you think we should
-head to the &lt;Red&gt;Deep Forest Surt&lt;White&gt;? </EnglishText>
+      <EnglishText>&lt;Cless&gt;... Shouldn't we go
+to the &lt;Red&gt;Surt Deepwoods&lt;White&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279792</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_033&gt;</VoiceId>
       <JapaneseText>そうか……ブレイナーを
 捕まえないと……</JapaneseText>
-      <EnglishText>Right...If we can't capture Brainer,
-then this will be really bad...</EnglishText>
+      <EnglishText>You might be right... We
+have to catch Brynhildr...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279920</PointerOffset>
@@ -294,12 +303,13 @@ then this will be really bad...</EnglishText>
       <JapaneseText>ええ、それに扉を閉じなければ、
 多くの魔物たちがこちらの
 世界へ流れ出てきます</JapaneseText>
-      <EnglishText>Yes...if we don't close the door, the
-world will be swarmed with monsters.</EnglishText>
+      <EnglishText>Right, and if we don't close the
+door, monsters will continue
+to pour into our world...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280036</PointerOffset>
@@ -307,36 +317,37 @@ world will be swarmed with monsters.</EnglishText>
       <JapaneseText>じゃあ、村は彼らに任せて、
 僕たちは魔物を
 抑えに行った方がいいね</JapaneseText>
-      <EnglishText>Let's leave the protecting the cities to them.
-We'll handle the source of the monsters.</EnglishText>
+      <EnglishText>Then we should leave the villages
+to them and go ourselves to stop
+the monsters at the source.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>16</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280136</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_036&gt;</VoiceId>
       <JapaneseText>はい。それでは
 &lt;Red&gt;12星座の塔&lt;White&gt;へ行きましょう！</JapaneseText>
-      <EnglishText>Right! Then we should get going
-to the &lt;Red&gt;Tower of the Zodiac&lt;White&gt;!</EnglishText>
+      <EnglishText>Yes. Then, we should go to
+the &lt;Red&gt;Tower of the Zodiac&lt;White&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>17</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280224</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_037&gt;</VoiceId>
       <JapaneseText>12星座の……
 ルナのところに……？</JapaneseText>
-      <EnglishText>&lt;Red&gt;Tower of the Zodiac&lt;White&gt;...
-Isn't that where Luna is?</EnglishText>
+      <EnglishText>The Tower of the...
+To where Luna is...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280344</PointerOffset>
@@ -344,24 +355,24 @@ Isn't that where Luna is?</EnglishText>
       <JapaneseText>魔界の扉はルナの光で
 封印されていたはずです。
 彼女の力を借りなければ</JapaneseText>
-      <EnglishText>Luna's light can help us seal the
-Otherworldly Gate. We need to ask
-her to lend us her powers again.</EnglishText>
+      <EnglishText>The Otherworldy Gate should
+be sealed by the light of
+Luna. We'll need her powers.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>19</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280516</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_039&gt;</VoiceId>
       <JapaneseText>わかった</JapaneseText>
-      <EnglishText>I see.</EnglishText>
+      <EnglishText>Got it.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280516</PointerOffset>
@@ -369,59 +380,62 @@ her to lend us her powers again.</EnglishText>
       <JapaneseText>僕たちは、これから
 &lt;Red&gt;12星座の塔&lt;White&gt;へ行く。
 君たちとはここでお別れだ</JapaneseText>
-      <EnglishText>We'll be leaving for the &lt;Red&gt;Tower of the
-Zodiac&lt;White&gt;. I bid you farewell, everyone.</EnglishText>
+      <EnglishText>From here, we're going to the
+&lt;Red&gt;Tower of the Zodiac&lt;White&gt;. We'll have
+to part ways with you here.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280516</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_041&gt;</VoiceId>
       <JapaneseText>急ごう</JapaneseText>
-      <EnglishText>Let's hurry.</EnglishText>
+      <EnglishText>Let's hurry!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280604</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_042&gt;</VoiceId>
       <JapaneseText>わたし、行くよ、
 いいでしょ？　エト</JapaneseText>
-      <EnglishText>Can I go with them, Eto?</EnglishText>
+      <EnglishText>Can we go,
+too? Ethos.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>23</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280688</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_043&gt;</VoiceId>
       <JapaneseText>きみたちは
 虹輪を消さなきゃ！</JapaneseText>
-      <EnglishText>But, you need to stop the Prism Ring!</EnglishText>
+      <EnglishText>You two need to
+stop the Prism Ring!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>24</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280864</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_044&gt;</VoiceId>
       <JapaneseText>でも、今、この世界は
 大変なことになってるんだよ？</JapaneseText>
-      <EnglishText>I know, but we can't just leave
-this world in trouble, can we?</EnglishText>
+      <EnglishText>But the world's in really big
+trouble right now, isn't it?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>25</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280864</PointerOffset>
@@ -429,90 +443,93 @@ this world in trouble, can we?</EnglishText>
       <JapaneseText>それを目の前で
 放っておくなんて、わたし……
 できないよ</JapaneseText>
-      <EnglishText>I can't have people suffering in front of
-me like this... I WON'T abandon them!</EnglishText>
+      <EnglishText>Now that I've seen
+how bad things are
+here, I can't just...leave.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280960</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_046&gt;</VoiceId>
       <JapaneseText>行こうぜ……！
 &lt;Cless&gt;さんたちの後を追おう</JapaneseText>
-      <EnglishText>Let's go...! Let's follow Mister
-&lt;Cless&gt; and Miss &lt;Mint&gt;.</EnglishText>
+      <EnglishText>Let's go...! We gotta catch
+up to &lt;Cless&gt; and &lt;Mint&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>27</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281040</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_047&gt;</VoiceId>
       <JapaneseText>……&lt;Dio&gt;、
 もう平気なの？</JapaneseText>
-      <EnglishText>&lt;Dio&gt;, are you sure
-you're alright?</EnglishText>
+      <EnglishText>...You're feeling
+okay now, &lt;Dio&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>28</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281120</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_048&gt;</VoiceId>
       <JapaneseText>ああ……
 確かめなきゃ……</JapaneseText>
-      <EnglishText>Yes...I just need to make sure...</EnglishText>
+      <EnglishText>Yeah... I gotta
+make sure...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>29</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281192</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_049&gt;</VoiceId>
       <JapaneseText>どうしたの、&lt;Dio&gt;</JapaneseText>
-      <EnglishText>What do you need to make sure of?</EnglishText>
+      <EnglishText>What happened, &lt;Dio&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>30</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281284</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_050&gt;</VoiceId>
       <JapaneseText>なんでもない……
 &lt;Red&gt;12星座の塔&lt;White&gt;に行こう</JapaneseText>
-      <EnglishText>Nothin' of course! Let's go to the
-&lt;Red&gt;Tower of the Zodiac&lt;White&gt; already!</EnglishText>
+      <EnglishText>Nothin'... Let's go, to
+the &lt;Red&gt;Tower of the Zodiac&lt;White&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>31</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281348</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_051&gt;</VoiceId>
       <JapaneseText>クルルー！</JapaneseText>
-      <EnglishText>Kuruuru!</EnglishText>
+      <EnglishText>Couleureuu!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>32</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281416</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_052&gt;</VoiceId>
       <JapaneseText>……確かめなきゃ</JapaneseText>
-      <EnglishText>...I need to make sure...</EnglishText>
+      <EnglishText>...I gotta
+make sure...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>33</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

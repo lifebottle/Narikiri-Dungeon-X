@@ -5,10 +5,10 @@
     <Entry>
       <PointerOffset>269644,269784,270008,270236,270392,270588,270796</PointerOffset>
       <JapaneseText>報告者の声</JapaneseText>
-      <EnglishText>Messenger's Voice</EnglishText>
+      <EnglishText>Informant's Voice</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>269716,269892,270124,270324,270496,270728,270952</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>Dhaos</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>263533</PointerOffset>
@@ -66,13 +66,13 @@
       <VoiceId>&lt;audio:VSM_310_030_001&gt;</VoiceId>
       <JapaneseText>パレスセダム軍が、
 パレスグドラ領を侵犯</JapaneseText>
-      <EnglishText>Palace Sedamyu's army has invaded
-Palace Gudora's territory.</EnglishText>
+      <EnglishText>Palace Sedamyu's army
+has invaded Palace Gudora.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>269648</PointerOffset>
@@ -80,9 +80,9 @@ Palace Gudora's territory.</EnglishText>
       <JapaneseText>国民の８割が
 戦禍に巻き込まれ死亡。
 都市機能は完全に停止</JapaneseText>
-      <EnglishText>Damage to the country has risen by 8% with casualties
-constantly on the rise. Small towns have shuttered
-operations and have entered a state of emergency. </EnglishText>
+      <EnglishText>80% of Palace Gudora's citizens
+have died in the ensuing hostilities.
+Civilian life has ground to a halt.</EnglishText>
       <Notes>TL check 
 
 used to be 
@@ -93,51 +93,54 @@ completely and entered a state of emergency.</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>269648</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_030_003&gt;</VoiceId>
       <JapaneseText>パレスグドラが降伏するのは
 時間の問題です</JapaneseText>
-      <EnglishText>Palace Gudora's surrender is imminent.</EnglishText>
+      <EnglishText>It's only a matter of time
+before Palace Gudora surrenders.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>269720</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_030_004&gt;</VoiceId>
       <JapaneseText>……本当にそうか？</JapaneseText>
-      <EnglishText>...Is that so?</EnglishText>
+      <EnglishText>...Is it really
+so simple?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>269788</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_030_005&gt;</VoiceId>
       <JapaneseText>はっ……？</JapaneseText>
-      <EnglishText>Hah....?</EnglishText>
+      <EnglishText>Huh...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>269896</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_030_006&gt;</VoiceId>
       <JapaneseText>このまま、パレスグドラが
 おとなしく降伏すると思うか？</JapaneseText>
-      <EnglishText>Do you really believe Palace Gudora
-will surrender obediently at this point?</EnglishText>
+      <EnglishText>Do you really believe
+Palace Gudora will
+surrender so obediently?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270012</PointerOffset>
@@ -145,13 +148,13 @@ will surrender obediently at this point?</EnglishText>
       <JapaneseText>はっ……もはや、
 パレスグドラには何の力も
 残されておりません</JapaneseText>
-      <EnglishText>B-But even if they don't want to...
-they currently lack the military
-capabilities to make any demands.</EnglishText>
+      <EnglishText>Yes, well... At this point,
+Palace Gudora has no
+power left to speak of.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270128</PointerOffset>
@@ -159,36 +162,38 @@ capabilities to make any demands.</EnglishText>
       <JapaneseText>何故、パレスグドラが、
 何かしらの力を
 温存していると考えない？</JapaneseText>
-      <EnglishText>And what if, by chance, they have some sort
-of weapon they haven't decided to use yet?</EnglishText>
+      <EnglishText>Is it so unthinkable to you
+that Palace Gudora may have
+some power left in reserve?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270240</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_030_009&gt;</VoiceId>
       <JapaneseText>そのような力があるなら、
 こうなる前に使っていたでしょう</JapaneseText>
-      <EnglishText>I believe if they had such firepower,
-they'd have used it already.</EnglishText>
+      <EnglishText>If they had such power,
+they would have used
+it by now, wouldn't they?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270328</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_030_010&gt;</VoiceId>
       <JapaneseText>そうはできない理由が
 あるとすれば？</JapaneseText>
-      <EnglishText>But they could have had a
-reason not to use it, right?</EnglishText>
+      <EnglishText>And if there was some
+reason they could not?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270396</PointerOffset>
@@ -198,7 +203,7 @@ reason not to use it, right?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270500</PointerOffset>
@@ -206,35 +211,37 @@ reason not to use it, right?</EnglishText>
       <JapaneseText>使うことで、
 自らも被害をこうむる、
 そんな力ならば？</JapaneseText>
-      <EnglishText>What if when used, that weapon will
-cause collateral damage to them too?</EnglishText>
+      <EnglishText>What if, for instance, to use
+that power would also bring
+great harm to themselves?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270592</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_030_013&gt;</VoiceId>
       <JapaneseText>そんな力を使えば、
 自滅するだけでは</JapaneseText>
-      <EnglishText>If they possessed such a weapon,
-using it would be akin to suicide.</EnglishText>
+      <EnglishText>If they used such a power now,
+wouldn't they destroy themselves?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270732</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_030_014&gt;</VoiceId>
       <JapaneseText>そうだ、自滅だ</JapaneseText>
-      <EnglishText>Yes, they'd destroy themselves.</EnglishText>
+      <EnglishText>Just so. They will
+destroy themselves.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270732</PointerOffset>
@@ -242,13 +249,14 @@ using it would be akin to suicide.</EnglishText>
       <JapaneseText>滅びようとする者が
 なりふり構わなくなると
 講じる手段だ</JapaneseText>
-      <EnglishText>It would mean their situation is so dire
-they care not about mutual annihilation.</EnglishText>
+      <EnglishText>Those who are on the verge of
+destruction will carry out any
+measure, no matter how dire.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270800</PointerOffset>
@@ -258,20 +266,20 @@ they care not about mutual annihilation.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>16</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270956</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_030_017&gt;</VoiceId>
       <JapaneseText>なんとかせねばならぬ、
 最悪の事態になる前に……</JapaneseText>
-      <EnglishText>If that is the case, and we
-reach a worst case scenario...</EnglishText>
+      <EnglishText>I have to do something,
+before it comes to the worst...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270956</PointerOffset>
@@ -279,12 +287,13 @@ reach a worst case scenario...</EnglishText>
       <JapaneseText>しかし……
 今の私に何が、
 できる……？</JapaneseText>
-      <EnglishText>And yet...what could I possibly do...?</EnglishText>
+      <EnglishText>However... In my current state,
+what is there I can do...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

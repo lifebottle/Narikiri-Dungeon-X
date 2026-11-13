@@ -5,10 +5,10 @@
     <Entry>
       <PointerOffset>271168,271564,271860</PointerOffset>
       <JapaneseText>司令官</JapaneseText>
-      <EnglishText>Commander</EnglishText>
+      <EnglishText>Commandant</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271236,271620</PointerOffset>
@@ -16,23 +16,23 @@
       <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271436</PointerOffset>
       <JapaneseText>作戦参謀</JapaneseText>
-      <EnglishText>Tactical Advisor</EnglishText>
+      <EnglishText>Tactician</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271764</PointerOffset>
       <JapaneseText>伝令の騎士</JapaneseText>
-      <EnglishText>Messenger Knight</EnglishText>
+      <EnglishText>Knight Orderly</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>265081</PointerOffset>
@@ -83,26 +83,27 @@
       <JapaneseText>ターゲットは
 &lt;Red&gt;ヴァルハラ村&lt;White&gt;を拠点とする
 革命組織『シグルド』</JapaneseText>
-      <EnglishText>Our target is the rebel group
-situated in &lt;Red&gt;Valhalla Village&lt;White&gt;, Sigurd.</EnglishText>
+      <EnglishText>Our targets are "Sigurd," a
+rebel organization which is
+occupying &lt;Red&gt;Valhalla Village&lt;White&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271172</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_040_002&gt;</VoiceId>
       <JapaneseText>そのリーダーである
 『ブレイナー』の捕獲だ</JapaneseText>
-      <EnglishText>The mission is to capture
-their leader, Brainer.</EnglishText>
+      <EnglishText>Our primary objective is to
+arrest their leader, "Brynhildr."</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271172</PointerOffset>
@@ -113,17 +114,18 @@ their leader, Brainer.</EnglishText>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271240</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_040_004&gt;</VoiceId>
       <JapaneseText>現在の戦況は？</JapaneseText>
-      <EnglishText>What's the current status?</EnglishText>
+      <EnglishText>What's the current
+situation on the ground?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271440</PointerOffset>
@@ -131,14 +133,14 @@ their leader, Brainer.</EnglishText>
       <JapaneseText>敵の魔科学兵器に
 苦戦させられていますが、
 現在、我が軍優勢です</JapaneseText>
-      <EnglishText>The enemies' Magitech weapon has
-made this a difficult battle. However,
-we have the upper hand.</EnglishText>
+      <EnglishText>We've been struggling with the
+enemy's magitech weapons, but
+we're currently winning the battle.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271440</PointerOffset>
@@ -146,59 +148,61 @@ we have the upper hand.</EnglishText>
       <JapaneseText>街入り口をふさいでいる
 バリケードが破られるのも
 時間の問題です</JapaneseText>
-      <EnglishText>The entrance is completely barricaded,
-but It's only a matter of time until
-we break through.</EnglishText>
+      <EnglishText>We should be able to destroy
+the barricade at the town's
+main entrance before long.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271568</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_040_007&gt;</VoiceId>
       <JapaneseText>戦端が開いたら、
 一気にたたみこむぞ</JapaneseText>
-      <EnglishText>As soon as we're given the signal,
-we will begin the assault.</EnglishText>
+      <EnglishText>Once we've punched
+through their front line,
+we'll end it in one swoop.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271568</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_040_008&gt;</VoiceId>
       <JapaneseText>&lt;Cless&gt;様、お願いします</JapaneseText>
-      <EnglishText>Sir &lt;Cless&gt;, we'll rely on your support.</EnglishText>
+      <EnglishText>We'll be pleased to have your
+assistance in that, Master &lt;Cless&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271624</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_040_009&gt;</VoiceId>
       <JapaneseText>ああ</JapaneseText>
-      <EnglishText>Roger!</EnglishText>
+      <EnglishText>Got it.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271768</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_040_010&gt;</VoiceId>
       <JapaneseText>ご報告します！</JapaneseText>
-      <EnglishText>Reporting, sir!</EnglishText>
+      <EnglishText>Reporting!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271768</PointerOffset>
@@ -206,24 +210,26 @@ we will begin the assault.</EnglishText>
       <JapaneseText>我が軍の先鋒が、
 街南口のバリケードを
 突破しました！</JapaneseText>
-      <EnglishText>The barricade's been broken down!</EnglishText>
+      <EnglishText>Our vanguard troops
+have pushed through
+the enemy barricade!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271864</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_040_012&gt;</VoiceId>
       <JapaneseText>よし、全戦力を街へ向かわせろ！
 総力戦だ！</JapaneseText>
-      <EnglishText>All right! Every unit march into
-the city! All troops, move out!</EnglishText>
+      <EnglishText>Alright, all troops, move out!
+Our offensive starts now!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

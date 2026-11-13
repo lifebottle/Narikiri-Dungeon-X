@@ -8,7 +8,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>304596,304840,305392,305836,307376</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>Efreet</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>304664,304904,305760,306136,306588</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305048</PointerOffset>
@@ -32,12 +32,12 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305144,305308,305552,305944,306212,306324,306404,306772,307060</PointerOffset>
       <JapaneseText>傷だらけの女性</JapaneseText>
-      <EnglishText>Injured Woman</EnglishText>
+      <EnglishText>Woman with Many Wounds</EnglishText>
       <Notes/>
       <Id>5</Id>
       <Status>Editing</Status>
@@ -48,7 +48,7 @@
       <EnglishText>&lt;Dio&gt; &amp; &lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>307616</PointerOffset>
@@ -56,7 +56,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296637</PointerOffset>
@@ -106,58 +106,61 @@
       <VoiceId>&lt;audio:VSM_050_030_021&gt;</VoiceId>
       <JapaneseText>え……
 か、勝った……？</JapaneseText>
-      <EnglishText>Eh? Did we...win? </EnglishText>
+      <EnglishText>Eh... We,
+we won...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>304600</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_025&gt;</VoiceId>
       <JapaneseText>フハハ！　貴様らとの戦い、
 楽しかったぞ</JapaneseText>
-      <EnglishText>Hahaha! Fighting you was of
-great enjoyment for me. </EnglishText>
+      <EnglishText>Fwahaha! That
+was a fun battle.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>304600</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_026&gt;</VoiceId>
       <JapaneseText>よかろう。儂の力を貸そう。
 契約のための指輪を示せ</JapaneseText>
-      <EnglishText>I'll comply with your request. I'll let you
-handle my power. Now ready the Pact Ring. </EnglishText>
+      <EnglishText>Very well. I'll lend you
+my power. Present to
+me your pact ring.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>304668</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_027&gt;</VoiceId>
       <JapaneseText>ゆびわって……？</JapaneseText>
-      <EnglishText>Ring? </EnglishText>
+      <EnglishText>"Ring"...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>304844</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_028&gt;</VoiceId>
       <JapaneseText>指輪を持たぬというのか</JapaneseText>
-      <EnglishText>Don't you possess the desired ring? </EnglishText>
+      <EnglishText>Does that mean you
+do not hold the ring?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>304844</PointerOffset>
@@ -165,98 +168,104 @@ handle my power. Now ready the Pact Ring. </EnglishText>
       <JapaneseText>残念だが、契約の指輪を
 持たぬ者とは契約はできぬし、
 この力を貸すことは叶わぬ</JapaneseText>
-      <EnglishText>This is a problem. Without the proper
-Pact Ring we can't form a contract
-to which you can use my powers. </EnglishText>
+      <EnglishText>Unfortunately, as those who do not
+hold a pact ring are unable to form
+a pact, I cannot lend you my power.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>304908</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_030&gt;</VoiceId>
       <JapaneseText>そんな……</JapaneseText>
-      <EnglishText>No way... </EnglishText>
+      <EnglishText>But that's...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>304988</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_031&gt;</VoiceId>
       <JapaneseText>どうしよう……
 ね、エト……</JapaneseText>
-      <EnglishText>What do we do...Eto? </EnglishText>
+      <EnglishText>What do we do
+now...? Hey, Ethos...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305052</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_032&gt;</VoiceId>
       <JapaneseText>クルール！！</JapaneseText>
-      <EnglishText>Kuruuru! </EnglishText>
+      <EnglishText>Couleuru!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305148</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_033&gt;</VoiceId>
       <JapaneseText>イフリート……
 私と……契約、を……</JapaneseText>
-      <EnglishText>Efreet... Form...a pact...with... </EnglishText>
+      <EnglishText>Efreet... Form a
+pact...with me...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305312</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_035&gt;</VoiceId>
       <JapaneseText>契約の指輪は
 ここにあります……</JapaneseText>
-      <EnglishText>The Pact Ring is lying right here. </EnglishText>
+      <EnglishText>I have the pact
+ring...right here...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305396</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_036&gt;</VoiceId>
       <JapaneseText>よかろう、ならば儂と戦え！</JapaneseText>
-      <EnglishText>Very well, in that case let us fight. </EnglishText>
+      <EnglishText>Very well. Then,
+battle me!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305484</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_037&gt;</VoiceId>
       <JapaneseText>無理だよ！
 こんなボロボロなのに！</JapaneseText>
-      <EnglishText>That's absurd! She's too tired for that! </EnglishText>
+      <EnglishText>No way! She's
+so beaten up
+already...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305556</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_038&gt;</VoiceId>
       <JapaneseText>大丈夫……</JapaneseText>
-      <EnglishText>It's fine... </EnglishText>
+      <EnglishText>I'm okay...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>14</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305664</PointerOffset>
@@ -264,79 +273,86 @@ to which you can use my powers. </EnglishText>
       <JapaneseText>お姉さん、
 その指輪、わたしたちに
 貸してもらえませんか？</JapaneseText>
-      <EnglishText>Miss, could you please lend that ring to us? </EnglishText>
+      <EnglishText>Would you be
+willing to lend that
+ring to us, Miss?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305764</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_040&gt;</VoiceId>
       <JapaneseText>そっか……勝ったんだから
 いいよな？　オレらでも</JapaneseText>
-      <EnglishText>That's right...we won, so it's ok
-to form a pact with us, right? </EnglishText>
+      <EnglishText>Oh, yeah... We already
+beat you, so that'd be
+fine, yeah? Pacting with us.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>16</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305840</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_041&gt;</VoiceId>
       <JapaneseText>ああ、問題はなかろう</JapaneseText>
-      <EnglishText>That is correct, I have no objections. </EnglishText>
+      <EnglishText>Yes. I have
+no objections.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305948</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_042&gt;</VoiceId>
       <JapaneseText>……どうしてあなたたちが、
 精霊と契約を……？</JapaneseText>
-      <EnglishText>Why do you guys want to form a pact
-with the Summon Spirit...? </EnglishText>
+      <EnglishText>...Why are you...
+making a pact
+with a spirit...?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>18</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>306052</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_043&gt;</VoiceId>
       <JapaneseText>魔術の暴走をおさめるために
 精霊の力が必要なんです</JapaneseText>
-      <EnglishText>We need the power to stop certain
-magic from hurting people. </EnglishText>
+      <EnglishText>We need the spirits' power
+to quell magic which has
+gone out of control.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>19</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>306140</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_044&gt;</VoiceId>
       <JapaneseText>レスター博士も
 元気づけなきゃだし</JapaneseText>
-      <EnglishText>We were told to find both the renowned
-Lester and the power of the four elements. </EnglishText>
+      <EnglishText>And we gotta do something
+to help Professor Lester
+get his spirits up, too.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>20</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>306216</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_045&gt;</VoiceId>
       <JapaneseText>レスター……？</JapaneseText>
-      <EnglishText>Lester...? </EnglishText>
+      <EnglishText>Lester...?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>21</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>306328</PointerOffset>
@@ -344,148 +360,152 @@ Lester and the power of the four elements. </EnglishText>
       <JapaneseText>そう……彼……
 ……こんな子どもにまで
 迷惑かけて……</JapaneseText>
-      <EnglishText>Right... Him...These kids...
-He went to this extents... </EnglishText>
+      <EnglishText>I see... He's...even
+causing trouble, for
+children like you...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>22</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>306408</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_047&gt;</VoiceId>
       <JapaneseText>……いいわ、使って</JapaneseText>
-      <EnglishText>...Ok, you can use this. </EnglishText>
+      <EnglishText>...Okay. Use it.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>23</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>306504</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_048&gt;</VoiceId>
       <JapaneseText>あ、ありがとうございます！
 ほら、&lt;Dio&gt;……</JapaneseText>
-      <EnglishText>Thank you very much! Here, &lt;Dio&gt;... </EnglishText>
+      <EnglishText>Th-Thank you very
+much! Hey, &lt;Dio&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>24</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>306592</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_049&gt;</VoiceId>
       <JapaneseText>わかってるって。
 サンキュ、おばさん</JapaneseText>
-      <EnglishText>Gotcha! Thanks, ma'am! </EnglishText>
+      <EnglishText>Yeah, I got it.
+Thanks, lady.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>306776</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_050&gt;</VoiceId>
       <JapaneseText>それを指につけたら、
 私の言葉を繰り返して……</JapaneseText>
-      <EnglishText>All right then, wear this ring and repeat
-the words I'm about to speak. </EnglishText>
+      <EnglishText>Once you've placed the
+ring on your finger, just
+repeat what I say...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>26</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>306776</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_051&gt;</VoiceId>
       <JapaneseText>いいかしら……？</JapaneseText>
-      <EnglishText>Got it? </EnglishText>
+      <EnglishText>Can you do that...?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>26</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>306776</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_052&gt;</VoiceId>
       <JapaneseText>我、今、火の精に願い奉る</JapaneseText>
-      <EnglishText>In this moment, I ask for my wishes
-to be heard by the deity of Fire. </EnglishText>
+      <EnglishText>Here and now, I offer my request
+to the Spirit of Fire.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>26</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>306872</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_053&gt;</VoiceId>
       <JapaneseText>われ、今、火の精に
 ねがいたてまつる</JapaneseText>
-      <EnglishText>In this moment, I ask for my wishes
-to be heard by the deity of Fire. </EnglishText>
+      <EnglishText>Here...and now, I offer...my request...
+to the...Spirit of Fire.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>29</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>307064</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_055&gt;</VoiceId>
       <JapaneseText>指輪の盟約のもと、
 我に精霊を従わせたまえ</JapaneseText>
-      <EnglishText>Let us engage in a contract, as decreed
-by the covenant of this ring. </EnglishText>
+      <EnglishText>By covenant of the ring,
+may this spirit obey me.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>30</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>307168</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_056&gt;</VoiceId>
       <JapaneseText>指輪の盟約のもと、
 われに精霊を従わせたまえ</JapaneseText>
-      <EnglishText>Let us engage in a contract, as decreed
-by the covenant of this ring. </EnglishText>
+      <EnglishText>By...covenant of the ring,
+may this spirit obey me.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>31</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>307380</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_058&gt;</VoiceId>
       <JapaneseText>よかろう、指輪の盟約のもと、
 貴様らに従属せんことを誓おう</JapaneseText>
-      <EnglishText>Very well, by the contract held on the ring
-I shall lend you my power. </EnglishText>
+      <EnglishText>Very well. By covenant of the
+ring, I swear my fealty to you.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>32</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>307448</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_059&gt;</VoiceId>
       <JapaneseText>大丈夫ですか！？</JapaneseText>
-      <EnglishText>Are you ok!? </EnglishText>
+      <EnglishText>Are you okay!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>33</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>307520</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_030_060&gt;</VoiceId>
       <JapaneseText>……どうしよう……</JapaneseText>
-      <EnglishText>...What should we do? </EnglishText>
+      <EnglishText>...What do we do...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>34</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>307620</PointerOffset>
@@ -493,11 +513,13 @@ I shall lend you my power. </EnglishText>
       <JapaneseText>とりあえず、
 &lt;Klarth&gt;さんのところへ
 連れて帰ろうよ</JapaneseText>
-      <EnglishText>Let's take her to &lt;Klarth&gt;'s place for now. </EnglishText>
+      <EnglishText>For now, let's
+take her back
+to &lt;Klarth&gt;'s place.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>35</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

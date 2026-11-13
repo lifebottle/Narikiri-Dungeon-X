@@ -8,7 +8,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271480,271724,272136,272328</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271544</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271640,271916,272204,272516</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>265481</PointerOffset>
@@ -85,7 +85,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271484</PointerOffset>
@@ -95,17 +95,17 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271548</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_020_003&gt;</VoiceId>
       <JapaneseText>静かだね……</JapaneseText>
-      <EnglishText>It's so quiet...</EnglishText>
+      <EnglishText>It's quiet...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271644</PointerOffset>
@@ -113,45 +113,50 @@
       <JapaneseText>静かすぎて、
 耳の中がつん
 ってするぐらい……</JapaneseText>
-      <EnglishText>It's so quiet I feel almost deaf...</EnglishText>
+      <EnglishText>It's *too* quiet. So
+quiet it almost makes
+my ears ring...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271728</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_020_005&gt;</VoiceId>
       <JapaneseText>感じるよ……
 もうひとりの自分を</JapaneseText>
-      <EnglishText>I can feel them...the other me is here...</EnglishText>
+      <EnglishText>I can feel them...
+Our other selves.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271820</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_020_006&gt;</VoiceId>
       <JapaneseText>うん……オレも。
 あいつら、ここにいる</JapaneseText>
-      <EnglishText>Yeah, I can feel that guy too.</EnglishText>
+      <EnglishText>Yeah... Me, too.
+They're here.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271920</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_020_007&gt;</VoiceId>
       <JapaneseText>……決着をつけるって
 あのふたりを倒すってこと？</JapaneseText>
-      <EnglishText>When you said you wanted to set things right...
-you meant that you're going to defeat them?</EnglishText>
+      <EnglishText>...When you say you're going
+to "end this," do you mean
+you're going to beat them?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272020</PointerOffset>
@@ -159,12 +164,13 @@ you meant that you're going to defeat them?</EnglishText>
       <JapaneseText>そーゆーこと。
 悪いことしたヤツは、
 倒さねーとな</JapaneseText>
-      <EnglishText>Yep! They are bad guys, so
-we have to beat em up!</EnglishText>
+      <EnglishText>Yeah, that's right. You
+gotta beat people who
+do bad things, don't you?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272140</PointerOffset>
@@ -172,56 +178,56 @@ we have to beat em up!</EnglishText>
       <JapaneseText>自分の悪い心に勝つ、
 それがノルンがわたしたちに
 与えた試練だからね</JapaneseText>
-      <EnglishText>We need to prevail against their malice.
-That's why Norn gave us this trial in
-the first place, wasn't it?</EnglishText>
+      <EnglishText>To win against the evil in
+our hearts is the ordeal Norn
+set out for us, after all.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272208</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_020_010&gt;</VoiceId>
       <JapaneseText>そう、なんだ……</JapaneseText>
-      <EnglishText>Right, yeah...</EnglishText>
+      <EnglishText>I...see...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272272</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_020_011&gt;</VoiceId>
       <JapaneseText>行こーぜ！</JapaneseText>
-      <EnglishText>...Let's go!</EnglishText>
+      <EnglishText>Let's go!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272332</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_020_012&gt;</VoiceId>
       <JapaneseText>……うん</JapaneseText>
-      <EnglishText>...Yes.</EnglishText>
+      <EnglishText>...Yeah.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272520</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_020_013&gt;</VoiceId>
       <JapaneseText>……&lt;Cless&gt;さんや&lt;Mint&gt;さん……
 それにダオスさえも……</JapaneseText>
-      <EnglishText>...Mister &lt;Cless&gt; and Miss
-&lt;Mint&gt;...even Dhaos...</EnglishText>
+      <EnglishText>...&lt;Cless&gt; and &lt;Mint&gt;,
+and even Dhaos...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272520</PointerOffset>
@@ -229,13 +235,14 @@ the first place, wasn't it?</EnglishText>
       <JapaneseText>今まで会ってきた人たちが
 きみたちの決断を
 支えてくれたんだね……</JapaneseText>
-      <EnglishText>Everyone they've met is supporting
-them in this decision...</EnglishText>
+      <EnglishText>Everyone you've met up until
+now has supported you in
+making this decision, haven't they...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

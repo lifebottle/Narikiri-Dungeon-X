@@ -5,7 +5,7 @@
     <Entry>
       <PointerOffset>277884,278132,278264,278540</PointerOffset>
       <JapaneseText>浅緑の生き物</JapaneseText>
-      <EnglishText>Green Colored Thing</EnglishText>
+      <EnglishText>Light Green Creature</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Editing</Status>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278052,278196,278652,278724,279072,279316,279436</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278364,278940,279380</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271937</PointerOffset>
@@ -81,64 +81,66 @@
       <PointerOffset>277888</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_050_001&gt;</VoiceId>
       <JapaneseText>クルール！</JapaneseText>
-      <EnglishText>Kururu!</EnglishText>
+      <EnglishText>Couleuru!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277968</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_050_002&gt;</VoiceId>
       <JapaneseText>うぉおっと……！
 な、何だ？</JapaneseText>
-      <EnglishText>Whoa! What's with this thing? </EnglishText>
+      <EnglishText>Whooaaa...!
+Wh-What the?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278056</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_050_003&gt;</VoiceId>
       <JapaneseText>この子、さっき魔物に
 襲われてた子？</JapaneseText>
-      <EnglishText>This little guy...is it the one that got
-attacked by monsters before? </EnglishText>
+      <EnglishText>Hey, isn't this the little one
+that was being attacked
+by monsters, earlier?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278136</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_050_004&gt;</VoiceId>
       <JapaneseText>クルール！　クルール！</JapaneseText>
-      <EnglishText>Kururu! Kururu! </EnglishText>
+      <EnglishText>Couleuru! Couleuru!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278200</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_050_005&gt;</VoiceId>
       <JapaneseText>どうしたの？</JapaneseText>
-      <EnglishText>What's the matter? </EnglishText>
+      <EnglishText>What's wrong?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278268</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_050_006&gt;</VoiceId>
       <JapaneseText>クルール！</JapaneseText>
-      <EnglishText>Kururu!</EnglishText>
+      <EnglishText>Couleuru!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278368</PointerOffset>
@@ -146,11 +148,13 @@ attacked by monsters before? </EnglishText>
       <JapaneseText>なんか……
 ついてきたがってる
 みたいだけド……</JapaneseText>
-      <EnglishText>Hey guys...it looks like it wants to come with us. But...</EnglishText>
+      <EnglishText>It kind of seems
+like... It wants to
+come with us, but...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278472</PointerOffset>
@@ -158,21 +162,23 @@ attacked by monsters before? </EnglishText>
       <JapaneseText>ダメダメ。
 おまえみたいなチビっ子、
 連れてけねって</JapaneseText>
-      <EnglishText>No way! You're way too weak to join us. </EnglishText>
+      <EnglishText>Nah, no way. We're not
+bringing some little
+thing like you with us.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278544</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_050_009&gt;</VoiceId>
       <JapaneseText>クルール！！</JapaneseText>
-      <EnglishText>Kururu!! </EnglishText>
+      <EnglishText>Couleuru!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278656</PointerOffset>
@@ -180,32 +186,37 @@ attacked by monsters before? </EnglishText>
       <JapaneseText>ゴメンね、わたしたち、
 これから危険なところへ
 行くから……</JapaneseText>
-      <EnglishText>I'm sorry! We're going somewhere very dangerous... </EnglishText>
+      <EnglishText>I'm really sorry, but we're
+going somewhere
+dangerous right now, so...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278728</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_050_011&gt;</VoiceId>
       <JapaneseText>……危険なのかな？</JapaneseText>
-      <EnglishText>...It'll be...very...dangerous...won't it? </EnglishText>
+      <EnglishText>...It will be
+dangerous,
+won't it?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278824</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_050_012&gt;</VoiceId>
       <JapaneseText>全然だいじょーぶだって。
 なんとかなるって</JapaneseText>
-      <EnglishText>It'll be no problem at all! I'll take care of it! </EnglishText>
+      <EnglishText>Nah, it'll be perfectly fine.
+We'll figure it out somehow.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278944</PointerOffset>
@@ -213,12 +224,13 @@ attacked by monsters before? </EnglishText>
       <JapaneseText>&lt;Mel&gt;は先に家に帰って。
 心配ないよ、
 &lt;Dio&gt;にはぼくがついてくかラ</JapaneseText>
-      <EnglishText>&lt;Mel&gt;, you can return home if you want to. There's
-nothing to worry about here. &lt;Dio&gt; and I can handle it.</EnglishText>
+      <EnglishText>You can go back home
+first, &lt;Mel&gt;. Don't worry,
+I'll go with &lt;Dio&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279076</PointerOffset>
@@ -226,43 +238,46 @@ nothing to worry about here. &lt;Dio&gt; and I can handle it.</EnglishText>
       <JapaneseText>……ううん、行くよ。
 だって、あの魔術はわたしが
 したことなのかもしれないし……</JapaneseText>
-      <EnglishText>No, I want to go too. I need to know if my magic
-is responsible for this mess... </EnglishText>
+      <EnglishText>...No, I'll come. I mean,
+that magic might
+be my fault, so...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279320</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_050_017&gt;</VoiceId>
       <JapaneseText>そうしないとダメだと
 思うから</JapaneseText>
-      <EnglishText>That's why I can't turn back now. </EnglishText>
+      <EnglishText>I feel like it'd
+be really bad
+if I didn't.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279384</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_050_018&gt;</VoiceId>
       <JapaneseText>そう……？</JapaneseText>
-      <EnglishText>Are you sure? </EnglishText>
+      <EnglishText>You're sure...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>16</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279440</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_050_019&gt;</VoiceId>
       <JapaneseText>うん</JapaneseText>
-      <EnglishText>Yes, I am... </EnglishText>
+      <EnglishText>Yeah.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>17</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

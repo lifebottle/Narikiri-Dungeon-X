@@ -8,7 +8,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302984,303272,303592,303996,304112,304224,304572,305168,305428</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>Basil</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>303100</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>303660</PointerOffset>
@@ -32,15 +32,15 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>304712,304844</PointerOffset>
       <JapaneseText>危険な魔界の住人</JapaneseText>
-      <EnglishText>Denizen of Daemonium</EnglishText>
+      <EnglishText>Dangerous Daemon</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>304932</PointerOffset>
@@ -48,15 +48,15 @@
       <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305064,305356,305648</PointerOffset>
       <JapaneseText>グレムリンレアー</JapaneseText>
-      <EnglishText>Gremlin's Lair</EnglishText>
+      <EnglishText>Gremlin Lair</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296381</PointerOffset>
@@ -106,26 +106,27 @@
       <VoiceId>&lt;audio:VSM_160_040_000&gt;</VoiceId>
       <JapaneseText>どうしてだよ！
 バジルさん！</JapaneseText>
-      <EnglishText>Mister Basil, please! Please tell
-me why you're doing this!</EnglishText>
+      <EnglishText>Why are you doing
+this!? Basil!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302680</PointerOffset>
       <VoiceId>&lt;audio:VSM_160_040_001&gt;</VoiceId>
       <JapaneseText>魔法で世界の人、
 救うんじゃなかったのか！</JapaneseText>
-      <EnglishText>I thought you were going to
-use magic to help people!</EnglishText>
+      <EnglishText>Weren't you going to use
+the power of magic to save
+the people of the world!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302988</PointerOffset>
@@ -133,13 +134,14 @@ use magic to help people!</EnglishText>
       <JapaneseText>救いたかったのは、
 世界なんてものじゃない、
 &lt;Red&gt;ヴァルハラ&lt;White&gt;の人たちだ！</JapaneseText>
-      <EnglishText>I never wanted to help this world! I only
-wanted to help the people of &lt;Red&gt;Valhalla&lt;White&gt;!</EnglishText>
+      <EnglishText>The only people I wanted to save
+were the people of &lt;Red&gt;Valhalla&lt;White&gt;! The
+rest of the world can go to hell!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302988</PointerOffset>
@@ -147,13 +149,14 @@ wanted to help the people of &lt;Red&gt;Valhalla&lt;White&gt;!</EnglishText>
       <JapaneseText>でも、アルヴァニスタは、
 人工マナの材料である
 『紅の月』の情報を流して</JapaneseText>
-      <EnglishText>...But, Alvanista had to interfere. They leaked my
-reasearch on artificial Mana to the "Red Moon."</EnglishText>
+      <EnglishText>Alvanista spread word of
+"Crimson Moon," the raw
+material for artificial mana...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302988</PointerOffset>
@@ -161,14 +164,14 @@ reasearch on artificial Mana to the "Red Moon."</EnglishText>
       <JapaneseText>金目当ての採掘者どもをあおり、
 結果、採掘者と住民との間の
 衝突を看過した！</JapaneseText>
-      <EnglishText>They contracted many miners to harvest materials.
-The result? A conflict arose between the miners and
-the citizens. One conflict they completely overlooked.</EnglishText>
+      <EnglishText>...and as a result, created friction
+between the villagers and countless
+miners who arrived, seeking riches!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>303104</PointerOffset>
@@ -176,12 +179,13 @@ the citizens. One conflict they completely overlooked.</EnglishText>
       <JapaneseText>で、&lt;Red&gt;ヴァルハラ&lt;White&gt;の連中は、
 採掘者たちに
 街を追い出された……</JapaneseText>
-      <EnglishText>...Then &lt;Red&gt;Valhalla&lt;White&gt;'s folks got kicked out
-of their own city by the miners...</EnglishText>
+      <EnglishText>And then all the &lt;Red&gt;Valhalla&lt;White&gt;
+guys got chased out of
+their village by the miners...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>303276</PointerOffset>
@@ -189,13 +193,14 @@ of their own city by the miners...</EnglishText>
       <JapaneseText>そうだ……
 何人も寒さや飢えで
 死んだ</JapaneseText>
-      <EnglishText>Correct. Many people were
-killed for stupid reasons.</EnglishText>
+      <EnglishText>Exactly... Countless
+among them died of
+cold and starvation.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>303276</PointerOffset>
@@ -203,13 +208,14 @@ killed for stupid reasons.</EnglishText>
       <JapaneseText>アルヴァニスタは
 何もしてくれなかった……
 見殺しにしたのさ！</JapaneseText>
-      <EnglishText>Meanwhile, Alvanista did absolutely nothing...
-Nothing but watch people suffer!</EnglishText>
+      <EnglishText>And Alvanista didn't do anything
+for them... They just stood there
+and watched them die!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>303428</PointerOffset>
@@ -217,27 +223,27 @@ Nothing but watch people suffer!</EnglishText>
       <JapaneseText>だから、
 無差別に人殺しする
 連中の力借りんのか！？</JapaneseText>
-      <EnglishText>So in return, the citizens thought
-indiscriminately killing people was
-the answer!?</EnglishText>
+      <EnglishText>And so you buddied
+up with a bunch of
+indiscriminate murderers!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>303428</PointerOffset>
       <VoiceId>&lt;audio:VSM_160_040_009&gt;</VoiceId>
       <JapaneseText>そんな
 ヒドイ奴らの力を……！</JapaneseText>
-      <EnglishText>This is a horrible power...!
-This isn't what you wanted!</EnglishText>
+      <EnglishText>You worked together with
+those heartless bastards...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>303596</PointerOffset>
@@ -245,36 +251,38 @@ This isn't what you wanted!</EnglishText>
       <JapaneseText>使えるヤツらなら、
 それがどんなヤツだろうと
 関係ない</JapaneseText>
-      <EnglishText>If it helps the people from Valhalla, then
-I don't care what happens to anyone else.</EnglishText>
+      <EnglishText>I don't care who the
+hell they are, as long
+as they're useful to me.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>303596</PointerOffset>
       <VoiceId>&lt;audio:VSM_160_040_011Z&gt;</VoiceId>
       <JapaneseText>魔科学と引き換えに
 あの村を守れるんなら！</JapaneseText>
-      <EnglishText>I must replace Magitechnology
-to protect the village!</EnglishText>
+      <EnglishText>If I can trade away my
+magitech to secure a future
+for the villagers, then...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>303664</PointerOffset>
       <VoiceId>&lt;audio:VSM_160_040_012&gt;</VoiceId>
       <JapaneseText>魔科学を……！？</JapaneseText>
-      <EnglishText>Magitechnology, you say!?</EnglishText>
+      <EnglishText>Your magitech...!?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>303856</PointerOffset>
@@ -282,27 +290,27 @@ to protect the village!</EnglishText>
       <JapaneseText>なんだよ……そんなんで、
 全部自分の夢、
 台無しにしちまうのかよ……</JapaneseText>
-      <EnglishText>Why...? Then everything you
-told me was a lie? All my
-dreams are worthless, then...?</EnglishText>
+      <EnglishText>What the hell... Aren't you just...
+destroying your own dreams...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>303856</PointerOffset>
       <VoiceId>&lt;audio:VSM_160_040_014&gt;</VoiceId>
       <JapaneseText>なぁっ！　夢は思い続けないと
 叶わないって言ったよな！？</JapaneseText>
-      <EnglishText>WHY!? Didn't you say dreams won't come
-true unless we see them through to the end!?</EnglishText>
+      <EnglishText>Hey! Aren't you the one who told
+me that you gotta keep believing in
+your dreams for 'em to come true!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>304000</PointerOffset>
@@ -310,24 +318,24 @@ true unless we see them through to the end!?</EnglishText>
       <JapaneseText>その僕の夢がみんなを、
 あの村をメチャクチャに
 したんだ！</JapaneseText>
-      <EnglishText>Everyone said my dream to help
-the village was a pipe dream...</EnglishText>
+      <EnglishText>My dreams ruined that
+village, and everyone's lives!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>304000</PointerOffset>
       <VoiceId>&lt;audio:VSM_160_040_016Z&gt;</VoiceId>
       <JapaneseText>もういい……</JapaneseText>
-      <EnglishText>And you know what...?</EnglishText>
+      <EnglishText>I've given up...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>304116</PointerOffset>
@@ -335,12 +343,13 @@ the village was a pipe dream...</EnglishText>
       <JapaneseText>夢なんて、思い続けてたって
 叶いやしない……
 叶うわけがない！！</JapaneseText>
-      <EnglishText>They were right! No matter how hard
-you try...dreams never come true!</EnglishText>
+      <EnglishText>However long you keep believing,
+those damned dreams won't come
+true! They will never come true!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>18</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>304344</PointerOffset>
@@ -348,13 +357,13 @@ you try...dreams never come true!</EnglishText>
       <JapaneseText>ウソだよ……どうして、
 そんなこと言うんだよ……
 バジルさん……</JapaneseText>
-      <EnglishText>You're joking, right? This isn't funny...
-Why are you saying this, Mister Basil?
-This isn't who you are, right?</EnglishText>
+      <EnglishText>No... You're lying... Why
+would you say something
+like that...? Basil...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>19</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>304228</PointerOffset>
@@ -362,43 +371,44 @@ This isn't who you are, right?</EnglishText>
       <JapaneseText>僕が君に言った
 なんにでもなれるなんて話は、
 妄想なんだよ！</JapaneseText>
-      <EnglishText>What I've told you back then,
-all that talk about dreams...
-was complete bullshit!</EnglishText>
+      <EnglishText>And when I told you you could
+become anything you want to be...
+That was all just a delusion!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>20</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>304576</PointerOffset>
       <VoiceId>&lt;audio:VSM_160_040_022Z&gt;</VoiceId>
       <JapaneseText>うわぁあっ！！</JapaneseText>
-      <EnglishText>Argh!</EnglishText>
+      <EnglishText>Waaauuugh!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>21</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>304644</PointerOffset>
       <VoiceId>&lt;audio:VSM_160_040_023&gt;</VoiceId>
       <JapaneseText>バジルさん！！</JapaneseText>
-      <EnglishText>No! Mister Basil!</EnglishText>
+      <EnglishText>Basil!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>22</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>304716</PointerOffset>
       <VoiceId>&lt;audio:VSM_160_040_024&gt;</VoiceId>
       <JapaneseText>ご苦労さん</JapaneseText>
-      <EnglishText>Nicely done, human.</EnglishText>
+      <EnglishText>Thankee for all
+the hard work.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>23</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>304848</PointerOffset>
@@ -406,24 +416,25 @@ was complete bullshit!</EnglishText>
       <JapaneseText>まったく、つまらん禁呪文で
 オイラたちを操ろうなんて、
 とんでもねぇ男だ</JapaneseText>
-      <EnglishText>Did this man truly think he could control
-us with such pathetic Demonic Manipulation
-skills...? How foolish.</EnglishText>
+      <EnglishText>Sheesh. One hell of a
+bastard, usin' such an
+annoyin' spell to control us.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>24</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>304936</PointerOffset>
       <VoiceId>&lt;audio:VSM_160_040_026&gt;</VoiceId>
       <JapaneseText>おまえは……
 グレムリンレアー……！</JapaneseText>
-      <EnglishText>You are...Gremlin's Lair!</EnglishText>
+      <EnglishText>You're...
+Gremlin Lair...!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>25</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305068</PointerOffset>
@@ -431,13 +442,13 @@ skills...? How foolish.</EnglishText>
       <JapaneseText>おや、誰かと思えば、
 前にオイラ騙して、無理矢理
 契約させた奴じゃないの</JapaneseText>
-      <EnglishText>Oh? A familiar face. Move aside.
-You aren't with the summoner
-capable of making impossible pacts.</EnglishText>
+      <EnglishText>Oh, I was just wonderin' who
+ya were. If it isn't the bastards
+who tricked me into a pact.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>26</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305172</PointerOffset>
@@ -445,24 +456,26 @@ capable of making impossible pacts.</EnglishText>
       <JapaneseText>な、なぜだ……
 なぜ僕の魔操術が……
 効かない……</JapaneseText>
-      <EnglishText>Wh-Why isn't my magic working on you...?</EnglishText>
+      <EnglishText>Wh-Why...? Why is my
+control...not working...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>27</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305360</PointerOffset>
       <VoiceId>&lt;audio:VSM_160_040_029&gt;</VoiceId>
       <JapaneseText>あんたのそれ通用すんの
 下っ端の魔族だけだよ？</JapaneseText>
-      <EnglishText>Do you think you managed to come
-this far solely due to your magic?</EnglishText>
+      <EnglishText>Your little trick there'll
+only work on low-rank
+daemons, y'see?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>28</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305360</PointerOffset>
@@ -470,46 +483,46 @@ this far solely due to your magic?</EnglishText>
       <JapaneseText>魔界の王プルート様も
 感謝してるぜ。
 魔界の門を開いてくれてさ</JapaneseText>
-      <EnglishText>You should be thanking Lord of Daemonium,
-Pluto, for this feat. We've been just using
-you to open the door.</EnglishText>
+      <EnglishText>Oh, and Pluto, the King of
+Daemonium, is real grateful
+to ya, for openin' this door.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>28</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305432</PointerOffset>
       <VoiceId>&lt;audio:VSM_160_040_031Z&gt;</VoiceId>
       <JapaneseText>うわぁああっ！！</JapaneseText>
-      <EnglishText>uwahhh!</EnglishText>
+      <EnglishText>Waauuuugh!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>30</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305532</PointerOffset>
       <VoiceId>&lt;audio:VSM_160_040_032&gt;</VoiceId>
       <JapaneseText>バジルさんを……</JapaneseText>
-      <EnglishText>Let go...</EnglishText>
+      <EnglishText>Get your friggin' hands...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>31</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305532</PointerOffset>
       <VoiceId>&lt;audio:VSM_160_040_033&gt;</VoiceId>
       <JapaneseText>……はなせ！</JapaneseText>
-      <EnglishText>OF MR. BASIL!</EnglishText>
+      <EnglishText>...off of Basil!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>31</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305652</PointerOffset>
@@ -517,12 +530,13 @@ you to open the door.</EnglishText>
       <JapaneseText>オイラとやるってかい？
 いいよ、相手になろう
 じゃないの！</JapaneseText>
-      <EnglishText>Do you wish to fight? All
-right, I'll shred you to pieces!</EnglishText>
+      <EnglishText>So you wanna throw
+down? Alright, I'll give
+ya a real fun time!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>33</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

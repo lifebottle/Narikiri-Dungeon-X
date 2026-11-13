@@ -8,7 +8,7 @@
       <EnglishText>Luna</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>297852,298316,298940,299176</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298016,298524</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299380,299908,300136</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299456,299644,300064,300268</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>291537</PointerOffset>
@@ -89,21 +89,22 @@
       <PointerOffset>297776</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_030_001&gt;</VoiceId>
       <JapaneseText>ようこそ、いらっしゃいました</JapaneseText>
-      <EnglishText>You are most welcome in my domain.</EnglishText>
+      <EnglishText>Welcome.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>297856</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_030_002&gt;</VoiceId>
       <JapaneseText>今度こそ、本物……だよな？</JapaneseText>
-      <EnglishText>You're the real one....right?</EnglishText>
+      <EnglishText>So you're definitely the
+real deal...aren't you?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>297952</PointerOffset>
@@ -111,36 +112,37 @@
       <JapaneseText>ええ。
 先ほどはアルテミスが
 失礼をいたしました</JapaneseText>
-      <EnglishText>Correct. I must apologize for
-Artemis's attitude earlier.</EnglishText>
+      <EnglishText>Yes. Artemis did
+something very
+inappropriate, before.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298020</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_030_004&gt;</VoiceId>
       <JapaneseText>いえ。それで……</JapaneseText>
-      <EnglishText>That's okay. In any case...</EnglishText>
+      <EnglishText>It's nothing. So...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298212</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_030_005&gt;</VoiceId>
       <JapaneseText>用件はわかっています。
 魔界の扉のことですね</JapaneseText>
-      <EnglishText>I understand what should be done.
-We must prevent the Otherworldly
-Gate from opening, correct?</EnglishText>
+      <EnglishText>I understand the circumstances.
+You've come because of
+the Otherworldy Gate.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298212</PointerOffset>
@@ -148,14 +150,14 @@ Gate from opening, correct?</EnglishText>
       <JapaneseText>あれはラグナロクの後、
 魔界の王と精霊王の盟約により、
 我が光の力で封じたものです</JapaneseText>
-      <EnglishText>Back in the era of Ragnarok, the King of Daemonium
-and the Lord of Summon Spirits convened that should
-the time arise, my power of light would work as a seal.</EnglishText>
+      <EnglishText>Ever since Ragnarok, by covenant
+with the King of Spirits, the power
+of my light has kept that door sealed.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298320</PointerOffset>
@@ -163,12 +165,13 @@ the time arise, my power of light would work as a seal.</EnglishText>
       <JapaneseText>ラグナロクって……
 すげー気が遠く
 なるような昔の話……</JapaneseText>
-      <EnglishText>Era of Ragnarok, eh? I love
-older stories like this!</EnglishText>
+      <EnglishText>"Ragnarok"... That was a crazy long
+time ago. Like, so long ago my
+head swims just thinking about it...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298432</PointerOffset>
@@ -176,48 +179,47 @@ older stories like this!</EnglishText>
       <JapaneseText>その通りです。それだけに、
 本来、人間が触れるべき
 ではないもの</JapaneseText>
-      <EnglishText>It is quite an interesting story. Perhaps
-a little too much. In fact, humans are
-forbidden from knowing such tales.</EnglishText>
+      <EnglishText>As you say. And of course, for that
+very reason, humans should never
+lay their hands upon that door.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298528</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_030_009&gt;</VoiceId>
       <JapaneseText>あなたの力、
 貸していただけるでしょうか？</JapaneseText>
-      <EnglishText>Is it possible for you to lend
-us your powers, then?</EnglishText>
+      <EnglishText>Will you allow us to
+borrow your power?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298656</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_030_011&gt;</VoiceId>
       <JapaneseText>受け取りなさい</JapaneseText>
-      <EnglishText>Accept my power.</EnglishText>
+      <EnglishText>Receive this.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298764</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_030_012&gt;</VoiceId>
       <JapaneseText>これを扉の前に掲げなさい。
 我が光の力で扉は封印されます</JapaneseText>
-      <EnglishText>Hoist this once you face the door.
-The might of my light should
-suffice to seal it.</EnglishText>
+      <EnglishText>Place this before the door. My
+power will seal it once more.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298860</PointerOffset>
@@ -225,60 +227,62 @@ suffice to seal it.</EnglishText>
       <JapaneseText>それから
 あなたたちが失った
 精霊晶核ですが……</JapaneseText>
-      <EnglishText>As for you children, the
-Atomism Cores you lost...</EnglishText>
+      <EnglishText>And, on the subject of the
+Atomic Cores you have lost...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298944</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_030_014&gt;</VoiceId>
       <JapaneseText>どこにあるか、
 わかんのか！？</JapaneseText>
-      <EnglishText>You know where they are!?</EnglishText>
+      <EnglishText>You know where
+they are!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299096</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_030_015&gt;</VoiceId>
       <JapaneseText>マクスウェルの下へ
 行きなさい</JapaneseText>
-      <EnglishText>You must return to Maxwell.</EnglishText>
+      <EnglishText>Go before Maxwell.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299096</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_030_016&gt;</VoiceId>
       <JapaneseText>行き場をなくした精霊晶核は、
 統括精霊の下へ集うのです</JapaneseText>
-      <EnglishText>Should the Atomism Cores roam
-freely they'll eventually return to
-the Lord of the Four Elements.</EnglishText>
+      <EnglishText>Atomic Cores which have
+lost their proper destination
+will gather before the Unifier.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299180</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_030_017&gt;</VoiceId>
       <JapaneseText>うげ……
 またマクスウェルか……</JapaneseText>
-      <EnglishText>Blech, not the old fart again...</EnglishText>
+      <EnglishText>Eugh... Maxwell
+again, huh...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299304</PointerOffset>
@@ -286,47 +290,47 @@ the Lord of the Four Elements.</EnglishText>
       <JapaneseText>アルテミスの不手際で、
 色々と面倒をかけましたね。
 申し訳ありませんでした</JapaneseText>
-      <EnglishText>Artemis's pranks have caused
-much trouble. I sincerely
-apologize for his actions.</EnglishText>
+      <EnglishText>Due to Artemis's ineptitude,
+you have faced many setbacks.
+You have my apologies.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>17</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299384</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_030_019&gt;</VoiceId>
       <JapaneseText>い、いえ……
 そんな……！</JapaneseText>
-      <EnglishText>N-No, that's all right!</EnglishText>
+      <EnglishText>N-No...
+That's...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>18</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299460</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_030_020&gt;</VoiceId>
       <JapaneseText>あのっ！　それかラっ！</JapaneseText>
-      <EnglishText>E-Excuse me! There's something
-I must ask you!</EnglishText>
+      <EnglishText>Um...! And also!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>19</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299540</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_030_021&gt;</VoiceId>
       <JapaneseText>あなたが何者なのか、
 ですか？</JapaneseText>
-      <EnglishText>You want to know what manner
-of being you are...don't you?</EnglishText>
+      <EnglishText>"What am I?" Is that the
+question you wish to ask?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299648</PointerOffset>
@@ -334,11 +338,13 @@ of being you are...don't you?</EnglishText>
       <JapaneseText>はい。ぼく……
 ずっと自分のことを
 妖精だと思ってて……</JapaneseText>
-      <EnglishText>Yes... All this time I thought I was a fairy...</EnglishText>
+      <EnglishText>Yes. I... I've thought
+I was a fairy for a
+very long time...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>21</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299820</PointerOffset>
@@ -346,13 +352,13 @@ of being you are...don't you?</EnglishText>
       <JapaneseText>そうですね……
 でも、あなたは
 妖精ではありません</JapaneseText>
-      <EnglishText>I see... However, I am afraid it is 
-not possible for you to be a fairy.</EnglishText>
+      <EnglishText>Indeed... But no,
+you are not a fairy.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>22</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299820</PointerOffset>
@@ -360,67 +366,71 @@ not possible for you to be a fairy.</EnglishText>
       <JapaneseText>では、何なのか……
 そう問われても、
 私にもわかりません</JapaneseText>
-      <EnglishText>Then what are you...? That's a question
-I don't possess the answer to.</EnglishText>
+      <EnglishText>"Then, what am I...?" Even
+should you ask me that question,
+I do not know the answer.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>22</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299912</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_030_025&gt;</VoiceId>
       <JapaneseText>そんな……精霊でも
 わからないなんて……</JapaneseText>
-      <EnglishText>No... Not even a Summon Spirit knows...</EnglishText>
+      <EnglishText>But how... How can even
+the spirits not know...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>24</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299992</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_030_026&gt;</VoiceId>
       <JapaneseText>お役に立てなくて、
 すみません</JapaneseText>
-      <EnglishText>I apologize for not being of much help.</EnglishText>
+      <EnglishText>I'm sorry I could not
+be of more help.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>25</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300068</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_030_027&gt;</VoiceId>
       <JapaneseText>いえ……
 そうですか……</JapaneseText>
-      <EnglishText>No, please...It's okay...</EnglishText>
+      <EnglishText>It's fine... I see... So
+that's how it is...?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>26</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300140</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_030_028&gt;</VoiceId>
       <JapaneseText>エト、元気出して……</JapaneseText>
-      <EnglishText>Eto, hang in there...</EnglishText>
+      <EnglishText>Cheer up, Ethos...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>27</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300272</PointerOffset>
       <VoiceId>&lt;audio:VSM_150_030_029&gt;</VoiceId>
       <JapaneseText>大丈夫だよ……うん</JapaneseText>
-      <EnglishText>I'm fine...Yeah...</EnglishText>
+      <EnglishText>I'm okay... I'm okay.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>28</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300272</PointerOffset>
@@ -428,13 +438,14 @@ I don't possess the answer to.</EnglishText>
       <JapaneseText>うん、
 気にしない気にしない。
 さ、行こうよ</JapaneseText>
-      <EnglishText>Okay, no more moping
-around! Let's get moving!</EnglishText>
+      <EnglishText>Yeah. It's no
+big deal, really.
+Okay, let's go.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>28</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

@@ -8,7 +8,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277292</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277356</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277436,277500,277724,277940,278084,278324</PointerOffset>
@@ -32,15 +32,15 @@
       <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277656,277880,278016,278264,278464</PointerOffset>
       <JapaneseText>女性の声</JapaneseText>
-      <EnglishText>Woman’s Voice</EnglishText>
+      <EnglishText>Woman's Voice</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271273</PointerOffset>
@@ -89,11 +89,12 @@
       <PointerOffset>277228</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_020_001&gt;</VoiceId>
       <JapaneseText>うわっ！　まっくら！</JapaneseText>
-      <EnglishText>Whoa! Everything went pitch black!</EnglishText>
+      <EnglishText>Whoa! It's pitch
+black in here!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277296</PointerOffset>
@@ -103,27 +104,27 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277360</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_020_003&gt;</VoiceId>
       <JapaneseText>クルール！</JapaneseText>
-      <EnglishText>Kuruuruu!</EnglishText>
+      <EnglishText>Couleuru!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277440</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_020_004&gt;</VoiceId>
       <JapaneseText>皆さん！　大丈夫ですか！？</JapaneseText>
-      <EnglishText>Is everyone all right!?</EnglishText>
+      <EnglishText>Everyone! Are you okay!?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277504</PointerOffset>
@@ -133,52 +134,54 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277660</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_020_006&gt;</VoiceId>
       <JapaneseText>あなたはこの子たちに
 嫉妬しているのでしょう</JapaneseText>
-      <EnglishText>You are jealous of those kids.</EnglishText>
+      <EnglishText>You find yourself envying
+these children, don't you?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277660</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_020_007&gt;</VoiceId>
       <JapaneseText>夢みたいなことを
 言っているこの子たちに</JapaneseText>
-      <EnglishText>Those kids are living lives
-you'd only dream of.</EnglishText>
+      <EnglishText>These children who speak of things
+which you could only dream of.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277728</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_020_008&gt;</VoiceId>
       <JapaneseText>誰ですか……？</JapaneseText>
-      <EnglishText>...Who are you?</EnglishText>
+      <EnglishText>Who is this...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277884</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_020_010&gt;</VoiceId>
       <JapaneseText>でも、あなたは揺らいでいる</JapaneseText>
-      <EnglishText>But...you are shaking...</EnglishText>
+      <EnglishText>But, your resolve
+is now shaken.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277944</PointerOffset>
@@ -188,39 +191,41 @@ you'd only dream of.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278020</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_020_012&gt;</VoiceId>
       <JapaneseText>今の自分に迷っている</JapaneseText>
-      <EnglishText>You're losing grip of yourself.</EnglishText>
+      <EnglishText>You have come to
+doubt yourself.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278088</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_020_013&gt;</VoiceId>
       <JapaneseText>迷っていません</JapaneseText>
-      <EnglishText>I will not lose myself.</EnglishText>
+      <EnglishText>I have no doubts.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278268</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_020_015&gt;</VoiceId>
       <JapaneseText>この現実が夢ならいいのに、
 と思っている</JapaneseText>
-      <EnglishText>But, if this reality was but a dream,
-that'd be ok... Don't you agree?</EnglishText>
+      <EnglishText>"I wish this reality of mine
+were all just a dream."
+So you keep thinking.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278328</PointerOffset>
@@ -230,34 +235,34 @@ that'd be ok... Don't you agree?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278468</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_020_017&gt;</VoiceId>
       <JapaneseText>目覚めたら、
 違う現実がそこにある</JapaneseText>
-      <EnglishText>When you open your eyes,
-you'll experience a new reality.
-The reality in your mind.</EnglishText>
+      <EnglishText>So that, once you open
+your eyes, you will find
+yourself in a different reality.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>15</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278468</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_020_018&gt;</VoiceId>
       <JapaneseText>さぁ……目覚めなさい。
 朝ですよ</JapaneseText>
-      <EnglishText>Now...Open your eyes...
-It's morning already...</EnglishText>
+      <EnglishText>Come... Open your
+eyes. It's morning.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

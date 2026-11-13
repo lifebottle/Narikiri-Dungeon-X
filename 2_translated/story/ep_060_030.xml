@@ -8,7 +8,7 @@
       <EnglishText>&lt;Klarth&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>292448,292644,292872,293196,293488</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>Sylph</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>292984,293348</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>293276</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286045</PointerOffset>
@@ -81,24 +81,26 @@
       <PointerOffset>292344</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_030_001&gt;</VoiceId>
       <JapaneseText>シルフ！　&lt;Klarth&gt;だ！</JapaneseText>
-      <EnglishText>Sylph! It's me, &lt;Klarth&gt;!</EnglishText>
+      <EnglishText>Sylph! It's &lt;Klarth&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>292344</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_030_002&gt;</VoiceId>
       <JapaneseText>私のことを覚えているなら、
 姿を現してほしい！</JapaneseText>
-      <EnglishText>If you remember me, please appear before us!</EnglishText>
+      <EnglishText>If you remember
+me, I'd like you
+to show yourself!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>292452</PointerOffset>
@@ -106,24 +108,26 @@
       <JapaneseText>覚えています、&lt;Klarth&gt;。
 ダオス戦役の折、
 ともに戦った勇士</JapaneseText>
-      <EnglishText>I remember, &lt;Klarth&gt;. I served you during
-your heroic fight against Dhaos. </EnglishText>
+      <EnglishText>We remember you, &lt;Klarth&gt;. You
+are the brave warrior we fought
+alongside, during in Dhaos's War.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>292556</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_030_004&gt;</VoiceId>
       <JapaneseText>光栄だ。過去のよしみで
 頼みを聞いてもらいたいのだが</JapaneseText>
-      <EnglishText>It was an honor. As an old comrade, could
-you bother to listen to my request?</EnglishText>
+      <EnglishText>It's an honor. On account
+of our past friendship, there's
+a favor I'd like to ask of you.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>292648</PointerOffset>
@@ -131,68 +135,72 @@ you bother to listen to my request?</EnglishText>
       <JapaneseText>まずは
 話を聞きましょう。
 何でしょうか？</JapaneseText>
-      <EnglishText>We'll listen to what you have to say. What is it?</EnglishText>
+      <EnglishText>Then let's hear it.
+What do you need?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>292752</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_030_006&gt;</VoiceId>
       <JapaneseText>我々におまえの精霊晶核を
 分けてもらえないだろうか</JapaneseText>
-      <EnglishText>Would it be too much to ask for
-you to lend us your Atomism Core? </EnglishText>
+      <EnglishText>Would you be williing
+to give us your
+Atomic Core?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>292876</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_030_007&gt;</VoiceId>
       <JapaneseText>精霊晶核を……</JapaneseText>
-      <EnglishText>Lend you my Atomism Core...? </EnglishText>
+      <EnglishText>Our Atomic Core...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>292876</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_030_008&gt;</VoiceId>
       <JapaneseText>わかりました。
 チャンスを与えましょう</JapaneseText>
-      <EnglishText>I understand, I'll give you this chance.</EnglishText>
+      <EnglishText>I understand. You'll
+be given a chance.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>292988</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_030_009&gt;</VoiceId>
       <JapaneseText>チャンス？</JapaneseText>
-      <EnglishText>A chance? </EnglishText>
+      <EnglishText>Chance?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>292988</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_030_010&gt;</VoiceId>
       <JapaneseText>やっぱタダじゃもらえねーの？</JapaneseText>
-      <EnglishText>Won't you just give it to us?</EnglishText>
+      <EnglishText>So you won't just
+give it to us, huh...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>293200</PointerOffset>
@@ -200,13 +208,14 @@ you to lend us your Atomism Core? </EnglishText>
       <JapaneseText>精霊晶核は、私たち自身の分身、
 あるいは卵とも言える
 大切なものです</JapaneseText>
-      <EnglishText>The Atomism Core is our innermost, most important
-piece. A vital egg for our subsistence.</EnglishText>
+      <EnglishText>Our Atomic Core is a part of our
+very body, or, in a sense, like our
+own eggs. It is something precious.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>293200</PointerOffset>
@@ -214,44 +223,46 @@ piece. A vital egg for our subsistence.</EnglishText>
       <JapaneseText>私たちの風に翻弄されず、
 打ち勝つことができれば、
 精霊晶核を与えましょう</JapaneseText>
-      <EnglishText>If you can withstand our wind and strike victorious,
-we'll lend you our Atomism Core.</EnglishText>
+      <EnglishText>If you are able to withstand our gales
+and grasp victory in battle, we will
+bestow our Atomic Core unto you.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>293280</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_030_013&gt;</VoiceId>
       <JapaneseText>やっぱり、
 また戦うんだ……</JapaneseText>
-      <EnglishText>I knew it...we have to fight again...</EnglishText>
+      <EnglishText>So we have to
+fight... Again...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>293352</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_030_014&gt;</VoiceId>
       <JapaneseText>よし！　やってやる！</JapaneseText>
-      <EnglishText>All right! Let's get started!</EnglishText>
+      <EnglishText>Alright! Let's do this!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>293492</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_030_016&gt;</VoiceId>
       <JapaneseText>来なさい</JapaneseText>
-      <EnglishText>Come at me!</EnglishText>
+      <EnglishText>Come.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

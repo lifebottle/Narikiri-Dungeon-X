@@ -16,7 +16,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273952,274224,274576,275232,275472,275744,275908,276352</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275140,276564</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>267693</PointerOffset>
@@ -83,11 +83,13 @@
       <JapaneseText>ん？　君たちは
 道場の入門者……
 にしては、ちんまいね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hm? Are you looking to apply
+to the dojo... Wait, you're a little
+too young for that, I guess.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273796</PointerOffset>
@@ -95,32 +97,35 @@
       <JapaneseText>いえ、あの、
 わたしたち、&lt;Cless&gt;さんに
 会いに来たんです</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No, um, we came
+to meet &lt;Cless&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273892</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_040_003&gt;</VoiceId>
       <JapaneseText>うちの主に？
 うーん、それは困った</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Our master? Well,
+that's not so easy,
+at the moment...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273956</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_040_004&gt;</VoiceId>
       <JapaneseText>いねーのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What, is he not here?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274140</PointerOffset>
@@ -128,47 +133,53 @@
       <JapaneseText>まぁね。今、うちの主は、
 &lt;Red&gt;ユークリッド&lt;White&gt;騎士団の
 特別顧問をしていてね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, that's the short version. Our
+master's away with the &lt;Red&gt;Euclid&lt;White&gt;
+Knights, as a special advisor, right now.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274140</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_040_006&gt;</VoiceId>
       <JapaneseText>&lt;Red&gt;ヴァルハラ&lt;White&gt;で
 軍事行動中なんだよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They're planning military
+operations in &lt;Red&gt;Valhalla&lt;White&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274228</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_040_007&gt;</VoiceId>
       <JapaneseText>&lt;Red&gt;ヴァルハラ&lt;White&gt;で
 何かあったのか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Is something going
+on in &lt;Red&gt;Valhalla&lt;White&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274500</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_040_009&gt;</VoiceId>
       <JapaneseText>『シグルド』って暴力集団が、
 街に立てこもってるんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>A group of thugs called "Sigurd"
+have made themselves at
+home in the town.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274500</PointerOffset>
@@ -176,22 +187,24 @@
       <JapaneseText>ブレイナーってのが
 リーダーになって以来、
 厄介でね……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>They've been a lot of
+trouble ever since
+Brynhildr took the reins...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274580</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_040_011&gt;</VoiceId>
       <JapaneseText>&lt;Red&gt;ヴァルハラ&lt;White&gt;っていや……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Wait, so &lt;Red&gt;Valhalla&lt;White&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274696</PointerOffset>
@@ -199,21 +212,23 @@
       <JapaneseText>あぁ、あそこも
 色々あったからね、
 住民が追い出されたり</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah. There's been a lot of things
+going on there of late. The residents
+got run out of town, too...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274756</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_040_013&gt;</VoiceId>
       <JapaneseText>住民が？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The residents did?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274944</PointerOffset>
@@ -221,12 +236,13 @@
       <JapaneseText>ああ、『紅の月』の
 採掘者と住民が
 ぶつかってな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah. They kept butting heads with
+the "Crimson Moon" miners, and...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274944</PointerOffset>
@@ -234,22 +250,24 @@
       <JapaneseText>ともかく、危険だから、
 &lt;Red&gt;ヴァルハラ&lt;White&gt;には
 近づかない方がいいね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Anyway, it's pretty dangerous
+there at the moment, so it's better
+if you stay away from &lt;Red&gt;Valhalla&lt;White&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275016</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_040_016&gt;</VoiceId>
       <JapaneseText>どうしよう、エト……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What do we do, Ethos...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275144</PointerOffset>
@@ -257,22 +275,25 @@
       <JapaneseText>その間にマクスウェルのこと、
 知ってる人いないか、
 探せばいいんじゃないかな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>While he's away, we should look
+around for anyone who knows
+more about Maxwell, shouldn't we?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>16</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275236</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_040_018&gt;</VoiceId>
       <JapaneseText>でも、ダオスの話も
 聞かなくちゃだし……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, but we still need to
+learn more about Dhaos...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>17</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275396</PointerOffset>
@@ -280,77 +301,83 @@
       <JapaneseText>なんだ、
 ダオスの話を
 聞きたいのかい？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Oh, you wanted to
+hear about Dhaos?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275396</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_040_020&gt;</VoiceId>
       <JapaneseText>だったら、&lt;Mint&gt;様に
 会ってみちゃどうかね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>In that case, why not
+try asking Lady &lt;Mint&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275476</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_040_021&gt;</VoiceId>
       <JapaneseText>&lt;Mint&gt;って……
 時空戦士の？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt;... The
+Hero of Time?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>20</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275572</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_040_022&gt;</VoiceId>
       <JapaneseText>そのぅ……その人は、
 どこにいるんですか？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well... Where
+is she now?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>21</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275680</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_040_023&gt;</VoiceId>
       <JapaneseText>もちろん。&lt;Mint&gt;様は、
 村の教会にいると思うけど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, it's Lady &lt;Mint&gt;, so I
+expect she's in the village
+church. She usually is.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>22</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275748</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_040_024&gt;</VoiceId>
       <JapaneseText>この村すげー……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>This village's amazing...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275820</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_040_025&gt;</VoiceId>
       <JapaneseText>すごいってなにが？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Amazing how?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>24</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275912</PointerOffset>
@@ -358,11 +385,12 @@
       <JapaneseText>だってさ、
 時空戦士がふたりも
 いんだぜ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I mean, c'mon, there are *two*
+Heroes of Time here, right?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>25</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276356</PointerOffset>
@@ -370,21 +398,23 @@
       <JapaneseText>&lt;Mint&gt;は時空戦士の法術師で、
 結社を作って、
 世界に法術を広めた人なんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>&lt;Mint&gt; was the Cleric for the Heroes of Time,
+and then she formed a clerical society
+and spread her artes throughout the world.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>26</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276420</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_040_032&gt;</VoiceId>
       <JapaneseText>詳しいんだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You do know a lot.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>27</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276568</PointerOffset>
@@ -392,23 +422,25 @@
       <JapaneseText>それじゃあ、
 その&lt;Mint&gt;さんに
 会いに行ってみようか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, then, let's try
+going to meet this &lt;Mint&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>28</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276568</PointerOffset>
       <VoiceId>&lt;audio:VSM_110_040_034&gt;</VoiceId>
       <JapaneseText>村の教会にいるんだっけ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She was in the
+village's church, right?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>28</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

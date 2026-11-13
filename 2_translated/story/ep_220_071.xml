@@ -8,7 +8,7 @@
       <EnglishText>Origin</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310088,310496,312220,312772</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310200</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310564,313260</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310764,310948,311288,311620,312032,312148,312364,312904,313144,313344</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311720,311888,312584,312844</PointerOffset>
@@ -48,7 +48,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>302809</PointerOffset>
@@ -98,35 +98,36 @@
       <VoiceId>&lt;audio:VSM_220_070_014&gt;</VoiceId>
       <JapaneseText>おまえたちの力、
 しかと心に刻んだ</JapaneseText>
-      <EnglishText>I have witnessed the strength
-etched into your hearts.</EnglishText>
+      <EnglishText>Truly, your strength is
+carved into my soul.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310028</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_070_015&gt;</VoiceId>
       <JapaneseText>我が力、
 おまえたちに預けよう</JapaneseText>
-      <EnglishText>I am willing to lend you my powers.</EnglishText>
+      <EnglishText>I entrust my own
+power to you.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310092</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_070_016&gt;</VoiceId>
       <JapaneseText>こいつだよな</JapaneseText>
-      <EnglishText>Here you go.</EnglishText>
-      <Notes/>
+      <EnglishText>Gotcha.</EnglishText>
+      <Notes>need context</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>310204</PointerOffset>
@@ -134,12 +135,13 @@ etched into your hearts.</EnglishText>
       <JapaneseText>よーし、そいつで一気に
 世界全部の瘴気、
 浄化しちまおうぜ！</JapaneseText>
-      <EnglishText>Awright! With this, we can purge that
-Miasma from the world in a snap!</EnglishText>
+      <EnglishText>Aaalright! Now we can
+clear out the entire
+world's miasma in one go!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310400</PointerOffset>
@@ -147,14 +149,14 @@ Miasma from the world in a snap!</EnglishText>
       <JapaneseText>残念ながら、もはや
 我ひとりの力で、世界全体の
 瘴気を浄化することは叶わぬ</JapaneseText>
-      <EnglishText>Regrettably, even with my power,
-it is not enough to cleanse the
-whole world of Miasma.</EnglishText>
+      <EnglishText>Unfortunately, it is already too
+late for my power alone to clear
+the miasma from the world.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310400</PointerOffset>
@@ -162,26 +164,26 @@ whole world of Miasma.</EnglishText>
       <JapaneseText>プルートは
 地下世界で力をつけた。
 奴を討たねば……</JapaneseText>
-      <EnglishText>Pluto's power emerges from the
-entirety of the underworld.
-To fight him is simply...</EnglishText>
+      <EnglishText>Pluto has grown stronger
+in his time below. If you
+do not defeat him, then...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310500</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_070_020&gt;</VoiceId>
       <JapaneseText>プルートを倒せば
 いんだな……。っし、わかった</JapaneseText>
-      <EnglishText>No sweat! We'll beat
-that Pluto guy!</EnglishText>
+      <EnglishText>So we just gotta defeat
+Pluto, yeah? Right, got it.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310568</PointerOffset>
@@ -191,37 +193,38 @@ that Pluto guy!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310628</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_070_022&gt;</VoiceId>
       <JapaneseText>待て</JapaneseText>
-      <EnglishText>Halt!</EnglishText>
+      <EnglishText>Wait.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310704</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_070_023&gt;</VoiceId>
       <JapaneseText>小さき者よ、おまえだ</JapaneseText>
-      <EnglishText>Small one, we must speak.</EnglishText>
+      <EnglishText>Little one.
+*You*.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310768</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_070_024&gt;</VoiceId>
       <JapaneseText>ぼく……！？</JapaneseText>
-      <EnglishText>M-Me...!?</EnglishText>
+      <EnglishText>Me...!?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310872</PointerOffset>
@@ -229,68 +232,73 @@ that Pluto guy!</EnglishText>
       <JapaneseText>そうだ、おまえの
 知りたがっていた
 真実を教えよう</JapaneseText>
-      <EnglishText>Correct. I am about to disclose the
-one truth you desperately want.</EnglishText>
+      <EnglishText>Yes. I will tell you
+the truths you have
+long wished to know.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310952</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_070_026&gt;</VoiceId>
       <JapaneseText>ぼくのって……
 まさか……</JapaneseText>
-      <EnglishText>My truth...you don't mean...?</EnglishText>
+      <EnglishText>You don't mean...
+About me...?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311068</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_070_027&gt;</VoiceId>
       <JapaneseText>おまえは音を司る者</JapaneseText>
-      <EnglishText>You are none other than the ruler of sound.</EnglishText>
+      <EnglishText>You are the one
+who governs sound.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311068</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_070_028&gt;</VoiceId>
       <JapaneseText>音の精霊グラムロックだ</JapaneseText>
-      <EnglishText>Your true name is Glamrock,
-the Summon Spirit of Sound.</EnglishText>
+      <EnglishText>The Spirit of
+Sound, Glamrock.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311292</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_070_031&gt;</VoiceId>
       <JapaneseText>……ぼくが……
 音の精霊……</JapaneseText>
-      <EnglishText>I...am the Spirit of Sound...</EnglishText>
+      <EnglishText>...I'm...the
+Spirit of Sound...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>16</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311432</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_070_033&gt;</VoiceId>
       <JapaneseText>受け入れよ、
 これが真実だ</JapaneseText>
-      <EnglishText>It is the one irrefutable truth.</EnglishText>
+      <EnglishText>Accept it. It
+is the truth.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>17</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311624</PointerOffset>
@@ -298,12 +306,13 @@ the Summon Spirit of Sound.</EnglishText>
       <JapaneseText>だって、そんなこと
 突然言われても、
 ぼく、思い出せないシ……</JapaneseText>
-      <EnglishText>But...that's so sudden... Besides, I have
-no recollection of my identity...</EnglishText>
+      <EnglishText>But I don't remember
+anything, so I even if
+you tell me that, I...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>18</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311724</PointerOffset>
@@ -311,55 +320,57 @@ no recollection of my identity...</EnglishText>
       <JapaneseText>どうして、
 エトはそのことを
 忘れてたんですか？</JapaneseText>
-      <EnglishText>That's weird. Why would
-Eto forget such a thing?</EnglishText>
+      <EnglishText>Why has Ethos
+forgotten all
+those things?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>19</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311828</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_070_037&gt;</VoiceId>
       <JapaneseText>多くの過ちがゆえ……
 我がおまえから記憶を奪った</JapaneseText>
-      <EnglishText>This small one has committed too
-many sins... It was by my hand
-that its memories were erased.</EnglishText>
+      <EnglishText>Due to a great many
+mistakes... I have stolen
+your memories from you.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311892</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_070_038&gt;</VoiceId>
       <JapaneseText>あなたが……</JapaneseText>
-      <EnglishText>It was...you?</EnglishText>
+      <EnglishText>You did...?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>21</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311960</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_070_039&gt;</VoiceId>
       <JapaneseText>おまえは……</JapaneseText>
-      <EnglishText>You...</EnglishText>
+      <EnglishText>You are...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>22</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312036</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_070_040&gt;</VoiceId>
       <JapaneseText>それ以上、言わないでッ！</JapaneseText>
-      <EnglishText>Don't say anymore!</EnglishText>
+      <EnglishText>Stop! Don't
+say another word!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>23</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312152</PointerOffset>
@@ -367,22 +378,24 @@ that its memories were erased.</EnglishText>
       <JapaneseText>ぼくは思い出したくない……！
 そんなこと……
 そんなことしたラ……</JapaneseText>
-      <EnglishText>I really can't remember a thing...!
-So then...no more, please...!</EnglishText>
+      <EnglishText>I don't want to
+remember...! If I...
+If I did, then...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>24</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312224</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_070_042&gt;</VoiceId>
       <JapaneseText>何言ってんだよ！？</JapaneseText>
-      <EnglishText>What are you saying!?</EnglishText>
+      <EnglishText>What are you
+even saying!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>25</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312368</PointerOffset>
@@ -390,24 +403,26 @@ So then...no more, please...!</EnglishText>
       <JapaneseText>……だって、
 ぼく、今と違う自分に
 なっちゃうよ……</JapaneseText>
-      <EnglishText>I knew it... I wasn't
-what I thought I was...</EnglishText>
+      <EnglishText>...I'd...become someone
+else... I wouldn't be the
+same "me" anymore...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>26</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312368</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_070_044&gt;</VoiceId>
       <JapaneseText>それがこわいんだ……</JapaneseText>
-      <EnglishText>This is way too scary...</EnglishText>
+      <EnglishText>I'm scared... I
+don't...want that...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>26</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312588</PointerOffset>
@@ -417,53 +432,58 @@ what I thought I was...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>28</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312776</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_070_048&gt;</VoiceId>
       <JapaneseText>何、弱っちぃこと
 言ってんだよ</JapaneseText>
-      <EnglishText>What's all this weak talk?</EnglishText>
+      <EnglishText>The hell's that? You
+getting cold feet?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>29</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312776</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_070_049&gt;</VoiceId>
       <JapaneseText>……エトが今と違う
 エトになっても</JapaneseText>
-      <EnglishText>...You think you've lost yourself...</EnglishText>
+      <EnglishText>...I mean, c'mon.
+Even if you
+*were* different...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312776</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_070_050&gt;</VoiceId>
       <JapaneseText>これまでがなくなる
 わけじゃねーし</JapaneseText>
-      <EnglishText>But, to me you're just the same Eto as always.</EnglishText>
+      <EnglishText>...it wouldn't change
+all the time we've
+spent together, y'know.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>29</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312848</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_070_051&gt;</VoiceId>
       <JapaneseText>そうだよ、エト……</JapaneseText>
-      <EnglishText>He's right, Eto.</EnglishText>
+      <EnglishText>He's right, Ethos...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>32</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312908</PointerOffset>
@@ -473,7 +493,7 @@ what I thought I was...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>33</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>313084</PointerOffset>
@@ -481,13 +501,14 @@ what I thought I was...</EnglishText>
       <JapaneseText>……よかろう。
 受け入れるもよし、
 拒むのもまたよし</JapaneseText>
-      <EnglishText>...I see. You can accept or refuse
-this reality. Either path is adequate.</EnglishText>
+      <EnglishText>...Very well. You
+may accept it.
+You may reject it.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>34</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>313084</PointerOffset>
@@ -495,24 +516,24 @@ this reality. Either path is adequate.</EnglishText>
       <JapaneseText>すべてはおまえが、
 正しいと断じた方向へ
 進むがよい</JapaneseText>
-      <EnglishText>With the burden of all you are,
-it is up to you to press on
-with integrity and resolution.</EnglishText>
+      <EnglishText>In all things, you should
+only proceed as you
+judge to be right.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>34</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>313148</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_070_055&gt;</VoiceId>
       <JapaneseText>……わかった</JapaneseText>
-      <EnglishText>...I understand.</EnglishText>
+      <EnglishText>...Okay.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>36</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>313264</PointerOffset>
@@ -520,25 +541,25 @@ with integrity and resolution.</EnglishText>
       <JapaneseText>……では、改めて……
 &lt;Red&gt;ネルヴィの洞窟&lt;White&gt;……
 プルートのところへ！</JapaneseText>
-      <EnglishText>...This has to be resolved another
-time. Let's head to &lt;Red&gt;Norfi's Cave&lt;White&gt;,
-where Pluto lies!</EnglishText>
+      <EnglishText>...Then, once again...
+Let's go back to
+&lt;Red&gt;Nervi's Cavern&lt;White&gt;—to Pluto!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>37</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>313348</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_070_057&gt;</VoiceId>
       <JapaneseText>……ぼくが音の精霊？
 そんな……</JapaneseText>
-      <EnglishText>...I'm the Spirit of Sound?
-...That's just crazy...</EnglishText>
+      <EnglishText>...I'm the spirit
+of sound? I...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>38</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

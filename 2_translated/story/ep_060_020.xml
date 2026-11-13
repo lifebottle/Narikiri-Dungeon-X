@@ -8,7 +8,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278068</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278380,278472,278856,279164</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278572</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Klarth&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279056</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271709</PointerOffset>
@@ -90,22 +90,25 @@
       <VoiceId>&lt;audio:VSM_060_020_001&gt;</VoiceId>
       <JapaneseText>なんか、肌寒いし、
 歩きづらいし……</JapaneseText>
-      <EnglishText>What the... It's freezing here. It's hard to walk...</EnglishText>
+      <EnglishText>It's kinda chilly, isn't
+it...? And it's getting
+harder to walk...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277908</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_020_004&gt;</VoiceId>
       <JapaneseText>……マジ、この道、
 合ってんのか？</JapaneseText>
-      <EnglishText>Is this...where the paths meet?</EnglishText>
+      <EnglishText>...We sure this's
+the right way?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278072</PointerOffset>
@@ -113,11 +116,13 @@
       <JapaneseText>くんくん……
 風の匂いが
 こっちからするし……</JapaneseText>
-      <EnglishText>*sniff* There is something smelly in the air...</EnglishText>
+      <EnglishText>*sniff* *sniff*
+I can smell the
+wind, this way...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278168</PointerOffset>
@@ -125,11 +130,12 @@
       <JapaneseText>ははっ、
 &lt;Mel&gt;、ブタっぽい顔に
 なってんぜ</JapaneseText>
-      <EnglishText>Hah! &lt;Mel&gt;, you can tell us if you just let one go...</EnglishText>
+      <EnglishText>Haha, your face looks
+just like a pig's, &lt;Mel&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278264</PointerOffset>
@@ -137,12 +143,13 @@
       <JapaneseText>いちち……
 大体、風の匂いって
 どんなだよ？</JapaneseText>
-      <EnglishText>Ouch! Ugh, anyways, what did you
-mean by something smelly in the air?</EnglishText>
+      <EnglishText>Owowow... So, uh,
+what's the wind
+"smell" like, exactly?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278384</PointerOffset>
@@ -150,25 +157,26 @@ mean by something smelly in the air?</EnglishText>
       <JapaneseText>風の匂いはわかんないけど、
 ジメジメがないのは、空気が
 抜けてるから</JapaneseText>
-      <EnglishText>I don't know about the smell you're talking about, 
-considering it's pretty dry and the heavy atmosphere
-should have removed any trace of it.</EnglishText>
+      <EnglishText>Well, I don't know about smelling the
+wind, but it's less damp this way,
+so a lot of air must pass through...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278476</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_020_010&gt;</VoiceId>
       <JapaneseText>このまま進めば、
 外出られるね、きっと</JapaneseText>
-      <EnglishText>But I'm sure if we keep going, we
-should be able to find the exit! </EnglishText>
+      <EnglishText>If we keep going this
+way, we'll end up outside
+soon, I'm pretty sure.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278576</PointerOffset>
@@ -176,32 +184,36 @@ should be able to find the exit! </EnglishText>
       <JapaneseText>&lt;Rody&gt;……
 やっぱり君の目的は
 ダオスなのか？</JapaneseText>
-      <EnglishText>Rody...your real reason to be here is Dhaos, am I right?</EnglishText>
+      <EnglishText>&lt;Rody&gt;... You're still
+trying to reach
+Dhaos, aren't you?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278860</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_020_014&gt;</VoiceId>
       <JapaneseText>人の目的なんて
 そう簡単に変わんないよ</JapaneseText>
-      <EnglishText>People's motives don't change that easily...</EnglishText>
+      <EnglishText>My plans don't
+change that
+easily, you know.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279060</PointerOffset>
       <VoiceId>&lt;audio:VSM_060_020_016&gt;</VoiceId>
       <JapaneseText>でもダオスって……</JapaneseText>
-      <EnglishText>But Dhaos is...</EnglishText>
+      <EnglishText>But, Dhaos is...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279168</PointerOffset>
@@ -209,12 +221,13 @@ should be able to find the exit! </EnglishText>
       <JapaneseText>ま、私のことで
 時間潰すなんてムダだよね。
 ほら、行こ行こ</JapaneseText>
-      <EnglishText>Oh dear, look how much time we've
-been wasting! C'mon, let's move! </EnglishText>
+      <EnglishText>It's a waste to spend all this
+time thinking about me,
+anyway. Come on, let's go!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

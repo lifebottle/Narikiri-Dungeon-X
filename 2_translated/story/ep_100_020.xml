@@ -8,7 +8,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271636,271920</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271832</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271996</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>265397</PointerOffset>
@@ -81,21 +81,21 @@
       <PointerOffset>271572</PointerOffset>
       <VoiceId>&lt;audio:VSM_100_020_004&gt;</VoiceId>
       <JapaneseText>木が……</JapaneseText>
-      <EnglishText>The trees are...</EnglishText>
+      <EnglishText>The trees...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271640</PointerOffset>
       <VoiceId>&lt;audio:VSM_100_020_005&gt;</VoiceId>
       <JapaneseText>どういうこと？</JapaneseText>
-      <EnglishText>How did this happen?</EnglishText>
+      <EnglishText>What's do you mean?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271756</PointerOffset>
@@ -103,46 +103,49 @@
       <JapaneseText>前に『虹輪』は
 マナを消費しつくすって
 魔術師さんが言ってたけど</JapaneseText>
-      <EnglishText>If the Prism Ring is draining the Mana as
-that Magic Researcher said back during
-the beginning of our journey... </EnglishText>
+      <EnglishText>The wizard before told us
+the Prism Ring would use
+all the world's mana, and now...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271836</PointerOffset>
       <VoiceId>&lt;audio:VSM_100_020_007&gt;</VoiceId>
       <JapaneseText>まさか、
 魔術の暴走が原因？</JapaneseText>
-      <EnglishText>This can't be...because magic
-has run rampant, right?</EnglishText>
+      <EnglishText>Don't tell me.. That
+out-of-control
+magic's causing it?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271924</PointerOffset>
       <VoiceId>&lt;audio:VSM_100_020_008&gt;</VoiceId>
       <JapaneseText>鳥や動物の鳴き声も
 聞こえない……</JapaneseText>
-      <EnglishText>I can't...hear the animals or the birds chirp... </EnglishText>
+      <EnglishText>I can't hear the birds
+chirping or any other
+animal sounds, either...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272000</PointerOffset>
       <VoiceId>&lt;audio:VSM_100_020_009&gt;</VoiceId>
       <JapaneseText>クルール！　クルール！</JapaneseText>
-      <EnglishText>Kururu! Kururu! </EnglishText>
+      <EnglishText>Couleuru! Couleuru!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272092</PointerOffset>
@@ -150,11 +153,13 @@ has run rampant, right?</EnglishText>
       <JapaneseText>そうだね、
 早く魔術の暴走を
 止めないと！</JapaneseText>
-      <EnglishText>That's right! Let's stop this crisis once and for all!</EnglishText>
+      <EnglishText>You're right. We have
+to stop that magic
+as fast as we can!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

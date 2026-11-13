@@ -8,7 +8,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272812,273256</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272980</PointerOffset>
@@ -24,15 +24,15 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273176</PointerOffset>
       <JapaneseText>緋装束の少女</JapaneseText>
-      <EnglishText>Scarlet-Clad Girl</EnglishText>
+      <EnglishText>Red-Garbed Girl</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>266773</PointerOffset>
@@ -81,23 +81,23 @@
       <PointerOffset>272724</PointerOffset>
       <VoiceId>&lt;audio:VSM_190_020_000&gt;</VoiceId>
       <JapaneseText>女の子……！？</JapaneseText>
-      <EnglishText>A little girl...!?</EnglishText>
+      <EnglishText>A girl...!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272816</PointerOffset>
       <VoiceId>&lt;audio:VSM_190_020_001&gt;</VoiceId>
       <JapaneseText>でも、あの服……
 敵と同じ感じだよ！？</JapaneseText>
-      <EnglishText>But, those clothes... She's
-one of our enemies!?</EnglishText>
+      <EnglishText>But, those clothes... Is
+she with the enemy!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272924</PointerOffset>
@@ -105,56 +105,57 @@ one of our enemies!?</EnglishText>
       <JapaneseText>へん、こんな女の子くらい、
 オレひとりで
 じゅーぶんだぜ！</JapaneseText>
-      <EnglishText>Hah! I can handle this
-little kiddo all by myself!</EnglishText>
+      <EnglishText>Heh. If it's just a
+little girl, I can beat
+her all on my own!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272984</PointerOffset>
       <VoiceId>&lt;audio:VSM_190_020_003&gt;</VoiceId>
       <JapaneseText>お見事！</JapaneseText>
-      <EnglishText>He's got her! Not!</EnglishText>
+      <EnglishText>Ooh, nice one!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273072</PointerOffset>
       <VoiceId>&lt;audio:VSM_190_020_004&gt;</VoiceId>
       <JapaneseText>う、動かねー……
 は、はなせよ……！</JapaneseText>
-      <EnglishText>I-I can't move! Hey! Let go of
-my sword, that's cheating...!</EnglishText>
+      <EnglishText>I-I can't move...
+L-Lemme go...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273180</PointerOffset>
       <VoiceId>&lt;audio:VSM_190_020_005&gt;</VoiceId>
       <JapaneseText>わたしの手違いで拘束して
 申し訳ありませんでした</JapaneseText>
-      <EnglishText>I must apologize for the blunder
-of taking you into custody.</EnglishText>
-      <Notes/>
+      <EnglishText>I apologize for the
+mistake of restraining you.</EnglishText>
+      <Notes>need context</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>273260</PointerOffset>
       <VoiceId>&lt;audio:VSM_190_020_006&gt;</VoiceId>
       <JapaneseText>ど……どういうことですか？</JapaneseText>
-      <EnglishText>Wh-What do you mean?</EnglishText>
+      <EnglishText>Wha... What's going on?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

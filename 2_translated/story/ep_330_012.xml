@@ -8,7 +8,7 @@
       <EnglishText>Norn</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>333540,333684,333800,334948,335116,335448,335796,335880,335948,336156,336240,336760,337008</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>333620,333908,334880</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>333984,335232,335632,335724,336056,336676,336944,337072</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>334108</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>334240,334400</PointerOffset>
@@ -48,7 +48,7 @@
       <EnglishText>&lt;Arche&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>334312,334596</PointerOffset>
@@ -56,7 +56,7 @@
       <EnglishText>&lt;Klarth&gt;</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>334500</PointerOffset>
@@ -64,7 +64,7 @@
       <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>334680,334788</PointerOffset>
@@ -72,7 +72,7 @@
       <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>335032,337284</PointerOffset>
@@ -80,7 +80,7 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>335336,335524,336312,336404,336516,336600,336852,337156,337224,337364,337440,337520</PointerOffset>
@@ -88,7 +88,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>337588</PointerOffset>
@@ -96,7 +96,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>12</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>322549</PointerOffset>
@@ -146,12 +146,12 @@
       <VoiceId>&lt;audio:VSM_330_010_064&gt;</VoiceId>
       <JapaneseText>この強さが
 あなたがたの生きてきた証</JapaneseText>
-      <EnglishText>This strength is proof of
-the life you have lived.</EnglishText>
+      <EnglishText>This strength is proof
+that you once lived.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>333384</PointerOffset>
@@ -159,54 +159,57 @@ the life you have lived.</EnglishText>
       <JapaneseText>過ちを受け止めた
 あなたがたの覚悟、
 見せてもらいました</JapaneseText>
-      <EnglishText>I have witnessed your resolution
-to undo your wrongs.</EnglishText>
+      <EnglishText>I have watched you
+as you accepted
+your mistakes.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>333480</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_066&gt;</VoiceId>
       <JapaneseText>これで私の役目は終わりです。
 さようなら……</JapaneseText>
-      <EnglishText>With this...my duty is finished. Farewell...</EnglishText>
+      <EnglishText>With this, my role is
+complete. Farewell...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>333544</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_067&gt;</VoiceId>
       <JapaneseText>エト……！</JapaneseText>
-      <EnglishText>Eto...!</EnglishText>
+      <EnglishText>Ethos...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>333624</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_068&gt;</VoiceId>
       <JapaneseText>エトくんは
 無事みたいだね</JapaneseText>
-      <EnglishText>Seems Eto is fine.</EnglishText>
+      <EnglishText>It looks like
+she's fine.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>333688</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_069&gt;</VoiceId>
       <JapaneseText>ああ、うん</JapaneseText>
-      <EnglishText>Yes, she is.</EnglishText>
+      <EnglishText>Yeah, it does.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>333804</PointerOffset>
@@ -214,12 +217,13 @@ to undo your wrongs.</EnglishText>
       <JapaneseText>……&lt;Cless&gt;さんたち、
 こんなとこまでついて
 きてくれて……あんがと</JapaneseText>
-      <EnglishText>...You guys came all the
-way here for us. Thanks.</EnglishText>
+      <EnglishText>...Thanks for coming
+all this way with
+us, you guys.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>333912</PointerOffset>
@@ -227,22 +231,23 @@ way here for us. Thanks.</EnglishText>
       <JapaneseText>いいや……
 ここまで君たちと一緒に
 旅ができてよかったよ</JapaneseText>
-      <EnglishText>No, the one that should be glad is me.
-I'm happy I could journey with you.</EnglishText>
+      <EnglishText>It's fine... I'm glad we
+were able to travel
+with you to the end.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>333988</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_072&gt;</VoiceId>
       <JapaneseText>わたしたちもです……！</JapaneseText>
-      <EnglishText>We too!</EnglishText>
+      <EnglishText>I'm glad, too...!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>334112</PointerOffset>
@@ -250,12 +255,13 @@ I'm happy I could journey with you.</EnglishText>
       <JapaneseText>デリス・カーラーンで
 何があったか……
 それを知ることができましたし……</JapaneseText>
-      <EnglishText>We could also learn the truth of
-what happened to Derris Kharlan...</EnglishText>
+      <EnglishText>And now, we finally
+know...what happened
+on Derris-Kharlan...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>334244</PointerOffset>
@@ -263,57 +269,61 @@ what happened to Derris Kharlan...</EnglishText>
       <JapaneseText>うん……それに君たちが
 いてくれたから、&lt;Cless&gt;や&lt;Mint&gt;、
 &lt;Klarth&gt;もこうして生きてる</JapaneseText>
-      <EnglishText>Yeah...and thanks to you guys
-&lt;Cless&gt;, &lt;Mint&gt;, &lt;Chester&gt; and
-everyone is alive and well!</EnglishText>
+      <EnglishText>Yeah... And because of you
+guys, now &lt;Cless&gt; and &lt;Mint&gt; and
+&lt;Klarth&gt; all get to live, too.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>334316</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_075&gt;</VoiceId>
       <JapaneseText>ど、どういうことだ？</JapaneseText>
-      <EnglishText>Wh-What do you mean by that?</EnglishText>
+      <EnglishText>Wait, what?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>334404</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_076&gt;</VoiceId>
       <JapaneseText>え？　あ、気にしない、
 気にしない</JapaneseText>
-      <EnglishText>Oh, that? Don't worry, don't worry!</EnglishText>
+      <EnglishText>Eh? O-Oh, um, just...
+forget I said anything!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>334504</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_077&gt;</VoiceId>
       <JapaneseText>でも……ここで……
 こんな形でお別れなんてさ……</JapaneseText>
-      <EnglishText>Still...this is...this is a sad way to part.</EnglishText>
+      <EnglishText>But... To have
+to say goodbye
+here, like this...</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>14</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>334600</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_078&gt;</VoiceId>
       <JapaneseText>だが、これが、君たちの決意なら
 否定はしない</JapaneseText>
-      <EnglishText>But, if this is your decision,
-then I won't object.</EnglishText>
+      <EnglishText>But if that was their
+decision, it's not our
+place to reject it.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>15</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>334684</PointerOffset>
@@ -324,7 +334,7 @@ then I won't object.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>16</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>334792</PointerOffset>
@@ -332,12 +342,13 @@ then I won't object.</EnglishText>
       <JapaneseText>私、忘れません、
 あなたたちという
 友達がいたことを……</JapaneseText>
-      <EnglishText>I shall never forget about you.
-After all, we are friends...</EnglishText>
+      <EnglishText>I won't forget you.
+That I had friends
+like you two...</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>17</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>334884</PointerOffset>
@@ -345,43 +356,46 @@ After all, we are friends...</EnglishText>
       <JapaneseText>僕だって、
 いや、みんなも
 君たちの友達だ</JapaneseText>
-      <EnglishText>Me too. We are all your friends here.</EnglishText>
+      <EnglishText>I'm...no, *we're* all
+your friends, too.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>18</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>334952</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_082&gt;</VoiceId>
       <JapaneseText>&lt;Cless&gt;さん……</JapaneseText>
-      <EnglishText>Mister &lt;Cless&gt;...</EnglishText>
+      <EnglishText>&lt;Cless&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>19</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>335036</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_083&gt;</VoiceId>
       <JapaneseText>ふたりとも……
 消えかけて……</JapaneseText>
-      <EnglishText>You two...are vanishing...</EnglishText>
+      <EnglishText>You're dying...
+aren't you...?</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>20</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>335120</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_084&gt;</VoiceId>
       <JapaneseText>もうお別れって
 ことみたいだぜ</JapaneseText>
-      <EnglishText>It looks like it's time to say goodbye.</EnglishText>
+      <EnglishText>Yeah. I guess
+this is goodbye.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>21</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>335236</PointerOffset>
@@ -389,24 +403,26 @@ After all, we are friends...</EnglishText>
       <JapaneseText>ゴメンね、エト……
 エトをひとり置き去りに
 していくみたいになって</JapaneseText>
-      <EnglishText>I'm sorry, Eto...It's selfish of
-us to leave you all alone.</EnglishText>
+      <EnglishText>Sorry, Ethos... It's
+like we've gone
+and left you alone.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>22</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>335340</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_086&gt;</VoiceId>
       <JapaneseText>いやだよ……行かないで……
 ずっと一緒に楽しく……</JapaneseText>
-      <EnglishText>No...don't go... We can stay together
-and live a happy life...</EnglishText>
+      <EnglishText>Stop it... Don't go... I
+want to have live happily
+with you, forever...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>23</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>335452</PointerOffset>
@@ -414,12 +430,13 @@ and live a happy life...</EnglishText>
       <JapaneseText>なんだよ～、オレらの
 決断受け止めるって
 言ったじゃねーか！</JapaneseText>
-      <EnglishText>Hey! You said you wouldn't
-try to stop us before!</EnglishText>
+      <EnglishText>Oh, c'mon~ You were
+just sayin' you'd accept
+our decision, weren't you!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>24</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>335528</PointerOffset>
@@ -429,61 +446,65 @@ try to stop us before!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>25</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>335636</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_089&gt;</VoiceId>
       <JapaneseText>わたしも……もっともっと、
 エトと思い出作りたかったよ</JapaneseText>
-      <EnglishText>I...also wanted to create many,
-many memories together...</EnglishText>
+      <EnglishText>We wanted...to make
+lots more memories
+with you, too...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>26</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>335728</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_090&gt;</VoiceId>
       <JapaneseText>こんなとこで、
 お別れなんてイヤだよ……</JapaneseText>
-      <EnglishText>I don't want to say goodbye just yet...!</EnglishText>
+      <EnglishText>I don't wanna
+say goodbye... Not
+here, like this...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>27</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>335800</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_091&gt;</VoiceId>
       <JapaneseText>&lt;Mel&gt;まで何言っ……</JapaneseText>
-      <EnglishText>&lt;Mel&gt;, what are you saying...?</EnglishText>
+      <EnglishText>Hey, &lt;Mel&gt;, not you, t...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>28</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>335884</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_092&gt;</VoiceId>
       <JapaneseText>……なんだよ……
 決めたんだろ！</JapaneseText>
-      <EnglishText>...But, we decided...!</EnglishText>
+      <EnglishText>...Dammit... We already
+decided, didn't we!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>29</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>335952</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_093&gt;</VoiceId>
       <JapaneseText>オレ、らは……</JapaneseText>
-      <EnglishText>I...</EnglishText>
+      <EnglishText>We...'re...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>30</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>336060</PointerOffset>
@@ -491,57 +512,61 @@ many memories together...</EnglishText>
       <JapaneseText>楽しかったよ、エト。
 たくさんたくさん……
 思い出ありがと</JapaneseText>
-      <EnglishText>It was fun, Eto. Thank you for all you've
-done for us...and all the memories...</EnglishText>
+      <EnglishText>We were really happy,
+Ethos. Thank you for all
+those...wonderful memories.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>31</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>336160</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_095&gt;</VoiceId>
       <JapaneseText>……最後の、最後に……
 ツライ想いさせてゴメンな</JapaneseText>
-      <EnglishText>...Sorry that we had to make
-the very last moments sad...</EnglishText>
+      <EnglishText>...And at the very end
+of everything... I'm sorry,
+for making you sad.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>32</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>336244</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_096&gt;</VoiceId>
       <JapaneseText>オレってやっぱ
 親不孝もんかも</JapaneseText>
-      <EnglishText>We really are bad kids, huh?</EnglishText>
+      <EnglishText>I guess I am kind
+of a bad kid, huh?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>33</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>336316</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_097&gt;</VoiceId>
       <JapaneseText>そんなことない……</JapaneseText>
-      <EnglishText>That's not true...</EnglishText>
+      <EnglishText>No, you're not...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>34</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>336408</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_098&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;も、&lt;Mel&gt;も、
 いい子だったよ……</JapaneseText>
-      <EnglishText>&lt;Dio&gt; and &lt;Mel&gt;...You are
-really good kids...</EnglishText>
+      <EnglishText>&lt;Dio&gt; and &lt;Mel&gt;...
+are both, really
+good kids...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>35</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>336520</PointerOffset>
@@ -549,55 +574,61 @@ really good kids...</EnglishText>
       <JapaneseText>ぼくのかわいい双子だもん、
 いい子じゃないはずが
 ないでしょ</JapaneseText>
-      <EnglishText>You are my fair pair of twins. You
-will always be good kids to me.</EnglishText>
+      <EnglishText>I mean, you're my twin cuties,
+aren't you...? There's no way
+you wouldn't be good kids...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>36</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>336604</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_100&gt;</VoiceId>
       <JapaneseText>……でも、
 これきりだなんて……</JapaneseText>
-      <EnglishText>But...this can't be where it ends...</EnglishText>
+      <EnglishText>...But...for this to
+really be the end, I...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>37</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>336680</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_101&gt;</VoiceId>
       <JapaneseText>これきりじゃないよ、エト</JapaneseText>
-      <EnglishText>This isn't the end yet, Eto.</EnglishText>
+      <EnglishText>This isn't the
+end, Ethos.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>38</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>336764</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_102&gt;</VoiceId>
       <JapaneseText>全然大丈夫だって。
 また会える</JapaneseText>
-      <EnglishText>It's no problem at all! We'll meet again.</EnglishText>
+      <EnglishText>Yeah. It'll be
+perfectly fine.
+We'll meet again.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>39</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>336856</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_103&gt;</VoiceId>
       <JapaneseText>何言ってんの……
 きみたちは……もう……</JapaneseText>
-      <EnglishText>What are you saying...you are already...</EnglishText>
+      <EnglishText>What are you talking
+about...? You're already...</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>40</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>336948</PointerOffset>
@@ -605,21 +636,22 @@ will always be good kids to me.</EnglishText>
       <JapaneseText>ううん……
 ……そうだよ。
 きっと、そう</JapaneseText>
-      <EnglishText>No, I really do believe it...I'm sure...</EnglishText>
+      <EnglishText>No... He's right.
+I'm sure he's right.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>41</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>337012</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_105&gt;</VoiceId>
       <JapaneseText>また、いつか</JapaneseText>
-      <EnglishText>Someday...</EnglishText>
+      <EnglishText>Some day...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>42</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>337076</PointerOffset>
@@ -629,28 +661,29 @@ will always be good kids to me.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>43</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>337160</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_107&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;ーっ！！
 &lt;Mel&gt;ーっ！！</JapaneseText>
-      <EnglishText>&lt;Dio&gt;! &lt;Mel&gt;!</EnglishText>
+      <EnglishText>&lt;Dio&gt;...!
+&lt;Mel&gt;...!</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>44</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>337228</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_108&gt;</VoiceId>
       <JapaneseText>うっうううう……</JapaneseText>
-      <EnglishText>Uuuuuugggh...!</EnglishText>
+      <EnglishText>*crying*</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>45</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>337288</PointerOffset>
@@ -660,18 +693,19 @@ will always be good kids to me.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>46</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>337368</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_110&gt;</VoiceId>
       <JapaneseText>いつかって
 いつだよーっ！</JapaneseText>
-      <EnglishText>Someday? But...when!?</EnglishText>
+      <EnglishText>When is
+"some day"!?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>47</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>337444</PointerOffset>
@@ -681,29 +715,29 @@ will always be good kids to me.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>48</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>337524</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_112&gt;</VoiceId>
       <JapaneseText>どこかでって……
 どこで……</JapaneseText>
-      <EnglishText>Somewhere...you say...
-Where would I wait!?</EnglishText>
+      <EnglishText>Where is...
+"somewhere"...?</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>49</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>337592</PointerOffset>
       <VoiceId>&lt;audio:VSM_330_010_113&gt;</VoiceId>
       <JapaneseText>クルクゥル……</JapaneseText>
-      <EnglishText>Kuruuruu...</EnglishText>
+      <EnglishText>Coulucuulu...</EnglishText>
       <Notes/>
       <SpeakerId>12</SpeakerId>
       <Id>50</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

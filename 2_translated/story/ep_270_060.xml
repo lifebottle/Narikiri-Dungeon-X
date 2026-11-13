@@ -8,7 +8,7 @@
       <EnglishText>Dios</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>269692,269832,269920,270144</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>General Bandi</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>263569</PointerOffset>
@@ -66,45 +66,48 @@
       <VoiceId>&lt;audio:VSM_270_060_001&gt;</VoiceId>
       <JapaneseText>……父ちゃん、母ちゃん、
 行ってくるよ……</JapaneseText>
-      <EnglishText>...Mom...Dad...I'll do it...</EnglishText>
-      <Notes>tl check</Notes>
+      <EnglishText>...I'm going,
+Mom, Dad.</EnglishText>
+      <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>269588</PointerOffset>
       <VoiceId>&lt;audio:VSM_270_060_002&gt;</VoiceId>
       <JapaneseText>行って、絶対、仇を……</JapaneseText>
-      <EnglishText>I'll do it, I'll get my revenge...</EnglishText>
+      <EnglishText>I'm going, and I
+promise you...revenge...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>269696</PointerOffset>
       <VoiceId>&lt;audio:VSM_270_060_003&gt;</VoiceId>
       <JapaneseText>何をやっている、ディオス！
 すぐに持ち場へつけ！</JapaneseText>
-      <EnglishText>What are you doing loitering about, Dios!
-Go back to your position at once!</EnglishText>
+      <EnglishText>What are you doing,
+Dios!? Get to the
+standy point at once!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>269768</PointerOffset>
       <VoiceId>&lt;audio:VSM_270_060_004&gt;</VoiceId>
       <JapaneseText>はい！　父上……！</JapaneseText>
-      <EnglishText>Yes, father...!</EnglishText>
+      <EnglishText>Yes, Father!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>269836</PointerOffset>
@@ -114,18 +117,20 @@ Go back to your position at once!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>269924</PointerOffset>
       <VoiceId>&lt;audio:VSM_270_060_006&gt;</VoiceId>
       <JapaneseText>ようやく
 両親の仇を取れるな</JapaneseText>
-      <EnglishText>You're finally going to avenge your parents.</EnglishText>
+      <EnglishText>At last, you can
+take revenge for
+your parents.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270044</PointerOffset>
@@ -133,44 +138,45 @@ Go back to your position at once!</EnglishText>
       <JapaneseText>いえ……父上の望まれる
 デリス・カーラーンの平和を
 手に入れるために</JapaneseText>
-      <EnglishText>No...I'm doing this for father's desire
-for a peaceful Derris Kharlan...</EnglishText>
+      <EnglishText>No... This is for the peace of
+Derris-Kharlan, as is your wish.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270148</PointerOffset>
       <VoiceId>&lt;audio:VSM_270_060_008&gt;</VoiceId>
       <JapaneseText>平和……そうだな</JapaneseText>
-      <EnglishText>Peace... Yes, that's our goal.</EnglishText>
+      <EnglishText>Peace...
+Hm. I see.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270148</PointerOffset>
       <VoiceId>&lt;audio:VSM_270_060_009&gt;</VoiceId>
       <JapaneseText>……行け！</JapaneseText>
-      <EnglishText>Now, go!</EnglishText>
+      <EnglishText>...Go!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270212</PointerOffset>
       <VoiceId>&lt;audio:VSM_270_060_010&gt;</VoiceId>
       <JapaneseText>はっ……</JapaneseText>
-      <EnglishText>Yes sir...!</EnglishText>
+      <EnglishText>Understood...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
