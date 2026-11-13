@@ -8,7 +8,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298576,298736,298876,299024,299108,299272,299528,300180,300372,300528,300816</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298800</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298936,299168,299376,299720,300240,300464,300624</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>Dhaos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>292541</PointerOffset>
@@ -81,22 +81,23 @@
       <PointerOffset>298500</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_075_001&gt;</VoiceId>
       <JapaneseText>&lt;Rody&gt;、どうしたの？</JapaneseText>
-      <EnglishText>&lt;Rody&gt;, what happened?</EnglishText>
+      <EnglishText>What's wrong, &lt;Rody&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298580</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_075_002&gt;</VoiceId>
       <JapaneseText>ん？　いや……
 なんでもない</JapaneseText>
-      <EnglishText>Oh? No...it's nothing.</EnglishText>
+      <EnglishText>Hm? Oh, no...
+It's nothing.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298740</PointerOffset>
@@ -104,11 +105,13 @@
       <JapaneseText>ほら、
 ダオスのいるところまで
 あともう少しだよ</JapaneseText>
-      <EnglishText>It's a short ways to Dhaos from here.</EnglishText>
+      <EnglishText>C'mon, we've almost
+made it to Dhaos,
+haven't we?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298804</PointerOffset>
@@ -118,17 +121,17 @@
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298880</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_075_006&gt;</VoiceId>
       <JapaneseText>そこにいるんでしょ……？</JapaneseText>
-      <EnglishText>He's over there, isn't he...?</EnglishText>
+      <EnglishText>You're there, aren't you...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298940</PointerOffset>
@@ -138,7 +141,7 @@
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299028</PointerOffset>
@@ -146,23 +149,25 @@
       <JapaneseText>また……
 私を他の時間に
 飛ばす気？</JapaneseText>
-      <EnglishText>So...you want to send me to a different time again?</EnglishText>
+      <EnglishText>Are you...going to
+send me to another
+time, again?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299112</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_075_009&gt;</VoiceId>
       <JapaneseText>指輪だけ、
 時間転移しちゃったね</JapaneseText>
-      <EnglishText>Without the ring, you can't
-force me to time travel.</EnglishText>
+      <EnglishText>The ring has
+left on its own.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299172</PointerOffset>
@@ -172,19 +177,19 @@ force me to time travel.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299276</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_075_011&gt;</VoiceId>
       <JapaneseText>ゴメンね。あの指輪、
 大事にするって言ったのに……</JapaneseText>
-      <EnglishText>I'm sorry...you told me that
-ring was very important...</EnglishText>
+      <EnglishText>Sorry. I told you
+I'd cherish it, but...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299380</PointerOffset>
@@ -192,12 +197,13 @@ ring was very important...</EnglishText>
       <JapaneseText>今すぐ去れ……
 あの双子ともども
 消されたくなければ</JapaneseText>
-      <EnglishText>Leave now. Or else I will erase
-you along with those two.</EnglishText>
+      <EnglishText>Leave, now... If you do not
+wish to meet your fate
+together with those twins.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299532</PointerOffset>
@@ -205,24 +211,25 @@ you along with those two.</EnglishText>
       <JapaneseText>あの双子ちゃんを消すのは、
 デリス・カーラーンを
 滅ぼしたから？</JapaneseText>
-      <EnglishText>You want to erase them because
-they destroyed Derris Kharlan?</EnglishText>
+      <EnglishText>Do you want to kill those
+twins because they
+destroyed Derris-Kharlan?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299532</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_075_014&gt;</VoiceId>
       <JapaneseText>それは復讐なの？</JapaneseText>
-      <EnglishText>Is this your revenge?</EnglishText>
+      <EnglishText>Isn't that revenge?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299724</PointerOffset>
@@ -233,82 +240,85 @@ they destroyed Derris Kharlan?</EnglishText>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299724</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_075_016&gt;</VoiceId>
       <JapaneseText>この星と大樹カーラーンを
 守るため……</JapaneseText>
-      <EnglishText>This is to protect my dear land
-and the Great Kharlan Tree...</EnglishText>
+      <EnglishText>To protect this world, and
+the Great Tree Kharlan...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299724</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_075_017&gt;</VoiceId>
       <JapaneseText>再び同じ蛮行を繰り返す可能性の
 芽を潰さなければならない</JapaneseText>
-      <EnglishText>I will make sure they will never be able
-to repeat the same barbarity ever again.</EnglishText>
+      <EnglishText>To ensure they do not repeat that
+barbaric once act again, I must
+cut the possibility off at the root...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300184</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_075_018&gt;</VoiceId>
       <JapaneseText>……ダオス、もう帰ろう</JapaneseText>
-      <EnglishText>...Dhaos, please come back.</EnglishText>
+      <EnglishText>...Let's go back
+there, Dhaos.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300184</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_075_019&gt;</VoiceId>
       <JapaneseText>『大いなる実り』がなる
 あの森にさ</JapaneseText>
-      <EnglishText>In that forest, there's a Mana Seed.</EnglishText>
+      <EnglishText>To that forest, where
+the "Great Seed" grows.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300184</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_075_020&gt;</VoiceId>
       <JapaneseText>私、たくさんのこと、
 覚えてる</JapaneseText>
-      <EnglishText>All this time, I've been thinking
-about a lot of things.</EnglishText>
+      <EnglishText>I remember a
+lot of things.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300184</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_075_021&gt;</VoiceId>
       <JapaneseText>ご飯作って
 持っていった時のこととか</JapaneseText>
-      <EnglishText>The times I've yearned to simply cook
-and enjoy a meal with you again.</EnglishText>
+      <EnglishText>Like cooking you meals,
+and bringing them to you.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
       <BubbleId>3</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300184</PointerOffset>
@@ -316,13 +326,14 @@ and enjoy a meal with you again.</EnglishText>
       <JapaneseText>おいしいともマズイとも
 言わないんだもん、本当、
 作りがいないよ、アレ</JapaneseText>
-      <EnglishText>You never said if it was tasty or disgusting.
-Though honestly, I'm a worthless cook.</EnglishText>
+      <EnglishText>And, you know, you would never
+say whether you liked them or
+not, so there wasn't even a point.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
       <BubbleId>4</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300184</PointerOffset>
@@ -330,25 +341,28 @@ Though honestly, I'm a worthless cook.</EnglishText>
       <JapaneseText>星を見てる時も、
 ずっとあなたは故郷のことを
 思い出してたんでしょ？</JapaneseText>
-      <EnglishText>When we were stargazing, your home
-planet was always on your mind, right?</EnglishText>
+      <EnglishText>Whenever we looked up at the
+sky, you were always thinking
+of your homeland, weren't you?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
       <BubbleId>5</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300184</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_075_024&gt;</VoiceId>
       <JapaneseText>隣にあんな純情可憐な乙女が
 いたってのにさ</JapaneseText>
-      <EnglishText>Was there a cute girl waiting for you, maybe?</EnglishText>
+      <EnglishText>Even though there was
+such a pure and sweet
+young maiden by your side.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
       <BubbleId>6</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300244</PointerOffset>
@@ -358,7 +372,7 @@ planet was always on your mind, right?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>24</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300376</PointerOffset>
@@ -369,31 +383,33 @@ planet was always on your mind, right?</EnglishText>
       <SpeakerId>2</SpeakerId>
       <Id>25</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300376</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_075_027&gt;</VoiceId>
       <JapaneseText>あなたを救うために
 今の私に……何ができる？</JapaneseText>
-      <EnglishText>Right now...what can I do to save you?</EnglishText>
+      <EnglishText>What can I do
+now...to save you?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>25</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300468</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_075_028&gt;</VoiceId>
       <JapaneseText>残存思念となった我に
 もはや救いなどない</JapaneseText>
-      <EnglishText>I am nothing but a lingering recollection.
-It's too late to "save" me.</EnglishText>
+      <EnglishText>Now that I am nothing but
+these lingering feelings, it
+is too late to save me.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>27</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300628</PointerOffset>
@@ -401,45 +417,47 @@ It's too late to "save" me.</EnglishText>
       <JapaneseText>あの双子とともに
 来るのならば、来い、
 &lt;Rondoline&gt;</JapaneseText>
-      <EnglishText>If you plan to join the twins in
-their fate then come, &lt;Rondoline&gt;.</EnglishText>
+      <EnglishText>If you would come
+with those twins,
+then come, &lt;Rondoline&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>28</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300532</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_075_029&gt;</VoiceId>
       <JapaneseText>待ってよ！</JapaneseText>
-      <EnglishText>Hold on!</EnglishText>
+      <EnglishText>Hey, wait!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>29</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300820</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_075_032&gt;</VoiceId>
       <JapaneseText>私はあなたと
 戦いたくない……</JapaneseText>
-      <EnglishText>I really don't want to fight you...</EnglishText>
+      <EnglishText>I don't want
+to fight you...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>30</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300820</PointerOffset>
       <VoiceId>&lt;audio:VSM_310_075_033&gt;</VoiceId>
       <JapaneseText>でも……</JapaneseText>
-      <EnglishText>But...!</EnglishText>
+      <EnglishText>But...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>30</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

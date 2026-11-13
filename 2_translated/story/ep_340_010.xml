@@ -8,15 +8,15 @@
       <EnglishText>Timid Boy</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268776</PointerOffset>
       <JapaneseText>やんちゃな女の子</JapaneseText>
-      <EnglishText>Mischievous Girl</EnglishText>
+      <EnglishText>Rambunctious Girl</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268848,268956</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>262701</PointerOffset>
@@ -74,32 +74,35 @@
       <VoiceId>&lt;audio:VSM_340_010_001&gt;</VoiceId>
       <JapaneseText>あぁあ～、取った！
 おねえちゃん、取った！</JapaneseText>
-      <EnglishText>Hey~ give it! Give it to me!</EnglishText>
+      <EnglishText>Waaaah, she stole it!
+My big sister stole it!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268780</PointerOffset>
       <VoiceId>&lt;audio:VSM_340_010_002&gt;</VoiceId>
       <JapaneseText>取ってないっ！
 これあたしのぉ！</JapaneseText>
-      <EnglishText>Nuh-uh! This is mine!</EnglishText>
+      <EnglishText>I didn't steal anything!
+This is mine!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268852</PointerOffset>
       <VoiceId>&lt;audio:VSM_340_010_003&gt;</VoiceId>
       <JapaneseText>もう……またやってる</JapaneseText>
-      <EnglishText>So...they are at it again...</EnglishText>
+      <EnglishText>Jeez... They're
+at it again.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268960</PointerOffset>
@@ -107,11 +110,12 @@
       <JapaneseText>ぼく、もう
 ひとりぼっちじゃないよ、
 &lt;Dio&gt;、&lt;Mel&gt;……</JapaneseText>
-      <EnglishText>I am not alone &lt;Dio&gt;, &lt;Mel&gt;...</EnglishText>
+      <EnglishText>I'm not alone
+anymore. &lt;Dio&gt;, &lt;Mel&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
