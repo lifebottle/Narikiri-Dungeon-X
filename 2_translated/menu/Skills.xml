@@ -7725,7 +7725,7 @@ Decreases elemental damage by 20%.</EnglishText>
     <Entry>
       <PointerOffset>17928</PointerOffset>
       <JapaneseText>熱毒耐性</JapaneseText>
-      <EnglishText>Poison Tolerance</EnglishText>
+      <EnglishText>Poison Immunity</EnglishText>
       <Notes/>
       <Id>897</Id>
       <Status>Editing</Status>
@@ -7733,7 +7733,7 @@ Decreases elemental damage by 20%.</EnglishText>
     <Entry>
       <PointerOffset>17932</PointerOffset>
       <JapaneseText>熱毒にかからなくなる</JapaneseText>
-      <EnglishText>Provides immunity to Poison.</EnglishText>
+      <EnglishText>Grants immunity to poison.</EnglishText>
       <Notes/>
       <Id>898</Id>
       <Status>Editing</Status>
@@ -7741,7 +7741,7 @@ Decreases elemental damage by 20%.</EnglishText>
     <Entry>
       <PointerOffset>17968</PointerOffset>
       <JapaneseText>麻痺耐性</JapaneseText>
-      <EnglishText>Paralysis Tolerance</EnglishText>
+      <EnglishText>Paralysis Immunity</EnglishText>
       <Notes/>
       <Id>899</Id>
       <Status>Editing</Status>
@@ -7749,7 +7749,7 @@ Decreases elemental damage by 20%.</EnglishText>
     <Entry>
       <PointerOffset>17972</PointerOffset>
       <JapaneseText>麻痺にかからなくなる</JapaneseText>
-      <EnglishText>Provides immunity to Paralysis.</EnglishText>
+      <EnglishText>Grants immunity to paralysis.</EnglishText>
       <Notes/>
       <Id>900</Id>
       <Status>Editing</Status>
@@ -7757,7 +7757,7 @@ Decreases elemental damage by 20%.</EnglishText>
     <Entry>
       <PointerOffset>18008</PointerOffset>
       <JapaneseText>石化耐性</JapaneseText>
-      <EnglishText>Petrify Tolerance</EnglishText>
+      <EnglishText>Petrification Immunity</EnglishText>
       <Notes/>
       <Id>901</Id>
       <Status>Editing</Status>
@@ -7765,7 +7765,7 @@ Decreases elemental damage by 20%.</EnglishText>
     <Entry>
       <PointerOffset>18012</PointerOffset>
       <JapaneseText>石化にかからなくなる</JapaneseText>
-      <EnglishText>Provides immunity to Petrification.</EnglishText>
+      <EnglishText>Grants immunity to petrification.</EnglishText>
       <Notes/>
       <Id>902</Id>
       <Status>Editing</Status>
@@ -7773,7 +7773,7 @@ Decreases elemental damage by 20%.</EnglishText>
     <Entry>
       <PointerOffset>18048</PointerOffset>
       <JapaneseText>睡眠耐性</JapaneseText>
-      <EnglishText>Sleep Tolerance</EnglishText>
+      <EnglishText>Sleep Immunity</EnglishText>
       <Notes/>
       <Id>903</Id>
       <Status>Editing</Status>
@@ -7781,7 +7781,7 @@ Decreases elemental damage by 20%.</EnglishText>
     <Entry>
       <PointerOffset>18052</PointerOffset>
       <JapaneseText>睡眠にかからなくなる</JapaneseText>
-      <EnglishText>Provides immunity to Sleep.</EnglishText>
+      <EnglishText>Grants immunity to sleep.</EnglishText>
       <Notes/>
       <Id>904</Id>
       <Status>Editing</Status>
@@ -7789,7 +7789,7 @@ Decreases elemental damage by 20%.</EnglishText>
     <Entry>
       <PointerOffset>18088</PointerOffset>
       <JapaneseText>沈黙耐性</JapaneseText>
-      <EnglishText>Seal Tolerance</EnglishText>
+      <EnglishText>Seal Immunity</EnglishText>
       <Notes/>
       <Id>905</Id>
       <Status>Editing</Status>
@@ -7797,7 +7797,7 @@ Decreases elemental damage by 20%.</EnglishText>
     <Entry>
       <PointerOffset>18092</PointerOffset>
       <JapaneseText>沈黙にかからなくなる</JapaneseText>
-      <EnglishText>Provides immunity to Seal.</EnglishText>
+      <EnglishText>Grants immunity to sealing.</EnglishText>
       <Notes/>
       <Id>906</Id>
       <Status>Editing</Status>
@@ -7805,7 +7805,7 @@ Decreases elemental damage by 20%.</EnglishText>
     <Entry>
       <PointerOffset>18128</PointerOffset>
       <JapaneseText>暗闇耐性</JapaneseText>
-      <EnglishText>Blind Tolerance</EnglishText>
+      <EnglishText>Blind Immunity</EnglishText>
       <Notes/>
       <Id>907</Id>
       <Status>Editing</Status>
@@ -7813,7 +7813,7 @@ Decreases elemental damage by 20%.</EnglishText>
     <Entry>
       <PointerOffset>18132</PointerOffset>
       <JapaneseText>暗闇にかからなくなる</JapaneseText>
-      <EnglishText>Provides immunity to Blind.</EnglishText>
+      <EnglishText>Grants immunity to blindness.</EnglishText>
       <Notes/>
       <Id>908</Id>
       <Status>Editing</Status>
@@ -7821,7 +7821,7 @@ Decreases elemental damage by 20%.</EnglishText>
     <Entry>
       <PointerOffset>18168</PointerOffset>
       <JapaneseText>全状態異常耐性</JapaneseText>
-      <EnglishText>Stat Tolerance</EnglishText>
+      <EnglishText>Physical Immunity</EnglishText>
       <Notes/>
       <Id>909</Id>
       <Status>Editing</Status>
@@ -7829,7 +7829,8 @@ Decreases elemental damage by 20%.</EnglishText>
     <Entry>
       <PointerOffset>18172</PointerOffset>
       <JapaneseText>全状態異常にかからなくなる</JapaneseText>
-      <EnglishText>Provides immunity to all negative stat changes.</EnglishText>
+      <EnglishText>Grants immunity to all
+physical ailments.</EnglishText>
       <Notes/>
       <Id>910</Id>
       <Status>Editing</Status>
@@ -7837,7 +7838,7 @@ Decreases elemental damage by 20%.</EnglishText>
     <Entry>
       <PointerOffset>18208</PointerOffset>
       <JapaneseText>全状態異常軽減</JapaneseText>
-      <EnglishText>Status Reduction</EnglishText>
+      <EnglishText>Physical Tolerance</EnglishText>
       <Notes/>
       <Id>911</Id>
       <Status>Editing</Status>
@@ -7845,7 +7846,8 @@ Decreases elemental damage by 20%.</EnglishText>
     <Entry>
       <PointerOffset>18212</PointerOffset>
       <JapaneseText>全状態異常持続時間を半分にする</JapaneseText>
-      <EnglishText>Halves the duration of all abnormal status.</EnglishText>
+      <EnglishText>Halves the duration of
+all physical ailments.</EnglishText>
       <Notes/>
       <Id>912</Id>
       <Status>Editing</Status>
@@ -7853,7 +7855,7 @@ Decreases elemental damage by 20%.</EnglishText>
     <Entry>
       <PointerOffset>18248</PointerOffset>
       <JapaneseText>全状態変化耐性</JapaneseText>
-      <EnglishText>Status Immunity</EnglishText>
+      <EnglishText>Magical Immunity</EnglishText>
       <Notes/>
       <Id>913</Id>
       <Status>Editing</Status>
@@ -7861,7 +7863,8 @@ Decreases elemental damage by 20%.</EnglishText>
     <Entry>
       <PointerOffset>18252</PointerOffset>
       <JapaneseText>全状態変化にかからなくなる</JapaneseText>
-      <EnglishText>Provides immunity to all abnormal status.</EnglishText>
+      <EnglishText>Grants immunity to all
+magical ailments.</EnglishText>
       <Notes/>
       <Id>914</Id>
       <Status>Editing</Status>
@@ -7869,7 +7872,7 @@ Decreases elemental damage by 20%.</EnglishText>
     <Entry>
       <PointerOffset>18288</PointerOffset>
       <JapaneseText>全状態変化軽減</JapaneseText>
-      <EnglishText>Stat Mitigation</EnglishText>
+      <EnglishText>Magical Tolerance</EnglishText>
       <Notes/>
       <Id>915</Id>
       <Status>Editing</Status>
@@ -7877,7 +7880,8 @@ Decreases elemental damage by 20%.</EnglishText>
     <Entry>
       <PointerOffset>18292</PointerOffset>
       <JapaneseText>全状態変化持続時間を半分にする</JapaneseText>
-      <EnglishText>Halves the duration of all negative stat changes.</EnglishText>
+      <EnglishText>Halves the duration of
+all magical ailments.</EnglishText>
       <Notes/>
       <Id>916</Id>
       <Status>Editing</Status>
@@ -7893,7 +7897,8 @@ Decreases elemental damage by 20%.</EnglishText>
     <Entry>
       <PointerOffset>18332</PointerOffset>
       <JapaneseText>与えたダメージの１％のＨＰを回復する</JapaneseText>
-      <EnglishText>Recovers 1% of damage as HP.</EnglishText>
+      <EnglishText>Recovers 1% of outgoing
+damage as HP.</EnglishText>
       <Notes/>
       <Id>918</Id>
       <Status>Editing</Status>
@@ -7909,7 +7914,8 @@ Decreases elemental damage by 20%.</EnglishText>
     <Entry>
       <PointerOffset>18372</PointerOffset>
       <JapaneseText>与えたダメージの３％のＨＰを回復する</JapaneseText>
-      <EnglishText>Recovers 3% of damage as HP.</EnglishText>
+      <EnglishText>Recovers 3% of outgoing
+damage as HP.</EnglishText>
       <Notes/>
       <Id>920</Id>
       <Status>Editing</Status>

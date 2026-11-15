@@ -11624,7 +11624,7 @@ great resistance to lightning.</EnglishText>
     <Entry>
       <PointerOffset>37052</PointerOffset>
       <JapaneseText>ウィンドマント</JapaneseText>
-      <EnglishText>Wind Cape</EnglishText>
+      <EnglishText>Wind Mantle</EnglishText>
       <Notes/>
       <Id>1324</Id>
       <Status>Editing</Status>
@@ -11677,7 +11677,7 @@ great resistance to wind.</EnglishText>
     <Entry>
       <PointerOffset>37220</PointerOffset>
       <JapaneseText>アースマント</JapaneseText>
-      <EnglishText>Earth Cape</EnglishText>
+      <EnglishText>Earth Mantle</EnglishText>
       <Notes/>
       <Id>1330</Id>
       <Status>Editing</Status>
@@ -11730,7 +11730,7 @@ great resistance to earth.</EnglishText>
     <Entry>
       <PointerOffset>37388</PointerOffset>
       <JapaneseText>ファイアマント</JapaneseText>
-      <EnglishText>Fire Cape</EnglishText>
+      <EnglishText>Fire Mantle</EnglishText>
       <Notes/>
       <Id>1336</Id>
       <Status>Editing</Status>
@@ -11783,7 +11783,7 @@ great resistance to fire.</EnglishText>
     <Entry>
       <PointerOffset>37556</PointerOffset>
       <JapaneseText>ダークマント</JapaneseText>
-      <EnglishText>Dark Cape</EnglishText>
+      <EnglishText>Dark Mantle</EnglishText>
       <Notes/>
       <Id>1342</Id>
       <Status>Editing</Status>
@@ -11836,7 +11836,7 @@ great resistance to darkness.</EnglishText>
     <Entry>
       <PointerOffset>37724</PointerOffset>
       <JapaneseText>ライトマント</JapaneseText>
-      <EnglishText>Light Cape</EnglishText>
+      <EnglishText>Light Mantle</EnglishText>
       <Notes/>
       <Id>1348</Id>
       <Status>Editing</Status>
@@ -12276,8 +12276,8 @@ Water Res. + 50%</EnglishText>
       <PointerOffset>39132</PointerOffset>
       <JapaneseText>シノビが水上を移動する時に使う靴。
 普通の人が履くと沈んでしまう</JapaneseText>
-      <EnglishText>Shoes shinobi use to run on water. Even
-with them, an ordinary person will still sink.</EnglishText>
+      <EnglishText>"Water Spider" shoes shinobi use to run on water.
+Even with them, an ordinary person will still sink.</EnglishText>
       <Notes/>
       <Id>1398</Id>
       <Status>Editing</Status>
@@ -12293,7 +12293,8 @@ with them, an ordinary person will still sink.</EnglishText>
     <Entry>
       <PointerOffset>39212</PointerOffset>
       <JapaneseText>状態異常『熱毒』の持続時間を半分にする</JapaneseText>
-      <EnglishText>Halves Poison status duration.</EnglishText>
+      <EnglishText>Halves duration of the
+physical ailment, "Poison."</EnglishText>
       <Notes/>
       <Id>1400</Id>
       <Status>Editing</Status>
@@ -12301,8 +12302,8 @@ with them, an ordinary person will still sink.</EnglishText>
     <Entry>
       <PointerOffset>39216</PointerOffset>
       <JapaneseText>熱毒の状態異常を早く治せるお守り</JapaneseText>
-      <EnglishText>An amulet that increases recovery
-rate from the Poison status.</EnglishText>
+      <EnglishText>A charm which hastens one's
+recovery from poisoning.</EnglishText>
       <Notes/>
       <Id>1401</Id>
       <Status>Editing</Status>
@@ -12318,7 +12319,8 @@ rate from the Poison status.</EnglishText>
     <Entry>
       <PointerOffset>39296</PointerOffset>
       <JapaneseText>状態異常『熱毒』にかからなくなる</JapaneseText>
-      <EnglishText>Provides immunity to Poison.</EnglishText>
+      <EnglishText>Grants immunity to the
+physical ailment, "Poison."</EnglishText>
       <Notes/>
       <Id>1403</Id>
       <Status>Editing</Status>
@@ -12326,8 +12328,8 @@ rate from the Poison status.</EnglishText>
     <Entry>
       <PointerOffset>39300</PointerOffset>
       <JapaneseText>熱毒の状態異常を防ぐお守り</JapaneseText>
-      <EnglishText>An amulet that prevents the
-Poison status.</EnglishText>
+      <EnglishText>A charm which
+prevents poisoning.</EnglishText>
       <Notes/>
       <Id>1404</Id>
       <Status>Editing</Status>
@@ -12343,7 +12345,8 @@ Poison status.</EnglishText>
     <Entry>
       <PointerOffset>39380</PointerOffset>
       <JapaneseText>状態異常『麻痺』の持続時間を半分にする</JapaneseText>
-      <EnglishText>Halves Paralysis status duration.</EnglishText>
+      <EnglishText>Halves duration of the
+physical ailment, "Paralysis."</EnglishText>
       <Notes/>
       <Id>1406</Id>
       <Status>Editing</Status>
@@ -12351,8 +12354,8 @@ Poison status.</EnglishText>
     <Entry>
       <PointerOffset>39384</PointerOffset>
       <JapaneseText>麻痺の状態異常を早く治せるお守り</JapaneseText>
-      <EnglishText>An amulet that increases recovery
-rate from the Paralysis status.</EnglishText>
+      <EnglishText>A charm which hastens one's
+recovery from paralysis.</EnglishText>
       <Notes/>
       <Id>1407</Id>
       <Status>Editing</Status>
@@ -12368,7 +12371,8 @@ rate from the Paralysis status.</EnglishText>
     <Entry>
       <PointerOffset>39464</PointerOffset>
       <JapaneseText>状態異常『麻痺』にかからなくなる</JapaneseText>
-      <EnglishText>Provides immunity to Paralysis.</EnglishText>
+      <EnglishText>Grants immunity to the
+physical ailment, "Paralysis."</EnglishText>
       <Notes/>
       <Id>1409</Id>
       <Status>Editing</Status>
@@ -12376,8 +12380,8 @@ rate from the Paralysis status.</EnglishText>
     <Entry>
       <PointerOffset>39468</PointerOffset>
       <JapaneseText>麻痺の状態異常を防ぐお守り</JapaneseText>
-      <EnglishText>An amulet that prevents the
-Paralysis status.</EnglishText>
+      <EnglishText>A charm which
+prevents paralysis.</EnglishText>
       <Notes/>
       <Id>1410</Id>
       <Status>Editing</Status>
@@ -12393,7 +12397,8 @@ Paralysis status.</EnglishText>
     <Entry>
       <PointerOffset>39548</PointerOffset>
       <JapaneseText>状態異常『石化』の持続時間を半分にする</JapaneseText>
-      <EnglishText>Halves Petrify status duration.</EnglishText>
+      <EnglishText>Halves duration of the
+physical ailment, "Petrification."</EnglishText>
       <Notes/>
       <Id>1412</Id>
       <Status>Editing</Status>
@@ -12401,8 +12406,8 @@ Paralysis status.</EnglishText>
     <Entry>
       <PointerOffset>39552</PointerOffset>
       <JapaneseText>石化の状態異常を早く治せるお守り</JapaneseText>
-      <EnglishText>An amulet that increases recovery
-rate from the Petrification status.</EnglishText>
+      <EnglishText>A charm which hastens one's
+recovery from petrification.</EnglishText>
       <Notes/>
       <Id>1413</Id>
       <Status>Editing</Status>
@@ -12418,7 +12423,8 @@ rate from the Petrification status.</EnglishText>
     <Entry>
       <PointerOffset>39632</PointerOffset>
       <JapaneseText>状態異常『石化』にかからなくなる</JapaneseText>
-      <EnglishText>Provides immunity to Petrification.</EnglishText>
+      <EnglishText>Grants immunity to the
+physical ailment, "Petrification.</EnglishText>
       <Notes/>
       <Id>1415</Id>
       <Status>Editing</Status>
@@ -12426,8 +12432,8 @@ rate from the Petrification status.</EnglishText>
     <Entry>
       <PointerOffset>39636</PointerOffset>
       <JapaneseText>石化の状態異常を防ぐお守り</JapaneseText>
-      <EnglishText>An amulet that prevents the
-Petrification status.</EnglishText>
+      <EnglishText>A charm which
+prevents petrification.</EnglishText>
       <Notes/>
       <Id>1416</Id>
       <Status>Editing</Status>
@@ -12443,7 +12449,8 @@ Petrification status.</EnglishText>
     <Entry>
       <PointerOffset>39716</PointerOffset>
       <JapaneseText>状態異常『睡眠』の持続時間を半分にする</JapaneseText>
-      <EnglishText>Halves Sleep status duration.</EnglishText>
+      <EnglishText>Halves duration of the
+physical ailment, "Sleep."</EnglishText>
       <Notes/>
       <Id>1418</Id>
       <Status>Editing</Status>
@@ -12451,8 +12458,8 @@ Petrification status.</EnglishText>
     <Entry>
       <PointerOffset>39720</PointerOffset>
       <JapaneseText>睡眠の状態異常を早く治せるお守り</JapaneseText>
-      <EnglishText>An amulet that increases recovery
-rate from the Sleep status.</EnglishText>
+      <EnglishText>A charm which hastens one's
+awakening from sleep.</EnglishText>
       <Notes/>
       <Id>1419</Id>
       <Status>Editing</Status>
@@ -12468,7 +12475,8 @@ rate from the Sleep status.</EnglishText>
     <Entry>
       <PointerOffset>39800</PointerOffset>
       <JapaneseText>状態異常『睡眠』にかからなくなる</JapaneseText>
-      <EnglishText>Provides immunity to Sleep.</EnglishText>
+      <EnglishText>Grants immunity to the
+physical ailment, "Sleep."</EnglishText>
       <Notes/>
       <Id>1421</Id>
       <Status>Editing</Status>
@@ -12476,8 +12484,8 @@ rate from the Sleep status.</EnglishText>
     <Entry>
       <PointerOffset>39804</PointerOffset>
       <JapaneseText>睡眠の状態異常を防ぐお守り</JapaneseText>
-      <EnglishText>An amulet that prevents the
-Sleep status.</EnglishText>
+      <EnglishText>A charm which
+prevents falling asleep.</EnglishText>
       <Notes/>
       <Id>1422</Id>
       <Status>Editing</Status>
@@ -12493,7 +12501,8 @@ Sleep status.</EnglishText>
     <Entry>
       <PointerOffset>39884</PointerOffset>
       <JapaneseText>状態異常『封印』の持続時間を半分にする</JapaneseText>
-      <EnglishText>Halves Seal status duration.</EnglishText>
+      <EnglishText>Halves duration of the
+physical ailment, "Seal."</EnglishText>
       <Notes/>
       <Id>1424</Id>
       <Status>Editing</Status>
@@ -12501,8 +12510,8 @@ Sleep status.</EnglishText>
     <Entry>
       <PointerOffset>39888</PointerOffset>
       <JapaneseText>封印の状態異常を早く治せるお守り</JapaneseText>
-      <EnglishText>An amulet that increases recovery
-rate from the Seal status.</EnglishText>
+      <EnglishText>A charm which hastens one's
+recovery from being sealed.</EnglishText>
       <Notes/>
       <Id>1425</Id>
       <Status>Editing</Status>
@@ -12518,7 +12527,8 @@ rate from the Seal status.</EnglishText>
     <Entry>
       <PointerOffset>39968</PointerOffset>
       <JapaneseText>状態異常『封印』にかからなくなる</JapaneseText>
-      <EnglishText>Provides immunity to Seal.</EnglishText>
+      <EnglishText>Grants immunity to the
+physical ailment, "Seal."</EnglishText>
       <Notes/>
       <Id>1427</Id>
       <Status>Editing</Status>
@@ -12526,8 +12536,8 @@ rate from the Seal status.</EnglishText>
     <Entry>
       <PointerOffset>39972</PointerOffset>
       <JapaneseText>封印の状態異常を防ぐお守り</JapaneseText>
-      <EnglishText>An amulet that prevents the
-Seal status.</EnglishText>
+      <EnglishText>A charm which
+prevents being sealed.</EnglishText>
       <Notes/>
       <Id>1428</Id>
       <Status>Editing</Status>
@@ -12543,7 +12553,8 @@ Seal status.</EnglishText>
     <Entry>
       <PointerOffset>40052</PointerOffset>
       <JapaneseText>状態異常『暗闇』の持続時間を半分にする</JapaneseText>
-      <EnglishText>Halves Blind status duration.</EnglishText>
+      <EnglishText>Halves duration of the
+physical ailment, "Blind."</EnglishText>
       <Notes/>
       <Id>1430</Id>
       <Status>Editing</Status>
@@ -12551,8 +12562,8 @@ Seal status.</EnglishText>
     <Entry>
       <PointerOffset>40056</PointerOffset>
       <JapaneseText>暗闇の状態異常を早く治せるお守り</JapaneseText>
-      <EnglishText>An amulet that increases recovery
-rate from the Blind status.</EnglishText>
+      <EnglishText>A charm which hastens one's
+recovery from being blinded.</EnglishText>
       <Notes/>
       <Id>1431</Id>
       <Status>Editing</Status>
@@ -12568,7 +12579,8 @@ rate from the Blind status.</EnglishText>
     <Entry>
       <PointerOffset>40136</PointerOffset>
       <JapaneseText>状態異常『暗闇』にかからなくなる</JapaneseText>
-      <EnglishText>Provides immunity to Blind.</EnglishText>
+      <EnglishText>Grants immunity to the
+physical ailment, "Blind."</EnglishText>
       <Notes/>
       <Id>1433</Id>
       <Status>Editing</Status>
@@ -12576,8 +12588,8 @@ rate from the Blind status.</EnglishText>
     <Entry>
       <PointerOffset>40140</PointerOffset>
       <JapaneseText>暗闇の状態異常を防ぐお守り</JapaneseText>
-      <EnglishText>An amulet that prevents the
-Blind status.</EnglishText>
+      <EnglishText>A charm which
+prevents blindness.</EnglishText>
       <Notes/>
       <Id>1434</Id>
       <Status>Editing</Status>
@@ -12593,7 +12605,8 @@ Blind status.</EnglishText>
     <Entry>
       <PointerOffset>40220</PointerOffset>
       <JapaneseText>全状態異常の持続時間を半分にする</JapaneseText>
-      <EnglishText>Halves the duration of all status effects.</EnglishText>
+      <EnglishText>Halves duration of all
+physical ailments.</EnglishText>
       <Notes/>
       <Id>1436</Id>
       <Status>Editing</Status>
@@ -12602,8 +12615,8 @@ Blind status.</EnglishText>
       <PointerOffset>40224</PointerOffset>
       <JapaneseText>あらゆる状態異常を早く治せる
 スーパーなお守り</JapaneseText>
-      <EnglishText>A super amulet that increases recovery
-rate from all status effects.</EnglishText>
+      <EnglishText>A super special charm which hastens
+one's recovery from all physical ailments.</EnglishText>
       <Notes/>
       <Id>1437</Id>
       <Status>Editing</Status>
@@ -12619,7 +12632,8 @@ rate from all status effects.</EnglishText>
     <Entry>
       <PointerOffset>40304</PointerOffset>
       <JapaneseText>全状態異常にかからなくなる</JapaneseText>
-      <EnglishText>Provides immunity to all status effects.</EnglishText>
+      <EnglishText>Grants immunity to all
+physical ailments.</EnglishText>
       <Notes/>
       <Id>1439</Id>
       <Status>Editing</Status>
@@ -12628,7 +12642,8 @@ rate from all status effects.</EnglishText>
       <PointerOffset>40308</PointerOffset>
       <JapaneseText>あらゆる状態異常を防ぐ
 ハイパーなお守り</JapaneseText>
-      <EnglishText>A hyper amulet that prevents all status effects.</EnglishText>
+      <EnglishText>An incredibly awesome charm which
+prevents all physical ailments.</EnglishText>
       <Notes/>
       <Id>1440</Id>
       <Status>Editing</Status>
@@ -12644,8 +12659,8 @@ rate from all status effects.</EnglishText>
     <Entry>
       <PointerOffset>40388</PointerOffset>
       <JapaneseText>全状態変化の持続時間を半分にする</JapaneseText>
-      <EnglishText>Halves the duration of all
-negative stat changes.</EnglishText>
+      <EnglishText>Halves duration of all
+magical ailments.</EnglishText>
       <Notes/>
       <Id>1442</Id>
       <Status>Editing</Status>
@@ -12654,8 +12669,8 @@ negative stat changes.</EnglishText>
       <PointerOffset>40392</PointerOffset>
       <JapaneseText>あらゆる状態変化の効果時間を半減する
 ウルトラなお守り</JapaneseText>
-      <EnglishText>An ultra amulet that halves the
-duration of negative stat changes.</EnglishText>
+      <EnglishText>A radically cool charm which reduces the
+effective duration of all magical ailments.</EnglishText>
       <Notes/>
       <Id>1443</Id>
       <Status>Editing</Status>
@@ -12671,8 +12686,8 @@ duration of negative stat changes.</EnglishText>
     <Entry>
       <PointerOffset>40472</PointerOffset>
       <JapaneseText>全状態変化にかからなくなる</JapaneseText>
-      <EnglishText>Provides immunity to all
-negative stat changes.</EnglishText>
+      <EnglishText>Grants immunity to all
+magical ailments.</EnglishText>
       <Notes/>
       <Id>1445</Id>
       <Status>Editing</Status>
@@ -12681,8 +12696,8 @@ negative stat changes.</EnglishText>
       <PointerOffset>40476</PointerOffset>
       <JapaneseText>あらゆる状態変化にかからなくなる
 グレートなお守り</JapaneseText>
-      <EnglishText>A great amulet that prevents all
-negative stat changes.</EnglishText>
+      <EnglishText>An out-of-this-world amazing charm which
+grants immunity to all magical ailments.</EnglishText>
       <Notes/>
       <Id>1446</Id>
       <Status>Editing</Status>
@@ -12698,7 +12713,8 @@ negative stat changes.</EnglishText>
     <Entry>
       <PointerOffset>40556</PointerOffset>
       <JapaneseText>与えたダメージの１％のＨＰを回復する</JapaneseText>
-      <EnglishText>Recovers 1% of damage as HP.</EnglishText>
+      <EnglishText>Recovers 1% of outgoing
+damage as HP.</EnglishText>
       <Notes/>
       <Id>1448</Id>
       <Status>Editing</Status>
@@ -12707,8 +12723,8 @@ negative stat changes.</EnglishText>
       <PointerOffset>40560</PointerOffset>
       <JapaneseText>癒しをイメージした紋章。
 敵からＨＰをわずかに吸収する力がある</JapaneseText>
-      <EnglishText>A crest that represents healing.
-Slightly absorbs enemy damage.</EnglishText>
+      <EnglishText>An emblem which represents healing. It has
+the power to absorb a little HP from enemies.</EnglishText>
       <Notes/>
       <Id>1449</Id>
       <Status>Editing</Status>
@@ -12724,7 +12740,8 @@ Slightly absorbs enemy damage.</EnglishText>
     <Entry>
       <PointerOffset>40640</PointerOffset>
       <JapaneseText>与えたダメージの３％のＨＰを回復する</JapaneseText>
-      <EnglishText>Recovers 3% of damage as HP.</EnglishText>
+      <EnglishText>Recovers 3% of outgoing
+damage as HP.</EnglishText>
       <Notes/>
       <Id>1451</Id>
       <Status>Editing</Status>
@@ -12733,8 +12750,8 @@ Slightly absorbs enemy damage.</EnglishText>
       <PointerOffset>40644</PointerOffset>
       <JapaneseText>癒しをイメージした豪華な紋章。
 敵からＨＰを吸収する力がある</JapaneseText>
-      <EnglishText>A luxurious crest that represents healing.
-Absorbs enemy damage.</EnglishText>
+      <EnglishText>A magnificent emblem which represents healing.
+Has the power to absorb HP from enemies.</EnglishText>
       <Notes/>
       <Id>1452</Id>
       <Status>Editing</Status>
@@ -12750,8 +12767,8 @@ Absorbs enemy damage.</EnglishText>
     <Entry>
       <PointerOffset>40724</PointerOffset>
       <JapaneseText>攻撃によって増加するＥＢＧに＋１０％追加</JapaneseText>
-      <EnglishText>Increases EBG gain from
-attacks by 10%.</EnglishText>
+      <EnglishText>Increases EBG gain
+from attacks by 10%.</EnglishText>
       <Notes/>
       <Id>1454</Id>
       <Status>Editing</Status>
@@ -12760,8 +12777,8 @@ attacks by 10%.</EnglishText>
       <PointerOffset>40728</PointerOffset>
       <JapaneseText>勇気をイメージした紋章。
 ＥＢＧ増加量をわずかに高める力がある</JapaneseText>
-      <EnglishText>A crest that represents courage.
-Slightly increases EBG growth.</EnglishText>
+      <EnglishText>An emblem which represents courage. Has
+the power to increase EBG gain a little.</EnglishText>
       <Notes/>
       <Id>1455</Id>
       <Status>Editing</Status>
@@ -12777,8 +12794,8 @@ Slightly increases EBG growth.</EnglishText>
     <Entry>
       <PointerOffset>40808</PointerOffset>
       <JapaneseText>攻撃によって増加するＥＢＧに＋２０％追加</JapaneseText>
-      <EnglishText>Increases EBG gain from
-attacks by 20%.</EnglishText>
+      <EnglishText>Increases EBG gain
+from attacks by 20%.</EnglishText>
       <Notes/>
       <Id>1457</Id>
       <Status>Editing</Status>
@@ -12787,8 +12804,8 @@ attacks by 20%.</EnglishText>
       <PointerOffset>40812</PointerOffset>
       <JapaneseText>勇気をイメージした豪華な紋章。
 ＥＢＧ増加量を高める力がある</JapaneseText>
-      <EnglishText>A luxurious crest that represents courage.
-Increases EBG growth.</EnglishText>
+      <EnglishText>A magnificent emblem which represents
+courage. Has the power to increase EBG gain.</EnglishText>
       <Notes/>
       <Id>1458</Id>
       <Status>Editing</Status>
@@ -12804,7 +12821,7 @@ Increases EBG growth.</EnglishText>
     <Entry>
       <PointerOffset>40892</PointerOffset>
       <JapaneseText>５秒毎、最大ＨＰの１％が自動で回復する</JapaneseText>
-      <EnglishText>Restores 1% of max hp
+      <EnglishText>Restores 1% of max HP
 every 5 seconds.</EnglishText>
       <Notes/>
       <Id>1460</Id>
@@ -12814,8 +12831,8 @@ every 5 seconds.</EnglishText>
       <PointerOffset>40896</PointerOffset>
       <JapaneseText>神聖さをイメージした紋章。
 着用者の傷を少しずつ癒す力がある</JapaneseText>
-      <EnglishText>A crest that represents holiness.
-Slowly heals wounds over time.</EnglishText>
+      <EnglishText>An emblem which represents holiness. Has
+the power to slowly heal its bearer's wounds.</EnglishText>
       <Notes/>
       <Id>1461</Id>
       <Status>Editing</Status>
@@ -12831,8 +12848,8 @@ Slowly heals wounds over time.</EnglishText>
     <Entry>
       <PointerOffset>40976</PointerOffset>
       <JapaneseText>２．５秒毎、最大ＨＰの１％が自動で回復する</JapaneseText>
-      <EnglishText>Every 2.5 seconds,
-restore 1% max HP.</EnglishText>
+      <EnglishText>Restores 1% of max HP
+every 2.5 seconds.</EnglishText>
       <Notes/>
       <Id>1463</Id>
       <Status>Editing</Status>
@@ -12841,8 +12858,8 @@ restore 1% max HP.</EnglishText>
       <PointerOffset>40980</PointerOffset>
       <JapaneseText>神聖さをイメージした豪華な紋章。
 着用者の傷を徐々に癒す力がある</JapaneseText>
-      <EnglishText>A luxurious crest that represents holiness.
-Heals wounds over time.</EnglishText>
+      <EnglishText>A magnificent emblem which represents holiness.
+Has the power to steadily heal its bearer's wounds.</EnglishText>
       <Notes/>
       <Id>1464</Id>
       <Status>Editing</Status>
@@ -12858,8 +12875,8 @@ Heals wounds over time.</EnglishText>
     <Entry>
       <PointerOffset>41060</PointerOffset>
       <JapaneseText>５秒毎、最大ＥＢＧの１％が自動で回復する</JapaneseText>
-      <EnglishText>Every 5 seconds,
-restore 1% EBG.</EnglishText>
+      <EnglishText>Restores 1% of max EBG
+every 5 seconds.</EnglishText>
       <Notes/>
       <Id>1466</Id>
       <Status>Editing</Status>
@@ -12868,8 +12885,8 @@ restore 1% EBG.</EnglishText>
       <PointerOffset>41064</PointerOffset>
       <JapaneseText>精神をイメージした紋章。
 ＥＢＧを少しずつ増加させる力がある</JapaneseText>
-      <EnglishText>A crest that represents the mind.
-Slowly recovers EBG over time.</EnglishText>
+      <EnglishText>An emblem which represents mind. Has
+the power to slowly increase EBG.</EnglishText>
       <Notes/>
       <Id>1467</Id>
       <Status>Editing</Status>
@@ -12885,8 +12902,8 @@ Slowly recovers EBG over time.</EnglishText>
     <Entry>
       <PointerOffset>41144</PointerOffset>
       <JapaneseText>２．５秒毎、最大ＥＢＧの１％が自動で回復する</JapaneseText>
-      <EnglishText>Every 2.5 seconds,
-restore 1% EBG.</EnglishText>
+      <EnglishText>Restores 1% of max EBG
+every 2.5 seconds.</EnglishText>
       <Notes/>
       <Id>1469</Id>
       <Status>Editing</Status>
@@ -12895,8 +12912,8 @@ restore 1% EBG.</EnglishText>
       <PointerOffset>41148</PointerOffset>
       <JapaneseText>精神をイメージした豪華な紋章。
 ＥＢＧを徐々に増加させる力がある</JapaneseText>
-      <EnglishText>A luxurious crest that represents the mind.
-Recovers EBG over time.</EnglishText>
+      <EnglishText>A magnificent emblem which represents mind.
+Has the power to steadily increase EBG.</EnglishText>
       <Notes/>
       <Id>1470</Id>
       <Status>Editing</Status>
@@ -12921,8 +12938,8 @@ Recovers EBG over time.</EnglishText>
       <PointerOffset>41232</PointerOffset>
       <JapaneseText>詠唱速度を向上させ、
 素早く術を発動できるようになる紋章</JapaneseText>
-      <EnglishText>A crest that increases
-casting speed.</EnglishText>
+      <EnglishText>An emblem which increases one's chanting
+speed, allowing spells to be cast quickly.</EnglishText>
       <Notes/>
       <Id>1473</Id>
       <Status>Editing</Status>
@@ -12947,8 +12964,7 @@ casting speed.</EnglishText>
       <PointerOffset>41316</PointerOffset>
       <JapaneseText>詠唱速度を大きく向上させ、
 より素早く術を発動できるようになる紋章</JapaneseText>
-      <EnglishText>A crest that greatly increases
-casting speed.</EnglishText>
+      <EnglishText>An emblem which greatly increases chanting speed, allowing spells to be cast even more quickly.</EnglishText>
       <Notes/>
       <Id>1476</Id>
       <Status>Editing</Status>
@@ -12973,8 +12989,8 @@ casting speed.</EnglishText>
       <PointerOffset>41400</PointerOffset>
       <JapaneseText>冒険の無事を祈って身につけるお守り。
 幸運が上昇する</JapaneseText>
-      <EnglishText>An amulet that increases your
-fortune by praying for a safe journey.</EnglishText>
+      <EnglishText>An emblem worn by adventurers praying
+for safe travels. It increases one's luck.</EnglishText>
       <Notes/>
       <Id>1479</Id>
       <Status>Editing</Status>
@@ -12982,7 +12998,7 @@ fortune by praying for a safe journey.</EnglishText>
     <Entry>
       <PointerOffset>41420</PointerOffset>
       <JapaneseText>フィートシンボル</JapaneseText>
-      <EnglishText>Feat Symbol</EnglishText>
+      <EnglishText>Warrior Symbol</EnglishText>
       <Notes/>
       <Id>1480</Id>
       <Status>Editing</Status>
@@ -12999,8 +13015,8 @@ fortune by praying for a safe journey.</EnglishText>
       <PointerOffset>41484</PointerOffset>
       <JapaneseText>偉大な戦士の紋章。
 物理攻撃力が上昇する</JapaneseText>
-      <EnglishText>A crest of a great warrior.
-Increases attack power.</EnglishText>
+      <EnglishText>The emblem of a great warrior.
+Increases physical attack power.</EnglishText>
       <Notes/>
       <Id>1482</Id>
       <Status>Editing</Status>
@@ -13016,7 +13032,7 @@ Increases attack power.</EnglishText>
     <Entry>
       <PointerOffset>41564</PointerOffset>
       <JapaneseText>クリティカル発生率アップ</JapaneseText>
-      <EnglishText>Increases critical rate.</EnglishText>
+      <EnglishText>Boosts Critical Hit rate.</EnglishText>
       <Notes/>
       <Id>1484</Id>
       <Status>Editing</Status>
@@ -13025,8 +13041,8 @@ Increases attack power.</EnglishText>
       <PointerOffset>41568</PointerOffset>
       <JapaneseText>敵の急所を突きやすくなる紋章。
 攻撃時にクリティカルが発生しやすくなる</JapaneseText>
-      <EnglishText>A crest that makes piercing the
-vital part of the enemy much easier.</EnglishText>
+      <EnglishText>An emblem which makes it easy
+to strike an enemy's vital points.</EnglishText>
       <Notes/>
       <Id>1485</Id>
       <Status>Editing</Status>
@@ -13034,16 +13050,16 @@ vital part of the enemy much easier.</EnglishText>
     <Entry>
       <PointerOffset>41588</PointerOffset>
       <JapaneseText>タスクフォース</JapaneseText>
-      <EnglishText>Task Force</EnglishText>
+      <EnglishText>Interceptor</EnglishText>
       <Notes/>
       <Id>1486</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>41648</PointerOffset>
       <JapaneseText>空を飛ぶ敵に対して物理ダメージが１．５倍になる</JapaneseText>
-      <EnglishText>Physical damage to flying enemies
-is increased by 1.5x.</EnglishText>
+      <EnglishText>Increases physical damage dealt
+to flying enemies by 50%.</EnglishText>
       <Notes/>
       <Id>1487</Id>
       <Status>Editing</Status>
@@ -13051,7 +13067,7 @@ is increased by 1.5x.</EnglishText>
     <Entry>
       <PointerOffset>41652</PointerOffset>
       <JapaneseText>空を飛んでいる敵に対して強くなれる装飾品</JapaneseText>
-      <EnglishText>An ornament that makes you
+      <EnglishText>An accessory which makes one
 stronger against flying enemies.</EnglishText>
       <Notes/>
       <Id>1488</Id>
@@ -13060,7 +13076,7 @@ stronger against flying enemies.</EnglishText>
     <Entry>
       <PointerOffset>41672</PointerOffset>
       <JapaneseText>ヤサカニノマガタマ</JapaneseText>
-      <EnglishText>Yakasani Jewel</EnglishText>
+      <EnglishText>Yasakani Magatama</EnglishText>
       <Notes/>
       <Id>1489</Id>
       <Status>Editing</Status>
@@ -13068,8 +13084,8 @@ stronger against flying enemies.</EnglishText>
     <Entry>
       <PointerOffset>41732</PointerOffset>
       <JapaneseText>悪魔種族に対して物理ダメージが１．５倍になる</JapaneseText>
-      <EnglishText>Physical damage to demons
-is increased by 1.5x.</EnglishText>
+      <EnglishText>Increases physical damage
+dealt to daemons by 50%.</EnglishText>
       <Notes/>
       <Id>1490</Id>
       <Status>Editing</Status>
@@ -13077,8 +13093,8 @@ is increased by 1.5x.</EnglishText>
     <Entry>
       <PointerOffset>41736</PointerOffset>
       <JapaneseText>悪魔系の敵に対して強くなれる装飾品</JapaneseText>
-      <EnglishText>An ornament that makes you
-stronger against demon enemies.</EnglishText>
+      <EnglishText>An accessory that makes one
+stronger against daemonic enemies.</EnglishText>
       <Notes/>
       <Id>1491</Id>
       <Status>Editing</Status>
@@ -13086,7 +13102,7 @@ stronger against demon enemies.</EnglishText>
     <Entry>
       <PointerOffset>41756</PointerOffset>
       <JapaneseText>デモンズシール</JapaneseText>
-      <EnglishText>Demon Seal</EnglishText>
+      <EnglishText>Demon's Seal</EnglishText>
       <Notes/>
       <Id>1492</Id>
       <Status>Editing</Status>
@@ -13095,8 +13111,8 @@ stronger against demon enemies.</EnglishText>
       <PointerOffset>41816</PointerOffset>
       <JapaneseText>戦闘終了後の獲得経験値が２倍となり、
 戦闘中に通常技しか使えなくなる</JapaneseText>
-      <EnglishText>Experience from battles is doubled,
-however artes are unusable.</EnglishText>
+      <EnglishText>Doubles experience gained at battle's end, but
+allows only "Normal" attacks to be used.</EnglishText>
       <Notes/>
       <Id>1493</Id>
       <Status>Editing</Status>
@@ -13105,8 +13121,8 @@ however artes are unusable.</EnglishText>
       <PointerOffset>41820</PointerOffset>
       <JapaneseText>その呪いは戦士を窮地に陥れ、
 試練によって一流の戦士へと育てる</JapaneseText>
-      <EnglishText>Curses the fighter into a critical
-situation that challenges them.</EnglishText>
+      <EnglishText>A curse which drives warriors into a corner.
+Through its ordeals, they grow stronger.</EnglishText>
       <Notes/>
       <Id>1494</Id>
       <Status>Editing</Status>
@@ -13124,7 +13140,7 @@ situation that challenges them.</EnglishText>
       <JapaneseText>幸運＋３０
 魔法『トラクタービーム』無効化</JapaneseText>
       <EnglishText>Luck + 30
-Nullifies Tractor Beam.</EnglishText>
+Nullifies the effects of "Tractor Beam."</EnglishText>
       <Notes/>
       <Id>1496</Id>
       <Status>Editing</Status>
@@ -13133,7 +13149,7 @@ Nullifies Tractor Beam.</EnglishText>
       <PointerOffset>41904</PointerOffset>
       <JapaneseText>ミントがとても大事にしているイヤリング</JapaneseText>
       <EnglishText>Earrings that are
-very important to Mint.</EnglishText>
+precious to Mint.</EnglishText>
       <Notes/>
       <Id>1497</Id>
       <Status>Editing</Status>
@@ -13842,7 +13858,8 @@ Reduces dark and earth elemental damage by 50%.</EnglishText>
     <Entry>
       <PointerOffset>44168</PointerOffset>
       <JapaneseText>全状態異常の持続時間を半分にする</JapaneseText>
-      <EnglishText>Halves the duration of all status effects.</EnglishText>
+      <EnglishText>Halves duration of all
+physical ailments.</EnglishText>
       <Notes/>
       <Id>1577</Id>
       <Status>Editing</Status>
