@@ -8,7 +8,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45360,46472</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45436,45688,46344</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45612,45796,45868,46008,46184,46408</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -42,7 +42,8 @@
       <VoiceId>&lt;audio:VCT_001_006_001&gt;</VoiceId>
       <JapaneseText>……あの魔物と一緒にいた仮面のヤツ、
 誰だったんだろ？</JapaneseText>
-      <EnglishText>That masked guy that was with the monsters back then... who the hell was he?</EnglishText>
+      <EnglishText>...So who the hell was that
+masked guy with the monsters?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -52,7 +53,7 @@
       <PointerOffset>45300</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_006_002&gt;</VoiceId>
       <JapaneseText>&lt;Couleur&gt;、おまえ知ってるか？</JapaneseText>
-      <EnglishText>&lt;Couleur&gt;, do you know anything?</EnglishText>
+      <EnglishText>Do you know, &lt;Couleur&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
@@ -62,7 +63,7 @@
       <PointerOffset>45364</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_006_003&gt;</VoiceId>
       <JapaneseText>クルール～？</JapaneseText>
-      <EnglishText>Kururu~?</EnglishText>
+      <EnglishText>Couleuru~?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
@@ -72,7 +73,8 @@
       <PointerOffset>45440</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_006_004&gt;</VoiceId>
       <JapaneseText>知らないみたいだね……</JapaneseText>
-      <EnglishText>It doesn't look like it knows anything...</EnglishText>
+      <EnglishText>It seems like
+they don't...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
@@ -83,7 +85,8 @@
       <VoiceId>&lt;audio:VCT_001_006_005&gt;</VoiceId>
       <JapaneseText>顔を隠さなきゃなんもできないって、
 どうせ、ろくでもないヤツだぜ</JapaneseText>
-      <EnglishText>He didn't want people to look at his face... what a pathetic creep!</EnglishText>
+      <EnglishText>Well, if they can't do anything without
+hiding their face, they gotta be a real jerk.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -103,7 +106,7 @@
       <PointerOffset>45692</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_006_007&gt;</VoiceId>
       <JapaneseText>&lt;Mel&gt;？　どうしたの？</JapaneseText>
-      <EnglishText>&lt;Mel&gt;, what's wrong?</EnglishText>
+      <EnglishText>&lt;Mel&gt;? What's up?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
@@ -114,7 +117,8 @@
       <VoiceId>&lt;audio:VCT_001_006_008&gt;</VoiceId>
       <JapaneseText>え、あ、ううん、あの人
 なんかなつかしい匂いがした……</JapaneseText>
-      <EnglishText>Err, ah, well, that person had a familiar feeling around him...</EnglishText>
+      <EnglishText>Eh, oh, umm... They smelled
+really familiar, somehow...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
@@ -124,7 +128,8 @@
       <PointerOffset>45872</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_006_009&gt;</VoiceId>
       <JapaneseText>気のせい、かな……</JapaneseText>
-      <EnglishText>Could it be my imagination?</EnglishText>
+      <EnglishText>Or maybe...I was
+imagining that...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
@@ -134,7 +139,8 @@
       <PointerOffset>45952</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_006_010&gt;</VoiceId>
       <JapaneseText>あ、それならオレもしたぜ？</JapaneseText>
-      <EnglishText>Now that you mention it, I think I kind of felt like that... I guess.</EnglishText>
+      <EnglishText>Oh, hey, I
+noticed that, too.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
@@ -155,7 +161,8 @@
       <VoiceId>&lt;audio:VCT_001_006_012&gt;</VoiceId>
       <JapaneseText>香ばしい匂い。
 あいつたぶんメシ食った後だぜ？</JapaneseText>
-      <EnglishText>That's smell sure did feel familiar! It smelled like meat, right?</EnglishText>
+      <EnglishText>It smelled delicious. They'd probably
+just eaten lunch, or somethin'.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
@@ -165,7 +172,7 @@
       <PointerOffset>46188</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_006_013&gt;</VoiceId>
       <JapaneseText>そういうんじゃなくて……</JapaneseText>
-      <EnglishText>That's not what I was talking about...</EnglishText>
+      <EnglishText>That's...not what I meant...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
@@ -176,7 +183,8 @@
       <VoiceId>&lt;audio:VCT_001_006_014&gt;</VoiceId>
       <JapaneseText>なんか腹へったよ、
 エト、食うもんないの？</JapaneseText>
-      <EnglishText>Oh man am I hungry! Eto don't you wanna eat too?</EnglishText>
+      <EnglishText>I'm kinda hungry. Do we
+have anything to eat, Ethos?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
@@ -186,7 +194,7 @@
       <PointerOffset>46348</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_006_015&gt;</VoiceId>
       <JapaneseText>きみねぇ……</JapaneseText>
-      <EnglishText>Oh you...</EnglishText>
+      <EnglishText>You're just...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
@@ -206,7 +214,7 @@
       <PointerOffset>46476</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_006_017&gt;</VoiceId>
       <JapaneseText>クルール～？</JapaneseText>
-      <EnglishText>Kururu~?</EnglishText>
+      <EnglishText>Couleuru~?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
