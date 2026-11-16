@@ -8,7 +8,7 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46728,46948,47092,47332,47500</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47424</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47644</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -41,7 +41,7 @@
       <PointerOffset>46632</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_017_001&gt;</VoiceId>
       <JapaneseText>おおっと……！</JapaneseText>
-      <EnglishText>Oops!</EnglishText>
+      <EnglishText>Oops...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -51,7 +51,8 @@
       <PointerOffset>46732</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_017_002&gt;</VoiceId>
       <JapaneseText>は～～～い！　んども、ども。おらアルベルトだ</JapaneseText>
-      <EnglishText>Hey, hey! Nice to meet you, cute pie! Name's Albert!</EnglishText>
+      <EnglishText>Hellooooooo, nurse! Mm,
+hello, hello. I'm Albert.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -61,7 +62,8 @@
       <PointerOffset>46828</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_017_003&gt;</VoiceId>
       <JapaneseText>これはこれはご丁寧に。はじめまして。私は……</JapaneseText>
-      <EnglishText>Well aren't you a gentleman? Nice to meet you, I'm...</EnglishText>
+      <EnglishText>Well, hello, there. It's
+nice to meet you. I'm...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
@@ -72,7 +74,8 @@
       <VoiceId>&lt;audio:VCT_001_017_004&gt;</VoiceId>
       <JapaneseText>『&lt;Rody&gt;たん』だなや？　知ってるだーよ。
 さっきの話全部聞いてただ</JapaneseText>
-      <EnglishText>&lt;Rody&gt;, right? I know, I've been hearing everything until now!</EnglishText>
+      <EnglishText>Yer "Rody," aren't ya? I know, believe me. I
+heard everything ya were talkin' about, just now.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -83,7 +86,8 @@
       <VoiceId>&lt;audio:VCT_001_017_005&gt;</VoiceId>
       <JapaneseText>声聞いただけでもべっぴんさんだとわかっただが、
 いんや～、実物はもっと刺激的だったなや</JapaneseText>
-      <EnglishText>I couldn't resist hearing such a beautiful voice. To be truly frank, I was just dazed by such &lt;Mel&gt;odic voice, truly fitting for an opera.</EnglishText>
+      <EnglishText>I knew ya'd be a beauty just from the sound
+of yer voice, but my, you're a real knockout.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
@@ -93,7 +97,8 @@
       <PointerOffset>47188</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_017_006&gt;</VoiceId>
       <JapaneseText>どうも、あんがとね。君もなかなか素敵∀</JapaneseText>
-      <EnglishText>Well, thanks! You're very cute!</EnglishText>
+      <EnglishText>Thanks much. You're
+pretty cute, yourself. ∀</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -104,7 +109,8 @@
       <VoiceId>&lt;audio:VCT_001_017_007&gt;</VoiceId>
       <JapaneseText>うっほー、褒められただ∀　&lt;Rody&gt;たんがおらに
 一目惚れだど！　ぼよんぼよんがおらの物ーー！</JapaneseText>
-      <EnglishText>Ohh! I am so moved! I just fell in love in first sight! It makes me tingly all over...</EnglishText>
+      <EnglishText>Oooh, a compliment, for me? ∀ Rody's gone and fallen
+for me, already? Those bouncy-bouncies are all mine~!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -114,7 +120,8 @@
       <PointerOffset>47428</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_017_008&gt;</VoiceId>
       <JapaneseText>何がぼよんぼよんだ！　このタンス野郎！！</JapaneseText>
-      <EnglishText>Where did you say it tingled, Closet freak?</EnglishText>
+      <EnglishText>The hell's a "bouncy-bouncy,"
+you closet freak!?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
@@ -124,17 +131,18 @@
       <PointerOffset>47504</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_017_009&gt;</VoiceId>
       <JapaneseText>あ～～れ～～ぇ～～！</JapaneseText>
-      <EnglishText>Why meeee...!</EnglishText>
-      <Notes/>
+      <EnglishText>Ooooh~ noooooo~!</EnglishText>
+      <Notes>need to check context</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>47576</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_017_010&gt;</VoiceId>
       <JapaneseText>楽しそうな人たちだね</JapaneseText>
-      <EnglishText>What an interesting bunch!</EnglishText>
+      <EnglishText>Pretty fun group
+you have here.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
@@ -144,7 +152,7 @@
       <PointerOffset>47648</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_017_011&gt;</VoiceId>
       <JapaneseText>え、えぇ、まぁ……</JapaneseText>
-      <EnglishText>Y-yeah, I guess...</EnglishText>
+      <EnglishText>Y-Yeah, I guess so...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
