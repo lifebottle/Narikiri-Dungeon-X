@@ -8,7 +8,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43088,43272,43500</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43432</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -33,7 +33,8 @@
       <PointerOffset>42900</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_002_001&gt;</VoiceId>
       <JapaneseText>ヴァルハラか。なつかしいな～</JapaneseText>
-      <EnglishText>I really missed Valhalla!</EnglishText>
+      <EnglishText>Valhalla, huh. This
+really takes me back~</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -44,7 +45,8 @@
       <VoiceId>&lt;audio:VCT_001_002_002&gt;</VoiceId>
       <JapaneseText>前来たのは……
 仲間探してた時だったっけ…</JapaneseText>
-      <EnglishText>Last time I came here...was when I was looking for my friends...</EnglishText>
+      <EnglishText>The last time I came here...must have
+been when I was looking for other fairies.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
@@ -55,7 +57,8 @@
       <VoiceId>&lt;audio:VCT_001_002_003&gt;</VoiceId>
       <JapaneseText>……エトはまたいつか、
 旅立っちゃうの……？</JapaneseText>
-      <EnglishText>Eto... would you want to go again?</EnglishText>
+      <EnglishText>...Will you leave to go on another
+journey someday, Ethos...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
@@ -66,7 +69,8 @@
       <VoiceId>&lt;audio:VCT_001_002_004&gt;</VoiceId>
       <JapaneseText>仲間を探して？　うふふ、きみたちを
 ほってどこかに行けるはずないでしょ？</JapaneseText>
-      <EnglishText>To look for my companions? Hahahaha, do you think I would ever abandon you?</EnglishText>
+      <EnglishText>To look for fairy friends? Ahaha, of course
+I won't just leave you two like that.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -76,7 +80,7 @@
       <PointerOffset>43276</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_002_005&gt;</VoiceId>
       <JapaneseText>本当に？</JapaneseText>
-      <EnglishText>D-do you mean that just now?</EnglishText>
+      <EnglishText>Really?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
@@ -86,7 +90,8 @@
       <PointerOffset>43344</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_002_006&gt;</VoiceId>
       <JapaneseText>ずっと一緒だよ？</JapaneseText>
-      <EnglishText>We'll always be together!</EnglishText>
+      <EnglishText>I've always been here
+for you, haven't I?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -97,7 +102,8 @@
       <VoiceId>&lt;audio:VCT_001_002_007&gt;</VoiceId>
       <JapaneseText>マジで、&lt;Mel&gt;って
 エトには甘えん坊だな</JapaneseText>
-      <EnglishText>Oh no! Eto and &lt;Mel&gt; got all softy and corny!</EnglishText>
+      <EnglishText>You're so
+spoiled, &lt;Mel&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
@@ -107,18 +113,19 @@
       <PointerOffset>43504</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_002_008&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;もでしょ</JapaneseText>
-      <EnglishText>Y-you moved too!</EnglishText>
-      <Notes>what</Notes>
+      <EnglishText>Aren't you, too, &lt;Dio&gt;?</EnglishText>
+      <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43620</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_002_009&gt;</VoiceId>
       <JapaneseText>……だってね……きみたちがいれば
 他に仲間なんて必要ないかラ……</JapaneseText>
-      <EnglishText>...That's because... now you are my irreplaceable friends...</EnglishText>
+      <EnglishText>...Because...as long as I have you
+two, I have everything I need...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
