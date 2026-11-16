@@ -8,7 +8,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42544,42684,42988,43148,43288</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42608,42896,43220,43348,43488,43620</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -34,7 +34,8 @@
       <VoiceId>&lt;audio:VCT_001_011_001&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;、初対面の人には
 ちゃんと挨拶しなきゃ</JapaneseText>
-      <EnglishText>&lt;Dio&gt;, you should always greet people when you first meet them.</EnglishText>
+      <EnglishText>You should introduce yourself properly
+to people you've just met, &lt;Dio&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -44,7 +45,8 @@
       <PointerOffset>42548</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_011_002&gt;</VoiceId>
       <JapaneseText>え？　してるだろ？</JapaneseText>
-      <EnglishText>Huh? I know that, already.</EnglishText>
+      <EnglishText>Eh? I always
+do, don't I?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -54,7 +56,7 @@
       <PointerOffset>42612</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_011_003&gt;</VoiceId>
       <JapaneseText>してないよ</JapaneseText>
-      <EnglishText>No, you don't!</EnglishText>
+      <EnglishText>You never do.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
@@ -64,7 +66,8 @@
       <PointerOffset>42688</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_011_004&gt;</VoiceId>
       <JapaneseText>&lt;Klarth&gt;さんとこでもさ……</JapaneseText>
-      <EnglishText>At &lt;Klarth&gt;'s place I, um...</EnglishText>
+      <EnglishText>C'mon, like,
+with &lt;Klarth&gt;, I...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -75,7 +78,8 @@
       <VoiceId>&lt;audio:VCT_001_011_005&gt;</VoiceId>
       <JapaneseText>ずっと&lt;Mel&gt;が&lt;Klarth&gt;さんと
 話してたよね</JapaneseText>
-      <EnglishText>&lt;Mel&gt; was the one who did all the talking.</EnglishText>
+      <EnglishText>&lt;Mel&gt; did all of the
+talking with &lt;Klarth&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -86,7 +90,8 @@
       <VoiceId>&lt;audio:VCT_001_011_006&gt;</VoiceId>
       <JapaneseText>さっき、&lt;Klarth&gt;さんちの前で会った人にも
 『あんた誰』とか言ってたし</JapaneseText>
-      <EnglishText>And then when we were outside Mister &lt;Klarth&gt;'s house we met someone. You really greeted him politely saying "And just who do you think you are?" don't you think?</EnglishText>
+      <EnglishText>And just now, when we met that person in front
+of &lt;Klarth&gt;'s house, you were like, "The heck're you?"</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
@@ -97,7 +102,8 @@
       <VoiceId>&lt;audio:VCT_001_011_007&gt;</VoiceId>
       <JapaneseText>あ、あれは
 怪しいヤツだったから……！</JapaneseText>
-      <EnglishText>W-well, he looked kinda suspicious so...</EnglishText>
+      <EnglishText>Th-That's just 'cause he
+seemed suspicious, though...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -108,7 +114,8 @@
       <VoiceId>&lt;audio:VCT_001_011_008&gt;</VoiceId>
       <JapaneseText>話をしないうちから、
 怪しいとか決めつけないの</JapaneseText>
-      <EnglishText>Didn't we agree you shouldn't try talking to suspicious people?</EnglishText>
+      <EnglishText>You can't know if someone's suspicious
+before you've even spoken to them.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -128,7 +135,7 @@
       <PointerOffset>43224</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_011_010&gt;</VoiceId>
       <JapaneseText>なんで黙ってるの？</JapaneseText>
-      <EnglishText>Why are you so silent?</EnglishText>
+      <EnglishText>Why'd you go quiet?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
@@ -138,7 +145,7 @@
       <PointerOffset>43292</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_011_011&gt;</VoiceId>
       <JapaneseText>なんでもねーよ</JapaneseText>
-      <EnglishText>Nothing you should care about.</EnglishText>
+      <EnglishText>It's nothin'.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
@@ -148,7 +155,7 @@
       <PointerOffset>43352</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_011_012&gt;</VoiceId>
       <JapaneseText>ヘンなの</JapaneseText>
-      <EnglishText>What a weird kid!</EnglishText>
+      <EnglishText>Weird.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
@@ -158,7 +165,7 @@
       <PointerOffset>43416</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_011_013&gt;</VoiceId>
       <JapaneseText>お年頃だね</JapaneseText>
-      <EnglishText>It looks he already hit puberty.</EnglishText>
+      <EnglishText>He's at that age.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
@@ -168,7 +175,7 @@
       <PointerOffset>43492</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_011_014&gt;</VoiceId>
       <JapaneseText>…………？　そうなの？</JapaneseText>
-      <EnglishText>Eh? Really? I don't see it.</EnglishText>
+      <EnglishText>...? Really?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
@@ -178,7 +185,8 @@
       <PointerOffset>43560</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_011_015&gt;</VoiceId>
       <JapaneseText>そういうお年頃</JapaneseText>
-      <EnglishText>That's what puberty is like.</EnglishText>
+      <EnglishText>Yep. That's just what
+kids are like at his age.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
@@ -188,7 +196,7 @@
       <PointerOffset>43624</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_011_016&gt;</VoiceId>
       <JapaneseText>ふーん……？</JapaneseText>
-      <EnglishText>Mmm...?</EnglishText>
+      <EnglishText>Hmmm...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>16</Id>
