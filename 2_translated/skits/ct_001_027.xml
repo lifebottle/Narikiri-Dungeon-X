@@ -8,7 +8,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43680,43996,44264</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Klarth&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43872,44420</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44124</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44364</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -50,7 +50,8 @@
       <VoiceId>&lt;audio:VCT_001_027_001&gt;</VoiceId>
       <JapaneseText>やっぱり……あの精霊は
 エトを狙ったんですか？</JapaneseText>
-      <EnglishText>I knew it...that Spirit is fixated on Eto. But, why would he?</EnglishText>
+      <EnglishText>So...that spirit really is going
+after Ethos specifically, isn't he?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -61,7 +62,8 @@
       <VoiceId>&lt;audio:VCT_001_027_002&gt;</VoiceId>
       <JapaneseText>わからない。彼女は小さかったから、
 人よりも狙いやすかっただけかもしれないし</JapaneseText>
-      <EnglishText>I'm not sure. This little girl is the first person I ever heard to be targeted by a Spirit.</EnglishText>
+      <EnglishText>I'm not sure. She's the smallest of us, so it
+could just be that she was the easiest target.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -71,7 +73,8 @@
       <PointerOffset>43772</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_027_003&gt;</VoiceId>
       <JapaneseText>まさか……！　食べるため、とか……</JapaneseText>
-      <EnglishText>Could it be...!? Does he want to eat her!?</EnglishText>
+      <EnglishText>Wait, you don't think...!
+He's going to eat Ethos...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
@@ -82,7 +85,8 @@
       <VoiceId>&lt;audio:VCT_001_027_004&gt;</VoiceId>
       <JapaneseText>何言ってんだよ、&lt;Mel&gt;！
 違う！　……違う、よな！？</JapaneseText>
-      <EnglishText>What are you saying, &lt;Dio&gt;!? That's impossible...It IS impossible, right?</EnglishText>
+      <EnglishText>How could you even say that,
+&lt;Mel&gt;!? No way! ...He won't, will he!?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
@@ -93,7 +97,8 @@
       <VoiceId>&lt;audio:VCT_001_027_005&gt;</VoiceId>
       <JapaneseText>精霊はマナを生命力にしている。
 具体的に何か食べて生きているわけじゃない</JapaneseText>
-      <EnglishText>Summon Spirits live through Mana. In short, they don't need to eat anything at all.</EnglishText>
+      <EnglishText>Spirits live on mana. They
+don't really eat anything.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
@@ -103,7 +108,7 @@
       <PointerOffset>44064</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_027_006&gt;</VoiceId>
       <JapaneseText>よかった……</JapaneseText>
-      <EnglishText>What a relief...</EnglishText>
+      <EnglishText>Oh, that's good...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -113,7 +118,7 @@
       <PointerOffset>44128</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_027_007&gt;</VoiceId>
       <JapaneseText>クルール～</JapaneseText>
-      <EnglishText>Kururu~!</EnglishText>
+      <EnglishText>Couleuru~</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
@@ -124,7 +129,8 @@
       <VoiceId>&lt;audio:VCT_001_027_008&gt;</VoiceId>
       <JapaneseText>だが、もしかしたら彼女自身に理由があった場合、
 精霊は彼女を排除しようとするかもしれない</JapaneseText>
-      <EnglishText>Anyhow, this is a pretty unique case. We have no idea what the real reason behind this is.</EnglishText>
+      <EnglishText>But if it is something about her in particular
+that caused this, he may try to eliminate her.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
@@ -135,7 +141,8 @@
       <VoiceId>&lt;audio:VCT_001_027_009&gt;</VoiceId>
       <JapaneseText>あんま悠長にもしてらんないってことだね、
 行くぜ</JapaneseText>
-      <EnglishText>We mustn't take this lightly. Let's move forward!</EnglishText>
+      <EnglishText>So we don't really have much
+time to waste, then. Let's go.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>9</Id>
@@ -145,7 +152,7 @@
       <PointerOffset>44424</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_027_010&gt;</VoiceId>
       <JapaneseText>ああ</JapaneseText>
-      <EnglishText>Right.</EnglishText>
+      <EnglishText>Yeah.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
@@ -155,7 +162,7 @@
       <PointerOffset>44496</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_027_011&gt;</VoiceId>
       <JapaneseText>エト、無事でいて……</JapaneseText>
-      <EnglishText>Eto, please be ok...</EnglishText>
+      <EnglishText>Please be safe, Ethos...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
