@@ -8,7 +8,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48340,48968,49168,49392</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48400</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48552</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48692,48784,49092,49248</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -49,7 +49,8 @@
       <PointerOffset>48284</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_044_001&gt;</VoiceId>
       <JapaneseText>ね？　さっき変な声しなかった？</JapaneseText>
-      <EnglishText>Hey, didn't you listen to a weird voice just a while back?</EnglishText>
+      <EnglishText>Hey, um? Wasn't there a
+weird voice, just now?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -69,7 +70,7 @@
       <PointerOffset>48404</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_044_003&gt;</VoiceId>
       <JapaneseText>クルール</JapaneseText>
-      <EnglishText>Kuruuru?</EnglishText>
+      <EnglishText>Couleuru.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
@@ -79,7 +80,8 @@
       <PointerOffset>48484</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_044_004&gt;</VoiceId>
       <JapaneseText>悲鳴みたいな、ちょっと変な声</JapaneseText>
-      <EnglishText>It sounded like a scream. A strange voice.</EnglishText>
+      <EnglishText>It was kind of like a scream,
+but, just...a little weird.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -89,7 +91,8 @@
       <PointerOffset>48556</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_044_005&gt;</VoiceId>
       <JapaneseText>&lt;Mel&gt;って耳いいよね</JapaneseText>
-      <EnglishText>&lt;Mel&gt;, are your ears all right?</EnglishText>
+      <EnglishText>You have really good
+hearing, don't you, &lt;Mel&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
@@ -100,7 +103,8 @@
       <VoiceId>&lt;audio:VCT_002_044_006&gt;</VoiceId>
       <JapaneseText>その声は、奥へと立ち入ろうとして魔物に
 食い殺された数々の恨みを抱いた霊の数々の声……</JapaneseText>
-      <EnglishText>Unknowingly to them the voice belonged to a monster starving for human flesh. Barely hearable, the monster approaches...with its clicking, the voice approaches....</EnglishText>
+      <EnglishText>That voice is the voice of the countless souls who lost
+their lives to monsters as they ventured through the mines...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
@@ -110,7 +114,8 @@
       <PointerOffset>48788</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_044_007&gt;</VoiceId>
       <JapaneseText>……ってあれ？　怖くないのか、&lt;Mel&gt;？</JapaneseText>
-      <EnglishText>Eh? You're not scared, &lt;Mel&gt;?</EnglishText>
+      <EnglishText>...Wait, huh? You're
+not scared, &lt;Mel&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>7</Id>
@@ -121,7 +126,8 @@
       <VoiceId>&lt;audio:VCT_002_044_008&gt;</VoiceId>
       <JapaneseText>幽霊とかウソですよね？
 だってここ変な感じとかしないですし</JapaneseText>
-      <EnglishText>Aren't ghosts just lies? Plus, I just think it's a weird feeling.</EnglishText>
+      <EnglishText>You're making it up, right? I mean, this
+place doesn't feel haunted, or anything.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -131,7 +137,7 @@
       <PointerOffset>48972</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_044_009&gt;</VoiceId>
       <JapaneseText>へ、変な感じ……？</JapaneseText>
-      <EnglishText>A-A weird feeling?</EnglishText>
+      <EnglishText>H-Haunted...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
@@ -142,7 +148,8 @@
       <VoiceId>&lt;audio:VCT_002_044_010&gt;</VoiceId>
       <JapaneseText>そうでも、そういう時はきゃあとか
 怖がった方が可愛いぜ？　な？　&lt;Dio&gt;</JapaneseText>
-      <EnglishText>Aw that's a shame. I really wanted to listen you put a good old cute "kyaaa!" Right, &lt;Dio&gt;?</EnglishText>
+      <EnglishText>I mean, sure, but it'd be really cute if you
+were like, "Ahhh! I'm scared!" Right, &lt;Dio&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
@@ -152,7 +159,7 @@
       <PointerOffset>49172</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_044_011&gt;</VoiceId>
       <JapaneseText>え？　あ、ああ、うん……</JapaneseText>
-      <EnglishText>Y-yeah... Totally...</EnglishText>
+      <EnglishText>Eh? Oh, yeah... Sure...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
@@ -162,7 +169,8 @@
       <PointerOffset>49252</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_044_012&gt;</VoiceId>
       <JapaneseText>&lt;Mel&gt;は脅かしがいがないな</JapaneseText>
-      <EnglishText>&lt;Mel&gt; really is hard to surprise, huh?</EnglishText>
+      <EnglishText>Scaring &lt;Mel&gt;'s
+no fun, huh.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>12</Id>
@@ -173,7 +181,8 @@
       <VoiceId>&lt;audio:VCT_002_044_013&gt;</VoiceId>
       <JapaneseText>え？　あ、ちょ、ちょっと、みんなどこ行ったんだ！
 ひ、ひとりにすんなよ、え？　あ、おい……！</JapaneseText>
-      <EnglishText>H-hey! E-everyone?? Where did you go!? Don't leave me alone! Heeey!</EnglishText>
+      <EnglishText>Eh? Ah, w-wait, wh-where you guys going!?
+D-Don't leave me here! Eh? Ah, hey...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
