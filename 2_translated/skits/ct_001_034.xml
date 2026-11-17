@@ -8,7 +8,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48896,49352</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48988,49460,49960</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49068</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49224,49576,49700,49828</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -50,7 +50,8 @@
       <VoiceId>&lt;audio:VCT_001_034_001&gt;</VoiceId>
       <JapaneseText>熱砂の洞窟と違って
 ここは水が多くて涼しげだね</JapaneseText>
-      <EnglishText>Unlike the Cave of Burning Sand here there's a lot of water. It's pretty refreshing.</EnglishText>
+      <EnglishText>This is so different from that desert cave.
+There's so much water, and it's nice and cool.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -61,7 +62,8 @@
       <VoiceId>&lt;audio:VCT_001_034_002&gt;</VoiceId>
       <JapaneseText>でも、気をつけて、慎重に進も。
 すぐに水に浸かっちゃうから</JapaneseText>
-      <EnglishText>Still, be careful! We have to walk carefully or else we'll slip!</EnglishText>
+      <EnglishText>But we should be careful as we move
+ahead. It would be really easy to fall in.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -72,7 +74,8 @@
       <VoiceId>&lt;audio:VCT_001_034_003&gt;</VoiceId>
       <JapaneseText>少し水浴びるくらいいいだろ、
 な？　な？</JapaneseText>
-      <EnglishText>A little bath should be ok. Right, right?</EnglishText>
+      <EnglishText>But hey, nothin' wrong
+with a little bath, right?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
@@ -82,7 +85,7 @@
       <PointerOffset>49072</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_034_004&gt;</VoiceId>
       <JapaneseText>クッルール！　クッルール！！</JapaneseText>
-      <EnglishText>Kururu! Kururu!</EnglishText>
+      <EnglishText>Colleuru! Colleuru!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
@@ -93,7 +96,8 @@
       <VoiceId>&lt;audio:VCT_001_034_005&gt;</VoiceId>
       <JapaneseText>だはーさっきは、炎で、今度は水だか？　なんなんだーよ！
 炎も水もおらの大敵だで。扱いが悪すぎだど！</JapaneseText>
-      <EnglishText>Waah! First fire, now WATER? What is this nonsense!? Water and fire are my worst enemies! Stop trying to kill me at once!</EnglishText>
+      <EnglishText>Now we've gone straight from fire to water!? Both of
+them're awful for me! Ya hafta treat me better 'n this!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>5</Id>
@@ -104,7 +108,8 @@
       <VoiceId>&lt;audio:VCT_001_034_006&gt;</VoiceId>
       <JapaneseText>ごめんなさい、アルベルトさん。
 私たち、どうしても行かなければいけないんです</JapaneseText>
-      <EnglishText>I'm so sorry, Mister Albert. Regrettably, there's nothing we can do about it...</EnglishText>
+      <EnglishText>I'm really sorry, Albert. It's
+just, we really have to do this.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -115,7 +120,8 @@
       <VoiceId>&lt;audio:VCT_001_034_007&gt;</VoiceId>
       <JapaneseText>別に謝ることねって。
 こいつが勝手に、ひよってるだけだろ</JapaneseText>
-      <EnglishText>I don't care if we slip, anyways. I'll be perfectly fine without him.</EnglishText>
+      <EnglishText>No need to apologize. He's
+making a fuss over nothing.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
@@ -126,7 +132,8 @@
       <VoiceId>&lt;audio:VCT_001_034_008&gt;</VoiceId>
       <JapaneseText>あ～～～あ～～～、おらがいなくなったら
 一番困るのは誰だ？</JapaneseText>
-      <EnglishText>No, no! If I wasn't here who'd be the on the losing end?</EnglishText>
+      <EnglishText>A~ha~, but if I weren't here,
+who'd *really* be in trouble?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>8</Id>
@@ -137,7 +144,8 @@
       <VoiceId>&lt;audio:VCT_001_034_009&gt;</VoiceId>
       <JapaneseText>おらが水浸しになったら、服がびっしょびっしょで
 困るのは誰だー！！</JapaneseText>
-      <EnglishText>If I fall to the water and all the costumes get ruined, who'll have problems?</EnglishText>
+      <EnglishText>If I fell in and the clothes got all
+drenched, who'd *really* be in trouble!?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>9</Id>
@@ -148,7 +156,8 @@
       <VoiceId>&lt;audio:VCT_001_034_010&gt;</VoiceId>
       <JapaneseText>へー、そーらみれ、ざまぁみれ！
 おらのありがたみを、思い知るがいいだ！</JapaneseText>
-      <EnglishText>Heh, that's right, punk! You should be glad for me being here! Remember it!</EnglishText>
+      <EnglishText>Well, you'll see! And you'll deserve it, too!
+And then you'll learn to be thankful for me!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
@@ -158,7 +167,7 @@
       <PointerOffset>49904</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_034_011&gt;</VoiceId>
       <JapaneseText>はい、&lt;Dio&gt;の負け</JapaneseText>
-      <EnglishText>Albert 1, &lt;Dio&gt; 0.</EnglishText>
+      <EnglishText>Albert 1, Dio 0.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
@@ -168,7 +177,7 @@
       <PointerOffset>49964</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_034_012&gt;</VoiceId>
       <JapaneseText>くっ……</JapaneseText>
-      <EnglishText>Damn...</EnglishText>
+      <EnglishText>Ugh...</EnglishText>
       <Notes>wasnt in kevassa's script, I deepLed it - kevan</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
