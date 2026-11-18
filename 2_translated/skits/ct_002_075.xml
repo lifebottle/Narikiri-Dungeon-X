@@ -8,7 +8,7 @@
       <EnglishText>&lt;Klarth&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43892,44032,44356,44584,44976</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44104,44256,44428,44896</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -34,7 +34,8 @@
       <VoiceId>&lt;audio:VCT_002_075_001&gt;</VoiceId>
       <JapaneseText>そう言えば、君たちがいなくなった後、
 バジルのところで少し研究を手伝っていたんだが</JapaneseText>
-      <EnglishText>By the way, ever since you kids left I've got some work done with Basil on his research.</EnglishText>
+      <EnglishText>Now that I think about it, after you left,
+I did help Basil a little with his research.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -44,7 +45,7 @@
       <PointerOffset>43896</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_075_002&gt;</VoiceId>
       <JapaneseText>バジルさんの……！</JapaneseText>
-      <EnglishText>Mister Basil's research...!?</EnglishText>
+      <EnglishText>Basil...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -54,7 +55,7 @@
       <PointerOffset>43964</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_075_003&gt;</VoiceId>
       <JapaneseText>ん？　どうした？</JapaneseText>
-      <EnglishText>Mmm? What of it?</EnglishText>
+      <EnglishText>Hm? What's up?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
@@ -64,7 +65,7 @@
       <PointerOffset>44036</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_075_004&gt;</VoiceId>
       <JapaneseText>えっと……その……</JapaneseText>
-      <EnglishText>Err, how can I say this...</EnglishText>
+      <EnglishText>Um... Well...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -84,7 +85,7 @@
       <PointerOffset>44176</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_075_006&gt;</VoiceId>
       <JapaneseText>……そうか……</JapaneseText>
-      <EnglishText>...Right.</EnglishText>
+      <EnglishText>...I see...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -94,7 +95,8 @@
       <PointerOffset>44260</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_075_007&gt;</VoiceId>
       <JapaneseText>ヘンなこと言わない方がいいよ……</JapaneseText>
-      <EnglishText>It's better if we don't talk about these things, I think...</EnglishText>
+      <EnglishText>It's better if we don't
+say anything weird...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
@@ -105,7 +107,8 @@
       <VoiceId>&lt;audio:VCT_002_075_008&gt;</VoiceId>
       <JapaneseText>でもさ、&lt;Klarth&gt;さんに言って
 止めてもらえれば……</JapaneseText>
-      <EnglishText>But if what Mister &lt;Klarth&gt; said is true and if we stop the research...!</EnglishText>
+      <EnglishText>But if we tell &lt;Klarth&gt; about
+it and he stops him, then...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
@@ -115,7 +118,7 @@
       <PointerOffset>44432</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_075_009&gt;</VoiceId>
       <JapaneseText>でもわたしたち……</JapaneseText>
-      <EnglishText>Yes, but we...</EnglishText>
+      <EnglishText>But we...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
@@ -125,7 +128,8 @@
       <PointerOffset>44512</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_075_010&gt;</VoiceId>
       <JapaneseText>バジルの身に何かあったんだな</JapaneseText>
-      <EnglishText>If there's something up with Basil just say it out loud.</EnglishText>
+      <EnglishText>Something happened
+to Basil, I take it.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
@@ -135,7 +139,7 @@
       <PointerOffset>44588</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_075_011&gt;</VoiceId>
       <JapaneseText>え！　い、いや、その……</JapaneseText>
-      <EnglishText>Wha? Er, nevermind...</EnglishText>
+      <EnglishText>Eh!? N-No, uh...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
@@ -146,7 +150,8 @@
       <VoiceId>&lt;audio:VCT_002_075_012&gt;</VoiceId>
       <JapaneseText>……何があったのかはわからないが、
 それが運命ならば、ヤツも潔く受け止めるだろう</JapaneseText>
-      <EnglishText>...I'm not sure whatever he's up to. However, if this is something destined to happen then nothing will stop his convictions.</EnglishText>
+      <EnglishText>...I don't know what it was, but if that was
+his fate, I'm sure he'd accept it with grace.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
@@ -157,7 +162,8 @@
       <VoiceId>&lt;audio:VCT_002_075_013&gt;</VoiceId>
       <JapaneseText>だから、私もこれ以上、深くは聞かない。
 それでいいだろ？</JapaneseText>
-      <EnglishText>This is why I'd rather not hear about it. Is that ok with you two?</EnglishText>
+      <EnglishText>So, I won't ask the details.
+Are you fine with that?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
@@ -167,7 +173,7 @@
       <PointerOffset>44900</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_075_014&gt;</VoiceId>
       <JapaneseText>え……あ、はい……</JapaneseText>
-      <EnglishText>I...I guess...</EnglishText>
+      <EnglishText>Eh... Ah, yes...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
@@ -177,7 +183,8 @@
       <PointerOffset>44980</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_075_015&gt;</VoiceId>
       <JapaneseText>……大人だな、&lt;Klarth&gt;さん……</JapaneseText>
-      <EnglishText>...You really are an adult, Mister &lt;Klarth&gt;...</EnglishText>
+      <EnglishText>...&lt;Klarth&gt; really
+is mature...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>

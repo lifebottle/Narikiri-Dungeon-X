@@ -8,7 +8,7 @@
       <EnglishText>&lt;Arche&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53412,53628,53856,53972,54096,54828</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>53740,54292,54500,54712</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -33,7 +33,8 @@
       <PointerOffset>53320</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_074_001&gt;</VoiceId>
       <JapaneseText>ちょ、ちょ、ちょっと！　なんか言いなさいよ！！</JapaneseText>
-      <EnglishText>Wait a second! Say something, you!!</EnglishText>
+      <EnglishText>H-H-Hey! Say something
+to me, too!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -43,7 +44,8 @@
       <PointerOffset>53416</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_074_002&gt;</VoiceId>
       <JapaneseText>あ～～、なんだぁ？　おら忙しいだーよ……</JapaneseText>
-      <EnglishText>Whatcha want? I'm busy, make it short.</EnglishText>
+      <EnglishText>Aaaaahhh... What do *you*
+want* I'm pretty busy here...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -53,7 +55,8 @@
       <PointerOffset>53516</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_074_003&gt;</VoiceId>
       <JapaneseText>人の顔見て、ため息ついて。いったいなんなのよ！</JapaneseText>
-      <EnglishText>You just show up on new people's faces without saying a word? What sort of weirdo does that?</EnglishText>
+      <EnglishText>You can't just...look at someone's face, and
+then *sigh*! That's really hurtful, you know!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
@@ -64,7 +67,8 @@
       <VoiceId>&lt;audio:VCT_002_074_004&gt;</VoiceId>
       <JapaneseText>そったらことがえ？
 あんまりにも、期待外れだったもんでよ……</JapaneseText>
-      <EnglishText>Is that what it looks like? Here's some news for you miss, this is the face of disappointment...</EnglishText>
+      <EnglishText>Oh, did I do that? Well, ya were
+just such a let-down, y'see...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -75,7 +79,8 @@
       <VoiceId>&lt;audio:VCT_002_074_005&gt;</VoiceId>
       <JapaneseText>何に期待して、出てきたんだよ？
 前に会ったんじゃないのか？</JapaneseText>
-      <EnglishText>And what exactly where you expecting? You don't mean you met her before, do you?</EnglishText>
+      <EnglishText>You've met before, haven't you? But you still
+came out for her. What were you expecting?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
@@ -86,7 +91,8 @@
       <VoiceId>&lt;audio:VCT_002_074_006&gt;</VoiceId>
       <JapaneseText>きらめきの塔の時は、
 おら&lt;Mel&gt;&lt;Mel&gt;の胸にうずもれてただ</JapaneseText>
-      <EnglishText>Oh I've taken a peek back in Glimmer Spire while buried under &lt;Mel&gt;-&lt;Mel&gt;'s bosom.</EnglishText>
+      <EnglishText>When we were at Glimmer Spire, I was
+busy squirrelin' myself away in Mel's chest.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -97,7 +103,8 @@
       <VoiceId>&lt;audio:VCT_002_074_007&gt;</VoiceId>
       <JapaneseText>もっと、こう元気印のハツラツな娘っ子だと
 思ってただーよ……</JapaneseText>
-      <EnglishText>I thought I'd meet a lively charming young lady, full of energy and love for this world...</EnglishText>
+      <EnglishText>I thought she'd be all
+energetic and sprightly...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -108,7 +115,8 @@
       <VoiceId>&lt;audio:VCT_002_074_008&gt;</VoiceId>
       <JapaneseText>それが、こ～んな女として
 魅力の欠片もねぇとんだすれっからしとは……</JapaneseText>
-      <EnglishText>Yet this excuse of a woman standing next to me isn't even a fraction of charming as what I had in mind...</EnglishText>
+      <EnglishText>And yet after all that, she turned out to be nothin' but a
+hussy, lackin' even a shred of a woman's charms...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
@@ -118,7 +126,7 @@
       <PointerOffset>54164</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_074_009&gt;</VoiceId>
       <JapaneseText>ちょっと……</JapaneseText>
-      <EnglishText>Wait a sec—</EnglishText>
+      <EnglishText>Hey...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
@@ -129,7 +137,8 @@
       <VoiceId>&lt;audio:VCT_002_074_010&gt;</VoiceId>
       <JapaneseText>いい加減にしろ！　&lt;Arche&gt;のこと、
 何も知らないくせに勝手なこと、言うんじゃねぇ！</JapaneseText>
-      <EnglishText>Ok that's enough jabbering, pal! You don't know the first thing about &lt;Arche&gt; so do me a favor and shut that pie hole!</EnglishText>
+      <EnglishText>You shut your mouth! You don't know a damn thing
+about &lt;Arche&gt;, so don't you dare go mouthing off!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
@@ -139,7 +148,7 @@
       <PointerOffset>54360</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_074_011&gt;</VoiceId>
       <JapaneseText>&lt;Chester&gt;……</JapaneseText>
-      <EnglishText>&lt;Chester&gt;...!</EnglishText>
+      <EnglishText>&lt;Chester&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
@@ -150,7 +159,7 @@
       <VoiceId>&lt;audio:VCT_002_074_012&gt;</VoiceId>
       <JapaneseText>確かにすぐに怒るし、おしゃべりだし、素直じゃ
 ないし、胸もない、料理も下手、だけどなぁ……</JapaneseText>
-      <EnglishText>Yeah she gets angry quickly, is a loudmouth, has no manners, is as flat as it gets, can't cook and so on but...</EnglishText>
+      <EnglishText>Yeah, she has a short fuse, and she yaps and yaps, she's disobedient, flat-chested, and her cooking's awful, but...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
@@ -171,7 +180,8 @@
       <VoiceId>&lt;audio:VCT_002_074_014&gt;</VoiceId>
       <JapaneseText>……だけど、そういうところが悪くないって、
 言おうと思ったのに……オレってしまらねぇな……</JapaneseText>
-      <EnglishText>...Yet she's not a bad person at all...is what I wanted to say. Damn I screwed up...</EnglishText>
+      <EnglishText>...but none of those are bad things...is what
+I meant to say. Augh, I'm such a screw-up...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
@@ -182,7 +192,8 @@
       <VoiceId>&lt;audio:VCT_002_074_015&gt;</VoiceId>
       <JapaneseText>……ただの凶暴なオバハンだでよ……
 くわばら、くわばら……</JapaneseText>
-      <EnglishText>...Sounds like a regular old grandma to me. Shame on you. Shame on you...</EnglishText>
+      <EnglishText>...She's just a violent old broad, ain't she...
+Here's hopin' she stays away from me...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>

@@ -8,7 +8,7 @@
       <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46964,47132</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Klarth&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47040,47572,47756</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Arche&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47244,47504</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47396</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47660,47876</PointerOffset>
@@ -48,7 +48,7 @@
       <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -58,7 +58,8 @@
       <VoiceId>&lt;audio:VCT_002_078_001&gt;</VoiceId>
       <JapaneseText>またこうやってみんなと旅が出来るなんて
 思ってもなかったよ</JapaneseText>
-      <EnglishText>I never thought we'd be able to journey together like this anymore.</EnglishText>
+      <EnglishText>I didn't think we'd ever travel
+together like this again.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -69,7 +70,8 @@
       <VoiceId>&lt;audio:VCT_002_078_002&gt;</VoiceId>
       <JapaneseText>同じ目的に向かった者同士が、再び別の目的に
 向かって集まり、力を合わせるというのがいいな</JapaneseText>
-      <EnglishText>Travelling together for the same reason yet being called for a different reason than our previous travel. It's good we're able to join forces once again.</EnglishText>
+      <EnglishText>Those who fought for the same cause, come together
+under a new banner to fight once more... It feels nice.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -79,7 +81,8 @@
       <PointerOffset>47044</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_078_003&gt;</VoiceId>
       <JapaneseText>&lt;Klarth&gt;、おっさんくさーい</JapaneseText>
-      <EnglishText>&lt;Klarth&gt; try to hold the grandpa talk in.</EnglishText>
+      <EnglishText>Real old man
+vibes, &lt;Klarth&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
@@ -90,7 +93,8 @@
       <VoiceId>&lt;audio:VCT_002_078_004&gt;</VoiceId>
       <JapaneseText>おっさんくさいだと？
 私はまだ２９だ！</JapaneseText>
-      <EnglishText>Who's a grandpa!? I'm just 29!</EnglishText>
+      <EnglishText>Old man!?
+I'm only 29!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -101,7 +105,8 @@
       <VoiceId>&lt;audio:VCT_002_078_005&gt;</VoiceId>
       <JapaneseText>久しぶりに会ったのですから、
 ケンカはやめた方がいいかと……</JapaneseText>
-      <EnglishText>I'm overjoyed we are all together but please don't fight...</EnglishText>
+      <EnglishText>It's been such a long time since
+we last met... Please, don't fight...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
@@ -111,7 +116,8 @@
       <PointerOffset>47316</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_078_006&gt;</VoiceId>
       <JapaneseText>相変わらずだね</JapaneseText>
-      <EnglishText>Seems everyone's the same.</EnglishText>
+      <EnglishText>We're the same
+as ever, huh?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -122,7 +128,8 @@
       <VoiceId>&lt;audio:VCT_002_078_007&gt;</VoiceId>
       <JapaneseText>&lt;Chester&gt;さんは
 どうしたのですか？</JapaneseText>
-      <EnglishText>&lt;Chester&gt;, what is on your mind?</EnglishText>
+      <EnglishText>What happened
+to &lt;Chester&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>7</Id>
@@ -133,7 +140,8 @@
       <VoiceId>&lt;audio:VCT_002_078_008&gt;</VoiceId>
       <JapaneseText>&lt;Arche&gt;さんと久しぶりに会うので
 照れているのでは……？</JapaneseText>
-      <EnglishText>He's been looking forward to meeting with &lt;Arche&gt; for so long, maybe he's shy?</EnglishText>
+      <EnglishText>Maybe he's feeling shy, since it's been such
+a long time since he last saw &lt;Arche&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
@@ -143,7 +151,7 @@
       <PointerOffset>47576</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_078_009&gt;</VoiceId>
       <JapaneseText>チェ・ス・ター∀</JapaneseText>
-      <EnglishText>CHE-S-TER~!</EnglishText>
+      <EnglishText>Che~ster~ ∀</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
@@ -154,7 +162,8 @@
       <VoiceId>&lt;audio:VCT_002_078_010&gt;</VoiceId>
       <JapaneseText>や、やめろ、なんだよ、
 おまえ……！</JapaneseText>
-      <EnglishText>Cut it out, you!</EnglishText>
+      <EnglishText>S-Stop it!
+Hey, you...!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>10</Id>
@@ -165,7 +174,8 @@
       <VoiceId>&lt;audio:VCT_002_078_011&gt;</VoiceId>
       <JapaneseText>いいじゃん、いいじゃん、
 久しぶりなんだし</JapaneseText>
-      <EnglishText>Oh it's ok! You've been missing me, haven't you?</EnglishText>
+      <EnglishText>It's no big deal, right? Come on,
+we've been apart for so long~</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
@@ -176,7 +186,8 @@
       <VoiceId>&lt;audio:VCT_002_078_012&gt;</VoiceId>
       <JapaneseText>な、なんだよ、おまえ、２００年経って
 なんか性格変わってねーか！？</JapaneseText>
-      <EnglishText>W-what's up with you? 200 years passed by and you've not changed one bit!?</EnglishText>
+      <EnglishText>Wh-What the hell? How have you not
+changed at all!? It's been 200 years!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>12</Id>
