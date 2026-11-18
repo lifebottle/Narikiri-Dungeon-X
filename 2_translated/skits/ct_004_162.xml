@@ -55,7 +55,7 @@
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>50812</PointerOffset>
@@ -65,7 +65,7 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>50920</PointerOffset>
@@ -77,7 +77,7 @@ Money's what I'm all about!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>51012</PointerOffset>
@@ -87,17 +87,17 @@ Money's what I'm all about!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>51092</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_162_005&gt;</VoiceId>
       <JapaneseText>そんなことない！　な、エト？</JapaneseText>
-      <EnglishText>That's not true! Right, &lt;Ethos&gt;?</EnglishText>
-      <Notes/>
+      <EnglishText>That's not true! Right, Ethos?</EnglishText>
+      <Notes>removed &lt;&gt; for ethos</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>51176</PointerOffset>
@@ -107,17 +107,17 @@ Money's what I'm all about!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>51264</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_162_007&gt;</VoiceId>
       <JapaneseText>ちょっ、エト……！　目そらすなよ！</JapaneseText>
-      <EnglishText>Dammit, &lt;Ethos&gt;! No running away!</EnglishText>
-      <Notes/>
+      <EnglishText>Dammit, Ethos! No running away!</EnglishText>
+      <Notes>removed &lt;&gt; for Ethos</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>51356</PointerOffset>
@@ -127,7 +127,7 @@ Money's what I'm all about!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>51440</PointerOffset>
@@ -149,7 +149,7 @@ the Thief's the best judge there is.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>51648</PointerOffset>
@@ -160,19 +160,19 @@ mouth is kind of thief-ish...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>51788</PointerOffset>
       <VoiceId>&lt;audio:VCT_004_162_012&gt;</VoiceId>
       <JapaneseText>なんだと！　おまえ、盗賊をバカにすんなよ！
 盗賊はひとすじの流れ星の男の美学なんだぞ？</JapaneseText>
-      <EnglishText>Whaa!? Hey, don't diss thieves! Thievery is the rizz of a
+      <EnglishText>Whaa!? Hey, don't diss thieves! Thievery is the charm of a
 man whose life is that of a single star, blazing in the sky!</EnglishText>
-      <Notes/>
+      <Notes>don't use rizz. -dragonbleapiece</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>51860</PointerOffset>
@@ -182,7 +182,7 @@ man whose life is that of a single star, blazing in the sky!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>51924</PointerOffset>
@@ -192,7 +192,7 @@ man whose life is that of a single star, blazing in the sky!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>52060</PointerOffset>
@@ -204,7 +204,7 @@ Normal &lt;Dio&gt;'s also greedy. And that's okay.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
     <Entry>
       <PointerOffset>52148</PointerOffset>
@@ -216,7 +216,7 @@ Okaa—huh...?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>16</Id>
-      <Status>Editing</Status>
+      <Status>Proofreading</Status>
     </Entry>
   </Strings>
   <Strings>
