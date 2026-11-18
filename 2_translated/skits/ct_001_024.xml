@@ -8,7 +8,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45328</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45396</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45540,45820,45980,46068,46256</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45676,45888</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -50,7 +50,8 @@
       <VoiceId>&lt;audio:VCT_001_024_001&gt;</VoiceId>
       <JapaneseText>ねぇ、そう言えば、アルベルトって、ぼくたちと一緒に
 食事してるけど、食べた物ってどうなってるの？</JapaneseText>
-      <EnglishText>Um, Albert? There's something I wanted to ask you for a while. You've had dinner with us before but how do you actually eat the food?</EnglishText>
+      <EnglishText>Hey, now that I think of it, Albert eats together with
+us, but what actually happens to the things he eats?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -61,7 +62,8 @@
       <VoiceId>&lt;audio:VCT_001_024_002&gt;</VoiceId>
       <JapaneseText>お、それ、オレも気になってた！
 扉開けても、服しか出てこねーしな</JapaneseText>
-      <EnglishText>Hey! That's right! It's been bothering me too! We've opened you several times but all we see is clothes!</EnglishText>
+      <EnglishText>Oh, hey, I was wondering that, too! Even if we
+open his doors, there's just clothes inside, right?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -71,7 +73,7 @@
       <PointerOffset>45400</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_024_003&gt;</VoiceId>
       <JapaneseText>クリュールゥ……</JapaneseText>
-      <EnglishText>Kuruu?</EnglishText>
+      <EnglishText>Coulueuruu...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
@@ -82,7 +84,8 @@
       <VoiceId>&lt;audio:VCT_001_024_004&gt;</VoiceId>
       <JapaneseText>まぁ、おめぇらの薄っぺらい脳みそで考えたところで、
 ぜぇーったいわかるわけがねぇーだーよ</JapaneseText>
-      <EnglishText>Well, you have to consider your brains are extremely small. We don't really expect you to understand ANYTHING.</EnglishText>
+      <EnglishText>Well, even if ya think about it long and hard, smooth-
+brained as ya are, you'll never figure it out, will ya?</EnglishText>
       <Notes>name issue</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
@@ -93,7 +96,8 @@
       <VoiceId>&lt;audio:VCT_001_024_005&gt;</VoiceId>
       <JapaneseText>う～ん……わたしたちよりいっぱい食べてるのに、
 どこに行ってるのか不思議だよね……</JapaneseText>
-      <EnglishText>Mister Albert... We were wondering if you'd be so kind to reveal us the secret where the food you eat goes....</EnglishText>
+      <EnglishText>Hmmmm... He eats even more than
+we do, though... How mysterious...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>5</Id>
@@ -104,7 +108,8 @@
       <VoiceId>&lt;audio:VCT_001_024_006&gt;</VoiceId>
       <JapaneseText>&lt;Mel&gt;&lt;Mel&gt;が、おらに興味を持ってるなら、教えるだよ。
 実は、おらの体の中というのは……</JapaneseText>
-      <EnglishText>Since &lt;Mel&gt;-&lt;Mel&gt; asked so kindly I'll reveal this wondrous secret! Let me tell you. What really is inside my body is...</EnglishText>
+      <EnglishText>If yer curious, &lt;Mel&gt;&lt;Mel&gt;, of course I'll
+tell ya. Truth is, my insides are, well...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
@@ -114,7 +119,7 @@
       <PointerOffset>45892</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_024_007&gt;</VoiceId>
       <JapaneseText>いうのは……？</JapaneseText>
-      <EnglishText>Is...?</EnglishText>
+      <EnglishText>Well...?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>7</Id>
@@ -124,7 +129,7 @@
       <PointerOffset>45984</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_024_008&gt;</VoiceId>
       <JapaneseText>体の中というのは…………実は…………</JapaneseText>
-      <EnglishText>...Inside my body...actually...is...</EnglishText>
+      <EnglishText>The truth about my insides is...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
@@ -134,7 +139,7 @@
       <PointerOffset>46072</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_024_009&gt;</VoiceId>
       <JapaneseText>…………おらにもよくわからねぇだ</JapaneseText>
-      <EnglishText>I don't have the slightest idea.</EnglishText>
+      <EnglishText>...a mystery to me, too.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
@@ -144,7 +149,7 @@
       <PointerOffset>46136</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_024_010&gt;</VoiceId>
       <JapaneseText>なにソレ！</JapaneseText>
-      <EnglishText>What the...!?</EnglishText>
+      <EnglishText>The heck!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
@@ -155,7 +160,8 @@
       <VoiceId>&lt;audio:VCT_001_024_011&gt;</VoiceId>
       <JapaneseText>ひとつだけ確かなのは、腹が減ったら、
 何か食べたくなるってことだ！</JapaneseText>
-      <EnglishText>The only thing I'm sure of is that food passes through my stomach and I...well, eat.</EnglishText>
+      <EnglishText>Well, one thing's for certain:
+when I'm hungry, I want to eat!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>

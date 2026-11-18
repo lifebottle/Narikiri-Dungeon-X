@@ -8,7 +8,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43220</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43344,43648,43768</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43432</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43536,43844</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -50,7 +50,8 @@
       <VoiceId>&lt;audio:VCT_001_010_001&gt;</VoiceId>
       <JapaneseText>あれが、時空戦士のひとり……だった
 &lt;Klarth&gt;博士なんてな……</JapaneseText>
-      <EnglishText>Look at that... even though the renowned &lt;Klarth&gt; is an Eternal Hero he turned into that...</EnglishText>
+      <EnglishText>So, that...was one of the Heroes of Time...?
+That was...Professor &lt;Klarth&gt; F. Lester...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -60,7 +61,7 @@
       <PointerOffset>43224</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_010_002&gt;</VoiceId>
       <JapaneseText>クルゥ……</JapaneseText>
-      <EnglishText>Kuruuu...</EnglishText>
+      <EnglishText>Couluu...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -71,7 +72,8 @@
       <VoiceId>&lt;audio:VCT_001_010_003&gt;</VoiceId>
       <JapaneseText>いんやー、くさかっただなぁ～。
 ポケットの中にいても、匂ってきただど</JapaneseText>
-      <EnglishText>At last I can get out~! The inside of that pocket smells horrible, kinda resembles someone ...</EnglishText>
+      <EnglishText>Talk about smelly, am I right? I
+could even smell 'im from yer pocket.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
@@ -81,7 +83,8 @@
       <PointerOffset>43436</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_010_004&gt;</VoiceId>
       <JapaneseText>いくらなんでもちょっと飲み過ぎだよね</JapaneseText>
-      <EnglishText>Whatever the case, we shouldn't think so much about it.</EnglishText>
+      <EnglishText>Any way you slice it, he's
+drinking a little too much.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
@@ -92,7 +95,8 @@
       <VoiceId>&lt;audio:VCT_001_010_005&gt;</VoiceId>
       <JapaneseText>でも、酔ってたからって
 あんな言い方ないと思う……！</JapaneseText>
-      <EnglishText>But, still! That's no way to talk to us...</EnglishText>
+      <EnglishText>But, drunk or not, you can't
+just talk to people like that...!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>5</Id>
@@ -102,7 +106,8 @@
       <PointerOffset>43652</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_010_006&gt;</VoiceId>
       <JapaneseText>んだんだ。&lt;Mel&gt;&lt;Mel&gt;をバカにするなんて許せねーだよな</JapaneseText>
-      <EnglishText>It's ok &lt;Mel&gt;-&lt;Mel&gt;! I'll never forgive that stupid old man for anything he said!</EnglishText>
+      <EnglishText>Well, I certainly won't be forgettin'
+how he treated ya, &lt;Mel&gt;&lt;Mel&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
@@ -113,7 +118,8 @@
       <VoiceId>&lt;audio:VCT_001_010_007&gt;</VoiceId>
       <JapaneseText>体中の穴という穴から酒が染み出てきて、
 あんだけくせーんだよな</JapaneseText>
-      <EnglishText>If I had come out, I'd have stained all his body's holes! That's how far I'd go for you!</EnglishText>
+      <EnglishText>The way he stank, it was like the
+booze was spewin' out from his pores.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
@@ -123,7 +129,7 @@
       <PointerOffset>43848</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_010_008&gt;</VoiceId>
       <JapaneseText>体中の穴という穴……！？</JapaneseText>
-      <EnglishText>All...his body's holes...!?</EnglishText>
+      <EnglishText>From his pores...!?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>8</Id>

@@ -8,7 +8,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43532,43692,43972,44148,44396</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43888,44064,44328</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -34,7 +34,8 @@
       <VoiceId>&lt;audio:VCT_001_014_001&gt;</VoiceId>
       <JapaneseText>あっ……&lt;Dio&gt;！
 ヒジに擦り傷が！</JapaneseText>
-      <EnglishText>Ah! &lt;Dio&gt;, you got a scratch on your elbow...!</EnglishText>
+      <EnglishText>Ah... &lt;Dio&gt;! You have
+a cut on your elbow!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -45,7 +46,8 @@
       <VoiceId>&lt;audio:VCT_001_014_002&gt;</VoiceId>
       <JapaneseText>ツバつけときゃ治るって。
 死なない死なない</JapaneseText>
-      <EnglishText>Spit on it, rub it a little and it all heals on its own! Nothing to worry about!</EnglishText>
+      <EnglishText>Eh, I'll just spit on it and it'll
+heal up. It's not gonna kill me!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -55,7 +57,8 @@
       <PointerOffset>43612</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_014_003&gt;</VoiceId>
       <JapaneseText>背中にも青アザできてる！</JapaneseText>
-      <EnglishText>I think I felt a shiver run down my back...</EnglishText>
+      <EnglishText>And you have bruises
+all over your back!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
@@ -65,7 +68,8 @@
       <PointerOffset>43696</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_014_004&gt;</VoiceId>
       <JapaneseText>全然だいじょーぶ！　痛くねーし</JapaneseText>
-      <EnglishText>No worries! It doesn't hurt!</EnglishText>
+      <EnglishText>I'm perfectly fine!
+Those don't hurt at all.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -75,7 +79,8 @@
       <PointerOffset>43784</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_014_005&gt;</VoiceId>
       <JapaneseText>痛くなくても、ばい菌が入ったラ……</JapaneseText>
-      <EnglishText>Even if it doesn't hurt we should disinfect the wound...</EnglishText>
+      <EnglishText>It might not hurt now, but
+what if it gets infected...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -86,7 +91,8 @@
       <VoiceId>&lt;audio:VCT_001_014_006&gt;</VoiceId>
       <JapaneseText>いつもエトに心配かけて。
 落ち着いて行動しないからでしょ</JapaneseText>
-      <EnglishText>You're always making Eto worry, what a child!</EnglishText>
+      <EnglishText>You know, Ethos is always worried about you
+because you never stop to think before you act.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
@@ -96,7 +102,8 @@
       <PointerOffset>43976</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_014_007&gt;</VoiceId>
       <JapaneseText>あ、&lt;Mel&gt;、ヒザから血が出てるぜ</JapaneseText>
-      <EnglishText>Hey, &lt;Mel&gt;. Your knee's bleeding.</EnglishText>
+      <EnglishText>Oh, &lt;Mel&gt;, your
+knee's bleeding.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -107,7 +114,8 @@
       <VoiceId>&lt;audio:VCT_001_014_008&gt;</VoiceId>
       <JapaneseText>え……ほ、ほんとだ……
 ど、どうしよう！</JapaneseText>
-      <EnglishText>R-really? N-no! What should I do?</EnglishText>
+      <EnglishText>Eh... Y-You're right...
+Wh-What do I do!?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
@@ -117,7 +125,8 @@
       <PointerOffset>44152</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_014_009&gt;</VoiceId>
       <JapaneseText>さっき魔物と戦ってこけた時のだな</JapaneseText>
-      <EnglishText>You did that because you fell when we were fighting that monster earlier.</EnglishText>
+      <EnglishText>Probably got it when you fell while we
+were fighting that monster, just now.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
@@ -128,7 +137,8 @@
       <VoiceId>&lt;audio:VCT_001_014_010&gt;</VoiceId>
       <JapaneseText>早くばんそうこう！
 あ、その前に消毒しなきゃ……！</JapaneseText>
-      <EnglishText>We need a bandage, quick! Oh no! That wound is pretty old, we need to disinfect!</EnglishText>
+      <EnglishText>Quick, get a bandage! No,
+wait, first, the disinfectant...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
@@ -138,7 +148,8 @@
       <PointerOffset>44332</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_014_011&gt;</VoiceId>
       <JapaneseText>うぅ……痛ぃよ……エト～</JapaneseText>
-      <EnglishText>Ahh! It hurts! Etoo!</EnglishText>
+      <EnglishText>Owww... It
+hurts... Ethos~</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
@@ -148,7 +159,7 @@
       <PointerOffset>44400</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_014_012&gt;</VoiceId>
       <JapaneseText>……落ち着けよ</JapaneseText>
-      <EnglishText>What a child...</EnglishText>
+      <EnglishText>...Hey, calm down.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>

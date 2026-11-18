@@ -8,7 +8,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282048,282216,282480,282716,283428,283636,283816</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282124,282296,282980</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282884</PointerOffset>
@@ -48,15 +48,15 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285552</PointerOffset>
       <JapaneseText>へんな驚きの声</JapaneseText>
-      <EnglishText>Weird Voice</EnglishText>
+      <EnglishText>Strange, Surprised Voice</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276017</PointerOffset>
@@ -106,52 +106,56 @@
       <VoiceId>&lt;audio:VSM_210_050_001&gt;</VoiceId>
       <JapaneseText>&lt;Suzu&gt;ちゃん……！
 どうしたんだ！？</JapaneseText>
-      <EnglishText>Hey, &lt;Suzu&gt;, are you okay!?</EnglishText>
+      <EnglishText>&lt;Suzu&gt;...!
+What's wrong!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282052</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_050_002&gt;</VoiceId>
       <JapaneseText>出てきなさい</JapaneseText>
-      <EnglishText>Show yourself.</EnglishText>
+      <EnglishText>Show yourselves.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282128</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_050_003&gt;</VoiceId>
       <JapaneseText>我々の幻を破るとはな</JapaneseText>
-      <EnglishText>You really tore down our little illusion.</EnglishText>
+      <EnglishText>So you broke our
+spell. Impressive.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282220</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_050_004&gt;</VoiceId>
       <JapaneseText>私たちの仲間を
 倒したのはあなた方ですね</JapaneseText>
-      <EnglishText>You were the ones that killed my scouts.</EnglishText>
+      <EnglishText>So you're the ones who
+struck my comrades down.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282300</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_050_005&gt;</VoiceId>
       <JapaneseText>手ごたえのない連中だった</JapaneseText>
-      <EnglishText>Quite a resistant bunch, honestly.</EnglishText>
+      <EnglishText>They hardly put
+up a fight.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282412</PointerOffset>
@@ -159,33 +163,35 @@
       <JapaneseText>またおまえら……！
 どーゆーつもりだ、
 &lt;Suzu&gt;ちゃんにまで！</JapaneseText>
-      <EnglishText>It's you bastards again...! And now
-you're even messing with &lt;Suzu&gt;!</EnglishText>
+      <EnglishText>It's you guys again...! Now
+you're going after &lt;Suzu&gt;!? What
+the hell are you trying to do!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282484</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_050_007&gt;</VoiceId>
       <JapaneseText>知り合いなのですか？</JapaneseText>
-      <EnglishText>An acquaintance of yours?</EnglishText>
+      <EnglishText>Are you acquainted?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282624</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_050_008&gt;</VoiceId>
       <JapaneseText>そんなんと違うよ</JapaneseText>
-      <EnglishText>Hell no!</EnglishText>
+      <EnglishText>Nah, it's not
+like that.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282624</PointerOffset>
@@ -193,14 +199,14 @@ you're even messing with &lt;Suzu&gt;!</EnglishText>
       <JapaneseText>なんかずっとオレら、
 嫌がらせされてんだ、
 こいつらに</JapaneseText>
-      <EnglishText>Every time something has
-gone to hell, these masked
-freaks were behind it.</EnglishText>
+      <EnglishText>These guys've
+just been messing
+with us for ages.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282720</PointerOffset>
@@ -208,65 +214,68 @@ freaks were behind it.</EnglishText>
       <JapaneseText>それでは、
 プルートの手の者では
 ないのですね</JapaneseText>
-      <EnglishText>In that case they cannot
-be allied with Pluto.</EnglishText>
+      <EnglishText>Then, in that case,
+I take it they're not
+minions of Pluto's.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282808</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_050_011&gt;</VoiceId>
       <JapaneseText>一体、&lt;Suzu&gt;ちゃんに
 何をしたの！？</JapaneseText>
-      <EnglishText>What have you done to &lt;Suzu&gt;!?</EnglishText>
+      <EnglishText>Hey, what did you
+do to &lt;Suzu&gt;!?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282888</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_050_012&gt;</VoiceId>
       <JapaneseText>ちょっとからかってみただけ</JapaneseText>
-      <EnglishText>We were just playing a little game.</EnglishText>
+      <EnglishText>We just *teased*
+her a little, really.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282984</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_050_013&gt;</VoiceId>
       <JapaneseText>だが、そう簡単には、
 たぶらかせなかったか</JapaneseText>
-      <EnglishText>But, she didn't really want to
-play along. Shame, really.</EnglishText>
+      <EnglishText>But she's not so easily
+deceived, after all.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283204</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_050_016&gt;</VoiceId>
       <JapaneseText>あいつら……！</JapaneseText>
-      <EnglishText>Those rotten...!</EnglishText>
+      <EnglishText>Those bastards...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283264</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_050_017&gt;</VoiceId>
       <JapaneseText>平気！？</JapaneseText>
-      <EnglishText>Is everyone okay!?</EnglishText>
+      <EnglishText>Are you okay!?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283432</PointerOffset>
@@ -277,7 +286,7 @@ play along. Shame, really.</EnglishText>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283432</PointerOffset>
@@ -285,14 +294,14 @@ play along. Shame, really.</EnglishText>
       <JapaneseText>掟に忠実で、自分の生き方に疑問を
 持たなかった、以前の私なら
 こんな失態はなかったでしょう</JapaneseText>
-      <EnglishText>I fell into their illusion knowing it was a trap...
-tempted by the questions lurking in my mind
-since I met you two. I've acted disgracefully.</EnglishText>
+      <EnglishText>Before, I was loyal to the code, and
+never doubted my way of life. I would
+not have made this mistake, back then.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283540</PointerOffset>
@@ -300,24 +309,25 @@ since I met you two. I've acted disgracefully.</EnglishText>
       <JapaneseText>それって、
 &lt;Suzu&gt;ちゃんは前と
 何か変わったってことか？</JapaneseText>
-      <EnglishText>So...you've had these doubts
-for a long time?</EnglishText>
+      <EnglishText>So you mean, you've
+changed a little compared
+to how you were before?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283640</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_050_021&gt;</VoiceId>
       <JapaneseText>ええ……&lt;Cless&gt;さんとの出会いが
 私を変えたのです</JapaneseText>
-      <EnglishText>Correct... Ever since I met with
-&lt;Cless&gt; I have had my doubts.</EnglishText>
+      <EnglishText>Yes... Meeting &lt;Cless&gt;
+changed me.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>19</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283820</PointerOffset>
@@ -325,89 +335,93 @@ for a long time?</EnglishText>
       <JapaneseText>今は、こんな迷いのある
 自分もちゃんと受け入れたい、
 そう思うんです</JapaneseText>
-      <EnglishText>I think just now...I wanted to be
-tricked and accepted the temptation.</EnglishText>
+      <EnglishText>Now, I find I want
+to accept myself fully,
+even in my doubts.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>20</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283820</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_050_023&gt;</VoiceId>
       <JapaneseText>どんな不安があっても
 それと向き合いたい、と</JapaneseText>
-      <EnglishText>If there exists any anxiety,
-our own judgment will be
-clouded by our feelings.</EnglishText>
+      <EnglishText>And face whatever
+anxieties and uncertainties
+may arise within me.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>20</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283892</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_050_024&gt;</VoiceId>
       <JapaneseText>&lt;Suzu&gt;ちゃんも……</JapaneseText>
-      <EnglishText>&lt;Suzu&gt;...You're...</EnglishText>
+      <EnglishText>You feel that
+way, too...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>22</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283972</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_050_025&gt;</VoiceId>
       <JapaneseText>……オレらと
 同じなんだな</JapaneseText>
-      <EnglishText>No different from us...</EnglishText>
+      <EnglishText>...So you're the
+same as us, huh.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>23</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284056</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_050_026&gt;</VoiceId>
       <JapaneseText>そっか……
 強いんだね、みんな</JapaneseText>
-      <EnglishText>Everyone...is so strong...</EnglishText>
+      <EnglishText>I see... You're all
+pretty strong, huh?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>24</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284120</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_050_027&gt;</VoiceId>
       <JapaneseText>強い……？</JapaneseText>
-      <EnglishText>Strong?</EnglishText>
+      <EnglishText>"Strong"...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>25</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285556</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_050_044&gt;</VoiceId>
       <JapaneseText>ファあ……！</JapaneseText>
-      <EnglishText>Haah!</EnglishText>
+      <EnglishText>Wooaaww...!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>26</Id>
-      <Status>Proofreading</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>285628</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_050_045&gt;</VoiceId>
       <JapaneseText>今のエトの声……？</JapaneseText>
-      <EnglishText>Was that Eto's voice just now!?</EnglishText>
+      <EnglishText>Was that Ethos's voice...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>27</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285692</PointerOffset>
@@ -417,7 +431,7 @@ clouded by our feelings.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>28</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

@@ -8,7 +8,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44244,44412,44796,44972</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44596</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -34,7 +34,8 @@
       <VoiceId>&lt;audio:VCT_002_042_001&gt;</VoiceId>
       <JapaneseText>&lt;Chester&gt;さんって、
 弓を使った攻撃がお上手なんですね</JapaneseText>
-      <EnglishText>I'm impressed Mister &lt;Chester&gt;! Your skill with the bow is excellent!</EnglishText>
+      <EnglishText>You're very skilled at attacking
+with your bow, Mr. Barklight.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -45,7 +46,8 @@
       <VoiceId>&lt;audio:VCT_002_042_002&gt;</VoiceId>
       <JapaneseText>ああ、まぁな。
 それから、オレのことは&lt;Chester&gt;でいいぜ？</JapaneseText>
-      <EnglishText>Ah, thanks. About that, please just call me "&lt;Chester&gt;."</EnglishText>
+      <EnglishText>Well, yeah. And I don't mind if
+you call me &lt;Chester&gt;, y'know?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -55,7 +57,7 @@
       <PointerOffset>44320</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_042_003&gt;</VoiceId>
       <JapaneseText>あ、わ、わかりました</JapaneseText>
-      <EnglishText>U-understood!</EnglishText>
+      <EnglishText>Ah, o-okay, I understand.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
@@ -66,7 +68,8 @@
       <VoiceId>&lt;audio:VCT_002_042_004&gt;</VoiceId>
       <JapaneseText>それからその敬語じゃなくて、
 フツーで頼む</JapaneseText>
-      <EnglishText>Again, don't be so polite all the time. Lighten up a bit.</EnglishText>
+      <EnglishText>And you don't need to be so
+stiff. Just keep it casual, yeah?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -77,7 +80,8 @@
       <VoiceId>&lt;audio:VCT_002_042_005&gt;</VoiceId>
       <JapaneseText>あ、は、はい、わかりまし……
 わかる……わかったわ……</JapaneseText>
-      <EnglishText>Y-yes, undertoo—G-Got it!</EnglishText>
+      <EnglishText>Ah, y-yes, I underst...
+I get... G-Got it.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -87,7 +91,7 @@
       <PointerOffset>44600</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_042_006&gt;</VoiceId>
       <JapaneseText>……何やってんだ、&lt;Mel&gt;</JapaneseText>
-      <EnglishText>Whatcha doing, &lt;Mel&gt;?</EnglishText>
+      <EnglishText>...What're you doing, &lt;Mel&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
@@ -98,7 +102,8 @@
       <VoiceId>&lt;audio:VCT_002_042_007&gt;</VoiceId>
       <JapaneseText>こ、こんな感じで
 い、いいのかな……&lt;Chester&gt;……</JapaneseText>
-      <EnglishText>Is t-this okay, &lt;Chester&gt;?</EnglishText>
+      <EnglishText>I-Is this okay...
+Ch-Chester...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -109,7 +114,8 @@
       <VoiceId>&lt;audio:VCT_002_042_008&gt;</VoiceId>
       <JapaneseText>ふふん、いい感じだ。
 そんな感じでお願いするよ</JapaneseText>
-      <EnglishText>Hahaha. Yes it's great. Please speak like that.</EnglishText>
+      <EnglishText>Heh, good job. Just
+keep it up, yeah?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
@@ -120,7 +126,7 @@
       <VoiceId>&lt;audio:VCT_002_042_009&gt;</VoiceId>
       <JapaneseText>わ、わかりました、&lt;Chester&gt;さん……
 あっ……</JapaneseText>
-      <EnglishText>Understood, Mister &lt;Chester&gt;—Oh.</EnglishText>
+      <EnglishText>I-I understand, Mr. Barklight... Er...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
@@ -130,7 +136,8 @@
       <PointerOffset>44976</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_042_010&gt;</VoiceId>
       <JapaneseText>ま……無理することはないさ</JapaneseText>
-      <EnglishText>Oh, well. There's no use to it, is there?</EnglishText>
+      <EnglishText>Eh... No need to
+force yourself.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>

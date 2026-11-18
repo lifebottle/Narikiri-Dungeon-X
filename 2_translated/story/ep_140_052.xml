@@ -8,7 +8,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275104</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275168</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275276,275780,275936</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275424</PointerOffset>
@@ -40,15 +40,15 @@
       <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275672,275864</PointerOffset>
       <JapaneseText>ブレイナー</JapaneseText>
-      <EnglishText>Brainer</EnglishText>
+      <EnglishText>Brynhildr</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268657</PointerOffset>
@@ -97,11 +97,11 @@
       <PointerOffset>275036</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_007&gt;</VoiceId>
       <JapaneseText>え……！</JapaneseText>
-      <EnglishText>Wha...?</EnglishText>
+      <EnglishText>Eh...!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275108</PointerOffset>
@@ -111,67 +111,69 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275172</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_009&gt;</VoiceId>
       <JapaneseText>クルール！！</JapaneseText>
-      <EnglishText>Kuruuru!</EnglishText>
+      <EnglishText>Couleuru!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275280</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_010&gt;</VoiceId>
       <JapaneseText>魔物を思い通りに操る……！？
 そんなことができるのか？</JapaneseText>
-      <EnglishText>He can control wild monsters at
-will...!? How can he do that?</EnglishText>
+      <EnglishText>He's controlling the
+monsters...!? Is
+that even possible?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275428</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_011&gt;</VoiceId>
       <JapaneseText>以前、&lt;Klarth&gt;さんに
 聞いたことがあります</JapaneseText>
-      <EnglishText>&lt;Klarth&gt; once told us about this!</EnglishText>
+      <EnglishText>I've heard about it
+from &lt;Klarth&gt; before.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275428</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_012&gt;</VoiceId>
       <JapaneseText>太古の禁呪文を使えば
 それが可能だと</JapaneseText>
-      <EnglishText>By using ancient forbidden spells,
-it's possible to control monsters!</EnglishText>
+      <EnglishText>It is possible, through
+use of an ancient spell.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275676</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_013Z&gt;</VoiceId>
       <JapaneseText>ハハハ、
 扉の封印は解かれた</JapaneseText>
-      <EnglishText>Hahahaha... I'll break the seal
-on that damned door.</EnglishText>
+      <EnglishText>Hahaha... The door's
+seal has been lifted.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>7</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275676</PointerOffset>
@@ -179,14 +181,15 @@ on that damned door.</EnglishText>
       <JapaneseText>この知能の粋の果てで
 編み上げた術を使えば、
 魔界の民も操れる</JapaneseText>
-      <EnglishText>With the results of my research,
-I was able to compose a spell
-to control a legion of monsters.</EnglishText>
-      <Notes/>
+      <EnglishText>I, who stand at the peak of all mortal
+intellect, have devised a technique through
+which I can now control even daemons.</EnglishText>
+      <Notes>this reads like dogshit writing even in jp
+so it's either "it reads like shit" or "it's inaccurate"</Notes>
       <SpeakerId>6</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>275676</PointerOffset>
@@ -194,47 +197,49 @@ to control a legion of monsters.</EnglishText>
       <JapaneseText>この醜い世界は、
 私の従僕になった連中の
 手にかかり、滅びるんだ！</JapaneseText>
-      <EnglishText>This despicable world... Once I
-finally have full control of my
-servants...all of you will perish!</EnglishText>
-      <Notes/>
+      <EnglishText>This unsightly world will be
+destroyed those who have
+now become my minions!</EnglishText>
+      <Notes>this reads like dogshit writing even in jp
+so it's either "it reads like shit" or "it's inaccurate"</Notes>
       <SpeakerId>6</SpeakerId>
       <Id>7</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>275784</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_016&gt;</VoiceId>
       <JapaneseText>一体、おまえの目的は何なんだ！
 どうしてそんなことを！</JapaneseText>
-      <EnglishText>Just what is your objective!?
-Why would you do this!?</EnglishText>
+      <EnglishText>What possible reason could
+you have to do all this!?
+What are you after!?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275868</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_017Z&gt;</VoiceId>
       <JapaneseText>醜いこの世界を再生する！</JapaneseText>
-      <EnglishText>To restore the long lost
-shine of this world.</EnglishText>
+      <EnglishText>This unsightly world
+will be reborn!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275940</PointerOffset>
       <VoiceId>&lt;audio:VSM_140_050_018&gt;</VoiceId>
       <JapaneseText>待て、ブレイナー！</JapaneseText>
-      <EnglishText>Wait,Brainer!</EnglishText>
+      <EnglishText>Wait! Brynhildr!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

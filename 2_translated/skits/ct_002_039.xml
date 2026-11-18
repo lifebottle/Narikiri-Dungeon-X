@@ -8,7 +8,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44644,44796,45188</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44724,44888,44996,45092,45504</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45252</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -42,7 +42,8 @@
       <VoiceId>&lt;audio:VCT_002_039_001&gt;</VoiceId>
       <JapaneseText>&lt;Mel&gt;、おなか空いてない？
 なにか食べなくて平気？</JapaneseText>
-      <EnglishText>&lt;Mel&gt;, aren't you hungry? You haven't been eating much lately...are you ok?</EnglishText>
+      <EnglishText>Aren't you hungry, &lt;Mel&gt;? Do
+you want to anything to eat?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -52,7 +53,7 @@
       <PointerOffset>44648</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_039_002&gt;</VoiceId>
       <JapaneseText>うん、平気だよ、全然</JapaneseText>
-      <EnglishText>Yeah I'm fine, at all.</EnglishText>
+      <EnglishText>No, I'm perfectly okay.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -62,7 +63,8 @@
       <PointerOffset>44728</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_039_003&gt;</VoiceId>
       <JapaneseText>&lt;Mel&gt;、その『全然』、違うぞ</JapaneseText>
-      <EnglishText>&lt;Mel&gt;, that "at all" is wrong.</EnglishText>
+      <EnglishText>Y'know, it sounds kinda weird if
+you say "perfectly" like that, Mel.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
@@ -72,7 +74,7 @@
       <PointerOffset>44800</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_039_004&gt;</VoiceId>
       <JapaneseText>え？　どういうこと？</JapaneseText>
-      <EnglishText>W-what do you mean?</EnglishText>
+      <EnglishText>Eh? What do you mean?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -82,7 +84,8 @@
       <PointerOffset>44892</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_039_005&gt;</VoiceId>
       <JapaneseText>『全然』の後には、必ず否定の言葉が来んだ</JapaneseText>
-      <EnglishText>At all is always right after a negative word.</EnglishText>
+      <EnglishText>I mean, it's kinda forceful, right? So it ends
+up sounding like you don't really mean it.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
@@ -93,7 +96,8 @@
       <VoiceId>&lt;audio:VCT_002_039_006&gt;</VoiceId>
       <JapaneseText>だから、全然ダメ、とか
 全然おもしろくねーとかはいいけど</JapaneseText>
-      <EnglishText>That's why "No good at all" and "That's no fun at all" are ok.</EnglishText>
+      <EnglishText>When you say, "it went perfectly," that
+sounds fine, or "it was perfectly round"...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
@@ -104,7 +108,8 @@
       <VoiceId>&lt;audio:VCT_002_039_007&gt;</VoiceId>
       <JapaneseText>全然いいとか、全然面白いとかは
 違うんだぜ</JapaneseText>
-      <EnglishText>But "Good at all" and "Fun at all" are wrong.</EnglishText>
+      <EnglishText>But if you say, "I'm perfectly happy," or
+"it went perfectly well," it sounds weird.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
@@ -115,7 +120,8 @@
       <VoiceId>&lt;audio:VCT_002_039_008&gt;</VoiceId>
       <JapaneseText>へぇ……さすが、色々と
 本読んでるだけあるね</JapaneseText>
-      <EnglishText>Woow! It shows you read a lot of books!</EnglishText>
+      <EnglishText>Huh... I guess you would know a lot
+about language, since you read so much.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
@@ -125,7 +131,7 @@
       <PointerOffset>45256</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_039_009&gt;</VoiceId>
       <JapaneseText>クリュル～</JapaneseText>
-      <EnglishText>Kuruuuru!</EnglishText>
+      <EnglishText>Coulueru~</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
@@ -135,7 +141,7 @@
       <PointerOffset>45316</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_039_010&gt;</VoiceId>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText>Um...</EnglishText>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
@@ -146,7 +152,8 @@
       <VoiceId>&lt;audio:VCT_002_039_011&gt;</VoiceId>
       <JapaneseText>それできみは
 何も食べなくて平気？</JapaneseText>
-      <EnglishText>At any rate you haven't been eating much either, are you okay?</EnglishText>
+      <EnglishText>Well, anyway, &lt;Dio&gt;, do
+you want anything to eat?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
@@ -157,7 +164,8 @@
       <VoiceId>&lt;audio:VCT_002_039_012&gt;</VoiceId>
       <JapaneseText>え？　オレ？　うーんと、
 オレも全然だいじょーぶ！</JapaneseText>
-      <EnglishText>What? Me? Mmm, it's no problem at all!</EnglishText>
+      <EnglishText>Eh? Me? Nope,
+I'm perfectly fine!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>

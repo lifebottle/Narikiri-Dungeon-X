@@ -8,7 +8,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44852,44944,45316,45456,45696</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45800</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -34,7 +34,8 @@
       <VoiceId>&lt;audio:VCT_002_038_001&gt;</VoiceId>
       <JapaneseText>ノルンさんはどうしてわたしたちのところへ
 アルベルトさんを？</JapaneseText>
-      <EnglishText>One question, why did Miss Norn send Mister Albert to our home in the first place?</EnglishText>
+      <EnglishText>Why did Norn send
+you to us, Albert?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -45,7 +46,8 @@
       <VoiceId>&lt;audio:VCT_002_038_002&gt;</VoiceId>
       <JapaneseText>それは、&lt;Mel&gt;&lt;Mel&gt;が一人前の大人として、
 成長できるようにするためだ～よ</JapaneseText>
-      <EnglishText>That'd be because &lt;Mel&gt;-&lt;Mel&gt;'s about to start turning into a full-fledged adult, so I was sent to watch over your growth to become a great person.</EnglishText>
+      <EnglishText>That was all so ya'd grow into
+a real, fine adult, &lt;Me&gt;&lt;Mel&gt;&lt;Mel&gt;~</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -55,7 +57,8 @@
       <PointerOffset>44948</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_038_003&gt;</VoiceId>
       <JapaneseText>ノルン様も、さっき、そう言ってただ</JapaneseText>
-      <EnglishText>Mrs. Norn said that some time ago.</EnglishText>
+      <EnglishText>And that's what the Great
+Norn said herself, ain't it?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
@@ -66,7 +69,8 @@
       <VoiceId>&lt;audio:VCT_002_038_004&gt;</VoiceId>
       <JapaneseText>そうじゃなくて、ノルンさんは
 どうしてわたしたちに親切なんですか？</JapaneseText>
-      <EnglishText>That's...not what I meant. Why is she doing all these kind things for us?</EnglishText>
+      <EnglishText>That's not really what I meant. I'm more
+asking, why is Norn so kind to us?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -77,7 +81,8 @@
       <VoiceId>&lt;audio:VCT_002_038_005&gt;</VoiceId>
       <JapaneseText>そう聞いたのに、ノルンさんに
 質問をそらされた気がして……</JapaneseText>
-      <EnglishText>Miss Norn simply evaded that question...</EnglishText>
+      <EnglishText>We asked her, but I felt like she
+was trying to avoid the question...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -88,7 +93,8 @@
       <VoiceId>&lt;audio:VCT_002_038_006&gt;</VoiceId>
       <JapaneseText>むはは、大丈夫だよ。ノルン様がどったらつもりでも、
 きっと、悪い事にはならないはずだ</JapaneseText>
-      <EnglishText>Ahahaha! That's ok! I'm sure it wasn't Miss Norn intention. She isn't a bad person at all.</EnglishText>
+      <EnglishText>Oohaha, nothin' to worry over. Whatever the Great
+Norn's plannin', I'm sure it won't be nothin' bad.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -99,7 +105,8 @@
       <VoiceId>&lt;audio:VCT_002_038_007&gt;</VoiceId>
       <JapaneseText>そういうこって、今だって『なりきり士』の力が、
 &lt;Mel&gt;&lt;Mel&gt;の役に立ってるはずだど？</JapaneseText>
-      <EnglishText>For instance, weren't &lt;Mel&gt;-&lt;Mel&gt;'s "Roleplayer" powers useful so far?</EnglishText>
+      <EnglishText>And those "Roleplayer" powers are provin'
+pretty helpful to ya, aren't they, &lt;Mel&gt;&lt;Mel&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -109,7 +116,7 @@
       <PointerOffset>45540</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_038_008&gt;</VoiceId>
       <JapaneseText>それはそうなんですけど……</JapaneseText>
-      <EnglishText>You're right about that but...</EnglishText>
+      <EnglishText>That's true, but...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -120,7 +127,8 @@
       <VoiceId>&lt;audio:VCT_002_038_009&gt;</VoiceId>
       <JapaneseText>そんだけわかればだいじょぶだぁ。ほれ、&lt;Mel&gt;&lt;Mel&gt;、
 ここで、新しい衣装に着替えて、また役に立って……</JapaneseText>
-      <EnglishText>Then everything's all right! Now &lt;Mel&gt;-&lt;Mel&gt;...what about if you try this new garment I made just for you...It will be useful...</EnglishText>
+      <EnglishText>Well, long as ya understand. Anyway, &lt;Mel&gt;&lt;Mel&gt;, why
+don't ya try on some new clothes? They'll be real helpful...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
@@ -131,7 +139,8 @@
       <VoiceId>&lt;audio:VCT_002_038_010&gt;</VoiceId>
       <JapaneseText>このエロタンス！
 &lt;Mel&gt;の着替えが見たいだけだろ！</JapaneseText>
-      <EnglishText>You perverted piece of wood! You just want to see &lt;Mel&gt; changing clothes!</EnglishText>
+      <EnglishText>Friggin' perverted closet! You just
+wanna watch &lt;Mel&gt; get changed!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>

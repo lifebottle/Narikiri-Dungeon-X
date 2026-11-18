@@ -8,7 +8,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48780,49076,49316,49488</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48960,49164</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49572</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -42,7 +42,8 @@
       <VoiceId>&lt;audio:VCT_001_003_001&gt;</VoiceId>
       <JapaneseText>&lt;Mel&gt;、ちゃんと必要なもの
 買ったね</JapaneseText>
-      <EnglishText>&lt;Mel&gt;! You bought such beautiful wares!</EnglishText>
+      <EnglishText>You bought everything we
+need, didn't you, &lt;Mel&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -53,7 +54,8 @@
       <VoiceId>&lt;audio:VCT_001_003_002&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;、ほら、
 ボタン掛け違えてる</JapaneseText>
-      <EnglishText>&lt;Dio&gt;, here! We need to visit some cloth button stores!</EnglishText>
+      <EnglishText>Oh, &lt;Dio&gt;. Look, you put one of
+your buttons in the wrong hole.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
@@ -63,7 +65,8 @@
       <PointerOffset>48784</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_003_003&gt;</VoiceId>
       <JapaneseText>エト助は、ふたりの保護者みたいだなや</JapaneseText>
-      <EnglishText>Eto, you really do a good job taking care of these kids! Such honest love!</EnglishText>
+      <EnglishText>Ya really are like their
+guardian, aren't ya, Ethos?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
@@ -74,7 +77,8 @@
       <VoiceId>&lt;audio:VCT_001_003_004&gt;</VoiceId>
       <JapaneseText>そうだよ！
 ぼくはふたりのお母さんだもん！</JapaneseText>
-      <EnglishText>But of course! That's because I am their mother!</EnglishText>
+      <EnglishText>Yes, I am! Because
+I'm their mom!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -85,7 +89,8 @@
       <VoiceId>&lt;audio:VCT_001_003_005&gt;</VoiceId>
       <JapaneseText>へん、エトが
 母ちゃんなもんかよ</JapaneseText>
-      <EnglishText>Heh, you'd need to be nuts to think Eto is our mother!</EnglishText>
+      <EnglishText>Hmph. How could
+Ethos be *my* mom?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
@@ -96,7 +101,8 @@
       <VoiceId>&lt;audio:VCT_001_003_006&gt;</VoiceId>
       <JapaneseText>あはは～～ん。
 おめぇ、ほんとはエト助のこと、大好きなんだべ</JapaneseText>
-      <EnglishText>Hehehe! Don't act like you dislike Eto, because truth of the matter is you're a huge momma's boy!</EnglishText>
+      <EnglishText>Ahahahaaa~ Truth is, ya really
+*do* love Ethos, don't ya, brat?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -106,7 +112,8 @@
       <PointerOffset>49168</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_003_007&gt;</VoiceId>
       <JapaneseText>うるせー！　タンス野郎は黙ってろ！！</JapaneseText>
-      <EnglishText>W-what did you say!? Shut your trap, dresser bastard!</EnglishText>
+      <EnglishText>Shaddup! Closet freaks
+shouldn't talk!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
@@ -117,7 +124,8 @@
       <VoiceId>&lt;audio:VCT_001_003_008&gt;</VoiceId>
       <JapaneseText>はぁん？　誰に向かってタンス言ってんだど！
 おめぇなんぞ、毛も生えてねぇ、ハゲぼうずのくせが！</JapaneseText>
-      <EnglishText>Huh? Who are you calling a bastard? Look at that huge forehead, you are gonna become a beautiful bald kid in no time!</EnglishText>
+      <EnglishText>Huuuh? Who d'ya think you're callin' a closet!? Ya
+wouldn't know furniture if it fell on yer head, ya numbskull!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
@@ -127,7 +135,8 @@
       <PointerOffset>49408</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_003_009&gt;</VoiceId>
       <JapaneseText>ほら、ふたりともけんかしちゃだめ！</JapaneseText>
-      <EnglishText>Hey! You two there! Stop fighting!</EnglishText>
+      <EnglishText>Hey, you two,
+no fighting!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
@@ -137,7 +146,7 @@
       <PointerOffset>49492</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_003_010&gt;</VoiceId>
       <JapaneseText>す……すまねーだ、母ちゃん</JapaneseText>
-      <EnglishText>I-I'm sorry, mom.</EnglishText>
+      <EnglishText>S...Sorry, Mama...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
@@ -147,7 +156,7 @@
       <PointerOffset>49576</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_003_011&gt;</VoiceId>
       <JapaneseText>あれ……アルベルトさんまで……</JapaneseText>
-      <EnglishText>Eh? Now even Mister Albert...</EnglishText>
+      <EnglishText>Wait... Now Albert, too...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>

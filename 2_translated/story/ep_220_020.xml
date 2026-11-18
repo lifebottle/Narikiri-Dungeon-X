@@ -8,7 +8,7 @@
       <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310272,310740,311928</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310344,310668,311168,312792,313096</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310816,311008,311604,312588</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311232</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311320</PointerOffset>
@@ -48,7 +48,7 @@
       <EnglishText>&lt;Arche&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311396</PointerOffset>
@@ -56,7 +56,7 @@
       <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311520</PointerOffset>
@@ -64,7 +64,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311684,312272</PointerOffset>
@@ -72,7 +72,7 @@
       <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311756</PointerOffset>
@@ -80,7 +80,7 @@
       <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>10</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311848,312360</PointerOffset>
@@ -88,7 +88,7 @@
       <EnglishText>&lt;Klarth&gt;</EnglishText>
       <Notes/>
       <Id>11</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>303913</PointerOffset>
@@ -138,12 +138,13 @@
       <VoiceId>&lt;audio:VSM_220_020_001&gt;</VoiceId>
       <JapaneseText>どうやら里の者たちは、
 敵地で命果てたようです……</JapaneseText>
-      <EnglishText>It seems like most of the ninja in
-the village died behind enemy lines...</EnglishText>
+      <EnglishText>It would appear my village's
+people have lost their
+lives in enemy territory...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310276</PointerOffset>
@@ -151,50 +152,51 @@ the village died behind enemy lines...</EnglishText>
       <JapaneseText>じゃあ、
 プルートと戦う人が、
 もうこの里にはいないの？</JapaneseText>
-      <EnglishText>So there's no one to fight
-against Pluto in this village?</EnglishText>
+      <EnglishText>Then, there's no one
+left in the village who
+can fight against Pluto?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310348</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_020_003&gt;</VoiceId>
       <JapaneseText>やっぱ、オレらが……</JapaneseText>
-      <EnglishText>I knew it...even with
-us here, this is...</EnglishText>
+      <EnglishText>So we'll have to...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310592</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_020_004&gt;</VoiceId>
       <JapaneseText>里の精鋭の力をもってしても
 突破できなかったのです</JapaneseText>
-      <EnglishText>Without the village's elite soldiers, our
-offense is heavily compromised...</EnglishText>
+      <EnglishText>Even with the village's elite,
+we were unable to penetrate
+the enemy's defenses.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310592</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_020_005&gt;</VoiceId>
       <JapaneseText>その敵地にこの少数で
 潜入するなんて無茶です</JapaneseText>
-      <EnglishText>With this small amount of people,
-it is impossible to break through
-Pluto's defenses...</EnglishText>
+      <EnglishText>To try to infiltrate their
+territory with so few people
+would be unfathomable.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310592</PointerOffset>
@@ -202,24 +204,25 @@ Pluto's defenses...</EnglishText>
       <JapaneseText>どうしてこんな時に、
 私は里を留守に
 してしまったのでしょう……</JapaneseText>
-      <EnglishText>Why did I have to leave the village
-at such a critical time...?</EnglishText>
+      <EnglishText>Why did I have to be
+away from the village at
+such a critical time...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310672</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_020_007&gt;</VoiceId>
       <JapaneseText>&lt;Rody&gt;、
 行っちゃうのか？</JapaneseText>
-      <EnglishText>Rody...are you leaving?</EnglishText>
+      <EnglishText>Are you leaving, &lt;Rody&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310744</PointerOffset>
@@ -229,27 +232,28 @@ at such a critical time...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310820</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_020_009&gt;</VoiceId>
       <JapaneseText>助けを呼んでくればいい？</JapaneseText>
-      <EnglishText>Hey, is it ok if I ask for some help?</EnglishText>
+      <EnglishText>Is it okay if I
+call for backup?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>310896</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_020_010&gt;</VoiceId>
       <JapaneseText>助け？　一体誰を……？</JapaneseText>
-      <EnglishText>Help? Just who would you...?</EnglishText>
+      <EnglishText>Backup? Who would you...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311012</PointerOffset>
@@ -257,141 +261,146 @@ at such a critical time...?</EnglishText>
       <JapaneseText>&lt;Suzu&gt;ちゃんが
 ピンチだって言えば、
 必ず飛んできてくれる人たち</JapaneseText>
-      <EnglishText>People who I'm sure will come
-running here as soon as they
-hear you're in a pinch!</EnglishText>
+      <EnglishText>Well, you see, there's this little group of
+people who'll come running the moment
+they hear you're in trouble, &lt;Suzu&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311072</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_020_012&gt;</VoiceId>
       <JapaneseText>え……？</JapaneseText>
-      <EnglishText>What...?</EnglishText>
+      <EnglishText>Eh...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311172</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_020_013&gt;</VoiceId>
       <JapaneseText>……呼ぶったって、
 あの指輪で過去に行って……</JapaneseText>
-      <EnglishText>...She's gonna ask for help...and
-she was going to the past...?</EnglishText>
+      <EnglishText>...So you're gonna go
+back into the past
+to call 'em here...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311236</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_020_014&gt;</VoiceId>
       <JapaneseText>まさか……</JapaneseText>
-      <EnglishText>...Could it be...?</EnglishText>
+      <EnglishText>No way...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>14</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311324</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_020_015&gt;</VoiceId>
       <JapaneseText>&lt;Suzu&gt;ちゃん！
 ピンチなんだって！？</JapaneseText>
-      <EnglishText>What do you mean, my cute
-little &lt;Suzu&gt; is in trouble!?</EnglishText>
+      <EnglishText>&lt;Suzu&gt;! I heard you're
+in big trouble!?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>15</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311400</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_020_016&gt;</VoiceId>
       <JapaneseText>おまえ！　声が大きい！</JapaneseText>
-      <EnglishText>Hey! Keep your voice down!</EnglishText>
+      <EnglishText>Hey, you're
+too loud!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>16</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311460</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_020_017&gt;</VoiceId>
       <JapaneseText>皆さん！</JapaneseText>
-      <EnglishText>Everyone...!</EnglishText>
+      <EnglishText>Everyone!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>17</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311524</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_020_018&gt;</VoiceId>
       <JapaneseText>クルール！</JapaneseText>
-      <EnglishText>Kuruuuru!</EnglishText>
+      <EnglishText>Couleuru!</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>18</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311608</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_020_019&gt;</VoiceId>
       <JapaneseText>呼んできたよ、助っ人さんたちを</JapaneseText>
-      <EnglishText>Told you I'd bring them!
-Here's the help!</EnglishText>
+      <EnglishText>And this is
+our backup.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>19</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311688</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_020_020&gt;</VoiceId>
       <JapaneseText>久しぶりだね、&lt;Suzu&gt;ちゃん</JapaneseText>
-      <EnglishText>It's nice to see you again, &lt;Suzu&gt;.</EnglishText>
+      <EnglishText>It's been a
+while, &lt;Suzu&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>20</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311760</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_020_021&gt;</VoiceId>
       <JapaneseText>ご無沙汰しています</JapaneseText>
-      <EnglishText>It has been a long time!</EnglishText>
+      <EnglishText>It's wonderful to
+see you again.</EnglishText>
       <Notes/>
       <SpeakerId>10</SpeakerId>
       <Id>21</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311852</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_020_022&gt;</VoiceId>
       <JapaneseText>なんだ、君たちも
 こんなところにいたのか</JapaneseText>
-      <EnglishText>Oh look, you kids are here too.</EnglishText>
+      <EnglishText>Huh, so all of you
+were here, too.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>22</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>311932</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_020_023&gt;</VoiceId>
       <JapaneseText>その節は
 お世話になりました</JapaneseText>
-      <EnglishText>We are indebted to the help
-you gave us back then.</EnglishText>
+      <EnglishText>We are very indebted
+to you for back then.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>23</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312156</PointerOffset>
@@ -399,12 +408,13 @@ you gave us back then.</EnglishText>
       <JapaneseText>わざわざこんなところまで
 来ていただいてしまって……
 皆さん、大丈夫なのですか？</JapaneseText>
-      <EnglishText>Coming from so far, just for this...
-Is this fine for all of you?</EnglishText>
+      <EnglishText>All of you came all the
+way here, just for my sake...
+Are you sure it's okay?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>24</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312276</PointerOffset>
@@ -412,25 +422,25 @@ Is this fine for all of you?</EnglishText>
       <JapaneseText>ああ。とりあえず、
 こっちはひと段落ついたし。
 &lt;Dio&gt;たちのおかげでね</JapaneseText>
-      <EnglishText>There's no problem here. We could
-finally take a break in our era...
-thanks to &lt;Dio&gt; and &lt;Mel&gt;, no less!</EnglishText>
+      <EnglishText>Yeah. Things have settled
+down a bit for us, actually.
+Thanks to &lt;Dio&gt; and &lt;Mel&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>25</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312364</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_020_027&gt;</VoiceId>
       <JapaneseText>私の方の研究も
 まだ準備段階だしな</JapaneseText>
-      <EnglishText>Ah, I've got time too. My research
-is only in its preparation stage.</EnglishText>
+      <EnglishText>And I'm still preparing for
+my next research project, so.</EnglishText>
       <Notes/>
       <SpeakerId>11</SpeakerId>
       <Id>26</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312484</PointerOffset>
@@ -438,83 +448,83 @@ is only in its preparation stage.</EnglishText>
       <JapaneseText>本当にありがとうございます。
 &lt;Rody&gt;さんも大切な力を
 私のために……</JapaneseText>
-      <EnglishText>I am genuinely grateful to all of you...
-Thank you &lt;Rody&gt;, for using your
-precious power for my cause...</EnglishText>
+      <EnglishText>Thank you all very, very much.
+And &lt;Rody&gt;... You used what precious
+power you had, just for me...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>27</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312592</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_020_029&gt;</VoiceId>
       <JapaneseText>これは私たちの世界のため。
 &lt;Mel&gt;ちゃんも言ってたっしょ</JapaneseText>
-      <EnglishText>This is our world and therefore
-my responsibility too. &lt;Mel&gt; said
-as much, remember?</EnglishText>
+      <EnglishText>Well, it's for the
+sake of our world.
+Like &lt;Mel&gt; said, right?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>28</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312704</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_020_030&gt;</VoiceId>
       <JapaneseText>そうでした</JapaneseText>
-      <EnglishText>You are right.</EnglishText>
+      <EnglishText>She did, yes.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>29</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312704</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_020_031&gt;</VoiceId>
       <JapaneseText>……でも、
 ありがとうございます</JapaneseText>
-      <EnglishText>...And yet, thank you, from
-the bottom of my heart.</EnglishText>
+      <EnglishText>...Even so, thank you.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>312796</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_020_032&gt;</VoiceId>
       <JapaneseText>んじゃあ、みんな
 そろったし、行こうぜ！</JapaneseText>
-      <EnglishText>Now that the all-star team
-is together, let's go!</EnglishText>
+      <EnglishText>Well, then, we've got
+everyone assembled, so let's go!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>31</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>313032</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_020_035&gt;</VoiceId>
       <JapaneseText>&lt;Red&gt;ネルヴィの洞窟&lt;White&gt;。
 そこにプルートが</JapaneseText>
-      <EnglishText>Pluto resides within &lt;Red&gt;Norfi's Cave&lt;White&gt;.</EnglishText>
+      <EnglishText>&lt;Red&gt;Nervi's Cavern&lt;White&gt;. That's
+where Pluto is.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>32</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>313100</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_020_036&gt;</VoiceId>
       <JapaneseText>よし、行こうぜ！</JapaneseText>
-      <EnglishText>Ok! Let's go!</EnglishText>
+      <EnglishText>Alright, let's go!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>33</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

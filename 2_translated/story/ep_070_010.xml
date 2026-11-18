@@ -8,7 +8,7 @@
       <EnglishText>Gnome</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279696,280372,280624,280756,280856,281032</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279812,280208,280940,281400</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Klarth&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279980</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280048</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>&lt;Dio&gt; &amp; &lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280304,281328,281504,281692</PointerOffset>
@@ -48,7 +48,7 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280472,280696,281104,281768</PointerOffset>
@@ -56,7 +56,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273681</PointerOffset>
@@ -105,21 +105,22 @@
       <PointerOffset>279636</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_010_001&gt;</VoiceId>
       <JapaneseText>勝手に入ってきたな～</JapaneseText>
-      <EnglishText>Someone's intruding my home!</EnglishText>
+      <EnglishText>Dude, did you really
+just come in here~?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279700</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_010_002&gt;</VoiceId>
       <JapaneseText>な、なに！？</JapaneseText>
-      <EnglishText>W-What's that!?</EnglishText>
+      <EnglishText>Wh-What!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279816</PointerOffset>
@@ -127,12 +128,13 @@
       <JapaneseText>ノームか？
 私だ、召喚師の&lt;Klarth&gt;だ！
 かつておまえと契約した……</JapaneseText>
-      <EnglishText>Is that you Gnome? It's me, Summoner &lt;Klarth&gt;!
-I made a pact with you once!</EnglishText>
+      <EnglishText>Is that Gnome? It's me—the
+summoner, &lt;Klarth&gt;! I formed a
+pact with you once before...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279916</PointerOffset>
@@ -140,31 +142,33 @@ I made a pact with you once!</EnglishText>
       <JapaneseText>うるさ～い～！
 気持ち悪いのら～！
 許さないのら～</JapaneseText>
-      <EnglishText>Silence! I'm feeling bad! I'm not letting you in!</EnglishText>
+      <EnglishText>Buzz off, dude~!
+You're so killing my
+vibe~! Like, seriously~</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>279984</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_010_005&gt;</VoiceId>
       <JapaneseText>ファぁあっ！！</JapaneseText>
-      <EnglishText>*gasp* </EnglishText>
+      <EnglishText>Ahhhhh!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280052</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_010_006&gt;</VoiceId>
       <JapaneseText>エト！！</JapaneseText>
-      <EnglishText>Eto!</EnglishText>
+      <EnglishText>Ethos!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280212</PointerOffset>
@@ -172,117 +176,125 @@ I made a pact with you once!</EnglishText>
       <JapaneseText>どういうことだ。
 精霊が突然、
 人を襲うなんて……</JapaneseText>
-      <EnglishText>How could this...!? Summon Spirits never
-attack humans without a reason... </EnglishText>
+      <EnglishText>This is very odd.
+Spirits don't just attack
+people without warning...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280308</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_010_009&gt;</VoiceId>
       <JapaneseText>人じゃなくて、正確には
 『妖精』さんだっけ？</JapaneseText>
-      <EnglishText>Technically, she is a "fairy", not a "human", right? </EnglishText>
+      <EnglishText>Well, she's not exactly
+a person, is she? She's
+a..."fairy," wasn't it?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280376</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_010_010&gt;</VoiceId>
       <JapaneseText>エト！　エト！</JapaneseText>
-      <EnglishText>Eto! Eto!</EnglishText>
+      <EnglishText>Ethos! Ethos!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280476</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_010_011&gt;</VoiceId>
       <JapaneseText>どうしよう……エト……
 どこ行っちゃったの……</JapaneseText>
-      <EnglishText>Why...? Where did you go...? Eto...</EnglishText>
+      <EnglishText>What do we do...? Ethos...
+Where did you go...?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280628</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_010_013&gt;</VoiceId>
       <JapaneseText>だ、だいじょーぶか、&lt;Mel&gt;！</JapaneseText>
-      <EnglishText>I-It'll be ok, &lt;Mel&gt;!</EnglishText>
+      <EnglishText>&lt;Mel&gt;, a-are you okay!?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280700</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_010_014&gt;</VoiceId>
       <JapaneseText>え……あ、うん……</JapaneseText>
-      <EnglishText>Y-Yeah...</EnglishText>
+      <EnglishText>Eh... Ah... Yeah...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280760</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_010_015&gt;</VoiceId>
       <JapaneseText>よし……</JapaneseText>
-      <EnglishText>Okay...</EnglishText>
+      <EnglishText>Alright...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280860</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_010_016&gt;</VoiceId>
       <JapaneseText>ク、&lt;Klarth&gt;さん、
 あの野郎、この洞窟の奥だよな？</JapaneseText>
-      <EnglishText>C-&lt;Klarth&gt;... That bastard is inside this cave, isn't he?</EnglishText>
+      <EnglishText>K-&lt;Klarth&gt;. That bastard
+went deeper into the
+caves, right?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280944</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_010_017&gt;</VoiceId>
       <JapaneseText>ノームか？
 ああ、たぶんな……</JapaneseText>
-      <EnglishText>You mean Gnome? Yeah, he should be... </EnglishText>
+      <EnglishText>You mean Gnome?
+Yeah, most likely...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281036</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_010_018&gt;</VoiceId>
       <JapaneseText>し、しっかりしろ、&lt;Mel&gt;！
 行くぞ……！</JapaneseText>
-      <EnglishText>H-Hold it right there, &lt;Mel&gt;! Let's go!</EnglishText>
+      <EnglishText>G-Get a hold of yourself,
+&lt;Mel&gt;! We gotta go after them!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281108</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_010_019&gt;</VoiceId>
       <JapaneseText>平気……平気だから</JapaneseText>
-      <EnglishText>I-I'm ok...</EnglishText>
+      <EnglishText>I'm fine... No, really, I'm fine...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>17</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281332</PointerOffset>
@@ -290,53 +302,61 @@ attack humans without a reason... </EnglishText>
       <JapaneseText>あのエトスって子、
 あのふたりと
 どんな関係なの？</JapaneseText>
-      <EnglishText>This Ethos...what's their connection to these two?</EnglishText>
+      <EnglishText>So, that "Ethos" creature...
+What relationship does it have
+with those kids, anyway?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>18</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281404</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_010_023&gt;</VoiceId>
       <JapaneseText>親代わりなんだとさ</JapaneseText>
-      <EnglishText>She's their foster mother.</EnglishText>
+      <EnglishText>She's their mother,
+more or less.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>19</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281508</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_010_024&gt;</VoiceId>
       <JapaneseText>そっか……ずいぶん、
 心の支えになってるみたい……</JapaneseText>
-      <EnglishText>I see... That makes sense, given their reaction.</EnglishText>
+      <EnglishText>I see... It looks like
+she's pretty important
+to them, emotionally...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>20</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281696</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_010_026&gt;</VoiceId>
       <JapaneseText>ま、ノームには精霊晶核も
 もらわなきゃだし、ね？</JapaneseText>
-      <EnglishText>Well, then... Let's go find Gnome's Atomism Core, shall we?</EnglishText>
+      <EnglishText>Well, you need to
+get Gnome's Atomic
+Core, anyway, don't you?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>21</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281772</PointerOffset>
       <VoiceId>&lt;audio:VSM_070_010_027&gt;</VoiceId>
       <JapaneseText>エトを取り返すのが先です</JapaneseText>
-      <EnglishText>First we need to get Eto back.</EnglishText>
+      <EnglishText>Before that, we have
+to get Ethos back.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>22</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

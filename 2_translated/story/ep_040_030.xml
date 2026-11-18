@@ -8,7 +8,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281540,282040,284564</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281608,281888,282492,283296,283916,284148,284392</PointerOffset>
@@ -24,12 +24,12 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281768,282228,282428,282904,283140,283224,283488,283700</PointerOffset>
       <JapaneseText>エルフの青年</JapaneseText>
-      <EnglishText>Young Elf</EnglishText>
+      <EnglishText>Young Elven Man</EnglishText>
       <Notes/>
       <Id>4</Id>
       <Status>Editing</Status>
@@ -40,7 +40,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275141</PointerOffset>
@@ -90,45 +90,47 @@
       <VoiceId>&lt;audio:VSM_040_030_001&gt;</VoiceId>
       <JapaneseText>レスター博士が、
 あんな人なんて……</JapaneseText>
-      <EnglishText>I would have never imagined the renowned
-Lester would be that kind of jerk... </EnglishText>
+      <EnglishText>I can't believe it... *That's* the
+kind of person Prof. Lester was...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281544</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_006&gt;</VoiceId>
       <JapaneseText>でも、他にあてがないんだかラ。
 さっき自分で言ったじゃない</JapaneseText>
-      <EnglishText>But we can't rely on anyone else. This won't
-be the last time we have to deal with him. </EnglishText>
+      <EnglishText>But, there's still no one else
+we can ask. You just said
+so yourself, didn't you, &lt;Mel&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281612</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_007&gt;</VoiceId>
       <JapaneseText>そう、だけど……</JapaneseText>
-      <EnglishText>Yeah...you're right, but... </EnglishText>
+      <EnglishText>I did...but...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281772</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_008Z&gt;</VoiceId>
       <JapaneseText>おや、&lt;Klarth&gt;に客人か？</JapaneseText>
-      <EnglishText>Oh hey, are you here to visit &lt;Klarth&gt;? </EnglishText>
+      <EnglishText>Oh? Visitors
+for &lt;Klarth&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281772</PointerOffset>
@@ -136,13 +138,14 @@ be the last time we have to deal with him. </EnglishText>
       <JapaneseText>浮かない顔だな。
 難癖つけられて、
 追っ払われたってとこか</JapaneseText>
-      <EnglishText>He isn't a very cheerful person. Yet, you shouldn't
-blame him or drive him away like that easily. </EnglishText>
+      <EnglishText>Your expressions don't look too happy,
+though. I'm guessing he shared some
+unkind words, and then chased you off?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281892</PointerOffset>
@@ -150,80 +153,83 @@ blame him or drive him away like that easily. </EnglishText>
       <JapaneseText>はい、あの……わたしたち、
 精霊のことで&lt;Klarth&gt;さんに
 相談があって……</JapaneseText>
-      <EnglishText>Well, you see...we came here since we
-heard &lt;Klarth&gt; would know something
-about Summon Spirits and...</EnglishText>
+      <EnglishText>Yes. Um... We needed
+to discuss the spirits
+with &lt;Klarth&gt;, and so...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>281956</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_011&gt;</VoiceId>
       <JapaneseText>あんた、誰？</JapaneseText>
-      <EnglishText>And just who do you think you are? </EnglishText>
+      <EnglishText>The heck are you?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282044</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_012&gt;</VoiceId>
       <JapaneseText>ちょっと、&lt;Dio&gt;、
 失礼でしょ……</JapaneseText>
-      <EnglishText>Hold on, &lt;Dio&gt;, that's impolite.... </EnglishText>
+      <EnglishText>Hey, &lt;Dio&gt;, that's
+kind of rude...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282232</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_013Z&gt;</VoiceId>
       <JapaneseText>僕はあの男の友人だ</JapaneseText>
-      <EnglishText>I'm that guy's friend. </EnglishText>
+      <EnglishText>I'm that man's friend.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282232</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_014Z&gt;</VoiceId>
       <JapaneseText>こちらこそ、友人が
 失礼したね</JapaneseText>
-      <EnglishText>I should be the one saying you're impolite to my friend. </EnglishText>
+      <EnglishText>And if anyone was
+rude, it was certainly
+my friend.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282232</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_015Z&gt;</VoiceId>
       <JapaneseText>……本当は、
 あんなヤツじゃないんだが……</JapaneseText>
-      <EnglishText>...As a matter of fact, he isn't such
-a bad person most of the time... </EnglishText>
+      <EnglishText>...That's not really
+what he's like, but...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282296</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_016&gt;</VoiceId>
       <JapaneseText>…………？</JapaneseText>
-      <EnglishText>...? </EnglishText>
+      <EnglishText>...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282432</PointerOffset>
@@ -231,23 +237,23 @@ a bad person most of the time... </EnglishText>
       <JapaneseText>学会の幹部連中に、目の前で
 召喚術の論文を燃やされた
 頃からずっとあんな調子だ</JapaneseText>
-      <EnglishText>A bunch of guys from the most privileged
-colleges burnt his Summoning thesis in front
-of everyone. It's no wonder he's furious. </EnglishText>
-      <Notes/>
+      <EnglishText>Some of the academy leadership burned his
+treatise on the summoning artes, right before
+his eyes. He's been like this ever since.</EnglishText>
+      <Notes>possibly too long</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>282496</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_018&gt;</VoiceId>
       <JapaneseText>ひどい……</JapaneseText>
-      <EnglishText>How could they be so cruel...? </EnglishText>
+      <EnglishText>That's awful...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282908</PointerOffset>
@@ -255,76 +261,79 @@ of everyone. It's no wonder he's furious. </EnglishText>
       <JapaneseText>学会の連中は、精霊の存在なんて
 眉唾もんだって思ってるからね。
 これ見よがしに論文を燃やして……</JapaneseText>
-      <EnglishText>Those academic hypocrites did so to regard the
-Summon Spirits' existence as scientifically fake.
-He was the first to see his thesis burning... </EnglishText>
+      <EnglishText>Well, they consider the existence of spirits
+itself to be a cock-and-bull story. And
+so they made a big show of burning it...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282908</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_020Z&gt;</VoiceId>
       <JapaneseText>ミラルドが出て行ってからは
 もっとひどくなっていった</JapaneseText>
-      <EnglishText>Shortly after that Milard left him
-and he's been getting worse since. </EnglishText>
+      <EnglishText>He's gotten even worse
+since Mirald left.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282908</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_021Z&gt;</VoiceId>
       <JapaneseText>……僕が同じ仕打ちを受けたら……
 我慢できないだろうな</JapaneseText>
-      <EnglishText>...If I received the same treatment
-he did...I'd be crushed... </EnglishText>
+      <EnglishText>...If I suffered the same
+treatment, I...don't think
+I'd be able to handle it.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282908</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_022Z&gt;</VoiceId>
       <JapaneseText>ところで、&lt;Klarth&gt;に何を
 相談したいんだい？</JapaneseText>
-      <EnglishText>Anyways, what did you want to ask &lt;Klarth&gt;? </EnglishText>
+      <EnglishText>Well, anyway, what was it you
+wanted to discuss with &lt;Klarth&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
       <BubbleId>3</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>282908</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_023Z&gt;</VoiceId>
       <JapaneseText>僕でも力になれることは
 ないかな？</JapaneseText>
-      <EnglishText>It's just a guess but...you wouldn't happen to be
-searching for the Spirit's powers, would you? </EnglishText>
+      <EnglishText>Maybe I could
+be of help?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
       <BubbleId>4</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283004</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_024&gt;</VoiceId>
       <JapaneseText>イフリートってヤツの
 いる洞窟へ行くんだよ</JapaneseText>
-      <EnglishText>We were going to Efreet-whatever or other-'s cavern. </EnglishText>
+      <EnglishText>We're going to the
+cave where Efreet is.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283144</PointerOffset>
@@ -332,33 +341,34 @@ searching for the Spirit's powers, would you? </EnglishText>
       <JapaneseText>イフリートだって！！
 君たちだけで行くつもりかい？
 あそこは迷いやすいし、危険だ！</JapaneseText>
-      <EnglishText>Efreet, you say!? Are you guys truly planning to
-travel there!? It's very easy to lose one's way
-there! You must proceed with utmost care! </EnglishText>
+      <EnglishText>Efreet!? And you're planning on
+going alone? It's quite easy to
+get lost there—and dangerous, too!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>21</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283228</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_026Z&gt;</VoiceId>
       <JapaneseText>じゃあ、これをあげよう</JapaneseText>
-      <EnglishText>If you insist, you can have this. </EnglishText>
+      <EnglishText>Then, I'll
+give you this.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>22</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283300</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_027&gt;</VoiceId>
       <JapaneseText>ど、どうしてこれを？</JapaneseText>
-      <EnglishText>Why are you helping us? </EnglishText>
+      <EnglishText>B-But why?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283492</PointerOffset>
@@ -366,27 +376,28 @@ there! You must proceed with utmost care! </EnglishText>
       <JapaneseText>君たちみたいな
 子どもだけでは危険だろ。
 だからさ</JapaneseText>
-      <EnglishText>I can't just sit and watch some children
-go off to such a dangerous place and
-not do anything. That's why. </EnglishText>
+      <EnglishText>A couple of children going
+there alone will be in far
+too much danger. So.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>24</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283492</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_029Z&gt;</VoiceId>
       <JapaneseText>本当は、僕が付いていってあげたい
 んだけど……予定があってね……</JapaneseText>
-      <EnglishText>I could go with you instead of just
-giving that but...I have plans already. </EnglishText>
+      <EnglishText>Actually, I'd like to go with
+you myself, but... I do have
+prior arrangements...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>24</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283704</PointerOffset>
@@ -394,27 +405,27 @@ giving that but...I have plans already. </EnglishText>
       <JapaneseText>水の力を宿しているこの剣なら
 イフリートのいる&lt;Red&gt;熱砂の洞窟&lt;White&gt;の
 魔物には効果があるはずだ</JapaneseText>
-      <EnglishText>The power of water lies within that sword
-and is effective against the monsters lurking
-in Efreet's Cavern of Burning Sand. </EnglishText>
+      <EnglishText>This sword, imbued with the power of
+water, should be effective against monsters
+in Efreet's &lt;Red&gt;Cavern of Burning Sands&lt;White&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>26</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283704</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_031Z&gt;</VoiceId>
       <JapaneseText>さて、僕はあいつの顔でも
 見てくるよ。じゃあね</JapaneseText>
-      <EnglishText>Now then, I'll go take a look at
-&lt;Klarth&gt; myself. See you! </EnglishText>
+      <EnglishText>Well, I suppose I'll be off
+to see him myself. Goodbye.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>26</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283920</PointerOffset>
@@ -422,60 +433,62 @@ in Efreet's Cavern of Burning Sand. </EnglishText>
       <JapaneseText>でも、だからって
 &lt;Klarth&gt;さんのあんな言い方……
 ないと、思う……</JapaneseText>
-      <EnglishText>But if what he said is true then we don't
-need do what &lt;Klarth&gt; said... I think... </EnglishText>
+      <EnglishText>But... The way &lt;Klarth&gt;
+spoke to us... That doesn't
+make it okay... Does it?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>28</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>283920</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_034&gt;</VoiceId>
       <JapaneseText>…………</JapaneseText>
-      <EnglishText>... </EnglishText>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>28</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284084</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_035&gt;</VoiceId>
       <JapaneseText>よし、イフリート
 連れてこようぜ！</JapaneseText>
-      <EnglishText>All right! Let's lead the way to Efreet! </EnglishText>
+      <EnglishText>Alright, let's go
+get Efreet!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>30</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284084</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_036&gt;</VoiceId>
       <JapaneseText>精霊連れてったら、レスター博士、
 元気づけられっかもしんねー</JapaneseText>
-      <EnglishText>If we find that Summon Spirit, I'm sure
-the renowned Lester  will be back
-in top shape! </EnglishText>
+      <EnglishText>And if we bring him a
+spirit, Prof. Lester might
+cheer up some, too, y'know?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>30</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284152</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_037&gt;</VoiceId>
       <JapaneseText>そう、かな……</JapaneseText>
-      <EnglishText>You're....right... </EnglishText>
+      <EnglishText>Will he...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>32</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284264</PointerOffset>
@@ -483,44 +496,46 @@ in top shape! </EnglishText>
       <JapaneseText>どっちにしろ、精霊の力が
 必要だったんだしさ、
 ついでついで</JapaneseText>
-      <EnglishText>We do have to get the Spirit's power at all costs, anyways, 
-so this plays fair for us. We'll get to it, no problem! </EnglishText>
+      <EnglishText>Well, either way, we're gonna
+need the spirits' powers,
+right? So hey, may as well.</EnglishText>
       <Notes>Jank</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>33</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284328</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_039&gt;</VoiceId>
       <JapaneseText>クルールル！</JapaneseText>
-      <EnglishText>Kuruururu! </EnglishText>
+      <EnglishText>Couleururu!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>34</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284396</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_040&gt;</VoiceId>
       <JapaneseText>そうだね……うん</JapaneseText>
-      <EnglishText>I agree, yeah! </EnglishText>
+      <EnglishText>That's true... Yeah.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>35</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284568</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_041&gt;</VoiceId>
       <JapaneseText>&lt;Red&gt;熱砂の洞窟&lt;White&gt;の
 イフリート、だっけ？</JapaneseText>
-      <EnglishText>Efreet's Cavern of Burning Sand, was it? </EnglishText>
+      <EnglishText>Efreet, in the &lt;Red&gt;Cavern
+of Burning Sands&lt;White&gt;, wasn't it?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>36</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284568</PointerOffset>
@@ -528,13 +543,14 @@ so this plays fair for us. We'll get to it, no problem! </EnglishText>
       <JapaneseText>粗暴で丸焦げにしちゃう
 って言ってたけド……
 気をつけないと……</JapaneseText>
-      <EnglishText>He told us pretty harshly that we'd get
-completely cremated...please be careful...</EnglishText>
+      <EnglishText>He said Efreet's violent and
+might burn us to a crisp, so...
+We'll have to be careful...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>36</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284716</PointerOffset>
@@ -542,25 +558,28 @@ completely cremated...please be careful...</EnglishText>
       <JapaneseText>オレらには
 『なりきり士』の力が
 あんだから</JapaneseText>
-      <EnglishText>All's good though, since we have
-the power of Roleplayers!</EnglishText>
+      <EnglishText>I mean, hey, we've
+got the power of
+"Roleplayers," so...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>38</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284716</PointerOffset>
       <VoiceId>&lt;audio:VSM_040_030_044&gt;</VoiceId>
       <JapaneseText>全然だいじょーぶだって。
 行こーぜ</JapaneseText>
-      <EnglishText>It;ll be no problem at all, let's go! </EnglishText>
+      <EnglishText>It's gonna
+be perfectly
+fine. Let's go.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>38</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

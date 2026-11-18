@@ -8,7 +8,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270232,270572</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270316</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270380</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>264213</PointerOffset>
@@ -81,8 +81,8 @@
       <PointerOffset>270176</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_020_001&gt;</VoiceId>
       <JapaneseText>ここが、&lt;Red&gt;焔王の楔&lt;White&gt;……？</JapaneseText>
-      <EnglishText>So this is the &lt;Red&gt;Linchpin of the Lord of Fire&lt;White&gt;, 
-right?</EnglishText>
+      <EnglishText>This is the...&lt;Red&gt;Flame
+Lord's Keystone&lt;White&gt;...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -92,65 +92,68 @@ right?</EnglishText>
       <PointerOffset>270236</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_020_002&gt;</VoiceId>
       <JapaneseText>さぁ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Not sure...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270320</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_020_003&gt;</VoiceId>
       <JapaneseText>入り口が凍ってて
 入れないよ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The entrance is frozen
+over, so we can't go in.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270384</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_020_004&gt;</VoiceId>
       <JapaneseText>クルールー！</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Couleuru~!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270504</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_020_005&gt;</VoiceId>
       <JapaneseText>別の方向にも
 違うもんが見えたぞ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Well, I did see some other
+place off in the distance.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270504</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_020_006&gt;</VoiceId>
       <JapaneseText>あれじゃねーかな</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Maybe that's what
+we're looking for?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270576</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_020_007&gt;</VoiceId>
       <JapaneseText>そっち行ってみようよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Let's go see.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

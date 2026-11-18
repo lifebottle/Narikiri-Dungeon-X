@@ -8,7 +8,7 @@
       <EnglishText>Basil</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305156,305380,305892,306200,306764,306860,307252,307464</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Klarth&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305244,307088,307348,307660,307812</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305312,305640,306348,306516,306700,307008,307552,307748</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>306924</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>Efreet</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298837</PointerOffset>
@@ -89,53 +89,58 @@
       <PointerOffset>305072</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_070_001Z&gt;</VoiceId>
       <JapaneseText>探したぞ！　&lt;Klarth&gt;！</JapaneseText>
-      <EnglishText>Finally found you, &lt;Klarth&gt;! </EnglishText>
+      <EnglishText>Oh, there you
+are! &lt;Klarth&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305160</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_070_002&gt;</VoiceId>
       <JapaneseText>探したのはこっちだ、
 まったく……</JapaneseText>
-      <EnglishText>That's my line, actually... </EnglishText>
+      <EnglishText>I'm the one who's
+been looking for
+you... *grumble*</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305248</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_070_003&gt;</VoiceId>
       <JapaneseText>はぁはぁ……
 突然、駆け出すから……</JapaneseText>
-      <EnglishText>Haa--Haa-- That was...way too much to run at once... </EnglishText>
+      <EnglishText>*pant* *pant* You
+ran off...so suddenly...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305316</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_070_004&gt;</VoiceId>
       <JapaneseText>んだよ、もう……</JapaneseText>
-      <EnglishText>Seriously, jeez! </EnglishText>
+      <EnglishText>Come the hell on...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305384</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_070_005&gt;</VoiceId>
       <JapaneseText>君たちも来たか</JapaneseText>
-      <EnglishText>So you guys are here too. </EnglishText>
+      <EnglishText>You two are
+here, too, huh.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305576</PointerOffset>
@@ -143,13 +148,14 @@
       <JapaneseText>なるほど……
 『虹輪』を消すために
 精霊の力が必要、か……</JapaneseText>
-      <EnglishText>I see...so to erase the Prism Ring you need
-the power of the Summon Spirits... </EnglishText>
+      <EnglishText>Ah, I see... So you need
+the spirits to get rid of
+a Prism Ring? Hmm...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305576</PointerOffset>
@@ -157,43 +163,48 @@ the power of the Summon Spirits... </EnglishText>
       <JapaneseText>だったら、
 例えば精霊晶核（アトミスムコア）を
 使う、とかかな</JapaneseText>
-      <EnglishText>In that case, we can use the help of Atomism Cores. </EnglishText>
+      <EnglishText>In that case, you should
+be able to use the
+spirits' Atomic Cores.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305644</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_070_008&gt;</VoiceId>
       <JapaneseText>なんだ、それ？</JapaneseText>
-      <EnglishText>What do you mean? </EnglishText>
+      <EnglishText>What's that?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305728</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_070_009Z&gt;</VoiceId>
       <JapaneseText>精霊の力の源になってる物質さ</JapaneseText>
-      <EnglishText>You could say it's the source of the Summon Spirit's power. </EnglishText>
+      <EnglishText>It's a form of matter
+which serves as the
+source of the spirits' powers.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305896</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_070_010&gt;</VoiceId>
       <JapaneseText>やっぱり、そいつしかないか……</JapaneseText>
-      <EnglishText>Just as I thought, so we've got no choice... </EnglishText>
+      <EnglishText>So they really will
+need those, huh...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>305896</PointerOffset>
@@ -201,24 +212,27 @@ the power of the Summon Spirits... </EnglishText>
       <JapaneseText>この子たちに
 『エレメンツポット』を
 ひとつ分けてやってくれないか？</JapaneseText>
-      <EnglishText>Will you give these kids an Elements' Pot? </EnglishText>
+      <EnglishText>Could you give
+these kids one of
+your "Elemental Pots"?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>306004</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_070_012Z&gt;</VoiceId>
       <JapaneseText>お安い御用だ、親友の頼みとあらばな。
 何でも言ってくれ！</JapaneseText>
-      <EnglishText>Well, that was way too easy! I shouldn't
-waste my time with simple jobs like these! </EnglishText>
+      <EnglishText>That's a simple enough favor,
+if it's for a good friend.
+Whatever you need, just ask!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>306144</PointerOffset>
@@ -226,55 +240,59 @@ waste my time with simple jobs like these! </EnglishText>
       <JapaneseText>おまえがまた
 戻ってきてくれて
 よかったよ</JapaneseText>
-      <EnglishText>Seriously, though, I'm glad to see you're back. </EnglishText>
+      <EnglishText>I'm just happy
+you're back to
+your old self, really.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>306144</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_070_014Z&gt;</VoiceId>
       <JapaneseText>また一緒に
 研究できるな！</JapaneseText>
-      <EnglishText>We should do some research together sometime! </EnglishText>
+      <EnglishText>Now we can do some
+more research together!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>306204</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_070_015&gt;</VoiceId>
       <JapaneseText>ふん……</JapaneseText>
-      <EnglishText>Heh... </EnglishText>
+      <EnglishText>Hmph...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>15</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>306292</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_070_016Z&gt;</VoiceId>
       <JapaneseText>それじゃあ、
 これ……君たちに……</JapaneseText>
-      <EnglishText>Well then, take this guys... </EnglishText>
+      <EnglishText>Well, then... This
+is for you two...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>16</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>306352</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_070_017&gt;</VoiceId>
       <JapaneseText>サンキュ</JapaneseText>
-      <EnglishText>Thanks! </EnglishText>
+      <EnglishText>Thanks.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>17</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>306456</PointerOffset>
@@ -282,43 +300,48 @@ waste my time with simple jobs like these! </EnglishText>
       <JapaneseText>それを持って、
 精霊から精霊晶核を
 受け取ればいい</JapaneseText>
-      <EnglishText>In its insides you can hold the Spirit's Atomism Cores. </EnglishText>
+      <EnglishText>You just need to have this
+with you when you collect
+the spirits' Atomic Cores.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>18</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>306520</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_070_019&gt;</VoiceId>
       <JapaneseText>精霊かぁ……</JapaneseText>
-      <EnglishText>The Summon Spirit's... </EnglishText>
+      <EnglishText>The spirits, huh...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>19</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>306624</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_070_020Z&gt;</VoiceId>
       <JapaneseText>あと、エレメンツポットは
 壊れやすいから気をつけてね</JapaneseText>
-      <EnglishText>Remember, the Elements' Pot is fragile, be careful with it. </EnglishText>
+      <EnglishText>Also, the Elemental Pot
+is quite fragile, so be
+careful with it, okay?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>20</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>306704</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_070_021&gt;</VoiceId>
       <JapaneseText>あ、ああ、うん。
 わかったよ</JapaneseText>
-      <EnglishText>Gotcha, we'll do that. </EnglishText>
+      <EnglishText>Ah, yeah,
+sure. Got it.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>21</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>306768</PointerOffset>
@@ -328,73 +351,80 @@ waste my time with simple jobs like these! </EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>22</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>306864</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_070_023&gt;</VoiceId>
       <JapaneseText>イフリート。
 おまえの精霊晶核を分けてくれ</JapaneseText>
-      <EnglishText>Efreet, please lend us your Atomism Core.</EnglishText>
+      <EnglishText>Efreet. Give us
+your Atomic Core.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>23</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>306928</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_070_024&gt;</VoiceId>
       <JapaneseText>承知した</JapaneseText>
-      <EnglishText>Acknowledged.</EnglishText>
+      <EnglishText>As you wish.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>24</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>307012</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_070_025&gt;</VoiceId>
       <JapaneseText>おぉっ……！
 これが精霊晶核！？</JapaneseText>
-      <EnglishText>Woah! Is this an Atomism Core!?</EnglishText>
+      <EnglishText>Whoa...! *This*
+is an Atomic Core!?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>25</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>307092</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_070_026&gt;</VoiceId>
       <JapaneseText>……&lt;Dio&gt;、はしゃぎすぎ……</JapaneseText>
-      <EnglishText>...You sure are quick to celebrate...</EnglishText>
+      <EnglishText>...You don't need
+to get *that*
+excited, &lt;Dio&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>26</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>307256</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_070_027&gt;</VoiceId>
       <JapaneseText>よし、それじゃあ
 &lt;Red&gt;ローンヴァレイ&lt;White&gt;に行くとしよう</JapaneseText>
-      <EnglishText>All right, our next destination is Lone Valley.</EnglishText>
+      <EnglishText>Alright. Well, then, let's
+head for &lt;Red&gt;Lone Valley&lt;White&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>27</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>307256</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_070_028&gt;</VoiceId>
       <JapaneseText>&lt;Red&gt;ユークリッド&lt;White&gt;の東側にある
 風の強い谷だ</JapaneseText>
-      <EnglishText>It's northeast from Euclid. The wind there is very strong.</EnglishText>
+      <EnglishText>It's a valley with
+strong winds, just
+to the east of &lt;Red&gt;Euclid&lt;White&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>27</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>307352</PointerOffset>
@@ -402,11 +432,13 @@ waste my time with simple jobs like these! </EnglishText>
       <JapaneseText>風……
 そこに風の精霊シルフが
 いるんですね</JapaneseText>
-      <EnglishText>Wind...the wind Summon Spirit Sylph lies there, right? </EnglishText>
+      <EnglishText>Winds... So the
+spirit of Wind,
+Sylph, is there.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>29</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>307468</PointerOffset>
@@ -414,23 +446,25 @@ waste my time with simple jobs like these! </EnglishText>
       <JapaneseText>ああ。私も最後まで
 君たちに付き合おう。
 協力すると言ったからな</JapaneseText>
-      <EnglishText>Correct, I'll assist you until this is done. We'll need
-to prove our strength yet again. </EnglishText>
+      <EnglishText>Yeah. I'll come with you
+until you're all done. I did
+say I would help, after all.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>30</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>307556</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_070_031&gt;</VoiceId>
       <JapaneseText>よし、
 &lt;Red&gt;ローンヴァレイ&lt;White&gt;に出発だ！</JapaneseText>
-      <EnglishText>OK! Let's go to Lone Valley!</EnglishText>
+      <EnglishText>Alright. Let's set
+off, for &lt;Red&gt;Lone Valley&lt;White&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>31</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>307664</PointerOffset>
@@ -438,33 +472,36 @@ to prove our strength yet again. </EnglishText>
       <JapaneseText>&lt;Dio&gt;、気をつけて。
 転んでエレメンツポット
 割っちゃうよ</JapaneseText>
-      <EnglishText>&lt;Dio&gt;, be careful! The Elements' Pot
-will break if it falls! </EnglishText>
+      <EnglishText>Be careful, &lt;Dio&gt;. If
+you trip, you'll break
+the Elemental Pot.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>32</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>307752</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_070_033&gt;</VoiceId>
       <JapaneseText>全然だいじょーぶ。
 気ぃつけてるって</JapaneseText>
-      <EnglishText>No problem! Nothin' to worry about!</EnglishText>
-      <Notes/>
+      <EnglishText>Hey, it's perfectly fine.
+I'm being careful, 100%.</EnglishText>
+      <Notes>not sure on line delivery here, will need it tested in-context</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>33</Id>
-      <Status>Proofreading</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>307816</PointerOffset>
       <VoiceId>&lt;audio:VSM_050_070_034&gt;</VoiceId>
       <JapaneseText>んもう……</JapaneseText>
-      <EnglishText>*sigh*</EnglishText>
-      <Notes/>
+      <EnglishText>Nnngh...</EnglishText>
+      <Notes>going for a "struggling to bite her tongue" feel but not sure if it comes
+across right, see what you think</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>34</Id>
-      <Status>Proofreading</Status>
+      <Status>Problematic</Status>
     </Entry>
   </Strings>
   <Strings>

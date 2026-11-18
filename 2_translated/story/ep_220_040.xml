@@ -8,7 +8,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276784,276976,278280</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277064,278148</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Arche&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277236</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277344</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277424,278464</PointerOffset>
@@ -48,7 +48,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277516,277872,278052</PointerOffset>
@@ -56,7 +56,7 @@
       <EnglishText>&lt;Klarth&gt;</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277984</PointerOffset>
@@ -64,7 +64,7 @@
       <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270729</PointerOffset>
@@ -114,24 +114,24 @@
       <VoiceId>&lt;audio:VSM_220_040_000&gt;</VoiceId>
       <JapaneseText>……今のって……
 何なんだ……</JapaneseText>
-      <EnglishText>...What happened just now...?</EnglishText>
+      <EnglishText>...What the hell...
+was that, just now...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276788</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_040_001&gt;</VoiceId>
       <JapaneseText>瘴気……魔界のことわりで
 できたガスです</JapaneseText>
-      <EnglishText>It's Miasma...a warning from
-Daemonium manifested as
-poisonous gas.</EnglishText>
+      <EnglishText>Miasma... It's a gas which forms
+naturally in Daemonium.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276980</PointerOffset>
@@ -139,51 +139,52 @@ poisonous gas.</EnglishText>
       <JapaneseText>魔界の住民たちが
 生命活動を行ううえで
 ある程度必要なものだそうです</JapaneseText>
-      <EnglishText>To some degree, it is necessary
-for creatures of Daemonium
-to survive.</EnglishText>
+      <EnglishText>It's a substance which is necessary,
+in some amount, for daemons to
+survive and remain active.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277068</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_040_004&gt;</VoiceId>
       <JapaneseText>でも、人間には
 すごく毒なんだよね</JapaneseText>
-      <EnglishText>Yeah, but for us, that stuff
-is pretty poisonous...</EnglishText>
+      <EnglishText>But to humans,
+it's a reaallly
+strong poison.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277240</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_040_005&gt;</VoiceId>
       <JapaneseText>私の仲間たちはみんな、
 あれにやられたのでしょう</JapaneseText>
-      <EnglishText>Many of my people have been
-felled by such a thing...</EnglishText>
+      <EnglishText>It's most likely what
+killed my comrades.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277240</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_040_006&gt;</VoiceId>
       <JapaneseText>でも、間違いありません、
 あの洞窟にプルートがいます</JapaneseText>
-      <EnglishText>Be that as it may, Pluto lies
-in that cave undoubtedly.</EnglishText>
+      <EnglishText>But, Pluto is in that cavern.
+That much is for certain.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277348</PointerOffset>
@@ -191,49 +192,50 @@ in that cave undoubtedly.</EnglishText>
       <JapaneseText>だとすると、
 なんとかして入る方法が
 あればいいんだけど</JapaneseText>
-      <EnglishText>That may be, but we should probably
-think of another way to get inside.</EnglishText>
+      <EnglishText>In that case, won't
+we need some way
+to go further in?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277428</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_040_008&gt;</VoiceId>
       <JapaneseText>瘴気をなくす方法、
 ですか？</JapaneseText>
-      <EnglishText>You mean to get rid of
-the Miasma, right?</EnglishText>
+      <EnglishText>So, a way to
+remove the miasma?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277520</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_040_009&gt;</VoiceId>
       <JapaneseText>……オリジンに
 頼むというのはどうだろう</JapaneseText>
-      <EnglishText>...How about we ask for
-help from Origin?</EnglishText>
+      <EnglishText>...How about we
+ask Origin?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277684</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_040_010&gt;</VoiceId>
       <JapaneseText>オリジンって……
 精霊の王様だろ？</JapaneseText>
-      <EnglishText>By Origin you mean...
-the King of the Spirits?</EnglishText>
+      <EnglishText>Origin... That's the
+King of Spirits, right?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277684</PointerOffset>
@@ -241,14 +243,14 @@ the King of the Spirits?</EnglishText>
       <JapaneseText>昔話によく出てくんぜ？
 今のアセリアの基礎を
 作ったヤツだって</JapaneseText>
-      <EnglishText>Isn't that from an old legend?
-The guy responsible for creating
-the foundations of modern Aselia?</EnglishText>
+      <EnglishText>He's in a lot of the really old
+stories, y'know? He's the guy who,
+like, created Aselia's foundations.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277876</PointerOffset>
@@ -256,13 +258,13 @@ the foundations of modern Aselia?</EnglishText>
       <JapaneseText>あの瘴気を浄化するには、
 万物を司るくらいの力でないと
 難しいかもしれない</JapaneseText>
-      <EnglishText>It'd be quite a feat to purify the Miasma. I
-believe we'd need nothing less than the power
-responsible for the creation of all things.</EnglishText>
+      <EnglishText>Power over all creation's probably about
+what we'll need to clear away all that
+miasma. Without great difficulty, anyway.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277988</PointerOffset>
@@ -270,35 +272,35 @@ responsible for the creation of all things.</EnglishText>
       <JapaneseText>オリジンだったら、
 世界中の瘴気も
 浄化できるんじゃないかな？</JapaneseText>
-      <EnglishText>So you think Origin could
-help us cleanse the Miasma
-from the world, right?</EnglishText>
+      <EnglishText>I mean, if it's Origin, wouldn't he be
+able to clear away all the miasma
+throughout the whole world?</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278056</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_040_015&gt;</VoiceId>
       <JapaneseText>かもしれないな</JapaneseText>
-      <EnglishText>It could work, yeah.</EnglishText>
+      <EnglishText>He probably could, yeah.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>14</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278152</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_040_016&gt;</VoiceId>
       <JapaneseText>でもさ、オリジン、
 また出てきてくれるかな？</JapaneseText>
-      <EnglishText>Yeah that's nice and all, but how are
-we even supposed to meet him?</EnglishText>
+      <EnglishText>But, y'know, will
+Origin even show up?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278284</PointerOffset>
@@ -306,13 +308,13 @@ we even supposed to meet him?</EnglishText>
       <JapaneseText>オリジンが姿を見せたのは
 ラグナロクの時とダオス戦役の
 時だけだと言いますから……</JapaneseText>
-      <EnglishText>Origin has been said to only manifest
-physically during Ragnarok and the
-war against Dhaos...</EnglishText>
+      <EnglishText>Well, it is said that Origin has only
+shown himself twice: once during
+Ragnarok, and once during Dhaos's War...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278384</PointerOffset>
@@ -320,24 +322,26 @@ war against Dhaos...</EnglishText>
       <JapaneseText>ダメかどうかは、
 やってみないと
 わかんねーだろ</JapaneseText>
-      <EnglishText>Hey, we won't know if it's
-possible or not until we try!</EnglishText>
+      <EnglishText>But c'mon, we'll
+never know if we
+don't try, will we?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>17</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278468</PointerOffset>
       <VoiceId>&lt;audio:VSM_220_040_019&gt;</VoiceId>
       <JapaneseText>そう、だね。
 行ってみましょう</JapaneseText>
-      <EnglishText>Yeah, that's right.
-Let's give it a try!</EnglishText>
+      <EnglishText>True, yeah.
+Okay, let's
+go and see.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>18</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

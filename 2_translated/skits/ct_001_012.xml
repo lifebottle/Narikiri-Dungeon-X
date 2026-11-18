@@ -8,7 +8,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48136</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48256,48716,49136</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48352</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>48600,48840,48944,49064</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -50,7 +50,8 @@
       <VoiceId>&lt;audio:VCT_001_012_001&gt;</VoiceId>
       <JapaneseText>うっはー！　この指輪すっげーな！
 炎が打てるなんてさ</JapaneseText>
-      <EnglishText>Wow! This ring is way past cool! I can fire so much fire!</EnglishText>
+      <EnglishText>Whoaaa! This ring's awesome! Can't
+believe it can really shoot flames.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -60,7 +61,7 @@
       <PointerOffset>48140</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_012_002&gt;</VoiceId>
       <JapaneseText>クルール！　クルクルール！！</JapaneseText>
-      <EnglishText>Kuruuru! Kurukuruuru!</EnglishText>
+      <EnglishText>Couleuru! Coulucouleuru!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -71,7 +72,8 @@
       <VoiceId>&lt;audio:VCT_001_012_003&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;！　そんなむやみに打ったら、
 周りのもの、燃えちゃうでしょ！</JapaneseText>
-      <EnglishText>&lt;Dio&gt;! If you keep shooting everywhere like a madman you'll burn everything around here!</EnglishText>
+      <EnglishText>&lt;Dio&gt;! Don't just shoot at random!
+You might start a fire!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
@@ -81,7 +83,8 @@
       <PointerOffset>48356</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_012_004&gt;</VoiceId>
       <JapaneseText>そうだよ。それに人に向けちゃダメだからね！</JapaneseText>
-      <EnglishText>That's right! It'd be really awful if you shot another person!</EnglishText>
+      <EnglishText>She's right. And it'd be really
+bad if you hit someone with it!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
@@ -92,7 +95,8 @@
       <VoiceId>&lt;audio:VCT_001_012_005&gt;</VoiceId>
       <JapaneseText>わかってるって、全然だいじょーぶ！
 燃えるもんなんて、そうそうないしさ</JapaneseText>
-      <EnglishText>I get it! No problem at all! Can't you see? I haven't burnt a thing, yet!</EnglishText>
+      <EnglishText>I get it, I get it. It's perfectly fine! There's
+nothing flammable around here, anyway.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -103,7 +107,8 @@
       <VoiceId>&lt;audio:VCT_001_012_006&gt;</VoiceId>
       <JapaneseText>ほ、炎……簡単に、も、燃えてしまうだ……。
 おら、高級素材だから……</JapaneseText>
-      <EnglishText>F-fire... So easy for me to get burnt... Why am I made of flammable materials...!?</EnglishText>
+      <EnglishText>F-Flames... I-I'd, b-burn pretty easily...
+I'm made of...real fine materials, so...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
@@ -114,7 +119,8 @@
       <VoiceId>&lt;audio:VCT_001_012_007&gt;</VoiceId>
       <JapaneseText>アルベルトさんが怖がってるじゃない！
 必要のない時は打たないの</JapaneseText>
-      <EnglishText>Mister Albert, don't be scared! You'll never get burnt due to &lt;Dio&gt;'s recklessness!</EnglishText>
+      <EnglishText>Look, you're scaring Albert! Don't
+shoot it unless we really need to.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
@@ -125,7 +131,8 @@
       <VoiceId>&lt;audio:VCT_001_012_008&gt;</VoiceId>
       <JapaneseText>燃える……、燃えるだ……
 真っ赤になって、パチパチ火の粉上げて……</JapaneseText>
-      <EnglishText>Burnt...I'll be burnt... Bright red fire will cover me fully. The wood shall crackle as it's consumed ...</EnglishText>
+      <EnglishText>Burn... I'll burn... I'll light up, bright red...crackle
+a bit, and then...there'll be nothin' left but ashes...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>8</Id>
@@ -136,7 +143,8 @@
       <VoiceId>&lt;audio:VCT_001_012_009&gt;</VoiceId>
       <JapaneseText>しまいにゃ、真っ黒になって、
 消し炭のように……</JapaneseText>
-      <EnglishText>And in the end...only a black gross substance will be left and ready to be thrown out...</EnglishText>
+      <EnglishText>Ashes, cinders...
+B-Burnt...black as coal...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>9</Id>
@@ -147,7 +155,8 @@
       <VoiceId>&lt;audio:VCT_001_012_010&gt;</VoiceId>
       <JapaneseText>いやーーーー！　怖い！　炎、怖い、
 おら、燃えたくねぇだーー！！</JapaneseText>
-      <EnglishText>Nooo! I'm scared! I'm scared of fire! Please don't let me get burnt!</EnglishText>
+      <EnglishText>Aaaaaaahhhhh! It's terrifyin'! Fire's terrifyin',
+ya understand!? I don't wanna buuuurn!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
@@ -157,7 +166,7 @@
       <PointerOffset>49140</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_012_011&gt;</VoiceId>
       <JapaneseText>ア、アルベルトさん？</JapaneseText>
-      <EnglishText>M-Mister Albert?</EnglishText>
+      <EnglishText>A-Albert?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>

@@ -8,7 +8,7 @@
       <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>293600,294032,294224</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286373</PointerOffset>
@@ -66,44 +66,45 @@
       <VoiceId>&lt;audio:VSM_120_010_014&gt;</VoiceId>
       <JapaneseText>なんだ、おまえら、
 強いじゃないか</JapaneseText>
-      <EnglishText>Look at that, you two
-are pretty strong!</EnglishText>
+      <EnglishText>Hey, you guys are
+pretty strong, aren't you?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>293604</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_010_015&gt;</VoiceId>
       <JapaneseText>だから言ったろ</JapaneseText>
-      <EnglishText>Told ya!</EnglishText>
+      <EnglishText>Yeah, like I said.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>293696</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_010_016&gt;</VoiceId>
       <JapaneseText>アミィにもこれぐらい
 力があったら……</JapaneseText>
-      <EnglishText>If only Ami was this strong, she...</EnglishText>
+      <EnglishText>If Ami had been
+this strong, then...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>293824</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_010_017&gt;</VoiceId>
       <JapaneseText>……いや……</JapaneseText>
-      <EnglishText>...No use thinking about it...</EnglishText>
+      <EnglishText>...Uh, anyway...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>293824</PointerOffset>
@@ -111,46 +112,49 @@ are pretty strong!</EnglishText>
       <JapaneseText>でも、
 叩きのめすばっかりが、
 力じゃないぜ</JapaneseText>
-      <EnglishText>But, just beating your enemy
-to a pulp isn't strength.</EnglishText>
+      <EnglishText>But y'know, there's more
+to strength than just
+beating monsters up.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294036</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_010_021&gt;</VoiceId>
       <JapaneseText>これは？</JapaneseText>
-      <EnglishText>Huh? This is...?</EnglishText>
+      <EnglishText>What's that?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294136</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_010_022&gt;</VoiceId>
       <JapaneseText>魔物を捕まえる魔物使いの服だよ。
 気分出るだろ？</JapaneseText>
-      <EnglishText>If you can catch monsters, you can
-use their powers. Catch my drift?</EnglishText>
+      <EnglishText>Clothes for capturing monsters.
+They kind of make you
+want to try it out, right?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294228</PointerOffset>
       <VoiceId>&lt;audio:VSM_120_010_023&gt;</VoiceId>
       <JapaneseText>そっか、これで
 『なりきり』すれば……</JapaneseText>
-      <EnglishText>Oh, right! Thanks to our "Roleplayer" powers...</EnglishText>
+      <EnglishText>Oh, so if I use
+these for "Roleplay"...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -664,9 +668,10 @@ use their powers. Catch my drift?</EnglishText>
       <JapaneseText>魔物を捕獲するためには、
 メニューのコスチュームから、
 魔物使いの格好に着替えるだーよ</JapaneseText>
-      <EnglishText>To catch monsters, just go to the "Costumes" 
-menu and change into the Monster User outfit!</EnglishText>
-      <Notes>gotta check with the costume name to make sure it's accurate</Notes>
+      <EnglishText>To capture monsters, ya need to
+go to Costumes in the Menu, and
+change into your Monster User clothes.</EnglishText>
+      <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>64</Id>
       <Status>Editing</Status>

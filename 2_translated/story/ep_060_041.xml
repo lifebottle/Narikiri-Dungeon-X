@@ -8,7 +8,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271240,271500</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271292</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271428</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>263033</PointerOffset>
@@ -80,71 +80,77 @@
     <Entry>
       <PointerOffset>271188</PointerOffset>
       <JapaneseText>クルール～……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Couleuru~...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271244</PointerOffset>
       <JapaneseText>一体、何だったんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What the heck
+was that?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271296</PointerOffset>
       <JapaneseText>さぁ？　ね、エト？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I dunno... Do you
+have any idea, Ethos?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271432</PointerOffset>
       <JapaneseText>え、えっと……
 ぼくも……よくわかんない</JapaneseText>
-      <EnglishText/>
+      <EnglishText>U-Umm... I don't...
+really know, either.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271432</PointerOffset>
       <JapaneseText>でも、なんかこの子は
 不思議な力を持ってるのかも
 しれない、ね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>But, &lt;Couleur&gt; might
+possess some kind
+of mysterious power.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271504</PointerOffset>
       <JapaneseText>おまえ、本当、一体、
 なにもんなんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, so, what even
+*are* you, exactly?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271548</PointerOffset>
       <JapaneseText>クルール？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Couleuru?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
@@ -662,11 +668,16 @@
 ま、詳しくはいつも通り、
 バトルメモを穴が開くほど
 見るといいだーよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Ya can't use Chain Partner unless
+ya've got it set to a shortcut!
+Don't go forgettin'! I'm warnin' ya!
+Anyhow, the details are in the Battle
+Book, as per usual, so pore over
+'em there as much as ya like.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>64</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
 </SceneText>

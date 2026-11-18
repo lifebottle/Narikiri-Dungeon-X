@@ -16,7 +16,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272364,272720</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272620,272836</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>265641</PointerOffset>
@@ -83,34 +83,39 @@
       <JapaneseText>ああ、きみたち。
 無事だったんだ、良かった。
 それで、何か用かな</JapaneseText>
-      <EnglishText>Ah, you guys. You look fine, that's a relief. Was
-there anything you wanted to discuss with me? </EnglishText>
+      <EnglishText>Oh, it's you all. I'm glad
+to see you're well. But,
+what brings you to me?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271744</PointerOffset>
       <VoiceId>&lt;audio:VSM_100_050_002&gt;</VoiceId>
       <JapaneseText>はい。その……
 また少し話を聞きたくて</JapaneseText>
-      <EnglishText>Yes. We'd like you to hear us out.</EnglishText>
+      <EnglishText>Well, umm... We just
+wanted to ask you
+a few more things...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271836</PointerOffset>
       <VoiceId>&lt;audio:VSM_100_050_003Z&gt;</VoiceId>
       <JapaneseText>私にわかることなら
 協力するが</JapaneseText>
-      <EnglishText>All my knowledge is at your disposition.</EnglishText>
+      <EnglishText>I'm certainly willing to
+help, so long as
+I know the answers.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271936</PointerOffset>
@@ -118,12 +123,13 @@ there anything you wanted to discuss with me? </EnglishText>
       <JapaneseText>実は精霊の力を
 使いこなせる術士を
 探していて……</JapaneseText>
-      <EnglishText>We need to find someone who can properly
-control the powers of the Summon Spirits.</EnglishText>
+      <EnglishText>Actually, we need a sorcerer
+who can fully wield the
+power of the spirits...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272148</PointerOffset>
@@ -131,13 +137,14 @@ control the powers of the Summon Spirits.</EnglishText>
       <JapaneseText>精霊の力だって！　本当に
 実在したのか……きみたちは
 不思議な力を持っているな</JapaneseText>
-      <EnglishText>Summon Spirits' powers!? They really do exist... You're
-talking about a rather mysterious force here.</EnglishText>
+      <EnglishText>The power of the spirits!? So they
+really do exist... You're in possession
+of a wonderful power, you know.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272148</PointerOffset>
@@ -145,110 +152,118 @@ talking about a rather mysterious force here.</EnglishText>
       <JapaneseText>術士と言われても……
 精霊に会ったことすら
 ないんだ</JapaneseText>
-      <EnglishText>Sadly, I don't know anyone who can
-control the power of the Spirits.</EnglishText>
+      <EnglishText>But, as for your sorcerer...
+I've never so much as met
+the spirits, myself.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272212</PointerOffset>
       <VoiceId>&lt;audio:VSM_100_050_007&gt;</VoiceId>
       <JapaneseText>そんな……</JapaneseText>
-      <EnglishText>No...</EnglishText>
+      <EnglishText>But that's...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272308</PointerOffset>
       <VoiceId>&lt;audio:VSM_100_050_008Z&gt;</VoiceId>
       <JapaneseText>申し訳ないが
 私ではわからないな</JapaneseText>
-      <EnglishText>I'm truly sorry. I don't know anything about this...</EnglishText>
+      <EnglishText>I'm sorry, but I
+don't have any
+answers for you.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272368</PointerOffset>
       <VoiceId>&lt;audio:VSM_100_050_009&gt;</VoiceId>
       <JapaneseText>マジか？</JapaneseText>
-      <EnglishText>So that's what it is, huh?</EnglishText>
+      <EnglishText>Seriously?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272480</PointerOffset>
       <VoiceId>&lt;audio:VSM_100_050_010Z&gt;</VoiceId>
       <JapaneseText>きみたちの役に立てれば
 よかったんだが、すまない</JapaneseText>
-      <EnglishText>I'm glad I could help you last time, but I'm sorry.</EnglishText>
+      <EnglishText>Sorry. I would've loved
+to be of help to you.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272552</PointerOffset>
       <VoiceId>&lt;audio:VSM_100_050_011&gt;</VoiceId>
       <JapaneseText>どうしよう、エト……</JapaneseText>
-      <EnglishText>What should we do, Eto?</EnglishText>
+      <EnglishText>What do we
+do, Ethos...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272624</PointerOffset>
       <VoiceId>&lt;audio:VSM_100_050_012&gt;</VoiceId>
       <JapaneseText>一旦、家に戻らない？</JapaneseText>
-      <EnglishText>What if we return home?</EnglishText>
+      <EnglishText>For now, how about
+we return home?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272724</PointerOffset>
       <VoiceId>&lt;audio:VSM_100_050_013&gt;</VoiceId>
       <JapaneseText>でも、&lt;Red&gt;ヴァルハラ&lt;White&gt;を
 あのままにしとけねーよ！</JapaneseText>
-      <EnglishText>We can't leave &lt;Red&gt;Valhalla&lt;White&gt; behind like this!</EnglishText>
+      <EnglishText>But we can't just leave
+&lt;Red&gt;Valhalla&lt;White&gt; like that!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272840</PointerOffset>
       <VoiceId>&lt;audio:VSM_100_050_014&gt;</VoiceId>
       <JapaneseText>だからだよ</JapaneseText>
-      <EnglishText>I know.</EnglishText>
+      <EnglishText>That's exactly why.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272840</PointerOffset>
       <VoiceId>&lt;audio:VSM_100_050_015&gt;</VoiceId>
       <JapaneseText>今は家に戻って
 落ち着いて考えよう</JapaneseText>
-      <EnglishText>For now let's return home and rest. We'll
-collapse from exhaustion if we keep this up.</EnglishText>
+      <EnglishText>We need to go
+somewhere that we
+can calm down and think.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272928</PointerOffset>
@@ -256,12 +271,12 @@ collapse from exhaustion if we keep this up.</EnglishText>
       <JapaneseText>そうだね……
 何か方法を
 思いつくかも</JapaneseText>
-      <EnglishText>She's right. We might need some
-time to think of something.</EnglishText>
+      <EnglishText>You're right... We might be
+able to think of something.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

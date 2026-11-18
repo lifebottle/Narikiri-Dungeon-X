@@ -8,7 +8,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272808,273268</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273096</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273176</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>263912,264150,264215,264251,264322,264388,264427,264503,264574,264640,264651,264769,264855,264936,265012,265083,265149,265160,265329,265362,265373,265488,265598,265609,265736,265779,265964,266728,266739,266894,267002,267176,267252,267350,267456,267522,267575,267689,267886,268128,268193,268258,268323,268997,269338,269539,273548</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>263845</PointerOffset>
@@ -81,32 +81,33 @@
       <PointerOffset>272740</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_015_039&gt;</VoiceId>
       <JapaneseText>クルール～……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Couleuru~...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272812</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_015_040&gt;</VoiceId>
       <JapaneseText>一体、何だったんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>What the hell was that?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273100</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_015_041&gt;</VoiceId>
       <JapaneseText>よくはわかりませんが……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>I'm not entirely
+sure, but...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273100</PointerOffset>
@@ -114,12 +115,14 @@
       <JapaneseText>動物と意思疎通できるという
 この道具の特性が、&lt;Couleur&gt;さんの
 持つ何かに反応した、としか</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>This item's ability to understand the
+will of animals must have reacted
+to something &lt;Couleur&gt; possesses...</EnglishText>
+      <Notes>no idea what she's talking about</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>273100</PointerOffset>
@@ -127,43 +130,47 @@
       <JapaneseText>あるいは、ずっと&lt;Couleur&gt;さんと
 旅してきたおふたりだからこそ、
 その姿になれるのかもしれません</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Or else, because the two of you
+have traveled for so long with
+&lt;Couleur&gt;, this form is now achievable.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
       <BubbleId>2</BubbleId>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>273180</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_015_044&gt;</VoiceId>
       <JapaneseText>不思議なこともあるもんだね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>The world is full of
+mysteries, isn't it?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273272</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_015_045&gt;</VoiceId>
       <JapaneseText>おまえ、本当、一体、
 なにもんなんだ？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hey, so, what even
+*are* you, exactly?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273336</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_015_046&gt;</VoiceId>
       <JapaneseText>クルール？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Couleuru?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273552</PointerOffset>
@@ -171,12 +178,14 @@
       <JapaneseText>おめぇら、ええか？
 チェインパートナーの時は
 魔物の捕獲はできねーだど</JapaneseText>
-      <EnglishText/>
+      <EnglishText>You all listenin'? When yer in the
+middle of Chain Partner, ya can't
+capture any of them monsters.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>9</Id>
       <BubbleId>0</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273552</PointerOffset>
@@ -184,12 +193,14 @@
       <JapaneseText>詳しくはいつも通り、
 バトルメモを穴が開くほど
 じーっと見るとええだーよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Anyhow, the details are in the Battle
+Book, as per usual, so take a good,
+long gander at 'em, won't ya?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

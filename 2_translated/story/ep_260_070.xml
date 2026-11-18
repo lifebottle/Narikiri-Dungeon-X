@@ -5,10 +5,10 @@
     <Entry>
       <PointerOffset>268568,268868</PointerOffset>
       <JapaneseText>国防軍士官</JapaneseText>
-      <EnglishText>Self-Defense Member</EnglishText>
+      <EnglishText>Defense Force Officer</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268672,268980</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>General Bandi</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>262593</PointerOffset>
@@ -66,24 +66,26 @@
       <VoiceId>&lt;audio:VSM_260_070_001&gt;</VoiceId>
       <JapaneseText>バンディ将軍、
 あの子も養子候補ですか</JapaneseText>
-      <EnglishText>General Bandi, that child may be
-a suitable candidate for adoption.</EnglishText>
+      <EnglishText>General Bandi. Are
+those children also
+candidates for adoption?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268676</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_070_002&gt;</VoiceId>
       <JapaneseText>ああ……親も探してはみたが、
 見つからなかった</JapaneseText>
-      <EnglishText>I realize that... Despite the search, no
-traces of her parents were found.</EnglishText>
+      <EnglishText>Yes... I tried searching
+for their parents, but
+I never found them.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268872</PointerOffset>
@@ -91,13 +93,14 @@ traces of her parents were found.</EnglishText>
       <JapaneseText>近頃、生活に困窮し
 子どもを捨てる親が
 増えています</JapaneseText>
-      <EnglishText>More and more parents living in poverty
-choose to abandon their kids.</EnglishText>
+      <EnglishText>Lately, life has only grown more
+difficult, and more and more parents
+have abandoned their children.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268872</PointerOffset>
@@ -105,14 +108,14 @@ choose to abandon their kids.</EnglishText>
       <JapaneseText>いくら呼びかけても
 向こうは捨てたわけですから
 名乗り出るわけありません</JapaneseText>
-      <EnglishText>No matter how much they cry out,
-the parents won't take them back
-once their decision is made.</EnglishText>
+      <EnglishText>And having abandoned their children,
+they won't just come forward, no
+matter how long you search for them.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268984</PointerOffset>
@@ -120,12 +123,13 @@ once their decision is made.</EnglishText>
       <JapaneseText>これもすべて……
 長引く戦争で
 民が飢えているせいか……</JapaneseText>
-      <EnglishText>This is the result of a starving nation
-in the midst of a drawn-out war...</EnglishText>
+      <EnglishText>All of this...is because of this
+long, long war, and the famine
+it's brought upon our people...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

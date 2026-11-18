@@ -8,7 +8,7 @@
       <EnglishText>&lt;Klarth&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44440,44732,45096,45532</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44944,45036,45204</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45664</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -41,7 +41,8 @@
       <PointerOffset>44368</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_020_001&gt;</VoiceId>
       <JapaneseText>君たちは私のことを誰に？</JapaneseText>
-      <EnglishText>Who was the one that told you about me?</EnglishText>
+      <EnglishText>So, who told
+you about me?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -51,7 +52,8 @@
       <PointerOffset>44444</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_020_002&gt;</VoiceId>
       <JapaneseText>&lt;Arche&gt;さんに聞きました</JapaneseText>
-      <EnglishText>We heard from Miss &lt;Arche&gt;.</EnglishText>
+      <EnglishText>We heard about
+you from &lt;Arche&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -61,7 +63,7 @@
       <PointerOffset>44516</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_020_003&gt;</VoiceId>
       <JapaneseText>&lt;Arche&gt;に会ったのか</JapaneseText>
-      <EnglishText>So you've met &lt;Arche&gt;...</EnglishText>
+      <EnglishText>You met &lt;Arche&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
@@ -72,7 +74,8 @@
       <VoiceId>&lt;audio:VCT_001_020_004&gt;</VoiceId>
       <JapaneseText>君たちの時代にいたということは
 ２００歳の彼女だな、それは</JapaneseText>
-      <EnglishText>In your era she'd be about 200 years old...</EnglishText>
+      <EnglishText>If that was in your era, that would
+make her 200 years old, or so.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -83,7 +86,8 @@
       <VoiceId>&lt;audio:VCT_001_020_005&gt;</VoiceId>
       <JapaneseText>２００歳……そんなに長く生きるって
 どんな気持ちなんだろ</JapaneseText>
-      <EnglishText>200 years...I wonder how she feels after such a long time...</EnglishText>
+      <EnglishText>200 years old... I wonder
+how it feels to live that long.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
@@ -94,7 +98,8 @@
       <VoiceId>&lt;audio:VCT_001_020_006&gt;</VoiceId>
       <JapaneseText>人がひとりで生きるには
 長すぎる時間だな</JapaneseText>
-      <EnglishText>People can easily live alone for long periods of time, uh?</EnglishText>
+      <EnglishText>It's far too long for one
+person to live on their own.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -105,7 +110,8 @@
       <VoiceId>&lt;audio:VCT_001_020_007&gt;</VoiceId>
       <JapaneseText>でも、仲間がいれば、どんな長い年月だって
 きっと乗り越えられる……</JapaneseText>
-      <EnglishText>When one is with a companion you can overcome any amount of time...</EnglishText>
+      <EnglishText>But as long as you're with friends, you'll
+be happy no matter how long you live...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
@@ -116,7 +122,8 @@
       <VoiceId>&lt;audio:VCT_001_020_008&gt;</VoiceId>
       <JapaneseText>でも、ひとりは……
 やっぱり寂しい……</JapaneseText>
-      <EnglishText>But it's just too sad...being alone...</EnglishText>
+      <EnglishText>But on your own... It's
+really lonely, isn't it...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
@@ -126,7 +133,7 @@
       <PointerOffset>45100</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_020_009&gt;</VoiceId>
       <JapaneseText>エト？</JapaneseText>
-      <EnglishText>Eto?</EnglishText>
+      <EnglishText>Ethos?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
@@ -137,7 +144,8 @@
       <VoiceId>&lt;audio:VCT_001_020_010&gt;</VoiceId>
       <JapaneseText>え？　あ、ううん……&lt;Arche&gt;さん、
 どうしてひとりなんだろ</JapaneseText>
-      <EnglishText>Eh? Oh it's ok. So why was &lt;Arche&gt; alone in the first place?</EnglishText>
+      <EnglishText>Eh? Oh, umm... Why was
+&lt;Arche&gt; all on her own?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
@@ -148,7 +156,8 @@
       <VoiceId>&lt;audio:VCT_001_020_011&gt;</VoiceId>
       <JapaneseText>一番大切な思い出が彼女の中で大きすぎる。
 誰もその穴を埋められない。それどころか</JapaneseText>
-      <EnglishText>She keeps her memories very dearly inside her. She created a hole she couldn't fill.</EnglishText>
+      <EnglishText>Her favorite memories still have a huge place in
+her heart. No one can fill that hole. In fact...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
@@ -159,7 +168,8 @@
       <VoiceId>&lt;audio:VCT_001_020_012&gt;</VoiceId>
       <JapaneseText>人といるとその時のことを思い出して
 よけいに彼女を寂しくしてしまうから</JapaneseText>
-      <EnglishText>With no one to share them, each time she remembers such things she would probably go through a lot of sadness...</EnglishText>
+      <EnglishText>...when she's with people, it brings those memories
+back, and that makes her all the lonelier.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
@@ -169,7 +179,7 @@
       <PointerOffset>45536</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_020_013&gt;</VoiceId>
       <JapaneseText>そう、なんですか？</JapaneseText>
-      <EnglishText>Is that...really true?</EnglishText>
+      <EnglishText>You think that's why...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
@@ -179,7 +189,7 @@
       <PointerOffset>45600</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_020_014&gt;</VoiceId>
       <JapaneseText>……かもな</JapaneseText>
-      <EnglishText>Sadly, yes...</EnglishText>
+      <EnglishText>...Probably.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
@@ -189,7 +199,7 @@
       <PointerOffset>45668</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_020_015&gt;</VoiceId>
       <JapaneseText>クルルル～……</JapaneseText>
-      <EnglishText>Kurururu...</EnglishText>
+      <EnglishText>Coulululu~...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>

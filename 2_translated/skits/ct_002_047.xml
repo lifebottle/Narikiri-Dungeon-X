@@ -8,7 +8,7 @@
       <EnglishText>&lt;Cless&gt; &amp; &lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>51912,52124,52376,52480,52620,53092</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>52004,52240,52708,52796</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Mint&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>52888</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>52952</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -50,7 +50,8 @@
       <VoiceId>&lt;audio:VCT_002_047_001&gt;</VoiceId>
       <JapaneseText>うわ！
 きゃっ！</JapaneseText>
-      <EnglishText>Woah!</EnglishText>
+      <EnglishText>Whoa!
+Ahhh!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -61,7 +62,8 @@
       <VoiceId>&lt;audio:VCT_002_047_003&gt;</VoiceId>
       <JapaneseText>はい、は～い！　はじめまして『ミーたま』∀
 おらアルベルトだど</JapaneseText>
-      <EnglishText>Hey, heya, hi! A pleasure you meet you, Miss &lt;Mint&gt;y! My name's the great Albert!</EnglishText>
+      <EnglishText>Hello, helloooo! Good to meet
+ya, Miss Minty! ∀ I'm Albert.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -71,7 +73,7 @@
       <PointerOffset>52008</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_047_004&gt;</VoiceId>
       <JapaneseText>は、はじめまして……アルベルト……さん？</JapaneseText>
-      <EnglishText>N-nice to meet you too...Mr...Albert?</EnglishText>
+      <EnglishText>N-Nice to meet you...Albert...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
@@ -82,7 +84,8 @@
       <VoiceId>&lt;audio:VCT_002_047_005&gt;</VoiceId>
       <JapaneseText>んな、緊張せんでもええだーよ。
 それともカマトトぶってるだか？</JapaneseText>
-      <EnglishText>Oh please don't be so tense! Your innocent act won't work with me, you know!</EnglishText>
+      <EnglishText>Ya don't have to be all nervous. Or are
+ya just tryin' to play all faux-naif, hm?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -93,7 +96,8 @@
       <VoiceId>&lt;audio:VCT_002_047_006&gt;</VoiceId>
       <JapaneseText>か、かまとと、ですか？
 それは、いったい、なんなのでしょうか？</JapaneseText>
-      <EnglishText>I-innocent act, you say? I-I wonder what exactly you hope to mean with those words.</EnglishText>
+      <EnglishText>F-Faux-naif...? Um, what
+does that mean, exactly?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
@@ -104,7 +108,8 @@
       <VoiceId>&lt;audio:VCT_002_047_007&gt;</VoiceId>
       <JapaneseText>知らぬが仏ってこともあるだ。
 それより、ミーたま、そこの野暮天と恋仲なんだか？</JapaneseText>
-      <EnglishText>There are things better left unsaid... So Miss &lt;Mint&gt;y, this pushover here is your lover or what?</EnglishText>
+      <EnglishText>Sometimes, innocence really is bliss. Anyway, Miss
+Minty, have ya got a romance goin' with that oaf there?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -114,18 +119,20 @@
       <PointerOffset>52484</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_047_008&gt;</VoiceId>
       <JapaneseText>あーあー、もうええだ！　それだけで腹一杯だーよ</JapaneseText>
-      <EnglishText>I can see it in your eyes. It's frankly absolutely revolting.</EnglishText>
-      <Notes/>
+      <EnglishText>Ahhhhh, I've had enough! I'm
+more 'an satisfied with this.</EnglishText>
+      <Notes>need to check in-context</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>52624</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_047_009&gt;</VoiceId>
       <JapaneseText>だども、そのひらひらマント野郎に飽きた
 っちゅー時には、いつでもおらんとこに来るだど</JapaneseText>
-      <EnglishText>In any case if you ever get tired of this Flapping Cape Weirdo I'll always be available.</EnglishText>
+      <EnglishText>But once ya get tired of yer flappin' cape
+weirdo, ya can always come over to me, y'hear?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
@@ -135,7 +142,8 @@
       <PointerOffset>52712</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_047_010&gt;</VoiceId>
       <JapaneseText>ク、&lt;Cless&gt;さんに飽きるなんて……！</JapaneseText>
-      <EnglishText>Me getting tired of &lt;Cless&gt;, you say...?</EnglishText>
+      <EnglishText>I-I'd never get
+tired of &lt;Cless&gt;...!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
@@ -145,7 +153,7 @@
       <PointerOffset>52800</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_047_011&gt;</VoiceId>
       <JapaneseText>……わ、私、絶対にありませんから……</JapaneseText>
-      <EnglishText>I-I'm afraid that'll never happen.</EnglishText>
+      <EnglishText>...I-I really won't, you know...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
@@ -156,7 +164,8 @@
       <VoiceId>&lt;audio:VCT_002_047_012&gt;</VoiceId>
       <JapaneseText>……&lt;Mint&gt;……
 僕だって、そう、だよ……</JapaneseText>
-      <EnglishText>&lt;Mint&gt;... That's right! I feel the same way!</EnglishText>
+      <EnglishText>...&lt;Mint&gt;... I...feel the
+same way about you...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
@@ -166,7 +175,7 @@
       <PointerOffset>52956</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_047_013&gt;</VoiceId>
       <JapaneseText>………………</JapaneseText>
-      <EnglishText>...!</EnglishText>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>12</Id>
@@ -177,7 +186,8 @@
       <VoiceId>&lt;audio:VCT_002_047_014&gt;</VoiceId>
       <JapaneseText>さっきっから、おらがイチャイチャを促してるだか？
 あ～？　んなの、やってらんねーだ！</JapaneseText>
-      <EnglishText>Flirting in public? There's no hope for the youth, I'm afraid.</EnglishText>
+      <EnglishText>So this whole time, I've just been bringin' ya closer
+together? Hu~h? Ahh, I just can't take it anymore!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>

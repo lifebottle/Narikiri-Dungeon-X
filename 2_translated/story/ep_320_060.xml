@@ -8,7 +8,7 @@
       <EnglishText>Dios</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271840,272088</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>Meltia</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271928,272364</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272160</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272264,272552</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>265753</PointerOffset>
@@ -89,87 +89,92 @@
       <PointerOffset>271696</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_001&gt;</VoiceId>
       <JapaneseText>来たか</JapaneseText>
-      <EnglishText>You've come.</EnglishText>
+      <EnglishText>So you've come.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271844</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_002&gt;</VoiceId>
       <JapaneseText>この先でノルンが待ってるわ</JapaneseText>
-      <EnglishText>Norn is waiting just a little further.</EnglishText>
+      <EnglishText>Norn is waiting,
+further in.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271844</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_003&gt;</VoiceId>
       <JapaneseText>そこでノルンがわたしたちに
 審判を下してくれる</JapaneseText>
-      <EnglishText>Soon, she will pass judgment on all of us.</EnglishText>
+      <EnglishText>She'll hand down
+her judgement
+there. Of us.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271932</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_004&gt;</VoiceId>
       <JapaneseText>“審判”は
 わたしたち自身でつける</JapaneseText>
-      <EnglishText>We are the only ones who need to be judged.</EnglishText>
+      <EnglishText>We can pass our
+own "judgement."</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272016</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_005&gt;</VoiceId>
       <JapaneseText>それがおまえたちの言う決着か</JapaneseText>
-      <EnglishText>So that is your conclusion.</EnglishText>
+      <EnglishText>So that's what you meant when
+you said you'll "put an end to this"?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272092</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_006&gt;</VoiceId>
       <JapaneseText>いいわ、やりましょう</JapaneseText>
-      <EnglishText>All right, then. Let's do it.</EnglishText>
+      <EnglishText>Fine. Let's do it.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272164</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_007&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;……&lt;Mel&gt;……</JapaneseText>
-      <EnglishText>&lt;Dio&gt;...&lt;Mel&gt;...</EnglishText>
+      <EnglishText>&lt;Dio&gt;... &lt;Mel&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272268</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_008&gt;</VoiceId>
       <JapaneseText>全然だいじょーぶだって。
 こいつら、オレらなんだから</JapaneseText>
-      <EnglishText>No problem at all! After
-all, these guys are us!</EnglishText>
+      <EnglishText>Hey, it's perfectly fine.
+They're just us, you know?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272368</PointerOffset>
@@ -177,33 +182,36 @@ all, these guys are us!</EnglishText>
       <JapaneseText>わたしたちには
 『なりきり士』の力が
 ついてるもん</JapaneseText>
-      <EnglishText>And we have Roleplayer powers!</EnglishText>
+      <EnglishText>And we've got the
+power of "Roleplayers."</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272460</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_010&gt;</VoiceId>
       <JapaneseText>おまえたちはオレたちに
 絶対、勝てない</JapaneseText>
-      <EnglishText>You will not prevail against us!</EnglishText>
+      <EnglishText>You will never
+win against us.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272556</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_011&gt;</VoiceId>
       <JapaneseText>そんなん、やってみないと
 わかんねーだろ！？</JapaneseText>
-      <EnglishText>We won't know until we try, right!?</EnglishText>
+      <EnglishText>You don't know
+that 'til we've tried!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

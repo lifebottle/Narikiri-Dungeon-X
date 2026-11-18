@@ -8,7 +8,7 @@
       <EnglishText>&lt;Klarth&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42484,42680,43252</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42776,43052,43404</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43160</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -42,7 +42,8 @@
       <VoiceId>&lt;audio:VCT_001_018_001&gt;</VoiceId>
       <JapaneseText>君たちは……エルフでは
 ないようだが……</JapaneseText>
-      <EnglishText>You guys aren't elves, are you?</EnglishText>
+      <EnglishText>Well...you don't
+seem like elves...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -52,7 +53,8 @@
       <PointerOffset>42488</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_018_002&gt;</VoiceId>
       <JapaneseText>はい、違いますけど……</JapaneseText>
-      <EnglishText>We aren't, why do you ask...?</EnglishText>
+      <EnglishText>Well, you're right,
+we're not, but...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -63,7 +65,8 @@
       <VoiceId>&lt;audio:VCT_001_018_003&gt;</VoiceId>
       <JapaneseText>魔術を使えるのはエルフだけのはずだ。
 でも、君たちは魔術を使える。どうしてだ？</JapaneseText>
-      <EnglishText>Only those with elven blood can use magic...but you can use magic anyways. Why's that?</EnglishText>
+      <EnglishText>Only elves should be able to use magic.
+But you can use it, too. Why is that?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
@@ -73,7 +76,7 @@
       <PointerOffset>42684</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_018_004&gt;</VoiceId>
       <JapaneseText>えっと……</JapaneseText>
-      <EnglishText>Well...</EnglishText>
+      <EnglishText>Umm...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -84,7 +87,8 @@
       <VoiceId>&lt;audio:VCT_001_018_005&gt;</VoiceId>
       <JapaneseText>そこが『なりきり士』の
 すごいところだぜ！</JapaneseText>
-      <EnglishText>That's because of how amazing it is to be a "Roleplayer"!</EnglishText>
+      <EnglishText>That's one of the incredible
+things about "Roleplayers"!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
@@ -95,7 +99,8 @@
       <VoiceId>&lt;audio:VCT_001_018_006&gt;</VoiceId>
       <JapaneseText>エルフでもないのに魔術を、か。
 『なりきり士』っていうのは得体の知れない力だな</JapaneseText>
-      <EnglishText>You aren't elves but can use magic, huh? The power of "Roleplaying" sounds quite surreal.</EnglishText>
+      <EnglishText>That they can use magic even if they're not
+elves? "Roleplayer" is a pretty strange power.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -106,7 +111,8 @@
       <VoiceId>&lt;audio:VCT_001_018_007&gt;</VoiceId>
       <JapaneseText>あっ、もしかして料理人の服着れば、超一流の
 すげーうまい豪華料理を作って食えるんじゃねーの？</JapaneseText>
-      <EnglishText>Oh yeah! Does that mean if we got some chef's clothes we would be able to prepare the best dishes ever?</EnglishText>
+      <EnglishText>Oh, hey, if we dressed up as chefs, couldn't
+we cook and eat a real five-star meal?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
@@ -117,7 +123,8 @@
       <VoiceId>&lt;audio:VCT_001_018_008&gt;</VoiceId>
       <JapaneseText>大工さんになったら、
 エトスハウスを新しく建て直せるかも</JapaneseText>
-      <EnglishText>Or if you were a carpenter we could turn Ethos' House into a huge mansion!</EnglishText>
+      <EnglishText>And if you became carpenters, you
+could probably renovate my house.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
@@ -128,7 +135,8 @@
       <VoiceId>&lt;audio:VCT_001_018_009&gt;</VoiceId>
       <JapaneseText>家の修理も、豪華料理も
 材料が必要だよ？</JapaneseText>
-      <EnglishText>Big meals and a great house are all you really want?</EnglishText>
+      <EnglishText>We'd need the right materials to fix the
+house or cook a gourmet meal, though.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
@@ -138,7 +146,7 @@
       <PointerOffset>43328</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_018_010&gt;</VoiceId>
       <JapaneseText>君はリアリストだな</JapaneseText>
-      <EnglishText>You're pretty down to the ground.</EnglishText>
+      <EnglishText>You're a realist.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
@@ -149,7 +157,8 @@
       <VoiceId>&lt;audio:VCT_001_018_011&gt;</VoiceId>
       <JapaneseText>っていうか、
 夢がないぜ……</JapaneseText>
-      <EnglishText>...So you say. Now the dream has died.</EnglishText>
+      <EnglishText>You can say that, but it's more
+like she's not got any dreams...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>

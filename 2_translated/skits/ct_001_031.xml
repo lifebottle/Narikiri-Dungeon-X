@@ -8,7 +8,7 @@
       <EnglishText>&lt;Dio&gt; &amp; &lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44284,44416,44560,44716,44856,45012,45144</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44344,44496,44636,44788,44936,45080,45232</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45316</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -51,7 +51,7 @@
       <PointerOffset>44288</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_003&gt;</VoiceId>
       <JapaneseText>あの、さ……</JapaneseText>
-      <EnglishText>Hey, um...</EnglishText>
+      <EnglishText>Um, so...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -61,7 +61,7 @@
       <PointerOffset>44348</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_004&gt;</VoiceId>
       <JapaneseText>なんだよ</JapaneseText>
-      <EnglishText>What?</EnglishText>
+      <EnglishText>What do you want?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
@@ -71,7 +71,8 @@
       <PointerOffset>44420</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_005&gt;</VoiceId>
       <JapaneseText>……何怒ってんの？</JapaneseText>
-      <EnglishText>...Why are you angry, now?</EnglishText>
+      <EnglishText>...What are you
+angry about?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -81,7 +82,7 @@
       <PointerOffset>44500</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_006&gt;</VoiceId>
       <JapaneseText>別に。怒ってなんかねーって</JapaneseText>
-      <EnglishText>Nope. I'm not mad at all.</EnglishText>
+      <EnglishText>Hmph. I'm not angry.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
@@ -101,7 +102,8 @@
       <PointerOffset>44640</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_008&gt;</VoiceId>
       <JapaneseText>怒ってねーってんだろ？</JapaneseText>
-      <EnglishText>Are YOU angry?</EnglishText>
+      <EnglishText>Yo, I just told you,
+I'm not angry.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
@@ -111,7 +113,8 @@
       <PointerOffset>44720</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_009&gt;</VoiceId>
       <JapaneseText>謝ってるのに、何で怒んの？</JapaneseText>
-      <EnglishText>I'm apologizing! Why are you angry now?</EnglishText>
+      <EnglishText>Why are you angry
+at me for apologizing?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
@@ -121,7 +124,7 @@
       <PointerOffset>44792</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_010&gt;</VoiceId>
       <JapaneseText>怒ってねーっての！</JapaneseText>
-      <EnglishText>I'm NOT angry!</EnglishText>
+      <EnglishText>I'm. Not. Angry!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
@@ -131,7 +134,7 @@
       <PointerOffset>44860</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_011&gt;</VoiceId>
       <JapaneseText>じゃあ、笑って</JapaneseText>
-      <EnglishText>Then smile.</EnglishText>
+      <EnglishText>Then, smile.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
@@ -141,7 +144,8 @@
       <PointerOffset>44940</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_012&gt;</VoiceId>
       <JapaneseText>突然言われて、笑えるかって</JapaneseText>
-      <EnglishText>Just telling me to smile won't make me smile.</EnglishText>
+      <EnglishText>You think I'm gonna smile just like
+that, just 'cause you told me to?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
@@ -151,7 +155,7 @@
       <PointerOffset>45016</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_013&gt;</VoiceId>
       <JapaneseText>やっぱり、怒ってるんだ</JapaneseText>
-      <EnglishText>I knew it, you're mad!</EnglishText>
+      <EnglishText>So you are angry.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
@@ -161,7 +165,7 @@
       <PointerOffset>45084</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_014&gt;</VoiceId>
       <JapaneseText>……んだよ、もう</JapaneseText>
-      <EnglishText>Ugh...</EnglishText>
+      <EnglishText>...Come the hell on.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
@@ -171,7 +175,7 @@
       <PointerOffset>45148</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_015&gt;</VoiceId>
       <JapaneseText>気持ち悪い</JapaneseText>
-      <EnglishText>That's just creepy...</EnglishText>
+      <EnglishText>You're so annoying.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
@@ -181,7 +185,7 @@
       <PointerOffset>45236</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_016&gt;</VoiceId>
       <JapaneseText>んだよ、どうすりゃいいってんだ！？</JapaneseText>
-      <EnglishText>God, what do you want me to do!?</EnglishText>
+      <EnglishText>The hell do you want from me!?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
@@ -191,7 +195,8 @@
       <PointerOffset>45320</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_031_017&gt;</VoiceId>
       <JapaneseText>乙女心は難しいんだよ、&lt;Dio&gt;くん</JapaneseText>
-      <EnglishText>A young girl's heart is like a web of complexities, &lt;Dio&gt;!</EnglishText>
+      <EnglishText>The heart of a maiden is a
+troublesome thing, young &lt;Dio&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>16</Id>

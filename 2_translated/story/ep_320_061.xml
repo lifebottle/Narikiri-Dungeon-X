@@ -8,7 +8,7 @@
       <EnglishText>Dios</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284640,285024,285548,286100,286440</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284852</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>Meltia</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284940,285112,285452,285672,286000,286500,286632,286972</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285292,286832,287068</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285388,285796,286240</PointerOffset>
@@ -48,7 +48,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286564</PointerOffset>
@@ -56,7 +56,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286728</PointerOffset>
@@ -64,7 +64,7 @@
       <EnglishText>Norn</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277605</PointerOffset>
@@ -115,12 +115,13 @@
       <JapaneseText>くっ……オレたちを倒すことが……
 どういうことか……
 わかっていないようだな……</JapaneseText>
-      <EnglishText>I don't understand...what you plan...
-to accomplish...by defeating us...</EnglishText>
+      <EnglishText>Ugh... How could you...
+defeat us...? You still
+don't get it, do you...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284644</PointerOffset>
@@ -128,58 +129,62 @@ to accomplish...by defeating us...</EnglishText>
       <JapaneseText>わかってるっての。
 だから“決着”つける
 って言ったろ</JapaneseText>
-      <EnglishText>Don't you get it? That's what we
-meant by setting things right!</EnglishText>
+      <EnglishText>Nah, we get it.
+That's why it's
+"the end," right?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284744</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_014&gt;</VoiceId>
       <JapaneseText>まったく……馬鹿野郎だよ、
 おまえたち、は……</JapaneseText>
-      <EnglishText>You really are...a bunch
-of idiots...ugh...</EnglishText>
+      <EnglishText>What the hell...? You
+two are...complete...idiots...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284856</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_015&gt;</VoiceId>
       <JapaneseText>後悔し恐れるといいわ……
 報いを受けるその瞬間まで……</JapaneseText>
-      <EnglishText>You will regret...and curse...this
-decision...knowing fully well that...</EnglishText>
+      <EnglishText>You'll regret this... You'll suffer
+in terror... Until the moment...
+retribution comes, for you...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>284944</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_016&gt;</VoiceId>
       <JapaneseText>……え？　え？
 どういう、こと……？</JapaneseText>
-      <EnglishText>Wh-What? What is the meaning of this?</EnglishText>
+      <EnglishText>...Eh? Eh? What are
+they...talking about...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285028</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_017&gt;</VoiceId>
       <JapaneseText>あいつら消せば、
 オレらも消える</JapaneseText>
-      <EnglishText>By defeating them, we'll disappear.</EnglishText>
+      <EnglishText>If we kill them,
+we'll die, too.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285116</PointerOffset>
@@ -187,25 +192,26 @@ decision...knowing fully well that...</EnglishText>
       <JapaneseText>消えるって……？
 え……？
 まさか……</JapaneseText>
-      <EnglishText>Disappear...? What...?
-You can't be...serious...</EnglishText>
+      <EnglishText>You'll die...?
+Eh? You can't...
+You're not really...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285296</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_019&gt;</VoiceId>
       <JapaneseText>……あのふたりは
 &lt;Dio&gt;くんと&lt;Mel&gt;ちゃんだった</JapaneseText>
-      <EnglishText>...So that's what you two
-had in mind all along.</EnglishText>
+      <EnglishText>...Those two were
+&lt;Dio&gt; and &lt;Mel&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>8</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285296</PointerOffset>
@@ -213,46 +219,48 @@ had in mind all along.</EnglishText>
       <JapaneseText>だから、あのふたりを
 倒すってことは、
 自分自身を倒すこと……</JapaneseText>
-      <EnglishText>That's right...by killing them, you've essentially
-erased yourselves from existence...</EnglishText>
+      <EnglishText>So, defeating the two
+of them means
+defeating themselves...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285392</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_021&gt;</VoiceId>
       <JapaneseText>そういうことだよ。
 黙っててゴメンね、エト</JapaneseText>
-      <EnglishText>Yeah, that was our idea. Sorry
-for not saying anything, Eto.</EnglishText>
+      <EnglishText>Yep, that's the truth. Sorry
+for not telling you, Ethos.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285456</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_022&gt;</VoiceId>
       <JapaneseText>そ、んな……</JapaneseText>
-      <EnglishText>N-No...</EnglishText>
+      <EnglishText>But, that's...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285552</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_023&gt;</VoiceId>
       <JapaneseText>これが……ノルンが望んだ
 オレらの決着なんだ</JapaneseText>
-      <EnglishText>This...is what Norn expected from our trial.</EnglishText>
+      <EnglishText>This is...the ending
+Norn wished for.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285676</PointerOffset>
@@ -260,12 +268,13 @@ for not saying anything, Eto.</EnglishText>
       <JapaneseText>でも、試練受けさせて、
 それできみたちの善悪を
 判断するって、ノルンは……</JapaneseText>
-      <EnglishText>But...this trial was about judging whether
-your actions were good or evil...</EnglishText>
+      <EnglishText>But Norn said she'd put you
+through ordeals, and judge
+whether you're good or evil...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>285800</PointerOffset>
@@ -273,25 +282,26 @@ your actions were good or evil...</EnglishText>
       <JapaneseText>自分自身で罪に向き合い、
 自分の手で罪を償う、
 それがノルンの意思だった</JapaneseText>
-      <EnglishText>To face our sins head on...and to
-make up for them... That is what
-Norn's trial is truly about.</EnglishText>
+      <EnglishText>We faced our sins ourselves, and
+paid for our sins by our own
+hands. That's what Norn wanted.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>14</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286004</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_026&gt;</VoiceId>
       <JapaneseText>ノルンの言ったことは
 嘘だったの！？</JapaneseText>
-      <EnglishText>So what Norn said was a lie...!?</EnglishText>
+      <EnglishText>Then when Norn said
+all that, she was lying!?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286004</PointerOffset>
@@ -299,99 +309,104 @@ Norn's trial is truly about.</EnglishText>
       <JapaneseText>自分の手で
 自分を殺すことが
 ノルンの望んだことなんて……</JapaneseText>
-      <EnglishText>All this time, Norn wanted you to
-erase yourself from existence...!?</EnglishText>
+      <EnglishText>Norn just wanted you to
+kill yourselves? That's...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286004</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_028&gt;</VoiceId>
       <JapaneseText>ひどいよ……ひどい！</JapaneseText>
-      <EnglishText>No...! That's too cruel...!</EnglishText>
+      <EnglishText>That's horrible...
+That's horrible!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>15</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286104</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_029&gt;</VoiceId>
       <JapaneseText>ノルンが望んだんじゃない。
 オレらが選んだんだ</JapaneseText>
-      <EnglishText>This wasn't Norn's wish.
-This was our decision.</EnglishText>
+      <EnglishText>It's not what Norn wanted. It's
+what we chose for ourselves.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>18</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286244</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_030&gt;</VoiceId>
       <JapaneseText>他に何ができるか、
 考えたよ</JapaneseText>
-      <EnglishText>This is the least we could
-do, we thought.</EnglishText>
+      <EnglishText>We tried to think
+of other ways.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>19</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286244</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_031&gt;</VoiceId>
       <JapaneseText>でも、背負った罪の
 大きさは重過ぎる……</JapaneseText>
-      <EnglishText>But still...this sin is too grave
-to easily reconcile...</EnglishText>
+      <EnglishText>But the weight of our
+sins was too heavy...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286444</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_032&gt;</VoiceId>
       <JapaneseText>デリス・カーラーンの
 １０億の民……</JapaneseText>
-      <EnglishText>For all the tens of millions of
-people living in Derris Kharlan...</EnglishText>
+      <EnglishText>The billion people
+of Derris-Kharlan...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>21</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286444</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_033&gt;</VoiceId>
       <JapaneseText>ダオスの想いと
 その犠牲になった人……</JapaneseText>
-      <EnglishText>For all the sorrow we inflicted upon Dhaos...</EnglishText>
+      <EnglishText>Dhaos's feelings, and
+all the people who
+fell victim to them...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>21</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286444</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_034&gt;</VoiceId>
       <JapaneseText>それに値する償いは
 これしかなかった</JapaneseText>
-      <EnglishText>This is but a small retribution.</EnglishText>
+      <EnglishText>This was the only
+way we could
+atone in full.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>21</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286504</PointerOffset>
@@ -401,17 +416,17 @@ people living in Derris Kharlan...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>24</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286568</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_036&gt;</VoiceId>
       <JapaneseText>クルール！</JapaneseText>
-      <EnglishText>Kururu!</EnglishText>
+      <EnglishText>Couleuru!</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>25</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286636</PointerOffset>
@@ -421,7 +436,7 @@ people living in Derris Kharlan...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>26</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286732</PointerOffset>
@@ -429,12 +444,12 @@ people living in Derris Kharlan...</EnglishText>
       <JapaneseText>さぁ……
 私のところへ来なさい。
 この奥です</JapaneseText>
-      <EnglishText>So...the time has come to meet
-again. Please, delve deeper inside.</EnglishText>
+      <EnglishText>Now... Come inside, to
+the place where I await.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>27</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286836</PointerOffset>
@@ -442,23 +457,24 @@ again. Please, delve deeper inside.</EnglishText>
       <JapaneseText>……きみの
 かわいい双子ちゃんの決意、
 見届けようぜ</JapaneseText>
-      <EnglishText>...Allow me to watch over the resolution
-of your fair pair of twins'.</EnglishText>
+      <EnglishText>...Your twin cuties have
+made their decision.
+Let's see them off.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>28</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286976</PointerOffset>
       <VoiceId>&lt;audio:VSM_320_060_040&gt;</VoiceId>
       <JapaneseText>ふたりの、決意……</JapaneseText>
-      <EnglishText>Their...resolution...</EnglishText>
+      <EnglishText>Their...decision...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>29</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>286976</PointerOffset>
@@ -466,12 +482,14 @@ of your fair pair of twins'.</EnglishText>
       <JapaneseText>……でもだからって
 こんなの……
 あんまりだよ……</JapaneseText>
-      <EnglishText>...But then...that's all they have left...</EnglishText>
+      <EnglishText>...But even then,
+this is just...
+too much...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>29</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287072</PointerOffset>
@@ -479,12 +497,12 @@ of your fair pair of twins'.</EnglishText>
       <JapaneseText>……そうだね。
 だからこそ……
 見届けるんだよ</JapaneseText>
-      <EnglishText>...Yeah. That's why they need to
-do this by their own hands.</EnglishText>
+      <EnglishText>...Yeah. And that's exactly
+why...we should see them off.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>31</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

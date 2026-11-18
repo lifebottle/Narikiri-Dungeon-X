@@ -8,7 +8,7 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43044,43208,43468,43576,43848,43992</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Klarth&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -26,7 +26,8 @@
       <VoiceId>&lt;audio:VCT_001_023_001&gt;</VoiceId>
       <JapaneseText>精霊晶核って、精霊さんの卵なんだよね？
 あれから精霊さんが生まれるの？</JapaneseText>
-      <EnglishText>You said that an Atomism Core is the Spirit's egg, right? Is that where they are born from?</EnglishText>
+      <EnglishText>So, these "Atomic Cores" are the spirits'
+eggs? Spirits are born from these things?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -37,7 +38,8 @@
       <VoiceId>&lt;audio:VCT_001_023_002&gt;</VoiceId>
       <JapaneseText>簡単に言えばそうなるが、
 そんな簡単な話でもない</JapaneseText>
-      <EnglishText>You could say it's that simple that but at the same time it's much more complicated.</EnglishText>
+      <EnglishText>If you're putting it simply, sure,
+but it's an oversimplification.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -58,7 +60,8 @@
       <VoiceId>&lt;audio:VCT_001_023_004&gt;</VoiceId>
       <JapaneseText>精霊晶核そのものだけでは、
 精霊は生まれないのさ</JapaneseText>
-      <EnglishText>Just with an Atomism Core a Summon Spirit can't be born.</EnglishText>
+      <EnglishText>An Atomic Core, on its own,
+will never give rise to a spirit.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -69,7 +72,8 @@
       <VoiceId>&lt;audio:VCT_001_023_005&gt;</VoiceId>
       <JapaneseText>そっか、そんな簡単に精霊さんが生まれたら、
 世界中精霊さんまみれになっちゃうもんね</JapaneseText>
-      <EnglishText>That's right, if the Summon Spirits were born that easily then the world would be filled with them!</EnglishText>
+      <EnglishText>I see. Weelll, if spirits could be born that easily,
+the world would be full of them, after all.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -80,7 +84,8 @@
       <VoiceId>&lt;audio:VCT_001_023_006&gt;</VoiceId>
       <JapaneseText>凝縮したマナのエネルギーを与えてやって
 初めて精霊晶核に精霊の命が宿る</JapaneseText>
-      <EnglishText>With the massive amount of Mana energy the egg holds, the Spirit's life itself dwells inside.</EnglishText>
+      <EnglishText>When an Atomic Core is exposed to energy from
+condensed mana, a spirit begins to live within it.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -91,7 +96,8 @@
       <VoiceId>&lt;audio:VCT_001_023_007&gt;</VoiceId>
       <JapaneseText>が、そのエネルギーというのが
 そう簡単には手に入らない</JapaneseText>
-      <EnglishText>But getting your hands on that energy could be really hard...</EnglishText>
+      <EnglishText>But that energy isn't
+so easy to come by.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -102,7 +108,8 @@
       <VoiceId>&lt;audio:VCT_001_023_008&gt;</VoiceId>
       <JapaneseText>そっか、つまりそれはヒヨコが生まれる卵と
 そうでない卵があるのとおんなじってことなんだね</JapaneseText>
-      <EnglishText>I see... a small bird that was born from an egg that isn't really an egg. It's kinda like that, uh!</EnglishText>
+      <EnglishText>I see. So it's like how there are eggs that
+will hatch into chicks, and ones that won't.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -113,7 +120,8 @@
       <VoiceId>&lt;audio:VCT_001_023_009&gt;</VoiceId>
       <JapaneseText>ニワトリ……まぁ、端的に言うとそうだが……
 精霊晶核がいっきに安っぽくなるな……</JapaneseText>
-      <EnglishText>A chicken...? It's really hard to explain but... Atomism Core is unlike anything else...</EnglishText>
+      <EnglishText>Chickens... Well, plainly speaking, sure... But when
+did Atomic Cores become something so banal...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
@@ -123,7 +131,8 @@
       <PointerOffset>43924</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_023_010&gt;</VoiceId>
       <JapaneseText>フライパン、ない？</JapaneseText>
-      <EnglishText>Got any Fry pans?</EnglishText>
+      <EnglishText>Do we have
+a frying pan?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
@@ -133,7 +142,8 @@
       <PointerOffset>43996</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_023_011&gt;</VoiceId>
       <JapaneseText>食うんじゃないぞ……</JapaneseText>
-      <EnglishText>Don't even think about it...</EnglishText>
+      <EnglishText>We are *not*
+eating it...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>

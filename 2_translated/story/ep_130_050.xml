@@ -8,7 +8,7 @@
       <EnglishText>Meat-Loving Old Man</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273756</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>Diligent Young Woman</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273924</PointerOffset>
@@ -24,15 +24,15 @@
       <EnglishText>Aspiring Pirate Boy</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274136</PointerOffset>
       <JapaneseText>仕事がしたい男</JapaneseText>
-      <EnglishText>Man Looking for Work</EnglishText>
+      <EnglishText>Job-Seeking Man</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274228</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>267533</PointerOffset>
@@ -90,39 +90,39 @@
       <VoiceId>&lt;audio:VSM_130_050_000&gt;</VoiceId>
       <JapaneseText>今日も昨日も、
 夕飯にメザシが出るんじゃ</JapaneseText>
-      <EnglishText>She did it yesterday and again
-today... Why is she so evil...?</EnglishText>
+      <EnglishText>We had dried fish for dinner,
+both today and yesterday.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273580</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_050_001&gt;</VoiceId>
       <JapaneseText>わしは魚がキライなのに、
 うちの嫁は……</JapaneseText>
-      <EnglishText>She knows I hate fish, but that's
-all we have back home...</EnglishText>
+      <EnglishText>I hate fish, but my
+wife just keeps on...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273760</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_050_002&gt;</VoiceId>
       <JapaneseText>彼ったら、うちで
 ゴロゴロ、ゴロゴロ……</JapaneseText>
-      <EnglishText>He's such a drama queen.
-Always yelling and yelling...</EnglishText>
+      <EnglishText>My boyfriend just lazes
+about at home all day...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273760</PointerOffset>
@@ -130,14 +130,14 @@ Always yelling and yelling...</EnglishText>
       <JapaneseText>私が仕事に行くって言ったら、
 俺と仕事どっちが大事だ！
 って……</JapaneseText>
-      <EnglishText>"I'm going to work", I tell him, but
-"Your job is crap compared to mine!"
-is all he says... Jerk...</EnglishText>
+      <EnglishText>And when I tell him I'm going
+to work, he asks me "What's
+more important, work or me!?"</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273928</PointerOffset>
@@ -145,38 +145,41 @@ is all he says... Jerk...</EnglishText>
       <JapaneseText>ママが、ぼくの
 海賊チョコカードを
 全部、捨てたんだぁ！</JapaneseText>
-      <EnglishText>Mommy ate all of my pirate
-Choco-Cards! All of them!</EnglishText>
+      <EnglishText>My mama threw
+out all of my
+Pirate Choco-Cards!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>273928</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_050_005&gt;</VoiceId>
       <JapaneseText>あ、海賊チョコカード
 ってのは……</JapaneseText>
-      <EnglishText>My beloved pirate Choco-Cards...</EnglishText>
+      <EnglishText>Oh, uh, so, Pirate
+Choco-Cards are...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274140</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_050_006&gt;</VoiceId>
       <JapaneseText>ぶっちゃけ暇なのよ。
 仕事ないかなぁ</JapaneseText>
-      <EnglishText>He's got so much time, he said.
-He doesn't have a job.</EnglishText>
+      <EnglishText>Putting it simply, I've just
+got nothin' to do. Aren't
+there any jobs out there...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274140</PointerOffset>
@@ -184,37 +187,37 @@ He doesn't have a job.</EnglishText>
       <JapaneseText>あ、力仕事はイヤ。
 頭使うのもムリ。
 人と話すのも苦手で……</JapaneseText>
-      <EnglishText>If the job is too hard, it's rough.
-If it's too boring it's silly. If there
-are too many people, it's bad... </EnglishText>
+      <EnglishText>Oh, but I hate manual labor, y'know?
+And I'm too dumb to use my head.
+And I'm bad at talkin' to people...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274140</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_050_008&gt;</VoiceId>
       <JapaneseText>グチグチグチグチ……</JapaneseText>
-      <EnglishText>Blah blah blah blah blah...</EnglishText>
+      <EnglishText>Grumble, grumble, grumble...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274232</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_050_009&gt;</VoiceId>
       <JapaneseText>あ～ん、&lt;Mint&gt;さん！
 早く戻ってきて～！</JapaneseText>
-      <EnglishText>Aaah! Miss &lt;Mint&gt;! Please come back
-soon! I can't take this anymore! </EnglishText>
+      <EnglishText>Aaaaaahhh! &lt;Mint&gt;!
+Please come back~!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

@@ -8,7 +8,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>293968,294556,295292</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294032</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294328,294492,294708,295004</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>Dhaos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>295176</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>287881</PointerOffset>
@@ -90,11 +90,11 @@
       <VoiceId>&lt;audio:VSM_260_010_000&gt;</VoiceId>
       <JapaneseText>あいつら……
 どこ行ったんだ？</JapaneseText>
-      <EnglishText>Where did those two go?</EnglishText>
+      <EnglishText>Where'd they go...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>293972</PointerOffset>
@@ -102,102 +102,107 @@
       <JapaneseText>……わからない……
 ここ、どこなんだろう……
 なんかイヤな感じがする……</JapaneseText>
-      <EnglishText>...I don't know...I don't recognize this
-place, either... For some reason, I
-have a really bad feeling about this...</EnglishText>
+      <EnglishText>...I don't know... Where
+are we...? I'm getting a
+really bad feeling...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294036</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_010_002&gt;</VoiceId>
       <JapaneseText>クルクルッ！</JapaneseText>
-      <EnglishText>Kurukuru!</EnglishText>
+      <EnglishText>Coulu Couluh!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294120</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_010_003&gt;</VoiceId>
       <JapaneseText>ダオス！
 倒したはずなのに……！</JapaneseText>
-      <EnglishText>Dhaos! I thought we defeated you...!?</EnglishText>
+      <EnglishText>Dhaos! Didn't we
+just beat him...!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294332</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_010_005&gt;</VoiceId>
       <JapaneseText>今の私は
 私であって、私でない</JapaneseText>
-      <EnglishText>The man you are seeing is not really me.</EnglishText>
+      <EnglishText>As I am now,
+I am myself,
+yet not myself.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294332</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_010_006&gt;</VoiceId>
       <JapaneseText>おまえたちが戦った
 私もまた</JapaneseText>
-      <EnglishText>The same goes for the Dhaos you fought.</EnglishText>
+      <EnglishText>And I as you fought
+me was the same.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294416</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_010_007&gt;</VoiceId>
       <JapaneseText>…………？
 どーゆーことだよっ！</JapaneseText>
-      <EnglishText>...!? What the hell do you mean by that!?</EnglishText>
+      <EnglishText>...? What the hell are
+you trying to say!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294496</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_010_008&gt;</VoiceId>
       <JapaneseText>残存思念、
 それが今の私だ</JapaneseText>
-      <EnglishText>I am nothing more than
-a lingering recollection.</EnglishText>
+      <EnglishText>Dhaos's lingering feelings...
+That is what I am.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294560</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_010_009&gt;</VoiceId>
       <JapaneseText>残存思念？</JapaneseText>
-      <EnglishText>A lingering recollection?</EnglishText>
+      <EnglishText>Lingering feelings?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294712</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_010_010&gt;</VoiceId>
       <JapaneseText>執着、遺恨、悔い</JapaneseText>
-      <EnglishText>Fixation, enmity, disdain...</EnglishText>
+      <EnglishText>Attachment, enmity, regret.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294712</PointerOffset>
@@ -205,14 +210,14 @@ a lingering recollection.</EnglishText>
       <JapaneseText>ここはそうした思念が
 本来の時空からはぐれ
 集った暗黒時空なのだ</JapaneseText>
-      <EnglishText>This whole time-space continuum is such an existence.
-A place materialized by feelings scattered through
-time. This is the Darkened Time-Space.</EnglishText>
+      <EnglishText>This is the Dimensional Darkness, where
+such thoughts and feelings, straying
+from their place of origin, gather.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294864</PointerOffset>
@@ -220,51 +225,53 @@ time. This is the Darkened Time-Space.</EnglishText>
       <JapaneseText>あんたのこととか
 ここがどことか
 どーだっていい！</JapaneseText>
-      <EnglishText>I don't understand the very first thing you
-mean about this place or about you!</EnglishText>
+      <EnglishText>I don't give a damn about
+this bullshit! About you,
+*or* this place!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>294864</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_010_013&gt;</VoiceId>
       <JapaneseText>仮面つけたヤツら、
 見なかったか？</JapaneseText>
-      <EnglishText>Have you seen those masked screwballs?</EnglishText>
+      <EnglishText>Did you see those
+assholes in the masks?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>295008</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_010_014&gt;</VoiceId>
       <JapaneseText>……『&lt;Red&gt;焔王（ほむらおう）の楔&lt;White&gt;』
 へ行った</JapaneseText>
-      <EnglishText>...They have braved into the
-&lt;Red&gt;Linchpin of the Lord of Fire&lt;White&gt;.</EnglishText>
+      <EnglishText>...They've gone to the
+"&lt;Red&gt;Flame Lord's Keystone&lt;White&gt;."</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>295008</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_010_015&gt;</VoiceId>
       <JapaneseText>追うがいい！
 貴様らの因縁を</JapaneseText>
-      <EnglishText>Chase them if you so desire. Alas,
-you cannot escape your fate.</EnglishText>
+      <EnglishText>Now, follow them! And
+the path of your fate...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>295104</PointerOffset>
@@ -272,22 +279,24 @@ you cannot escape your fate.</EnglishText>
       <JapaneseText>消えた……
 なんか親切すぎねーか？
 あいつ……</JapaneseText>
-      <EnglishText>He's gone... Did he seem...nicer
-than usual to you? That guy...</EnglishText>
+      <EnglishText>He disappeared...
+Wasn't he kinda,
+like, too nice? Weird...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>16</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>295180</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_010_017&gt;</VoiceId>
       <JapaneseText>それに襲ってこなかったシ</JapaneseText>
-      <EnglishText>Besides, he didn't try to attack us...</EnglishText>
+      <EnglishText>And he didn't 
+attack you, either.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>17</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>295296</PointerOffset>
@@ -295,13 +304,13 @@ than usual to you? That guy...</EnglishText>
       <JapaneseText>……今、見たの、
 前会ったダオスとは
 なんか違う雰囲気だったね？</JapaneseText>
-      <EnglishText>...This "Dhaos" we met had a
-different air to him than the
-one we've met before.</EnglishText>
+      <EnglishText>...The Dhaos we just saw
+had kind of a different vibe
+from the one before, didn't he?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>18</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>295492</PointerOffset>
@@ -309,12 +318,12 @@ one we've met before.</EnglishText>
       <JapaneseText>とにかく、
 『&lt;Red&gt;焔王の楔&lt;White&gt;』ってとこ
 行ってみよーぜ</JapaneseText>
-      <EnglishText>At any rate, let's head to the
-&lt;Red&gt;Linchpin of the Lord of Fire&lt;White&gt;.</EnglishText>
+      <EnglishText>Anyway, let's check out
+this "&lt;Red&gt;Flame Lord's Keystone&lt;White&gt;."</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>19</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

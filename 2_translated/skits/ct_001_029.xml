@@ -8,7 +8,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45036,45140,45428,45596,45792</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45308</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45496,45672</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -42,7 +42,8 @@
       <VoiceId>&lt;audio:VCT_001_029_001&gt;</VoiceId>
       <JapaneseText>ノームに襲われた時、飛んで逃げりゃよかったのに、
 何してたんだよ？</JapaneseText>
-      <EnglishText>Hey, remember back when we were about to finish Gnome? Why did he run away all of a sudden?</EnglishText>
+      <EnglishText>Would've been fine if you'd just flown away
+when Gnome attacked you. So, why didn't you?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -52,7 +53,8 @@
       <PointerOffset>45040</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_029_002&gt;</VoiceId>
       <JapaneseText>飛ぶためには色々準備が必要なんだよ？</JapaneseText>
-      <EnglishText>Wasn't it obvious why he ran?</EnglishText>
+      <EnglishText>Well, it takes a lot of thinking and
+planning to fly around, you know?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -63,7 +65,8 @@
       <VoiceId>&lt;audio:VCT_001_029_003&gt;</VoiceId>
       <JapaneseText>空気の流れに乗ったり、
 羽根のコンディション見たりさ</JapaneseText>
-      <EnglishText>The air around him was damp and after sensing it he felt the need to run away.</EnglishText>
+      <EnglishText>You have to ride on the right air current, and
+make sure your wings are in good condition...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
@@ -73,7 +76,8 @@
       <PointerOffset>45216</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_029_004&gt;</VoiceId>
       <JapaneseText>そんなの初聞きたぜ？</JapaneseText>
-      <EnglishText>That's the first time I heard that.</EnglishText>
+      <EnglishText>This's the first time you've
+mentioned any of that.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -84,7 +88,8 @@
       <VoiceId>&lt;audio:VCT_001_029_005&gt;</VoiceId>
       <JapaneseText>いつも簡単に飛んでるように
 見えるけど……</JapaneseText>
-      <EnglishText>His reasons seem to be simple, but...</EnglishText>
+      <EnglishText>I probably always make
+it *look* easy, but...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
@@ -95,7 +100,8 @@
       <VoiceId>&lt;audio:VCT_001_029_006&gt;</VoiceId>
       <JapaneseText>これでもすごく気を使ってるんだ。
 風が強かったりしたら、落ちるし……</JapaneseText>
-      <EnglishText>He was being very careful! If the wind had become strong, the ceiling would be crushe--...</EnglishText>
+      <EnglishText>I always have to be really careful. I mean, if
+a strong gust came through, I could fall, or...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -105,7 +111,7 @@
       <PointerOffset>45500</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_029_007&gt;</VoiceId>
       <JapaneseText>クルクルール！</JapaneseText>
-      <EnglishText>Kurukuruuuru!</EnglishText>
+      <EnglishText>Coulu Couleuru!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
@@ -116,7 +122,8 @@
       <VoiceId>&lt;audio:VCT_001_029_008&gt;</VoiceId>
       <JapaneseText>うわっ！　ちょっ……
 じゃれつかないでって……</JapaneseText>
-      <EnglishText>Ahh! I don't want to play right now!</EnglishText>
+      <EnglishText>Whoa! Wai... Don't just
+grab me like that...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
@@ -126,7 +133,7 @@
       <PointerOffset>45676</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_029_009&gt;</VoiceId>
       <JapaneseText>クルール！　クルール！</JapaneseText>
-      <EnglishText>Kururu! Kururu!</EnglishText>
+      <EnglishText>Couleuru! Couleuru!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
@@ -137,7 +144,8 @@
       <VoiceId>&lt;audio:VCT_001_029_010&gt;</VoiceId>
       <JapaneseText>わっ……ほら、あっと、ちょっと……
 ほ、ほらね……うわっ、やめて……</JapaneseText>
-      <EnglishText>T-there...good boy...calm down...please...Wah! Please stop!</EnglishText>
+      <EnglishText>Wah... Hey, ack, wait... H-
+Hey, um... Whoa, stop that...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>

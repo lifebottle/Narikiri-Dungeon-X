@@ -5,7 +5,7 @@
     <Entry>
       <PointerOffset>299448</PointerOffset>
       <JapaneseText>買い物途中の女性</JapaneseText>
-      <EnglishText>Glaring Woman</EnglishText>
+      <EnglishText>Middle-of-Shopping Woman</EnglishText>
       <Notes/>
       <Id>1</Id>
       <Status>Editing</Status>
@@ -13,7 +13,7 @@
     <Entry>
       <PointerOffset>299372</PointerOffset>
       <JapaneseText>恰幅のいい商人</JapaneseText>
-      <EnglishText>Old Man</EnglishText>
+      <EnglishText>Broad-Shouldered Merchant</EnglishText>
       <Notes/>
       <Id>2</Id>
       <Status>Editing</Status>
@@ -21,7 +21,7 @@
     <Entry>
       <PointerOffset>299532</PointerOffset>
       <JapaneseText>怯える子ども</JapaneseText>
-      <EnglishText>Terrified Kid</EnglishText>
+      <EnglishText>Fearful Child</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Editing</Status>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296512,296828,297296,298036,298464,298768,298996,299292</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296604</PointerOffset>
@@ -48,12 +48,12 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296760,296960,297232,297440,297768,297972,298172,298364,298672</PointerOffset>
       <JapaneseText>通りすがりの魔術師</JapaneseText>
-      <EnglishText>Travelling Magic Scientist</EnglishText>
+      <EnglishText>Passerby Wizard</EnglishText>
       <Notes/>
       <Id>7</Id>
       <Status>Editing</Status>
@@ -105,109 +105,111 @@
       <PointerOffset>299452</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_040_037&gt;</VoiceId>
       <JapaneseText>ああ、空が……</JapaneseText>
-      <EnglishText>L-Look in the sky! </EnglishText>
+      <EnglishText>Ahh, the sky's...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299376</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_040_036&gt;</VoiceId>
       <JapaneseText>な、何が起きたんだ</JapaneseText>
-      <EnglishText>What just happened!? </EnglishText>
+      <EnglishText>Wh-What's happening?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299536</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_040_038&gt;</VoiceId>
       <JapaneseText>おかーさーん、こわいよ－</JapaneseText>
-      <EnglishText>Mommy, I'm scared! </EnglishText>
+      <EnglishText>Moooom, this is scaaaryy...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296448</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_040_001&gt;</VoiceId>
       <JapaneseText>わたしの……魔術が……</JapaneseText>
-      <EnglishText>Did my magic...just...? </EnglishText>
+      <EnglishText>My...magic did...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296448</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_040_002&gt;</VoiceId>
       <JapaneseText>わたしのせい……？</JapaneseText>
-      <EnglishText>Is this...all my fault...? </EnglishText>
+      <EnglishText>This is...my fault...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296516</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_040_003&gt;</VoiceId>
       <JapaneseText>え、えっと……</JapaneseText>
-      <EnglishText>I-I... </EnglishText>
+      <EnglishText>Uh, well...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296608</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_040_004&gt;</VoiceId>
       <JapaneseText>でも、まだそうと
 決まったわけじゃないよ</JapaneseText>
-      <EnglishText>Let's not jump to conclusions just yet. </EnglishText>
+      <EnglishText>But we don't know
+that for sure yet.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296764</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_040_005Z&gt;</VoiceId>
       <JapaneseText>『虹輪（プリズムリング）』が
 発生するなんて！！</JapaneseText>
-      <EnglishText>The Prism Ring has appeared! </EnglishText>
+      <EnglishText>How could a Prism
+Ring occur, here!?</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>8</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296764</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_040_006Z&gt;</VoiceId>
       <JapaneseText>これは大きい！
 大変だぞ</JapaneseText>
-      <EnglishText>It's huge! This'll get 
-really dangerous! </EnglishText>
+      <EnglishText>This one's huge!
+Oh, this is very bad.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>8</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296832</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_040_007&gt;</VoiceId>
       <JapaneseText>あんた、誰……？</JapaneseText>
-      <EnglishText>Hey! You! Who are you? </EnglishText>
+      <EnglishText>Hey, who're you...?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>296964</PointerOffset>
@@ -215,21 +217,23 @@ really dangerous! </EnglishText>
       <JapaneseText>私は&lt;Red&gt;オリーブヴィレッジ&lt;White&gt;に
 住む魔術師だ。
 魔法力の研究をしている</JapaneseText>
-      <EnglishText>I'm a well-versed sorcerer from Olive Village. </EnglishText>
+      <EnglishText>I am a wizard who lives
+in &lt;Red&gt;Olive Village&lt;White&gt;. I
+research magical powers.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>297044</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_040_009&gt;</VoiceId>
       <JapaneseText>……『虹輪』って何ですか？</JapaneseText>
-      <EnglishText>What's this "Prism Ring" you are talking about? </EnglishText>
+      <EnglishText>...What's a "Prism Ring"?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>297236</PointerOffset>
@@ -237,36 +241,38 @@ really dangerous! </EnglishText>
       <JapaneseText>凝縮したマナの塊が、
 魔法力を得て
 虹色の輪になるんだ</JapaneseText>
-      <EnglishText>I'm afraid it's a giant cluster of Mana. It surges from a 
-strong interaction of magic energy resulting in a rainbow colored column. </EnglishText>
+      <EnglishText>When a condensate of accumulated
+mana has magical power applied to
+it, it comes a rainbow-colored ring.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>13</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>297236</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_040_011Z&gt;</VoiceId>
       <JapaneseText>近くのマナを吸収して、
 どんどん大きくなっていくのさ。</JapaneseText>
-      <EnglishText>It'll gradually absorb all the Mana within its range,
-growing bigger and stronger in the process. </EnglishText>
+      <EnglishText>It will absorb all mana
+from nearby, and thereby
+grow ever larger.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>13</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>297300</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_040_012&gt;</VoiceId>
       <JapaneseText>ふーん……</JapaneseText>
-      <EnglishText>Umm... </EnglishText>
+      <EnglishText>Hmm...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>15</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>297444</PointerOffset>
@@ -274,33 +280,35 @@ growing bigger and stronger in the process. </EnglishText>
       <JapaneseText>ほうっておいたら世界中の
 マナを吸い尽くしてしまう……
 魔術が暴走するなんて……</JapaneseText>
-      <EnglishText>At this rate, it's likely all the Mana from this world will be drained, exhausting its supplies... Then, unable to control
-its magic, the Prism Ring will enter a wild rampage... </EnglishText>
+      <EnglishText>If left alone, it will soak up all the
+mana in the world... To think
+the Magical Artes could run wild...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>16</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>297508</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_040_014&gt;</VoiceId>
       <JapaneseText>そんな……</JapaneseText>
-      <EnglishText>No, that's... </EnglishText>
+      <EnglishText>Oh, no...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>17</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>297596</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_040_015&gt;</VoiceId>
       <JapaneseText>どうすれば、
 止められるんですか？</JapaneseText>
-      <EnglishText>Is there any way to stop it? </EnglishText>
+      <EnglishText>What can we
+do to stop it?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>18</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>297772</PointerOffset>
@@ -308,58 +316,63 @@ its magic, the Prism Ring will enter a wild rampage... </EnglishText>
       <JapaneseText>虹輪は
 地水火風の４つの力が
 混ざり合ったものだ</JapaneseText>
-      <EnglishText>The Prism Ring might be stopped by combining the powers of Earth, Water, Fire and Wind. </EnglishText>
+      <EnglishText>A Prism Ring is a blend of
+the four powers of Earth,
+Fire, Wind, and Water.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>19</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>297772</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_040_017Z&gt;</VoiceId>
       <JapaneseText>……四大精霊の力を
 借りられたらいいんだが……</JapaneseText>
-      <EnglishText>...You might be able to borrow the powers
-of the Four Elemental Summon Spirits, but... </EnglishText>
+      <EnglishText>...If we could borrow the
+powers of the Four Great
+Spirits, it would be fine...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>19</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>297860</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_040_018&gt;</VoiceId>
       <JapaneseText>四大精霊……
 あの、それはどこに！？</JapaneseText>
-      <EnglishText>The Four Elemental Summon Spirits... Please
-tell me, where to find them! </EnglishText>
+      <EnglishText>The Four Great Spirits...
+Okay, where are they!?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>21</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>297976</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_040_019Z&gt;</VoiceId>
       <JapaneseText>伝承として伝えられているが、
 実際に会った者はいない</JapaneseText>
-      <EnglishText>I've heard rumors but I've never actually met them. </EnglishText>
+      <EnglishText>Their stories are passed
+down in legend, but no one
+alive has ever met them.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>22</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298040</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_040_020&gt;</VoiceId>
       <JapaneseText>んだよ……</JapaneseText>
-      <EnglishText>This is starting to sound like a real pain... </EnglishText>
+      <EnglishText>Oh, come on...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>23</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298176</PointerOffset>
@@ -367,22 +380,23 @@ tell me, where to find them! </EnglishText>
       <JapaneseText>魔女の塔にブライトローズという
 魔女が住んでいると
 聞いたことがある。</JapaneseText>
-      <EnglishText>There's a magician that goes by the name of Bright Rose 
-living in a tower nearby. It wouldn't hurt to pay her a visit. </EnglishText>
+      <EnglishText>There's a witch by the name
+of "Bright Rose" living at the
+Witch's Tower, or so I've heard.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>24</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298248</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_040_022&gt;</VoiceId>
       <JapaneseText>ブライト……ローズ？</JapaneseText>
-      <EnglishText>Bright...Rose? </EnglishText>
+      <EnglishText>Bright...Rose?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>25</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298368</PointerOffset>
@@ -390,12 +404,13 @@ living in a tower nearby. It wouldn't hurt to pay her a visit. </EnglishText>
       <JapaneseText>これはもしかすると
 あの魔女の仕業かも
 しれないな……</JapaneseText>
-      <EnglishText>I don't know about her, personally, 
-but it's as good a lead as any... </EnglishText>
+      <EnglishText>It's quite possible that
+witch is responsible
+for all of this, too...</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>26</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298468</PointerOffset>
@@ -403,24 +418,26 @@ but it's as good a lead as any... </EnglishText>
       <JapaneseText>なぁ、おっさん。
 魔女の塔ってドコに
 あるんだ？</JapaneseText>
-      <EnglishText>So, grandpa, where can I find this magician's tower? </EnglishText>
+      <EnglishText>Yo, unc. Where's
+that "Witch's
+Tower" place?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>27</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298676</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_040_025Z&gt;</VoiceId>
       <JapaneseText>ここから東の方向で、
 別名&lt;Red&gt;きらめきの塔&lt;White&gt;と呼ばれている</JapaneseText>
-      <EnglishText>If you travel east from here you'll bump
-into a tower named "Glimmer Spire." </EnglishText>
+      <EnglishText>It's to the east, from here.
+It's also known as &lt;Red&gt;Glimmer Spire&lt;White&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>28</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298676</PointerOffset>
@@ -428,13 +445,14 @@ into a tower named "Glimmer Spire." </EnglishText>
       <JapaneseText>きみたち行くつもりなのかい。
 危険かもしれないから
 気をつけるんだぞ</JapaneseText>
-      <EnglishText>I'm not certain what dangers await you there
-but if you intend to go please be careful. </EnglishText>
+      <EnglishText>Do you intend to go there
+yourselves? It may be quite
+dangerous, so do be careful.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>28</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298772</PointerOffset>
@@ -442,34 +460,37 @@ but if you intend to go please be careful. </EnglishText>
       <JapaneseText>オレ、ちょっと、
 その魔女んとこ、
 行ってくる</JapaneseText>
-      <EnglishText>All right, let's go see that magician. </EnglishText>
+      <EnglishText>I'm gonna go for
+a bit, check out
+that witch's place.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>30</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298844</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_040_028&gt;</VoiceId>
       <JapaneseText>行ってくるって……</JapaneseText>
-      <EnglishText>You...really want to go there... ?</EnglishText>
+      <EnglishText>"Check it out"...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>31</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299000</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_040_029&gt;</VoiceId>
       <JapaneseText>そいつに聞きゃ、
 あれ消せるかもだし</JapaneseText>
-      <EnglishText>You heard the dude already. 
-I need to dispel this thing. </EnglishText>
+      <EnglishText>Well, if we ask her, we
+might be able to do
+somethin' about this thing.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>32</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299000</PointerOffset>
@@ -477,44 +498,46 @@ I need to dispel this thing. </EnglishText>
       <JapaneseText>それと、
 困ってる人助けんのが
 オレらの仕事なんだろ</JapaneseText>
-      <EnglishText>‘Sides helping people in need is my job, isn't it? </EnglishText>
+      <EnglishText>And y'know. Our job's
+to help people who are
+struggling, isn't it?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>32</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299072</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_040_031&gt;</VoiceId>
       <JapaneseText>……わたしも行くよ</JapaneseText>
-      <EnglishText>...I'm going with you. </EnglishText>
+      <EnglishText>...I'm coming, too.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>34</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299296</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_040_034&gt;</VoiceId>
       <JapaneseText>そっか……</JapaneseText>
-      <EnglishText>If you say so... </EnglishText>
+      <EnglishText>Huh... Alright...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>35</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299296</PointerOffset>
       <VoiceId>&lt;audio:VSM_020_040_035C&gt;</VoiceId>
       <JapaneseText>んじゃ、行こうぜ</JapaneseText>
-      <EnglishText>Let's go, then! </EnglishText>
+      <EnglishText>Well, let's go.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>35</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

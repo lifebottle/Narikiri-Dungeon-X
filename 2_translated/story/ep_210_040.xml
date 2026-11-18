@@ -8,15 +8,15 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274212</PointerOffset>
       <JapaneseText>お喋り好きな中年男</JapaneseText>
-      <EnglishText>Chatty Middle-Aged Man</EnglishText>
+      <EnglishText>Gabby Middle-Aged Man</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274360,274632,274796</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274536,274900,275108,275556</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275204,275408</PointerOffset>
@@ -89,102 +89,103 @@
       <PointerOffset>274112</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_040_001&gt;</VoiceId>
       <JapaneseText>はい！　いっちょ上がり</JapaneseText>
-      <EnglishText>Aaaand that does the trick!</EnglishText>
+      <EnglishText>Yes! All done.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274216</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_040_002&gt;</VoiceId>
       <JapaneseText>さすが、&lt;Dio&gt;！
 なかなかやるじゃないか</JapaneseText>
-      <EnglishText>Amazing, &lt;Dio&gt;! You've got
-it finished in a cinch!</EnglishText>
+      <EnglishText>Well done, &lt;Dio&gt;! You're
+quite capable, aren't you?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274280</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_040_003&gt;</VoiceId>
       <JapaneseText>えっへへー</JapaneseText>
-      <EnglishText>Hehehehe!</EnglishText>
+      <EnglishText>Ehehe~</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274364</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_040_004&gt;</VoiceId>
       <JapaneseText>洗濯物のお手伝い、
 終わったよ！</JapaneseText>
-      <EnglishText>I've just finished helping
+      <EnglishText>I've finished helping
 with the laundry!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274468</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_040_005&gt;</VoiceId>
       <JapaneseText>んじゃあ、ひと休み。
 &lt;Suzu&gt;ちゃん、アイス食べるか？</JapaneseText>
-      <EnglishText>All right then, let's take a break.
-&lt;Suzu&gt;, wanna eat some ice cream?</EnglishText>
+      <EnglishText>Well, then, let's have a
+little rest. Would you like
+some ice cream, &lt;Suzu&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274540</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_040_006&gt;</VoiceId>
       <JapaneseText>え？　あ、は、はい！</JapaneseText>
-      <EnglishText>Wh-What? Y-Yes!</EnglishText>
+      <EnglishText>Eh? Ah, y-yes!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274636</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_040_007&gt;</VoiceId>
       <JapaneseText>アイス屋さんだったら、
 噴水広場の方にいたよ</JapaneseText>
-      <EnglishText>So to the ice cream shop,
-huh? Let's go to the
-fountain plaza then!</EnglishText>
+      <EnglishText>The ice cream shop was
+at the fountain plaza.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274728</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_040_008&gt;</VoiceId>
       <JapaneseText>じゃ、広場まで駆けっこだ！
 ヨーイ……</JapaneseText>
-      <EnglishText>Let's race to the plaza!
-Ready, set...</EnglishText>
+      <EnglishText>Then, I'll race you to
+the plaza! Ready, set...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274800</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_040_009&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;！　ずるい！</JapaneseText>
-      <EnglishText>&lt;Dio&gt; you big cheater!</EnglishText>
+      <EnglishText>&lt;Dio&gt;! You
+cheater!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274904</PointerOffset>
@@ -192,24 +193,26 @@ Ready, set...</EnglishText>
       <JapaneseText>わかっています、
 私にもこんな可能性が
 あったことを</JapaneseText>
-      <EnglishText>I understand. This is a possibility
-that has been on my mind...</EnglishText>
+      <EnglishText>I understand. I know
+this was a possible
+life for me, too.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275112</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_040_012&gt;</VoiceId>
       <JapaneseText>そこに忍びの頭領でないわたしが
 いるかもしれない可能性を</JapaneseText>
-      <EnglishText>What I might be doing if I was
-not the leader of the ninja...</EnglishText>
+      <EnglishText>Somewhere, it's possible there
+was a "me" who was never
+the shinobi clan head.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275208</PointerOffset>
@@ -217,25 +220,25 @@ not the leader of the ninja...</EnglishText>
       <JapaneseText>だったら、
 忍びの頭領なんて、
 やめればいい</JapaneseText>
-      <EnglishText>Then why not just quit being the
-chief? That sounds much easier...</EnglishText>
+      <EnglishText>Then just quit. All of it.
+"Clan head" this, "shinobi"
+that. Who cares?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275412</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_040_015&gt;</VoiceId>
       <JapaneseText>自分の好きな道を
 好きなように進めばいい</JapaneseText>
-      <EnglishText>It's only natural to choose
-the path where your desires
-are unhindered...</EnglishText>
+      <EnglishText>You should just take
+the path *you* like.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275560</PointerOffset>
@@ -243,24 +246,25 @@ are unhindered...</EnglishText>
       <JapaneseText>私は
 その可能性を知りながら、
 敢えてこの道を選んだのです</JapaneseText>
-      <EnglishText>Now that I know what this possibility
-is really like, I know what I must do...</EnglishText>
+      <EnglishText>While I am aware that
+possibility exists, I nonetheless
+have chosen this path.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275560</PointerOffset>
       <VoiceId>&lt;audio:VSM_210_040_017&gt;</VoiceId>
       <JapaneseText>……幻術よ、去れ！</JapaneseText>
-      <EnglishText>...To return to reality!</EnglishText>
+      <EnglishText>...Vanish, O illusion!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

@@ -8,15 +8,15 @@
       <EnglishText>Timid Boy</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275836,276916</PointerOffset>
       <JapaneseText>やんちゃな女の子</JapaneseText>
-      <EnglishText>Mischievous Girl</EnglishText>
+      <EnglishText>Rambunctious Girl</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275916,276068,276268,276368,276428,276660,277052,277144</PointerOffset>
@@ -24,23 +24,23 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275996,276988</PointerOffset>
       <JapaneseText>可愛げな男の子</JapaneseText>
-      <EnglishText>Adorable Boy</EnglishText>
+      <EnglishText>Lovable Boy</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276144</PointerOffset>
       <JapaneseText>食べすぎな女の子</JapaneseText>
-      <EnglishText>Gluttonous Girl</EnglishText>
+      <EnglishText>Overeating Girl</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276508</PointerOffset>
@@ -48,7 +48,7 @@
       <EnglishText>Visiting Boy</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276592</PointerOffset>
@@ -56,7 +56,7 @@
       <EnglishText>Visiting Girl</EnglishText>
       <Notes/>
       <Id>7</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276768</PointerOffset>
@@ -64,7 +64,7 @@
       <EnglishText>Visiting Boy &amp; Girl</EnglishText>
       <Notes/>
       <Id>8</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277220</PointerOffset>
@@ -72,7 +72,7 @@
       <EnglishText>&lt;Dio&gt; &amp; &lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>9</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>269809</PointerOffset>
@@ -121,11 +121,11 @@
       <PointerOffset>275768</PointerOffset>
       <VoiceId>&lt;audio:VSM_340_020_001&gt;</VoiceId>
       <JapaneseText>それ、ボクのぉっ！</JapaneseText>
-      <EnglishText>Nooo, that's mine!</EnglishText>
+      <EnglishText>That's mine...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275840</PointerOffset>
@@ -135,197 +135,205 @@
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275920</PointerOffset>
       <VoiceId>&lt;audio:VSM_340_020_003&gt;</VoiceId>
       <JapaneseText>ちょっと！
 仲良くしなさい！</JapaneseText>
-      <EnglishText>Heeey! No fighting!</EnglishText>
+      <EnglishText>Hey! Be nice
+to each other!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276000</PointerOffset>
       <VoiceId>&lt;audio:VSM_340_020_004&gt;</VoiceId>
       <JapaneseText>エトっ！　おしっこ！</JapaneseText>
-      <EnglishText>Eto, I need to pee!</EnglishText>
+      <EnglishText>Ethos! I gotta
+wee-wee!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276072</PointerOffset>
       <VoiceId>&lt;audio:VSM_340_020_005&gt;</VoiceId>
       <JapaneseText>ひとりで行けるでしょ</JapaneseText>
-      <EnglishText>You're old enough to go alone.</EnglishText>
+      <EnglishText>You can do it
+on your own
+now, can't you?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276148</PointerOffset>
       <VoiceId>&lt;audio:VSM_340_020_006&gt;</VoiceId>
       <JapaneseText>おなかすいたー</JapaneseText>
-      <EnglishText>I'm hungry!</EnglishText>
+      <EnglishText>I'm hungry~</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276272</PointerOffset>
       <VoiceId>&lt;audio:VSM_340_020_007&gt;</VoiceId>
       <JapaneseText>あーはいはい……</JapaneseText>
-      <EnglishText>Yeah, yeah...</EnglishText>
+      <EnglishText>Okay, okay...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276272</PointerOffset>
       <VoiceId>&lt;audio:VSM_340_020_008&gt;</VoiceId>
       <JapaneseText>ふふっ……ちょっと
 賑やかすぎるけド</JapaneseText>
-      <EnglishText>Hehe... Things sure have gotten lively...</EnglishText>
+      <EnglishText>Haha... Maybe it's
+a little too lively, now.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276372</PointerOffset>
       <VoiceId>&lt;audio:VSM_340_020_009&gt;</VoiceId>
       <JapaneseText>誰、だろ……？</JapaneseText>
-      <EnglishText>Who...is it?</EnglishText>
+      <EnglishText>Who's that...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276372</PointerOffset>
       <VoiceId>&lt;audio:VSM_340_020_010&gt;</VoiceId>
       <JapaneseText>はーい……！</JapaneseText>
-      <EnglishText>Hello...?</EnglishText>
+      <EnglishText>Just a minute...!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276432</PointerOffset>
       <VoiceId>&lt;audio:VSM_340_020_011&gt;</VoiceId>
       <JapaneseText>え……？</JapaneseText>
-      <EnglishText>Wha...?</EnglishText>
+      <EnglishText>Eh...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276512</PointerOffset>
       <VoiceId>&lt;audio:VSM_340_020_012&gt;</VoiceId>
       <JapaneseText>えへへ……こんちは……</JapaneseText>
-      <EnglishText>Hehehe...hello...</EnglishText>
+      <EnglishText>Ehehe... Y'ello...</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276596</PointerOffset>
       <VoiceId>&lt;audio:VSM_340_020_013&gt;</VoiceId>
       <JapaneseText>ちょっと。
 ちゃんと挨拶して</JapaneseText>
-      <EnglishText>You could have thought
-of a better greeting.</EnglishText>
+      <EnglishText>Hey, greet
+her properly.</EnglishText>
       <Notes/>
       <SpeakerId>7</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276664</PointerOffset>
       <VoiceId>&lt;audio:VSM_340_020_014&gt;</VoiceId>
       <JapaneseText>……フフフ……</JapaneseText>
-      <EnglishText>...Hahahaha...</EnglishText>
+      <EnglishText>...Hahaha...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276772</PointerOffset>
       <VoiceId>&lt;audio:VSM_340_020_015&gt;</VoiceId>
       <JapaneseText>へへっ……はじめまして
 フフっ……はじめまして</JapaneseText>
-      <EnglishText>Hehehehe...Nice to meet you...</EnglishText>
+      <EnglishText>Heheh... Nice to meet you.
+Hahah... Nice to meet you.</EnglishText>
       <Notes/>
       <SpeakerId>8</SpeakerId>
       <Id>15</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276920</PointerOffset>
       <VoiceId>&lt;audio:VSM_340_020_017&gt;</VoiceId>
       <JapaneseText>誰、誰？</JapaneseText>
-      <EnglishText>Who are they?</EnglishText>
+      <EnglishText>Who is it??</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>16</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>276992</PointerOffset>
       <VoiceId>&lt;audio:VSM_340_020_018&gt;</VoiceId>
       <JapaneseText>お客さ～ん？</JapaneseText>
-      <EnglishText>Are they guests?</EnglishText>
+      <EnglishText>Visitors~?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>17</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277056</PointerOffset>
       <VoiceId>&lt;audio:VSM_340_020_019&gt;</VoiceId>
       <JapaneseText>ウフフ……</JapaneseText>
-      <EnglishText>Hehehe...</EnglishText>
+      <EnglishText>Ahaha...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>18</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277148</PointerOffset>
       <VoiceId>&lt;audio:VSM_340_020_020&gt;</VoiceId>
       <JapaneseText>……おかえり……
 ぼくの可愛い双子ちゃん</JapaneseText>
-      <EnglishText>...Welcome back...my fair pair of twins...</EnglishText>
+      <EnglishText>...Welcome back...
+My twin cuties.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>19</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>277224</PointerOffset>
       <VoiceId>&lt;audio:VSM_340_020_021&gt;</VoiceId>
       <JapaneseText>ただいま、エト</JapaneseText>
-      <EnglishText>We're home, Eto!</EnglishText>
+      <EnglishText>We're home,
+Ethos.</EnglishText>
       <Notes/>
       <SpeakerId>9</SpeakerId>
       <Id>20</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

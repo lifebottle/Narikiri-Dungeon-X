@@ -8,7 +8,7 @@
       <EnglishText>Wandering Girl</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271400,271568,271632,271852,272020</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>Bearded Man</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>265189</PointerOffset>
@@ -65,61 +65,62 @@
       <PointerOffset>271192</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_060_001&gt;</VoiceId>
       <JapaneseText>お母さーん……</JapaneseText>
-      <EnglishText>Mooommmy...</EnglishText>
+      <EnglishText>Moooom...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271192</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_060_002&gt;</VoiceId>
       <JapaneseText>お母さーん……寒いよぉ……</JapaneseText>
-      <EnglishText>Mommy...It's cold...</EnglishText>
+      <EnglishText>Moooom... It's cold...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271404</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_060_003&gt;</VoiceId>
       <JapaneseText>おお、そう怖がるな</JapaneseText>
-      <EnglishText>Hey little one, don't be scared.</EnglishText>
+      <EnglishText>Hey, no need
+to be scared.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271404</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_060_004&gt;</VoiceId>
       <JapaneseText>……と言っても無理かな。
 このおヒゲは怖いもんな</JapaneseText>
-      <EnglishText>I understand, this beard of mine makes
-me look a little scary, doesn't it?</EnglishText>
+      <EnglishText>...But I guess you can't help
+it, can you? I have got a
+pretty scary beard, and all.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271404</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_060_005&gt;</VoiceId>
       <JapaneseText>でも剃るのは勘弁してくれ。
 このおヒゲはお気に入りでな</JapaneseText>
-      <EnglishText>But you'll have to bear with it.
-You see, I can't bring myself to
-shave my precious beard.</EnglishText>
+      <EnglishText>But don't go asking me to shave,
+eh? I quite like this beard, myself.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271472</PointerOffset>
@@ -129,7 +130,7 @@ shave my precious beard.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271572</PointerOffset>
@@ -137,11 +138,13 @@ shave my precious beard.</EnglishText>
       <JapaneseText>触ってみるか？
 このおヒゲを。
 かまわんぞ、ほら</JapaneseText>
-      <EnglishText>Want to touch it? I don't mind at all. Here.</EnglishText>
+      <EnglishText>Would you like to
+touch it? My beard.
+It's alright. Here.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271636</PointerOffset>
@@ -151,63 +154,65 @@ shave my precious beard.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271732</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_060_009&gt;</VoiceId>
       <JapaneseText>うん……お母さんと
 はぐれたの……</JapaneseText>
-      <EnglishText>Yup... I got separated from mommy...</EnglishText>
+      <EnglishText>Yeah... I can't
+find my mom...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271856</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_060_010&gt;</VoiceId>
       <JapaneseText>そうか。
 おじさんと一緒に探そうな</JapaneseText>
-      <EnglishText>I see... Then let's try to
-find mommy together.</EnglishText>
+      <EnglishText>I see. Let's look
+for her together.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271856</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_060_011&gt;</VoiceId>
       <JapaneseText>君の名前は……？</JapaneseText>
-      <EnglishText>And your name is...?</EnglishText>
+      <EnglishText>What's your name...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271928</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_060_012&gt;</VoiceId>
       <JapaneseText>メルティア</JapaneseText>
-      <EnglishText>Meltia...</EnglishText>
+      <EnglishText>Meltia.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>272024</PointerOffset>
       <VoiceId>&lt;audio:VSM_260_060_013&gt;</VoiceId>
       <JapaneseText>メルティアか……
 よし、それじゃあ、行こう</JapaneseText>
-      <EnglishText>Meltia... Well, little girl, let's go.</EnglishText>
+      <EnglishText>Meltia, huh? Well,
+alright. Let's go.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>13</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

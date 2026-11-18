@@ -8,7 +8,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274412,274716,275012,275168</PointerOffset>
@@ -16,12 +16,12 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274592,274784</PointerOffset>
       <JapaneseText>浅緑の生き物</JapaneseText>
-      <EnglishText>Green Colored Thing</EnglishText>
+      <EnglishText>Light Green Creature</EnglishText>
       <Notes/>
       <Id>3</Id>
       <Status>Editing</Status>
@@ -32,7 +32,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>268389</PointerOffset>
@@ -81,128 +81,134 @@
       <PointerOffset>274348</PointerOffset>
       <VoiceId>&lt;audio:VSM_030_010_001&gt;</VoiceId>
       <JapaneseText>本当にここに魔女が……？</JapaneseText>
-      <EnglishText>Do you really think there's a magician here? </EnglishText>
+      <EnglishText>Is there really
+a witch here...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274416</PointerOffset>
       <VoiceId>&lt;audio:VSM_030_010_002&gt;</VoiceId>
       <JapaneseText>どんなヤツかな～</JapaneseText>
-      <EnglishText>I can't wait to see what she looks like! </EnglishText>
+      <EnglishText>I wonder what
+she's like~</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274596</PointerOffset>
       <VoiceId>&lt;audio:VSM_030_010_004&gt;</VoiceId>
       <JapaneseText>クルール！！</JapaneseText>
-      <EnglishText>Kururu! </EnglishText>
+      <EnglishText>Couleuru!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274720</PointerOffset>
       <VoiceId>&lt;audio:VSM_030_010_005&gt;</VoiceId>
       <JapaneseText>うぉっと……！</JapaneseText>
-      <EnglishText>Whoa! </EnglishText>
+      <EnglishText>Whoa...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274720</PointerOffset>
       <VoiceId>&lt;audio:VSM_030_010_006&gt;</VoiceId>
       <JapaneseText>……なんだよ、おまえ、
 ついてきたのか？</JapaneseText>
-      <EnglishText>What's gotten into you!? You followed us all the way here? </EnglishText>
+      <EnglishText>...Seriously? You
+followed us all
+the way here?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274788</PointerOffset>
       <VoiceId>&lt;audio:VSM_030_010_007&gt;</VoiceId>
       <JapaneseText>クルール！</JapaneseText>
-      <EnglishText>Kururu! </EnglishText>
+      <EnglishText>Couleuru!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274876</PointerOffset>
       <VoiceId>&lt;audio:VSM_030_010_008&gt;</VoiceId>
       <JapaneseText>危ないから、
 ダメって言ったのに……</JapaneseText>
-      <EnglishText>We've already told you, it's too dangerous
-here to come with us. </EnglishText>
+      <EnglishText>Didn't I tell you...?
+"It's dangerous, so
+you can't come..."</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>274956</PointerOffset>
       <VoiceId>&lt;audio:VSM_030_010_009&gt;</VoiceId>
       <JapaneseText>言葉通じてないんじゃない？</JapaneseText>
-      <EnglishText>Does it even understand what we're saying? </EnglishText>
+      <EnglishText>It probably can't understand
+what we say, right?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275016</PointerOffset>
       <VoiceId>&lt;audio:VSM_030_010_010&gt;</VoiceId>
       <JapaneseText>来たな！</JapaneseText>
-      <EnglishText>Oh no! Here they come! </EnglishText>
-      <Notes/>
+      <EnglishText>There you are!</EnglishText>
+      <Notes>need context tbqh</Notes>
       <SpeakerId>2</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>275112</PointerOffset>
       <VoiceId>&lt;audio:VSM_030_010_011&gt;</VoiceId>
       <JapaneseText>危ない……</JapaneseText>
-      <EnglishText>Wait! That's too dangerous...! </EnglishText>
+      <EnglishText>That's dangerous...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275112</PointerOffset>
       <VoiceId>&lt;audio:VSM_030_010_012&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;……！</JapaneseText>
-      <EnglishText>&lt;Dio&gt;! </EnglishText>
+      <EnglishText>&lt;Dio&gt;...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>275172</PointerOffset>
       <VoiceId>&lt;audio:VSM_030_010_013&gt;</VoiceId>
       <JapaneseText>よし！</JapaneseText>
-      <EnglishText>Right! </EnglishText>
+      <EnglishText>Alright!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

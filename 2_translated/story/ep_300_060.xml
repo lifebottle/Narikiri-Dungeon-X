@@ -8,7 +8,7 @@
       <EnglishText>Meltia</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298464,298780,298984,299156,299524,299752</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>Dios</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299676,299908,300236</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>Norn</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>291993</PointerOffset>
@@ -75,78 +75,82 @@
       <JapaneseText>マナが……
 世界中のマナが
 消えていく……</JapaneseText>
-      <EnglishText>Th-The Mana....all of the Mana
-in the world...it's disappearing...</EnglishText>
+      <EnglishText>The mana is... Our
+whole world's mana
+is...disappearing...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298368</PointerOffset>
       <VoiceId>&lt;audio:VSM_300_060_002&gt;</VoiceId>
       <JapaneseText>どうして！？</JapaneseText>
-      <EnglishText>WHY!?</EnglishText>
+      <EnglishText>Why!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298368</PointerOffset>
       <VoiceId>&lt;audio:VSM_300_060_003&gt;</VoiceId>
       <JapaneseText>どうして、発射させたの！？</JapaneseText>
-      <EnglishText>WHY DID YOU HAVE TO FIRE IT!?</EnglishText>
+      <EnglishText>Why did you fire it!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>2</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298468</PointerOffset>
       <VoiceId>&lt;audio:VSM_300_060_004&gt;</VoiceId>
       <JapaneseText>あのまま、放っておけば、
 わが国は滅びていた</JapaneseText>
-      <EnglishText>If I didn't, our country would have been ruined.</EnglishText>
+      <EnglishText>If I hadn't done *something*, our
+country would have been destroyed.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298540</PointerOffset>
       <VoiceId>&lt;audio:VSM_300_060_005&gt;</VoiceId>
       <JapaneseText>その代償が……！</JapaneseText>
-      <EnglishText>That's just an excuse...!</EnglishText>
+      <EnglishText>But the price
+we'll pay...!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298616</PointerOffset>
       <VoiceId>&lt;audio:VSM_300_060_006&gt;</VoiceId>
       <JapaneseText>……私だって同罪よね</JapaneseText>
-      <EnglishText>...And...I'm just as guilty as you are...
-for building this monstrosity...</EnglishText>
+      <EnglishText>...I'm just as
+guilty, aren't I?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298784</PointerOffset>
       <VoiceId>&lt;audio:VSM_300_060_007&gt;</VoiceId>
       <JapaneseText>……メルティアが
 悪いわけじゃない</JapaneseText>
-      <EnglishText>Meltia, you aren't evil.</EnglishText>
+      <EnglishText>...You've done
+nothing wrong, Meltia.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298784</PointerOffset>
@@ -154,13 +158,14 @@ for building this monstrosity...</EnglishText>
       <JapaneseText>戦争がすべて悪い。
 オレたちをこんなふうにした
 この戦争が……</JapaneseText>
-      <EnglishText>War is so full of hatred. Thanks
-to this stupid war, my parents...</EnglishText>
+      <EnglishText>This war is to blame,
+for everything. This war
+has made us this way.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298884</PointerOffset>
@@ -168,12 +173,12 @@ to this stupid war, my parents...</EnglishText>
       <JapaneseText>もし、あなたが
 奴らに両親を
 殺されてなければ</JapaneseText>
-      <EnglishText>I see. Yeah, they killed your
-parents, didn't they...?</EnglishText>
+      <EnglishText>If your parents
+hadn't been killed...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>298988</PointerOffset>
@@ -181,22 +186,22 @@ parents, didn't they...?</EnglishText>
       <JapaneseText>もし、おまえがもっと
 両親に愛情を
 もらっていれば</JapaneseText>
-      <EnglishText>And thanks to the war, you were
-abandoned by your parents...</EnglishText>
+      <EnglishText>If your parents had
+loved and cherished you...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299052</PointerOffset>
       <VoiceId>&lt;audio:VSM_300_060_011&gt;</VoiceId>
       <JapaneseText>くっ……</JapaneseText>
-      <EnglishText>Guh...</EnglishText>
+      <EnglishText>Ugh...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299160</PointerOffset>
@@ -207,42 +212,43 @@ abandoned by your parents...</EnglishText>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299160</PointerOffset>
       <VoiceId>&lt;audio:VSM_300_060_013&gt;</VoiceId>
       <JapaneseText>うっ……くっ……</JapaneseText>
-      <EnglishText>Ugh...guh...</EnglishText>
+      <EnglishText>Uu... Ugh...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299252</PointerOffset>
       <VoiceId>&lt;audio:VSM_300_060_014&gt;</VoiceId>
       <JapaneseText>マナが……
 薄くなってきてるのよ……</JapaneseText>
-      <EnglishText>The Mana...it's disappearing...</EnglishText>
+      <EnglishText>The mana is...
+getting thin...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299432</PointerOffset>
       <VoiceId>&lt;audio:VSM_300_060_015&gt;</VoiceId>
       <JapaneseText>……おしまいよ、この星は、
 デリス・カーラーンは……</JapaneseText>
-      <EnglishText>...This is the end of our world.
-This is how Derris Kharlan dies...</EnglishText>
+      <EnglishText>...This is the end. This
+world, Derris-Kharlan, is...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299432</PointerOffset>
@@ -250,13 +256,13 @@ This is how Derris Kharlan dies...</EnglishText>
       <JapaneseText>お父様が願われていた
 デリス・カーラーンの
 平和は……</JapaneseText>
-      <EnglishText>We couldn't fulfill father's wish...
-for a peaceful Derris Kharlan...</EnglishText>
+      <EnglishText>The peace Father
+wished for is...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>15</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299528</PointerOffset>
@@ -264,92 +270,95 @@ for a peaceful Derris Kharlan...</EnglishText>
       <JapaneseText>ふっ……
 デリス・カーラーンの
 平和、か……</JapaneseText>
-      <EnglishText>Heh...peace for...Derris Kharlan...?</EnglishText>
+      <EnglishText>Hah... Peace, for
+Derris-Kharlan...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>17</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299680</PointerOffset>
       <VoiceId>&lt;audio:VSM_300_060_018&gt;</VoiceId>
       <JapaneseText>あなたがたは……
 罰を受けなければなりません</JapaneseText>
-      <EnglishText>You two...There is no fitting punishment
-for the transgressions you committed...</EnglishText>
+      <EnglishText>You...must
+be punished.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>18</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299680</PointerOffset>
       <VoiceId>&lt;audio:VSM_300_060_019&gt;</VoiceId>
       <JapaneseText>星を滅ぼした大罪に
 報いるための罰を</JapaneseText>
-      <EnglishText>You have extinguished the life of an entire
-planet. Snatched away the future of millions.
-For such a sin, your punishment...</EnglishText>
+      <EnglishText>For the great sin of
+destroying this world,
+you must be punished.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>18</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299756</PointerOffset>
       <VoiceId>&lt;audio:VSM_300_060_020&gt;</VoiceId>
       <JapaneseText>オレたちは……悪くない</JapaneseText>
-      <EnglishText>No...we didn't mean to...</EnglishText>
+      <EnglishText>We did...nothing wrong.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>20</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299832</PointerOffset>
       <VoiceId>&lt;audio:VSM_300_060_021&gt;</VoiceId>
       <JapaneseText>全部、戦争のせい……</JapaneseText>
-      <EnglishText>It's all...the war's fault...</EnglishText>
+      <EnglishText>This is all...
+this war's fault...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>21</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>299912</PointerOffset>
       <VoiceId>&lt;audio:VSM_300_060_022&gt;</VoiceId>
       <JapaneseText>本当に……
 そうでしょうか</JapaneseText>
-      <EnglishText>So...you truly believe that?</EnglishText>
+      <EnglishText>Is that...really true?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>22</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300240</PointerOffset>
       <VoiceId>&lt;audio:VSM_300_060_023&gt;</VoiceId>
       <JapaneseText>……わかりました</JapaneseText>
-      <EnglishText>...Understood.</EnglishText>
+      <EnglishText>...In that case.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300240</PointerOffset>
       <VoiceId>&lt;audio:VSM_300_060_024&gt;</VoiceId>
       <JapaneseText>あなたがたに
 機会を与えましょう</JapaneseText>
-      <EnglishText>I shall grant you one last chance.</EnglishText>
+      <EnglishText>I will bestow a
+chance upon you.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300240</PointerOffset>
@@ -357,39 +366,41 @@ For such a sin, your punishment...</EnglishText>
       <JapaneseText>私はあなたがたを子どもに戻し、
 異なる時、異なる場所へ
 飛ばします</JapaneseText>
-      <EnglishText>You will live again. In a different place.
-In a different time. Where no conflict
-will taint your judgment.</EnglishText>
+      <EnglishText>I will return you to your
+childhood, and take you to
+another time, in another place.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
       <BubbleId>2</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300240</PointerOffset>
       <VoiceId>&lt;audio:VSM_300_060_026&gt;</VoiceId>
       <JapaneseText>……そして試練を受けなさい。
 そこで私は見定めましょう</JapaneseText>
-      <EnglishText>...And then you will be tested. I shall
-make sure proper judgment is passed.</EnglishText>
+      <EnglishText>...There, you will undergo
+ordeals, and through them,
+I will judge you.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
       <BubbleId>3</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>300240</PointerOffset>
       <VoiceId>&lt;audio:VSM_300_060_027&gt;</VoiceId>
       <JapaneseText>あなたがたの本質が
 善なのか悪なのか</JapaneseText>
-      <EnglishText>I shall judge whether your essence is evil or good.</EnglishText>
+      <EnglishText>Is your true nature
+good, or is it evil?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>23</Id>
       <BubbleId>4</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>

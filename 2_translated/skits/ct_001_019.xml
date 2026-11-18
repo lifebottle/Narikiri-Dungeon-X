@@ -8,7 +8,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45360,45528,45804,46092</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Klarth&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45716,46244,46320</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -34,7 +34,8 @@
       <VoiceId>&lt;audio:VCT_001_019_001&gt;</VoiceId>
       <JapaneseText>ミラルドさんは
 &lt;Klarth&gt;さんの奥さんなんですか？</JapaneseText>
-      <EnglishText>Hey &lt;Klarth&gt;, is Milard by any chance your wife?</EnglishText>
+      <EnglishText>Is Mirald your
+wife, &lt;Klarth&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -45,7 +46,8 @@
       <VoiceId>&lt;audio:VCT_001_019_002&gt;</VoiceId>
       <JapaneseText>あいつは単なる助手だ、
 そういうのとは違う</JapaneseText>
-      <EnglishText>Not at all, she's just my assistant.</EnglishText>
+      <EnglishText>She's just my assistant. We're
+not married, or anything.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -56,7 +58,8 @@
       <VoiceId>&lt;audio:VCT_001_019_003&gt;</VoiceId>
       <JapaneseText>……え？　でも恋人同士みたいな
 話だったし……</JapaneseText>
-      <EnglishText>...Uh? You really looked like lovers when you were talking back then...</EnglishText>
+      <EnglishText>...Eh? But don't you talk to each
+other the same way couples do...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
@@ -66,7 +69,7 @@
       <PointerOffset>45532</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_019_004&gt;</VoiceId>
       <JapaneseText>違う。断じて違う</JapaneseText>
-      <EnglishText>You are mistaken! You couldn't have been more wrong.</EnglishText>
+      <EnglishText>No. Not at all.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -77,7 +80,8 @@
       <VoiceId>&lt;audio:VCT_001_019_005&gt;</VoiceId>
       <JapaneseText>……どうしてそんな
 むきになるんですか？</JapaneseText>
-      <EnglishText>Why did you suddenly get so serious?</EnglishText>
+      <EnglishText>...Why do you seem
+kind of upset?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -88,7 +92,8 @@
       <VoiceId>&lt;audio:VCT_001_019_006&gt;</VoiceId>
       <JapaneseText>&lt;Mel&gt;、興味本位で
 そういうこと聞かないの</JapaneseText>
-      <EnglishText>&lt;Mel&gt;! You shouldn't meddle in other's business like that!</EnglishText>
+      <EnglishText>&lt;Mel&gt;, you shouldn't ask those sorts
+of thing just because you're curious.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
@@ -99,7 +104,8 @@
       <VoiceId>&lt;audio:VCT_001_019_007&gt;</VoiceId>
       <JapaneseText>そうだ。君にはまだ
 こういう話は早い</JapaneseText>
-      <EnglishText>Exactly! This is such a scandalous subject to talk about!</EnglishText>
+      <EnglishText>She's right. You're too young
+to think about these things.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -109,7 +115,8 @@
       <PointerOffset>45892</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_019_008&gt;</VoiceId>
       <JapaneseText>早くはないと、思いますけど……</JapaneseText>
-      <EnglishText>I don't think it's that bad...</EnglishText>
+      <EnglishText>...But I don't think I'm
+too young, though...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -120,18 +127,20 @@
       <VoiceId>&lt;audio:VCT_001_019_009&gt;</VoiceId>
       <JapaneseText>あ……ってことはやっぱり、
 おふたりは恋人同士なんですね</JapaneseText>
-      <EnglishText>I get it! You DO are a couple!</EnglishText>
+      <EnglishText>Ah... But if you put it like that, that
+definitely means you're a couple, doesn't it?</EnglishText>
       <Notes>needs TL check</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
-      <Status>Problematic</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46096</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_019_010&gt;</VoiceId>
       <JapaneseText>どうしてそうなるんだ。
 違うと言ったら、違う</JapaneseText>
-      <EnglishText>How do you end up concluding that!? I told you already you're wrong!</EnglishText>
+      <EnglishText>How do you figure? I told
+you we're not, so we're not.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
@@ -141,7 +150,8 @@
       <PointerOffset>46176</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_019_011&gt;</VoiceId>
       <JapaneseText>じゃあ、どういう関係ですか？</JapaneseText>
-      <EnglishText>Then why are you hiding yourself?</EnglishText>
+      <EnglishText>Then, what kind of
+relationship do you have?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
@@ -151,7 +161,7 @@
       <PointerOffset>46248</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_019_012&gt;</VoiceId>
       <JapaneseText>あ、&lt;Mel&gt;ってば……</JapaneseText>
-      <EnglishText>&lt;Mel&gt;, you...</EnglishText>
+      <EnglishText>Hey, &lt;Mel&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
@@ -161,7 +171,8 @@
       <PointerOffset>46324</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_019_013&gt;</VoiceId>
       <JapaneseText>もう……女の子なんだかラ</JapaneseText>
-      <EnglishText>You're a girl, alright...</EnglishText>
+      <EnglishText>Jeez... She's
+such a girl.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>

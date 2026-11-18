@@ -8,7 +8,7 @@
       <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>45912,46132,46360,46488</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46560,46948</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -34,7 +34,8 @@
       <VoiceId>&lt;audio:VCT_001_015_001&gt;</VoiceId>
       <JapaneseText>ほぇあ～～、まったく、まったく。
 &lt;Mel&gt;&lt;Mel&gt;は、気立てのええ娘っ子だ～</JapaneseText>
-      <EnglishText>Haaa! Good grief! &lt;Mel&gt;-&lt;Mel&gt; could so naturally be my daughter!</EnglishText>
+      <EnglishText>Hooohh... I swear, &lt;Mel&gt;&lt;Mel&gt;'s the best-
+natured little lady you ever did see.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -45,7 +46,8 @@
       <VoiceId>&lt;audio:VCT_001_015_002&gt;</VoiceId>
       <JapaneseText>へん、おまえは&lt;Mel&gt;の
 一面しか見てねーんだよ</JapaneseText>
-      <EnglishText>Heh! You've only seen what &lt;Mel&gt;'s like from the outside.</EnglishText>
+      <EnglishText>Hmph. Well, you've only
+seen her *good* side.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -55,7 +57,8 @@
       <PointerOffset>46008</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_015_003&gt;</VoiceId>
       <JapaneseText>なんだぁ？　おめぇ、嫉妬してるだか？</JapaneseText>
-      <EnglishText>What? Do you mean to say you know her deep secrets then?</EnglishText>
+      <EnglishText>What? You're not gettin'
+jealous, now, are ya?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
@@ -66,7 +69,8 @@
       <VoiceId>&lt;audio:VCT_001_015_004&gt;</VoiceId>
       <JapaneseText>あいつは、オレがせっかくうまく作った
 カレーに意地悪でマシュマロ入れたり……</JapaneseText>
-      <EnglishText>That girl almost tried to kill me by putting rotten mushrooms in that my curry on purpose!</EnglishText>
+      <EnglishText>Once, she was in a bad mood, so she took the delicious
+curry I'd worked hard on, and spiked it with marshmallows.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -77,7 +81,8 @@
       <VoiceId>&lt;audio:VCT_001_015_005&gt;</VoiceId>
       <JapaneseText>うそ、こけぇ！
 &lt;Mel&gt;&lt;Mel&gt;が、そっだらことするわけねぇ</JapaneseText>
-      <EnglishText>Stop lying, brat! &lt;Mel&gt;-&lt;Mel&gt; would never do that!</EnglishText>
+      <EnglishText>Yer lyin'! &lt;Mel&gt;&lt;Mel&gt;'d never
+do somethin' like that.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -88,7 +93,8 @@
       <VoiceId>&lt;audio:VCT_001_015_006&gt;</VoiceId>
       <JapaneseText>寝てる間にオレの顔に落書きしたり、
 庭にこっそり落とし穴掘ったり</JapaneseText>
-      <EnglishText>When I was sleeping, she grabbed me by the face. She sneaked me to the garden dropped me to a hole</EnglishText>
+      <EnglishText>She drew all over my face while I was
+asleep, and dug a pit trap in our yard.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -99,7 +105,8 @@
       <VoiceId>&lt;audio:VCT_001_015_007&gt;</VoiceId>
       <JapaneseText>家の壁に、こっそり『&lt;Mel&gt;参上』とか書いたり、
 隠れたところで悪行三昧だぜ！</JapaneseText>
-      <EnglishText>and wrote "&lt;Mel&gt; was here!" After that she pretended to be completely innocent! (I am extremely thrown off with this...)</EnglishText>
+      <EnglishText>She even wrote "MEL WAS HERE" all over our
+house! She's as evil as they come, deep down!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -109,7 +116,7 @@
       <PointerOffset>46564</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_015_008&gt;</VoiceId>
       <JapaneseText>ウソ言わないでよ！</JapaneseText>
-      <EnglishText>Stop lying!</EnglishText>
+      <EnglishText>Hey, stop lying!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
@@ -120,8 +127,9 @@
       <VoiceId>&lt;audio:VCT_001_015_009&gt;</VoiceId>
       <JapaneseText>はん！　やーっぱり、あのチビ助のウソだったか。
 &lt;Mel&gt;&lt;Mel&gt;がそんな意地悪しないって、わかってただよ</JapaneseText>
-      <EnglishText>Hah! I knew that brat was just spouting lies! I knew &lt;Mel&gt;-&lt;Mel&gt; wasn't bad at all!</EnglishText>
-      <Notes/>
+      <EnglishText>Ha! So it was all lies? I knew it! &lt;Mel&gt;&lt;Mel&gt;'s not
+got so much as a single bad bone in her body!</EnglishText>
+      <Notes>unfinished</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
       <Status>Editing</Status>
@@ -131,7 +139,8 @@
       <VoiceId>&lt;audio:VCT_001_015_010&gt;</VoiceId>
       <JapaneseText>大体、カレーにマシュマロ入れるなんて、
 ウソをつくにも、程度が低過ぎるっつー話だ！</JapaneseText>
-      <EnglishText>He obviously was lying about all the deal with the Mushrooms in the Curry! He just wanted all the attention for himself with his blabbering!</EnglishText>
+      <EnglishText>And besides, stickin' marshmallows in a curry?
+Even for lyin', that's stoopin' a mite too low!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
@@ -142,7 +151,8 @@
       <VoiceId>&lt;audio:VCT_001_015_011&gt;</VoiceId>
       <JapaneseText>だ、だって……
 甘い方が好きなんだもん！</JapaneseText>
-      <EnglishText>S-still I love sweet things.</EnglishText>
+      <EnglishText>B-But... I just like
+sweet things, okay!?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
@@ -152,7 +162,8 @@
       <PointerOffset>47044</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_015_012&gt;</VoiceId>
       <JapaneseText>まっさっか。そったらことが……！？</JapaneseText>
-      <EnglishText>Don't tell me that...So y-you...</EnglishText>
+      <EnglishText>Yer not tellin' me...
+that one was...!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>

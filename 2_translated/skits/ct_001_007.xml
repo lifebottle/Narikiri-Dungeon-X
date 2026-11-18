@@ -8,7 +8,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47220,47372,47564</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47284,47436,47740,47888,48080,48264</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47676,47824</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -41,7 +41,8 @@
       <PointerOffset>47148</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_007_001&gt;</VoiceId>
       <JapaneseText>&lt;Couleur&gt;って何の動物なの？　エト</JapaneseText>
-      <EnglishText>Eto, what kind of animal do you think &lt;Couleur&gt; is?</EnglishText>
+      <EnglishText>What kind of animal
+is &lt;Couleur&gt;, Ethos?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -51,7 +52,8 @@
       <PointerOffset>47224</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_007_002&gt;</VoiceId>
       <JapaneseText>え？　タヌキ……かな？</JapaneseText>
-      <EnglishText>Eh? Perhaps... a... raccoon?</EnglishText>
+      <EnglishText>Eh? A...tanuki,
+I guess...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -61,7 +63,7 @@
       <PointerOffset>47288</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_007_003&gt;</VoiceId>
       <JapaneseText>クルール！！</JapaneseText>
-      <EnglishText>Kururu!!</EnglishText>
+      <EnglishText>Couleuru!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
@@ -72,7 +74,8 @@
       <VoiceId>&lt;audio:VCT_001_007_004&gt;</VoiceId>
       <JapaneseText>じゃ、ないし、えっと……
 カエル……</JapaneseText>
-      <EnglishText>Maybe not...Umm, what about a frog?</EnglishText>
+      <EnglishText>Oh, I guess not.
+Umm... A frog...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -82,7 +85,7 @@
       <PointerOffset>47440</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_007_005&gt;</VoiceId>
       <JapaneseText>クルール！</JapaneseText>
-      <EnglishText>Kururu!</EnglishText>
+      <EnglishText>Couleuru!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
@@ -93,7 +96,8 @@
       <VoiceId>&lt;audio:VCT_001_007_006&gt;</VoiceId>
       <JapaneseText>こ、こういうの、&lt;Dio&gt;の方が得意でしょ？
 いつも図鑑とか読んでんだかラ……</JapaneseText>
-      <EnglishText>A-ah... &lt;Dio&gt; you would probably have better luck with solving this, don't you think? You should look at an illustrated encyclopedia...</EnglishText>
+      <EnglishText>W-Wouldn't you be better at this, &lt;Dio&gt;?
+Since you read so many books...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -104,7 +108,8 @@
       <VoiceId>&lt;audio:VCT_001_007_007&gt;</VoiceId>
       <JapaneseText>図鑑のどこにも載ってねーんだよな……
 あっ……まさか、新種！</JapaneseText>
-      <EnglishText>I can't see it mentioned anywhere in this encyclopedia... Ah! Could it be that... it's part of a new species!?</EnglishText>
+      <EnglishText>None of 'em have got pictures of anything like
+this... Wait, maybe &lt;Couleur&gt;'s a new species!?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
@@ -114,7 +119,7 @@
       <PointerOffset>47744</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_007_008&gt;</VoiceId>
       <JapaneseText>クルール？</JapaneseText>
-      <EnglishText>Kururu?</EnglishText>
+      <EnglishText>Couleuru?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
@@ -124,7 +129,8 @@
       <PointerOffset>47828</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_007_009&gt;</VoiceId>
       <JapaneseText>捕まったら、実験台にされたり！</JapaneseText>
-      <EnglishText>We must catch it and investigate it!</EnglishText>
+      <EnglishText>We gotta catch 'em and
+run lab tests on 'em!</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
@@ -134,7 +140,7 @@
       <PointerOffset>47892</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_007_010&gt;</VoiceId>
       <JapaneseText>クルール！</JapaneseText>
-      <EnglishText>Kururu!</EnglishText>
+      <EnglishText>Couleuru!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
@@ -145,7 +151,8 @@
       <VoiceId>&lt;audio:VCT_001_007_011&gt;</VoiceId>
       <JapaneseText>絶対、ダメ！　そんなのかわいそうだよ！
 &lt;Couleur&gt;はタヌキだよ、タヌキだよね？</JapaneseText>
-      <EnglishText>Absolutely not! You're a cruel jerk! &lt;Couleur&gt; is totally a raccoon dog! A raccoon dog! You hear!?</EnglishText>
+      <EnglishText>Absolutely not! That's just mean! &lt;Couleur&gt;'s
+just a tanuki, anyway. Aren't you?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
@@ -155,7 +162,7 @@
       <PointerOffset>48084</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_007_012&gt;</VoiceId>
       <JapaneseText>クルールゥ！</JapaneseText>
-      <EnglishText>Kururu!</EnglishText>
+      <EnglishText>Couleuruu!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>12</Id>
@@ -166,7 +173,8 @@
       <VoiceId>&lt;audio:VCT_001_007_013&gt;</VoiceId>
       <JapaneseText>タヌキってことにしとけば、
 実験台とかにされないから。ね？　ね？</JapaneseText>
-      <EnglishText>Since it is a raccoon dog you don't need to do any kind of research on it! Right? Right!?</EnglishText>
+      <EnglishText>But if we say you're just a tanuki,
+&lt;Dio&gt; won't run tests on you. Okay?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
@@ -176,7 +184,7 @@
       <PointerOffset>48268</PointerOffset>
       <VoiceId>&lt;audio:VCT_001_007_014&gt;</VoiceId>
       <JapaneseText>クルール～……</JapaneseText>
-      <EnglishText>Kururu~...</EnglishText>
+      <EnglishText>Couleuru~...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>14</Id>

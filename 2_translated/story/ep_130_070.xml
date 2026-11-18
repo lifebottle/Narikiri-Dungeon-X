@@ -5,10 +5,10 @@
     <Entry>
       <PointerOffset>277940</PointerOffset>
       <JapaneseText>力の強い兵士</JapaneseText>
-      <EnglishText>Strong Soldier</EnglishText>
+      <EnglishText>Powerful Soldier</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278032,278232,278396,278520,278584,279608,280008,280160,280284</PointerOffset>
@@ -16,36 +16,36 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278112,278300</PointerOffset>
       <JapaneseText>軽いノリの兵士</JapaneseText>
-      <EnglishText>Easygoing Soldier</EnglishText>
+      <EnglishText>Lighthearted Soldier</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278660,278912,279132,279436,279728,279828</PointerOffset>
       <JapaneseText>野望の騎士団長</JapaneseText>
-      <EnglishText>Ambitious Knight Commander</EnglishText>
+      <EnglishText>Ambitious Knight Captain</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>278740,279028,279272,279524,279928</PointerOffset>
       <JapaneseText>団長腹心の騎士</JapaneseText>
-      <EnglishText>Commander’s Trusted Knight</EnglishText>
+      <EnglishText>Captain's Loyal Knight</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>280068,280220,280348</PointerOffset>
       <JapaneseText>&lt;Cless&gt;</JapaneseText>
-      <EnglishText>&lt;Cless&gt;</EnglishText>
+      <EnglishText/>
       <Notes/>
       <Id>6</Id>
       <Status>Done</Status>
@@ -98,7 +98,8 @@
       <VoiceId>&lt;audio:VSM_130_070_000&gt;</VoiceId>
       <JapaneseText>これ、どこへ
 持っていけばいい？</JapaneseText>
-      <EnglishText>Where should I leave these? </EnglishText>
+      <EnglishText>Where should
+I take this?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -109,7 +110,8 @@
       <VoiceId>&lt;audio:VSM_130_070_001&gt;</VoiceId>
       <JapaneseText>えっと……それは
 前から三番目の馬車へ</JapaneseText>
-      <EnglishText>Well... put it inside wagon number three. </EnglishText>
+      <EnglishText>Uhh... That one's for the
+third wagon from the front.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -119,7 +121,7 @@
       <PointerOffset>278116</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_002&gt;</VoiceId>
       <JapaneseText>俺、何すればいい？</JapaneseText>
-      <EnglishText>So, am I relieved of my duties or what? </EnglishText>
+      <EnglishText>What should I be doing?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
@@ -131,7 +133,9 @@
       <JapaneseText>あ、んじゃあ、
 今夜、みんなが寝れるよう、
 道場の方の準備してくれよ</JapaneseText>
-      <EnglishText>Right. Tell everyone to rest and meet at the dojo. </EnglishText>
+      <EnglishText>Oh, well... Go prepare the
+dojo, so everyone can get
+some good rest tonight.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -141,7 +145,7 @@
       <PointerOffset>278304</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_004&gt;</VoiceId>
       <JapaneseText>了解～</JapaneseText>
-      <EnglishText>Understood! </EnglishText>
+      <EnglishText>Roger, roger~</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
@@ -152,7 +156,9 @@
       <VoiceId>&lt;audio:VSM_130_070_005&gt;</VoiceId>
       <JapaneseText>……みんな、なんで、
 自分で考えないんだろ？</JapaneseText>
-      <EnglishText>...Why is it everyone is treating me so poorly? </EnglishText>
+      <EnglishText>...Why can't any
+of these guys think
+for themselves?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -164,8 +170,9 @@
       <JapaneseText>もしかして、&lt;Cless&gt;さんが
 なんでも指示するから、
 自分で何も考えないのか？</JapaneseText>
-      <EnglishText>Could it be... they don't really think highly of &lt;Cless&gt; 
-either? </EnglishText>
+      <EnglishText>Maybe they're just too
+used to &lt;Cless&gt; telling 'em
+what to do all the time?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -175,7 +182,7 @@ either? </EnglishText>
       <PointerOffset>278588</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_007&gt;</VoiceId>
       <JapaneseText>うーん……</JapaneseText>
-      <EnglishText>Umm... </EnglishText>
+      <EnglishText>Hmm...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
@@ -185,7 +192,8 @@ either? </EnglishText>
       <PointerOffset>278664</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_008&gt;</VoiceId>
       <JapaneseText>&lt;Cless&gt;様々だな</JapaneseText>
-      <EnglishText>Our great mighty &lt;Cless&gt;, right? </EnglishText>
+      <EnglishText>Hats off to
+&lt;Cless&gt;, eh?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
@@ -195,7 +203,8 @@ either? </EnglishText>
       <PointerOffset>278744</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_009&gt;</VoiceId>
       <JapaneseText>いや、まったくです</JapaneseText>
-      <EnglishText>Oh, please. </EnglishText>
+      <EnglishText>Oh, yes. Most
+certainly.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>10</Id>
@@ -207,8 +216,9 @@ either? </EnglishText>
       <JapaneseText>奴のおかげで、
 多くの騎士志願者も
 取り込める</JapaneseText>
-      <EnglishText>Due to that brat's fault we've had a ridiculous number of 
-knight applicants. </EnglishText>
+      <EnglishText>Thanks to him, we've
+got plenty of prospective
+knight recruits all lined up.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
@@ -221,7 +231,9 @@ knight applicants. </EnglishText>
       <JapaneseText>あいつら、
 英雄の言うことなら
 なんでも聞くしな</JapaneseText>
-      <EnglishText>He'll do anything to hear people call him a hero. </EnglishText>
+      <EnglishText>They'll listen to whatever
+he's got to say, on account
+of him bein' a "hero."</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>11</Id>
@@ -233,8 +245,9 @@ knight applicants. </EnglishText>
       <VoiceId>&lt;audio:VSM_130_070_012&gt;</VoiceId>
       <JapaneseText>この調子で、うちの騎士団
 もっと大きくなればいいですな</JapaneseText>
-      <EnglishText>It's that way. He thinks he's the great thing in the 
-Imperial Knights. </EnglishText>
+      <EnglishText>If things continue like this, our
+Order will only grow larger, won't
+it? That should help us a lot.</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>13</Id>
@@ -245,7 +258,9 @@ Imperial Knights. </EnglishText>
       <VoiceId>&lt;audio:VSM_130_070_013&gt;</VoiceId>
       <JapaneseText>ああ……そうなったら、
 他の国々も圧倒できる</JapaneseText>
-      <EnglishText>Yeah...Other countries became overwhelmed. </EnglishText>
+      <EnglishText>Yeah... Then we'll be
+able to take over
+any country we like.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>14</Id>
@@ -257,8 +272,9 @@ Imperial Knights. </EnglishText>
       <JapaneseText>&lt;Red&gt;ヴァルハラ&lt;White&gt;のちんけな犯罪組織の
 鎮圧仕事など、バカバカしくて
 やってられません</JapaneseText>
-      <EnglishText>The great duty of suppressing the criminal organization in 
-Valhalla...Tch. Only an i&lt;Dio&gt;t would take that mission. </EnglishText>
+      <EnglishText>But subjugating these two-bit terrorists
+in &lt;Red&gt;Valhalla&lt;White&gt;... It's such a stupid damn job.
+Why do we have to waste our time?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>15</Id>
@@ -269,8 +285,8 @@ Valhalla...Tch. Only an i&lt;Dio&gt;t would take that mission. </EnglishText>
       <VoiceId>&lt;audio:VSM_130_070_015&gt;</VoiceId>
       <JapaneseText>そう言うな。
 &lt;Cless&gt;様の持ってきた仕事だ</JapaneseText>
-      <EnglishText>So you say, but the great almighty &lt;Cless&gt; decided to take 
-that job. </EnglishText>
+      <EnglishText>Hey, shut it. Master &lt;Cless&gt; got
+this work for us, you know.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>16</Id>
@@ -283,7 +299,9 @@ that job. </EnglishText>
       <JapaneseText>きっちりこなして、
 信頼を得なければ
 台無しだぞ</JapaneseText>
-      <EnglishText>If he loses his trust he won't be more than a spoiled brat. </EnglishText>
+      <EnglishText>And if we don't do a good
+job of it and earn his trust,
+we'll lose our opportunity, eh?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>16</Id>
@@ -295,7 +313,8 @@ that job. </EnglishText>
       <VoiceId>&lt;audio:VSM_130_070_017&gt;</VoiceId>
       <JapaneseText>そうですな、
 わっはっはっは</JapaneseText>
-      <EnglishText>That's right...Hahahaha! </EnglishText>
+      <EnglishText>Ah, that's true.
+Bwahahahaha!</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>18</Id>
@@ -306,7 +325,8 @@ that job. </EnglishText>
       <VoiceId>&lt;audio:VSM_130_070_018&gt;</VoiceId>
       <JapaneseText>……どーゆーことだよ、
 これ……</JapaneseText>
-      <EnglishText>The hell do they mean? </EnglishText>
+      <EnglishText>Wait, what are they
+talking about...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>19</Id>
@@ -318,7 +338,9 @@ that job. </EnglishText>
       <JapaneseText>さてと、そろそろ、
 &lt;Cless&gt;様にはちゃんと
 働いてもらわないとな</JapaneseText>
-      <EnglishText>Soon the almighty &lt;Cless&gt; will get no missions at all... </EnglishText>
+      <EnglishText>Well, that aside. We
+gotta put &lt;Cless&gt; to work
+pretty soon, don't we?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>20</Id>
@@ -329,7 +351,9 @@ that job. </EnglishText>
       <VoiceId>&lt;audio:VSM_130_070_020&gt;</VoiceId>
       <JapaneseText>な、なんだ、
 今の話聞いていたのか！？</JapaneseText>
-      <EnglishText>What!? Were you eavesdropping!? </EnglishText>
+      <EnglishText>Wh-What the...? Hey,
+did you hear what we
+were talking about!?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>21</Id>
@@ -340,7 +364,8 @@ that job. </EnglishText>
       <VoiceId>&lt;audio:VSM_130_070_021&gt;</VoiceId>
       <JapaneseText>こいつ……！
 &lt;Cless&gt;様の代理やってた……</JapaneseText>
-      <EnglishText>This kid! He's the representative of &lt;Cless&gt;! </EnglishText>
+      <EnglishText>Wait, this kid...! He's the one
+substituting for Master &lt;Cless&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>22</Id>
@@ -351,7 +376,9 @@ that job. </EnglishText>
       <VoiceId>&lt;audio:VSM_130_070_022&gt;</VoiceId>
       <JapaneseText>こいつら……
 許せない……</JapaneseText>
-      <EnglishText>I won't forgive you pair of freaks... </EnglishText>
+      <EnglishText>You bastards...
+You're gonna
+pay for this...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>23</Id>
@@ -361,7 +388,7 @@ that job. </EnglishText>
       <PointerOffset>280072</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_023&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;！</JapaneseText>
-      <EnglishText>&lt;Dio&gt;! </EnglishText>
+      <EnglishText>&lt;Dio&gt;!</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>24</Id>
@@ -372,7 +399,8 @@ that job. </EnglishText>
       <VoiceId>&lt;audio:VSM_130_070_024&gt;</VoiceId>
       <JapaneseText>&lt;Cless&gt;さん！
 こいつら……ひどいんだ！</JapaneseText>
-      <EnglishText>Mister &lt;Cless&gt;! These...these guys are horrible! </EnglishText>
+      <EnglishText>&lt;Cless&gt;! These
+guys are...awful!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>25</Id>
@@ -382,7 +410,7 @@ that job. </EnglishText>
       <PointerOffset>280224</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_025&gt;</VoiceId>
       <JapaneseText>いいんだ</JapaneseText>
-      <EnglishText>It's fine. </EnglishText>
+      <EnglishText>It's fine.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>26</Id>
@@ -392,7 +420,7 @@ that job. </EnglishText>
       <PointerOffset>280288</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_026&gt;</VoiceId>
       <JapaneseText>だって……！</JapaneseText>
-      <EnglishText>Fine!? But...! </EnglishText>
+      <EnglishText>But...!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>27</Id>
@@ -402,7 +430,7 @@ that job. </EnglishText>
       <PointerOffset>280352</PointerOffset>
       <VoiceId>&lt;audio:VSM_130_070_027&gt;</VoiceId>
       <JapaneseText>いいんだよ</JapaneseText>
-      <EnglishText>Yes, it's fine. </EnglishText>
+      <EnglishText>*It's fine.*</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>28</Id>

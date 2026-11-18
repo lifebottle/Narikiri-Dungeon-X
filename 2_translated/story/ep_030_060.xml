@@ -8,7 +8,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270536</PointerOffset>
@@ -16,15 +16,15 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270644,270788,271204</PointerOffset>
       <JapaneseText>魔女の声</JapaneseText>
-      <EnglishText>Magician's Voice</EnglishText>
+      <EnglishText>Witch's Voice</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>264489</PointerOffset>
@@ -73,83 +73,92 @@
       <PointerOffset>270452</PointerOffset>
       <VoiceId>&lt;audio:VSM_030_060_001&gt;</VoiceId>
       <JapaneseText>ここが塔のてっぺん、かな？</JapaneseText>
-      <EnglishText>Is this the tower's summit? </EnglishText>
+      <EnglishText>Is this the top
+of the tower?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270540</PointerOffset>
       <VoiceId>&lt;audio:VSM_030_060_002&gt;</VoiceId>
       <JapaneseText>出てこい、悪い魔女！
 観念しろーっ！</JapaneseText>
-      <EnglishText>Come out you horrid magician! Stop hiding! </EnglishText>
+      <EnglishText>Come out, you evil
+witch! You're gonna
+meet your doom!</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270648</PointerOffset>
       <VoiceId>&lt;audio:VSM_030_060_003&gt;</VoiceId>
       <JapaneseText>ちっ……まったく、もう……
 あ～、コホン……ンンッ……</JapaneseText>
-      <EnglishText>Kids these days... Well, *cough* ahem *cough cough* </EnglishText>
+      <EnglishText>Tch... Ah, dammit...
+Aah~ *cough* Ahem...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270792</PointerOffset>
       <VoiceId>&lt;audio:VSM_030_060_004&gt;</VoiceId>
       <JapaneseText>ここまでよく来たな。
 褒めてやろう</JapaneseText>
-      <EnglishText>This is as far as you go. You're standing in my way. </EnglishText>
+      <EnglishText>You've done well to
+make it this far. You've
+earned my praise.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>270792</PointerOffset>
       <VoiceId>&lt;audio:VSM_030_060_005&gt;</VoiceId>
       <JapaneseText>じゃが、おまえたちの命は
 ここまでじゃ</JapaneseText>
-      <EnglishText>This is it! Your life shall come to an end right here! </EnglishText>
+      <EnglishText>And yet, your
+lives must now
+come to an end.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271208</PointerOffset>
       <VoiceId>&lt;audio:VSM_030_060_009&gt;</VoiceId>
       <JapaneseText>我が魔力を結集し作り出した、
 ミラクルドリームエックス！</JapaneseText>
-      <EnglishText>Come forth, o guardian created
-by my grand magical power. 
-Miracle Dream X! </EnglishText>
+      <EnglishText>What I've created through the
+concentration of my magical
+powers... Miracle Dream X!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
       <BubbleId>0</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>271208</PointerOffset>
       <VoiceId>&lt;audio:VSM_030_060_010&gt;</VoiceId>
       <JapaneseText>これまでみたいに
 簡単にはいかぬぞ！！</JapaneseText>
-      <EnglishText>Defeating this foe won't be an easy feat at all! </EnglishText>
+      <EnglishText>This obstacle will not be overcome
+so simply as those before!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
       <BubbleId>1</BubbleId>
-      <Status>Proofreading</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
