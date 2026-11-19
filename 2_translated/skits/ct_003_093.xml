@@ -8,7 +8,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43536,43616</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43820,44104,44312</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -34,135 +34,143 @@
       <VoiceId>&lt;audio:VCT_003_093_001&gt;</VoiceId>
       <JapaneseText>&lt;Mel&gt;、さっき……何があったの？
 あの地下の通路で……</JapaneseText>
-      <EnglishText/>
-      <Notes/>
+      <EnglishText>&lt;Mel&gt;, did something...happen, just
+now? In that underground passage...</EnglishText>
+      <Notes>idk what this is about</Notes>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
-      <Status>To Do</Status>
+      <Status>Problematic</Status>
     </Entry>
     <Entry>
       <PointerOffset>43540</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_093_002&gt;</VoiceId>
       <JapaneseText>うん……でも今は自分でも
 まだよくわかってないんだ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah... But I don't really
+know what it was, myself.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43620</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_093_003&gt;</VoiceId>
       <JapaneseText>わかったら、ちゃんと話すね</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Once I figure it
+out, I'll tell you.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43684</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_093_004&gt;</VoiceId>
       <JapaneseText>……そっか</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...I see.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43748</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_093_005&gt;</VoiceId>
       <JapaneseText>………………</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43824</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_093_006&gt;</VoiceId>
       <JapaneseText>エトちゃん、元気出して</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Cheer up, Ethos.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43896</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_093_007&gt;</VoiceId>
       <JapaneseText>ううん、大丈夫だよ</JapaneseText>
-      <EnglishText/>
+      <EnglishText>No, I'm okay.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44036</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_093_008&gt;</VoiceId>
       <JapaneseText>前の&lt;Mel&gt;なら、ぼくを心配させないように
 こういう時、なんでもないよって言ってたんだけド</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Before, &lt;Mel&gt; would have said it was
+nothing, just so I wouldn't worry, but now...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44108</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_093_009&gt;</VoiceId>
       <JapaneseText>ちょっぴり成長した？</JapaneseText>
-      <EnglishText/>
+      <EnglishText>She's grown up,
+just a little?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44224</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_093_010&gt;</VoiceId>
       <JapaneseText>うん、だから、ちょっぴり嬉しい。
 けど、ちょっぴり寂しいよ……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Yeah, so, I'm happy, just a little.
+Though, it does feel a little lonely, too...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44316</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_093_011&gt;</VoiceId>
       <JapaneseText>心配させてほしい？
 『お母さん』としては</JapaneseText>
-      <EnglishText/>
+      <EnglishText>So, you want to worry for
+her? Like a "mom" does.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44380</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_093_012&gt;</VoiceId>
       <JapaneseText>うーん……</JapaneseText>
-      <EnglishText/>
+      <EnglishText>Hmm...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44444</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_093_013&gt;</VoiceId>
       <JapaneseText>……微妙かも</JapaneseText>
-      <EnglishText/>
+      <EnglishText>...It's complicated,
+I guess.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>13</Id>
-      <Status>To Do</Status>
+      <Status>Editing</Status>
     </Entry>
   </Strings>
   <Strings>
