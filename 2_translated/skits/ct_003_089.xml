@@ -8,7 +8,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42320,42484,42644,42748,42836,43036,43180</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -26,7 +26,8 @@
       <VoiceId>&lt;audio:VCT_003_089_001&gt;</VoiceId>
       <JapaneseText>&lt;Rody&gt;さんの指輪、便利ですよね。
 おしゃれと実用が兼ねられてて</JapaneseText>
-      <EnglishText>Miss &lt;Rody&gt;'s ring sure is useful! Not to mention a nice-looking accessory! That's an all-in-one package!</EnglishText>
+      <EnglishText>Your ring is really useful, isn't it, Rody?
+Stylish and practical at the same time.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -37,7 +38,8 @@
       <VoiceId>&lt;audio:VCT_003_089_002&gt;</VoiceId>
       <JapaneseText>そうね、便利って言えば
 便利だけど……</JapaneseText>
-      <EnglishText>Now that you bring it up, sure it's useful but it's not what it's for...</EnglishText>
+      <EnglishText>Well, yeah, it is
+pretty useful, but...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -47,7 +49,7 @@
       <PointerOffset>42388</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_089_003&gt;</VoiceId>
       <JapaneseText>……だけど？</JapaneseText>
-      <EnglishText>Why's that?</EnglishText>
+      <EnglishText>...But?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
@@ -58,7 +60,8 @@
       <VoiceId>&lt;audio:VCT_003_089_004&gt;</VoiceId>
       <JapaneseText>指輪は指輪だからこそ、
 意味があると思うんだよね</JapaneseText>
-      <EnglishText>This ring's meaning holds as much value just by being a regular ring.</EnglishText>
+      <EnglishText>Rings carry their own meaning,
+just in the fact that they're rings.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -68,7 +71,7 @@
       <PointerOffset>42544</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_089_005&gt;</VoiceId>
       <JapaneseText>？？</JapaneseText>
-      <EnglishText>Huh?</EnglishText>
+      <EnglishText>?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -79,7 +82,8 @@
       <VoiceId>&lt;audio:VCT_003_089_006&gt;</VoiceId>
       <JapaneseText>こういうものは、キレイなだけで
 充分な意味があんの</JapaneseText>
-      <EnglishText>There are always a lot of other pretty things to wear. But this is unique.</EnglishText>
+      <EnglishText>For this kind of thing, even just being
+pretty holds some meaning of its own.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -90,7 +94,8 @@
       <VoiceId>&lt;audio:VCT_003_089_007&gt;</VoiceId>
       <JapaneseText>余計な価値をつけたことで、
 指輪は指輪じゃなくなった</JapaneseText>
-      <EnglishText>If you overvalue a ring too much, it stops being a ring and its original value is lost.</EnglishText>
+      <EnglishText>And a very pricey ring can
+never be *just* a ring, really.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -100,7 +105,8 @@
       <PointerOffset>42840</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_089_008&gt;</VoiceId>
       <JapaneseText>&lt;Mel&gt;ちゃんにはまだわかんないかな？</JapaneseText>
-      <EnglishText>Do you understand, &lt;Mel&gt;?</EnglishText>
+      <EnglishText>But maybe you're too young to
+understand these things just yet, &lt;Mel&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
@@ -110,7 +116,8 @@
       <PointerOffset>42916</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_089_009&gt;</VoiceId>
       <JapaneseText>うーん……わかりません</JapaneseText>
-      <EnglishText>Do you understand, &lt;Mel&gt;?</EnglishText>
+      <EnglishText>Hmm... Yeah, I
+don't understand.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
@@ -121,7 +128,8 @@
       <VoiceId>&lt;audio:VCT_003_089_010&gt;</VoiceId>
       <JapaneseText>もし、こんな力が指輪になかったら、
 ダオスを追いかけることもなかったし</JapaneseText>
-      <EnglishText>Then again...if I didn't have this ring's power I wouldn't be able to chase after Dhaos...</EnglishText>
+      <EnglishText>Well, if this ring didn't have this power,
+I wouldn't be chasing after Dhaos, so...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
@@ -132,7 +140,8 @@
       <VoiceId>&lt;audio:VCT_003_089_011&gt;</VoiceId>
       <JapaneseText>私はダオスのやってることを知らないまま、彼の
 思い出をこの指輪とともに抱いて生きていた……か</JapaneseText>
-      <EnglishText>I don't know yet if I want to take him down, but with this ring those memories will always be alive inside of me...</EnglishText>
+      <EnglishText>...perhaps I would have clung to both this ring and these
+memories of him, never knowing what he had done...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>
