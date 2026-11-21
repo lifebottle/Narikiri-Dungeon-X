@@ -8,7 +8,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43088</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43192,43308,43540</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43380,43464,43612,43692</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -42,7 +42,8 @@
       <VoiceId>&lt;audio:VCT_003_105_001&gt;</VoiceId>
       <JapaneseText>&lt;Rody&gt;、
 ここちょっと見て……</JapaneseText>
-      <EnglishText>Hey &lt;Rody&gt; look at this!</EnglishText>
+      <EnglishText>Hey, &lt;Rody&gt;,
+look at this...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -52,7 +53,7 @@
       <PointerOffset>43092</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_105_002&gt;</VoiceId>
       <JapaneseText>どれどれ……</JapaneseText>
-      <EnglishText>Let's see...</EnglishText>
+      <EnglishText>Let me see...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -63,7 +64,8 @@
       <VoiceId>&lt;audio:VCT_003_105_003&gt;</VoiceId>
       <JapaneseText>……&lt;Dio&gt;、大変！
 &lt;Mel&gt;が悪い子になっちゃった！</JapaneseText>
-      <EnglishText>&lt;Dio&gt;, we have an emergency! &lt;Mel&gt; is becoming a bad kid!</EnglishText>
+      <EnglishText>...&lt;Dio&gt;, this is terrible!
+&lt;Mel&gt;'s become a delinquent!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
@@ -74,7 +76,8 @@
       <VoiceId>&lt;audio:VCT_003_105_004&gt;</VoiceId>
       <JapaneseText>大人の人を呼び捨てにしたんだ！
 今までこんなことなかったのに……</JapaneseText>
-      <EnglishText>She referred to an adult without using an honorific! It's the first time she's ever done such a thing...</EnglishText>
+      <EnglishText>She's calling an adult by a nickname! She's
+never, ever done this before, but now she's...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>4</Id>
@@ -84,7 +87,7 @@
       <PointerOffset>43384</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_105_005&gt;</VoiceId>
       <JapaneseText>いや……あのなぁ……</JapaneseText>
-      <EnglishText>Uhm...That's, uh...</EnglishText>
+      <EnglishText>Well... Y'know...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>5</Id>
@@ -95,7 +98,8 @@
       <VoiceId>&lt;audio:VCT_003_105_006&gt;</VoiceId>
       <JapaneseText>オレだって
 呼び捨てにしてるぜ？</JapaneseText>
-      <EnglishText>She refers to me without an honorific, you know.</EnglishText>
+      <EnglishText>I call her by that name
+all the time, y'know?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
@@ -105,7 +109,8 @@
       <PointerOffset>43544</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_105_007&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;はそういう子だもん</JapaneseText>
-      <EnglishText>But you are still a kid!</EnglishText>
+      <EnglishText>Well, you're just
+like that, &lt;Dio&gt;.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
@@ -115,7 +120,7 @@
       <PointerOffset>43616</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_105_008&gt;</VoiceId>
       <JapaneseText>そういう子って……</JapaneseText>
-      <EnglishText>Still...a kid...</EnglishText>
+      <EnglishText>I'm "just like that"...?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
@@ -125,11 +130,12 @@
       <PointerOffset>43696</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_105_009&gt;</VoiceId>
       <JapaneseText>……『悪い子』って意味か！？</JapaneseText>
-      <EnglishText>...So I AM A BAD KID?!</EnglishText>
-      <Notes/>
+      <EnglishText>...Are you saying
+I'm a bad kid!?</EnglishText>
+      <Notes>idk how to make this sound natural in english</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>9</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
   </Strings>
   <Strings>

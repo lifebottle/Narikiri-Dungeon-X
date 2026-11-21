@@ -8,7 +8,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42520</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42660,42872,43076</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42764,43148</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -42,7 +42,8 @@
       <VoiceId>&lt;audio:VCT_002_073_001&gt;</VoiceId>
       <JapaneseText>きみたち、ぼくがいない間、
 大丈夫だった？　泣いてない？</JapaneseText>
-      <EnglishText>While I was away...were you kids ok? You've not been crying, have you?</EnglishText>
+      <EnglishText>Were you okay while I was gone?
+You didn't cry, or anything?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -53,7 +54,8 @@
       <VoiceId>&lt;audio:VCT_002_073_002&gt;</VoiceId>
       <JapaneseText>泣いてないって。
 オレらは赤ん坊じゃないんだぞ？</JapaneseText>
-      <EnglishText>Nah, haven't cried a tiny bit. I'm not a baby anymore, you know?</EnglishText>
+      <EnglishText>Nope, didn't shed a tear. Do
+you think we're still babies?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -64,7 +66,8 @@
       <VoiceId>&lt;audio:VCT_002_073_003&gt;</VoiceId>
       <JapaneseText>そうだよ、ちょっと心細かったけど、
 &lt;Rody&gt;さんや&lt;Suzu&gt;ちゃんのおかげで平気だったよ？</JapaneseText>
-      <EnglishText>We've been fine. It was a bit lonely but thanks to &lt;Rody&gt; and &lt;Suzu&gt; everything was just fine.</EnglishText>
+      <EnglishText>Yeah. We were a little scared, but &lt;Rody&gt;
+and &lt;Suzu&gt; were with us, so it was okay.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
@@ -75,7 +78,8 @@
       <VoiceId>&lt;audio:VCT_002_073_004&gt;</VoiceId>
       <JapaneseText>なんのなんの。
 &lt;Mel&gt;ちゃんはちょっと涙目だったけど</JapaneseText>
-      <EnglishText>Oh, really? From where I'm looking from you seemed to be holding a river of tears all this time.</EnglishText>
+      <EnglishText>Oh, think nothing of it. &lt;Mel&gt; did tear
+up a little a couple times, though.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
@@ -86,7 +90,8 @@
       <VoiceId>&lt;audio:VCT_002_073_005&gt;</VoiceId>
       <JapaneseText>あれは眠くてアクビしたからですっ！
 な、泣いてないもん！</JapaneseText>
-      <EnglishText>T-those were just yawn tears because I was so tired! I'm telling you, I didn't cry!</EnglishText>
+      <EnglishText>That's 'cause I was yawning from lack
+of sleep! I-I didn't cry! I didn't, okay!?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
@@ -97,7 +102,8 @@
       <VoiceId>&lt;audio:VCT_002_073_006&gt;</VoiceId>
       <JapaneseText>そっか……ぼくがいなかったせいで
 夜も眠れない寂しい想いしたんだね……</JapaneseText>
-      <EnglishText>That's right... You poor thing must have been drowning in worries because I wasn't there. It's all my fault you couldn't get proper sleep.</EnglishText>
+      <EnglishText>I see... You were so lonely without
+me that you couldn't even sleep...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -107,7 +113,7 @@
       <PointerOffset>43080</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_073_007&gt;</VoiceId>
       <JapaneseText>あ……そ、そうじゃなくて……</JapaneseText>
-      <EnglishText>N-not at all!</EnglishText>
+      <EnglishText>Ah... Th-That's not why...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
@@ -117,11 +123,14 @@
       <PointerOffset>43152</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_073_008&gt;</VoiceId>
       <JapaneseText>相変わらずの心配性</JapaneseText>
-      <EnglishText>As always worrying for all of us, huh?</EnglishText>
-      <Notes/>
+      <EnglishText>She still worries
+as much as ever.</EnglishText>
+      <Notes>dunno how to make this sound okay
+
+oh well</Notes>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
   </Strings>
   <Strings>

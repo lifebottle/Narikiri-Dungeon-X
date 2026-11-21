@@ -8,7 +8,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>41924,42040,42252,42504,42636</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>42340</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -34,7 +34,8 @@
       <VoiceId>&lt;audio:VCT_003_102_001&gt;</VoiceId>
       <JapaneseText>そう言えば前にノルンさん、
 『希望のひとしずく』から生まれたって言ってたよね</JapaneseText>
-      <EnglishText>That reminds me. Miss Norn said a while ago she was given birth as a Tear of Hope.</EnglishText>
+      <EnglishText>Now that I think of it, didn't Norn say she was
+born from "A Single Drop of Hope," before?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -44,7 +45,7 @@
       <PointerOffset>41928</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_102_002&gt;</VoiceId>
       <JapaneseText>そうだっけ……？</JapaneseText>
-      <EnglishText>Oh really?</EnglishText>
+      <EnglishText>Huh. Did she...?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -55,7 +56,8 @@
       <VoiceId>&lt;audio:VCT_003_102_003&gt;</VoiceId>
       <JapaneseText>それってさ、世界樹の根っこんとこにあった
 マナ溜まりってヤツだろ</JapaneseText>
-      <EnglishText>If she was born inside the roots of the Great Kharlan Tree she must be a big lump of Mana.</EnglishText>
+      <EnglishText>That's like, a big pool of mana at
+the base of a World Tree, yeah?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>3</Id>
@@ -66,7 +68,8 @@
       <VoiceId>&lt;audio:VCT_003_102_004&gt;</VoiceId>
       <JapaneseText>ノルンさんってつまりはデリス・カーラーンにある
 大樹カーラーンの子どもみたいなものなんだね</JapaneseText>
-      <EnglishText>So you could say Miss Norn is the child of Derris Kharlan's Mana Tree!</EnglishText>
+      <EnglishText>So, in other words, that means Norn's
+like a child of the Great Tree Kharlan.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -76,7 +79,7 @@
       <PointerOffset>42256</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_102_005&gt;</VoiceId>
       <JapaneseText>樹が母ちゃん？</JapaneseText>
-      <EnglishText>The daughter of a tree!?</EnglishText>
+      <EnglishText>Her mom's a tree?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
@@ -87,7 +90,8 @@
       <VoiceId>&lt;audio:VCT_003_102_006&gt;</VoiceId>
       <JapaneseText>樹がお母さんでも
 別にいいでしょ？</JapaneseText>
-      <EnglishText>So the Tree is the mother?</EnglishText>
+      <EnglishText>I mean, even if her mom's a tree,
+there's nothing wrong with that, is there?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>6</Id>
@@ -97,7 +101,8 @@
       <PointerOffset>42420</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_102_007&gt;</VoiceId>
       <JapaneseText>お父さんかもしれないよ</JapaneseText>
-      <EnglishText>We don't know who the father is, though.</EnglishText>
+      <EnglishText>Maybe it's her father.
+You never know.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -107,7 +112,8 @@
       <PointerOffset>42508</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_102_008&gt;</VoiceId>
       <JapaneseText>じゃあ、ユグドラシルは兄ちゃんか？</JapaneseText>
-      <EnglishText>In that case then Yggdrasil is her big brother?</EnglishText>
+      <EnglishText>So, what, does that make
+Yggdrasill her older brother?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
@@ -117,7 +123,8 @@
       <PointerOffset>42576</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_102_009&gt;</VoiceId>
       <JapaneseText>妹じゃないかな</JapaneseText>
-      <EnglishText>She's not the smaller one.</EnglishText>
+      <EnglishText>Or her younger
+sister, maybe?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
@@ -127,7 +134,7 @@
       <PointerOffset>42640</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_102_010&gt;</VoiceId>
       <JapaneseText>なんでだ？</JapaneseText>
-      <EnglishText>Huh, how do you know?</EnglishText>
+      <EnglishText>How's that?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
@@ -138,7 +145,8 @@
       <VoiceId>&lt;audio:VCT_003_102_011&gt;</VoiceId>
       <JapaneseText>え？　うーんと、
 なんとなく？</JapaneseText>
-      <EnglishText>Oh? I-I dunno I just had that feeling.</EnglishText>
+      <EnglishText>Eh? Umm... I dunno? I
+just kinda got that vibe?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>

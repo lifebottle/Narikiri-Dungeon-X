@@ -8,7 +8,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49664,49908</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49744,50772,50952</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>49840,50108,50424</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50228,50580</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>50340</PointerOffset>
@@ -48,7 +48,7 @@
       <EnglishText>&lt;Suzu&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -58,7 +58,8 @@
       <VoiceId>&lt;audio:VCT_002_066_001&gt;</VoiceId>
       <JapaneseText>オレらが牢屋に捕まってる間、
 のんびり温泉つかりやがって！</JapaneseText>
-      <EnglishText>Let's get this straight. While I was rotting in a cell you were ENJOYING THE SPA?</EnglishText>
+      <EnglishText>So while *we* were locked up in the dungeon,
+*you* were living it up in the hotspring!?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -68,7 +69,7 @@
       <PointerOffset>49668</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_066_002&gt;</VoiceId>
       <JapaneseText>クルルルルゥ～？</JapaneseText>
-      <EnglishText>Kuruuuru?</EnglishText>
+      <EnglishText>Coululululuu~?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -78,7 +79,8 @@
       <PointerOffset>49748</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_066_003&gt;</VoiceId>
       <JapaneseText>&lt;Couleur&gt;に怒っても仕方ないよ</JapaneseText>
-      <EnglishText>Hey, there's no use getting mad with &lt;Couleur&gt; now.</EnglishText>
+      <EnglishText>Getting mad at &lt;Couleur&gt;
+won't change anything.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
@@ -89,7 +91,8 @@
       <VoiceId>&lt;audio:VCT_002_066_004&gt;</VoiceId>
       <JapaneseText>そうそう。
 いい湯加減で気持ちよかったよね？</JapaneseText>
-      <EnglishText>Yeah, plus, the water temperature was perfect, wouldn't you agree fur ball?</EnglishText>
+      <EnglishText>Right? And the water was
+perfect, too. It felt so good.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>4</Id>
@@ -99,7 +102,7 @@
       <PointerOffset>49912</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_066_005&gt;</VoiceId>
       <JapaneseText>クールール～ン♪</JapaneseText>
-      <EnglishText>Kuruuruuun!</EnglishText>
+      <EnglishText>Cueuleureun~ ♪</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>5</Id>
@@ -110,7 +113,8 @@
       <VoiceId>&lt;audio:VCT_002_066_006&gt;</VoiceId>
       <JapaneseText>ロ、&lt;Rody&gt;まで
 オレらをほうって……？</JapaneseText>
-      <EnglishText>&lt;Rody&gt; betrayed us too...!?</EnglishText>
+      <EnglishText>S-So even *you* ditched us
+for the hotsprings, &lt;Rody&gt;...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -121,7 +125,8 @@
       <VoiceId>&lt;audio:VCT_002_066_007&gt;</VoiceId>
       <JapaneseText>だって、あの時は君たちが
 捕まってるなんて知らなかったし</JapaneseText>
-      <EnglishText>Well, I didn't know you were in prison at that time so I thought it'd be a waste not to!</EnglishText>
+      <EnglishText>I mean, I didn't know you had
+been captured at the time, so.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>7</Id>
@@ -132,7 +137,8 @@
       <VoiceId>&lt;audio:VCT_002_066_008&gt;</VoiceId>
       <JapaneseText>おらも温泉入りてぇだーよ。
 ふくろだぬきが入ったなんて許せないだ</JapaneseText>
-      <EnglishText>I want to go to the hot springs too! But even if we return I obviously can't take a dip. How unfair!</EnglishText>
+      <EnglishText>I want to try these onsen, too. Can't believe
+the dumb tanuki got to try' em, and I didn't...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>8</Id>
@@ -143,7 +149,8 @@
       <VoiceId>&lt;audio:VCT_002_066_009&gt;</VoiceId>
       <JapaneseText>うちのお湯は酸性なので、
 金具が錆びてしまうかもしれません</JapaneseText>
-      <EnglishText>The waters inside my residence are quite acidic but the metal fittings never rust at all. I believe you'll be ok.</EnglishText>
+      <EnglishText>The water here is quite acidic, so
+it may corrode metallic objects.</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>9</Id>
@@ -153,7 +160,8 @@
       <PointerOffset>50428</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_066_010&gt;</VoiceId>
       <JapaneseText>それに湿気で腐っちゃうかもだしね</JapaneseText>
-      <EnglishText>In that case, let's get real wet!</EnglishText>
+      <EnglishText>And all the warm water'll
+probably make you rot, so.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>10</Id>
@@ -164,7 +172,8 @@
       <VoiceId>&lt;audio:VCT_002_066_011&gt;</VoiceId>
       <JapaneseText>やんだやんだぁ。おらも&lt;Mel&gt;&lt;Mel&gt;と&lt;Rody&gt;たんと
 ミーたまと&lt;Suzu&gt;ちんと一緒に温泉入りてぇだ～よ</JapaneseText>
-      <EnglishText>It's settled! I'll take a bath with &lt;Mel&gt;-&lt;Mel&gt;, Miss &lt;Rody&gt;, &lt;Mint&gt;y and Lil' &lt;Suzu&gt; with lots of love!</EnglishText>
+      <EnglishText>I don't care. I want to take a nice warm dip with
+&lt;Mel&gt;&lt;Mel&gt;, and &lt;Rody&gt;, and Miss &lt;Mint&gt;y, and Li'l &lt;Suzu&gt;...</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>11</Id>
@@ -175,7 +184,8 @@
       <VoiceId>&lt;audio:VCT_002_066_012&gt;</VoiceId>
       <JapaneseText>だったら、腐ったまま、
 二度と湯からあがってくんな！</JapaneseText>
-      <EnglishText>But if you enter there won't be space for anyone else and you'll drown like the pervert you are!</EnglishText>
+      <EnglishText>Then go and rot in there. Any luck,
+and we'll never have to see you again!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
@@ -186,7 +196,8 @@
       <VoiceId>&lt;audio:VCT_002_066_013&gt;</VoiceId>
       <JapaneseText>そういう&lt;Dio&gt;こそ、
 入らないの？</JapaneseText>
-      <EnglishText>Why don't you take a bath with us instead?</EnglishText>
+      <EnglishText>You don't want to try the
+hotspring yourself, &lt;Dio&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>13</Id>
@@ -197,7 +208,8 @@
       <VoiceId>&lt;audio:VCT_002_066_014&gt;</VoiceId>
       <JapaneseText>え？　オレは……遠慮しとく。
 あはは……</JapaneseText>
-      <EnglishText>What? That's...I must go. Hahahahaha.</EnglishText>
+      <EnglishText>Eh? Nah, I'll, uh...just sit
+this one out. Ahaha...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>14</Id>
@@ -208,11 +220,12 @@
       <VoiceId>&lt;audio:VCT_002_066_015&gt;</VoiceId>
       <JapaneseText>&lt;Dio&gt;……
 お風呂が嫌いなんです……</JapaneseText>
-      <EnglishText>You really do hate baths that much, huh?</EnglishText>
-      <Notes/>
+      <EnglishText>&lt;Dio&gt;... You really do
+hate baths, don't you...</EnglishText>
+      <Notes>may need to change for context</Notes>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
-      <Status>Editing</Status>
+      <Status>Problematic</Status>
     </Entry>
   </Strings>
   <Strings>

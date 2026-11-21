@@ -8,7 +8,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46576,46776,46988,47128,47592</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>Albert</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>46844</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47192</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>Everyone</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47388</PointerOffset>
@@ -40,7 +40,7 @@
       <EnglishText>&lt;Couleur&gt;</EnglishText>
       <Notes/>
       <Id>5</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>47460</PointerOffset>
@@ -48,7 +48,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>6</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -57,7 +57,8 @@
       <PointerOffset>46444</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_098_001&gt;</VoiceId>
       <JapaneseText>アルベルトさんの体って、木でできてるんですよね？</JapaneseText>
-      <EnglishText>Is Mister Albert's body made of any specific type of wood?</EnglishText>
+      <EnglishText>So your body is made
+of wood, right, Albert?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -68,7 +69,8 @@
       <VoiceId>&lt;audio:VCT_003_098_002&gt;</VoiceId>
       <JapaneseText>おぉ、そうだど、&lt;Mel&gt;&lt;Mel&gt;。
 ただ木っつても、そんじょそこらの木とは違うだよ</JapaneseText>
-      <EnglishText>Yeah, of course my &lt;Mel&gt;-&lt;Mel&gt;. It's made of a specific type of tree and yet you could say it's not a tree at the same time.</EnglishText>
+      <EnglishText>Mhm, that's right, &lt;Mel&gt;&lt;Mel&gt;. But while it might be
+wood, it ain't the same wood you'll find just lyin' about.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -78,7 +80,8 @@
       <PointerOffset>46660</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_098_003&gt;</VoiceId>
       <JapaneseText>それは、材質が特別ってこと？</JapaneseText>
-      <EnglishText>Then...you're made with special unique materials?</EnglishText>
+      <EnglishText>You mean, it's especially
+high quality wood?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
@@ -89,7 +92,8 @@
       <VoiceId>&lt;audio:VCT_003_098_004&gt;</VoiceId>
       <JapaneseText>そーいうこった。
 おらの体は世界樹のご神木からできてるだーよ。</JapaneseText>
-      <EnglishText>Yeppers! I'm made from sacred wood extracted from the Mana Tree.</EnglishText>
+      <EnglishText>That's right. My body's made from
+the holy wood of the World Tree.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -99,7 +103,7 @@
       <PointerOffset>46848</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_098_005&gt;</VoiceId>
       <JapaneseText>え？　うソ！？</JapaneseText>
-      <EnglishText>What!? That can't be true, right!?</EnglishText>
+      <EnglishText>Eh? No way!</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
@@ -110,7 +114,8 @@
       <VoiceId>&lt;audio:VCT_003_098_006&gt;</VoiceId>
       <JapaneseText>ま、ほんとかどうかは、おらも知らんが。
 た～ぶん、そんぐらい貴重なもんを使ってるはずだ</JapaneseText>
-      <EnglishText>Who knows if it's true? Honestly, I don't know myself but I'm confident they'd need nothing less special to create this much awesomeness.</EnglishText>
+      <EnglishText>Well, not that I really know the truth, meself. But
+it's *prob'ly* some real valuable wood, anyway.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -121,7 +126,8 @@
       <VoiceId>&lt;audio:VCT_003_098_007&gt;</VoiceId>
       <JapaneseText>んで、そのたいそう立派なご神木使って、
 ノルン様が日曜大工して、おらを作っただーよ</JapaneseText>
-      <EnglishText>I'm sure Miss Norn took carpenting as a hobby and thought I should be no less than a masterpiece and use only the best materials like divine wood.</EnglishText>
+      <EnglishText>And then, usin' that amazin'ly fantastic holy wood, the
+Great Norn whipped me up real quick, with a little DIY.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -131,7 +137,7 @@
       <PointerOffset>47196</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_098_008&gt;</VoiceId>
       <JapaneseText>日曜大工ー！？</JapaneseText>
-      <EnglishText>An amateur carpenter!?</EnglishText>
+      <EnglishText>DIY!?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>8</Id>
@@ -141,7 +147,7 @@
       <PointerOffset>47392</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_098_011&gt;</VoiceId>
       <JapaneseText>クルゥ？</JapaneseText>
-      <EnglishText>Kuru?</EnglishText>
+      <EnglishText>Couluh?</EnglishText>
       <Notes/>
       <SpeakerId>5</SpeakerId>
       <Id>9</Id>
@@ -151,7 +157,8 @@
       <PointerOffset>47464</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_098_012&gt;</VoiceId>
       <JapaneseText>ほんとかよ、それ？</JapaneseText>
-      <EnglishText>You really think that's what happened??</EnglishText>
+      <EnglishText>Hey, is that
+really true?</EnglishText>
       <Notes/>
       <SpeakerId>6</SpeakerId>
       <Id>10</Id>
@@ -162,7 +169,8 @@
       <VoiceId>&lt;audio:VCT_003_098_013&gt;</VoiceId>
       <JapaneseText>アホかぁ？　作るところ見たわけじゃねぇから、
 おらだって、わかるわけねぇべ</JapaneseText>
-      <EnglishText>You really are dumb. How the heck would I know how I was made if I wasn't even conscious until after!?</EnglishText>
+      <EnglishText>Ya stupid or somethin'? Of course I didn't see
+myself bein' made. So how the hell should I know?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>11</Id>

@@ -8,7 +8,7 @@
       <EnglishText>&lt;Cless&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43524,43660,43808,43928,44056,44240,44456</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43592,43744,43868,44144,44540</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44308</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>&lt;Cless&gt; &amp; &lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -42,7 +42,8 @@
       <VoiceId>&lt;audio:VCT_002_059_001&gt;</VoiceId>
       <JapaneseText>そもそも、見物って何の見物に来たんだい、
 こんな何もない廃墟にさ</JapaneseText>
-      <EnglishText>To begin with, what king of sightseeing were you exactly planning to come here for? These are nothing but ruins, after all.</EnglishText>
+      <EnglishText>So if you're here to sightsee, exactly what are you
+"sightseeing"? There's nothing here. It's just ruins.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -53,7 +54,8 @@
       <VoiceId>&lt;audio:VCT_002_059_002&gt;</VoiceId>
       <JapaneseText>私、歴史建造物とか見て
 歩くのが趣味なんだ</JapaneseText>
-      <EnglishText>Well, I'm pretty interested in whatever historical evidence I can find here! Simple as that!</EnglishText>
+      <EnglishText>My hobby is going on walks while
+looking at ancient architecture, you see.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -63,7 +65,7 @@
       <PointerOffset>43596</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_059_003&gt;</VoiceId>
       <JapaneseText>そんなの初耳だぜ</JapaneseText>
-      <EnglishText>First time hearing you say you like history.</EnglishText>
+      <EnglishText>First I've heard of it.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
@@ -73,7 +75,8 @@
       <PointerOffset>43664</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_059_004&gt;</VoiceId>
       <JapaneseText>私も初知りだよ</JapaneseText>
-      <EnglishText>First time I found out myself!</EnglishText>
+      <EnglishText>Mhm. I just discovered
+it about me, myself.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -83,7 +86,8 @@
       <PointerOffset>43748</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_059_005&gt;</VoiceId>
       <JapaneseText>……で？　本当は何しに来たんだ？</JapaneseText>
-      <EnglishText>...Really? ...Tell us the truth, why are you here?</EnglishText>
+      <EnglishText>...And? What's the real
+reason you're here?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>5</Id>
@@ -93,7 +97,7 @@
       <PointerOffset>43812</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_059_006&gt;</VoiceId>
       <JapaneseText>例えば……</JapaneseText>
-      <EnglishText>For example...</EnglishText>
+      <EnglishText>Well, for example...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>6</Id>
@@ -103,7 +107,7 @@
       <PointerOffset>43872</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_059_007&gt;</VoiceId>
       <JapaneseText>例えば？</JapaneseText>
-      <EnglishText>For example...?</EnglishText>
+      <EnglishText>For example?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>7</Id>
@@ -113,7 +117,7 @@
       <PointerOffset>43932</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_059_008&gt;</VoiceId>
       <JapaneseText>逆に～</JapaneseText>
-      <EnglishText>On the other hand...</EnglishText>
+      <EnglishText>On the contrary~</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>8</Id>
@@ -123,7 +127,7 @@
       <PointerOffset>43992</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_059_009&gt;</VoiceId>
       <JapaneseText>逆に？</JapaneseText>
-      <EnglishText>On the other hand?</EnglishText>
+      <EnglishText>On the contrary?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
@@ -133,7 +137,7 @@
       <PointerOffset>44060</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_059_010&gt;</VoiceId>
       <JapaneseText>もしかしたら……</JapaneseText>
-      <EnglishText>But maybe...</EnglishText>
+      <EnglishText>If, perhaps...</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>10</Id>
@@ -143,7 +147,8 @@
       <PointerOffset>44148</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_059_011&gt;</VoiceId>
       <JapaneseText>なんで、そんなに言いたくないんだ？</JapaneseText>
-      <EnglishText>What's all this playing around the bush speak!?</EnglishText>
+      <EnglishText>Why don't you
+want to say it?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
@@ -154,7 +159,8 @@
       <VoiceId>&lt;audio:VCT_002_059_012&gt;</VoiceId>
       <JapaneseText>ミステリアスな女は魅力的だって
 言うからね</JapaneseText>
-      <EnglishText>Mystery is part of a woman's charm, you know!</EnglishText>
+      <EnglishText>Well, they do say mysterious
+women are the most charming.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>12</Id>
@@ -164,7 +170,7 @@
       <PointerOffset>44312</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_059_013&gt;</VoiceId>
       <JapaneseText>はぁ……</JapaneseText>
-      <EnglishText>Huh...</EnglishText>
+      <EnglishText>Haaah...</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>
@@ -175,7 +181,8 @@
       <VoiceId>&lt;audio:VCT_002_059_015&gt;</VoiceId>
       <JapaneseText>ため息つくと、
 幸せが逃げちゃうよ？</JapaneseText>
-      <EnglishText>Such a happy-sounding sigh you both have!</EnglishText>
+      <EnglishText>You know the happiness leaves the
+room when you sigh, don't you?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>14</Id>
@@ -185,7 +192,8 @@
       <PointerOffset>44544</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_059_016&gt;</VoiceId>
       <JapaneseText>誰だよ、ため息つかせてんのは……</JapaneseText>
-      <EnglishText>Who are you? Who can think a sigh can be happy..!?</EnglishText>
+      <EnglishText>And who's making
+us sigh, huh...?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>15</Id>
