@@ -8,7 +8,7 @@
       <EnglishText>&lt;Rondoline&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43644</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43748,44184,44316,44456</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44028,44588</PointerOffset>
@@ -32,7 +32,7 @@
       <EnglishText>Ethos</EnglishText>
       <Notes/>
       <Id>4</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -42,7 +42,8 @@
       <VoiceId>&lt;audio:VCT_003_104_001&gt;</VoiceId>
       <JapaneseText>そっか、だから双子ちゃんは
 魔法が使えたんだね</JapaneseText>
-      <EnglishText>Oh yeah! So THAT is why you twins can use magic!</EnglishText>
+      <EnglishText>Oh, so that's why the
+twins can use magic.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -52,7 +53,7 @@
       <PointerOffset>43648</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_104_002&gt;</VoiceId>
       <JapaneseText>どうしたの、&lt;Rody&gt;、突然</JapaneseText>
-      <EnglishText>What do you mean so suddenly, &lt;Rody&gt;?</EnglishText>
+      <EnglishText>What do you mean, &lt;Rody&gt;?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -63,7 +64,8 @@
       <VoiceId>&lt;audio:VCT_003_104_003&gt;</VoiceId>
       <JapaneseText>オレらが魔法を使えるのは、
 『なりきり士』だからだよ</JapaneseText>
-      <EnglishText>We can use magic because of the Roleplayer power.</EnglishText>
+      <EnglishText>We can use magic
+'cause we're "Roleplayers."</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>3</Id>
@@ -73,7 +75,8 @@
       <PointerOffset>43840</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_104_004&gt;</VoiceId>
       <JapaneseText>この地上でマナを紡げるのはエルフだけ</JapaneseText>
-      <EnglishText>Only elves are able to control the world's Mana.</EnglishText>
+      <EnglishText>No, elves are the only ones in
+the world who can use magic.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>4</Id>
@@ -84,7 +87,8 @@
       <VoiceId>&lt;audio:VCT_003_104_005&gt;</VoiceId>
       <JapaneseText>『なりきり士』でも、エルフが
 生まれつき持ってる力まではマネできない</JapaneseText>
-      <EnglishText>You may be a Roleplayer but that sort of talent is a birthright and near impossible to imitate.</EnglishText>
+      <EnglishText>Even if you're a "Roleplayer," that alone wouldn't
+enable you to use the power of elven birthright.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -94,7 +98,7 @@
       <PointerOffset>44032</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_104_006&gt;</VoiceId>
       <JapaneseText>それじゃあなんで？</JapaneseText>
-      <EnglishText>So how come?</EnglishText>
+      <EnglishText>Then, why?</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>6</Id>
@@ -104,7 +108,8 @@
       <PointerOffset>44120</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_104_007&gt;</VoiceId>
       <JapaneseText>君たちがデリス・カーラーン人だから</JapaneseText>
-      <EnglishText>Well, you are people from Derris Kharlan.</EnglishText>
+      <EnglishText>It's because they're
+from Derris-Kharlan.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>7</Id>
@@ -114,7 +119,7 @@
       <PointerOffset>44188</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_104_008&gt;</VoiceId>
       <JapaneseText>そ、そんな……</JapaneseText>
-      <EnglishText>Th-that's...</EnglishText>
+      <EnglishText>W-Wait, that's...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>8</Id>
@@ -124,7 +129,7 @@
       <PointerOffset>44248</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_104_009&gt;</VoiceId>
       <JapaneseText>残念？</JapaneseText>
-      <EnglishText>Deplorable?</EnglishText>
+      <EnglishText>Disappointed?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>9</Id>
@@ -134,7 +139,8 @@
       <PointerOffset>44320</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_104_010&gt;</VoiceId>
       <JapaneseText>残念とかと違くて……</JapaneseText>
-      <EnglishText>No, I'm not shameful but...</EnglishText>
+      <EnglishText>No, I'm not
+disappointed...</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>10</Id>
@@ -145,7 +151,8 @@
       <VoiceId>&lt;audio:VCT_003_104_011&gt;</VoiceId>
       <JapaneseText>じゃあ、オレの魔法が&lt;Mel&gt;よりもしょぼいのは
 服装の差じゃなくて、もともとなのかっ！？</JapaneseText>
-      <EnglishText>Then you mean...&lt;Mel&gt; is better at using magic than me and it has nothing to do with the clothes!?</EnglishText>
+      <EnglishText>It's just, it's not 'cause of the clothes that my magic's
+weaker than Mel's—she's actually just better than me!?</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>11</Id>
@@ -155,7 +162,8 @@
       <PointerOffset>44524</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_104_012&gt;</VoiceId>
       <JapaneseText>才能の差？</JapaneseText>
-      <EnglishText>Maybe a talent difference?</EnglishText>
+      <EnglishText>It's a difference
+in talent, I guess?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
@@ -165,7 +173,8 @@
       <PointerOffset>44592</PointerOffset>
       <VoiceId>&lt;audio:VCT_003_104_013&gt;</VoiceId>
       <JapaneseText>才能の差だよね</JapaneseText>
-      <EnglishText>Yeah definitely a difference in talent!</EnglishText>
+      <EnglishText>Yup, it's just a
+difference in talent.</EnglishText>
       <Notes/>
       <SpeakerId>4</SpeakerId>
       <Id>13</Id>

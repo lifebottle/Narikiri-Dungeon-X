@@ -8,7 +8,7 @@
       <EnglishText>&lt;Chester&gt;</EnglishText>
       <Notes/>
       <Id>1</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>43516,43756,44088,44644</PointerOffset>
@@ -16,7 +16,7 @@
       <EnglishText>&lt;Mel&gt;</EnglishText>
       <Notes/>
       <Id>2</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
     <Entry>
       <PointerOffset>44248</PointerOffset>
@@ -24,7 +24,7 @@
       <EnglishText>&lt;Dio&gt;</EnglishText>
       <Notes/>
       <Id>3</Id>
-      <Status>Done</Status>
+      <Status>Editing</Status>
     </Entry>
   </Speakers>
   <Strings>
@@ -33,7 +33,8 @@
       <PointerOffset>43444</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_057_001&gt;</VoiceId>
       <JapaneseText>あいつら……元気かな……</JapaneseText>
-      <EnglishText>I hope they're doing okay...</EnglishText>
+      <EnglishText>I wonder if they're
+doing alright...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>1</Id>
@@ -43,7 +44,7 @@
       <PointerOffset>43520</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_057_002&gt;</VoiceId>
       <JapaneseText>子どもたちのことですか？</JapaneseText>
-      <EnglishText>You mean the kids back in Totus?</EnglishText>
+      <EnglishText>You mean the kids?</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>2</Id>
@@ -54,7 +55,8 @@
       <VoiceId>&lt;audio:VCT_002_057_003&gt;</VoiceId>
       <JapaneseText>あ、ああ……おかしいだろ。
 まだここへ来てそれほど経ってないのに</JapaneseText>
-      <EnglishText>Ah, yeah...Sorry. Weird thing to think out loud after I've come all the way here, eh?</EnglishText>
+      <EnglishText>Y-Yeah... It's pretty weird, huh? It's not
+like I've been gone all that long, but...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>3</Id>
@@ -65,7 +67,8 @@
       <VoiceId>&lt;audio:VCT_002_057_004&gt;</VoiceId>
       <JapaneseText>いえ……大切な人と離れ離れだと、
 ほんのひと時でも、とても長く感じますね</JapaneseText>
-      <EnglishText>No, it's okay. It's just normal to feel a little sad when we aren't close to loved ones.</EnglishText>
+      <EnglishText>No... When you're apart from those you care
+about, even a short time can feel incredibly long.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>4</Id>
@@ -76,7 +79,8 @@
       <VoiceId>&lt;audio:VCT_002_057_005&gt;</VoiceId>
       <JapaneseText>そうだな……
 あいつらを引き取って１年半か……</JapaneseText>
-      <EnglishText>Yeah...It's been a year and a half since I've started taking care of them.</EnglishText>
+      <EnglishText>Yeah... It's been a year and
+a half since I took them in...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>5</Id>
@@ -87,7 +91,8 @@
       <VoiceId>&lt;audio:VCT_002_057_006&gt;</VoiceId>
       <JapaneseText>長いようで、短かく感じたのも、
 あいつらとずっと一緒だったからか</JapaneseText>
-      <EnglishText>It's been a long time, but it really feels otherwise. All four of us have been always together.</EnglishText>
+      <EnglishText>It's been a long time, but it's felt so short.
+I guess that's because I spent it with them...?</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>6</Id>
@@ -98,7 +103,8 @@
       <VoiceId>&lt;audio:VCT_002_057_007&gt;</VoiceId>
       <JapaneseText>たった１年半であの子たち、
 あんなに&lt;Chester&gt;さんを慕ってるんですね</JapaneseText>
-      <EnglishText>Though it may not seem like much, I'm sure that year and half they got to know Mister &lt;Chester&gt; very well!</EnglishText>
+      <EnglishText>It's only been a year and a half, but they
+already have a great deal of love for you.</EnglishText>
       <Notes/>
       <SpeakerId>2</SpeakerId>
       <Id>7</Id>
@@ -108,7 +114,8 @@
       <PointerOffset>44172</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_057_008&gt;</VoiceId>
       <JapaneseText>ガキのお守りは慣れてるからな</JapaneseText>
-      <EnglishText>I grew used to babysit those brats!</EnglishText>
+      <EnglishText>Probably 'cause I'm used
+to looking after kids.</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>8</Id>
@@ -118,7 +125,8 @@
       <PointerOffset>44252</PointerOffset>
       <VoiceId>&lt;audio:VCT_002_057_009&gt;</VoiceId>
       <JapaneseText>&lt;Chester&gt;の頭がガキなんだろ？</JapaneseText>
-      <EnglishText>Maybe you've become a brat yourself!?</EnglishText>
+      <EnglishText>Nah, it's probably 'cause you're
+pretty immature, yourself.</EnglishText>
       <Notes/>
       <SpeakerId>3</SpeakerId>
       <Id>9</Id>
@@ -129,7 +137,8 @@
       <VoiceId>&lt;audio:VCT_002_057_010&gt;</VoiceId>
       <JapaneseText>おい！　こら！　自分で思ってても、
 人に言われるとむかつくぞ、それは！</JapaneseText>
-      <EnglishText>Hey! Don't jump into conversations like that or you'll really know me!</EnglishText>
+      <EnglishText>Hey! You can't just say that! Even if people
+agree with you, you'll still piss them off!</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>10</Id>
@@ -140,7 +149,8 @@
       <VoiceId>&lt;audio:VCT_002_057_011&gt;</VoiceId>
       <JapaneseText>でも、そっか……
 ……アミィがいなくなってそんなに……</JapaneseText>
-      <EnglishText>Oh...yeah...It's also about the time Ami's passed away...</EnglishText>
+      <EnglishText>...But, huh... It's already been
+that long since Ami died...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>11</Id>
@@ -151,7 +161,8 @@
       <VoiceId>&lt;audio:VCT_002_057_012&gt;</VoiceId>
       <JapaneseText>あいつがいない時間は
 １年にも１０年にも感じた……</JapaneseText>
-      <EnglishText>One year... ten years...It'll always feel the same without her...</EnglishText>
+      <EnglishText>Every year without her
+drags by like ten...</EnglishText>
       <Notes/>
       <SpeakerId>1</SpeakerId>
       <Id>12</Id>
